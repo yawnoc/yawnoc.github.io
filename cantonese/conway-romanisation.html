@@ -1,0 +1,1937 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="description" content="Conway's Romanisation for Cantonese, with English approximations and a diagram of the nine tones.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/resources/styles/main.min.css">
+<script defer src="/resources/scripts/rendering.min.js"></script>
+<title>Conway's Romanisation for Cantonese | Conway's site</title>
+<style>.alternatives-separator {
+font-weight: bold;
+margin-left: 1em;
+}
+.approximation-part,
+.conway-romanisation,
+.tone {
+color: darkviolet;
+font-weight: bold;
+}
+.wrong {
+color: #e00;
+}
+.example {
+border: 2px solid black;
+font-size: large;
+padding: 0.3em 0.4em;
+}</style>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="/" title="Home page">Home</a>
+</li>
+<li><a href="#" title="Jump back to top">Top</a>
+</li>
+<li><a href="#examples" title="Examples">Examples</a>
+</li>
+<li><a href="#cite" title="Cite this page">Cite</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1>Conway's Romanisation for Cantonese</h1>
+<div class="page-properties">
+First created: 2019-04-07<br>
+Last modified: 2020-04-19<br>
+See also:
+<a href="https://github.com/yawnoc/cantonese-diceware">[Python] Cantonese Diceware (GitHub)</a>
+</div>
+<nav>
+<ul>
+<li><a href="#initials">Initials</a>
+</li>
+<li><a href="#ts-vs-ch">{ts&nbsp;vs&nbsp;ch}</a>
+</li>
+<li><a href="#finals">Finals</a>
+</li>
+<li><a href="#tones">Tones</a>
+</li>
+<li><a href="#compact-tables">Compact tables</a>
+</li>
+<li><a href="#examples">Examples</a>
+</li>
+</ul>
+</nav>
+<p>
+This is my custom romanisation system for Cantonese,
+as spoken and perceived by me.
+</p>
+<h2 id="initials"><a class="permalink" href="#initials" aria-label="Permalink"></a>Initials (<span lang="zh-Hant">聲</span>)</h2>
+<nav>
+<ul>
+<li><a href="#labial">(p p' m f)</a>
+</li>
+<li><a href="#plain-dental-alveolar">(t t' n l)</a>
+</li>
+<li><a href="#velar-glottal">(k k' ng h kw k'w w)</a>
+</li>
+<li><a href="#sibilant-palatal">(ts ch ts' ch' s sh y)</a>
+</li>
+</ul>
+</nav>
+<h3 id="labial"><a class="permalink" href="#labial" aria-label="Permalink"></a>Labial</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Initials (<span lang="zh-Hant">聲</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">巴</span></td>
+<td>[p]</td>
+<td><span class="conway-romanisation">p</span></td>
+<td>b</td>
+<td>b</td>
+<td>b</td>
+<td>[<span class="approximation-part">p</span> as in s<span class="approximation-part">p</span>y]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">怕</span></td>
+<td>[pʰ]</td>
+<td><span class="conway-romanisation">p'</span></td>
+<td>p</td>
+<td>p</td>
+<td>p</td>
+<td>[<span class="approximation-part">p</span> as in <span class="approximation-part">p</span>ie]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">媽</span></td>
+<td>[m]</td>
+<td><span class="conway-romanisation">m</span></td>
+<td>m</td>
+<td>m</td>
+<td>m</td>
+<td>[<span class="approximation-part">m</span> as in <span class="approximation-part">m</span>y]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">花</span></td>
+<td>[f]</td>
+<td><span class="conway-romanisation">f</span></td>
+<td>f</td>
+<td>f</td>
+<td>f</td>
+<td>[<span class="approximation-part">f</span> as in <span class="approximation-part">f</span>ee]</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="plain-dental-alveolar"><a class="permalink" href="#plain-dental-alveolar" aria-label="Permalink"></a>Plain dental/alveolar</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Initials (<span lang="zh-Hant">聲</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">打</span></td>
+<td>[t]</td>
+<td><span class="conway-romanisation">t</span></td>
+<td>d</td>
+<td>d</td>
+<td>d</td>
+<td>[<span class="approximation-part">t</span> as in s<span class="approximation-part">t</span>y]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">他</span></td>
+<td>[tʰ]</td>
+<td><span class="conway-romanisation">t'</span></td>
+<td>t</td>
+<td>t</td>
+<td>t</td>
+<td>[<span class="approximation-part">t</span> as in <span class="approximation-part">t</span>ie], in Received Pronunciation</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">那</span></td>
+<td>[n]</td>
+<td><span class="conway-romanisation">n</span></td>
+<td>n</td>
+<td>n</td>
+<td>n</td>
+<td>[<span class="approximation-part">n</span> as in <span class="approximation-part">n</span>igh]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">啦</span></td>
+<td>[l]</td>
+<td><span class="conway-romanisation">l</span></td>
+<td>l</td>
+<td>l</td>
+<td>l</td>
+<td>[<span class="approximation-part">l</span> as in <span class="approximation-part">l</span>ie]</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="velar-glottal"><a class="permalink" href="#velar-glottal" aria-label="Permalink"></a>Velar and glottal</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Initials (<span lang="zh-Hant">聲</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">家</span></td>
+<td>[k]</td>
+<td><span class="conway-romanisation">k</span></td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>[<span class="approximation-part">k</span> as in s<span class="approximation-part">k</span>y]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">卡</span></td>
+<td>[kʰ]</td>
+<td><span class="conway-romanisation">k'</span></td>
+<td>k</td>
+<td>k</td>
+<td>k</td>
+<td>[<span class="approximation-part">k</span> as in <span class="approximation-part">k</span>ey]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">牙</span></td>
+<td>[ŋ]</td>
+<td><span class="conway-romanisation">ng</span></td>
+<td>ng</td>
+<td>ng</td>
+<td>ng</td>
+<td>[<span class="approximation-part">ng</span> as in si<span class="approximation-part">ng</span>er]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">蝦</span></td>
+<td>[h]</td>
+<td><span class="conway-romanisation">h</span></td>
+<td>h</td>
+<td>h</td>
+<td>h</td>
+<td>[<span class="approximation-part">h</span> as in <span class="approximation-part">h</span>e]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">瓜</span></td>
+<td>[kʷ]</td>
+<td><span class="conway-romanisation">kw</span></td>
+<td>gw</td>
+<td>gw</td>
+<td>gw</td>
+<td>[<span class="approximation-part">qu</span> as in s<span class="approximation-part">qu</span>eeze]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">誇</span></td>
+<td>[kʷʰ]</td>
+<td><span class="conway-romanisation">k'w</span></td>
+<td>kw</td>
+<td>kw</td>
+<td>kw</td>
+<td>[<span class="approximation-part">qu</span> as in <span class="approximation-part">qu</span>een]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">華</span></td>
+<td>[w]</td>
+<td><span class="conway-romanisation">w</span></td>
+<td>w</td>
+<td>w</td>
+<td>w</td>
+<td>[<span class="approximation-part">w</span> as in <span class="approximation-part">w</span>e]</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="sibilant-palatal"><a class="permalink" href="#sibilant-palatal" aria-label="Permalink"></a>Sibilant dental/alveolar and palatal</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Initials (<span lang="zh-Hant">聲</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">將</span></td>
+<td>[ts]</td>
+<td><span class="conway-romanisation">ts</span></td>
+<td rowspan="2">z</td>
+<td rowspan="2">j</td>
+<td rowspan="2">j</td>
+<td>[<span class="approximation-part">ts</span> as in lis<span class="approximation-part">ts</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">張</span></td>
+<td>[tɕ]</td>
+<td><span class="conway-romanisation">ch</span></td>
+<td>halfway between [<span class="approximation-part">ts</span> as in lis<span class="approximation-part">ts</span>]
+and [<span class="approximation-part">t</span> as in s<span class="approximation-part">t</span>upid],
+with the latter in a sufficiently broad Australian accent
+for which the T is sounded like [<span class="approximation-part">ch</span> as in <span class="approximation-part">ch</span>ew]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">槍</span></td>
+<td>[tsʰ]</td>
+<td><span class="conway-romanisation">ts'</span></td>
+<td rowspan="2">c</td>
+<td rowspan="2">ch</td>
+<td rowspan="2">ch</td>
+<td>[<span class="approximation-part">ts</span> as in hi<span class="approximation-part">ts</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">昌</span></td>
+<td>[tɕʰ]</td>
+<td><span class="conway-romanisation">ch'</span></td>
+<td>halfway between [<span class="approximation-part">ts</span> as in hi<span class="approximation-part">ts</span>]
+and [<span class="approximation-part">ch</span> as in hit<span class="approximation-part">ch</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">相</span></td>
+<td>[s]</td>
+<td><span class="conway-romanisation">s</span></td>
+<td rowspan="2">s</td>
+<td rowspan="2">s</td>
+<td rowspan="2">s</td>
+<td>[<span class="approximation-part">s</span> as in <span class="approximation-part">s</span>igh]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">傷</span></td>
+<td>[ɕ]</td>
+<td><span class="conway-romanisation">sh</span></td>
+<td>halfway between [<span class="approximation-part">s</span> as in <span class="approximation-part">s</span>igh]
+and [<span class="approximation-part">sh</span> as in <span class="approximation-part">sh</span>y]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">也</span></td>
+<td>[j]</td>
+<td><span class="conway-romanisation">y</span></td>
+<td>j</td>
+<td>y</td>
+<td>y</td>
+<td>[<span class="approximation-part">y</span> as in <span class="approximation-part">y</span>e]</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id="ts-vs-ch"><a class="permalink" href="#ts-vs-ch" aria-label="Permalink"></a>{<span class="pre-merger initial">ts</span> vs <span class="pre-merger initial">ch</span>}, {<span class="pre-merger initial">ts'</span> vs <span class="pre-merger initial">ch'</span>}, and {<span class="pre-merger initial">s</span> vs <span class="pre-merger initial">sh</span>}</h4>
+<p>
+Modern Cantonese has merged the initials in the pairs
+{<span lang="zh-Hant">將</span>&nbsp;<span class="pre-merger initial">ts</span>œng vs <span lang="zh-Hant">張</span>&nbsp;<span class="pre-merger initial">ch</span>œng},
+{<span lang="zh-Hant">槍</span>&nbsp;<span class="pre-merger initial">ts'</span>œng vs <span lang="zh-Hant">昌</span>&nbsp;<span class="pre-merger initial">ch'</span>œng} and
+{<span lang="zh-Hant">相</span>&nbsp;<span class="pre-merger initial">s</span>œng vs <span lang="zh-Hant">傷</span>&nbsp;<span class="pre-merger initial">sh</span>œng}.
+As noted by <a href="https://en.wikipedia.org/wiki/Samuel_Wells_Williams">Samuel Wells Williams</a>
+in <a href="https://archive.org/details/tonicdictionaryo00will/page/n25/mode/1up"><span lang="zh-Hant">《英華分韻撮要》</span></a> (1856, or <span lang="zh-Hant">咸豐丙辰年</span>):
+</p>
+<blockquote>
+The initials <i>ch</i> and <i>ts</i> are constantly confounded,
+and some persons are absolutely unable to detect the difference,
+more frequently calling the words under <i>ts</i> as <i>ch</i>, than contrawise.
+</blockquote>
+<p>
+The pre-merger distinctions are remnant only in most romanisations
+of district names in Hong Kong, e.g.
+</p>
+<ul>
+<li>{<span class="pre-merger initial">ts</span>&nbsp;vs&nbsp;<span class="pre-merger initial">ch</span>}:
+<span lang="zh-Hant">將軍澳</span> (<span class="pre-merger initial">Ts</span>eung Kwan O) and <span lang="zh-Hant">荔枝角</span> (Lai <span class="pre-merger initial">Ch</span>i Kok),
+</li>
+<li>{<span class="pre-merger initial">ts'</span>&nbsp;vs&nbsp;<span class="pre-merger initial">ch'</span>}:
+<span lang="zh-Hant">荃灣</span> (<span class="pre-merger initial">Ts</span>uen Wan) and <span lang="zh-Hant">東涌</span> (Tung <span class="pre-merger initial">Ch</span>ung), and
+</li>
+<li>{<span class="pre-merger initial">s</span>&nbsp;vs&nbsp;<span class="pre-merger initial">sh</span>}:
+<span lang="zh-Hant">西灣河</span> (<span class="pre-merger initial">S</span>ai Wan Ho) and <span lang="zh-Hant">筲箕灣</span> (<span class="pre-merger initial">Sh</span>au Kei Wan).
+</li>
+</ul>
+<p>
+Not all district romanisations
+follow the pre-merger consonants correctly though,
+e.g.&nbsp;<span lang="zh-Hant">灣仔</span> should really be Wan <span class="pre-merger initial">Ts</span>ai (not Wan <span class="pre-merger initial">Ch</span>ai),
+and <span lang="zh-Hant">彩虹</span> should be <span class="pre-merger initial">Ts</span>oi Hung (not <span class="pre-merger initial">Ch</span>oi Hung).
+</p>
+<p>
+Now despite the merging of those pairs of initials,
+I perceive a tendency for people to favour different consonants
+of the merger depending on the vowel which follows:
+</p>
+<div class="centred-block">
+<div class="overflowing">
+<table>
+<tr>
+<th>Following vowel</th>
+<td>[aː]</td>
+<td>[ɐ]</td>
+<td>[ɛː]</td>
+<td>[e]</td>
+<td>[iː]</td>
+<td>[ɔː]</td>
+<td>[o]</td>
+<td>[uː]</td>
+<td>[œ]</td>
+<td>[ɵ]</td>
+<td>[yː]</td>
+</tr>
+<tr>
+<th rowspan="3">Favoured post-merger initial</th>
+<td class="merged-cell" colspan="5"><span class="post-merger initial">ts</span></td>
+<td class="merged-cell" colspan="6"><span class="post-merger initial">ch</span></td>
+</tr>
+<tr>
+<td class="merged-cell" colspan="5"><span class="post-merger initial">ts'</span></td>
+<td class="merged-cell" colspan="6"><span class="post-merger initial">ch'</span></td>
+</tr>
+<tr>
+<td class="merged-cell" colspan="10"><span class="post-merger initial">s</span></td>
+<td class="merged-cell"><span class="post-merger initial">sh</span></td>
+</tr>
+</table>
+</div>
+</div>
+<p>
+The {<span class="post-merger initial">s</span>&nbsp;vs&nbsp;<span class="post-merger initial">sh</span>} tendency is the strongest.
+I have <em>never</em> heard anyone pronounce <span lang="zh-Hant">書</span>, <span class="pre-merger initial">sh</span>ü&nbsp;/&nbsp;[<span class="pre-merger initial">ɕ</span>yː],
+as <span class="wrong initial">s</span>ü&nbsp;/&nbsp;[<span class="wrong initial">s</span>yː] (which is both wrong and not favoured),
+and yet the vast majority of people will pronounce <span lang="zh-Hant">石</span>, <span class="pre-merger initial">sh</span>ek&nbsp;/&nbsp;[<span class="pre-merger initial">ɕ</span>ɛːk̚],
+as <span class="post-merger initial">s</span>ek&nbsp;/&nbsp;[<span class="post-merger initial">s</span>ɛːk̚] (which is wrong but favoured),
+myself included.
+The {<span class="post-merger initial">ts</span>&nbsp;vs&nbsp;<span class="post-merger initial">ch</span>} and {<span class="post-merger initial">ts'</span>&nbsp;vs&nbsp;<span class="post-merger initial">ch'</span>} tendencies are not as strong,
+but still prevalent.
+</p>
+<div class="important">
+I have decided for historical purposes
+to preserve the pre-merger distinctions in my romanisation system,
+using the <span class="pre-merger initial">pre-merger initial</span>
+according to <a href="https://ytenx.org/pyonh/"><span lang="zh-Hant">《分韻撮要》</span></a>.
+</div>
+<div class="important">
+However, unless you want to sound really weird,
+<strong>I still suggest pronouncing words out loud
+using the appropriate <span class="post-merger initial">favoured post-merger initial</span></strong>
+listed in the table above,
+rather than the <span class="pre-merger initial">pre-merger initial</span>.
+For example, <span class="post-merger initial">s</span>aang <span class="post-merger initial">ch'</span>oi rather than <span class="pre-merger initial">sh</span>aang <span class="pre-merger initial">ts'</span>oi for <span lang="zh-Hant">生菜</span>.
+</div>
+<h2 id="finals"><a class="permalink" href="#finals" aria-label="Permalink"></a>Finals (<span lang="zh-Hant">韻</span>)</h2>
+<nav>
+<ul>
+<li><a href="#aa">(aa)</a>
+</li>
+<li><a href="#a">(a)</a>
+</li>
+<li><a href="#e">(e)</a>
+</li>
+<li><a href="#ee-i">(ee i)</a>
+</li>
+<li><a href="#or-o">(or o)</a>
+</li>
+<li><a href="#oo-u">(oo u)</a>
+</li>
+<li><a href="#oe">(œ)</a>
+</li>
+<li><a href="#_">(_)</a>
+</li>
+<li><a href="#ue">(ü)</a>
+</li>
+<li><a href="#m-ng">(m ng)</a>
+</li>
+</ul>
+</nav>
+<p>
+If typesetting of the characters <span class="conway-romanisation">œ</span>&nbsp;<code>U+0153</code>
+and <span class="conway-romanisation">ü</span>&nbsp;<code>U+00FC</code> is inconvenient,
+you may use the ASCII-only substitutes <span class="conway-romanisation">oe</span> and <span class="conway-romanisation">ue</span> respectively.
+</p>
+<h3 id="aa"><a class="permalink" href="#aa" aria-label="Permalink"></a>aː</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">叉</span></td>
+<td>[aː]</td>
+<td><span class="conway-romanisation">aa</span></td>
+<td>aa</td>
+<td>a</td>
+<td>a</td>
+<td>[<span class="approximation-part">ar</span> as in c<span class="approximation-part">ar</span>],
+in a general Australian accent with strictly no R consonant</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">釵</span></td>
+<td>[aːi]</td>
+<td><span class="conway-romanisation">aai</span></td>
+<td>aai</td>
+<td>aai</td>
+<td>aai</td>
+<td>[<span class="approximation-part">y</span> as in m<span class="approximation-part">y</span>], in Received Pronunciation</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">抄</span></td>
+<td>[aːu]</td>
+<td><span class="conway-romanisation">aau</span></td>
+<td>aau</td>
+<td>aau</td>
+<td>aau</td>
+<td>[<span class="approximation-part">ow</span> as in c<span class="approximation-part">ow</span>], in Received Pronunciation</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">參</span></td>
+<td>[aːm]</td>
+<td><span class="conway-romanisation">aam</span></td>
+<td>aam</td>
+<td>aam</td>
+<td>aam</td>
+<td>[<span class="approximation-part">arm</span> as in <span class="approximation-part">arm</span>],
+in a general Australian accent with strictly no R consonant</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">餐</span></td>
+<td>[aːn]</td>
+<td><span class="conway-romanisation">aan</span></td>
+<td>aan</td>
+<td>aan</td>
+<td>aan</td>
+<td>[<span class="approximation-part">arn</span> as in b<span class="approximation-part">arn</span>],
+in a general Australian accent with strictly no R consonant</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">撐</span></td>
+<td>[aːŋ]</td>
+<td><span class="conway-romanisation">aang</span></td>
+<td>aang</td>
+<td>aang</td>
+<td>aang</td>
+<td>[<span class="approximation-part">ar</span> as in c<span class="approximation-part">ar</span>],
+in a general Australian accent with strictly no R consonant,
+followed by [<span class="approximation-part">ng</span> as in si<span class="approximation-part">ng</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">插</span></td>
+<td>[aːp̚]</td>
+<td><span class="conway-romanisation">aap</span></td>
+<td>aap</td>
+<td>aap</td>
+<td>aap</td>
+<td>[<span class="approximation-part">ar</span> as in c<span class="approximation-part">ar</span>],
+in a general Australian accent with strictly no R consonant,
+followed by [<span class="approximation-part">p</span> as in co<span class="approximation-part">p</span>ter] with no audibly released P</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">察</span></td>
+<td>[aːt̚]</td>
+<td><span class="conway-romanisation">aat</span></td>
+<td>aat</td>
+<td>aat</td>
+<td>aat</td>
+<td>[<span class="approximation-part">ar</span> as in c<span class="approximation-part">ar</span>],
+in a general Australian accent with strictly no R consonant,
+followed by [<span class="approximation-part">t</span> as in a<span class="approximation-part">t</span>las]
+with no audibly released T
+<div class="alternatives-separator">OR</div>
+[<span class="approximation-part">art</span> as in c<span class="approximation-part">art</span>wheel] with no audibly released T,
+in a general Australian accent with strictly no R consonant</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">拆</span></td>
+<td>[aːk̚]</td>
+<td><span class="conway-romanisation">aak</span></td>
+<td>aak</td>
+<td>aak</td>
+<td>aak</td>
+<td>[<span class="approximation-part">ar</span> as in c<span class="approximation-part">ar</span>],
+in a general Australian accent with strictly no R consonant,
+followed by [<span class="approximation-part">c</span> as in do<span class="approximation-part">c</span>tor]
+with no audibly released C
+<div class="alternatives-separator">OR</div>
+[<span class="approximation-part">arc</span> as in <span class="approximation-part">arc</span>tangent] with no audibly released C,
+in a general Australian accent with strictly no R consonant</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="a"><a class="permalink" href="#a" aria-label="Permalink"></a>ɐ</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">仔</span></td>
+<td>[ɐi]</td>
+<td><span class="conway-romanisation">ai</span></td>
+<td>ai</td>
+<td>ai</td>
+<td>ai</td>
+<td>[<span class="approximation-part">ay</span> as in b<span class="approximation-part">ay</span>],
+in a general, perhaps slightly broad Australian accent,
+but with shorter A</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">走</span></td>
+<td>[ɐu]</td>
+<td><span class="conway-romanisation">au</span></td>
+<td>au</td>
+<td>au</td>
+<td>au</td>
+<td>[<span class="approximation-part">u</span> as in c<span class="approximation-part">u</span>t],
+in a general Australian accent,
+followed by [<span class="approximation-part">u</span> as in p<span class="approximation-part">u</span>ll],
+in a general Australian accent</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">針</span></td>
+<td>[ɐm]</td>
+<td><span class="conway-romanisation">am</span></td>
+<td>am</td>
+<td>am</td>
+<td>am</td>
+<td>[<span class="approximation-part">um</span> as in s<span class="approximation-part">um</span>], in a general Australian accent</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">真</span></td>
+<td>[ɐn]</td>
+<td><span class="conway-romanisation">an</span></td>
+<td>an</td>
+<td>an</td>
+<td>an</td>
+<td>[<span class="approximation-part">un</span> as in s<span class="approximation-part">un</span>], in a general Australian accent</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">增</span></td>
+<td>[ɐŋ]</td>
+<td><span class="conway-romanisation">ang</span></td>
+<td>ang</td>
+<td>ang</td>
+<td>ang</td>
+<td>[<span class="approximation-part">ung</span> as in s<span class="approximation-part">ung</span>], in a general Australian accent</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">汁</span></td>
+<td>[ɐp̚]</td>
+<td><span class="conway-romanisation">ap</span></td>
+<td>ap</td>
+<td>ap</td>
+<td>ap</td>
+<td>[<span class="approximation-part">u</span> as in c<span class="approximation-part">u</span>t], in a general Australian accent,
+followed by [<span class="approximation-part">p</span> as in co<span class="approximation-part">p</span>ter] with no audibly released P</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">疾</span></td>
+<td>[ɐt̚]</td>
+<td><span class="conway-romanisation">at</span></td>
+<td>at</td>
+<td>at</td>
+<td>at</td>
+<td>[<span class="approximation-part">u</span> as in c<span class="approximation-part">u</span>t], in a general Australian accent,
+followed by [<span class="approximation-part">t</span> as in a<span class="approximation-part">t</span>las]
+with no audibly released T
+<div class="alternatives-separator">OR</div>
+[<span class="approximation-part">ut</span> as in b<span class="approximation-part">ut</span>ler] with no audibly released T,
+in a general Australian accent</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">仄</span></td>
+<td>[ɐk̚]</td>
+<td><span class="conway-romanisation">ak</span></td>
+<td>ak</td>
+<td>ak</td>
+<td>ak</td>
+<td>[<span class="approximation-part">u</span> as in c<span class="approximation-part">u</span>t], in a general Australian accent,
+followed by [<span class="approximation-part">c</span> as in do<span class="approximation-part">c</span>tor] with no audibly released C</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="e"><a class="permalink" href="#e" aria-label="Permalink"></a>ɛː and e</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">爹</span></td>
+<td>[ɛː]</td>
+<td><span class="conway-romanisation">e</span></td>
+<td>e</td>
+<td>e</td>
+<td>e</td>
+<td>[<span class="approximation-part">e</span> as in y<span class="approximation-part">e</span>ah],
+in a general Australian accent, but slightly longer</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">地</span></td>
+<td>[ei]</td>
+<td><span class="conway-romanisation">ei</span></td>
+<td>ei</td>
+<td>ei</td>
+<td>ei</td>
+<td>[<span class="approximation-part">ay</span> as in b<span class="approximation-part">ay</span>], in Received Pronunciation,
+but with shorter A and longer Y</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">掉</span></td>
+<td>[ɛːu]</td>
+<td><span class="conway-romanisation">eu</span></td>
+<td>eu</td>
+<td></td>
+<td></td>
+<td>[<span class="approximation-part">e</span> as in y<span class="approximation-part">e</span>ah], in a general Australian accent,
+followed by
+[<span class="approximation-part">u</span> as in p<span class="approximation-part">u</span>ll], in a general Australian accent</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">舔</span></td>
+<td>[ɛːm]</td>
+<td><span class="conway-romanisation">em</span></td>
+<td>em</td>
+<td></td>
+<td></td>
+<td>[<span class="approximation-part">em</span> as in h<span class="approximation-part">em</span>], in a general Australian accent,
+but longer</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">贏</span></td>
+<td>[ɛːŋ]</td>
+<td><span class="conway-romanisation">eng</span></td>
+<td>eng</td>
+<td>eng</td>
+<td>eng</td>
+<td>[<span class="approximation-part">e</span> as in y<span class="approximation-part">e</span>ah], in a general Australian accent,
+but slightly longer, followed by [<span class="approximation-part">ng</span> as in si<span class="approximation-part">ng</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">夾</span></td>
+<td>[ɛːp̚]</td>
+<td><span class="conway-romanisation">ep</span></td>
+<td>ep</td>
+<td></td>
+<td></td>
+<td>[<span class="approximation-part">e</span> as in y<span class="approximation-part">e</span>ah], in a general Australian accent,
+but slightly longer, followed by
+[<span class="approximation-part">p</span> as in co<span class="approximation-part">p</span>ter] with no audibly released P
+<div class="alternatives-separator">OR</div>
+[<span class="approximation-part">ep</span> as in s<span class="approximation-part">ep</span>tic] with no audibly released P,
+in a general Australian accent, but longer</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">尺</span></td>
+<td>[ɛːk̚]</td>
+<td><span class="conway-romanisation">ek</span></td>
+<td>ek</td>
+<td>ek</td>
+<td>ek</td>
+<td>[<span class="approximation-part">e</span> as in y<span class="approximation-part">e</span>ah], in a general Australian accent,
+but slightly longer, followed by
+[<span class="approximation-part">c</span> as in do<span class="approximation-part">c</span>tor] with no audibly released C
+<div class="alternatives-separator">OR</div>
+[<span class="approximation-part">ec</span> as in s<span class="approximation-part">ec</span>tor] with no audibly released C,
+in a general Australian accent, but longer</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="ee-i"><a class="permalink" href="#ee-i" aria-label="Permalink"></a>iː and e</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">而</span></td>
+<td>[iː]</td>
+<td><span class="conway-romanisation">ee</span></td>
+<td>i</td>
+<td>i</td>
+<td>i</td>
+<td>[<span class="approximation-part">ee</span> as in b<span class="approximation-part">ee</span>], in Received Pronunciation</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">堯</span></td>
+<td>[iːu]</td>
+<td><span class="conway-romanisation">eeu</span></td>
+<td>iu</td>
+<td>iu</td>
+<td>iu</td>
+<td>[<span class="approximation-part">ee</span> as in b<span class="approximation-part">ee</span>], in Received Pronunciation,
+followed by
+[<span class="approximation-part">u</span> as in p<span class="approximation-part">u</span>ll], in a general Australian accent</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">嚴</span></td>
+<td>[iːm]</td>
+<td><span class="conway-romanisation">eem</span></td>
+<td>im</td>
+<td>im</td>
+<td>im</td>
+<td>[<span class="approximation-part">eem</span> as in s<span class="approximation-part">eem</span>], in Received Pronunciation</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">言</span></td>
+<td>[iːn]</td>
+<td><span class="conway-romanisation">een</span></td>
+<td>in</td>
+<td>in</td>
+<td>in</td>
+<td>[<span class="approximation-part">een</span> as in s<span class="approximation-part">een</span>], in Received Pronunciation</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">形</span></td>
+<td>[eŋ]</td>
+<td><span class="conway-romanisation">ing</span></td>
+<td>ing</td>
+<td>ing</td>
+<td>ing</td>
+<td>halfway between [<span class="approximation-part">i</span> as in t<span class="approximation-part">i</span>n]
+and [<span class="approximation-part">e</span> as in t<span class="approximation-part">e</span>n],
+both in a general Australian accent,
+followed by [<span class="approximation-part">ng</span> as in si<span class="approximation-part">ng</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">葉</span></td>
+<td>[iːp̚]</td>
+<td><span class="conway-romanisation">eep</span></td>
+<td>ip</td>
+<td>ip</td>
+<td>ip</td>
+<td>[<span class="approximation-part">ee</span> as in b<span class="approximation-part">ee</span>], in Received Pronunciation,
+followed by [<span class="approximation-part">p</span> as in co<span class="approximation-part">p</span>ter] with no audibly released P</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">熱</span></td>
+<td>[iːt̚]</td>
+<td><span class="conway-romanisation">eet</span></td>
+<td>it</td>
+<td>it</td>
+<td>it</td>
+<td>[<span class="approximation-part">ee</span> as in b<span class="approximation-part">ee</span>], in Received Pronunciation,
+followed by [<span class="approximation-part">t</span> as in a<span class="approximation-part">t</span>las] with no audibly released T</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">亦</span></td>
+<td>[ek̚]</td>
+<td><span class="conway-romanisation">ik</span></td>
+<td>ik</td>
+<td>ik</td>
+<td>ik</td>
+<td>halfway between [<span class="approximation-part">i</span> as in t<span class="approximation-part">i</span>n]
+and [<span class="approximation-part">e</span> as in t<span class="approximation-part">e</span>n],
+both in a general Australian accent,
+followed by [<span class="approximation-part">c</span> as in do<span class="approximation-part">c</span>tor] with no audibly released C</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="or-o"><a class="permalink" href="#or-o" aria-label="Permalink"></a>ɔː and o</h3>
+<p>
+Cantonese has no R sound.
+The letter R only appears in "<span class="conway-romanisation">or</span>" to represent the vowel [ɔː],
+and is <strong>never</strong> sounded as a consonant.
+</p>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">歌</span></td>
+<td>[ɔː]</td>
+<td><span class="conway-romanisation">or</span></td>
+<td>o</td>
+<td>o</td>
+<td>oh</td>
+<td>[<span class="approximation-part">or</span> as in n<span class="approximation-part">or</span>],
+in a general Australian accent with strictly no R consonant</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">該</span></td>
+<td>[ɔːy]</td>
+<td><span class="conway-romanisation">oi</span></td>
+<td>oi</td>
+<td>oi</td>
+<td>oi</td>
+<td>[<span class="approximation-part">oy</span> as in b<span class="approximation-part">oy</span>], in a general Australian accent,
+but with longer O</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">高</span></td>
+<td>[ou]</td>
+<td><span class="conway-romanisation">ou</span></td>
+<td>ou</td>
+<td>ou</td>
+<td>o</td>
+<td>[<span class="approximation-part">or</span> as in n<span class="approximation-part">or</span>],
+in a general Australian accent with strictly no R consonant,
+but much much shorter,
+followed by
+[<span class="approximation-part">u</span> as in p<span class="approximation-part">u</span>ll], in a general Australian accent</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">干</span></td>
+<td>[ɔːn]</td>
+<td><span class="conway-romanisation">orn</span></td>
+<td>on</td>
+<td>on</td>
+<td>on</td>
+<td>[<span class="approximation-part">orn</span> as in h<span class="approximation-part">orn</span>],
+in a general Australian accent with strictly no R consonant</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">江</span></td>
+<td>[ɔːŋ]</td>
+<td><span class="conway-romanisation">ong</span></td>
+<td>ong</td>
+<td>ong</td>
+<td>ong</td>
+<td>[<span class="approximation-part">ong</span> as in s<span class="approximation-part">ong</span>], in a general Australian accent,
+but longer</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">葛</span></td>
+<td>[ɔːt̚]</td>
+<td><span class="conway-romanisation">ort</span></td>
+<td>ot</td>
+<td>ot</td>
+<td>ot</td>
+<td>[<span class="approximation-part">or</span> as in n<span class="approximation-part">or</span>],
+in a general Australian accent with strictly no R consonant,
+followed by [<span class="approximation-part">t</span> as in a<span class="approximation-part">t</span>las]
+with no audibly released T
+<div class="alternatives-separator">OR</div>
+[<span class="approximation-part">ort</span> as in f<span class="approximation-part">ort</span>let] with no audibly released T,
+in a general Australian accent with strictly no R consonant</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">各</span></td>
+<td>[ɔːk̚]</td>
+<td><span class="conway-romanisation">ok</span></td>
+<td>ok</td>
+<td>ok</td>
+<td>ok</td>
+<td>[<span class="approximation-part">oc</span> as in d<span class="approximation-part">oc</span>tor] with no audibly released C,
+in a general Australian accent, but longer</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="oo-u"><a class="permalink" href="#oo-u" aria-label="Permalink"></a>uː and o</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">呼</span></td>
+<td>[uː]</td>
+<td><span class="conway-romanisation">oo</span></td>
+<td>u</td>
+<td>u</td>
+<td>oo</td>
+<td>[<span class="approximation-part">u</span> as in p<span class="approximation-part">u</span>ll], in a general Australian accent,
+but longer</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">灰</span></td>
+<td>[uːy]</td>
+<td><span class="conway-romanisation">ooi</span></td>
+<td>ui</td>
+<td>ui</td>
+<td>ooi</td>
+<td>[<span class="approximation-part">u</span> as in p<span class="approximation-part">u</span>ll], in a general Australian accent,
+but longer, followed by
+[<span class="approximation-part">y</span> as in bo<span class="approximation-part">y</span>], in a general Australian accent</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">歡</span></td>
+<td>[uːn]</td>
+<td><span class="conway-romanisation">oon</span></td>
+<td>un</td>
+<td>un</td>
+<td>oon</td>
+<td>[<span class="approximation-part">u</span> as in p<span class="approximation-part">u</span>ll], in a general Australian accent,
+but longer, followed by [<span class="approximation-part">n</span> as in si<span class="approximation-part">n</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">風</span></td>
+<td>[oŋ]</td>
+<td><span class="conway-romanisation">ung</span></td>
+<td>ung</td>
+<td>ung</td>
+<td>ung</td>
+<td>[<span class="approximation-part">oo</span> as in t<span class="approximation-part">oo</span>k], in a general Australian accent,
+followed by [<span class="approximation-part">ng</span> as in si<span class="approximation-part">ng</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">闊</span></td>
+<td>[uːt̚]</td>
+<td><span class="conway-romanisation">oot</span></td>
+<td>ut</td>
+<td>ut</td>
+<td>oot</td>
+<td>[<span class="approximation-part">u</span> as in p<span class="approximation-part">u</span>ll], in a general Australian accent,
+but longer,
+followed by [<span class="approximation-part">t</span> as in a<span class="approximation-part">t</span>las] with no audibly released T</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">福</span></td>
+<td>[ok̚]</td>
+<td><span class="conway-romanisation">uk</span></td>
+<td>uk</td>
+<td>uk</td>
+<td>uk</td>
+<td>[<span class="approximation-part">oo</span> as in t<span class="approximation-part">oo</span>k], in a general Australian accent,
+followed by
+[<span class="approximation-part">c</span> as in do<span class="approximation-part">c</span>tor] with no audibly released C
+<div class="alternatives-separator">OR</div>
+[<span class="approximation-part">ook</span> as in b<span class="approximation-part">ook</span>token] with no audibly released K,
+in a general Australian accent</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="oe"><a class="permalink" href="#oe" aria-label="Permalink"></a>œ</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">靴</span></td>
+<td>[œː]</td>
+<td><span class="conway-romanisation">œ</span></td>
+<td>oe</td>
+<td>eu</td>
+<td>euh</td>
+<td>[<span class="approximation-part">ö</span> as in H<span class="approximation-part">ö</span>lle], in German
+<div class="alternatives-separator">OR</div>
+[<span class="approximation-part">eu</span> as in j<span class="approximation-part">eu</span>ne], in French</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">香</span></td>
+<td>[œːŋ]</td>
+<td><span class="conway-romanisation">œng</span></td>
+<td>oeng</td>
+<td>eung</td>
+<td>eung</td>
+<td>[<span class="approximation-part">ö</span> as in H<span class="approximation-part">ö</span>lle], in German,
+followed by [<span class="approximation-part">ng</span> as in si<span class="approximation-part">ng</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">卻</span></td>
+<td>[œːk̚]</td>
+<td><span class="conway-romanisation">œk</span></td>
+<td>oek</td>
+<td>euk</td>
+<td>euk</td>
+<td>[<span class="approximation-part">ö</span> as in H<span class="approximation-part">ö</span>lle], in German,
+followed by [<span class="approximation-part">c</span> as in do<span class="approximation-part">c</span>tor] with no audibly released C</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="_"><a class="permalink" href="#_" aria-label="Permalink"></a>ɵ</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">需</span></td>
+<td>[ɵy]</td>
+<td><span class="conway-romanisation">_ü</span></td>
+<td>eoi</td>
+<td>eui</td>
+<td>ui</td>
+<td>[<span class="approximation-part">ö</span> as in H<span class="approximation-part">ö</span>lle], in German, but extremely short,
+followed by [<span class="approximation-part">ü</span> as in <span class="approximation-part">ü</span>ber], in German</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">詢</span></td>
+<td>[ɵn]</td>
+<td><span class="conway-romanisation">_n</span></td>
+<td>eon</td>
+<td>eun</td>
+<td>un</td>
+<td>[<span class="approximation-part">ö</span> as in H<span class="approximation-part">ö</span>lle], in German, but extremely short,
+followed by [<span class="approximation-part">n</span> as in si<span class="approximation-part">n</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">戌</span></td>
+<td>[ɵt̚]</td>
+<td><span class="conway-romanisation">_t</span></td>
+<td>eot</td>
+<td>eut</td>
+<td>ut</td>
+<td>[<span class="approximation-part">ö</span> as in H<span class="approximation-part">ö</span>lle], in German, but extremely short,
+followed by [<span class="approximation-part">t</span> as in a<span class="approximation-part">t</span>las] with no audibly released T</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="ue"><a class="permalink" href="#ue" aria-label="Permalink"></a>yː</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">遇</span></td>
+<td>[yː]</td>
+<td><span class="conway-romanisation">ü</span></td>
+<td>yu</td>
+<td>yu</td>
+<td>ue</td>
+<td>[<span class="approximation-part">ü</span> as in <span class="approximation-part">ü</span>ber], in German</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">願</span></td>
+<td>[yːn]</td>
+<td><span class="conway-romanisation">ün</span></td>
+<td>yun</td>
+<td>yun</td>
+<td>uen</td>
+<td>[<span class="approximation-part">ü</span> as in <span class="approximation-part">ü</span>ber], in German,
+followed by [<span class="approximation-part">n</span> as in si<span class="approximation-part">n</span>]</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">月</span></td>
+<td>[yːt̚]</td>
+<td><span class="conway-romanisation">üt</span></td>
+<td>yut</td>
+<td>yut</td>
+<td>uet</td>
+<td>[<span class="approximation-part">ü</span> as in <span class="approximation-part">ü</span>ber], in German,
+followed by [<span class="approximation-part">t</span> as in a<span class="approximation-part">t</span>las] with no audibly released T</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="m-ng"><a class="permalink" href="#m-ng" aria-label="Permalink"></a>m̩ and ŋ̍</h3>
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Finals (<span lang="zh-Hant">韻</span>)</th>
+<th>IPA</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+<th>Conway's approximation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">唔</span></td>
+<td>[m̩]</td>
+<td><span class="conway-romanisation">m</span></td>
+<td>m</td>
+<td>m</td>
+<td>m</td>
+<td>[<span class="approximation-part">m</span> as in su<span class="approximation-part">m</span>], but longer</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">吾</span></td>
+<td>[ŋ̍]</td>
+<td><span class="conway-romanisation">ng</span></td>
+<td>ng</td>
+<td>ng</td>
+<td>ng</td>
+<td>[<span class="approximation-part">ng</span> as in si<span class="approximation-part">ng</span>], but longer</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id="tones"><a class="permalink" href="#tones" aria-label="Permalink"></a>Nine tones (<span lang="zh-Hant">九聲</span>) with tone diagram</h2>
+<div class="centred-block">
+<div class="overflowing">
+<table class="no-wrapping">
+<thead>
+<tr>
+<th colspan="3"><span lang="zh-Hant">九聲</span></th>
+<th>IPA&nbsp;(num.)</th>
+<th>Conway</th>
+<th>Jyutping</th>
+<th>Yale</th>
+<th>S.&nbsp;Lau</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">婚</span></td>
+<td>1</td>
+<td><span lang="zh-Hant">陰平</span></td>
+<td>[fɐn˥]&nbsp;(55)</td>
+<td><span class="conway-romanisation">fan1</span></td>
+<td>fan1</td>
+<td>fān</td>
+<td>fan1</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">粉</span></td>
+<td>2</td>
+<td><span lang="zh-Hant">陰上</span></td>
+<td>[fɐn˧˥]&nbsp;(35)</td>
+<td><span class="conway-romanisation">fan2</span></td>
+<td>fan2</td>
+<td>fán</td>
+<td>fan2</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">訓</span></td>
+<td>3</td>
+<td><span lang="zh-Hant">陰去</span></td>
+<td>[fɐn˧]&nbsp;(33)</td>
+<td><span class="conway-romanisation">fan3</span></td>
+<td>fan3</td>
+<td>fan</td>
+<td>fan3</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">焚</span></td>
+<td>4</td>
+<td><span lang="zh-Hant">陽平</span></td>
+<td>[fɐn˩]&nbsp;(11)</td>
+<td><span class="conway-romanisation">fan4</span></td>
+<td>fan4</td>
+<td>fàhn</td>
+<td>fan4</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">奮</span></td>
+<td>5</td>
+<td><span lang="zh-Hant">陽上</span></td>
+<td>[fɐn˨˧]&nbsp;(23)</td>
+<td><span class="conway-romanisation">fan5</span></td>
+<td>fan5</td>
+<td>fáhn</td>
+<td>fan5</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">份</span></td>
+<td>6</td>
+<td><span lang="zh-Hant">陽去</span></td>
+<td>[fɐn˨]&nbsp;(22)</td>
+<td><span class="conway-romanisation">fan6</span></td>
+<td>fan6</td>
+<td>fahn</td>
+<td>fan6</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">忽</span></td>
+<td>7</td>
+<td><span lang="zh-Hant">高陰入</span></td>
+<td>[fɐt̚˥]&nbsp;(5)</td>
+<td><span class="conway-romanisation">fat7</span></td>
+<td>fat1</td>
+<td>fāt</td>
+<td>fat1</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">　</span></td>
+<td>8</td>
+<td><span lang="zh-Hant">低陰入</span></td>
+<td>[fɐt̚˧]&nbsp;(3)</td>
+<td><span class="conway-romanisation">fat8</span></td>
+<td>fat3</td>
+<td>fat</td>
+<td>fat3</td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">佛</span></td>
+<td>9</td>
+<td><span lang="zh-Hant">陽入</span></td>
+<td>[fɐt̚˨]&nbsp;(2)</td>
+<td><span class="conway-romanisation">fat9</span></td>
+<td>fat6</td>
+<td>faht</td>
+<td>fat6</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<svg class="embedded-styles" aria-hidden="true"><style>
+line {
+stroke: black;
+vector-effect: non-scaling-stroke;
+}
+text {
+font-family: sans-serif;
+text-anchor: middle;
+}
+</style></svg>
+<div class="centred-block">
+<svg width="480px" height="100%" viewBox="-5.5 -7 12 6.5" role="img" focusable="false" aria-labelledby="tone-diagram-title"
+>
+<title id="tone-diagram-title">Diagram of the nine tones of Cantonese. Using the pitch numerals 1 to 5 in order of increasing pitch:
+tone&nbsp;1 陰平 is level at 5;
+tone&nbsp;2 陰上 is rising from 3 to 5;
+tone&nbsp;3 陰去 is level at 3;
+tone&nbsp;4 陽平 is level at 1;
+tone&nbsp;5 陽上 is rising from 2 to 3;
+tone&nbsp;6 陽去 is level at 2;
+tone&nbsp;7 高陰入 is level at 5 and short;
+tone&nbsp;8 低陰入 is level at 3 and short;
+tone&nbsp;9 陽入 is level at 2 and short.</title>
+<g aria-hidden="true">
+<line x1="-2.5" y1="-5.5" x2="2.5" y2="-5.5" />
+<text x="0" y="-5.5" font-size="0.4" dy="-0.5em"
+>tone&nbsp;1 陰平
+</text>
+<line x1="-2.5" y1="-3.3" x2="2.5" y2="-5.5" />
+<text x="0" y="-4.4" font-size="0.4" dy="-0.5em" transform="rotate(-23.75 0 -4.4)"
+>tone&nbsp;2 陰上
+</text>
+<line x1="-2.5" y1="-3.3" x2="2.5" y2="-3.3" />
+<text x="0" y="-3.3" font-size="0.4" dy="-0.5em"
+>tone&nbsp;3 陰去
+</text>
+<line x1="-2.5" y1="-1.1" x2="2.5" y2="-1.1" />
+<text x="0" y="-1.1" font-size="0.4" dy="-0.5em"
+>tone&nbsp;4 陽平
+</text>
+<line x1="-2.5" y1="-2.2" x2="2.5" y2="-3.3" />
+<text x="-1.3" y="-2.75" font-size="0.4" dy="-0.5em" transform="rotate(-12.41 0 -2.75)"
+>tone&nbsp;5 陽上
+</text>
+<line x1="-2.5" y1="-2.2" x2="2.5" y2="-2.2" />
+<text x="1.3" y="-2.2" font-size="0.4" dy="-0.5em"
+>tone&nbsp;6 陽去
+</text>
+<line x1="3.75" y1="-5.5" x2="6.25" y2="-5.5" />
+<text x="5" y="-5.5" font-size="0.4" dy="-0.5em"
+>tone&nbsp;7 高陰入
+</text>
+<line x1="3.75" y1="-3.3" x2="6.25" y2="-3.3" />
+<text x="5" y="-3.3" font-size="0.4" dy="-0.5em"
+>tone&nbsp;8 低陰入
+</text>
+<line x1="3.75" y1="-2.2" x2="6.25" y2="-2.2" />
+<text x="5" y="-2.2" font-size="0.4" dy="-0.5em"
+>tone&nbsp;9 陽入
+</text>
+<text x="-4" y="-6.6" font-size="0.4"
+>pitch num.
+</text>
+<text x="-4" y="-5.5" font-size="0.4"
+>5
+</text>
+<text x="-4" y="-4.4" font-size="0.4"
+>4
+</text>
+<text x="-4" y="-3.3" font-size="0.4"
+>3
+</text>
+<text x="-4" y="-2.2" font-size="0.4"
+>2
+</text>
+<text x="-4" y="-1.1" font-size="0.4"
+>1
+</text>
+</g>
+</svg>
+</div>
+<p>
+Tone&nbsp;4 is also pronounced slightly falling, i.e.&nbsp;[fɐn˨˩]&nbsp;(21),
+especially if the syllable is drawn-out
+(for instance in operatic or theatrical dialogue).
+Tone&nbsp;2 can start slightly lower, i.e.&nbsp;[fɐn˨˥]&nbsp;(25).
+</p>
+<p>
+Cantonese preserves all ending consonants of Middle Chinese,
+and thus there is a correspondence between
+the nasals ([m], [n], [ŋ]) and the unreleased stops ([p̚], [t̚], [k̚])
+of the entering tones (<span lang="zh-Hant">入聲</span>).
+Pronunciations in old rime dictionaries can only be understood
+in terms of this correspondence:
+</p>
+<div class="centred-block">
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Place of articulation</th>
+<th>Nasal</th>
+<th>Stop</th>
+<th>Example quoted in <span lang="zh-Hant">《康熙字典》</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Labial</td>
+<td>[m]</td>
+<td>[p̚]</td>
+<td><a href="https://ctext.org/kangxi-zidian/11/0#n318684"><span lang="zh-Hant">入：任入聲</span></a>
+i.e.&nbsp;<span lang="zh-Hant">任</span>&nbsp;<span class="conway-romanisation">(yam6)</span> to&nbsp;<span lang="zh-Hant">入</span>&nbsp;<span class="conway-romanisation">(yap9)</span></td>
+</tr>
+<tr>
+<td>Plain dental/alveolar</td>
+<td>[n]</td>
+<td>[t̚]</td>
+<td><a href="https://ctext.org/kangxi-zidian/17/3#n319099"><span lang="zh-Hant">出：春入聲</span></a>
+i.e.&nbsp;<span lang="zh-Hant">春</span>&nbsp;<span class="conway-romanisation">(ch'_n1)</span> to&nbsp;<span lang="zh-Hant">出</span>&nbsp;<span class="conway-romanisation">(ch'_t7)</span></td>
+</tr>
+<tr>
+<td>Plain velar</td>
+<td>[ŋ]</td>
+<td>[k̚]</td>
+<td><a href="https://ctext.org/kangxi-zidian/60/12#n326232"><span lang="zh-Hant">德：登入聲</span></a>
+i.e.&nbsp;<span lang="zh-Hant">登</span>&nbsp;<span class="conway-romanisation">(tang1)</span> to&nbsp;<span lang="zh-Hant">德</span>&nbsp;<span class="conway-romanisation">(tak7)</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>
+While the entering tones (<span lang="zh-Hant">入聲</span>) 7, 8, 9 are the same pitch
+as tones 1, 3, 6 respectively, they should not be regarded as the same.
+In poetry, balancing <span lang="zh-Hant">平聲</span> (tones 1 and 4) and <span lang="zh-Hant">仄聲</span> (the rest)
+is highly desirable; if you count tone&nbsp;7 (<span lang="zh-Hant">高陰入</span>) as tone&nbsp;1 (<span lang="zh-Hant">陰平</span>),
+you will get tone patterns (<span lang="zh-Hant">平仄</span>) wrong.
+None of Jyutping, Yale and Sidney&nbsp;Lau make this distinction.
+</p>
+<p>
+Tone patterns and literary situations aside though,
+tones in colloquial Cantonese are highly versatile, in that they can be
+vernacularised as different tones in particular instances.
+This, in my opinion, makes colloquial Cantonese
+probably the most inconsistent language in the world.
+Here are a few examples:
+</p>
+<div class="centred-block">
+<div class="overflowing">
+<table>
+<thead>
+<tr>
+<th>Phrase</th>
+<th>Literary</th>
+<th>Vernacularised</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">笛</span></td>
+<td>tek<span class="tone">9</span></td>
+<td>tek<span class="tone">2</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">姐姐</span></td>
+<td>tse<span class="tone">2</span>&nbsp;tse<span class="tone">2</span></td>
+<td>tse<span class="tone">4</span>&nbsp;tse<span class="tone">1</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">後尾</span></td>
+<td>hau<span class="tone">6</span>&nbsp;mei<span class="tone">5</span></td>
+<td>hau6&nbsp;mei<span class="tone">1</span><br>
+hau<span class="tone">1</span>&nbsp;mei<span class="tone">1</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">今晚</span></td>
+<td>kam1&nbsp;maan<span class="tone">5</span></td>
+<td>kam1&nbsp;maan<span class="tone">1</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">長沙灣</span></td>
+<td>ch'œng4&nbsp;shaa1&nbsp;waan<span class="tone">1</span></td>
+<td>ch'œng4&nbsp;shaa1&nbsp;waan<span class="tone">4</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">油麻地</span></td>
+<td>yau4&nbsp;maa4&nbsp;tei<span class="tone">6</span></td>
+<td>yau4&nbsp;maa4&nbsp;tei<span class="tone">2</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="compact-tables"><a class="permalink" href="#compact-tables" aria-label="Permalink"></a>Compact reference tables</h2>
+<h3 id="initials-table"><a class="permalink" href="#initials-table" aria-label="Permalink"></a>Initials (<span lang="zh-Hant">聲</span>)</h3>
+<div class="centred-block">
+<div class="overflowing">
+<table>
+<tr>
+<td><span lang="zh-Hant">巴</span>&nbsp;<span class="conway-romanisation">p</span></td>
+<td><span lang="zh-Hant">打</span>&nbsp;<span class="conway-romanisation">t</span></td>
+<td><span lang="zh-Hant">家</span>&nbsp;<span class="conway-romanisation">k</span></td>
+<td><span lang="zh-Hant">瓜</span>&nbsp;<span class="conway-romanisation">kw</span></td>
+<td><span lang="zh-Hant">將</span>&nbsp;<span class="conway-romanisation">ts</span></td>
+<td><span lang="zh-Hant">張</span>&nbsp;<span class="conway-romanisation">ch</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">怕</span>&nbsp;<span class="conway-romanisation">p'</span></td>
+<td><span lang="zh-Hant">他</span>&nbsp;<span class="conway-romanisation">t'</span></td>
+<td><span lang="zh-Hant">卡</span>&nbsp;<span class="conway-romanisation">k'</span></td>
+<td><span lang="zh-Hant">誇</span>&nbsp;<span class="conway-romanisation">k'w</span></td>
+<td><span lang="zh-Hant">槍</span>&nbsp;<span class="conway-romanisation">ts'</span></td>
+<td><span lang="zh-Hant">昌</span>&nbsp;<span class="conway-romanisation">ch'</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">媽</span>&nbsp;<span class="conway-romanisation">m</span></td>
+<td><span lang="zh-Hant">那</span>&nbsp;<span class="conway-romanisation">n</span></td>
+<td><span lang="zh-Hant">牙</span>&nbsp;<span class="conway-romanisation">ng</span></td>
+<td><span lang="zh-Hant">華</span>&nbsp;<span class="conway-romanisation">w</span></td>
+<td><span lang="zh-Hant">相</span>&nbsp;<span class="conway-romanisation">s</span></td>
+<td><span lang="zh-Hant">傷</span>&nbsp;<span class="conway-romanisation">sh</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">花</span>&nbsp;<span class="conway-romanisation">f</span></td>
+<td><span lang="zh-Hant">啦</span>&nbsp;<span class="conway-romanisation">l</span></td>
+<td><span lang="zh-Hant">蝦</span>&nbsp;<span class="conway-romanisation">h</span></td>
+<td><span lang="zh-Hant">也</span>&nbsp;<span class="conway-romanisation">y</span></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</div>
+</div>
+<h3 id="finals-table"><a class="permalink" href="#finals-table" aria-label="Permalink"></a>Finals (<span lang="zh-Hant">韻</span>)</h3>
+<div class="centred-block">
+<div class="overflowing">
+<table>
+<tr>
+<td><span lang="zh-Hant">叉</span>&nbsp;<span class="conway-romanisation">aa</span></td>
+<td></td>
+<td><span lang="zh-Hant">爹</span>&nbsp;<span class="conway-romanisation">e</span></td>
+<td><span lang="zh-Hant">而</span>&nbsp;<span class="conway-romanisation">ee</span></td>
+<td><span lang="zh-Hant">歌</span>&nbsp;<span class="conway-romanisation">or</span></td>
+<td><span lang="zh-Hant">呼</span>&nbsp;<span class="conway-romanisation">oo</span></td>
+<td><span lang="zh-Hant">靴</span>&nbsp;<span class="conway-romanisation">œ</span></td>
+<td></td>
+<td><span lang="zh-Hant">遇</span>&nbsp;<span class="conway-romanisation">ü</span></td>
+<td></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">釵</span>&nbsp;<span class="conway-romanisation">aai</span></td>
+<td><span lang="zh-Hant">仔</span>&nbsp;<span class="conway-romanisation">ai</span></td>
+<td><span lang="zh-Hant">地</span>&nbsp;<span class="conway-romanisation">ei</span></td>
+<td></td>
+<td><span lang="zh-Hant">該</span>&nbsp;<span class="conway-romanisation">oi</span></td>
+<td><span lang="zh-Hant">灰</span>&nbsp;<span class="conway-romanisation">ooi</span></td>
+<td></td>
+<td><span lang="zh-Hant">需</span>&nbsp;<span class="conway-romanisation">_ü</span></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">抄</span>&nbsp;<span class="conway-romanisation">aau</span></td>
+<td><span lang="zh-Hant">走</span>&nbsp;<span class="conway-romanisation">au</span></td>
+<td><span lang="zh-Hant">掉</span>&nbsp;<span class="conway-romanisation">eu</span></td>
+<td><span lang="zh-Hant">堯</span>&nbsp;<span class="conway-romanisation">eeu</span></td>
+<td><span lang="zh-Hant">高</span>&nbsp;<span class="conway-romanisation">ou</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">參</span>&nbsp;<span class="conway-romanisation">aam</span></td>
+<td><span lang="zh-Hant">針</span>&nbsp;<span class="conway-romanisation">am</span></td>
+<td><span lang="zh-Hant">舔</span>&nbsp;<span class="conway-romanisation">em</span></td>
+<td><span lang="zh-Hant">嚴</span>&nbsp;<span class="conway-romanisation">eem</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span lang="zh-Hant">唔</span>&nbsp;<span class="conway-romanisation">m</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">餐</span>&nbsp;<span class="conway-romanisation">aan</span></td>
+<td><span lang="zh-Hant">真</span>&nbsp;<span class="conway-romanisation">an</span></td>
+<td></td>
+<td><span lang="zh-Hant">言</span>&nbsp;<span class="conway-romanisation">een</span></td>
+<td><span lang="zh-Hant">干</span>&nbsp;<span class="conway-romanisation">orn</span></td>
+<td><span lang="zh-Hant">歡</span>&nbsp;<span class="conway-romanisation">oon</span></td>
+<td></td>
+<td><span lang="zh-Hant">詢</span>&nbsp;<span class="conway-romanisation">_n</span></td>
+<td><span lang="zh-Hant">願</span>&nbsp;<span class="conway-romanisation">ün</span></td>
+<td></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">撐</span>&nbsp;<span class="conway-romanisation">aang</span></td>
+<td><span lang="zh-Hant">增</span>&nbsp;<span class="conway-romanisation">ang</span></td>
+<td><span lang="zh-Hant">贏</span>&nbsp;<span class="conway-romanisation">eng</span></td>
+<td><span lang="zh-Hant">形</span>&nbsp;<span class="conway-romanisation">ing</span></td>
+<td><span lang="zh-Hant">江</span>&nbsp;<span class="conway-romanisation">ong</span></td>
+<td><span lang="zh-Hant">風</span>&nbsp;<span class="conway-romanisation">ung</span></td>
+<td><span lang="zh-Hant">香</span>&nbsp;<span class="conway-romanisation">œng</span></td>
+<td></td>
+<td></td>
+<td><span lang="zh-Hant">吾</span>&nbsp;<span class="conway-romanisation">ng</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">插</span>&nbsp;<span class="conway-romanisation">aap</span></td>
+<td><span lang="zh-Hant">汁</span>&nbsp;<span class="conway-romanisation">ap</span></td>
+<td><span lang="zh-Hant">夾</span>&nbsp;<span class="conway-romanisation">ep</span></td>
+<td><span lang="zh-Hant">葉</span>&nbsp;<span class="conway-romanisation">eep</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">察</span>&nbsp;<span class="conway-romanisation">aat</span></td>
+<td><span lang="zh-Hant">疾</span>&nbsp;<span class="conway-romanisation">at</span></td>
+<td></td>
+<td><span lang="zh-Hant">熱</span>&nbsp;<span class="conway-romanisation">eet</span></td>
+<td><span lang="zh-Hant">葛</span>&nbsp;<span class="conway-romanisation">ort</span></td>
+<td><span lang="zh-Hant">闊</span>&nbsp;<span class="conway-romanisation">oot</span></td>
+<td></td>
+<td><span lang="zh-Hant">戌</span>&nbsp;<span class="conway-romanisation">_t</span></td>
+<td><span lang="zh-Hant">月</span>&nbsp;<span class="conway-romanisation">üt</span></td>
+<td></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">拆</span>&nbsp;<span class="conway-romanisation">aak</span></td>
+<td><span lang="zh-Hant">仄</span>&nbsp;<span class="conway-romanisation">ak</span></td>
+<td><span lang="zh-Hant">尺</span>&nbsp;<span class="conway-romanisation">ek</span></td>
+<td><span lang="zh-Hant">亦</span>&nbsp;<span class="conway-romanisation">ik</span></td>
+<td><span lang="zh-Hant">各</span>&nbsp;<span class="conway-romanisation">ok</span></td>
+<td><span lang="zh-Hant">福</span>&nbsp;<span class="conway-romanisation">uk</span></td>
+<td><span lang="zh-Hant">卻</span>&nbsp;<span class="conway-romanisation">œk</span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</div>
+</div>
+<h3 id="tones-table"><a class="permalink" href="#tones-table" aria-label="Permalink"></a>Nine tones (<span lang="zh-Hant">九聲</span>)</h3>
+<div class="centred-block">
+<div class="centred-block overflowing">
+<table>
+<thead>
+<tr>
+<th class="vertical-rtl"><span lang="zh-Hant">陰平</span></th>
+<th class="vertical-rtl"><span lang="zh-Hant">陰上</span></th>
+<th class="vertical-rtl"><span lang="zh-Hant">陰去</span></th>
+<th class="vertical-rtl"><span lang="zh-Hant">陽平</span></th>
+<th class="vertical-rtl"><span lang="zh-Hant">陽上</span></th>
+<th class="vertical-rtl"><span lang="zh-Hant">陽去</span></th>
+<th class="no-wrapping" rowspan="2"><span lang="zh-Hant">鼻</span> → <span lang="zh-Hant">塞</span></th>
+<th class="vertical-rtl"><span lang="zh-Hant">高陰入</span></th>
+<th class="vertical-rtl"><span lang="zh-Hant">低陰入</span></th>
+<th class="vertical-rtl"><span lang="zh-Hant">陽入</span></th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span lang="zh-Hant">閹</span></td>
+<td><span lang="zh-Hant">掩</span></td>
+<td><span lang="zh-Hant">厭</span></td>
+<td><span lang="zh-Hant">炎</span></td>
+<td><span lang="zh-Hant">染</span></td>
+<td><span lang="zh-Hant">艷</span></td>
+<td class="no-wrapping">[m] → [p̚]</td>
+<td><span lang="zh-Hant">　</span></td>
+<td><span lang="zh-Hant">醃</span></td>
+<td><span lang="zh-Hant">頁</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">婚</span></td>
+<td><span lang="zh-Hant">粉</span></td>
+<td><span lang="zh-Hant">訓</span></td>
+<td><span lang="zh-Hant">焚</span></td>
+<td><span lang="zh-Hant">奮</span></td>
+<td><span lang="zh-Hant">份</span></td>
+<td class="no-wrapping">[n] → [t̚]</td>
+<td><span lang="zh-Hant">忽</span></td>
+<td><span lang="zh-Hant">　</span></td>
+<td><span lang="zh-Hant">佛</span></td>
+</tr>
+<tr>
+<td><span lang="zh-Hant">英</span></td>
+<td><span lang="zh-Hant">影</span></td>
+<td><span lang="zh-Hant">應</span></td>
+<td><span lang="zh-Hant">形</span></td>
+<td><span lang="zh-Hant">　</span></td>
+<td><span lang="zh-Hant">認</span></td>
+<td class="no-wrapping">[ŋ] → [k̚]</td>
+<td><span lang="zh-Hant">益</span></td>
+<td><span lang="zh-Hant">　</span></td>
+<td><span lang="zh-Hant">亦</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="examples"><a class="permalink" href="#examples" aria-label="Permalink"></a>Examples</h2>
+<p>
+First with <span class="pre-merger initial">pre-merger initials</span> (rarely heard today),
+then with <span class="post-merger initial">favoured post-merger initials</span>.
+See <a href="#ts-vs-ch">{<span class="pre-merger initial">ts</span> vs <span class="pre-merger initial">ch</span>} etc</a>.
+</p>
+<div class="example">
+<span lang="zh-Hant">身體髮膚，受之父母，不敢毀傷，孝之始也。</span>
+</div>
+<ul>
+<li><span class="pre-merger initial">sh</span>an1 t'ai2 faat8 foo1,
+<span class="pre-merger initial">sh</span>au6 <span class="pre-merger initial">ch</span>ee1 foo6 mou5,
+pat7 kam2 wai2 <span class="pre-merger initial">sh</span>œng1,
+haau3 <span class="pre-merger initial">ch</span>ee1 <span class="pre-merger initial">ch'</span>ee2 yaa5.
+</li>
+<li><span class="post-merger initial">s</span>an1 t'ai2 faat8 foo1,
+<span class="post-merger initial">s</span>au6 <span class="post-merger initial">ts</span>ee1 foo6 mou5,
+pat7 kam2 wai2 <span class="post-merger initial">s</span>œng1,
+haau3 <span class="post-merger initial">ts</span>ee1 <span class="post-merger initial">ts'</span>ee2 yaa5.
+</li>
+</ul>
+<div class="example">
+<span lang="zh-Hant">天地玄黃，宇宙洪荒。日月盈昃，辰宿列張。</span>
+</div>
+<ul>
+<li>t'een1 tei6 yün4 wong4,
+yü5 <span class="pre-merger initial">ch</span>au6 hung4 fong1.
+yat9 yüt9 ying4 <span class="pre-merger initial">ch</span>ak7,
+<span class="pre-merger initial">sh</span>an4 <span class="pre-merger initial">s</span>uk7 leet9 <span class="pre-merger initial">ch</span>œng1.
+</li>
+<li>t'een1 tei6 yün4 wong4,
+yü5 <span class="post-merger initial">ts</span>au6 hung4 fong1.
+yat9 yüt9 ying4 <span class="post-merger initial">ts</span>ak7,
+<span class="post-merger initial">s</span>an4 <span class="post-merger initial">s</span>uk7 leet9 <span class="post-merger initial">ch</span>œng1.
+</li>
+</ul>
+<div class="example">
+<span lang="zh-Hant">夫質以代興，妍因俗易。</span>
+</div>
+<ul>
+<li>foo4 <span class="pre-merger initial">ch</span>at7 yee5 toi6 hing1,
+yeen4 yan1 <span class="pre-merger initial">ts</span>uk9 yik9.
+</li>
+<li>foo4 <span class="post-merger initial">ts</span>at7 yee5 toi6 hing1,
+yeen4 yan1 <span class="post-merger initial">ch</span>uk9 yik9.
+</li>
+</ul>
+<div class="example">
+<span lang="zh-Hant">攜書劍，滯京華。</span>
+</div>
+<ul>
+<li>k'wai4 <span class="pre-merger initial">sh</span>ü1 keem3,
+<span class="pre-merger initial">ch</span>ai6 king1 waa4.
+</li>
+<li>k'wai4 <span class="post-merger initial">sh</span>ü1 keem3,
+<span class="post-merger initial">ts</span>ai6 king1 waa4.
+</li>
+</ul>
+<div class="example">
+<span lang="zh-Hant">日日醉涼州，笙歌卒未休。</span>
+</div>
+<ul>
+<li>yat9 yat9 <span class="pre-merger initial">ts</span>_ü3 lœng4 <span class="pre-merger initial">ch</span>au1,
+<span class="pre-merger initial">sh</span>ang1 kor1 <span class="pre-merger initial">ts</span>_t7 mei6 yau1.
+</li>
+<li>yat9 yat9 <span class="post-merger initial">ch</span>_ü3 lœng4 <span class="post-merger initial">ts</span>au1,
+<span class="post-merger initial">s</span>ang1 kor1 <span class="post-merger initial">ch</span>_t7 mei6 yau1.
+</li>
+</ul>
+<div class="example">
+<span lang="zh-Hant">胡不念花園盟香？</span>
+</div>
+<ul>
+<li>woo4 pat7 neem6 faa1 yün2 mang4 hœng1?
+</li>
+</ul>
+<div class="example">
+<span lang="zh-Hant">妾從無錯處，嘆我自招報應，怨句匹夫變性。</span>
+</div>
+<ul>
+<li><span class="pre-merger initial">ts'</span>eep8 <span class="pre-merger initial">ts'</span>ung4 mou4 <span class="pre-merger initial">ts'</span>or3 <span class="pre-merger initial">ch'</span>ü3,
+t'aan3 ngor5 <span class="pre-merger initial">ts</span>ee6 <span class="pre-merger initial">ch</span>eeu1 pou3 ying3,
+yün3 k_ü3 p'at7 foo1 peen3 <span class="pre-merger initial">s</span>ing3.
+</li>
+<li><span class="post-merger initial">ts'</span>eep8 <span class="post-merger initial">ch'</span>ung4 mou4 <span class="post-merger initial">ch'</span>or3 <span class="post-merger initial">ch'</span>ü3,
+t'aan3 ngor5 <span class="post-merger initial">ts</span>ee6 <span class="post-merger initial">ts</span>eeu1 pou3 ying3,
+yün3 k_ü3 p'at7 foo1 peen3 <span class="post-merger initial">s</span>ing3.
+</li>
+</ul>
+<div class="example">
+<span lang="zh-Hant">請勿靠近車門。</span>
+</div>
+<ul>
+<li><span class="pre-merger initial">ts'</span>ing2 mat9 k'aau3 kan6 <span class="pre-merger initial">ch'</span>e1 moon4.
+</li>
+<li><span class="post-merger initial">ts'</span>ing2 mat9 k'aau3 kan6 <span class="post-merger initial">ts'</span>e1 moon4.
+</li>
+</ul>
+<div class="example">
+<span lang="zh-Hant">下一站：九龍塘，乘客可以轉乘九廣東鐵。</span>
+</div>
+<ul>
+<li>haa6 yat7 <span class="pre-merger initial">ch</span>aam6: kau2 lung4 t'ong4,
+<span class="pre-merger initial">sh</span>ing4 haak8 hor2 yee5 <span class="pre-merger initial">ch</span>ün2 <span class="pre-merger initial">sh</span>ing4
+kau2 kwong2 tung1 t'eet8.
+</li>
+<li>haa6 yat7 <span class="post-merger initial">ts</span>aam6: kau2 lung4 t'ong4,
+<span class="post-merger initial">s</span>ing4 haak8 hor2 yee5 <span class="post-merger initial">ch</span>ün2 <span class="post-merger initial">s</span>ing4
+kau2 kwong2 tung1 t'eet8.
+</li>
+</ul>
+<h2 id="cite"><a class="permalink" href="#cite" aria-label="Permalink"></a>Cite this page</h2>
+<h3>Text</h3>
+<p>
+Conway&nbsp;(2020).
+Conway's Romanisation for Cantonese.
+&lt;https://yawnoc.github.io/cantonese/conway-romanisation&gt;
+Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
+</p>
+<h3>BibTeX</h3>
+<pre><code>@misc{conway-cantonese-romanisation,
+  author = {Conway},
+  year = {2020},
+  title = {{Conway's} {Romanisation} for {Cantonese}},
+  howpublished = {\url{https://yawnoc.github.io/cantonese/conway-romanisation}},
+  note = {Accessed~<span class="js-date">yyyy-mm-dd</span>},
+}
+</code></pre>
+<h3>BibLaTeX</h3>
+<pre><code>@online{conway-cantonese-romanisation,
+  author = {Conway},
+  year = {2020},
+  title = {{Conway's} {Romanisation} for {Cantonese}},
+  url = {https://yawnoc.github.io/cantonese/conway-romanisation},
+  urldate = {<span class="js-date">yyyy-mm-dd</span>},
+}
+</code></pre>
+<script>document.addEventListener("DOMContentLoaded",function(){renderDate()})</script>
+<footer>
+©&nbsp;2019–2020&nbsp;Conway.
+</footer>
+</body>
+</html>
