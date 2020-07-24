@@ -54,7 +54,7 @@ although more algebra is required to compute it.
 
 ----
 __Manuscript:__ [`platform.pdf`](
-  https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/master/\
+  https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/d3cea8ac79fa/\
     manuscripts/platform.pdf
 )
 ----
