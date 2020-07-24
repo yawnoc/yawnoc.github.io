@@ -225,18 +225,18 @@ edits and corrections I have made since they were scanned.
   [ ]* \[m"(?P<volume> [i] {1,3} ) [ ] (?P<paragraph> [0-9] + )"\]
 %
   (
-    https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/master/\\
+    https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/d3cea8ac79fa/\\
       manuscripts/sun-tzu-\g<volume>-\g<paragraph>.pdf
   )
 %}
 
 ===={.manuscript-links}
 * [Version referencing system](
-    https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/master/\
+    https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/d3cea8ac79fa/\
       manuscripts/sun-tzu-versions.pdf
   )
 * [__Preface__](
-    https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/master/\
+    https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/d3cea8ac79fa/\
       manuscripts/sun-tzu-preface.pdf
   )
 * __Volume~I:__
