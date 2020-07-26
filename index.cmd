@@ -47,7 +47,7 @@
 
 
 [||||
-Feedback welcome: `yawnoc@pm.me`
+Feedback welcome: ~~yawnoc@pm.me~~
 ||||]
 
 ----
