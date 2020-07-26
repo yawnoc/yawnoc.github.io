@@ -192,7 +192,7 @@ p{%
 
 <##
   ----------------------------------------------------------------
-  Page properties with dates  [|||| ||||]
+  Page properties  [|||| ||||]
   ----------------------------------------------------------------
 ##>
 
@@ -207,7 +207,7 @@ p{%
   \]
 %
   \g<pipes>{.page-properties}
-    \\page-property-dates
+    \\page-properties
   \g<pipes>
 %}
 
@@ -223,17 +223,20 @@ p{%
   \]
 %
   \g<pipes>{.page-properties}
-    \\page-property-dates \\+
+    \\page-properties \\+
     \g<content>
   \g<pipes>
 %}
 
-<## Dates ##>
+<## Page properties (source CMD, dates) ##>
 
-p{: \page-property-dates :
+p{:: \page-properties ::
+  Source: [%cmd-name.cmd](
+    https://github.com/yawnoc/yawnoc.github.io/blob/master/%cmd-name.cmd
+  ) \\+
   First created: %date-created \\+
   Last modified: %date-modified
-:}
+::}
 
 
 
