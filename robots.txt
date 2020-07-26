@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /manuscripts/
-
-Sitemap: https://yawnoc.github.io/sitemap.txt
