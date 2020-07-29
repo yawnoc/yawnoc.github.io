@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2020-07-13
+  %date-modified 2020-07-29
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -77,7 +77,7 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 
 * [Debian on Pinebook Pro via Daniel's installer](/pinebook-pro)
   ||||{.page-description}
-    Installation and customisation of Debian Bullseye
+    Installation and customisation of Debian Buster
     using [Daniel Thompson's unofficial installer].
   ||||
   @@[Daniel Thompson's unofficial installer]
