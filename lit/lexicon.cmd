@@ -407,11 +407,11 @@ which I have rendered into English somewhere amidst my translations.
 
 ----
 Compiling a dictionary takes a lot of work.
-This lexicon is not a dictionary,
-for I have not put any effort into an exhaustive listing of
-meanings, parts of speech, or pronunciations;
-neither is this lexicon a concordance,
-for the entries are not indexed to my translations.
+**This lexicon is not a dictionary:**
+the listings of meanings, parts of speech, and pronunciations
+are not complete, nor could they ever be;
+**neither is this lexicon a concordance:**
+the entries are not indexed to my translations.
 ----
 
 ----
