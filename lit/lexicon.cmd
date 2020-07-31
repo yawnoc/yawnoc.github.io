@@ -85,8 +85,8 @@
 * [⼀](#one)
 <#### * [⼁](#line) ####>
 <#### * [⼂](#dot) ####>
-<#### * [⼃](#slash) ####>
-<#### * [⼄](#second) ####>
+* [⼃](#slash)
+* [⼄](#second)
 <#### * [⼅](#hook) ####>
 
 <## 2 strokes ##>
@@ -126,7 +126,7 @@
 * [⼥](#woman)
 <#### * [⼦](#child) ####>
 <#### * [⼧](#roof) ####>
-<#### * [⼨](#inch) ####>
+* [⼨](#inch)
 <#### * [⼩](#small) ####>
 <#### * [⼪](#lame) ####>
 <#### * [⼫](#corpse) ####>
@@ -145,7 +145,7 @@
 <#### * [⼸](#bow) ####>
 <#### * [⼹](#snout) ####>
 <#### * [⼺](#bristle) ####>
-<#### * [⼻](#step) ####>
+* [⼻](#step)
 
 <## 4 strokes ##>
 <#### * [⼼](#heart) ####>
@@ -162,7 +162,7 @@
 <#### * [⽇](#sun) ####>
 * [⽈](#say)
 <#### * [⽉](#moon) ####>
-<#### * [⽊](#tree) ####>
+* [⽊](#tree)
 <#### * [⽋](#lack) ####>
 <#### * [⽌](#stop) ####>
 <#### * [⽍](#death) ####>
@@ -172,7 +172,7 @@
 <#### * [⽑](#fur) ####>
 <#### * [⽒](#clan) ####>
 <#### * [⽓](#steam) ####>
-<#### * [⽔](#water) ####>
+* [⽔](#water)
 <#### * [⽕](#fire) ####>
 <#### * [⽖](#claw) ####>
 <#### * [⽗](#father) ####>
@@ -191,11 +191,11 @@
 <#### * [⽢](#sweet) ####>
 <#### * [⽣](#life) ####>
 <#### * [⽤](#use) ####>
-<#### * [⽥](#field) ####>
+* [⽥](#field)
 <#### * [⽦](#bolt-of-cloth) ####>
 <#### * [⽧](#sickness) ####>
 <#### * [⽨](#dotted-tent) ####>
-<#### * [⽩](#white) ####>
+* [⽩](#white)
 <#### * [⽪](#skin) ####>
 <#### * [⽫](#dish) ####>
 <#### * [⽬](#eye) ####>
@@ -217,7 +217,7 @@
 * [⽺](#sheep)
 <#### * [⽻](#feather) ####>
 <#### * [⽼](#old) ####>
-<#### * [⽽](#and) ####>
+* [⽽](#and)
 <#### * [⽾](#plow) ####>
 * [⽿](#ear)
 <#### * [⾀](#brush) ####>
@@ -231,7 +231,7 @@
 <#### * [⾈](#boat) ####>
 <#### * [⾉](#stopping) ####>
 <#### * [⾊](#color) ####>
-<#### * [⾋](#grass) ####>
+* [⾋](#grass)
 * [⾌](#tiger)
 <#### * [⾍](#insect) ####>
 <#### * [⾎](#blood) ####>
@@ -242,7 +242,7 @@
 <## 7 strokes ##>
 <#### * [⾒](#see) ####>
 <#### * [⾓](#horn) ####>
-<#### * [⾔](#speech) ####>
+* [⾔](#speech)
 <#### * [⾕](#valley) ####>
 <#### * [⾖](#bean) ####>
 <#### * [⾗](#pig) ####>
@@ -281,7 +281,7 @@
 <#### * [⾴](#leaf) ####>
 <#### * [⾵](#wind) ####>
 <#### * [⾶](#fly) ####>
-<#### * [⾷](#eat) ####>
+* [⾷](#eat)
 <#### * [⾸](#head) ####>
 <#### * [⾹](#fragrant) ####>
 
@@ -389,6 +389,9 @@ l{%
   <span class="type">[\g<type>]</span>
 %}
 
+<## Interchangeable with ##>
+Z{: \int : <span class="alternative-marker">int.</span> :}
+
 <## Metaphorical rendering ##>
 Z{: \met : <span class="alternative-marker">met.</span> :}
 
@@ -454,9 +457,23 @@ See also: [Unihan Radical-Stroke Index][unihan]
 
 <#### \rad ⼂ dot ####>
 
-<#### \rad ⼃ slash ####>
+\rad ⼃ slash
 
-<#### \rad ⼄ second ####>
+\char 3 之 4E4B
+====
+* go
+* this; these
+* him; it; them
+* of
+* [:speech-assist:]
+====
+
+\rad ⼄ second
+
+\char 2 也 4E5F
+====
+* [:speech-assist:]
+====
 
 <#### \rad ⼅ hook ####>
 
@@ -472,6 +489,16 @@ See also: [Unihan Radical-Stroke Index][unihan]
 <#### \rad ⼇ lid ####>
 
 \rad ⼈ man
+
+\char 5 何 4F55
+====
+* what; how; wherefore
+====
+====
+* 何如： what of .[it]
+* 如何： how; what .[be]
+====
+
 
 \char 9 假 5047
 [上聲]
@@ -575,6 +602,14 @@ See also: [北方][方]
 
 \rad ⼥ woman
 
+\char 3 如 5982
+====
+* as; like
+====
+----
+See also: [何如][何], [如何][何]
+----
+
 \char 6 威 5A01
 ====
 * pomp; might; \met authority
@@ -584,7 +619,13 @@ See also: [北方][方]
 
 <#### \rad ⼧ roof ####>
 
-<#### \rad ⼨ inch ####>
+\rad ⼨ inch
+
+\char 11 對 5C0D
+====
+* reply
+* face
+====
 
 <#### \rad ⼩ small ####>
 
@@ -622,7 +663,13 @@ See also: [北方][方]
 
 <#### \rad ⼺ bristle ####>
 
-<#### \rad ⼻ step ####>
+\rad ⼻ step
+
+\char 8 得 5F97
+====
+* obtain
+* satisfy; done
+====
 
 
 <##
@@ -685,7 +732,13 @@ See also: [北方][方]
 
 <#### \rad ⽉ moon ####>
 
-<#### \rad ⽊ tree ####>
+\rad ⽊ tree
+
+\char 4 果 679C
+====
+* fruit; result; consequence
+* if
+====
 
 <#### \rad ⽋ lack ####>
 
@@ -705,7 +758,13 @@ See also: [北方][方]
 
 <#### \rad ⽓ steam ####>
 
-<#### \rad ⽔ water ####>
+\rad ⽔ water
+
+\char 2 求 6C42
+====
+* seek
+* request; beseech
+====
 
 <#### \rad ⽕ fire ####>
 
@@ -728,6 +787,11 @@ See also: [北方][方]
 \char 5 狐 72D0
 ====
 * fox
+====
+
+\char 15 獸 7378
+====
+* beast
 ====
 
 
@@ -761,7 +825,14 @@ See also: [北方][方]
 
 <#### \rad ⽤ use ####>
 
-<#### \rad ⽥ field ####>
+\rad ⽥ field
+
+\char 4 畏 754F
+====
+* fear (to dread)
+* scare
+* fear (to venerate)
+====
 
 <#### \rad ⽦ bolt-of-cloth ####>
 
@@ -769,7 +840,12 @@ See also: [北方][方]
 
 <#### \rad ⽨ dotted-tent ####>
 
-<#### \rad ⽩ white ####>
+\rad ⽩ white
+
+\char 1 百 767E
+====
+* hundred; \met many
+====
 
 <#### \rad ⽪ skin ####>
 
@@ -827,7 +903,13 @@ See also: [北方][方]
 
 <#### \rad ⽼ old ####>
 
-<#### \rad ⽽ and ####>
+\rad ⽽ and
+
+\char 0 而 800C
+====
+* and; but; to
+* [:speech-assist:]
+====
 
 <#### \rad ⽾ plow ####>
 
@@ -865,7 +947,12 @@ See also: [北方][方]
 
 <#### \rad ⾊ color ####>
 
-<#### \rad ⾋ grass ####>
+\rad ⾋ grass
+
+\char 7 莫 83AB
+====
+* not; do not
+====
 
 \rad ⾌ tiger
 
@@ -896,7 +983,12 @@ See also: [北方][方]
 
 <#### \rad ⾓ horn ####>
 
-<#### \rad ⾔ speech ####>
+\rad ⾔ speech
+
+\char 6 誠 8AA0
+====
+* honest; true
+====
 
 <#### \rad ⾕ valley ####>
 
@@ -981,7 +1073,22 @@ See also: [北方][方]
 
 <#### \rad ⾶ fly ####>
 
-<#### \rad ⾷ eat ####>
+\rad ⾷ eat
+
+\char 0 食 98DF
+[去聲]
+====
+* (\int [飼]) feed
+====
+[入聲]
+====
+* eat; food
+====
+
+\char 5 飼 98FC
+====
+* feed
+====
 
 <#### \rad ⾸ head ####>
 
