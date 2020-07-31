@@ -124,7 +124,7 @@
 <#### * [⼣](#evening) ####>
 <#### * [⼤](#big) ####>
 * [⼥](#woman)
-<#### * [⼦](#child) ####>
+* [⼦](#child)
 <#### * [⼧](#roof) ####>
 * [⼨](#inch)
 <#### * [⼩](#small) ####>
@@ -173,7 +173,7 @@
 <#### * [⽒](#clan) ####>
 <#### * [⽓](#steam) ####>
 * [⽔](#water)
-<#### * [⽕](#fire) ####>
+* [⽕](#fire)
 <#### * [⽖](#claw) ####>
 <#### * [⽗](#father) ####>
 <#### * [⽘](#double-x) ####>
@@ -602,6 +602,14 @@ See also: [北方][方]
 
 \rad ⼥ woman
 
+\char 0 女 5973
+====
+* female; woman; daughter
+====
+====
+* 女子： lady
+====
+
 \char 3 如 5982
 ====
 * as; like
@@ -615,7 +623,16 @@ See also: [何如][何], [如何][何]
 * pomp; might; \met authority
 ====
 
-<#### \rad ⼦ child ####>
+\rad ⼦ child
+
+\char 0 子 5B50
+====
+* child; son; daughter
+* master (teacher); \met thou
+====
+----
+See also: [女子][女]
+----
 
 <#### \rad ⼧ roof ####>
 
@@ -766,7 +783,13 @@ See also: [何如][何], [如何][何]
 * request; beseech
 ====
 
-<#### \rad ⽕ fire ####>
+\rad ⽕ fire
+
+\char 8 無 7121
+====
+* there be not; have not; without
+* not; do not
+====
 
 <#### \rad ⽖ claw ####>
 
