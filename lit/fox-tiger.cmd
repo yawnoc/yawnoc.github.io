@@ -156,16 +156,11 @@ The Chinese source text is from Chinese Text Project:
   子以我為不信，吾為子先行，子隨我後，觀百獸之見我而敢不走乎？
 ||
   .[Shouldst] thou think me untrustworthy,
-  .[let] me walk before for thee,
-  .[and let] thee follow behind me,
-  .[and let us] see .[who] of .[the] many beasts
-  .[shall] see me and dare run not?
+  .[let] me walk first for thee,
+  .[and] thee follow after me,
+  .[and] observe, .[who] of .[the] many beasts
+  seeth me and dareth run not?
 >>
-====
-* 先： before
-
-* 後： behind; \or after
-====
 
 <<
   虎以為然，故遂與之行。獸見之皆走。
