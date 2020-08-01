@@ -554,7 +554,7 @@ See also: [北方][方]
 
 \char 3 地 5730
 ====
-* earth
+* earth; ground
 * land; \met territory
 ====
 
@@ -578,7 +578,7 @@ See also: [詩士][詩]
 
 \char 1 天 5929
 ====
-* heaven
+* heaven; sky
 ====
 
 \rad ⼥ woman 2F25
