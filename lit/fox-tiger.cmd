@@ -9,7 +9,7 @@
   %title "The Fox Feigneth the Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2020-06-07
+  %date-modified 2020-08-01
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -139,7 +139,7 @@ The Chinese source text is from Chinese Text Project:
     Thou darest not eat me.
     .[The] Emperor of Heaven .[hath] made me leader of .[the] many beasts;
     .[shouldst] thou now eat me:
-    this .[would] defy .[the] command of .[the] Emperor of Heaven.
+    this .[would] defy .[the] will of .[the] Emperor of Heaven.
 >>
 ====
 * 子： thou; \lit .[the] master
@@ -150,8 +150,6 @@ The Chinese source text is from Chinese Text Project:
   長，上聲， \C ch(oe)ng2, \M zh(av)ng
 
 * 逆： defy; \or go against
-
-* 命： command; \or order; \or mandate
 ====
 
 <<
@@ -188,7 +186,7 @@ The Chinese source text is from Chinese Text Project:
   Today King's territory .[spanneth a]
   circumference of five thousand miles,
   .[with] armour-donning .[soldiers a] million,
-  and exclusively subordinate .[are] they unto Chao Hi-s(u") ((昭奚恤));
+  and exclusively subordinate .[are] these unto Chao Hi-s(u") ((昭奚恤));
 >>
 ====
 * 地： territory; \lit land
