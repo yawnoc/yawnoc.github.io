@@ -25,7 +25,7 @@
     }
     ul {
       margin-top: 0;
-      padding-left: 4em;
+      padding-left: 4.2em;
     }
     .character {
       background: #ffc;
@@ -53,7 +53,7 @@
     h5 {
       margin-top: 0.5em;
       margin-bottom: 0.5em;
-      padding-left: 3.2em;
+      padding-left: 3.8em;
     }
     h5 + ul {
       margin: 0.5em 0;
