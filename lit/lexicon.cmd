@@ -159,7 +159,7 @@
 <#### * [⽄](#axe) ####>
 * [⽅](#square)
 <#### * [⽆](#not) ####>
-<#### * [⽇](#sun) ####>
+* [⽇](#sun)
 * [⽈](#say)
 <#### * [⽉](#moon) ####>
 * [⽊](#tree)
@@ -255,7 +255,7 @@
 <#### * [⾞](#cart) ####>
 <#### * [⾟](#bitter) ####>
 <#### * [⾠](#morning) ####>
-<#### * [⾡](#walk) ####>
+* [⾡](#walk)
 <#### * [⾢](#city) ####>
 <#### * [⾣](#wine) ####>
 <#### * [⾤](#distinguish) ####>
@@ -263,7 +263,7 @@
 
 <## 8 strokes ##>
 <#### * [⾦](#gold) ####>
-<#### * [⾧](#long) ####>
+* [⾧](#long)
 <#### * [⾨](#gate) ####>
 <#### * [⾩](#mound) ####>
 <#### * [⾪](#slave) ####>
@@ -492,6 +492,12 @@ See also: [Unihan Radical-Stroke Index][unihan]
 
 \rad ⼈ man 2F08
 
+\char 2 今 4ECA
+====
+* now; current
+* this (day); today
+====
+
 \char 5 何 4F55
 ====
 * what; how; wherefore
@@ -501,6 +507,17 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * 如何： how; what .[be]
 ====
 
+\char 6 使 4F7F
+[上聲]
+====
+* make; cause
+* use; employ
+* dispatch
+====
+[去聲]
+====
+* envoy; messenger
+====
 
 \char 9 假 5047
 [上聲]
@@ -575,6 +592,14 @@ See also: [北方][方]
 \char 4 吾 543E
 ====
 * I; we
+====
+
+\char 5 命 547D
+====
+* command; order; mandate
+* life
+* fate; will .[of heaven]
+* [:verb:] name
 ====
 
 \char 8 問 554F
@@ -696,7 +721,7 @@ See also: [女子][女]
 
 \char 8 得 5F97
 ====
-* obtain
+* obtain; get
 * satisfy; done
 ====
 
@@ -760,7 +785,13 @@ See also: [女子][女]
 
 <#### \rad ⽆ not 2F46 ####>
 
-<#### \rad ⽇ sun 2F47 ####>
+\rad ⽇ sun 2F47
+
+\char 5 是 662F
+====
+* right; correct
+* this
+====
 
 \rad ⽈ say 2F48
 
@@ -1059,7 +1090,12 @@ See also: [女子][女]
 
 <#### \rad ⾠ morning 2FA0 ####>
 
-<#### \rad ⾡ walk 2FA1 ####>
+\rad ⾡ walk 2FA1
+
+\char 6 逆 9006
+====
+* defy; go against
+====
 
 <#### \rad ⾢ city 2FA2 ####>
 
@@ -1079,7 +1115,24 @@ See also: [女子][女]
 
 <#### \rad ⾦ gold 2FA6 ####>
 
-<#### \rad ⾧ long 2FA7 ####>
+\rad ⾧ long 2FA7
+
+\char 0 長 9577
+[平聲]
+====
+* long; length; \met strength
+* everlasting
+====
+[上聲]
+====
+* grow
+* elder; senior
+* leader
+====
+[去聲]
+====
+* leftover; surplus
+====
 
 <#### \rad ⾨ gate 2FA8 ####>
 
