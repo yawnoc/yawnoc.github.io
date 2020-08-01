@@ -468,9 +468,9 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * trust; believe; trustworthy
 ====
 
-<#### \rad ⼁ line 2F01 ####>
+\rad ⼁ line 2F01
 
-<#### \rad ⼂ dot 2F02 ####>
+\rad ⼂ dot 2F02
 
 \rad ⼃ slash 2F03
 
@@ -495,7 +495,7 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * [:speech-assist:]
 ====
 
-<#### \rad ⼅ hook 2F05 ####>
+\rad ⼅ hook 2F05
 
 
 <##
@@ -504,9 +504,9 @@ See also: [Unihan Radical-Stroke Index][unihan]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⼆ two 2F06 ####>
+\rad ⼆ two 2F06
 
-<#### \rad ⼇ lid 2F07 ####>
+\rad ⼇ lid 2F07
 
 \rad ⼈ man 2F08
 
@@ -566,25 +566,25 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * former; late
 ====
 
-<#### \rad ⼊ enter 2F0A ####>
+\rad ⼊ enter 2F0A
 
-<#### \rad ⼋ eight 2F0B ####>
+\rad ⼋ eight 2F0B
 
-<#### \rad ⼌ down-box 2F0C ####>
+\rad ⼌ down-box 2F0C
 
-<#### \rad ⼍ cover 2F0D ####>
+\rad ⼍ cover 2F0D
 
-<#### \rad ⼎ ice 2F0E ####>
+\rad ⼎ ice 2F0E
 
-<#### \rad ⼏ table 2F0F ####>
+\rad ⼏ table 2F0F
 
-<#### \rad ⼐ open-box 2F10 ####>
+\rad ⼐ open-box 2F10
 
-<#### \rad ⼑ knife 2F11 ####>
+\rad ⼑ knife 2F11
 
-<#### \rad ⼒ power 2F12 ####>
+\rad ⼒ power 2F12
 
-<#### \rad ⼓ wrap 2F13 ####>
+\rad ⼓ wrap 2F13
 
 \rad ⼔ spoon 2F14
 
@@ -596,21 +596,21 @@ See also: [Unihan Radical-Stroke Index][unihan]
 See also: [北方][方]
 ----
 
-<#### \rad ⼕ right-open-box 2F15 ####>
+\rad ⼕ right-open-box 2F15
 
-<#### \rad ⼖ hiding-enclosure 2F16 ####>
+\rad ⼖ hiding-enclosure 2F16
 
-<#### \rad ⼗ ten 2F17 ####>
+\rad ⼗ ten 2F17
 
-<#### \rad ⼘ divination 2F18 ####>
+\rad ⼘ divination 2F18
 
-<#### \rad ⼙ seal 2F19 ####>
+\rad ⼙ seal 2F19
 
-<#### \rad ⼚ cliff 2F1A ####>
+\rad ⼚ cliff 2F1A
 
-<#### \rad ⼛ private 2F1B ####>
+\rad ⼛ private 2F1B
 
-<#### \rad ⼜ again 2F1C ####>
+\rad ⼜ again 2F1C
 
 
 
@@ -648,15 +648,15 @@ See also: [北方][方]
 * nation; country; state
 ====
 
-<#### \rad ⼟ earth 2F1F ####>
+\rad ⼟ earth 2F1F
 
-<#### \rad ⼠ scholar 2F20 ####>
+\rad ⼠ scholar 2F20
 
-<#### \rad ⼡ go 2F21 ####>
+\rad ⼡ go 2F21
 
-<#### \rad ⼢ go-slowly 2F22 ####>
+\rad ⼢ go-slowly 2F22
 
-<#### \rad ⼣ evening 2F23 ####>
+\rad ⼣ evening 2F23
 
 \rad ⼤ big 2F24
 
@@ -699,7 +699,7 @@ See also: [何如][何], [如何][何]
 See also: [女子][女]
 ----
 
-<#### \rad ⼧ roof 2F27 ####>
+\rad ⼧ roof 2F27
 
 \rad ⼨ inch 2F28
 
@@ -709,21 +709,21 @@ See also: [女子][女]
 * face
 ====
 
-<#### \rad ⼩ small 2F29 ####>
+\rad ⼩ small 2F29
 
-<#### \rad ⼪ lame 2F2A ####>
+\rad ⼪ lame 2F2A
 
-<#### \rad ⼫ corpse 2F2B ####>
+\rad ⼫ corpse 2F2B
 
-<#### \rad ⼬ sprout 2F2C ####>
+\rad ⼬ sprout 2F2C
 
-<#### \rad ⼭ mountain 2F2D ####>
+\rad ⼭ mountain 2F2D
 
-<#### \rad ⼮ river 2F2E ####>
+\rad ⼮ river 2F2E
 
-<#### \rad ⼯ work 2F2F ####>
+\rad ⼯ work 2F2F
 
-<#### \rad ⼰ oneself 2F30 ####>
+\rad ⼰ oneself 2F30
 
 \rad ⼱ turban 2F31
 
@@ -732,23 +732,23 @@ See also: [女子][女]
 * emperor; sovereign
 ====
 
-<#### \rad ⼲ dry 2F32 ####>
+\rad ⼲ dry 2F32
 
-<#### \rad ⼳ short-thread 2F33 ####>
+\rad ⼳ short-thread 2F33
 
-<#### \rad ⼴ dotted-cliff 2F34 ####>
+\rad ⼴ dotted-cliff 2F34
 
-<#### \rad ⼵ long-stride 2F35 ####>
+\rad ⼵ long-stride 2F35
 
-<#### \rad ⼶ two-hands 2F36 ####>
+\rad ⼶ two-hands 2F36
 
-<#### \rad ⼷ shoot 2F37 ####>
+\rad ⼷ shoot 2F37
 
-<#### \rad ⼸ bow 2F38 ####>
+\rad ⼸ bow 2F38
 
-<#### \rad ⼹ snout 2F39 ####>
+\rad ⼹ snout 2F39
 
-<#### \rad ⼺ bristle 2F3A ####>
+\rad ⼺ bristle 2F3A
 
 \rad ⼻ step 2F3B
 
@@ -772,7 +772,7 @@ See also: [女子][女]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⼼ heart 2F3C ####>
+\rad ⼼ heart 2F3C
 
 \rad ⼽ halberd 2F3D
 
@@ -786,11 +786,11 @@ See also: [女子][女]
 * battle; war
 ====
 
-<#### \rad ⼾ door 2F3E ####>
+\rad ⼾ door 2F3E
 
-<#### \rad ⼿ hand 2F3F ####>
+\rad ⼿ hand 2F3F
 
-<#### \rad ⽀ branch 2F40 ####>
+\rad ⽀ branch 2F40
 
 \rad ⽁ rap 2F41
 
@@ -799,11 +799,11 @@ See also: [女子][女]
 * dare
 ====
 
-<#### \rad ⽂ script 2F42 ####>
+\rad ⽂ script 2F42
 
-<#### \rad ⽃ dipper 2F43 ####>
+\rad ⽃ dipper 2F43
 
-<#### \rad ⽄ axe 2F44 ####>
+\rad ⽄ axe 2F44
 
 \rad ⽅ square 2F45
 
@@ -823,7 +823,7 @@ See also: [女子][女]
 * 北方： .[the] north
 ====
 
-<#### \rad ⽆ not 2F46 ####>
+\rad ⽆ not 2F46
 
 \rad ⽇ sun 2F47
 
@@ -840,7 +840,7 @@ See also: [女子][女]
 * say
 ====
 
-<#### \rad ⽉ moon 2F49 ####>
+\rad ⽉ moon 2F49
 
 \rad ⽊ tree 2F4A
 
@@ -850,23 +850,23 @@ See also: [女子][女]
 * if
 ====
 
-<#### \rad ⽋ lack 2F4B ####>
+\rad ⽋ lack 2F4B
 
-<#### \rad ⽌ stop 2F4C ####>
+\rad ⽌ stop 2F4C
 
-<#### \rad ⽍ death 2F4D ####>
+\rad ⽍ death 2F4D
 
-<#### \rad ⽎ weapon 2F4E ####>
+\rad ⽎ weapon 2F4E
 
-<#### \rad ⽏ do-not 2F4F ####>
+\rad ⽏ do-not 2F4F
 
-<#### \rad ⽐ compare 2F50 ####>
+\rad ⽐ compare 2F50
 
-<#### \rad ⽑ fur 2F51 ####>
+\rad ⽑ fur 2F51
 
-<#### \rad ⽒ clan 2F52 ####>
+\rad ⽒ clan 2F52
 
-<#### \rad ⽓ steam 2F53 ####>
+\rad ⽓ steam 2F53
 
 \rad ⽔ water 2F54
 
@@ -899,19 +899,19 @@ See also: [以為][以]
 * not; do not
 ====
 
-<#### \rad ⽖ claw 2F56 ####>
+\rad ⽖ claw 2F56
 
-<#### \rad ⽗ father 2F57 ####>
+\rad ⽗ father 2F57
 
-<#### \rad ⽘ double-x 2F58 ####>
+\rad ⽘ double-x 2F58
 
-<#### \rad ⽙ half-tree-trunk 2F59 ####>
+\rad ⽙ half-tree-trunk 2F59
 
-<#### \rad ⽚ slice 2F5A ####>
+\rad ⽚ slice 2F5A
 
-<#### \rad ⽛ fang 2F5B ####>
+\rad ⽛ fang 2F5B
 
-<#### \rad ⽜ cow 2F5C ####>
+\rad ⽜ cow 2F5C
 
 \rad ⽝ dog 2F5D
 
@@ -932,7 +932,7 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⽞ profound 2F5E ####>
+\rad ⽞ profound 2F5E
 
 \rad ⽟ jade 2F5F
 
@@ -946,15 +946,15 @@ See also: [以為][以]
 * [:verb:] king (to rule as king)
 ====
 
-<#### \rad ⽠ melon 2F60 ####>
+\rad ⽠ melon 2F60
 
-<#### \rad ⽡ tile 2F61 ####>
+\rad ⽡ tile 2F61
 
-<#### \rad ⽢ sweet 2F62 ####>
+\rad ⽢ sweet 2F62
 
-<#### \rad ⽣ life 2F63 ####>
+\rad ⽣ life 2F63
 
-<#### \rad ⽤ use 2F64 ####>
+\rad ⽤ use 2F64
 
 \rad ⽥ field 2F65
 
@@ -965,11 +965,11 @@ See also: [以為][以]
 * fear (to venerate)
 ====
 
-<#### \rad ⽦ bolt-of-cloth 2F66 ####>
+\rad ⽦ bolt-of-cloth 2F66
 
-<#### \rad ⽧ sickness 2F67 ####>
+\rad ⽧ sickness 2F67
 
-<#### \rad ⽨ dotted-tent 2F68 ####>
+\rad ⽨ dotted-tent 2F68
 
 \rad ⽩ white 2F69
 
@@ -978,27 +978,27 @@ See also: [以為][以]
 * hundred; \met many
 ====
 
-<#### \rad ⽪ skin 2F6A ####>
+\rad ⽪ skin 2F6A
 
-<#### \rad ⽫ dish 2F6B ####>
+\rad ⽫ dish 2F6B
 
-<#### \rad ⽬ eye 2F6C ####>
+\rad ⽬ eye 2F6C
 
-<#### \rad ⽭ spear 2F6D ####>
+\rad ⽭ spear 2F6D
 
-<#### \rad ⽮ arrow 2F6E ####>
+\rad ⽮ arrow 2F6E
 
-<#### \rad ⽯ stone 2F6F ####>
+\rad ⽯ stone 2F6F
 
-<#### \rad ⽰ spirit 2F70 ####>
+\rad ⽰ spirit 2F70
 
-<#### \rad ⽱ track 2F71 ####>
+\rad ⽱ track 2F71
 
-<#### \rad ⽲ grain 2F72 ####>
+\rad ⽲ grain 2F72
 
-<#### \rad ⽳ cave 2F73 ####>
+\rad ⽳ cave 2F73
 
-<#### \rad ⽴ stand 2F74 ####>
+\rad ⽴ stand 2F74
 
 
 
@@ -1015,13 +1015,13 @@ See also: [以為][以]
 * strategy; scheme
 ====
 
-<#### \rad ⽶ rice 2F76 ####>
+\rad ⽶ rice 2F76
 
-<#### \rad ⽷ silk 2F77 ####>
+\rad ⽷ silk 2F77
 
-<#### \rad ⽸ jar 2F78 ####>
+\rad ⽸ jar 2F78
 
-<#### \rad ⽹ net 2F79 ####>
+\rad ⽹ net 2F79
 
 \rad ⽺ sheep 2F7A
 
@@ -1030,9 +1030,9 @@ See also: [以為][以]
 * group; gathering; amass
 ====
 
-<#### \rad ⽻ feather 2F7B ####>
+\rad ⽻ feather 2F7B
 
-<#### \rad ⽼ old 2F7C ####>
+\rad ⽼ old 2F7C
 
 \rad ⽽ and 2F7D
 
@@ -1042,7 +1042,7 @@ See also: [以為][以]
 * [:speech-assist:]
 ====
 
-<#### \rad ⽾ plow 2F7E ####>
+\rad ⽾ plow 2F7E
 
 \rad ⽿ ear 2F7F
 
@@ -1051,9 +1051,9 @@ See also: [以為][以]
 * hear
 ====
 
-<#### \rad ⾀ brush 2F80 ####>
+\rad ⾀ brush 2F80
 
-<#### \rad ⾁ meat 2F81 ####>
+\rad ⾁ meat 2F81
 
 \rad ⾂ minister 2F82
 
@@ -1062,21 +1062,21 @@ See also: [以為][以]
 * minister
 ====
 
-<#### \rad ⾃ self 2F83 ####>
+\rad ⾃ self 2F83
 
-<#### \rad ⾄ arrive 2F84 ####>
+\rad ⾄ arrive 2F84
 
-<#### \rad ⾅ mortar 2F85 ####>
+\rad ⾅ mortar 2F85
 
-<#### \rad ⾆ tongue 2F86 ####>
+\rad ⾆ tongue 2F86
 
-<#### \rad ⾇ oppose 2F87 ####>
+\rad ⾇ oppose 2F87
 
-<#### \rad ⾈ boat 2F88 ####>
+\rad ⾈ boat 2F88
 
-<#### \rad ⾉ stopping 2F89 ####>
+\rad ⾉ stopping 2F89
 
-<#### \rad ⾊ color 2F8A ####>
+\rad ⾊ color 2F8A
 
 \rad ⾋ grass 2F8B
 
@@ -1092,15 +1092,15 @@ See also: [以為][以]
 * tiger
 ====
 
-<#### \rad ⾍ insect 2F8D ####>
+\rad ⾍ insect 2F8D
 
-<#### \rad ⾎ blood 2F8E ####>
+\rad ⾎ blood 2F8E
 
-<#### \rad ⾏ walk-enclosure 2F8F ####>
+\rad ⾏ walk-enclosure 2F8F
 
-<#### \rad ⾐ clothes 2F90 ####>
+\rad ⾐ clothes 2F90
 
-<#### \rad ⾑ west 2F91 ####>
+\rad ⾑ west 2F91
 
 
 
@@ -1122,7 +1122,7 @@ See also: [以為][以]
 * observe; see
 ====
 
-<#### \rad ⾓ horn 2F93 ####>
+\rad ⾓ horn 2F93
 
 \rad ⾔ speech 2F94
 
@@ -1131,17 +1131,17 @@ See also: [以為][以]
 * honest; true
 ====
 
-<#### \rad ⾕ valley 2F95 ####>
+\rad ⾕ valley 2F95
 
-<#### \rad ⾖ bean 2F96 ####>
+\rad ⾖ bean 2F96
 
-<#### \rad ⾗ pig 2F97 ####>
+\rad ⾗ pig 2F97
 
-<#### \rad ⾘ badger 2F98 ####>
+\rad ⾘ badger 2F98
 
-<#### \rad ⾙ shell 2F99 ####>
+\rad ⾙ shell 2F99
 
-<#### \rad ⾚ red 2F9A ####>
+\rad ⾚ red 2F9A
 
 \rad ⾛ run 2F9B
 
@@ -1151,15 +1151,15 @@ See also: [以為][以]
 * leave
 ====
 
-<#### \rad ⾜ foot 2F9C ####>
+\rad ⾜ foot 2F9C
 
-<#### \rad ⾝ body 2F9D ####>
+\rad ⾝ body 2F9D
 
-<#### \rad ⾞ cart 2F9E ####>
+\rad ⾞ cart 2F9E
 
-<#### \rad ⾟ bitter 2F9F ####>
+\rad ⾟ bitter 2F9F
 
-<#### \rad ⾠ morning 2FA0 ####>
+\rad ⾠ morning 2FA0
 
 \rad ⾡ walk 2FA1
 
@@ -1168,13 +1168,13 @@ See also: [以為][以]
 * defy; go against
 ====
 
-<#### \rad ⾢ city 2FA2 ####>
+\rad ⾢ city 2FA2
 
-<#### \rad ⾣ wine 2FA3 ####>
+\rad ⾣ wine 2FA3
 
-<#### \rad ⾤ distinguish 2FA4 ####>
+\rad ⾤ distinguish 2FA4
 
-<#### \rad ⾥ village 2FA5 ####>
+\rad ⾥ village 2FA5
 
 
 
@@ -1184,7 +1184,7 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⾦ gold 2FA6 ####>
+\rad ⾦ gold 2FA6
 
 \rad ⾧ long 2FA7
 
@@ -1205,7 +1205,7 @@ See also: [以為][以]
 * leftover; surplus
 ====
 
-<#### \rad ⾨ gate 2FA8 ####>
+\rad ⾨ gate 2FA8
 
 \rad ⾩ mound 2FA9
 
@@ -1214,15 +1214,15 @@ See also: [以為][以]
 * follow
 ====
 
-<#### \rad ⾪ slave 2FAA ####>
+\rad ⾪ slave 2FAA
 
-<#### \rad ⾫ short-tailed-bird 2FAB ####>
+\rad ⾫ short-tailed-bird 2FAB
 
-<#### \rad ⾬ rain 2FAC ####>
+\rad ⾬ rain 2FAC
 
-<#### \rad ⾭ blue 2FAD ####>
+\rad ⾭ blue 2FAD
 
-<#### \rad ⾮ wrong 2FAE ####>
+\rad ⾮ wrong 2FAE
 
 
 
@@ -1231,21 +1231,21 @@ See also: [以為][以]
   Radicals with 9 strokes
   ----------------------------------------------------------------
 ##>
-<#### \rad ⾯ face 2FAF ####>
+\rad ⾯ face 2FAF
 
-<#### \rad ⾰ leather 2FB0 ####>
+\rad ⾰ leather 2FB0
 
-<#### \rad ⾱ tanned-leather 2FB1 ####>
+\rad ⾱ tanned-leather 2FB1
 
-<#### \rad ⾲ leek 2FB2 ####>
+\rad ⾲ leek 2FB2
 
-<#### \rad ⾳ sound 2FB3 ####>
+\rad ⾳ sound 2FB3
 
-<#### \rad ⾴ leaf 2FB4 ####>
+\rad ⾴ leaf 2FB4
 
-<#### \rad ⾵ wind 2FB5 ####>
+\rad ⾵ wind 2FB5
 
-<#### \rad ⾶ fly 2FB6 ####>
+\rad ⾶ fly 2FB6
 
 \rad ⾷ eat 2FB7
 
@@ -1264,9 +1264,9 @@ See also: [以為][以]
 * feed
 ====
 
-<#### \rad ⾸ head 2FB8 ####>
+\rad ⾸ head 2FB8
 
-<#### \rad ⾹ fragrant 2FB9 ####>
+\rad ⾹ fragrant 2FB9
 
 
 
@@ -1276,21 +1276,21 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⾺ horse 2FBA ####>
+\rad ⾺ horse 2FBA
 
-<#### \rad ⾻ bone 2FBB ####>
+\rad ⾻ bone 2FBB
 
-<#### \rad ⾼ tall 2FBC ####>
+\rad ⾼ tall 2FBC
 
-<#### \rad ⾽ hair 2FBD ####>
+\rad ⾽ hair 2FBD
 
-<#### \rad ⾾ fight 2FBE ####>
+\rad ⾾ fight 2FBE
 
-<#### \rad ⾿ sacrificial-wine 2FBF ####>
+\rad ⾿ sacrificial-wine 2FBF
 
-<#### \rad ⿀ cauldron 2FC0 ####>
+\rad ⿀ cauldron 2FC0
 
-<#### \rad ⿁ ghost 2FC1 ####>
+\rad ⿁ ghost 2FC1
 
 
 
@@ -1300,17 +1300,17 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⿂ fish 2FC2 ####>
+\rad ⿂ fish 2FC2
 
-<#### \rad ⿃ bird 2FC3 ####>
+\rad ⿃ bird 2FC3
 
-<#### \rad ⿄ salt 2FC4 ####>
+\rad ⿄ salt 2FC4
 
-<#### \rad ⿅ deer 2FC5 ####>
+\rad ⿅ deer 2FC5
 
-<#### \rad ⿆ wheat 2FC6 ####>
+\rad ⿆ wheat 2FC6
 
-<#### \rad ⿇ hemp 2FC7 ####>
+\rad ⿇ hemp 2FC7
 
 
 
@@ -1320,13 +1320,13 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⿈ yellow 2FC8 ####>
+\rad ⿈ yellow 2FC8
 
-<#### \rad ⿉ millet 2FC9 ####>
+\rad ⿉ millet 2FC9
 
-<#### \rad ⿊ black 2FCA ####>
+\rad ⿊ black 2FCA
 
-<#### \rad ⿋ embroidery 2FCB ####>
+\rad ⿋ embroidery 2FCB
 
 
 
@@ -1336,13 +1336,13 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⿌ frog 2FCC ####>
+\rad ⿌ frog 2FCC
 
-<#### \rad ⿍ tripod 2FCD ####>
+\rad ⿍ tripod 2FCD
 
-<#### \rad ⿎ drum 2FCE ####>
+\rad ⿎ drum 2FCE
 
-<#### \rad ⿏ rat 2FCF ####>
+\rad ⿏ rat 2FCF
 
 
 
@@ -1352,9 +1352,9 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⿐ nose 2FD0 ####>
+\rad ⿐ nose 2FD0
 
-<#### \rad ⿑ even 2FD1 ####>
+\rad ⿑ even 2FD1
 
 
 
@@ -1364,7 +1364,7 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⿒ tooth 2FD2 ####>
+\rad ⿒ tooth 2FD2
 
 
 
@@ -1374,9 +1374,9 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⿓ dragon 2FD3 ####>
+\rad ⿓ dragon 2FD3
 
-<#### \rad ⿔ turtle 2FD4 ####>
+\rad ⿔ turtle 2FD4
 
 
 
@@ -1386,7 +1386,7 @@ See also: [以為][以]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⿕ flute 2FD5 ####>
+\rad ⿕ flute 2FD5
 
 
 
