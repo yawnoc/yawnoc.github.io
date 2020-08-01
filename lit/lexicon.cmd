@@ -297,7 +297,7 @@ See also: [逝世][逝]
 
 \char 7 事 4E8B
 ====
-* matter; incident
+* matter; incident; event
 * serve
 ====
 
@@ -630,7 +630,7 @@ See also: [女子][女]
 
 \char 11 實 5BE6
 ====
-* actual; real; solid
+* actual; (in) fact; real; solid
 * full
 * fruit
 ====
