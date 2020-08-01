@@ -20,9 +20,12 @@
     h3 > span {
       font-weight: normal;
     }
+    h3 > .permalink {
+      padding-left: 1em;
+    }
     ul {
       margin-top: 0;
-      padding-left: 2.7em;
+      padding-left: 4em;
     }
     .character {
       background: #ffc;
@@ -31,7 +34,7 @@
       margin-right: 0.5em;
       padding: 0.13em 0.2em;
     }
-    .code-point {
+    .code-point, .residual-strokes {
       font-family: Consolas, "Lucida Sans Typewriter", monospace;
     }
     .residual-strokes {
@@ -39,7 +42,7 @@
       font-size: 0.8rem;
       text-align: right;
       vertical-align: top;
-      width: 1.3rem;
+      width: 1.2rem;
     }
     .tone {
       background: #666;
@@ -50,7 +53,7 @@
     h4 {
       margin-top: 0.5em;
       margin-bottom: 0.5em;
-      padding-left: 1.7em;
+      padding-left: 3em;
     }
     h4 + ul {
       margin: 0.5em 0;
