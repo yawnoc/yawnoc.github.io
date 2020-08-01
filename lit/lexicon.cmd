@@ -253,6 +253,14 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * not
 ====
 
+\char 4 世 4E16
+====
+* generation
+====
+----
+See also: [逝世][逝]
+----
+
 \char 7 信 4FE1
 ====
 * trust; believe; trustworthy
@@ -286,6 +294,12 @@ See also: [Unihan Radical-Stroke Index][unihan]
 ====
 
 \rad ⼅ hook 2F05
+
+\char 7 事 4E8B
+====
+* matter; incident
+* serve
+====
 
 
 
@@ -365,6 +379,12 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * envoy; messenger
 ====
 
+\char 6 侍 4F8D
+====
+* serve
+* servant
+====
+
 \char 9 假 5047
 [上聲]
 ====
@@ -409,6 +429,12 @@ See also: [Unihan Radical-Stroke Index][unihan]
 
 \rad ⼒ power 2F12
 
+\char 11 勢 52E2
+====
+* influence; power
+* momentum; situation
+====
+
 \rad ⼓ wrap 2F13
 
 \rad ⼔ spoon 2F14
@@ -426,6 +452,11 @@ See also: [北方][方]
 \rad ⼖ hiding-enclosure 2F16
 
 \rad ⼗ ten 2F17
+
+\char 0 十 5341
+====
+* ten
+====
 
 \char 1 千 5343
 ====
@@ -483,6 +514,11 @@ See also: [北方][方]
 
 \rad ⼝ mouth 2F1D
 
+\char 2 史 53F2
+====
+* history; record
+====
+
 \char 4 吾 543E
 ====
 * I; we
@@ -502,6 +538,11 @@ See also: [北方][方]
 * [:noun:] asking; enquiry; question
 ====
 
+\char 10 嗜 55DC
+====
+* like; .[be] fond of
+====
+
 \rad ⼞ enclosure 2F1E
 
 \char 8 國 570B
@@ -518,6 +559,14 @@ See also: [北方][方]
 ====
 
 \rad ⼠ scholar 2F20
+
+\char 0 士 58EB
+====
+* scholar
+====
+----
+See also: [詩士][詩]
+----
 
 \rad ⼡ go 2F21
 
@@ -550,6 +599,11 @@ See also: [北方][方]
 See also: [何如][何], [如何][何]
 ----
 
+\char 5 始 59CB
+====
+* begin; start; \met first
+====
+
 \char 6 威 5A01
 ====
 * pomp; might; \met authority
@@ -567,6 +621,12 @@ See also: [女子][女]
 ----
 
 \rad ⼧ roof 2F27
+
+\char 6 室 5BA4
+====
+* house
+* room
+====
 
 \char 11 實 5BE6
 ====
@@ -594,6 +654,11 @@ See also: [女子][女]
 
 \rad ⼫ corpse 2F2B
 
+\char 6 屍 5C4D
+====
+* corpse; carcass
+====
+
 \char 18 屬 5C6C
 ====
 * type; class
@@ -616,6 +681,11 @@ See also: [女子][女]
 ====
 
 \rad ⼱ turban 2F31
+
+\char 2 市 5E02
+====
+* market
+====
 
 \char 6 帝 5E1D
 ====
@@ -705,6 +775,11 @@ See also: [女子][女]
 
 \rad ⼼ heart 2F3C
 
+\char 6 恃 6043
+====
+* rely upon
+====
+
 \rad ⼽ halberd 2F3D
 
 \char 3 我 6211
@@ -720,6 +795,17 @@ See also: [女子][女]
 \rad ⼾ door 2F3E
 
 \rad ⼿ hand 2F3F
+
+\char 6 拭 62ED
+====
+* wipe
+====
+
+\char 6 拾 62FE
+====
+* pick up
+* Ten
+====
 
 \rad ⽀ branch 2F40
 
@@ -772,6 +858,15 @@ See also: [女子][女]
 * this
 ====
 
+\char 6 時 6642
+====
+* time; hour; season
+* when
+====
+====
+* 時時： all the time; often
+====
+
 \char 8 智 667A
 ====
 * wisdom
@@ -810,6 +905,12 @@ See also: [女子][女]
 
 \rad ⽒ clan 2F52
 
+\char 0 氏 6C0F
+====
+* clan
+* surname; \met Mr
+====
+
 \rad ⽓ steam 2F53
 
 \rad ⽔ water 2F54
@@ -818,6 +919,11 @@ See also: [女子][女]
 ====
 * seek
 * request; beseech
+====
+
+\char 14 濕 6FD5
+====
+* wet
 ====
 
 \rad ⽕ fire 2F55
@@ -874,6 +980,11 @@ See also: [以為][以]
 \char 9 猶 7336
 ====
 * like
+====
+
+\char 10 獅 7345
+====
+* lion
 ====
 
 \char 15 獸 7378
@@ -982,6 +1093,11 @@ See also: [百萬][萬]
 
 \rad ⽮ arrow 2F6E
 
+\char 0 矢 77E2
+====
+* arrow
+====
+
 \char 3 知 77E5
 [平聲]
 ====
@@ -994,7 +1110,17 @@ See also: [百萬][萬]
 
 \rad ⽯ stone 2F6F
 
+\char 0 石 77F3
+====
+* stone; rock
+====
+
 \rad ⽰ spirit 2F70
+
+\char 7 視 8996
+====
+* view
+====
 
 \rad ⽱ track 2F71
 
@@ -1213,9 +1339,32 @@ See also: [百萬][萬]
 
 \rad ⾔ speech 2F94
 
+\char 6 試 8A66
+====
+* try; attempt
+====
+
+\char 6 詩 8A69
+====
+* poem; verse
+====
+====
+* 詩士： poet
+====
+
 \char 6 誠 8AA0
 ====
 * honest; true
+====
+
+\char 7 誓 8A93
+====
+* swear; take oath
+====
+
+\char 12 識 8B58
+====
+* know; knowledge
 ====
 
 \rad ⾕ valley 2F95
@@ -1255,9 +1404,24 @@ See also: [百萬][萬]
 * defy; go against
 ====
 
+\char 7 逝 901D
+====
+* pass
+====
+====
+* 逝世： pass away
+====
+
 \char 9 遂 9042
 ====
 * then
+====
+
+\char 11 適 9069
+====
+* go unto
+* suitable
+* just
 ====
 
 \rad ⾢ city 2FA2
@@ -1265,6 +1429,12 @@ See also: [百萬][萬]
 \rad ⾣ wine 2FA3
 
 \rad ⾤ distinguish 2FA4
+
+\char 13 釋 91CB
+====
+* release; put down
+* interpret
+====
 
 \rad ⾥ village 2FA5
 
