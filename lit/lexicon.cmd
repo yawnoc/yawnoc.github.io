@@ -336,7 +336,7 @@ See also: [逝世][逝]
 
 \char 2 五 4E94
 ====
-* five
+* five; fifth
 ====
 
 \rad ⼇ lid 2F07
@@ -455,7 +455,7 @@ See also: [北方][方]
 
 \char 0 十 5341
 ====
-* ten
+* ten; tenth
 ====
 
 \char 1 千 5343
