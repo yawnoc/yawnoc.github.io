@@ -126,7 +126,7 @@ The Chinese source text is from Page~143 of Chao's
   氏視是十獅，恃矢勢，使是十獅逝世。
 ||
   Mr~.[Shih] viewed these ten lions,
-  .[and], relying on .[the] momentum of the arrow,
+  .[and], relying upon .[the] momentum of the arrow,
   made these ten lions pass away.
 >>
 ====
