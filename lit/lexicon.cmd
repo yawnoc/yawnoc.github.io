@@ -93,7 +93,7 @@
 <#### * [⼆](#two) ####>
 <#### * [⼇](#lid) ####>
 * [⼈](#man)
-<#### * [⼉](#legs) ####>
+* [⼉](#legs)
 <#### * [⼊](#enter) ####>
 <#### * [⼋](#eight) ####>
 <#### * [⼌](#down-box) ####>
@@ -240,7 +240,7 @@
 <#### * [⾑](#west) ####>
 
 <## 7 strokes ##>
-<#### * [⾒](#see) ####>
+* [⾒](#see)
 <#### * [⾓](#horn) ####>
 * [⾔](#speech)
 <#### * [⾕](#valley) ####>
@@ -249,7 +249,7 @@
 <#### * [⾘](#badger) ####>
 <#### * [⾙](#shell) ####>
 <#### * [⾚](#red) ####>
-<#### * [⾛](#run) ####>
+* [⾛](#run)
 <#### * [⾜](#foot) ####>
 <#### * [⾝](#body) ####>
 <#### * [⾞](#cart) ####>
@@ -265,7 +265,7 @@
 <#### * [⾦](#gold) ####>
 * [⾧](#long)
 <#### * [⾨](#gate) ####>
-<#### * [⾩](#mound) ####>
+* [⾩](#mound)
 <#### * [⾪](#slave) ####>
 <#### * [⾫](#short-tailed-bird) ####>
 <#### * [⾬](#rain) ####>
@@ -455,6 +455,16 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * same
 ====
 
+\char 3 不 4E0D
+====
+* not
+====
+
+\char 7 信 4FE1
+====
+* trust; believe; trustworthy
+====
+
 <#### \rad ⼁ line 2F01 ####>
 
 <#### \rad ⼂ dot 2F02 ####>
@@ -467,6 +477,11 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * this; these
 * him; it; them
 * of
+* [:speech-assist:]
+====
+
+\char 4 乎 4E4E
+====
 * [:speech-assist:]
 ====
 
@@ -496,6 +511,15 @@ See also: [Unihan Radical-Stroke Index][unihan]
 ====
 * now; current
 * this (day); today
+====
+
+\char 3 以 4EE5
+====
+* use; by; with
+* think; believe
+====
+====
+* 以為： think; believe
 ====
 
 \char 5 何 4F55
@@ -531,7 +555,13 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * rest; holiday
 ====
 
-<#### \rad ⼉ legs 2F09 ####>
+\rad ⼉ legs 2F09
+
+\char 4 先 5148
+====
+* first
+* former; late
+====
 
 <#### \rad ⼊ enter 2F0A ####>
 
@@ -719,6 +749,13 @@ See also: [女子][女]
 
 \rad ⼻ step 2F3B
 
+\char 6 後 5F8C
+====
+* behind; rear
+* after
+* afterbear
+====
+
 \char 8 得 5F97
 ====
 * obtain; get
@@ -837,6 +874,21 @@ See also: [女子][女]
 ====
 
 \rad ⽕ fire 2F55
+
+\char 5 為 70BA
+[平聲]
+====
+* make
+* do
+* be
+====
+----
+See also: [以為][以]
+----
+[去聲]
+====
+* because; for
+====
 
 \char 8 無 7121
 ====
@@ -1055,7 +1107,17 @@ See also: [女子][女]
   ----------------------------------------------------------------
 ##>
 
-<#### \rad ⾒ see 2F92 ####>
+\rad ⾒ see 2F92
+
+\char 0 見 898B
+====
+* see; meet
+====
+
+\char 18 觀 89C0
+====
+* observe; see
+====
 
 <#### \rad ⾓ horn 2F93 ####>
 
@@ -1078,7 +1140,13 @@ See also: [女子][女]
 
 <#### \rad ⾚ red 2F9A ####>
 
-<#### \rad ⾛ run 2F9B ####>
+\rad ⾛ run 2F9B
+
+\char 0 走 8D70
+====
+* run; flee
+* leave
+====
 
 <#### \rad ⾜ foot 2F9C ####>
 
@@ -1136,7 +1204,12 @@ See also: [女子][女]
 
 <#### \rad ⾨ gate 2FA8 ####>
 
-<#### \rad ⾩ mound 2FA9 ####>
+\rad ⾩ mound 2FA9
+
+\char 13 隨 96A8
+====
+* follow
+====
 
 <#### \rad ⾪ slave 2FAA ####>
 
