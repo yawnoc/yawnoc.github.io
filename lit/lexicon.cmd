@@ -2,6 +2,7 @@
 
 {+ resources/syntax/chinese-lang.cmd +}
 {+ resources/syntax/translations.cmd +}
+{+ resources/syntax/romanisations.cmd +}
 
 %%
   %title Conway's Lexicon for Literary Chinese
@@ -46,11 +47,12 @@
     }
     .tone {
       background: #666;
-      font-weight: normal;
       color: white;
       padding: 0.13em 0.2em;
     }
     h5 {
+      font-size: 0.95em;
+      font-weight: normal;
       margin-top: 0.5em;
       margin-bottom: 0.5em;
       padding-left: 3.8em;
@@ -152,17 +154,19 @@ r{%
   @[\g<character>] #\g<character> @
 %}
 
-<## Tone heading  [tone]  ##>
+<## Tone heading  [{tone}] {pronunciation}  ##>
 
 l{%
   \[
     (?P<tone> [陰陽平上去入聲]{2} )
   \]
+  [ ]*
+  (?P<pronunciation> [^\n]* )
 %
-  ##### <span class="tone">\g<tone></span> #####
+  ##### <span class="tone">\g<tone></span> \g<pronunciation> #####
 %}
 
-<## Type spans  [:type:] ##>
+<## Type spans  [:{type}:] ##>
 
 l{%
   \[
@@ -316,6 +320,11 @@ See also: [Unihan Radical-Stroke Index][unihan]
 
 \rad ⼆ two 2F06
 
+\char 2 五 4E94
+====
+* five
+====
+
 \rad ⼇ lid 2F07
 
 \rad ⼈ man 2F08
@@ -380,6 +389,12 @@ See also: [Unihan Radical-Stroke Index][unihan]
 
 \rad ⼋ eight 2F0B
 
+\char 5 兵 5175
+====
+* soldier; troops
+* warfare
+====
+
 \rad ⼌ down-box 2F0C
 
 \rad ⼍ cover 2F0D
@@ -411,6 +426,11 @@ See also: [北方][方]
 \rad ⼖ hiding-enclosure 2F16
 
 \rad ⼗ ten 2F17
+
+\char 1 千 5343
+====
+* thousand
+====
 
 \rad ⼘ divination 2F18
 
@@ -491,6 +511,12 @@ See also: [北方][方]
 
 \rad ⼟ earth 2F1F
 
+\char 3 地 5730
+====
+* earth
+* land; \met territory
+====
+
 \rad ⼠ scholar 2F20
 
 \rad ⼡ go 2F21
@@ -542,7 +568,19 @@ See also: [女子][女]
 
 \rad ⼧ roof 2F27
 
+\char 11 實 5BE6
+====
+* actual; real; solid
+* full
+* fruit
+====
+
 \rad ⼨ inch 2F28
+
+\char 8 專 5C08
+====
+* exclusive; sole
+====
 
 \char 11 對 5C0D
 ====
@@ -556,6 +594,12 @@ See also: [女子][女]
 
 \rad ⼫ corpse 2F2B
 
+\char 18 屬 5C6C
+====
+* type; class
+* subordinate; belong unto
+====
+
 \rad ⼬ sprout 2F2C
 
 \rad ⼭ mountain 2F2D
@@ -566,11 +610,22 @@ See also: [女子][女]
 
 \rad ⼰ oneself 2F30
 
+\char 0 己 5DF1
+====
+* oneself; himself
+====
+
 \rad ⼱ turban 2F31
 
 \char 6 帝 5E1D
 ====
 * emperor; sovereign
+====
+
+\char 8 帶 5E36
+====
+* belt
+* wear; don; carry
 ====
 
 \rad ⼲ dry 2F32
@@ -670,6 +725,14 @@ See also: [女子][女]
 
 \rad ⽁ rap 2F41
 
+\char 5 故 6545
+====
+* reason; cause
+* incident
+* old
+* therefore
+====
+
 \char 8 敢 6562
 ====
 * dare
@@ -707,6 +770,11 @@ See also: [女子][女]
 ====
 * right; correct
 * this
+====
+
+\char 8 智 667A
+====
+* wisdom
 ====
 
 \rad ⽈ say 2F48
@@ -775,6 +843,13 @@ See also: [以為][以]
 * not; do not
 ====
 
+\char 8 然 7136
+====
+* so; thus
+* indeed
+* [:speech-assist:]
+====
+
 \rad ⽖ claw 2F56
 
 \rad ⽗ father 2F57
@@ -794,6 +869,11 @@ See also: [以為][以]
 \char 5 狐 72D0
 ====
 * fox
+====
+
+\char 9 猶 7336
+====
+* like
 ====
 
 \char 15 獸 7378
@@ -858,6 +938,12 @@ See also: [以為][以]
 
 \rad ⽥ field 2F65
 
+\char 0 甲 7532
+====
+* armour
+* A (1st heavenly stem)
+====
+
 \char 4 畏 754F
 ====
 * fear (to dread)
@@ -877,6 +963,14 @@ See also: [以為][以]
 ====
 * hundred; \met many
 ====
+----
+See also: [百萬][萬]
+----
+
+\char 4 皆 7686
+====
+* all
+====
 
 \rad ⽪ skin 2F6A
 
@@ -888,11 +982,29 @@ See also: [以為][以]
 
 \rad ⽮ arrow 2F6E
 
+\char 3 知 77E5
+[平聲]
+====
+* know
+====
+[去聲]
+====
+* (\int [智]) wisdom
+====
+
 \rad ⽯ stone 2F6F
 
 \rad ⽰ spirit 2F70
 
 \rad ⽱ track 2F71
+
+\char 8 萬 842C
+====
+* myriad
+====
+====
+* 百萬： hundred myriad; million
+====
 
 \rad ⽲ grain 2F72
 
@@ -997,6 +1109,18 @@ See also: [以為][以]
 
 \rad ⾅ mortar 2F85
 
+\char 8 與 8207
+[平聲]
+====
+* [:speech-assist:]
+====
+[上聲]
+====
+* give
+* and
+* with
+====
+
 \rad ⾆ tongue 2F86
 
 \rad ⾇ oppose 2F87
@@ -1026,6 +1150,20 @@ See also: [以為][以]
 \rad ⾎ blood 2F8E
 
 \rad ⾏ walk-enclosure 2F8F
+
+\char 0 行 884C
+[平聲] 音蘅
+====
+* walk; move
+====
+[平聲] 音航
+====
+* column
+====
+[去聲]
+====
+* [:noun:] conduct
+====
 
 \rad ⾐ clothes 2F90
 
@@ -1117,6 +1255,11 @@ See also: [以為][以]
 * defy; go against
 ====
 
+\char 9 遂 9042
+====
+* then
+====
+
 \rad ⾢ city 2FA2
 
 \rad ⾣ wine 2FA3
@@ -1124,6 +1267,12 @@ See also: [以為][以]
 \rad ⾤ distinguish 2FA4
 
 \rad ⾥ village 2FA5
+
+\char 0 里 91CC
+====
+* village
+* [:unit:] mile
+====
 
 
 
