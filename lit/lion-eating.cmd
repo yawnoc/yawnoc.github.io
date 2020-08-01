@@ -8,7 +8,7 @@
   %title "An History of Mr Shih's Eating of Lions" 《施氏食獅史》
   %title-en ".[An] History of Mr~Shih's Eating of Lions"
   %date-created 2019-04-07
-  %date-modified 2020-05-02
+  %date-modified 2020-08-02
   \resources:rendering
   %description
     An English translation of the Mandarin "lion tongue twister" \
@@ -101,7 +101,7 @@ The Chinese source text is from Page~143 of Chao's
 <<
   氏時時適市視獅。
 ||
-  Mr~.[Shih] went to .[the] market all the time .[to] view lions.
+  Mr~.[Shih] went unto market all the time .[to] view lions.
 >>
 ====
 * 氏 \+
@@ -109,14 +109,14 @@ The Chinese source text is from Page~143 of Chao's
 
 * 時時： all the time; \or often
 
-* 適：往也； went to
+* 適：往也； went unto
 ====
 
 <<
   十時，適十獅適市。是時，適施氏適市。
 ||
-  .[At] ten o'clock, ten lions .[had] just arrived at .[the] market.
-  .[At] this time, Mr~Shih .[had also] just arrived at .[the] market.
+  .[At] ten o'clock, ten lions .[had] just gone unto market.
+  .[At] this time, Mr~Shih .[had also] just gone unto market.
 >>
 ====
 * 十時： ten o'clock \+
@@ -126,15 +126,13 @@ The Chinese source text is from Page~143 of Chao's
   rather than numbered one-hour intervals.
 
 * 適： .[had] just; \or .[happened to have] just
-
-* 適：至也； arrived at
 ====
 
 <<
   氏視是十獅，恃矢勢，使是十獅逝世。
 ||
-  Mr~.[Shih] saw these ten lions,
-  .[and], relying on .[the] situational .[advantage] of the arrow,
+  Mr~.[Shih] viewed these ten lions,
+  .[and], relying on .[the] momentum of the arrow,
   made these ten lions pass away.
 >>
 ====
@@ -147,7 +145,7 @@ The Chinese source text is from Page~143 of Chao's
   氏拾是十獅屍，適石室。
 ||
   Mr~.[Shih] picked up .[the] carcasses of these ten lions,
-  .[and] went to .[the] stone house.
+  .[and] went unto .[the] stone house.
 >>
 
 <<
@@ -175,7 +173,7 @@ The Chinese source text is from Page~143 of Chao's
   .[were] actually .[the] carcasses of ten stone lions.
 >>
 ====
-* 始： first; \or begin to
+* 始： first; \lit begin to
 
 * 實： actually; \or in fact; \or really
 ====
