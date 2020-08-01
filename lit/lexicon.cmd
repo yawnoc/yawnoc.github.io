@@ -460,6 +460,14 @@ See also: [Unihan Radical-Stroke Index][unihan]
 
 [1-stroke]
 
+[====
+* [⼀](#one)
+* [⼁](#line)
+* [⼂](#dot)
+* [⼃](#slash)
+* [⼄](#second)
+* [⼅](#hook)
+====]
 
 
 \rad ⼀ one 2F00
@@ -513,6 +521,31 @@ See also: [Unihan Radical-Stroke Index][unihan]
 
 [2-stroke]
 
+[====
+* [⼆](#two)
+* [⼇](#lid)
+* [⼈](#man)
+* [⼉](#legs)
+* [⼊](#enter)
+* [⼋](#eight)
+* [⼌](#down-box)
+* [⼍](#cover)
+* [⼎](#ice)
+* [⼏](#table)
+* [⼐](#open-box)
+* [⼑](#knife)
+* [⼒](#power)
+* [⼓](#wrap)
+* [⼔](#spoon)
+* [⼕](#right-open-box)
+* [⼖](#hiding-enclosure)
+* [⼗](#ten)
+* [⼘](#divination)
+* [⼙](#seal)
+* [⼚](#cliff)
+* [⼛](#private)
+* [⼜](#again)
+====]
 
 
 \rad ⼆ two 2F06
@@ -627,6 +660,39 @@ See also: [北方][方]
 
 [3-stroke]
 
+[====
+* [⼝](#mouth)
+* [⼞](#enclosure)
+* [⼟](#earth)
+* [⼠](#scholar)
+* [⼡](#go)
+* [⼢](#go-slowly)
+* [⼣](#evening)
+* [⼤](#big)
+* [⼥](#woman)
+* [⼦](#child)
+* [⼧](#roof)
+* [⼨](#inch)
+* [⼩](#small)
+* [⼪](#lame)
+* [⼫](#corpse)
+* [⼬](#sprout)
+* [⼭](#mountain)
+* [⼮](#river)
+* [⼯](#work)
+* [⼰](#oneself)
+* [⼱](#turban)
+* [⼲](#dry)
+* [⼳](#short-thread)
+* [⼴](#dotted-cliff)
+* [⼵](#long-stride)
+* [⼶](#two-hands)
+* [⼷](#shoot)
+* [⼸](#bow)
+* [⼹](#snout)
+* [⼺](#bristle)
+* [⼻](#step)
+====]
 
 
 \rad ⼝ mouth 2F1D
@@ -778,6 +844,42 @@ See also: [女子][女]
 
 [4-stroke]
 
+[====
+* [⼼](#heart)
+* [⼽](#halberd)
+* [⼾](#door)
+* [⼿](#hand)
+* [⽀](#branch)
+* [⽁](#rap)
+* [⽂](#script)
+* [⽃](#dipper)
+* [⽄](#axe)
+* [⽅](#square)
+* [⽆](#not)
+* [⽇](#sun)
+* [⽈](#say)
+* [⽉](#moon)
+* [⽊](#tree)
+* [⽋](#lack)
+* [⽌](#stop)
+* [⽍](#death)
+* [⽎](#weapon)
+* [⽏](#do-not)
+* [⽐](#compare)
+* [⽑](#fur)
+* [⽒](#clan)
+* [⽓](#steam)
+* [⽔](#water)
+* [⽕](#fire)
+* [⽖](#claw)
+* [⽗](#father)
+* [⽘](#double-x)
+* [⽙](#half-tree-trunk)
+* [⽚](#slice)
+* [⽛](#fang)
+* [⽜](#cow)
+* [⽝](#dog)
+====]
 
 
 \rad ⼼ heart 2F3C
@@ -937,6 +1039,31 @@ See also: [以為][以]
 
 [5-stroke]
 
+[====
+* [⽞](#profound)
+* [⽟](#jade)
+* [⽠](#melon)
+* [⽡](#tile)
+* [⽢](#sweet)
+* [⽣](#life)
+* [⽤](#use)
+* [⽥](#field)
+* [⽦](#bolt-of-cloth)
+* [⽧](#sickness)
+* [⽨](#dotted-tent)
+* [⽩](#white)
+* [⽪](#skin)
+* [⽫](#dish)
+* [⽬](#eye)
+* [⽭](#spear)
+* [⽮](#arrow)
+* [⽯](#stone)
+* [⽰](#spirit)
+* [⽱](#track)
+* [⽲](#grain)
+* [⽳](#cave)
+* [⽴](#stand)
+====]
 
 
 \rad ⽞ profound 2F5E
@@ -1011,6 +1138,37 @@ See also: [以為][以]
 
 [6-stroke]
 
+[====
+* [⽵](#bamboo)
+* [⽶](#rice)
+* [⽷](#silk)
+* [⽸](#jar)
+* [⽹](#net)
+* [⽺](#sheep)
+* [⽻](#feather)
+* [⽼](#old)
+* [⽽](#and)
+* [⽾](#plow)
+* [⽿](#ear)
+* [⾀](#brush)
+* [⾁](#meat)
+* [⾂](#minister)
+* [⾃](#self)
+* [⾄](#arrive)
+* [⾅](#mortar)
+* [⾆](#tongue)
+* [⾇](#oppose)
+* [⾈](#boat)
+* [⾉](#stopping)
+* [⾊](#color)
+* [⾋](#grass)
+* [⾌](#tiger)
+* [⾍](#insect)
+* [⾎](#blood)
+* [⾏](#walk-enclosure)
+* [⾐](#clothes)
+* [⾑](#west)
+====]
 
 
 \rad ⽵ bamboo 2F75
@@ -1111,6 +1269,28 @@ See also: [以為][以]
 
 [7-stroke]
 
+[====
+* [⾒](#see)
+* [⾓](#horn)
+* [⾔](#speech)
+* [⾕](#valley)
+* [⾖](#bean)
+* [⾗](#pig)
+* [⾘](#badger)
+* [⾙](#shell)
+* [⾚](#red)
+* [⾛](#run)
+* [⾜](#foot)
+* [⾝](#body)
+* [⾞](#cart)
+* [⾟](#bitter)
+* [⾠](#morning)
+* [⾡](#walk)
+* [⾢](#city)
+* [⾣](#wine)
+* [⾤](#distinguish)
+* [⾥](#village)
+====]
 
 
 \rad ⾒ see 2F92
@@ -1183,6 +1363,17 @@ See also: [以為][以]
 
 [8-stroke]
 
+[====
+* [⾦](#gold)
+* [⾧](#long)
+* [⾨](#gate)
+* [⾩](#mound)
+* [⾪](#slave)
+* [⾫](#short-tailed-bird)
+* [⾬](#rain)
+* [⾭](#blue)
+* [⾮](#wrong)
+====]
 
 
 \rad ⾦ gold 2FA6
@@ -1229,6 +1420,19 @@ See also: [以為][以]
 
 [9-stroke]
 
+[====
+* [⾯](#face)
+* [⾰](#leather)
+* [⾱](#tanned-leather)
+* [⾲](#leek)
+* [⾳](#sound)
+* [⾴](#leaf)
+* [⾵](#wind)
+* [⾶](#fly)
+* [⾷](#eat)
+* [⾸](#head)
+* [⾹](#fragrant)
+====]
 
 
 \rad ⾯ face 2FAF
@@ -1272,6 +1476,16 @@ See also: [以為][以]
 
 [10-stroke]
 
+[====
+* [⾺](#horse)
+* [⾻](#bone)
+* [⾼](#tall)
+* [⾽](#hair)
+* [⾾](#fight)
+* [⾿](#sacrificial-wine)
+* [⿀](#cauldron)
+* [⿁](#ghost)
+====]
 
 
 \rad ⾺ horse 2FBA
@@ -1294,6 +1508,14 @@ See also: [以為][以]
 
 [11-stroke]
 
+[====
+* [⿂](#fish)
+* [⿃](#bird)
+* [⿄](#salt)
+* [⿅](#deer)
+* [⿆](#wheat)
+* [⿇](#hemp)
+====]
 
 
 \rad ⿂ fish 2FC2
@@ -1312,6 +1534,12 @@ See also: [以為][以]
 
 [12-stroke]
 
+[====
+* [⿈](#yellow)
+* [⿉](#millet)
+* [⿊](#black)
+* [⿋](#embroidery)
+====]
 
 
 \rad ⿈ yellow 2FC8
@@ -1326,6 +1554,12 @@ See also: [以為][以]
 
 [13-stroke]
 
+[====
+* [⿌](#frog)
+* [⿍](#tripod)
+* [⿎](#drum)
+* [⿏](#rat)
+====]
 
 
 \rad ⿌ frog 2FCC
@@ -1340,6 +1574,10 @@ See also: [以為][以]
 
 [14-stroke]
 
+[====
+* [⿐](#nose)
+* [⿑](#even)
+====]
 
 
 \rad ⿐ nose 2FD0
@@ -1350,6 +1588,9 @@ See also: [以為][以]
 
 [15-stroke]
 
+[====
+* [⿒](#tooth)
+====]
 
 
 \rad ⿒ tooth 2FD2
@@ -1358,6 +1599,10 @@ See also: [以為][以]
 
 [16-stroke]
 
+[====
+* [⿓](#dragon)
+* [⿔](#turtle)
+====]
 
 
 \rad ⿓ dragon 2FD3
@@ -1368,6 +1613,9 @@ See also: [以為][以]
 
 [17-stroke]
 
+[====
+* [⿕](#flute)
+====]
 
 
 \rad ⿕ flute 2FD5
