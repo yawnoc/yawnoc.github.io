@@ -11,16 +11,16 @@
   %description
     Conway's Lexicon for translating Literary Chinese into English.
   %css a~~
-    h2 {
+    h3 {
       margin-top: 1.7em;
     }
-    h3 {
+    h4 {
       margin-top: 1.5em;
     }
-    h3 > span {
+    h4 > span {
       font-weight: normal;
     }
-    h3 > .permalink {
+    h4 > .permalink {
       padding-left: 1em;
     }
     ul {
@@ -42,7 +42,7 @@
       font-size: 0.8rem;
       text-align: right;
       vertical-align: top;
-      width: 1.2rem;
+      width: 1.3rem;
     }
     .tone {
       background: #666;
@@ -50,12 +50,12 @@
       color: white;
       padding: 0.13em 0.2em;
     }
-    h4 {
+    h5 {
       margin-top: 0.5em;
       margin-bottom: 0.5em;
-      padding-left: 3em;
+      padding-left: 3.2em;
     }
-    h4 + ul {
+    h5 + ul {
       margin: 0.5em 0;
     }
     .type {
@@ -338,9 +338,23 @@
 
 <##
   Anchor id for...
+  * n-stroke : {Radical strokes}
   * Radical  : {Unicode English radical name}
   * Character: {Chinese character}
 ##>
+
+<## n-stroke radicals heading [{strokes}-stroke] ##>
+
+l{%
+  \[
+    (?P<radical_strokes> [0-9]+ )
+    [-]stroke
+  \]
+%
+  ##{#\g<radical_strokes>}
+    \g<radical_strokes>-stroke radicals
+  ##
+%}
 
 <## Radical heading \rad {character} {unicode-name} ##>
 
@@ -350,10 +364,10 @@ l{%
     [ ] (?P<unicode_name> [a-z-]+ )
     [ ] (?P<code_point> [0-9A-F]+ )
 %
-  ##{#\g<unicode_name>}
+  ###{#\g<unicode_name>}
     \g<radical> (\g<unicode_name>)
     <span class="code-point">U+\g<code_point></span>
-  ##
+  ###
 %}
 
 <## Character entry heading  \char {strokes} {character} {code point} ##>
@@ -364,11 +378,11 @@ r{%
     [ ] (?P<character> \S )
     [ ] (?P<code_point> [0-9A-F]+ )
 %
-  ###{#\g<character>}
+  ####{#\g<character>}
     <span class="residual-strokes">\g<residual_strokes></span>
     <span class="character">\g<character></span>
     <span class="code-point">U+\g<code_point></span>
-  ###
+  ####
   @[\g<character>] #\g<character> @
 %}
 
@@ -379,7 +393,7 @@ l{%
     (?P<tone> [陰陽平上去入聲]{2} )
   \]
 %
-  #### <span class="tone">\g<tone></span> ####
+  ##### <span class="tone">\g<tone></span> #####
 %}
 
 <## Type spans  [:type:] ##>
@@ -444,11 +458,9 @@ See also: [Unihan Radical-Stroke Index][unihan]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 1 stroke
-  ----------------------------------------------------------------
-##>
+[1-stroke]
+
+
 
 \rad ⼀ one 2F00
 
@@ -498,11 +510,10 @@ See also: [Unihan Radical-Stroke Index][unihan]
 \rad ⼅ hook 2F05
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 2 strokes
-  ----------------------------------------------------------------
-##>
+
+[2-stroke]
+
+
 
 \rad ⼆ two 2F06
 
@@ -614,11 +625,9 @@ See also: [北方][方]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 3 strokes
-  ----------------------------------------------------------------
-##>
+[3-stroke]
+
+
 
 \rad ⼝ mouth 2F1D
 
@@ -766,11 +775,10 @@ See also: [女子][女]
 ====
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 4 strokes
-  ----------------------------------------------------------------
-##>
+
+[4-stroke]
+
+
 
 \rad ⼼ heart 2F3C
 
@@ -926,11 +934,10 @@ See also: [以為][以]
 ====
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 5 strokes
-  ----------------------------------------------------------------
-##>
+
+[5-stroke]
+
+
 
 \rad ⽞ profound 2F5E
 
@@ -1002,11 +1009,9 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 6 strokes
-  ----------------------------------------------------------------
-##>
+[6-stroke]
+
+
 
 \rad ⽵ bamboo 2F75
 
@@ -1104,11 +1109,9 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 7 strokes
-  ----------------------------------------------------------------
-##>
+[7-stroke]
+
+
 
 \rad ⾒ see 2F92
 
@@ -1178,11 +1181,9 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 8 strokes
-  ----------------------------------------------------------------
-##>
+[8-stroke]
+
+
 
 \rad ⾦ gold 2FA6
 
@@ -1226,11 +1227,10 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 9 strokes
-  ----------------------------------------------------------------
-##>
+[9-stroke]
+
+
+
 \rad ⾯ face 2FAF
 
 \rad ⾰ leather 2FB0
@@ -1270,11 +1270,9 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 10 strokes
-  ----------------------------------------------------------------
-##>
+[10-stroke]
+
+
 
 \rad ⾺ horse 2FBA
 
@@ -1294,11 +1292,9 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 11 strokes
-  ----------------------------------------------------------------
-##>
+[11-stroke]
+
+
 
 \rad ⿂ fish 2FC2
 
@@ -1314,11 +1310,9 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 12 strokes
-  ----------------------------------------------------------------
-##>
+[12-stroke]
+
+
 
 \rad ⿈ yellow 2FC8
 
@@ -1330,11 +1324,9 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 13 strokes
-  ----------------------------------------------------------------
-##>
+[13-stroke]
+
+
 
 \rad ⿌ frog 2FCC
 
@@ -1346,11 +1338,9 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 14 strokes
-  ----------------------------------------------------------------
-##>
+[14-stroke]
+
+
 
 \rad ⿐ nose 2FD0
 
@@ -1358,21 +1348,17 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 15 strokes
-  ----------------------------------------------------------------
-##>
+[15-stroke]
+
+
 
 \rad ⿒ tooth 2FD2
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 16 strokes
-  ----------------------------------------------------------------
-##>
+[16-stroke]
+
+
 
 \rad ⿓ dragon 2FD3
 
@@ -1380,11 +1366,9 @@ See also: [以為][以]
 
 
 
-<##
-  ----------------------------------------------------------------
-  Radicals with 17 strokes
-  ----------------------------------------------------------------
-##>
+[17-stroke]
+
+
 
 \rad ⿕ flute 2FD5
 
