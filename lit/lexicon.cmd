@@ -122,7 +122,7 @@
 <#### * [⼡](#go) ####>
 <#### * [⼢](#go-slowly) ####>
 <#### * [⼣](#evening) ####>
-<#### * [⼤](#big) ####>
+* [⼤](#big)
 * [⼥](#woman)
 * [⼦](#child)
 <#### * [⼧](#roof) ####>
@@ -135,7 +135,7 @@
 <#### * [⼮](#river) ####>
 <#### * [⼯](#work) ####>
 <#### * [⼰](#oneself) ####>
-<#### * [⼱](#turban) ####>
+* [⼱](#turban)
 <#### * [⼲](#dry) ####>
 <#### * [⼳](#short-thread) ####>
 <#### * [⼴](#dotted-cliff) ####>
@@ -153,7 +153,7 @@
 <#### * [⼾](#door) ####>
 <#### * [⼿](#hand) ####>
 <#### * [⽀](#branch) ####>
-<#### * [⽁](#rap) ####>
+* [⽁](#rap)
 <#### * [⽂](#script) ####>
 <#### * [⽃](#dipper) ####>
 <#### * [⽄](#axe) ####>
@@ -600,7 +600,12 @@ See also: [北方][方]
 
 <#### \rad ⼣ evening 2F23 ####>
 
-<#### \rad ⼤ big 2F24 ####>
+\rad ⼤ big 2F24
+
+\char 1 天 5929
+====
+* heaven
+====
 
 \rad ⼥ woman 2F25
 
@@ -662,7 +667,12 @@ See also: [女子][女]
 
 <#### \rad ⼰ oneself 2F30 ####>
 
-<#### \rad ⼱ turban 2F31 ####>
+\rad ⼱ turban 2F31
+
+\char 6 帝 5E1D
+====
+* emperor; sovereign
+====
 
 <#### \rad ⼲ dry 2F32 ####>
 
@@ -701,6 +711,11 @@ See also: [女子][女]
 
 \rad ⼽ halberd 2F3D
 
+\char 3 我 6211
+====
+* I; we
+====
+
 \char 12 戰 6230
 ====
 * battle; war
@@ -712,7 +727,12 @@ See also: [女子][女]
 
 <#### \rad ⽀ branch 2F40 ####>
 
-<#### \rad ⽁ rap 2F41 ####>
+\rad ⽁ rap 2F41
+
+\char 8 敢 6562
+====
+* dare
+====
 
 <#### \rad ⽂ script 2F42 ####>
 
