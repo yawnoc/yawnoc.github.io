@@ -115,16 +115,10 @@ The Chinese source text is from Page~143 of Chao's
 <<
   十時，適十獅適市。是時，適施氏適市。
 ||
-  .[At] ten o'clock, ten lions .[had] just gone unto market.
+  .[At the] tenth hour, ten lions .[had] just gone unto market.
   .[At] this time, Mr~Shih .[had also] just gone unto market.
 >>
 ====
-* 十時： ten o'clock \+
-  This is a modern term; perhaps "tenth hour" would be a better rendering.
-  Classically, 時 meant 時辰, which were
-  [named two-hour intervals](https://en.wikipedia.org/wiki/Earthly_Branches)
-  rather than numbered one-hour intervals.
-
 * 適： .[had] just; \or .[happened to have] just
 ====
 
@@ -136,8 +130,6 @@ The Chinese source text is from Page~143 of Chao's
   made these ten lions pass away.
 >>
 ====
-* 勢： situational .[advantage]; \or influence
-
 * 使： made; \or caused
 ====
 
