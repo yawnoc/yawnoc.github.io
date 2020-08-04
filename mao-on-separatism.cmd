@@ -7,7 +7,7 @@
 %%
   %title Mao on separatism: 27~Chinas
   %date-created 2019-09-24
-  %date-modified 2020-06-02
+  %date-modified 2020-08-04
   \resources:rendering
   %description
     An English translation of Mao's 1920 suggestion, in 長沙《大公報》, \
@@ -145,7 +145,7 @@ And who now forbids any mention of self-determination or independence?
 ====
 
 ----
-[:Red emphasis:] is mine, but remember, they are Mao's words:
+[:Red emphasis:] is mine, but remember, all are Mao's words:
 ----
 
 Z{%
@@ -166,7 +166,7 @@ Z{%
 <<
   鄉居寂靜，一臥兼旬。
 ||
-  .[Mine] hometown residence .[hath been] quiet,
+  .[My] hometown residence .[has been] quiet,
   .[in my] rest of twenty days.
 >>
 ====
@@ -263,7 +263,7 @@ Z{%
   收得的是滿洲人消滅，蒙人、回人、藏人、奄奄欲死，
 ||
   .[that] reaped is .[the] annihilation of .[the] Manchurians;
-  .[the] Mongolians, .[the] Huis .[and the] Tibetans
+  .[the] Mongolians, .[the] Huis, .[and the] Tibetans
   breathing feebly .[and] wishing to die;
 >>
 
@@ -300,7 +300,7 @@ Z{%
   四萬萬人至少有三萬九千萬不曉得寫信看報。
 ||
   .[Of] four hundred million people
-  there are at least three hundred .[and] ninety million,
+  there are at least three hundred .[and] ninety million
   .[who] know not how to write letters .[or] read .[the] news.
 >>
 
@@ -313,8 +313,8 @@ Z{%
 <<
   不能辦郵政，不能駕「洋船」，不能經理食鹽。
 ||
-  .[We] cannot do postal services;
-  .[we] cannot drive 'foreign ships';
+  .[We] cannot do postal services,
+  .[we] cannot drive 'foreign ships',
   .[and we] cannot manage table salt.
 >>
 ====
@@ -329,7 +329,7 @@ Z{%
 ||
   Amidst .[the] eighteen provinces,
   .[the] provinces like .[the] likes of
-  Hunan, Szechuan, Kwangtung, Fukien, Chekiang .[and] Hupeh,
+  Hunan, Szechuan, Kwangtung, Fukien, Chekiang, .[and] Hupeh,
   .[have] all changed into conquered provinces,
   repeatedly treading .[the] horse hoofs of others,
   .[and have] been harmed without limit.
@@ -384,7 +384,7 @@ Z{%
   Germany also .[has been] dyed to become half Red.
   Poland .[has become] independent, Czecho-.[Slovakia] independent,
   .[and] Hungary independent;
-  Judea, Arabia .[and] Armenia .[have] all established nations anew.
+  Judea, Arabia, .[and] Armenia .[have] all established nations anew.
 >>
 
 <<
@@ -472,7 +472,7 @@ Z{%
 <<
   [:二十二行省、三特區、兩藩地:]，合共二十七個地方，[:最好分為二十七國:]。
 ||
-  [:Twenty-two provinces, three special regions
+  [:Twenty-two provinces, three special regions,
   .[and] two bordered lands:], totalling twenty-seven places,
   [:.[are] best split into twenty-seven nations:].
 >>
