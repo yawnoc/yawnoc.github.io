@@ -384,7 +384,7 @@ See also: [逝世][逝]
 ====
 [去聲]
 ====
-* envoy; messenger
+* envoy; messenger [上聲 in Mandarin]
 ====
 
 \char 6 侍 4F8D
