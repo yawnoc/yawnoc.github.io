@@ -288,6 +288,11 @@ See also: [逝世][逝]
 
 \rad ⼂ dot 2F02
 
+\char 3 丹 4E39
+====
+* red
+====
+
 \char 4 主 4E3B
 ====
 * main
@@ -382,6 +387,7 @@ See also: [逝世][逝]
 ====
 * use; by; with
 * think; believe
+* [:speech-assist:] to
 ====
 ====
 * 以為： think; believe
@@ -406,6 +412,11 @@ See also: [逝世][逝]
 [去聲]
 ====
 * envoy; messenger [上聲 in Mandarin]
+====
+
+\char 6 依 4F9D
+====
+* according unto
 ====
 
 \char 6 侍 4F8D
@@ -476,6 +487,13 @@ See also: [逝世][逝]
 \rad ⼐ open-box 2F10
 
 \rad ⼑ knife 2F11
+
+\char 6 制 5236
+====
+* control; regulate
+* system
+* \var [製]
+====
 
 \rad ⼒ power 2F12
 
@@ -898,6 +916,12 @@ See also: [女子][女], [獅子][獅]
 * rely upon
 ====
 
+\char 7 悉 6089
+====
+* know (to learn of)
+* all
+====
+
 \char 12 德 5FB7
 ====
 * virtue
@@ -1048,6 +1072,11 @@ See also: [女子][女], [獅子][獅]
 
 \rad ⽉ moon 2F49
 
+\char 0 月 6708
+====
+* moon; month; lunar
+====
+
 \char 7 望 671B
 ====
 * look
@@ -1078,9 +1107,20 @@ See also: [女子][女], [獅子][獅]
 * flourish
 ====
 
+\char 9 楹 6979
+====
+* column
+====
+
 \char 11 蔚 851A
 ====
 * thrive; flourish
+====
+
+\char 14 檻 6ABB
+====
+* threshold
+* balustrade; rail
 ====
 
 \rad ⽋ lack 2F4B
@@ -1262,6 +1302,16 @@ See also: [以為][以], [為政][政]
 * fear (to dread)
 * scare
 * fear (to venerate)
+====
+
+\char 7 畫 756B
+[去聲]
+====
+* [:noun:] drawing; painting
+====
+[入聲]
+====
+* [:verb:] draw; paint
 ====
 
 \rad ⽦ bolt-of-cloth 2F66
@@ -1555,6 +1605,11 @@ See also: [百萬][萬]
 
 \rad ⾐ clothes 2F90
 
+\char 8 製 88FD
+====
+* make
+====
+
 \rad ⾑ west 2F91
 
 
@@ -1687,6 +1742,11 @@ See also: [百萬][萬]
 * defy; go against
 ====
 
+\char 7 通 901A
+====
+* through; throughout
+====
+
 \char 7 逝 901D
 ====
 * pass
@@ -1781,6 +1841,12 @@ See also: [百萬][萬]
 ====
 
 \rad ⾨ gate 2FA8
+
+\char 0 門 9580
+====
+* gate; entrance
+* family; \met house
+====
 
 \rad ⾩ mound 2FA9
 
