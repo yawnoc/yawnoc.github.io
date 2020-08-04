@@ -10,7 +10,7 @@
     "Record of the Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2020-07-17
+  %date-modified 2020-08-05
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -89,9 +89,9 @@ The inserted punctuation is my own.
   太平山，古稱鼇峰，南臨大海，北與九龍諸山遥遥相望，\
   岡巒連綿，林木蔚茂，風景絶美。
 ||
-  Victoria Peak, .[in] ancient .[times] referred to .[as]
+  Victoria Peak, .[in] antiquity referred to .[as]
   .[the] Peak of the Great Sea Turtle,
-  overlooks .[the] great sea .[unto the] south,
+  overlooketh .[the] great sea .[unto the] south,
   .[and is in] far, far mutual looking .[unto the] north
   with .[the] multiple mountains of Kowloon;
   .[its] ridges .[and] small, pointed hills .[are] connected .[and] unbroken,
@@ -106,9 +106,7 @@ The inserted punctuation is my own.
 
 * 峰： Peak; \or Summit
 
-* 臨：居高臨下；臨，視也； overlooks
-
-* 岡：山脊也； ridges; \lit mountain backs
+* 臨：居高臨下；臨，視也； overlooketh
 
 * 巒：山小而銳；又山綿連曰巒；
     small, pointed hills; \or unbroken .[and] connected hills \+
@@ -123,7 +121,7 @@ The inserted punctuation is my own.
 ||
   We .[the] Lions Club, built .[the] Pavilion
   to .[the] side of Findlay~Path,
-  composed of one main Pavilion, .[and] five fore Pavilions,
+  being one main Pavilion, .[and] five fore Pavilions,
   like .[the] North Star abiding in .[the] centre,
   with .[the] Five Planets going round it.
 >>
@@ -146,8 +144,8 @@ The inserted punctuation is my own.
   <<
     子曰：為政以德，譬如北辰，居其所而眾星共之。
   ||
-    .[The] Master said,
-    .[He who] governeth using virtue
+    .[The] Master saith,
+    .[He who] governeth by virtue,
     .[is] like .[the] North Star, abiding in its place with
     .[the] multitude of stars going round it.
   >>
