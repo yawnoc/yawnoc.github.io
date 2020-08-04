@@ -494,6 +494,12 @@ See also: [逝世][逝]
 * \var [製]
 ====
 
+\char 7 前 524D
+====
+* front; fore
+* before
+====
+
 \rad ⼒ power 2F12
 
 \char 11 勢 52E2
@@ -855,7 +861,7 @@ See also: [女子][女], [獅子][獅]
 
 \char 6 後 5F8C
 ====
-* behind; rear
+* rear; hind; behind
 * after
 * afterbear
 ====
