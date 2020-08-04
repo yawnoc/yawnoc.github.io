@@ -178,11 +178,18 @@ l{%
   <span class="type">[\g<type>]</span>
 %}
 
-<## Interchangeable with ##>
-Z{: \int : <span class="alternative-marker">int.</span> :}
+<## Alternatives ##>
+<##
+  interchangeable with
+  metaphorically rendered
+  variant of
+##>
 
-<## Metaphorical rendering ##>
-Z{: \met : <span class="alternative-marker">met.</span> :}
+Z{%
+  \\ ( int | met | var )
+%
+  <span class="alternative-marker">\1.</span>
+%}
 
 
 
@@ -515,6 +522,11 @@ See also: [北方][方]
 
 \rad ⼝ mouth 2F1D
 
+\char 2 古 53E4
+====
+* olden; antiquity
+====
+
 \char 2 史 53F2
 ====
 * history; record
@@ -581,6 +593,14 @@ See also: [詩士][詩]
 ====
 * heaven; sky
 ====
+
+\char 1 太 592A
+====
+* grand
+====
+----
+See also: [太平][平]
+----
 
 \rad ⼥ woman 2F25
 
@@ -670,6 +690,21 @@ See also: [女子][女]
 
 \rad ⼭ mountain 2F2D
 
+\char 0 山 5C71
+====
+* mountain; mount; hill
+====
+
+\char 7 峯 5CEF
+====
+* peak
+====
+
+\char 7 峰 5CF0
+====
+* \var [峯]
+====
+
 \rad ⼮ river 2F2E
 
 \rad ⼯ work 2F2F
@@ -700,6 +735,16 @@ See also: [女子][女]
 ====
 
 \rad ⼲ dry 2F32
+
+\char 2 平 5E73
+====
+* level; flat
+* calm; peace
+* [:tone:] level
+====
+====
+* 太平： tranquility; peace
+====
 
 \rad ⼳ short-thread 2F33
 
@@ -1134,6 +1179,17 @@ See also: [百萬][萬]
 ====
 
 \rad ⽲ grain 2F72
+
+\char 9 稱 7A31
+[平聲]
+====
+* refer unto
+* weigh [去聲 in modern Cantonese]
+====
+[去聲]
+====
+* match
+====
 
 \rad ⽳ cave 2F73
 
@@ -1649,6 +1705,11 @@ See also: [百萬][萬]
 
 
 \rad ⿌ frog 2FCC
+
+\char 10 鼇 9F07
+====
+* great sea turtle
+====
 
 \rad ⿍ tripod 2FCD
 
