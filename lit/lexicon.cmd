@@ -471,6 +471,11 @@ See also: [北方][方]
 * thousand
 ====
 
+\char 7 南 5357
+====
+* south
+====
+
 \rad ⼘ divination 2F18
 
 \rad ⼙ seal 2F19
@@ -589,6 +594,11 @@ See also: [詩士][詩]
 
 \rad ⼤ big 2F24
 
+\char 0 大 5927
+====
+* great
+====
+
 \char 1 天 5929
 ====
 * heaven; sky
@@ -695,14 +705,24 @@ See also: [女子][女]
 * mountain; mount; hill
 ====
 
+\char 5 岡 5CA1
+====
+* ridge
+====
+
 \char 7 峯 5CEF
 ====
-* peak
+* peak; summit
 ====
 
 \char 7 峰 5CF0
 ====
 * \var [峯]
+====
+
+\char 19 巒 5DD2
+====
+* small, pointed hill; unbroken .[and] connected hills
 ====
 
 \rad ⼮ river 2F2E
@@ -894,6 +914,12 @@ See also: [女子][女]
 * 北方： .[the] north
 ====
 
+\char 4 於 65BC
+====
+* in; at
+* upon; unto
+====
+
 \rad ⽆ not 2F46
 
 \rad ⽇ sun 2F47
@@ -913,6 +939,14 @@ See also: [女子][女]
 * 時時： all the time; often
 ====
 
+\char 8 景 666F
+====
+* scenery
+====
+====
+* 風景： \met sights .[and] scenery
+====
+
 \char 8 智 667A
 ====
 * wisdom
@@ -927,12 +961,39 @@ See also: [女子][女]
 
 \rad ⽉ moon 2F49
 
+\char 7 望 671B
+====
+* look
+* hope
+====
+
 \rad ⽊ tree 2F4A
+
+\char 0 木 6728
+====
+* tree
+* wood; timber
+====
+
+\char 4 林 6797
+====
+* forest; woods
+====
 
 \char 4 果 679C
 ====
 * fruit; result; consequence
 * if
+====
+
+\char 5 茂 8302
+====
+* flourish
+====
+
+\char 11 蔚 851A
+====
+* thrive; flourish
 ====
 
 \rad ⽋ lack 2F4B
@@ -965,6 +1026,11 @@ See also: [女子][女]
 ====
 * seek
 * request; beseech
+====
+
+\char 7 海 6D77
+====
+* sea; ocean
 ====
 
 \char 14 濕 6FD5
@@ -1135,6 +1201,17 @@ See also: [百萬][萬]
 
 \rad ⽬ eye 2F6C
 
+\char 4 相 76F8
+[平聲]
+====
+* mutual; (with) each other
+====
+[去聲]
+====
+* appearance; physiognomy
+* minister
+====
+
 \rad ⽭ spear 2F6D
 
 \rad ⽮ arrow 2F6E
@@ -1243,11 +1320,33 @@ See also: [百萬][萬]
 
 \rad ⽷ silk 2F77
 
+\char 6 絕 7D55
+====
+* cut (off); sever
+* absolute
+====
+
+\char 6 絶 7D76
+====
+* \var [絕]
+====
+
+\char 8 綿 7DBF
+====
+* cotton
+* unbroken
+====
+
 \rad ⽸ jar 2F78
 
 \rad ⽹ net 2F79
 
 \rad ⽺ sheep 2F7A
+
+\char 3 美 7F8E
+====
+* beauty
+====
 
 \char 7 群 7FA4
 ====
@@ -1284,6 +1383,12 @@ See also: [百萬][萬]
 \char 0 臣 81E3
 ====
 * minister
+====
+
+\char 11 臨 81E8
+====
+* overlook; look over
+* arrive; approach; just before
 ====
 
 \rad ⾃ self 2F83
@@ -1419,6 +1524,13 @@ See also: [百萬][萬]
 * swear; take oath
 ====
 
+\char 9 諸 8AF8
+====
+* many
+* [:contraction:] [之]\/[於]
+* [:contraction:] [之][乎]
+====
+
 \char 12 識 8B58
 ====
 * know; knowledge
@@ -1469,9 +1581,24 @@ See also: [百萬][萬]
 * 逝世： pass away
 ====
 
+\char 7 連 9023
+====
+* connect
+====
+
 \char 9 遂 9042
 ====
 * then
+====
+
+\char 10 遙 9059
+====
+* far
+====
+
+\char 10 遥 9065
+====
+* \var [遙]
 ====
 
 \char 11 適 9069
@@ -1590,6 +1717,15 @@ See also: [百萬][萬]
 \rad ⾴ leaf 2FB4
 
 \rad ⾵ wind 2FB5
+
+\char 0 風 98A8
+====
+* wind
+* demeanour; style; manner
+====
+----
+See also: [風景][景]
+----
 
 \rad ⾶ fly 2FB6
 
