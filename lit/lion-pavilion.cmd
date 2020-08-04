@@ -155,17 +155,17 @@ The inserted punctuation is my own.
 <<
   丹楹畫檻，通以月門，悉依古制。
 ||
-  .[With] red-painted columns .[and] drawing-decorated balustrades,
+  .[With] red-.[painted] columns .[and] drawing-.[decorated] balustrades,
   through to .[the] Moon Gate,
-  all .[were] made according to the olden.
+  all .[were] made according unto the olden.
 >>
 ====
 * 楹：柱也； columns \+
   楹，以成切， \C ying4, \M y(i/)ng \+
   The phrase 丹楹 refers generally to good looking architecture,
-  as in 丹楹刻桷, i.e.~"red-painted columns .[and] carved square rafters".
+  as in 丹楹刻桷, i.e.~"red-.[painted] columns .[and] carved square rafters".
 
-* 畫： drawing-decorated \+
+* 畫： drawing-.[decorated] \+
   畫，去聲， \C waa6, hu(a\) \+
   \/**Not** 入聲~(waak9), and **not** vernacularised into 上聲~(waa2).
   Compare 畫欄, waa6 laan4, as in 畫欄風擺竹橫斜 of 《再世紅梅記\.脫穽救裴》,
