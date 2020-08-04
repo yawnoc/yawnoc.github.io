@@ -142,9 +142,10 @@ Sorting Chinese characters is a nightmare.
 <a href="https://en.wikipedia.org/wiki/Kangxi_Dictionary">K'ang-hi's dictionary</a> uses radical-stroke,
 but amongst characters with the <em>same</em> radical &amp; number of strokes
 the ordering appears to be completely arbitrary.
-Here I use <a href="https://www.unicode.org/reports/tr38/#SortingAlgorithm">Unicode's sorting algorithm</a>,
+Unicode has a <a href="https://www.unicode.org/reports/tr38/#SortingAlgorithm">sorting algorithm</a>
 which assigns each character a collation key by
-Radical &gt; Strokes &gt; First residual stroke &gt; Simplified &gt; Block &gt; Code point.
+Radical &gt; Strokes &gt; First residual stroke &gt; Simplified &gt; Block &gt; Code point,
+but here I simply sort by Radical &gt; Strokes &gt; Code point.
 </p>
 <p>
 See also: <a href="https://www.unicode.org/charts/unihanrsindex.html">Unihan Radical-Stroke Index</a>

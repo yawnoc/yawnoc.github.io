@@ -206,16 +206,17 @@ Sorting Chinese characters is a nightmare.
 [K'ang-hi's dictionary][康熙] uses radical-stroke,
 but amongst characters with the *same* radical \& number of strokes
 the ordering appears to be completely arbitrary.
-Here I use [Unicode's sorting algorithm][sorting-algorithm],
+Unicode has a [sorting algorithm]
 which assigns each character a collation key by
 Radical \> Strokes \> First residual stroke \> Simplified \
-  \> Block \> Code point.
+  \> Block \> Code point,
+but here I simply sort by Radical \> Strokes \> Code point.
 ----
 
 @@[康熙]
   https://en.wikipedia.org/wiki/Kangxi_Dictionary
 @@
-@@[sorting-algorithm]
+@@[sorting algorithm]
   https://www.unicode.org/reports/tr38/#SortingAlgorithm
 @@
 
