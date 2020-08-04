@@ -276,7 +276,23 @@ See also: [逝世][逝]
 
 \rad ⼁ line 2F01
 
+\char 3 中 4E2D
+[平聲]
+====
+* centre; middle; midst
+====
+[去聲]
+====
+* hit (a target)
+====
+
 \rad ⼂ dot 2F02
+
+\char 4 主 4E3B
+====
+* main
+* host; lord
+====
 
 \rad ⼃ slash 2F03
 
@@ -349,6 +365,11 @@ See also: [逝世][逝]
 
 \rad ⼇ lid 2F07
 
+\char 7 亭 4EAD
+====
+* pavilion
+====
+
 \rad ⼈ man 2F08
 
 \char 2 今 4ECA
@@ -405,6 +426,11 @@ See also: [逝世][逝]
 * rest; holiday
 ====
 
+\char 9 側 5074
+====
+* side
+====
+
 \rad ⼉ legs 2F09
 
 \char 4 先 5148
@@ -417,10 +443,26 @@ See also: [逝世][逝]
 
 \rad ⼋ eight 2F0B
 
+\char 4 共 5171
+[上聲]
+====
+* (\int [拱])
+====
+[去聲]
+====
+* together; share; altogether
+====
+
 \char 5 兵 5175
 ====
 * soldier; troops
 * warfare
+====
+
+\char 6 其 5176
+====
+* his; its; their
+* [:speech-assist:]
 ====
 
 \rad ⼌ down-box 2F0C
@@ -627,7 +669,7 @@ See also: [太平][平]
 * as; like
 ====
 ----
-See also: [何如][何], [如何][何]
+See also: [何如][何], [如何][何], [譬如][譬]
 ----
 
 \char 5 始 59CB
@@ -648,7 +690,7 @@ See also: [何如][何], [如何][何]
 * master (teacher); \met thou
 ====
 ----
-See also: [女子][女]
+See also: [女子][女], [獅子][獅]
 ----
 
 \rad ⼧ roof 2F27
@@ -684,6 +726,11 @@ See also: [女子][女]
 \rad ⼪ lame 2F2A
 
 \rad ⼫ corpse 2F2B
+
+\char 5 居 5C45
+====
+* dwell; abide
+====
 
 \char 6 屍 5C4D
 ====
@@ -772,6 +819,11 @@ See also: [女子][女]
 
 \rad ⼵ long-stride 2F35
 
+\char 6 建 5EFA
+====
+* build; construct
+====
+
 \rad ⼶ two-hands 2F36
 
 \rad ⼷ shoot 2F37
@@ -846,6 +898,11 @@ See also: [女子][女]
 * rely upon
 ====
 
+\char 12 德 5FB7
+====
+* virtue
+====
+
 \rad ⼽ halberd 2F3D
 
 \char 3 我 6211
@@ -860,11 +917,23 @@ See also: [女子][女]
 
 \rad ⼾ door 2F3E
 
+\char 4 所 6240
+====
+* place
+* that which; that
+====
+
 \rad ⼿ hand 2F3F
 
 \char 6 拭 62ED
 ====
 * wipe
+====
+
+\char 6 拱 62F1
+====
+* clasp hands (respectful gesture)
+* go round
 ====
 
 \char 6 拾 62FE
@@ -876,6 +945,14 @@ See also: [女子][女]
 \rad ⽀ branch 2F40
 
 \rad ⽁ rap 2F41
+
+\char 4 政 653F
+====
+* government
+====
+====
+* 為政： govern
+====
 
 \char 5 故 6545
 ====
@@ -916,13 +993,18 @@ See also: [女子][女]
 
 \char 4 於 65BC
 ====
-* in; at
+* in; at; to
 * upon; unto
 ====
 
 \rad ⽆ not 2F46
 
 \rad ⽇ sun 2F47
+
+\char 5 星 661F
+====
+* star; planet
+====
 
 \char 5 是 662F
 ====
@@ -957,6 +1039,11 @@ See also: [女子][女]
 \char 0 曰 66F0
 ====
 * say
+====
+
+\char 9 會 6703
+====
+* meet; assemble; club
 ====
 
 \rad ⽉ moon 2F49
@@ -1048,7 +1135,7 @@ See also: [女子][女]
 * be
 ====
 ----
-See also: [以為][以]
+See also: [以為][以], [為政][政]
 ----
 [去聲]
 ====
@@ -1097,6 +1184,9 @@ See also: [以為][以]
 \char 10 獅 7345
 ====
 * lion
+====
+====
+* 獅子： lion
 ====
 
 \char 15 獸 7378
@@ -1210,6 +1300,11 @@ See also: [百萬][萬]
 ====
 * appearance; physiognomy
 * minister
+====
+
+\char 6 眾 773E
+====
+* multitude
 ====
 
 \rad ⽭ spear 2F6D
@@ -1361,7 +1456,7 @@ See also: [百萬][萬]
 
 \char 0 而 800C
 ====
-* and; but; to
+* and; with; but; to
 * [:speech-assist:]
 ====
 
@@ -1436,6 +1531,11 @@ See also: [百萬][萬]
 \rad ⾍ insect 2F8D
 
 \rad ⾎ blood 2F8E
+
+\char 6 衆 8846
+====
+* \var [眾]
+====
 
 \rad ⾏ walk-enclosure 2F8F
 
@@ -1536,6 +1636,14 @@ See also: [百萬][萬]
 * know; knowledge
 ====
 
+\char 13 譬 8B6C
+====
+* like
+====
+====
+* 譬如： like
+====
+
 \rad ⾕ valley 2F95
 
 \rad ⾖ bean 2F96
@@ -1565,6 +1673,12 @@ See also: [百萬][萬]
 \rad ⾟ bitter 2F9F
 
 \rad ⾠ morning 2FA0
+
+\char 0 辰 8FB0
+====
+* morn
+* star
+====
 
 \rad ⾡ walk 2FA1
 
