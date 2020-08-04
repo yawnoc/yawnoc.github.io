@@ -385,9 +385,8 @@ See also: [逝世][逝]
 
 \char 3 以 4EE5
 ====
-* use; by; with
+* use; by; with; to
 * think; believe
-* [:speech-assist:] to
 ====
 ====
 * 以為： think; believe
