@@ -408,9 +408,9 @@ See also: [逝世][逝]
 * use; employ
 * dispatch
 ====
-[去聲]
+[去聲] [but 上聲 in Mandarin]
 ====
-* envoy; messenger [上聲 in Mandarin]
+* envoy; messenger
 ====
 
 \char 6 依 4F9D
@@ -1411,7 +1411,7 @@ See also: [百萬][萬]
 [平聲]
 ====
 * refer unto
-* weigh [去聲 in modern Cantonese]
+* weigh [but 去聲 in modern Cantonese, probably after 秤]
 ====
 [去聲]
 ====
@@ -1595,15 +1595,16 @@ See also: [百萬][萬]
 \rad ⾏ walk-enclosure 2F8F
 
 \char 0 行 884C
-[平聲] 音蘅
+[平聲] 音蘅 x(i/)ng
 ====
 * walk; move
 ====
-[平聲] 音航
+[平聲] 音航 h(a/)ng
 ====
 * column
+* rank
 ====
-[去聲]
+[去聲] 音幸 x(i\)ng [but 平聲 x(i/)ng in Mainland Mandarin]
 ====
 * [:noun:] conduct
 ====
