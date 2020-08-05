@@ -872,6 +872,11 @@ See also: [女子][女], [獅子][獅]
 * satisfy; done
 ====
 
+\char 12 德 5FB7
+====
+* virtue
+====
+
 
 
 [4-stroke]
@@ -925,11 +930,6 @@ See also: [女子][女], [獅子][獅]
 ====
 * know (to learn of)
 * all
-====
-
-\char 12 德 5FB7
-====
-* virtue
 ====
 
 \rad ⼽ halberd 2F3D
