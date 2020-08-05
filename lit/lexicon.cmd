@@ -1689,7 +1689,7 @@ See also: [百萬][萬]
 ====
 * many
 * [:contraction:] [之]\/[於]
-* [:contraction:] [之][乎]
+* [:contraction:] [之]\/[乎]
 ====
 
 \char 12 識 8B58
