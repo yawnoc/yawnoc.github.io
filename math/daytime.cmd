@@ -319,7 +319,7 @@ equal to 365.242~days.
 Defining what I call the __year angle__
 ----
 $$
-  Y \defeq \frac{2 \pi t}{\unit{yr}},
+  Y = \frac{2 \pi t}{\unit{yr}},
 $$
 ----
 which moves through a full turn each solar year,

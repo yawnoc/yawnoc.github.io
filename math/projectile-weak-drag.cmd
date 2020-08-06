@@ -336,7 +336,7 @@ $$
 where
 ----
 $$
-  B \defeq \frac{b u^2}{m g}
+  B = \frac{b u^2}{m g}
 $$
 ----
 is the initial drag-to-weight ratio,
@@ -494,7 +494,7 @@ $$
           B^2
         \plusorder{B^3}
       \\
-    &\defeq R_0 + R_1 B + R_2 B^2 \plusorder{B^3},
+    &= R_0 + R_1 B + R_2 B^2 \plusorder{B^3},
   \end{aligned}
 $$
 ----
@@ -550,7 +550,7 @@ and hence the result:
   (or small initial-to-terminal kinetic energy ratios)
 ----
 $$
-  B \defeq \frac{b u^2}{m g} = \frac{u^2}{c^2} \ll 1,
+  B = \frac{b u^2}{m g} = \frac{u^2}{c^2} \ll 1,
 $$
 ----
   the __optimal launch angle__ has the __asymptotic expansion__
