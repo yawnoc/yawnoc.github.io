@@ -81,8 +81,11 @@ function renderMaths() {
     // Asymptotically
     '\\asy': '\\sim',
     
-    // Equality by definition
-    '\\defeq': '\\equiv',
+    // Defined equal to
+    '\\defeq': ':=',
+    
+    // Identically equal to
+    '\\ideq': '\\equiv',
     
     // Bold vectors
     '\\vec': '\\boldsymbol{\\mathbf{#1}}',
