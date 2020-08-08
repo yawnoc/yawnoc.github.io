@@ -69,10 +69,6 @@ blockquote {
 /* ---------------------------------------------------------------- */
 
 
-code {
-  font-family: Consolas, "Lucida Sans Typewriter", monospace;
-}
-
 :not(pre) > code {
   border: 1px solid lightgrey;
   padding: 0.15em;
@@ -159,7 +155,7 @@ pre {
 */
 
 .js-maths {
-  font-family: Consolas, "Lucida Sans Typewriter", monospace;
+  font-family: monospace;
 }
 
 div.js-maths {
@@ -493,7 +489,7 @@ noscript {
 
 
 .page-properties {
-  font-family: Consolas, "Lucida Sans Typewriter", monospace;
+  font-family: monospace;
   font-size: small;
 }
 
