@@ -316,7 +316,7 @@ see [the actual first page of the almanac text][almanac text].
     what .[be] thy thoughts .[upon this]?
 >>
 ====
-* **{.danger} Beware stranger danger. **
+* **{.danger} Beware stranger danger.**
 
 * 汝意下如何：
     what .[be] thy thoughts .[upon this];

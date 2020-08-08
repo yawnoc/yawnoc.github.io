@@ -639,19 +639,19 @@ when the sun is closest to the nadir, the local downward direction.)
 ----
 
 ----
-__ Note. __ Solar noon (or high noon) almost never occurs at 12~pm.
+__Note.__ Solar noon (or high noon) almost never occurs at 12~pm.
 There are several reasons for this:
 ----
 ++++
-1. __ Earth's axial tilt. __ \+
+1. __Earth's axial tilt.__ \+
   This has been accounted for by our model;
   notice that solar noon occurs at $D = \varphi$
   rather than $D = Y$.
 
-2. __ Earth's orbit is elliptical, not circular. __ \+
+2. __Earth's orbit is elliptical, not circular.__ \+
   The sun moves faster and slower at different times of the year.
 
-3. __ Time zones. __ \+
+3. __Time zones.__ \+
   Clock time jumps discontinuously over their boundaries (which are arbitrary),
   whereas local solar time is a smooth function of location.
 
@@ -708,7 +708,7 @@ $$
 $$
 
 ----
-__ Note. __ The argument to the arcsine will exceed unity in magnitude
+__Note.__ The argument to the arcsine will exceed unity in magnitude
 at some time during the year if $\abs{\tan\tau \tan\delta} > 1$, or
 ----
 $$

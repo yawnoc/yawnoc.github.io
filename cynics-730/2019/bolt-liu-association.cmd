@@ -166,7 +166,7 @@ Race and place of origin are irrelevant.
   ----
   ----
   <small>
-    __ Conway's note. __
+    __Conway's note.__
     At the time of writing, Gladys Liu (廖嬋娥) is still listed
     as Honorary Chairman (榮譽主席) on
     [UCCA's website][ucca] ([archived version][ucca archived])
