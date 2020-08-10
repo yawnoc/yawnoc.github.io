@@ -52,9 +52,9 @@ compiled/edited by [Liu Hiang ((劉向))][劉向].
 See also:
 ----
 ====
-* ["XI.~The Fox and the Tiger"][fairy book] in _The Chinese Fairy Book_
+* ["XI.~The Fox and the Tiger"][fairy book] in '''The Chinese Fairy Book'''
   by Richard Wilhelm, translated by Frederick H.~Martens
-* [ _The Gruffalo_ ](https://en.wikipedia.org/wiki/The_Gruffalo),
+* ['''The Gruffalo'''](https://en.wikipedia.org/wiki/The_Gruffalo),
   by Julia Donaldson
 ====
 

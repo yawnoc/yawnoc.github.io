@@ -44,7 +44,7 @@ how there are "separatists" undermining One China.
 
 ----
 Well, as it turns out, none other than their beloved Mao Ts(e^)-tung,
-in a 1920~essay for the newspaper _Ta Kung Pao_ (大公報).
+in a 1920~essay for the newspaper '''Ta Kung Pao''' (大公報).
 Actually Mao went further and suggested dividing China up into 27~pieces,
 one of them being the "Republic of Hunan", Hunan being his home province.
 ----

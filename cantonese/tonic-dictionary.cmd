@@ -23,7 +23,7 @@
 ====]]
 
 
-# Quick links for Williams' _Tonic Dictionary_ of Cantonese #
+# Quick links for Williams' '''Tonic Dictionary''' of Cantonese #
 
 
 [||||
@@ -36,8 +36,8 @@ See also: [Conway's Custom Romanisation for Cantonese][conway]
 
 ----
 Quick links for each syllable of
-  [A Tonic Dictionary Of The Chinese Language In The Canton Dialect]["n6"],
-  or 《英華分韻撮要》,
+['''A Tonic Dictionary Of The Chinese Language In The Canton Dialect''']["n6"],
+or 《英華分韻撮要》,
 written by [Samuel Wells Williams] in 1856 (or 咸豐丙辰年),
 recording both literary and vernacular Cantonese
 as spoken in Canton in the late Ts'ing Dynasty.
@@ -293,7 +293,7 @@ Note that Jyutping (like all contemporary romanisation systems)
 
 
 \cite-this-page[
-  Quick links for Williams' _Tonic Dictionary_ of Cantonese
+  Quick links for Williams' '''Tonic Dictionary''' of Cantonese
 ][
   tonic-dictionary
 ][

@@ -154,7 +154,8 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
   * 《卷下》 "Volume~III" (haven't started)
   ====
   ||||{.page-description}
-    An annotated translation of the entire _Sunzi Suanjing_ (once completed).
+    An annotated translation of the entire '''Sunzi Suanjing'''
+    (once completed).
   ||||
 
 * [
@@ -162,7 +163,7 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
     ".[The] Sea Island Computational Classic"
   ](/lit/sea-island)
   ||||{.page-description}
-    The first problem in _Haidao Suanjing_.
+    The first problem in '''Haidao Suanjing'''.
   ||||
 
 ======
@@ -175,7 +176,7 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ===={.page-link-container}
 * ["The Need to Win"](/lit/need-to-win)
   ||||{.page-description}
-    On _The Turning_ (Tim Winton), quoting Thomas Merton,
+    On '''The Turning''' (Tim Winton), quoting Thomas Merton,
     paraphrasing Chuang Tz(uu), on Confucius, on (probably) archery.
   ||||
 
@@ -200,7 +201,7 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
     ".[The] Fox Feigneth .[the] Tiger's Authority"
   ](/lit/fox-tiger)
   ||||{.page-description}
-     The original second half of _The Gruffalo_.
+     The original second half of '''The Gruffalo'''.
   ||||
 
 * [

@@ -40,7 +40,7 @@
 \noscript:maths
 
 [||||
-Also known as _Haidao Suanjing_.
+Also known as '''Haidao Suanjing'''.
 ||||]
 
 

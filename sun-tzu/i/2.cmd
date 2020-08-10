@@ -105,7 +105,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 * 銖： dram \+
   銖， \C ch(u")1, \M zh(u-) \+
   Chu ((銖)), of the order two grams.
-  According to [Williams' _Tonic Dictionary_] [銖],
+  According to [Williams' '''Tonic Dictionary'''] [銖],
   "a small ancient silver coin",
   so I have chosen "dram" after the eponymous
   [ancient Greek coin and weight] [dram],

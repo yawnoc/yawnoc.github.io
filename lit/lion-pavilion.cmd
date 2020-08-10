@@ -261,7 +261,7 @@ The inserted punctuation is my own.
   
   2. 近也；
       close \+
-      No. Surely the actual sight is _better_ than paintings and drawings,
+      No. Surely the actual sight is *better* than paintings and drawings,
       and not just "close".
   
   3. 始也；

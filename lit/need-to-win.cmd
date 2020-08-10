@@ -44,7 +44,7 @@
 
 ----
 This "quote" of Chuang Tz(uu)
-begins the chapter "Family" in Tim Winton's _The~Turning_:
+begins the chapter "Family" in Tim Winton's '''The~Turning''':
 ----
 
 """"
@@ -75,13 +75,13 @@ begins the chapter "Family" in Tim Winton's _The~Turning_:
 
 ----
 The passage above, entitled "The Need to Win",
-is from [Thomas Merton]'s _The Way of Chuang Tzu_,
+is from [Thomas Merton]'s '''The Way of Chuang Tzu''',
 which in Merton's own words, consists of
 "imitations" or "free interpretative readings" of the source material,
 rather than translations.
 Merton, a Trappist monk interested in Eastern religions,
 composed these interpretative readings after comparing
-"four of the best translations of _Chuang Tz(uu)_
+"four of the best translations of '''Chuang Tz(uu)'''
 into western languages, two English, one French, and one German".
 ----
 
@@ -92,12 +92,12 @@ into western languages, two English, one French, and one German".
 ----
 The source of the passage is a dialogue between
 Confucius and one of his disciples in 《莊子\.外篇\.達生》,
-or "Understanding Life" in the "Outer Texts" of _Chuang Tz(uu)_,
+or "Understanding Life" in the "Outer Texts" of '''Chuang Tz(uu)''',
 a work traditionally credited to [Chuang Tz(uu)][莊子] the Taoist philosopher.
 One of the English translations of this which Merton read
 was of course that of the great James Legge;
 see passage~4, "Yen Yuan asked _K_ung-nî..." on
-[Page~15 of _The Sacred Books Of China: The Texts Of Taoism, Part~II_][
+[Page~15 of '''The Sacred Books Of China: The Texts Of Taoism, Part~II'''][
   Legge Yen Yuan asked
 ]
 As we shall see below, whether the original text actually refers to archery
@@ -116,7 +116,7 @@ depends on how you interpret the word 注, chu.
 In summary, the passage above is  **twice removed from the source material**:
 once by translation (James Legge and others), and once through the
 interpretative reading of Thomas Merton.
-Just reading _The~Turning_ though, you wouldn't have any clue of this.
+Just reading '''The~Turning''' though, you wouldn't have any clue of this.
 ----
 
 

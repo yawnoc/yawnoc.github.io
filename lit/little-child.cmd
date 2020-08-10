@@ -1017,7 +1017,7 @@ see [the actual first page of the almanac text][almanac text].
     This constrasts with 先生, literally "former-born",
     which classically was a polite address to an older, wiser person.
     This usage survives today in Cantonese,
-    and also Japanese _sensei_, where 先生 means teacher.
+    and also Japanese _{lja} sensei_, where 先生 means teacher.
   
   * 畏： feared; \or respected \+
     Here, I do not mean fear as in being afraid,

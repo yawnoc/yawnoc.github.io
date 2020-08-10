@@ -49,7 +49,7 @@
 
 
 [||||
-Also known as _Sunzi Suanjing_.
+Also known as '''Sunzi Suanjing'''.
 ||||]
 
 
@@ -85,7 +85,7 @@ like the [Sea Island Computational Classic][sea island],
 is one of the [ten canon classics] of Chinese mathematics.
 Probably written in the 3rd to 5th centuries AD,
 the reputed author \sun-tzu ((孫子)), "Master~Sun",
-is not the same [\sun-tzu] [孫子] who wrote [ _The Art of War_ ][兵法]
+is not the same [\sun-tzu] [孫子] who wrote ['''The Art of War'''][兵法]
 (though the characters are the same).
 ----
 
@@ -109,7 +109,7 @@ is not the same [\sun-tzu] [孫子] who wrote [ _The Art of War_ ][兵法]
 In late April~2019, I set myself the task of translating
 the entire "\sun-tzu's Computational Classic" into English.
 Apparently this has been done before by Ang \&~Lam
-(see [ _Fleeting Footsteps_ ][ang lam]),
+(see ['''Fleeting Footsteps'''][ang lam]),
 but I have **not** read that translation,
 and I probably never will because it is behind a paywall.
 ----

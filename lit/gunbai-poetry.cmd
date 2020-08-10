@@ -62,7 +62,7 @@ l{%
 ----
 In professional sumo wrestling, the [umpire] [Gyoji]
 indicates his decision by pointing a fan, called a
-[ _gunbai_ ([ja/~~ 軍配 ~~/]) ] [gunbai],
+[_{lja} gunbai_ ([ja/~~ 軍配 ~~/]) ] [gunbai],
 towards the winning wrestler's starting end.
 Some are decorated with patterns, but others bear calligraphy.
 In particular, the fan carried by umpire

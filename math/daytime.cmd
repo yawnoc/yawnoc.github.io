@@ -931,7 +931,7 @@ which is possibly(?) referring to [p.~125][allen 125]
   i.e.~refraction of 0°35' at the horizon)
 and [p.~162][allen 162]
   (semi-diameter of sun at mean earth distance = 959.63", i.e.~0°16')
-of Allen's _Astrophysical Quantities_ (1973).
+of Allen's '''Astrophysical Quantities''' (1973).
 In any case I think the final angle of 0°50' is reliable;
 [this Hong Kong Observatory document] [hko pdf]
 ([archived version] [hko pdf archived])
