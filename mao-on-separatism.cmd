@@ -443,7 +443,7 @@ Z{%
   知道全國的總建設在一個期內完全無望。
 ||
   .[The] experiences of nine years of .[a] Fake Republic,
-  .[and of the] Great War, .[have] forced people to not .[be] unawake,
+  .[and of the] Great War, .[have] forced people no choice but .[to be] awake,
   .[and to] know .[that the] whole nation's collective development,
   in one term,
   .[is] completely without hope.
