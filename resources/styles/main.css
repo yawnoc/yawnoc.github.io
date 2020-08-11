@@ -88,7 +88,7 @@ pre {
 
 
 .colour-r {
-  color: #e00;
+  color: #e00000;
 }
 
 .colour-g {
@@ -515,7 +515,7 @@ noscript {
 /* Bracketed original Chinese after romanisations */
 
 .original-chinese {
-  color: #e00;
+  color: #ce0000;
 }
 
 .original-chinese::before {
@@ -596,7 +596,7 @@ th, td {
 
 /* Translator-supplied words */
 .translator-supplied {
-  color: #767676;
+  color: #717171;
 }
 
 /* Parallel text */

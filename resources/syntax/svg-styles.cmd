@@ -54,7 +54,7 @@ w{:: \svg-style:maths-font-rulesets ::
 w{:: \svg-style:stroke-colour-rulesets ::
   a~~
     line.colour-r {
-      stroke: #e00;
+      stroke: #e00000;
     }
     line.colour-g {
       stroke: green;
@@ -74,7 +74,7 @@ w{:: \svg-style:stroke-colour-rulesets ::
 w{:: \svg-style:text-colour-rulesets ::
   a~~
     text.colour-r {
-      fill: #e00;
+      fill: #e00000;
     }
     text.colour-g {
       fill: green;
