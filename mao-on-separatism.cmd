@@ -7,17 +7,12 @@
 %%
   %title Mao on separatism: 27~Chinas
   %date-created 2019-09-24
-  %date-modified 2020-08-04
+  %date-modified 2020-08-12
   \resources:rendering
   %description
     An English translation of Mao's 1920 suggestion, in 長沙《大公報》, \
     of dividing China into 27 separate countries, \
     including the Republic of Hunan (湖南共和國).
-  %css a~~
-    .red-emphasis {
-      color: #e00;
-    }
-  ~~
 %%
 
 
@@ -145,7 +140,7 @@ And who now forbids any mention of self-determination or independence?
 ====
 
 ----
-[:Red emphasis:] is mine, but remember, all are Mao's words:
+The [:highlighting:] is mine, but remember, the words are Mao's:
 ----
 
 Z{%
@@ -153,7 +148,7 @@ Z{%
   (?P<content> [\s\S]*? )
   [:] \]
 %
-  <span class="red-emphasis">\g<content></span>
+  <mark>\g<content></mark>
 %}
 
 <<
