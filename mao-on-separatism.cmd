@@ -7,7 +7,7 @@
 %%
   %title Mao on separatism: 27~Chinas
   %date-created 2019-09-24
-  %date-modified 2020-08-12
+  %date-modified 2020-08-17
   \resources:rendering
   %description
     An English translation of Mao's 1920 suggestion, in 長沙《大公報》, \
@@ -161,12 +161,12 @@ Z{%
 <<
   鄉居寂靜，一臥兼旬。
 ||
-  .[My] hometown residence .[has been] quiet,
-  .[in my] rest of twenty days.
+  .[My] hometown residence .[has been] quiet:
+  .[a] rest of twenty days.
 >>
 ====
 * 一臥：
-    rest;
+    .[a] rest;
     \lit one rest
 * 兼旬 \+
     Double (兼) ten days (旬).
