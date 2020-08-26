@@ -3,7 +3,7 @@
 %%
   %title Unicode mathematical symbols
   %date-created 2019-03-30
-  %date-modified 2020-07-01
+  %date-modified 2020-08-27
   \resources:maths
 %%
 
@@ -34,6 +34,16 @@
 ----
 Convenient for use in emails.
 ----
+
+````
+° % ∞ ½ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞
+₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₍ ₎ ₊ ₋ ₌
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁽ ⁾ ⁺ ⁻ ⁼
++ − ± ∓ × ÷ · = ≐ ≈ ≃ \~ ≠ \< \> ≤ ≥ ≪ ≫
+∂ ∇ ∫
+Α α Β β Γ γ Δ δ Ε ϵ ε Ζ ζ Η η Θ θ Ι ι Κ κ Λ λ Μ μ
+Ν ν Ξ ξ Ο ο Π π Ρ ρ Σ σ ς Τ τ Υ υ Φ ϕ φ Χ χ Ψ ψ Ω ω
+````
 
 
 <## Header row for tables ##>
