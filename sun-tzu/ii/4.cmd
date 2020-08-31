@@ -10,7 +10,7 @@
   %title
     "\sun-tzu's Computational Classic: Volume~II" 《孫子算經\.卷中》 \P4
   %date-created 2019-06-09
-  %date-modified 2020-07-19
+  %date-modified 2020-08-31
   \resources:maths
 %%
 
@@ -66,7 +66,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. \+
   今有三分之一、三分之二、四分之三。問減多益少，幾何而平？
 ||
   Now there be one of three shares,
-  two of three shares .[and] three of four shares.
+  two of three shares, .[and] three of four shares.
   .[We] ask, .[in] diminishing .[the] greater .[to] benefit .[the] lesser,
   how much that .[they be] level?
 >>
