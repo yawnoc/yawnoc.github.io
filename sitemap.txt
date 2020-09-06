@@ -3,6 +3,7 @@ https://yawnoc.github.io/cantonese/conway-romanisation
 https://yawnoc.github.io/cantonese/tonic-dictionary
 https://yawnoc.github.io/code/strikethrough
 https://yawnoc.github.io/code/unicode-maths
+https://yawnoc.github.io/crowded-xiangqi
 https://yawnoc.github.io/cynics-730/
 https://yawnoc.github.io/cynics-730/2019/bolt-liu-association
 https://yawnoc.github.io/cynics-730/2019/sales-albanese-donation
