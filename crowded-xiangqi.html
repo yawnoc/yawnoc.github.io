@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/resources/styles/main.min.css">
+<script defer src="/resources/scripts/rendering.min.js"></script>
+<title>Crowded Xiangqi | Conway's site</title>
+<style>.piece-letter {
+font-weight: bold;
+}</style>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="/" title="Home page">Home</a>
+</li>
+<li><a href="#" title="Jump back to top">Top</a>
+</li>
+<li><a href="#cite" title="Cite this page">Cite</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1>Crowded Xiangqi</h1>
+<div class="page-properties">
+Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/crowded-xiangqi.cmd">crowded-xiangqi.cmd</a><br>
+First created: 2020-09-06<br>
+Last modified: 2020-09-06
+</div>
+<p>
+<b>Crowded Xiangqi</b> (<span lang="zh-Hant">擠迫棋</span>) is a variant of <a href="https://en.wikipedia.org/wiki/Xiangqi">Chinese Chess</a> which I invented
+after all of my cheap magnetic boards broke in half.
+It is played using the standard 32-piece set on half the board
+(a grid of 5 × 9 intersections).
+</p>
+<h2 id="specs"><a class="permalink" href="#specs" aria-label="Permalink"></a>Specifications</h2>
+<ol>
+<li>All is as standard Chinese Chess, except the below:
+</li>
+<li>The board shall consist of 5&nbsp;ranks and 9&nbsp;files.
+</li>
+<li>Each player's pawns and cannons start on the second rank.
+</li>
+<li>Pawns can move sideways at the second-last rank
+(i.e.&nbsp;after advancing two steps forward).
+</li>
+<li>Generals cannot fly horizontally
+(i.e.&nbsp;it is legal for the two generals to be two spaces apart
+on the central rank).
+</li>
+</ol>
+<p>
+Note that the two player's palaces (3 × 3) overlap in the middle rank.
+</p>
+<p>
+The starting position in FEN is
+</p>
+<pre><code>rnbakabnr/pcp1p1pcp/9/PCP1P1PCP/RNBAKABNR
+</code></pre>
+<p>
+where <code>krncabp</code> (in either case) stand for
+general (<span class="piece-letter">k</span>ing), chariot (<span class="piece-letter">r</span>ook), horse (k<span class="piece-letter">n</span>ight), <span class="piece-letter">c</span>annon,
+<span class="piece-letter">a</span>dvisor, elephant (<span class="piece-letter">b</span>ishop), and <span class="piece-letter">p</span>awn respectively.
+</p>
+<p>
+<small>
+I have not named this variant "half-board" lest it be confused
+with <a href="https://en.wikipedia.org/wiki/Banqi">Banqi (<span lang="zh-Hant">半棋</span>)</a>, which is a very different game
+where the pieces are shuffled (so there is a strong element of luck)
+and placed in the squares rather than at the intersections.
+</small>
+</p>
+<h2 id="cite"><a class="permalink" href="#cite" aria-label="Permalink"></a>Cite this page</h2>
+<h3>Text</h3>
+<p>
+Conway&nbsp;(2020).
+Crowded Xiangqi.
+&lt;https://yawnoc.github.io/crowded-xiangqi&gt;
+Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
+</p>
+<h3>BibTeX</h3>
+<pre><code>@misc{conway-crowded,
+  author = {Conway},
+  year = {2020},
+  title = {{Crowded} {Xiangqi}},
+  howpublished = {\url{https://yawnoc.github.io/crowded-xiangqi}},
+  note = {Accessed~<span class="js-date">yyyy-mm-dd</span>},
+}
+</code></pre>
+<h3>BibLaTeX</h3>
+<pre><code>@online{conway-crowded,
+  author = {Conway},
+  year = {2020},
+  title = {{Crowded} {Xiangqi}},
+  url = {https://yawnoc.github.io/crowded-xiangqi},
+  urldate = {<span class="js-date">yyyy-mm-dd</span>},
+}
+</code></pre>
+<script>document.addEventListener("DOMContentLoaded",function(){renderDate()})</script>
+<footer>
+©&nbsp;2020&nbsp;Conway.
+</footer>
+</body>
+</html>
