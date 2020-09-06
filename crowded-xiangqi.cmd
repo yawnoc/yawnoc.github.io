@@ -40,6 +40,12 @@ It is played using the standard 32-piece set on half the board
 (a grid of 5 × 9 intersections).
 ----
 
+||||{.centred-block}
+  ![Starting position for Crowded Xiangqi][starting position]
+||||
+
+@[starting position]{w=360} crowded-xiangqi.png @
+
 ##{#specs} Specifications ##
 
 ++++++++
