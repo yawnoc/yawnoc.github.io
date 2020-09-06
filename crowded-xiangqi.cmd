@@ -50,11 +50,8 @@ It is played using the standard 32-piece set on half the board
    (i.e.~after advancing two steps forward).
 1. Generals cannot fly horizontally
    (i.e.~it is legal for the two generals to be two spaces apart
-   on the central rank).
+   on the central rank, where the two palaces overlap).
 ++++++++
-----
-Note that the two player's palaces (3 × 3) overlap in the middle rank.
-----
 
 ----
 The starting position in FEN is
