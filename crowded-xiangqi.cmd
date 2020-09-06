@@ -54,9 +54,9 @@ It is played using the standard 32-piece set on half the board
 1. Pawns and cannons start on the second rank.
 1. Pawns can move sideways at the second-last rank
    (i.e.~after advancing two steps forward).
-1. Generals cannot fly horizontally
-   (i.e.~it is legal for the two generals to be two steps apart
-   on the central rank, where the two palaces overlap).
+1. Generals can fly horizontally
+   (i.e.~the two generals cannot simultaneously be in the central rank,
+   where the two palaces overlap, unless there is an intervening piece).
 ++++++++
 
 ----
