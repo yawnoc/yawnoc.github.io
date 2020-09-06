@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2020-08-05
+  %date-modified 2020-09-06
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -92,6 +92,11 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 * [Mao on separatism: 27 Chinas](/mao-on-separatism)
   ||||{.page-description}
     Mao in 1920, on why China ought to be split into 27 separate countries.
+  ||||
+
+* [Crowded Xiangqi](/crowded-xiangqi)
+  ||||{.page-description}
+    My own variant of Chinese Chess played on half the board.
   ||||
 
 ====
