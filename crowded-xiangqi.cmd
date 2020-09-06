@@ -50,12 +50,12 @@ It is played using the standard 32-piece set on half the board
 
 ++++++++
 1. All is as standard Chinese Chess, except the below:
-1. The board shall consist of 5~ranks and 9~files.
-1. Each player's pawns and cannons shall start on the second rank.
+1. The number of ranks is reduced from ten to five.
+1. Pawns and cannons start on the second rank.
 1. Pawns can move sideways at the second-last rank
    (i.e.~after advancing two steps forward).
 1. Generals cannot fly horizontally
-   (i.e.~it is legal for the two generals to be two spaces apart
+   (i.e.~it is legal for the two generals to be two steps apart
    on the central rank, where the two palaces overlap).
 ++++++++
 
