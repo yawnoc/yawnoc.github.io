@@ -238,9 +238,9 @@ The inserted punctuation is my own.
 <<
   可俯瞰維多利亞海港南北两岸，其間朝暉夕陰，晴光雨色，千變萬化，殆如畫圖。
 ||
-  .[One] can face downwards .[and] overlook .[the] two shores,
-  southern .[and] northern, of Victoria~Harbour;
-  amidst these, .[the] morning sunshine .[and the] even darkness,
+  .[One] can look down .[and] overlook .[the] two banks,
+  southern .[and] northern, of Victoria~Harbour:
+  between them .[the] morning sunshine .[and the] even darkness,
   .[and the] clear light .[and the] rainy hues,
   .[undergo a] thousand changes .[and a] myriad tranformations,
   as .[in] paintings .[and] drawings.

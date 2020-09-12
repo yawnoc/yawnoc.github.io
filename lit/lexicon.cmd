@@ -269,9 +269,19 @@ See also: [Unihan Radical-Stroke Index][unihan]
 See also: [逝世][逝]
 ----
 
+\char 6 两 4E24
+====
+* \var [兩]
+====
+
 \char 7 信 4FE1
 ====
 * trust; believe; trustworthy
+====
+
+\char 8 俯 4FEF
+====
+* look down
 ====
 
 \rad ⼁ line 2F01
@@ -459,7 +469,17 @@ See also: [逝世][逝]
 * former; late
 ====
 
+\char 4 光 5149
+====
+* light
+====
+
 \rad ⼊ enter 2F0A
+
+\char 6 兩 5169
+====
+* two
+====
 
 \rad ⼋ eight 2F0B
 
@@ -521,6 +541,11 @@ See also: [逝世][逝]
 \rad ⼓ wrap 2F13
 
 \rad ⼔ spoon 2F14
+
+\char 2 化 5316
+====
+* transform
+====
 
 \char 3 北 5317
 ====
@@ -607,6 +632,11 @@ See also: [北方][方]
 * olden; antiquity
 ====
 
+\char 2 可 53EF
+====
+* can
+====
+
 \char 2 史 53F2
 ====
 * history; record
@@ -643,6 +673,12 @@ See also: [北方][方]
 * nation; country; state
 ====
 
+\char 11 圖 5716
+====
+* diagram; drawing
+* plot
+====
+
 \rad ⼟ earth 2F1F
 
 \char 3 地 5730
@@ -666,6 +702,11 @@ See also: [詩士][詩]
 \rad ⼢ go-slowly 2F22
 
 \rad ⼣ evening 2F23
+
+\char 0 夕 5915
+====
+* even (evening)
+====
 
 \rad ⼤ big 2F24
 
@@ -788,6 +829,11 @@ See also: [女子][女], [獅子][獅]
 \char 5 岡 5CA1
 ====
 * ridge
+====
+
+\char 5 岸 5CB8
+====
+* bank; shore
 ====
 
 \char 7 峯 5CEF
@@ -1084,9 +1130,19 @@ See also: [女子][女], [獅子][獅]
 * [風]景： \met sights .[and] scenery
 ====
 
+\char 8 晴 6674
+====
+* clear; fine
+====
+
 \char 8 智 667A
 ====
 * wisdom
+====
+
+\char 9 暉 6689
+====
+* sunshine
 ====
 
 \rad ⽈ say 2F48
@@ -1112,6 +1168,16 @@ See also: [女子][女], [獅子][獅]
 ====
 * look
 * hope
+====
+
+\char 8 朝 671D
+[陰平]
+====
+* morning
+====
+[陽平]
+====
+* dynasty
 ====
 
 \rad ⽊ tree 2F4A
@@ -1167,6 +1233,12 @@ See also: [蒞止][蒞]
 ----
 
 \rad ⽍ death 2F4D
+
+\char 5 殆 6B86
+====
+* peril
+* [:speech-assist:]
+====
 
 \rad ⽎ weapon 2F4E
 
@@ -1399,6 +1471,11 @@ See also: [百萬][萬]
 \char 6 眾 773E
 ====
 * multitude
+====
+
+\char 12 瞰 77B0
+====
+* overlook; look at
 ====
 
 \rad ⽭ spear 2F6D
@@ -1634,6 +1711,13 @@ See also: [聯翩][翩]
 
 \rad ⾊ color 2F8A
 
+\char 0 色 8272
+====
+* colour; hue
+* countenance
+* (female) beauty
+====
+
 \rad ⾋ grass 2F8B
 
 \char 7 莫 83AB
@@ -1781,6 +1865,11 @@ See also: [聯翩][翩]
 ====
 ====
 * 譬[如]： liken unto
+====
+
+\char 16 變 8B8A
+====
+* change
 ====
 
 \rad ⾕ valley 2F95
@@ -1932,7 +2021,23 @@ See also: [聯翩][翩]
 * family; \met house
 ====
 
+\char 4 間 9593
+[平聲]
+====
+* between; among
+====
+[去聲]
+====
+* separate; partition
+* spy
+====
+
 \rad ⾩ mound 2FA9
+
+\char 8 陰 9670
+====
+* shade; dark; female
+====
 
 \char 13 隨 96A8
 ====
@@ -1944,6 +2049,11 @@ See also: [聯翩][翩]
 \rad ⾫ short-tailed-bird 2FAB
 
 \rad ⾬ rain 2FAC
+
+\char 0 雨 96E8
+====
+* rain
+====
 
 \rad ⾭ blue 2FAD
 
