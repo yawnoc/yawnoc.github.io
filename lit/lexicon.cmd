@@ -1971,7 +1971,7 @@ See also: [聯翩][翩]
 ====
 [去聲]
 ====
-* delight
+* joyousness
 ====
 
 \rad ⾆ tongue 2F86
