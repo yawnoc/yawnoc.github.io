@@ -394,7 +394,7 @@ See also: [逝世][逝]
 * think; believe
 ====
 ====
-* 以為： think; believe
+* 以[為]： think; believe
 ====
 
 \char 5 何 4F55
@@ -402,8 +402,8 @@ See also: [逝世][逝]
 * what; how; wherefore
 ====
 ====
-* 何如： what of .[it]
-* 如何： how; what .[be]
+* 何[如]： what of .[it]
+* [如]何： how; what .[be]
 ====
 
 \char 6 佳 4F73
@@ -694,7 +694,7 @@ See also: [太平][平]
 * female; woman; daughter
 ====
 ====
-* 女子： lady
+* 女[子]： lady
 ====
 
 \char 3 如 5982
@@ -843,7 +843,7 @@ See also: [女子][女], [獅子][獅]
 * [:tone:] level
 ====
 ====
-* 太平： tranquility; peace
+* [太]平： tranquility; peace
 ====
 
 \rad ⼳ short-thread 2F33
@@ -990,7 +990,7 @@ See also: [女子][女], [獅子][獅]
 * government
 ====
 ====
-* 為政： govern
+* [為]政： govern
 ====
 
 \char 5 故 6545
@@ -1033,7 +1033,7 @@ See also: [女子][女], [獅子][獅]
 * \met instance
 ====
 ====
-* 北方： .[the] north
+* [北]方： .[the] north
 ====
 
 \char 4 於 65BC
@@ -1081,7 +1081,7 @@ See also: [女子][女], [獅子][獅]
 * scenery
 ====
 ====
-* 風景： \met sights .[and] scenery
+* [風]景： \met sights .[and] scenery
 ====
 
 \char 8 智 667A
@@ -1265,7 +1265,7 @@ See also: [以為][以], [為政][政]
 * lion
 ====
 ====
-* 獅子： lion
+* 獅[子]： lion
 ====
 
 \char 15 獸 7378
@@ -1441,7 +1441,7 @@ See also: [百萬][萬]
 * myriad
 ====
 ====
-* 百萬： hundred myriad; million
+* [百]萬： hundred myriad; million
 ====
 
 \rad ⽲ grain 2F72
@@ -1554,7 +1554,7 @@ See also: [百萬][萬]
 * fly rapidly
 ====
 ====
-* 聯翩： \met continuously flock
+* [聯]翩： \met continuously flock
 ====
 
 \rad ⽼ old 2F7C
@@ -1646,7 +1646,7 @@ See also: [聯翩][翩]
 * attend; arrive
 ====
 ====
-* 蒞止： attend
+* 蒞[止]： attend
 ====
 
 \rad ⾌ tiger 2F8C
@@ -1750,7 +1750,7 @@ See also: [聯翩][翩]
 * poem; verse
 ====
 ====
-* 詩士： poet
+* 詩[士]： poet
 ====
 
 \char 6 誠 8AA0
@@ -1780,7 +1780,7 @@ See also: [聯翩][翩]
 * like
 ====
 ====
-* 譬如： like
+* 譬[如]： like
 ====
 
 \rad ⾕ valley 2F95
@@ -1836,7 +1836,7 @@ See also: [聯翩][翩]
 * pass
 ====
 ====
-* 逝世： pass away
+* 逝[世]： pass away
 ====
 
 \char 7 連 9023
