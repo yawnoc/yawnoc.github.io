@@ -555,6 +555,13 @@ See also: [可以][可]
 
 \rad ⼏ table 2F0F
 
+\char 1 凡 51E1
+====
+* common
+* total
+* all; every
+====
+
 \rad ⼐ open-box 2F10
 
 \rad ⼑ knife 2F11
@@ -569,7 +576,7 @@ See also: [可以][可]
 \char 7 前 524D
 ====
 * front; fore
-* before
+* before; former
 ====
 
 \rad ⼒ power 2F12
@@ -631,6 +638,11 @@ See also: [北方][方]
 \char 0 又 53C8
 ====
 * and; also
+====
+
+\char 6 受 53D7
+====
+* receive; bear
 ====
 
 
@@ -1014,6 +1026,11 @@ See also: [女子][女], [獅子][獅]
 \rad ⼹ snout 2F39
 
 \rad ⼺ bristle 2F3A
+
+\char 4 形 5F62
+====
+* shape; form
+====
 
 \rad ⼻ step 2F3B
 
@@ -2084,7 +2101,7 @@ See also: [聯翩][翩]
 
 \char 9 諸 8AF8
 ====
-* many
+* many; various
 * [:contraction:] [之]\/[於]
 * [:contraction:] [之]\/[乎]
 ====
@@ -2237,6 +2254,12 @@ See also: [聯翩][翩]
 \rad ⾢ city 2FA2
 
 \rad ⾣ wine 2FA3
+
+\char 6 酬 916C
+====
+* toast (salute by alcohol)
+* payment
+====
 
 \rad ⾤ distinguish 2FA4
 

@@ -376,8 +376,8 @@ The inserted punctuation is my own.
   而形制則前會長百强則師，任之不受酬。其建築布置諸費，凡共五十萬元。
 ||
   And .[of designing the] form .[and] structure,
-  .[the] former club chairman Pak-k'eung ((百强)) .[the] architect
-  served this role without receiving payment.
+  .[the] former Club Chairman Pak-k'eung ((百强)) .[the] architect
+  served it not receiving payment.
   Its various construction .[and] arrangement costs,
   altogether totalled five hundred thousand dollars.
 >>
