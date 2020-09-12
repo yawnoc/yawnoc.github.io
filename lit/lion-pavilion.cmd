@@ -480,12 +480,10 @@ The inserted punctuation is my own.
 <<
   爰書，是以記之。
 ||
-  .[A] prisoner's document: this to record it.
+  .[A] prisoner's writing: this to record it.
 >>
 ====
-* 爰書：
-    .[a] prisoner's document;
-    \or .[my writing is but a] prisoner's document \+
+* 爰書： .[a] prisoner's writing; \lit changed writing \+
   An affidavit given by a prisoner, the term supposedly
   derived from the text of the affidavit being changed: 爰，易也，換也。
   Here the author of the plaque text closes \
