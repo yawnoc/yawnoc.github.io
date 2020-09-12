@@ -289,16 +289,6 @@ See also: [逝世][逝]
 * \var [兩]
 ====
 
-\char 7 信 4FE1
-====
-* trust; believe; trustworthy
-====
-
-\char 8 俯 4FEF
-====
-* look down
-====
-
 \rad ⼁ line 2F01
 
 \char 3 中 4E2D
@@ -471,6 +461,16 @@ See also: [可以][可]
 ====
 * serve
 * servant
+====
+
+\char 7 信 4FE1
+====
+* trust; believe; trustworthy
+====
+
+\char 8 俯 4FEF
+====
+* look down
 ====
 
 \char 8 倡 5021
