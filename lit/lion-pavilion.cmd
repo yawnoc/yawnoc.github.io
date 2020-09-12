@@ -430,7 +430,7 @@ The inserted punctuation is my own.
 <<
   吾聞獅子得金精之剛，聲吼如雷，天地皆動。
 ||
-  I hear .[that the] lion receiveth
+  I hear .[that the] lion getteth
   .[the] strength of .[the] essence of metal;
   .[its] sounds .[and] roars .[are] like thunder:
   all Heaven .[and] Earth .[are] moved .[by it].

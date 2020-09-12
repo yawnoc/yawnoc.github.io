@@ -584,7 +584,17 @@ See also: [可以][可]
 * before; former
 ====
 
+\char 8 剛 525B
+====
+* strong
+====
+
 \rad ⼒ power 2F12
+
+\char 9 動 52D5
+====
+* move
+====
 
 \char 11 勢 52E2
 ====
@@ -716,6 +726,11 @@ See also: [北方][方]
 ----
 See also: [合奏][奏]
 ----
+
+\char 4 吼 543C
+====
+* roar
+====
 
 \char 4 吾 543E
 ====
@@ -1807,6 +1822,13 @@ See also: [百萬][萬]
 
 \rad ⽶ rice 2F76
 
+\char 8 精 7CBE
+====
+* fine; refined
+* proficient
+* essence
+====
+
 \rad ⽷ silk 2F77
 
 \char 6 絕 7D55
@@ -1893,6 +1915,12 @@ See also: [而已][已]
 ----
 See also: [聯翩][翩]
 ----
+
+\char 11 聲 8072
+====
+* sound; voice
+* tone
+====
 
 \rad ⾀ brush 2F80
 
@@ -2307,6 +2335,11 @@ See also: [聯翩][翩]
 
 \rad ⾦ gold 2FA6
 
+\char 0 金 91D1
+====
+* gold; metal
+====
+
 \rad ⾧ long 2FA7
 
 \char 0 長 9577
@@ -2366,6 +2399,11 @@ See also: [聯翩][翩]
 \char 0 雨 96E8
 ====
 * rain
+====
+
+\char 5 雷 96F7
+====
+* thunder
 ====
 
 \rad ⾭ blue 2FAD
