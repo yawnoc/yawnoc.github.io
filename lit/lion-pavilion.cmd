@@ -465,11 +465,10 @@ The inserted punctuation is my own.
 <<
   尤望來遊者，亦步健神旺，顧盼自如，而與獅子同也。
 ||
-  .[I] especially hope .[for the]
-  traveller .[who] cometh, .[to] also .[have an]
-  healthy step .[and an] energetic spirit,
-  looking back .[and] looking forth
-  according to .[his] own .[will],
+  .[I] especially hope .[for the] traveller .[who] cometh,
+  .[to] also .[have a] robust step .[and an] energetic spirit,
+  looking back .[and] looking forward
+  according unto .[his] own .[will],
   and .[be the] same as .[a] lion.
 >>
 ====
