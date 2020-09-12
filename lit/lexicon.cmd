@@ -1777,10 +1777,10 @@ See also: [聯翩][翩]
 
 \char 13 譬 8B6C
 ====
-* like
+* liken
 ====
 ====
-* 譬[如]： like
+* 譬[如]： liken unto
 ====
 
 \rad ⾕ valley 2F95

@@ -146,7 +146,7 @@ The inserted punctuation is my own.
   ||
     .[The] Master saith,
     .[He who] governeth by virtue,
-    .[is] like .[the] North Star, abiding in its place with
+    .[is] likened unto .[the] North Star, abiding in its place with
     .[the] multitude of stars going round it.
   >>
   Here, 共 is interchangeable with 拱.
