@@ -8,7 +8,7 @@
   %title "Memorial unto the Mobilisation, Hong Kong" 《香港出師表》
   %title-en "Memorial .[unto the] Mobilisation, Hong Kong"
   %date-created 2019-06-22
-  %date-modified 2020-05-04
+  %date-modified 2020-09-12
   \resources
   %footer-copyright-remark
     except the [original Chinese text] [facebook post],
@@ -261,14 +261,14 @@ by [畫字~(Draword)][draword].
   親人民，遠專制，此港英所以興隆也； \+
   親專制，遠人民，此港共所以傾頹也。
 ||
-  Being close unto the people .[and] being far from .[the] dictatorship:
+  Being close unto the people .[and] keeping far from .[the] dictatorship:
   this .[was] that by which British Hong Kong arose .[in] prosperity. \+
-  Being close unto .[the] dictatorship .[and] being far from the people:
+  Being close unto .[the] dictatorship .[and] keeping far from the people:
   this .[is] that by which Communist-.[ruled] Hong Kong
   .[shall] collapse .[in] ruin.
 >>
 ====
-* 遠： being far from; \or keeping away from \+
+* 遠： keeping far from \+
   遠，去聲， \C y(u")n6, \M yu(a\)n
 ====
 

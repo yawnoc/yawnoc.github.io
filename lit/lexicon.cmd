@@ -380,6 +380,12 @@ See also: [逝世][逝]
 
 \rad ⼇ lid 2F07
 
+\char 4 亦 4EA6
+====
+* also
+* [:speech-assist:]
+====
+
 \char 7 亭 4EAD
 ====
 * pavilion
@@ -653,6 +659,14 @@ See also: [北方][方]
 * history; record
 ====
 
+\char 3 合 5408
+====
+* join
+====
+----
+See also: [合奏][奏]
+----
+
 \char 4 吾 543E
 ====
 * I; we
@@ -747,6 +761,15 @@ See also: [太平][平]
 [陽平]
 ====
 * odd (strange)
+====
+
+\char 6 奏 594F
+====
+* report
+* play (music)
+====
+====
+* [合]奏： play .[in] ensemble
 ====
 
 \rad ⼥ woman 2F25
@@ -883,6 +906,16 @@ See also: [女子][女], [獅子][獅]
 * oneself; himself
 ====
 
+\char 0 已 5DF2
+====
+* finish
+* already
+* [:speech-assist:]
+====
+====
+* [而]已： only; is all
+====
+
 \rad ⼱ turban 2F31
 
 \char 2 市 5E02
@@ -1009,6 +1042,11 @@ See also: [女子][女], [獅子][獅]
 
 \rad ⼼ heart 2F3C
 
+\char 4 快 5FEB
+====
+* pleasure
+====
+
 \char 5 怪 602A
 ====
 * strange; odd
@@ -1017,6 +1055,11 @@ See also: [女子][女], [獅子][獅]
 \char 6 恃 6043
 ====
 * rely upon
+====
+
+\char 6 息 606F
+====
+* rest
 ====
 
 \char 7 悉 6089
@@ -1062,6 +1105,11 @@ See also: [女子][女], [獅子][獅]
 ====
 * pick up
 * Ten
+====
+
+\char 8 接 63A5
+====
+* receive
 ====
 
 \rad ⽀ branch 2F40
@@ -1235,6 +1283,11 @@ See also: [女子][女], [獅子][獅]
 * wood; timber
 ====
 
+\char 4 松 677E
+====
+* pine tree
+====
+
 \char 4 林 6797
 ====
 * forest; woods
@@ -1347,8 +1400,8 @@ See also: [以為][以], [為政][政]
 
 \char 8 無 7121
 ====
-* there be not; have not; without
-* not; do not
+* there be not; have not; without; \met not
+* do not
 ====
 
 \char 8 然 7136
@@ -1644,6 +1697,16 @@ See also: [百萬][萬]
 
 \rad ⽵ bamboo 2F75
 
+\char 3 竽 7AFD
+====
+* y(u") (free reed instrument)
+====
+
+\char 5 笙 7B19
+====
+* sh(e^)ng (free reed instrument)
+====
+
 \char 6 策 7B56
 ====
 * strategy; scheme
@@ -1705,10 +1768,20 @@ See also: [百萬][萬]
 * and; with; but; to
 * [:speech-assist:]
 ====
+----
+See also: [而已][已]
+----
 
 \rad ⽾ plow 2F7E
 
 \rad ⽿ ear 2F7F
+
+\char 0 耳 8033
+====
+* ear
+* [:contraction:] [而已][已]
+* [:speech-assist:]
+====
 
 \char 8 聞 805E
 ====
@@ -1972,6 +2045,12 @@ See also: [聯翩][翩]
 
 \rad ⾜ foot 2F9C
 
+\char 0 足 8DB3
+====
+* foot
+* sufficient
+====
+
 \rad ⾝ body 2F9D
 
 \rad ⾞ cart 2F9E
@@ -1987,6 +2066,17 @@ See also: [聯翩][翩]
 ====
 
 \rad ⾡ walk 2FA1
+
+\char 4 近 8FD1
+[上聲] [but 去聲 in Mandarin]
+====
+* near
+====
+[去聲]
+====
+* nearby
+* [:verb:] keep near unto
+====
 
 \char 6 逆 9006
 ====
@@ -2018,12 +2108,23 @@ See also: [聯翩][翩]
 
 \char 9 遊 904A
 ====
-* journey; tour
+* journey; travel; tour
 ====
 
 \char 10 遙 9059
 ====
 * far
+====
+
+\char 10 遠 9060
+[上聲]
+====
+* far
+* profound
+====
+[去聲]
+====
+* [:verb:] keep far from
 ====
 
 \char 10 遥 9065

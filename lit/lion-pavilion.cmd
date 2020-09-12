@@ -325,7 +325,7 @@ The inserted punctuation is my own.
 <<
   而遠近松風，又如笙竽合奏，耳目所接，無一而不足快。亦遊息之佳所也。
 ||
-  And .[the] far .[and] near wind .[through] the pine tree,
+  And .[the] far .[and] nearby pine tree wind,
   .[is] also like the sh(e^)ng ((笙)) .[and] the y(u") ((竽))
   playing .[in] ensemble;
   .[among] that which the ear .[and] the eye receiveth,
