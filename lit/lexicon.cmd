@@ -416,7 +416,7 @@ See also: [逝世][逝]
 
 \char 3 以 4EE5
 ====
-* use; by; with; to
+* use; by; with; to; in
 * think; believe
 ====
 ====
@@ -523,6 +523,11 @@ See also: [可以][可]
 ====
 
 \rad ⼋ eight 2F0B
+
+\char 2 六 516D
+====
+* six; sixth
+====
 
 \char 4 共 5171
 [上聲]
@@ -1130,6 +1135,12 @@ See also: [女子][女], [獅子][獅]
 
 \rad ⼽ halberd 2F3D
 
+\char 2 成 6210
+====
+* complete
+* become
+====
+
 \char 3 我 6211
 ====
 * I; we
@@ -1304,7 +1315,7 @@ See also: [女子][女], [獅子][獅]
 
 \char 9 會 6703
 ====
-* meet; assemble; club
+* meet; assemble
 ====
 
 \rad ⽉ moon 2F49
@@ -2013,7 +2024,7 @@ See also: [聯翩][翩]
 * column
 * rank
 ====
-[去聲] 音幸 x(i\)ng [but 平聲 x(i/)ng in Mainland Mandarin]
+[去聲] 音幸 x(i\)ng [but 平聲 x(i/)ng in Mainlandia]
 ====
 * [:noun:] conduct
 ====
