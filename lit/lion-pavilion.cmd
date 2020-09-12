@@ -10,7 +10,7 @@
     "Record of the Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2020-08-05
+  %date-modified 2020-09-12
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -223,15 +223,15 @@ The inserted punctuation is my own.
   春秋佳日，中西人士聨翩蒞止，登斯亭也。
 ||
   .[On a] good spring .[or] autumn day,
-  .[both] Chinese .[and] Western people continuously flock .[here to] visit,
-  ascending to this Pavilion.
+  .[both] Chinese .[and] Western people continuously flock .[here to] attend,
+  ascending this Pavilion.
 >>
 ====
-* 聨翩：接連不斷；翩，疾飛也； continuously flock; \lit rapidly fly together \+
+* 聨翩：翩，疾飛也； continuously flock; \lit rapidly fly together \+
   翩，音篇， \C p'een1, \M pi(a-)n \+
   "Flock" preserves the connotation with bird flight.
 
-* 蒞止：蒞，臨也； visit \+
+* 蒞止：蒞，臨也； attend \+
   蒞，力地切，音利， \C lei6, \M l(i\)
 ====
 

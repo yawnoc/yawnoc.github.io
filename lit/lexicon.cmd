@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2020-08-05
+  %date-modified 2020-09-12
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -377,6 +377,11 @@ See also: [逝世][逝]
 
 \rad ⼈ man 2F08
 
+\char 0 人 4EBA
+====
+* (gender-neutral) man; person
+====
+
 \char 2 今 4ECA
 ====
 * now; current
@@ -399,6 +404,11 @@ See also: [逝世][逝]
 ====
 * 何如： what of .[it]
 * 如何： how; what .[be]
+====
+
+\char 6 佳 4F73
+====
+* good; beautiful
 ====
 
 \char 6 使 4F7F
@@ -1002,6 +1012,12 @@ See also: [女子][女], [獅子][獅]
 
 \rad ⽄ axe 2F44
 
+\char 8 斯 65AF
+====
+* this
+* [:speech-assist:]
+====
+
 \rad ⽅ square 2F45
 
 \char 0 方 65B9
@@ -1030,9 +1046,19 @@ See also: [女子][女], [獅子][獅]
 
 \rad ⽇ sun 2F47
 
+\char 0 日 65E5
+====
+* sun; day; solar
+====
+
 \char 5 星 661F
 ====
 * star; planet
+====
+
+\char 5 春 6625
+====
+* spring
 ====
 
 \char 5 是 662F
@@ -1131,6 +1157,14 @@ See also: [女子][女], [獅子][獅]
 \rad ⽋ lack 2F4B
 
 \rad ⽌ stop 2F4C
+
+\char 0 止 6B62
+====
+* halt
+====
+----
+See also: [蒞止][蒞]
+----
 
 \rad ⽍ death 2F4D
 
@@ -1325,6 +1359,11 @@ See also: [以為][以], [為政][政]
 
 \rad ⽨ dotted-tent 2F68
 
+\char 7 登 767B
+====
+* ascend; board
+====
+
 \rad ⽩ white 2F69
 
 \char 1 百 767E
@@ -1406,6 +1445,11 @@ See also: [百萬][萬]
 ====
 
 \rad ⽲ grain 2F72
+
+\char 4 秋 79CB
+====
+* autumn
+====
 
 \char 9 稱 7A31
 [平聲]
@@ -1505,6 +1549,14 @@ See also: [百萬][萬]
 
 \rad ⽻ feather 2F7B
 
+\char 9 翩 7FE9
+====
+* fly rapidly
+====
+====
+* 聯翩： \met continuously flock
+====
+
 \rad ⽼ old 2F7C
 
 \rad ⽽ and 2F7D
@@ -1523,6 +1575,19 @@ See also: [百萬][萬]
 ====
 * hear
 ====
+
+\char 9 聨 8068
+====
+* \var [聯]
+====
+
+\char 11 聯 806F
+====
+* union
+====
+----
+See also: [聯翩][翩]
+----
 
 \rad ⾀ brush 2F80
 
@@ -1576,6 +1641,14 @@ See also: [百萬][萬]
 * not; do not
 ====
 
+\char 10 蒞 849E
+====
+* attend; arrive
+====
+====
+* 蒞止： attend
+====
+
 \rad ⾌ tiger 2F8C
 
 \char 2 虎 864E
@@ -1617,6 +1690,11 @@ See also: [百萬][萬]
 ====
 
 \rad ⾑ west 2F91
+
+\char 0 西 897F
+====
+* west
+====
 
 
 
