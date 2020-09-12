@@ -406,6 +406,9 @@ See also: [逝世][逝]
 ====
 * 以[為]： think; believe
 ====
+----
+See also: [可以][可]
+----
 
 \char 5 何 4F55
 ====
@@ -586,6 +589,11 @@ See also: [北方][方]
 
 \rad ⼜ again 2F1C
 
+\char 0 又 53C8
+====
+* and; also
+====
+
 
 
 [3-stroke]
@@ -635,6 +643,9 @@ See also: [北方][方]
 \char 2 可 53EF
 ====
 * can
+====
+====
+* 可[以]： can
 ====
 
 \char 2 史 53F2
@@ -727,6 +738,16 @@ See also: [詩士][詩]
 ----
 See also: [太平][平]
 ----
+
+\char 5 奇 5947
+[陰平]
+====
+* odd (not even)
+====
+[陽平]
+====
+* odd (strange)
+====
 
 \rad ⼥ woman 2F25
 
@@ -894,6 +915,11 @@ See also: [女子][女], [獅子][獅]
 
 \rad ⼳ short-thread 2F33
 
+\char 6 幽 5E7D
+====
+* secluded
+====
+
 \rad ⼴ dotted-cliff 2F34
 
 \rad ⼵ long-stride 2F35
@@ -926,6 +952,12 @@ See also: [女子][女], [獅子][獅]
 ====
 * obtain; get
 * satisfy; done
+====
+
+\char 9 復 5FA9
+====
+* return; restore
+* repeat; again; \met also
 ====
 
 \char 12 德 5FB7
@@ -976,6 +1008,11 @@ See also: [女子][女], [獅子][獅]
 
 
 \rad ⼼ heart 2F3C
+
+\char 5 怪 602A
+====
+* strange; odd
+====
 
 \char 6 恃 6043
 ====
@@ -1164,6 +1201,16 @@ See also: [女子][女], [獅子][獅]
 * moon; month; lunar
 ====
 
+\char 2 有 6709
+[上聲]
+====
+* there be; have
+====
+[去聲]
+====
+* (\int [又]) and
+====
+
 \char 7 望 671B
 ====
 * look
@@ -1264,6 +1311,11 @@ See also: [蒞止][蒞]
 ====
 * seek
 * request; beseech
+====
+
+\char 5 泉 6CC9
+====
+* spring; fountain
 ====
 
 \char 7 海 6D77
@@ -1415,6 +1467,11 @@ See also: [以為][以], [為政][政]
 * fear (to venerate)
 ====
 
+\char 6 異 7570
+====
+* different; strange
+====
+
 \char 7 畫 756B
 [去聲]
 ====
@@ -1542,6 +1599,11 @@ See also: [百萬][萬]
 \rad ⽳ cave 2F73
 
 \rad ⽴ stand 2F74
+
+\char 4 竒 7AD2
+====
+* \var [奇]
+====
 
 
 
@@ -1720,6 +1782,16 @@ See also: [聯翩][翩]
 
 \rad ⾋ grass 2F8B
 
+\char 4 花 82B1
+====
+* flower
+====
+
+\char 6 草 8349
+====
+* grass
+====
+
 \char 7 莫 83AB
 ====
 * not; do not
@@ -1882,6 +1954,12 @@ See also: [聯翩][翩]
 
 \rad ⾙ shell 2F99
 
+\char 8 賞 8CDE
+====
+* reward
+* appreciate
+====
+
 \rad ⾚ red 2F9A
 
 \rad ⾛ run 2F9B
@@ -1938,6 +2016,11 @@ See also: [聯翩][翩]
 * then
 ====
 
+\char 9 遊 904A
+====
+* journey; tour
+====
+
 \char 10 遙 9059
 ====
 * far
@@ -1946,6 +2029,11 @@ See also: [聯翩][翩]
 \char 10 遥 9065
 ====
 * \var [遙]
+====
+
+\char 11 遨 9068
+====
+* roam; ramble
 ====
 
 \char 11 適 9069

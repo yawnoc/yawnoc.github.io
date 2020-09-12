@@ -296,7 +296,7 @@ The inserted punctuation is my own.
 <<
   山中復有竒花異草可以觀賞，幽泉怪石可以遊遨。
 ||
-  Amidst .[the] mountain, there are also rare flowers .[and] strange grasses
+  Amidst .[the] mountain there are also odd flowers .[and] strange grasses
   which .[one] can see .[and] appreciate,
   .[and] secluded springs .[and] oddly-.[shaped] rocks
   which .[one] can tour .[and] roam.
@@ -318,6 +318,8 @@ The inserted punctuation is my own.
       &q=%E5%B1%B1%E6%B5%B7%E7%B6%93%20%E6%80%AA%E7%9F%B3\
       &f=false
   ).
+
+* 遨： roam; \or ramble
 ====
 
 <<
