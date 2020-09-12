@@ -7,7 +7,7 @@
 %%
   %title Mao on separatism: 27~Chinas
   %date-created 2019-09-24
-  %date-modified 2020-08-17
+  %date-modified 2020-09-12
   \resources:rendering
   %description
     An English translation of Mao's 1920 suggestion, in 長沙《大公報》, \
@@ -179,7 +179,7 @@ Z{%
   .[On the] first of September .[I] arrived at .[the] province;
   flipping through .[the] "Ta Kung Pao", .[its] cover .[was] struck .[in] Red,
   .[and] within .[it] there were many of my favourite discussions,
-  bringing me joyousness,
+  bringing me delight,
   .[and I am] very willing to continue to write out some of my opinions.
 >>
 ====

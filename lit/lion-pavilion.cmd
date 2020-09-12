@@ -47,7 +47,7 @@ This is a semi-literary text on a plaque in the Lion's Pavilion,
 [Victoria Peak], Hong~Kong.
 Unfortunately I did not photograph the left half of the plaque.
 From memory it contained a list of names of contributors to the funding
-(referred to in the text as 諸君子, ".[the] multiple gentlemen"),
+(referred to in the text as 諸君子, ".[the] many gentlemen"),
 but no mention of the author.
 ----
 
@@ -93,7 +93,7 @@ The inserted punctuation is my own.
   .[the] Peak of the Great Sea Turtle,
   overlooketh .[the] great sea .[unto the] south,
   .[and is in] far, far mutual looking .[unto the] north
-  with .[the] multiple mountains of Kowloon;
+  with .[the] many mountains of Kowloon;
   .[its] ridges .[and] small, pointed hills .[are] connected .[and] unbroken,
   .[its] woods .[and] trees thriving .[and] flourishing,
   .[and its] sights .[and] scenery absolutely beautiful.
@@ -240,7 +240,7 @@ The inserted punctuation is my own.
 ||
   .[One] can look down .[and] overlook .[the] two banks,
   southern .[and] northern, of Victoria~Harbour:
-  between them .[the] morning sunshine .[and the] even darkness,
+  between these .[the] morning sunshine .[and the] even darkness,
   .[and the] clear light .[and the] rainy hues,
   .[undergo a] thousand changes .[and a] myriad tranformations,
   as .[in] paintings .[and] drawings.
@@ -358,9 +358,9 @@ The inserted punctuation is my own.
 <<
   洪磋景、福伯齡，先後任會長，與諸君子規畫其事，蒙當局撥地興工。
 ||
-  Hung Ts'or-king ((洪磋景)) .[and] Fook Pak-ling ((福伯齡))
-  served as Club Chairman, .[one] after .[the] other,
-  .[and] planned those matters with .[the] multiple gentlemen,
+  Hung Ts'or-king ((洪磋景)), .[and] Fook Pak-ling ((福伯齡)),
+  served as Club Chairman .[one] after .[the] other,
+  .[and] planned these matters with .[the] many gentlemen,
   .[and] received from .[the] local authority
   .[an] allocation of land .[with which to] begin work.
 >>
@@ -448,7 +448,7 @@ The inserted punctuation is my own.
   今兹之舉，賴諸君子如響斯應，相輔相成，其力不啻雄獅。
 ||
   .[This] deed, here .[and] now,
-  dependeth upon .[the] multiple gentlemen
+  dependeth upon .[the] many gentlemen
   .[having] sounded .[a] response .[to the calls],
   mutually assisting .[and] mutually fulfilling,
   their efforts no less than .[the] mighty lion's.

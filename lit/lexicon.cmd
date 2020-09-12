@@ -426,6 +426,12 @@ See also: [逝世][逝]
 See also: [可以][可]
 ----
 
+\char 4 任 4EFB
+====
+* burden; bear; serve (a role)
+* responsibility; charge
+====
+
 \char 5 何 4F55
 ====
 * what; how; wherefore
@@ -537,6 +543,7 @@ See also: [可以][可]
 \char 6 其 5176
 ====
 * his; its; their
+* these
 * [:speech-assist:]
 ====
 
@@ -925,6 +932,11 @@ See also: [女子][女], [獅子][獅]
 
 \rad ⼯ work 2F2F
 
+\char 0 工 5DE5
+====
+* work; worker
+====
+
 \rad ⼰ oneself 2F30
 
 \char 0 己 5DF1
@@ -1141,6 +1153,11 @@ See also: [女子][女], [獅子][獅]
 \char 8 接 63A5
 ====
 * receive
+====
+
+\char 12 撥 64A5
+====
+* allocate
 ====
 
 \rad ⽀ branch 2F40
@@ -1566,6 +1583,23 @@ See also: [以為][以], [為政][政]
 * [:verb:] draw; paint
 ====
 
+\char 8 當 7576
+[平聲]
+====
+* suit
+* serve
+* administer
+* face
+* withstand
+* at; when
+* ought
+====
+[去聲]
+====
+* appropriate
+* [:verb:] pawn
+====
+
 \rad ⽦ bolt-of-cloth 2F66
 
 \rad ⽧ sickness 2F67
@@ -1873,6 +1907,17 @@ See also: [聯翩][翩]
 * with
 ====
 
+\char 9 興 8208
+[平聲]
+====
+* begin; rise; raise
+* prosper
+====
+[去聲]
+====
+* delight
+====
+
 \rad ⾆ tongue 2F86
 
 \rad ⾇ oppose 2F87
@@ -1905,6 +1950,14 @@ See also: [聯翩][翩]
 \char 7 莫 83AB
 ====
 * not; do not
+====
+
+\char 10 蒙 8499
+====
+* cover
+* deceive
+* suffer
+* receive
 ====
 
 \char 10 蒞 849E
