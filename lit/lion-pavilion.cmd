@@ -10,7 +10,7 @@
     "Record of the Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2020-09-12
+  %date-modified 2020-09-13
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -447,15 +447,13 @@ The inserted punctuation is my own.
 <<
   今兹之舉，賴諸君子如響斯應，相輔相成，其力不啻雄獅。
 ||
-  .[This] deed, here .[and] now,
+  .[This] deed here .[and] now,
   dependeth upon .[the] many gentlemen
-  .[having] sounded .[a] response .[to the calls],
+  .[having as quickly] as .[an] echo responded,
   mutually assisting .[and] mutually fulfilling,
   their efforts no less than .[the] mighty lion's.
 >>
 ====
-* 今兹： here .[and] now; \lit now .[and] here
-
 * 舉： deed; \or .[commendable] action
 
 * 力： efforts; \lit strength
