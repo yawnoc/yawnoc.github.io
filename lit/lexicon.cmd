@@ -256,6 +256,21 @@ See also: [Unihan Radical-Stroke Index][unihan]
 * same
 ====
 
+\char 1 七 4E03
+====
+* seven; seventh
+====
+
+\char 2 三 4E09
+[平聲]
+====
+* three; third
+====
+[去聲]
+====
+* thrice
+====
+
 \char 3 不 4E0D
 ====
 * not
@@ -326,6 +341,11 @@ See also: [逝世][逝]
 ====
 
 \rad ⼄ second 2F04
+
+\char 1 九 4E5D
+====
+* nine; ninth
+====
 
 \char 2 也 4E5F
 ====
@@ -451,6 +471,12 @@ See also: [可以][可]
 ====
 * serve
 * servant
+====
+
+\char 8 倡 5021
+====
+* lead
+* advocate
 ====
 
 \char 9 假 5047
@@ -944,6 +970,11 @@ See also: [女子][女], [獅子][獅]
 ====
 ====
 * [太]平： tranquility; peace
+====
+
+\char 3 年 5E74
+====
+* year
 ====
 
 \rad ⼳ short-thread 2F33
@@ -1819,6 +1850,12 @@ See also: [聯翩][翩]
 ====
 
 \rad ⾃ self 2F83
+
+\char 0 自 81EA
+====
+* own; self
+* since; from
+====
 
 \rad ⾄ arrive 2F84
 

@@ -352,11 +352,8 @@ The inserted punctuation is my own.
   亭之建，倡自一九七三年。
 ||
   .[The] construction of .[the] Pavilion,
-  .[was] suggested in .[the] year 1973.
+  .[was] advocated for since .[the] year 1973.
 >>
-====
-* 倡： suggested; \or .[first] advocated for
-====
 
 <<
   洪磋景、福伯齡，先後任會長，與諸君子規畫其事，蒙當局撥地興工。
