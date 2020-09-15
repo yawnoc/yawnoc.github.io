@@ -10,7 +10,7 @@
     "Record of the Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2020-09-13
+  %date-modified 2020-09-15
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -240,7 +240,7 @@ The inserted punctuation is my own.
 ||
   .[One] can look down .[and] overlook .[the] two banks,
   southern .[and] northern, of Victoria~Harbour:
-  between these .[the] morning sunshine .[and the] even darkness,
+  between them .[the] morning sunshine .[and the] even darkness,
   .[and the] clear light .[and the] rainy hues,
   .[undergo a] thousand changes .[and a] myriad tranformations,
   as .[in] paintings .[and] drawings.
@@ -360,7 +360,7 @@ The inserted punctuation is my own.
 ||
   Hung Ts'or-king ((洪磋景)), .[and] Fook Pak-ling ((福伯齡)),
   served as Club Chairman .[one] after .[the] other,
-  .[and] planned these matters with .[the] many gentlemen,
+  .[and] planned those matters with .[the] many gentlemen,
   .[and] received from .[the] local authority
   .[an] allocation of land .[with which to] begin work.
 >>

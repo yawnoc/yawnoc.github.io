@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2020-09-13
+  %date-modified 2020-09-15
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -613,7 +613,8 @@ See also: [可以][可]
 6 [其] U+5176
 ====
 * his; its; their
-* these
+* he; it; they
+* them; those
 * [:speech-assist:]
 ====
 
