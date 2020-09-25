@@ -10,7 +10,7 @@
     "Record of the Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2020-09-15
+  %date-modified 2020-09-25
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -161,55 +161,10 @@ The inserted punctuation is my own.
 >>
 ====
 * 楹：柱也； columns \+
-  楹，以成切， \C ying4, \M y(i/)ng \+
-  The phrase 丹楹 refers generally to good looking architecture,
-  as in 丹楹刻桷, i.e.~"red-.[painted] columns .[and] carved square rafters".
+  楹，以成切， \C ying4, \M y(i/)ng
 
 * 畫： drawing-.[decorated] \+
-  畫，去聲， \C waa6, hu(a\) \+
-  \/**Not** 入聲~(waak9), and **not** vernacularised into 上聲~(waa2).
-  Compare 畫欄, waa6 laan4, as in 畫欄風擺竹橫斜 of 《再世紅梅記\.脫穽救裴》,
-  as sung by [任劍輝], [龍劍笙], and [蓋鳴暉].
-  
-  @@[任劍輝]
-    https://youtu.be/NFcPhd74LwM
-  @@
-  @@[龍劍笙]
-    https://youtu.be/QLtQGJ7YeaA
-  @@
-  @@[蓋鳴暉]
-    https://youtu.be/cdcasHCsnpY
-  @@
-  
-  <## 平仄 ##>
-  
-  Z{%
-    \[ l
-      /
-        (?P<content> [\S]*? )
-      /
-    \]
-  %
-    <span class="level-tone">\g<content></span>
-  %}
-  
-  Z{%
-    \[ s
-      /
-        (?P<content> [\S]*? )
-      /
-    \]
-  %
-    <span class="sloped-tone">\g<content></span>
-  %}
-  
-  As to why the author of the plaque text chose
-  畫檻~(waa6 laam6) over the more common
-  畫欄~(waa6 laan4) whose meaning is the same,
-  perhaps it is to balance the tone pattern.
-  [l/丹楹/][s/畫檻/] has the pattern [l/平平/][s/仄仄/],
-  whereas
-  [l/丹楹/][s/畫/][l/欄/] has [l/平平/][s/仄/][l/平/].
+  畫，去聲， \C waa6, \M hu(a\)
 
 * 檻： balustrades; \or rails \+
   檻，音艦， \C laam6, \M ji(a\)n
@@ -252,45 +207,7 @@ The inserted punctuation is my own.
 * 晴： clear; \or fine
 
 * 殆 \+
-  Not certain. Looking through the meanings listed in
-  [《康熙字典》](https://ctext.org/kangxi-zidian/78/5#n331910):
-  ++++
-  1. 危也；
-      perilous; \or endangered \+
-      No.
-  
-  2. 近也；
-      close \+
-      No. Surely the actual sight is *better* than paintings and drawings,
-      and not just "close".
-  
-  3. 始也；
-      begin to \+
-      No.
-  
-  4. 將也，幾也；
-      almost; \or nearly \+
-      No. Same as~2.
-  
-  5. 
-      志操精果謂之誠，反誠爲殆；
-      opposite of 誠, which is 志操精果 \+
-      No.
-  
-  6. 與怠通
-      (interchangeable with 怠) \+
-      No.
-  
-  7.
-    叶養里切，音以。\
-    《楚辭\.天問》女歧縫裳，而館同爰止。何顚易厥首，而親以逢殆。 \+
-      No.
-  
-  ++++
-  
-  《分韻撮要》 simply gives 危也；又語詞,
-  i.e.~"perilous; also .[a] speech-.[assist] word".
-  I think this is the correct meaning.
+  Speech-assist I think.
 ====
 
 <<
@@ -303,7 +220,7 @@ The inserted punctuation is my own.
 >>
 ====
 * 草： grasses \+
-  More generally 草 refers to any green plant which is not a tree.
+  More generally any green plant which is not a tree.
 
 * 賞： appreciate; \or admire
 
@@ -366,10 +283,6 @@ The inserted punctuation is my own.
 >>
 ====
 * 先後： .[one] after .[the] other; \lit before .[and] after
-
-* 蒙： received from \+
-  This is very formal.
-  It almost reads like ".[gratefully] received from".
 ====
 
 <<
