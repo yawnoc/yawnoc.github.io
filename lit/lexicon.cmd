@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2020-09-25
+  %date-modified 2020-09-26
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -847,6 +847,11 @@ See also: [北方][方]
 See also: [合奏][奏]
 ----
 
+3 [名] U+540D
+====
+* name
+====
+
 4 [君] U+541B
 ====
 * ruler; monarch
@@ -1027,6 +1032,12 @@ See also: [何如][何], [如何][何], [譬如][譬]
 ----
 See also: [君子][君], [女子][女], [獅子][獅]
 ----
+
+3 [字] U+5B57
+====
+* word
+* style (name)
+====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼧ (roof) U+2F27
@@ -1450,6 +1461,16 @@ See also: [君子][君], [女子][女], [獅子][獅]
 * incident
 * old
 * therefore
+====
+
+7 [敎] U+654E
+====
+* \var [教]
+====
+
+7 [教] U+6559
+====
+* teach
 ====
 
 8 [敢] U+6562
@@ -2583,6 +2604,11 @@ See also: [聯翩][翩]
 3 [記] U+8A18
 ====
 * record
+====
+
+4 [設] U+8A2D
+====
+* establish
 ====
 
 6 [試] U+8A66
