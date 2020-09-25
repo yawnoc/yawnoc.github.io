@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2020-09-18
+  %date-modified 2020-09-25
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -577,6 +577,11 @@ See also: [可以][可]
 * light
 ====
 
+6 [兒] U+5152
+====
+* child
+====
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼊ (enter) U+2F0A
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1058,6 +1063,11 @@ See also: [君子][君], [女子][女], [獅子][獅]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼩ (small) U+2F29
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+0 [小] U+5C0F
+====
+* little; small
+====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼪ (lame) U+2F2A
@@ -2181,6 +2191,11 @@ See also: [百萬][萬]
 * sh(e^)ng (free reed instrument)
 ====
 
+6 [答] U+7B54
+====
+* answer; reply
+====
+
 6 [策] U+7B56
 ====
 * strategy; scheme
@@ -2591,6 +2606,11 @@ See also: [聯翩][翩]
 7 [誓] U+8A93
 ====
 * swear; take oath
+====
+
+8 [論] U+8AD6
+====
+* discourse
 ====
 
 9 [諸] U+8AF8

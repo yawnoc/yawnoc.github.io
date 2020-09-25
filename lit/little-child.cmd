@@ -10,7 +10,7 @@
     "Q \& A with Confucius: the Little Child's Discourse" 《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2020-07-05
+  %date-modified 2020-09-25
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -101,8 +101,6 @@ see [the actual first page of the almanac text][almanac text].
 * 問答： Q~.[\&]~A; \or questions .[and] answers; \or asking .[and] replying
 
 * 小： little; \or small
-
-* 論： discourse; \or theory
 ====
 
 <<
