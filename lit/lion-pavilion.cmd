@@ -215,7 +215,7 @@ The inserted punctuation is my own.
 ||
   Amidst .[the] mountain there are also odd flowers .[and] strange grasses
   which .[one] can see .[and] appreciate,
-  .[and] secluded springs .[and] oddly-.[shaped] rocks
+  .[and] secluded springs .[and] strange rocks
   which .[one] can tour .[and] roam.
 >>
 ====
@@ -223,18 +223,6 @@ The inserted punctuation is my own.
   More generally any green plant which is not a tree.
 
 * 賞： appreciate; \or admire
-
-* 怪石： oddly-.[shaped] rocks; \lit strange rocks \+
-  Alternatively, 怪石，似玉也, "rocks like jade", from Kuo P'u ((郭璞))'s
-  [annotations of 《山海經》](
-    https://books.google.com.au/books\
-      ?id=vOxbAAAAcAAJ&pg=PP130\
-      &dq=%E5%B1%B1%E6%B5%B7%E7%B6%93+%E6%80%AA%E7%9F%B3\
-      &hl=en\
-      &sa=X&ved=0ahUKEwj_goLp7obhAhUKbn0KHQDSAk0Q6AEIMDAB#v=onepage\
-      &q=%E5%B1%B1%E6%B5%B7%E7%B6%93%20%E6%80%AA%E7%9F%B3\
-      &f=false
-  ).
 
 * 遨： roam; \or ramble
 ====
