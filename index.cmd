@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2020-09-06
+  %date-modified 2020-09-25
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -74,15 +74,6 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
   ||||{.page-description}
     Frequently asked questions.
   ||||
-
-* [Debian on Pinebook Pro via Daniel's installer](/pinebook-pro)
-  ||||{.page-description}
-    Installation and customisation of Debian Buster
-    using [Daniel Thompson's unofficial installer].
-  ||||
-  @@[Daniel Thompson's unofficial installer]
-    https://github.com/daniel-thompson/pinebook-pro-debian-installer
-  @@
 
 * [A cynic's 7.30 (and other programs)](/cynics-730/)
   ||||{.page-description}
@@ -286,6 +277,15 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ====
 * [Unicode mathematical symbols](/code/unicode-maths)
 * [Strikethrough formatter](/code/strikethrough)
+====
+
+
+###{#code-other}
+  Other
+###
+
+====
+* [Debian on Pinebook Pro via Daniel's installer](/code/pinebook-pro)
 ====
 
 

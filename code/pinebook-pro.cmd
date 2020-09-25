@@ -3,7 +3,7 @@
 %%
   %title Debian on Pinebook Pro via Daniel's installer
   %date-created 2020-06-15
-  %date-modified 2020-07-17
+  %date-modified 2020-09-25
   \resources:rendering
 %%
 

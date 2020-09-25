@@ -1,6 +1,7 @@
 https://yawnoc.github.io/
 https://yawnoc.github.io/cantonese/conway-romanisation
 https://yawnoc.github.io/cantonese/tonic-dictionary
+https://yawnoc.github.io/code/pinebook-pro
 https://yawnoc.github.io/code/strikethrough
 https://yawnoc.github.io/code/unicode-maths
 https://yawnoc.github.io/crowded-xiangqi
@@ -27,7 +28,6 @@ https://yawnoc.github.io/mao-on-separatism
 https://yawnoc.github.io/math/daytime
 https://yawnoc.github.io/math/projectile-platform
 https://yawnoc.github.io/math/projectile-weak-drag
-https://yawnoc.github.io/pinebook-pro
 https://yawnoc.github.io/sun-tzu/
 https://yawnoc.github.io/sun-tzu/code/animations
 https://yawnoc.github.io/sun-tzu/i/
