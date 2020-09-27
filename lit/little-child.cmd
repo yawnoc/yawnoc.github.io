@@ -10,7 +10,7 @@
     "Q \& A with Confucius: the Little Child's Discourse" 《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2020-09-27
+  %date-modified 2020-09-28
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -164,9 +164,10 @@ see [the actual first page of the almanac text][almanac text].
     豈爲好事？故乃不戲。
 ||
   .[The] little child replied, saying,
-    All play .[is of] no benefit: clothes damaged .[are] hard to mend;
-    .[an] insult .[to] father .[and] mother above:
-    .[even] down unto .[those] amidst .[the] family;
+    All play .[is] without benefit:
+    clothes broken .[are] difficult .[to] mend;
+    above, .[it] disgraceth father .[and] mother:
+    .[and] below, unto .[those] amidst .[the] house;
     surely there .[shall] be fighting .[and] disputes:
     toil, but no achievement.
     How be .[this a] good thing? Therefore .[I] play not.
@@ -177,8 +178,7 @@ see [the actual first page of the almanac text][almanac text].
 
 * 縫： mend; \lit stitch
 
-* 門中：門，家門； .[those] amidst .[the] family \+
-  His siblings.
+* 門： house; \lit family
 
 * 功： achievement; \or (good) result
 
