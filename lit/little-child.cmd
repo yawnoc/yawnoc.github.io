@@ -168,8 +168,8 @@ see [the actual first page of the almanac text][almanac text].
     clothes broken .[are] difficult .[to] mend;
     above, .[it] disgraceth father .[and] mother:
     .[and] below, unto .[those] amidst .[the] house;
-    surely there .[shall] be fighting .[and] disputes:
-    toil, but no achievement.
+    surely there .[shall] be fighting .[and] striving:
+    toil but without achievement.
     How be .[this a] good thing? Therefore .[I] play not.
 >>
 ====
@@ -179,8 +179,6 @@ see [the actual first page of the almanac text][almanac text].
 * 縫： mend; \lit stitch
 
 * 門： house; \lit family
-
-* 功： achievement; \or (good) result
 
 * 豈： how \+
   A very stern and righteous "how".
