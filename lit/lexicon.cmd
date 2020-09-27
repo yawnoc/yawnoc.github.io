@@ -172,7 +172,7 @@ l{%
 <## {strokes} [{character}] {code point} ##>
 r{%
   ^
-    (?P<residual_strokes> [0-9]+ )
+    (?P<residual_strokes> [0-9]{1,2} )
   [ ]
     \[ (?P<character> \S ) \]
   [ ]
