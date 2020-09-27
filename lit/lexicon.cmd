@@ -156,7 +156,7 @@ l{%
   [ ]
     \( (?P<unicode_name> [a-z-]+ ) \)
   [ ]
-    (?P<code_point> U[+] [0-9A-F]+ )
+    (?P<code_point> U[+] [0-9A-F]{4} )
   \n
   [:]{4,}
   ~~$~~
