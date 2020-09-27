@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2020-09-26
+  %date-modified 2020-09-27
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -353,6 +353,15 @@ See also: [逝世][逝]
 ⼃ (slash) U+2F03
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+1 [乃] U+4E43
+====
+* thou; thy
+* be
+* thus
+* [:speech-assist:]
+* (auxiliary) do
+====
+
 3 [之] U+4E4B
 ====
 * go
@@ -484,7 +493,7 @@ See also: [可以][可]
 
 5 [何] U+4F55
 ====
-* what; how; wherefore
+* what; how; why; wherefore
 ====
 ====
 * 何[如]： what of .[it]
@@ -1816,6 +1825,11 @@ See also: [蒞止][蒞]
 * request; beseech
 ====
 
+3 [汝] U+6C5D
+====
+* thou
+====
+
 5 [泉] U+6CC9
 ====
 * spring; fountain
@@ -1920,6 +1934,11 @@ See also: [以為][以], [為政][政]
 ====
 ====
 * 獅[子]： lion
+====
+
+13 [獨] U+7368
+====
+* alone
 ====
 
 15 [獸] U+7378
@@ -3183,6 +3202,11 @@ See also: [風景][景]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⾺ (horse) U+2FBA
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+5 [駐] U+99D0
+====
+* stop
+====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⾻ (bone) U+2FBB

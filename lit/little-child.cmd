@@ -10,7 +10,7 @@
     "Q \& A with Confucius: the Little Child's Discourse" 《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2020-09-25
+  %date-modified 2020-09-27
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -157,11 +157,6 @@ see [the actual first page of the almanac text][almanac text].
   saying,
     Alone thou playest not: why?
 >>
-====
-* 駐：馬止也；
-  stopped \+
-  Literally "stopping .[the] horses".
-====
 
 <<
   小兒答曰：\
