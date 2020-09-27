@@ -41,6 +41,10 @@
     .code-point, .residual-strokes {
       font-family: Consolas, "Lucida Sans Typewriter", monospace;
     }
+    .radical-strokes > li {
+      text-align: center;
+      width: 2rem;
+    }
     .residual-strokes {
       display: inline-block;
       font-size: 0.8rem;
@@ -85,7 +89,7 @@
 
 
 
-[====
+[===={.radical-strokes}
 * [1]
 * [2]
 * [3]

@@ -306,13 +306,18 @@ b{%
   ^
   \[
   (?P<equals_signs> [=]{4} )
+  (?:
+    \{
+      (?P<attribute_specification> [^}]*? )
+    \}
+  )?
     (?P<content> [\s\S]*? )
   ^
   (?P=equals_signs)
   \]
 %
   <nav>
-    \g<equals_signs>
+    \g<equals_signs>{\g<attribute_specification>}
       \g<content>
     \g<equals_signs>
   </nav>
