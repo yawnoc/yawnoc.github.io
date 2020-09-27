@@ -176,7 +176,7 @@ r{%
   [ ]
     \[ (?P<character> \S ) \]
   [ ]
-    (?P<code_point> U[+] [0-9A-F]+ )
+    (?P<code_point> U[+] [0-9A-F]{4,5} )
   ~~$~~
 %
   ####{#\g<character>}
