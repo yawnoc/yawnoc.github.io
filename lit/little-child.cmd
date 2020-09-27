@@ -170,7 +170,7 @@ see [the actual first page of the almanac text][almanac text].
     .[and] below, unto .[those] amidst .[the] house;
     surely there .[shall] be fighting .[and] striving:
     toil but without achievement.
-    How be .[this a] good thing? Therefore .[I] play not.
+    How be .[this a] good thing? Therefore do .[I] play not.
 >>
 ====
 * 凢 \+
