@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2020-09-25
+  %date-modified 2020-09-28
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -127,7 +127,7 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ###
 
 ======{.page-link-container}
-* [Conway's Lexicon for Literary Chinese](lit/lexicon)
+* [Conway's Lexicon for Literary Chinese](/lexicon)
   ||||{.page-description}
     Quick reference for words and phrases which I have rendered into English.
   ||||
