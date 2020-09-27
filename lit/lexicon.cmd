@@ -12,6 +12,9 @@
   %description
     Conway's Lexicon for translating Literary Chinese into English.
   %css a~~
+    body > nav {
+      font-size: 1.3em;
+    }
     h3 {
       margin-top: 1.7em;
     }
