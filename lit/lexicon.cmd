@@ -129,7 +129,7 @@ r{%
   ^
   [/]{4,}
   \n
-    (?P<radical_strokes> [0-9]+ )
+    (?P<radical_strokes> [0-9]{1,2} )
     [-]stroke [ ] radicals
   \n
   [/]{4,}
