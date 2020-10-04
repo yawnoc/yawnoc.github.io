@@ -248,6 +248,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ====
 * [Git aliases: `.gitconfig`](/code/gitconfig)
 * [Termux configuration: `termux.properties`](/code/termux)
+* [Chinese font configuration in Linux](/code/chinese-font)
 * [Debian on Pinebook Pro via Daniel's installer](/code/pinebook-pro)
 ====
 
