@@ -278,8 +278,8 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ====
 
 
-###{#code-other}
-  Other
+###{#code-config}
+  Configuration
 ###
 
 ====
