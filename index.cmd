@@ -246,6 +246,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ###
 
 ====
+* [`.gitconfig`](/code/gitconfig)
 * [Debian on Pinebook Pro via Daniel's installer](/code/pinebook-pro)
 ====
 
