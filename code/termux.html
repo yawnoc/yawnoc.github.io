@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/resources/styles/main.min.css">
+<title>Termux configuration | Conway's site</title>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="/" title="Home page">Home</a>
+</li>
+<li><a href="#" title="Jump back to top">Top</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1>Termux configuration</h1>
+<div class="page-properties">
+Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/termux.cmd">code/termux.cmd</a><br>
+First created: 2020-10-04<br>
+Last modified: 2020-10-04
+</div>
+<p>
+Create the following <code>~/.termux/termux.properties</code> in Termux
+to disable phone vibration and add more keys to the touch keyboard:
+</p>
+<pre><code>bell-character = ignore
+extra-keys = [[ \
+  'TAB', 'CTRL', 'ALT', '-', '/', \
+  'LEFT', 'DOWN', 'UP', 'RIGHT', \
+  'DEL', 'HOME', 'END' \
+]]
+</code></pre>
+</body>
+</html>
