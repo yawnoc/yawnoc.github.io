@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2020-09-28
+  %date-modified 2020-10-04
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -3175,7 +3175,7 @@ See also: [聯翩][翩]
 11 [難] U+96E3
 [平聲]
 ====
-* difficult
+* difficult; \met cannot
 ====
 [去聲]
 ====
