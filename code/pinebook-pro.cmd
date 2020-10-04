@@ -3,7 +3,7 @@
 %%
   %title Debian on Pinebook Pro via Daniel's installer
   %date-created 2020-06-15
-  %date-modified 2020-09-25
+  %date-modified 2020-10-04
   \resources:rendering
 %%
 
@@ -452,6 +452,10 @@ No cookies appears to be the default now.
 ````
 $ sudo apt install fonts-noto-cjk
 ````
+
+----
+Then [set the preferred font using `fonts.conf`](chinese-font).
+----
 
 
 \cite-this-page[][pinebook-pro][
