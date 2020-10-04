@@ -72,7 +72,7 @@ and even eight hundred years would pass me by very quickly.
 ----
 ----
 These days I ponder [unsophisticated applied maths problems](/#math)
-and attempt to read and [translate Literary Chinese](/#literary-chinese),
+and attempt to read and [translate Literary Chinese](/#lit),
 and burn even more of my time building this website
 to make such material freely available online.
 ----

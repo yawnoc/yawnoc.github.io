@@ -693,9 +693,7 @@ see [the actual first page of the almanac text][almanac text].
   Being a physicist, I take a very dim view of such works
   (involving arbitrary associations etc.).
   It is a real pity too, for such material detracts from
-  the [serious mathematics of Classical Chinese literature](
-    /#literary-chinese-maths
-  ).
+  the [serious mathematics of Classical Chinese literature](/#lit-math).
 ====
 
 <<

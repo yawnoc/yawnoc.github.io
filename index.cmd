@@ -37,7 +37,7 @@
 * \header-link-here:home
 * \header-link:top
 * [Math.](#math  Applied mathematics \(or, physics\))
-* [Lit.](#literary-chinese  English translations of Literary Chinese)
+* [Lit.](#lit  English translations of Literary Chinese)
 * [Code](#code  Useful code)
 * \header-link:cite
 ====]]
@@ -117,7 +117,7 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ====
 
 
-##{#literary-chinese}
+##{#lit}
   English translations of Literary Chinese
 ##
 
@@ -129,7 +129,7 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ======
 
 
-###{#literary-chinese-maths}
+###{#lit-math}
   Mathematics
 ###
 
@@ -160,7 +160,7 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ======
 
 
-###{#literary-chinese-not-maths}
+###{#lit-other}
   Not mathematics
 ###
 
