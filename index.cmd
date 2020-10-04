@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2020-09-28
+  %date-modified 2020-10-04
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -55,14 +55,9 @@ Assorted musings of a remnant of the 20th~century,
 with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ----
 
-
-##{#pages}
-  Pages to read
+##{#general}
+  General
 ##
-
-###{#general}
-  General material
-###
 
 ===={.page-link-container}
 * [Conway's Romanisation for Cantonese](/cantonese/conway-romanisation)
@@ -93,9 +88,9 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ====
 
 
-###{#applied-maths}
+##{#applied-maths}
   Applied mathematics (or, physics)
-###
+##
 
 ===={.page-link-container}
 * [Daytime: dependence on latitude and season](/math/daytime)
@@ -122,9 +117,9 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ====
 
 
-###{#literary-chinese}
+##{#literary-chinese}
   English translations of Literary Chinese
-###
+##
 
 ======{.page-link-container}
 * [Conway's Lexicon for Literary Chinese](/lexicon)
@@ -134,9 +129,9 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ======
 
 
-####{#literary-chinese-maths}
+###{#literary-chinese-maths}
   Mathematics
-####
+###
 
 ======{.page-link-container}
 * [
@@ -165,9 +160,9 @@ with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
 ======
 
 
-####{#literary-chinese-not-maths}
+###{#literary-chinese-not-maths}
   Not mathematics
-####
+###
 
 ===={.page-link-container}
 * ["The Need to Win"](/lit/need-to-win)
