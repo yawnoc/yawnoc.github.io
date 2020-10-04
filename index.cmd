@@ -241,6 +241,15 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 @@
 
 
+###{#code-config}
+  Configuration
+###
+
+====
+* [Debian on Pinebook Pro via Daniel's installer](/code/pinebook-pro)
+====
+
+
 ###{#code-maths}
   Mathematical stuff
 ###
@@ -275,15 +284,6 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ====
 * [Unicode mathematical symbols](/code/unicode-maths)
 * [Strikethrough formatter](/code/strikethrough)
-====
-
-
-###{#code-config}
-  Configuration
-###
-
-====
-* [Debian on Pinebook Pro via Daniel's installer](/code/pinebook-pro)
 ====
 
 
