@@ -81,9 +81,6 @@ function renderMaths() {
     // Asymptotically
     '\\asy': '\\sim',
     
-    // Defined equal to
-    '\\defeq': ':=',
-    
     // Identically equal to
     '\\ideq': '\\equiv',
     
