@@ -137,10 +137,18 @@ Finally:
 ++++
 1. Settings \> Apps \> 3-dot menu
    ====
-   * App permissions: Turn off everything, even for System apps
+   * App permissions: Turn off everything (even for System apps)
      (only re-enable when needed)
    * Special access \> Device administrators: Turn off Find My Device
      (Deactivate)
+   * Special access \> Apps that can change system settings:
+     Turn off everything (even System apps)
+   * Special access \> Usage data access:
+     Turn off everything (even System apps)
+   ====
+1. Settings \> Apps \> Every app (even System apps)
+   ====
+   * Storage \> Mobile data: Disable background data usage
    ====
 1. Power off
 1. Insert SIM card
