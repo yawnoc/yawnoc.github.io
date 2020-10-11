@@ -200,5 +200,40 @@ Turn off everything (even System apps)
 <li>Power on
 </li>
 </ol>
+<h2>Install F-Droid etc.</h2>
+<p>
+On a computer:
+</p>
+<ol>
+<li>Get <code>F-Droid.apk</code> and <code>F-Droid.apk.asc</code> (PGP Signature) from <a href="https://f-droid.org/">f-droid.org</a>
+</li>
+<li>Get the (official binary releases) Primary key fingerprint
+<code>37D2 ...</code> from <a href="https://f-droid.org/en/docs/Release_Channels_and_Signing_Keys/">Release Channels and Signing Keys</a>
+(henceforth referred to as <code>&lt;key&gt;</code>)
+</li>
+<li>Verify the binary release
+(note the <a href="https://superuser.com/a/1485255">keyserver is important</a>)
+<pre><code>$ gpg --keyserver hkps://keyserver.ubuntu.com --receive-keys "&lt;key&gt;"
+$ gpg --verify F-Droid.apk.asc F-Droid.apk
+</code></pre>
+</li>
+<li>Copy <code>F-Droid.apk</code> to phone
+</li>
+</ol>
+<p>
+On the phone:
+</p>
+<ol>
+<li>Settings &gt; Lock screen and security &gt; Unknown sources: enabled
+</li>
+<li>Install <code>F-Droid.apk</code>
+</li>
+<li>Disable Airplane mode
+</li>
+<li>Connect to Wi-Fi
+</li>
+<li>Install Termux, Aurora Store, etc.
+</li>
+</ol>
 </body>
 </html>

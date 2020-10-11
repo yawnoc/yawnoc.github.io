@@ -155,5 +155,38 @@ Finally:
 1. Power on
 ++++
 
+## Install F-Droid etc. ##
+
+----
+On a computer:
+----
+++++
+1. Get `F-Droid.apk` and `F-Droid.apk.asc` (PGP Signature) from [f-droid.org]
+1. Get the (official binary releases) Primary key fingerprint
+   `37D2 ...` from [Release Channels and Signing Keys][keys]
+   (henceforth referred to as `<key>`)
+1. Verify the binary release
+   (note the [keyserver is important][keyserver])
+   ````
+   $ gpg --keyserver hkps://keyserver.ubuntu.com --receive-keys "<key>"
+   $ gpg --verify F-Droid.apk.asc F-Droid.apk
+   ````
+1. Copy `F-Droid.apk` to phone
+++++
+
+----
+On the phone:
+----
+++++
+1. Settings \> Lock screen and security \> Unknown sources: enabled
+1. Install `F-Droid.apk`
+1. Disable Airplane mode
+1. Connect to Wi-Fi
+1. Install Termux, Aurora Store, etc.
+++++
+
 
 @[debloat] https://gitlab.com/W1nst0n/universal-android-debloater@
+@[f-droid.org] https://f-droid.org/ @
+@[keys] https://f-droid.org/en/docs/Release_Channels_and_Signing_Keys/ @
+@[keyserver] https://superuser.com/a/1485255 @
