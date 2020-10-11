@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/resources/styles/main.min.css">
+<title>Nuking a phone | Conway's site</title>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="/" title="Home page">Home</a>
+</li>
+<li><a href="#" title="Jump back to top">Top</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1>Nuking a phone</h1>
+<div class="page-properties">
+Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/phone.cmd">code/phone.cmd</a><br>
+First created: 2020-10-11<br>
+Last modified: 2020-10-11
+</div>
+<h2>Factory reset</h2>
+<ol>
+<li>Airplane mode
+</li>
+<li>Power off
+</li>
+<li>Remove SIM card
+</li>
+<li>Power on
+</li>
+<li>Settings &gt; General management &gt; Reset &gt; Factory data reset
+</li>
+</ol>
+<h2>Initial setup</h2>
+<ol>
+<li>Language: English (Australia). (Start)
+</li>
+<li>Wi-Fi: Off. (Next)
+</li>
+<li>Terms and Conditions: EULA (but nothing else). (Next)
+</li>
+<li>Date &amp; time: [as appropriate]. (Next)
+</li>
+<li>Name: [leave empty]. (Next)
+</li>
+<li>Lock type: [as appropriate]
+</li>
+<li>Secure startup: Require PIN when device powers on. (Continue)
+</li>
+<li>Set PIN: [as appropriate]. (Done)
+</li>
+<li>Notifications (for lock screen): Off. (Done)
+</li>
+<li>Google Services: Disable All. (Accept)
+</li>
+<li>Samsung account: [no]. (Skip twice)
+</li>
+<li>More useful features: Turn off Secure your stuff. (Finish)
+</li>
+</ol>
+<h2>Debloat</h2>
+<h3>Enable USB debugging</h3>
+<ol>
+<li>Settings &gt; About phone &gt; Software information
+</li>
+<li>Tap Build number 7&nbsp;times
+</li>
+<li>Home
+</li>
+<li>Settings &gt; Developer options
+</li>
+<li>Turn on USB debugging
+</li>
+</ol>
+<h3>Universal Android Debloater</h3>
+<p>
+See <a href="https://gitlab.com/W1nst0n/universal-android-debloater">Universal Android Debloater</a>.
+</p>
+<p>
+On a computer:
+</p>
+<pre><code>$ sudo apt install android-sdk-platform-tools qpdf
+$ git clone https://gitlab.com/W1nst0n/universal-android-debloater.git
+</code></pre>
+<p>
+Connect the phone by USB cable, then:
+</p>
+<pre><code>$ cd universal-android-debloater/
+$ ./debloat_script.sh
+</code></pre>
+<p>
+Although <code>remaining_packages.txt</code> will be generated
+immediately upon arriving at the main menu,
+it misses the package <code>au.com.optus.selfservice</code>.
+The following regex package search gets absolutely everything:
+</p>
+<ol>
+<li>ADB backup: <code>N</code>
+</li>
+<li>Force-uninstall: <code>1</code>
+</li>
+<li>Choose action: <code>0</code> (Packages search)
+</li>
+<li>Regex: <code>.*</code>
+</li>
+<li>Copy the output to <code>debloat-list.txt</code>
+</li>
+<li>Press any key to continue
+</li>
+<li>Comment (with <code>#</code>) packages to be kept in <code>debloat-list.txt</code>
+</li>
+</ol>
+<p>
+For the result, see <a href="debloat-list.txt"><code>debloat-list.txt</code></a>.
+</p>
+<p>
+Then do the actual debloating:
+</p>
+<ol>
+<li>ADB backup: <code>N</code>
+</li>
+<li>Force-uninstall: <code>1</code>
+</li>
+<li>Choose action: <code>3</code> (Debloat packages)
+</li>
+<li>Your selection: <code>7</code> (External list)
+</li>
+<li>Path to the list: [as appropriate]
+</li>
+</ol>
+<p>
+Unfortunately, at the time of writing (commit <code>8b93202ba61a</code>),
+the above external list debloating doesn't work;
+it just prints "Nothing to debloat".
+A workaround is to:
+</p>
+<ol>
+<li>Wrap all non-commented package names in quotes
+</li>
+<li>Stuff the result into the <code>AOSP.sh</code> declaration
+</li>
+<li>Run the debloater using the AOSP list
+</li>
+</ol>
+<p>
+For some reason <code>au.com.optus.selfservice</code> remains,
+so run the debloater to remove it individually.
+</p>
+<p>
+Finally:
+</p>
+<ol>
+<li><code>X</code> (Exit and reboot the phone)
+</li>
+</ol>
+<h2>Finish up</h2>
+<ol>
+<li>Settings &gt; Apps &gt; 3-dot menu
+<ul>
+<li>App permissions: Turn off everything, even for System apps
+(only re-enable when needed)
+</li>
+<li>Special access &gt; Device administrators: Turn off Find My Device
+(Deactivate)
+</li>
+</ul>
+</li>
+<li>Power off
+</li>
+<li>Insert SIM card
+</li>
+<li>Power on
+</li>
+</ol>
+</body>
+</html>
