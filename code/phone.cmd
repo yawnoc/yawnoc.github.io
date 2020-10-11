@@ -22,7 +22,7 @@
 ## Factory reset ##
 
 ++++
-1. Airplane mode
+1. Enable Airplane mode
 1. Power off
 1. Remove SIM card
 1. Power on
@@ -44,7 +44,7 @@
 1. Google Services: Disable All. (Accept)
 1. Samsung account: [no]. (Skip twice)
 1. More useful features: Turn off Secure your stuff. (Finish)
-1. Airplane mode
+1. Enable Airplane mode
 ++++
 
 ## Debloat ##
@@ -92,8 +92,8 @@ The following regex package search gets absolutely everything:
 1. Choose action: `0` (Packages search)
 1. Regex: `.*`
 1. Copy the output to `debloat-list.txt`
+1. Comment out packages to be kept with hashes
 1. Press any key to continue
-1. Comment (with `#`) packages to be kept in `debloat-list.txt`
 ++++
 ----
 For the result, see [`debloat-list.txt`](debloat-list.txt).
@@ -111,18 +111,19 @@ Then do the actual debloating:
 ++++
 ----
 Unfortunately, at the time of writing (commit `8b93202ba61a`),
-the above external list debloating doesn't work;
+the above external-list debloating doesn't work;
 it just prints "Nothing to debloat".
 A workaround is to:
 ----
 ++++
 1. Wrap all non-commented package names in quotes
 1. Stuff the result into the `AOSP.sh` declaration
-1. Run the debloater using the AOSP list
+1. Run the debloater for the AOSP list
 ++++
 ----
 For some reason `au.com.optus.selfservice` remains,
-so run the debloater to remove it individually.
+so run the debloater to remove it individually
+(or clear data \& uninstall manually).
 ----
 ----
 Finally:

@@ -33,7 +33,7 @@ Last modified: 2020-10-11
 </div>
 <h2>Factory reset</h2>
 <ol>
-<li>Airplane mode
+<li>Enable Airplane mode
 </li>
 <li>Power off
 </li>
@@ -70,7 +70,7 @@ Last modified: 2020-10-11
 </li>
 <li>More useful features: Turn off Secure your stuff. (Finish)
 </li>
-<li>Airplane mode
+<li>Enable Airplane mode
 </li>
 </ol>
 <h2>Debloat</h2>
@@ -120,9 +120,9 @@ The following regex package search gets absolutely everything:
 </li>
 <li>Copy the output to <code>debloat-list.txt</code>
 </li>
-<li>Press any key to continue
+<li>Comment out packages to be kept with hashes
 </li>
-<li>Comment (with <code>#</code>) packages to be kept in <code>debloat-list.txt</code>
+<li>Press any key to continue
 </li>
 </ol>
 <p>
@@ -145,7 +145,7 @@ Then do the actual debloating:
 </ol>
 <p>
 Unfortunately, at the time of writing (commit <code>8b93202ba61a</code>),
-the above external list debloating doesn't work;
+the above external-list debloating doesn't work;
 it just prints "Nothing to debloat".
 A workaround is to:
 </p>
@@ -154,12 +154,13 @@ A workaround is to:
 </li>
 <li>Stuff the result into the <code>AOSP.sh</code> declaration
 </li>
-<li>Run the debloater using the AOSP list
+<li>Run the debloater for the AOSP list
 </li>
 </ol>
 <p>
 For some reason <code>au.com.optus.selfservice</code> remains,
-so run the debloater to remove it individually.
+so run the debloater to remove it individually
+(or clear data &amp; uninstall manually).
 </p>
 <p>
 Finally:
