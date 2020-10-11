@@ -44,6 +44,7 @@
 1. Google Services: Disable All. (Accept)
 1. Samsung account: [no]. (Skip twice)
 1. More useful features: Turn off Secure your stuff. (Finish)
+1. Airplane mode
 ++++
 
 ## Debloat ##
