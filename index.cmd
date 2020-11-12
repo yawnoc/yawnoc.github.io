@@ -294,3 +294,13 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 
 
 %footer-element
+
+
+<####
+
+金刀仍剋木
+雪粉未亡心
+濃愁幾時化
+淡酒何日沉
+
+####>
