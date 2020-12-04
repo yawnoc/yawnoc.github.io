@@ -1933,7 +1933,7 @@ See also: [以為][以], [為政][政]
 
 8 [無] U+7121
 ====
-* there be not; have not; without; \met not
+* there be not; have not; without; \met not; no
 * do not
 ====
 
