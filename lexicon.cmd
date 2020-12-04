@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2020-10-04
+  %date-modified 2020-12-04
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -2482,7 +2482,7 @@ See also: [百萬][萬]
 
 0 [而] U+800C
 ====
-* and; with; but; to
+* and; with; but; then
 * [:speech-assist:]
 ====
 ----
