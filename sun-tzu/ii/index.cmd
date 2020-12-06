@@ -24,7 +24,7 @@
 * \header-link:sun-tzu
 *> [Pref.] ["p" Preface]
 * [I] ["i" Volume~I]
-* [II](\/ You are viewing Volume~II)
+* [II](\- You are viewing Volume~II)
 * \header-link:cite
 ====]]
 

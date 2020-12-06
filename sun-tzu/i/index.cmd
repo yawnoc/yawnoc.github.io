@@ -20,7 +20,7 @@
 * \header-link:top
 * \header-link:sun-tzu
 *> [Pref.] ["p" Preface]
-* [I](\/ You are viewing Volume~I)
+* [I](\- You are viewing Volume~I)
 * [II] ["ii" Volume~II]
 * \header-link:cite
 ====]]

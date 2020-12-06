@@ -262,7 +262,7 @@ s{%
   ----------------------------------------------------------------
 ##>
 
-A{:: \header-link-here:home :: [Home](\/ You are on the Home page) ::}
+A{:: \header-link-here:home :: [Home](\- You are on the Home page) ::}
 A{:: \header-link:home :: [Home](/ Home page) ::}
 A{:: \header-link:top :: [Top](# Jump back to top) ::}
 A{:: \header-link:translation :: [Translation](#translation Translation) ::}

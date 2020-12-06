@@ -20,7 +20,7 @@
 * \header-link:home
 * \header-link:top
 * \header-link:sun-tzu
-*> [Pref.](\/ You are viewing Preface)
+*> [Pref.](\- You are viewing Preface)
 * [I] ["i" Volume~I]
 * [II] ["ii" Volume~II]
 * \header-link:cite
