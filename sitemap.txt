@@ -6,7 +6,7 @@ https://yawnoc.github.io/code/gitconfig
 https://yawnoc.github.io/code/pinebook-pro
 https://yawnoc.github.io/code/strikethrough
 https://yawnoc.github.io/code/termux
-https://yawnoc.github.io/code/unicode-maths
+https://yawnoc.github.io/code/unicode-math
 https://yawnoc.github.io/crowded-xiangqi
 https://yawnoc.github.io/cynics-730/
 https://yawnoc.github.io/cynics-730/2019/bolt-liu-association
