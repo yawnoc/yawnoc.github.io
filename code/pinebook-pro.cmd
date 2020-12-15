@@ -3,7 +3,7 @@
 %%
   %title Debian on Pinebook Pro via Daniel's installer
   %date-created 2020-06-15
-  %date-modified 2020-10-04
+  %date-modified 2020-12-16
   \resources:rendering
 %%
 
@@ -35,7 +35,7 @@ along with subsequent customisations to my own liking.
 Last version I used: [<code>\last-used-commit</code>] [last-used]
 ----
 
-{: \last-used-commit : cc50809f :}
+{: \last-used-commit : d86a81c2a4 :}
 @@[last-used]
   https://github.com/daniel-thompson/pinebook-pro-debian-installer/\
     commit/\last-used-commit
@@ -63,7 +63,7 @@ $ umount /media/conway/mmcblk0
 ##
 
 ````
-$ ./install-debian BLKDEV=/dev/mmcblk0 RELEASE=buster
+$ ./install-debian BLKDEV=/dev/mmcblk0 CRYPT=y RELEASE=buster
 ````
 
 ----
