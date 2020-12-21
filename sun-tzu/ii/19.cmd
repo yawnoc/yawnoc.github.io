@@ -38,7 +38,7 @@
 * \header-link:top
 * \header-link:sun-tzu
 *> [II] ["ii" Volume~II]
-*> [\P19](\/ You are viewing \P19)
+*> [\P19](\- You are viewing \P19)
 * \header-link:cite
 ====]]
 

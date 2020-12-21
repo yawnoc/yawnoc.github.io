@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2020-10-04
+  %date-modified 2020-12-12
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -47,7 +47,7 @@
 
 
 [||||
-Feedback welcome: ~~yawnoc@pm.me~~
+Feedback welcome: yawnoc@pm.me
 ||||]
 
 ----
@@ -253,7 +253,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ====
 
 
-###{#code-maths}
+###{#code-math}
   Mathematical stuff
 ###
 
@@ -285,7 +285,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ###
 
 ====
-* [Unicode mathematical symbols](/code/unicode-maths)
+* [Unicode mathematical symbols](/code/unicode-math)
 * [Strikethrough formatter](/code/strikethrough)
 ====
 

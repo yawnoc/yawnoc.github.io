@@ -18,7 +18,7 @@
 * \header-link:top
 * \header-link:sun-tzu
 *> [I] ["i" Volume~I]
-*> [\P16](\/ You are viewing \P16)
+*> [\P16](\- You are viewing \P16)
 * \header-link:cite
 ====]]
 

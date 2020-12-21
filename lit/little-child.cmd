@@ -10,7 +10,7 @@
     "Q \& A with Confucius: the Little Child's Discourse" 《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2020-09-28
+  %date-modified 2020-12-04
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -169,7 +169,7 @@ see [the actual first page of the almanac text][almanac text].
     above, .[it] disgraceth father .[and] mother:
     .[and] below, unto .[those] amidst .[the] house;
     surely there .[shall] be fighting .[and] striving:
-    toil but without achievement.
+    toil but no achievement.
     How be .[this a] good thing? Therefore do .[I] play not.
 >>
 ====

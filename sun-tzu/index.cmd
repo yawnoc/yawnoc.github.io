@@ -33,7 +33,7 @@
 [[====
 * \header-link:home
 * \header-link:top
-* [\sun-tzu](\/ You are viewing "\sun-tzu's Computational Classic")
+* [\sun-tzu](\- You are viewing "\sun-tzu's Computational Classic")
 *> [Pref.] ["p" Preface]
 * [I] ["i" Volume~I]
 * [II] ["ii" Volume~II]
