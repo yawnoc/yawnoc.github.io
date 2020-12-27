@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/resources/styles/main.min.css">
+<title>Install npm packages globally without sudo | Conway's site</title>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="/" title="Home page">Home</a>
+</li>
+<li><a href="#" title="Jump back to top">Top</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1>Install npm packages globally without sudo</h1>
+<div class="page-properties">
+Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/npm-without-sudo.cmd">code/npm-without-sudo.cmd</a><br>
+First created: 2020-12-27<br>
+Last modified: 2020-12-27
+</div>
+<p>
+<a href="https://stackoverflow.com/q/18088372/#comment101781710_26825428">According to Dan Dascalescu</a>,
+<a href="https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md">Sindre Sorhus's guide</a> is overkill.
+</p>
+<p>
+Quoting <a href="https://web.archive.org/web/20200216023509/http://michaelb.org/the-right-way-to-do-global-npm-install-without-sudo/">archived version of Michael Bethencourt's guide</a>
+(whose domain has expired at the time of writing):
+</p>
+<blockquote>
+<h1>The Right Way™ to do global npm install without sudo</h1>
+<p>
+[…]
+</p>
+<h2>Step 1: Configure NPM</h2>
+<pre><code>npm config set prefix ~/.local
+</code></pre>
+<p>
+Now NPM will install your global executables to <code>~/.local/bin</code>,
+and the libraries to <code>~/.local/lib/node_modules/</code>
+</p>
+<h2>Step 2: Add <code>~/.local/bin</code> to your path</h2>
+<p>
+If you haven't already, open up the conf file of your favorite shell
+(such as <code>~/.bashrc</code> for Bash), and add in:
+</p>
+<pre><code>PATH=~/.local/bin/:$PATH
+</code></pre>
+<p>
+That's it. You're done.
+</p>
+<p>
+[…]
+</p>
+<footer>
+© Michael Bethencourt 2020 <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA</a>
+</footer>
+</blockquote>
+<p>
+Don't forget to <code>source ~/.bashrc</code> (or restart the terminal).
+</p>
+</body>
+</html>

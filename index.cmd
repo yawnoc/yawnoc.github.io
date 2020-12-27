@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2020-12-22
+  %date-modified 2020-12-27
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -250,6 +250,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 * [Termux configuration: `termux.properties`](/code/termux)
 * [Chinese font configuration in Linux](/code/chinese-font)
 * [Debian on Pinebook Pro via Daniel's installer](/code/pinebook-pro)
+* [Install npm packages globally without sudo](/code/npm-without-sudo)
 ====
 
 
