@@ -297,13 +297,16 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 
 ====
 * """[He's] British.""" \+
-  \/---F.~(circa~2006)
+  ---F.~(circa~2006)
+
 * """Conway's disagreeing with himself.""" \+
-  \/---N.~(circa~2009)
+  ---N.~(circa~2009)
+
 * """Conway is just dumb.""" \+
-  \/---L.~\&~K.~(2014)
+  ---L.~\&~K.~(2014)
+
 * """Simultaneously the smartest and dumbest person I know.""" \+
-  \/---M.~(2019)
+  ---M.~(2019)
 ====
 
 
