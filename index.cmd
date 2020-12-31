@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2020-12-27
+  %date-modified 2021-01-01
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
