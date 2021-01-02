@@ -1635,9 +1635,9 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
   $$
     \begin{aligned}
       \sqrt{234567 \unit{paces}^2}
-      &\approx \left( \colg{U} + \frac\colb{R}\colv{L} \right) \unit{paces}
+      &\approx \left( \colg{U} + \frac{\colb{R}}{\colv{L}} \right) \unit{paces}
         \\[\tallspace]
-      &= \colg{484} \tfrac\colb{311}\colv{968} \unit{paces},
+      &= \colg{484} \tfrac{\colb{311}}{\colv{968}} \unit{paces},
     \end{aligned}
   $$
   which has relative error $2.2 \times 10^{-7}$.
