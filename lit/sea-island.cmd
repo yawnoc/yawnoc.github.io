@@ -1771,7 +1771,7 @@ The punctuation inserted in this section is my own.
             \colb{HI}
           }
           \\[\tallspace]
-      \textq{\colv{island-post separation}}
+      \textq{\colv{island--post separation}}
       &=
         \frac{
           \textq{\colr{front post backward walk}}
