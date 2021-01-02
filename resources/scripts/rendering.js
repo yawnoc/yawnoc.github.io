@@ -160,7 +160,7 @@ function renderMaths() {
       elem.textContent,
       elem,
       {
-        displayMode: elem.tagName == "DIV",
+        displayMode: elem.tagName === "DIV",
         macros: macros,
         trust: (context) => context.command === '\\htmlClass',
         throwOnError: false,
