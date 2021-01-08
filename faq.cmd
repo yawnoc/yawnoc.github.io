@@ -8,7 +8,7 @@
 %%
   %title FAQ
   %date-created 2019-08-01
-  %date-modified 2020-06-07
+  %date-modified 2021-01-09
   \resources
   %css
     li > ul, li > ol {
@@ -38,7 +38,6 @@
   * \faq-link:site
   * \faq-link:domain
   * \faq-link:death
-  * \faq-link:cookies
   * \faq-link:favicon
   * \faq-link:equations
   ====
@@ -143,16 +142,6 @@ is as permanent as GitHub Pages itself.
 I do not fear death for my own sake.
 I might die some time later today, or I may have many decades yet.
 At the time of writing the latter is more probable. Fear changes nothing.
-----
-
-
-
-###{#cookies}
-  Does your site use cookies?
-###
-
-----
-No, unless you have visited this site prior to 14~May 2020.
 ----
 
 
