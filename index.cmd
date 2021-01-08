@@ -209,6 +209,46 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ====
 
 
+##{#se}
+  Best of: Stack Exchange
+##
+
+### Mathematica (answers) ###
+
+====
+* [Animating a tumbling polygon](
+    https://mathematica.stackexchange.com/a/237847
+    Simplifying code that displays a square rolling inside a circle
+  )
+* [Asymptotics for a highly oscillatory integral](
+    https://mathematica.stackexchange.com/a/237412
+    NIntegrate Oscillating kernel
+  )
+* [Ad hockery for solving a PDE (heat equation with decay)](
+    https://mathematica.stackexchange.com/a/234039
+    Trying to solve transient semi-infinite 1D Fick's Law with decay, \
+    getting constant for answer
+  )
+====
+
+### Law (questions) ###
+
+========
+* Speed limit after a T-junction in Western Australia:
+  ====
+  * [Part 1: What is the actual speed limit, legally?](
+      https://law.stackexchange.com/q/59728
+      Ambiguous speed limit after passing a T-junction
+    )
+  * [Part 2: Is ignorance thereof a valid defence?](
+      https://law.stackexchange.com/q/59781
+      Speeding unawares after turning \
+      from the terminating road of a T-junction
+    )
+  ====
+========
+
+
 ##{#code}
   Useful code
 ##
