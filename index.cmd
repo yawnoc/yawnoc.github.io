@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-01-01
+  %date-modified 2021-01-09
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -305,8 +305,6 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 * """Conway is just dumb.""" \+
   ---L.~\&~K.~(2014)
 
-* """Simultaneously the smartest and dumbest person I know.""" \+
-  ---M.~(2019)
 ====
 
 
