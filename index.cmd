@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-01-09
+  %date-modified 2021-01-11
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -215,11 +215,14 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 
 ### Mathematica (answers) ###
 
-====
+========
 * [Animating a tumbling polygon](
     https://mathematica.stackexchange.com/a/237847
     Simplifying code that displays a square rolling inside a circle
   )
+  ====
+  * GNU Octave port: [yawnoc/tumbling-polygon]
+  ====
 * [Asymptotics for a highly oscillatory integral](
     https://mathematica.stackexchange.com/a/237412
     NIntegrate Oscillating kernel
@@ -229,7 +232,10 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
     Trying to solve transient semi-infinite 1D Fick's Law with decay, \
     getting constant for answer
   )
-====
+========
+@[yawnoc/tumbling-polygon]
+  https://github.com/yawnoc/tumbling-polygon
+@
 
 ### Law (questions) ###
 
@@ -299,6 +305,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ###
 
 ====
+* [\oct Animating a tumbling polygon (GitHub)][yawnoc/tumbling-polygon]
 * [\oct Image to ASCII art converter (GitHub)](
     https://github.com/yawnoc/ascii-art
   )
