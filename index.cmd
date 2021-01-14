@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-01-11
+  %date-modified 2021-01-14
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -347,7 +347,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
   ---F.~(circa~2006)
 
 * """Conway's disagreeing with himself.""" \+
-  ---N.~(circa~2009)
+  ---N.~(2008)
 
 * """Conway is just dumb.""" \+
   ---L.~\&~K.~(2014)
