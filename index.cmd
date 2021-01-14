@@ -29,6 +29,9 @@
       font-size: small;
       margin: 0.2em 0;
     }
+    .testimonial-container > li {
+      margin-bottom: 0.7em;
+    }
   ~~
 %%
 
@@ -342,7 +345,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
   Testimonials
 ##
 
-====
+===={.testimonial-container}
 * """[He's] British.""" \+
   ---F.~(circa~2006)
 
