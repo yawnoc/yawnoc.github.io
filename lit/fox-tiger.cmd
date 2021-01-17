@@ -6,14 +6,14 @@
 {+ resources/syntax/translations.cmd +}
 
 %%
-  %title "The Fox Feigneth the Tiger's Authority" 《狐假虎威》
+  %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
   %date-modified 2021-01-17
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
-    "The Fox Feigneth the Tiger's Authority".
+    "[The] Fox Feigneth [the] Tiger's Authority".
 %%
 
 [[====
@@ -197,8 +197,10 @@ The Chinese source text is from Chinese Text Project:
   like .[the] many beasts' fear of .[the] tiger.
 >>
 
-\cite-this-page[%title-en][fox-tiger][
-  ~~ ``\textit{The} {Fox} {Feigneth} \textit{the} {Tiger's} {Authority}'' ~~
+\cite-this-page[
+  ~~ "[The] Fox Feigneth [the] Tiger's Authority" ~~
+][fox-tiger][
+  ~~ ``[The] {Fox} {Feigneth} [the] {Tiger's} {Authority}'' ~~
 ]
 
 %footer-element

@@ -7,14 +7,14 @@
 
 %%
   %title
-    "Record of the Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
+    "Record of [the] Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
   %date-modified 2021-01-17
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
-    "Record of the Lion's Pavilion, Victoria~Peak", \
+    "Record of [the] Lion's Pavilion, Victoria~Peak", \
     the text on a plaque in the Lion's Pavilion, Victoria Peak, Hong Kong.
   %css
     .level-tone {
@@ -381,8 +381,10 @@ The inserted punctuation is my own.
   by self-deprecating his own work.
 ====
 
-\cite-this-page[%title-en][lion-pavilion][
-  ~~ ``{Record} of \textit{the} {Lion's} {Pavilion}, {Victoria}~{Peak}'' ~~
+\cite-this-page[
+  ~~ "Record of [the] Lion's Pavilion, Victoria Peak" ~~
+][lion-pavilion][
+  ~~ ``{Record} of [the] {Lion's} {Pavilion}, {Victoria}~{Peak}'' ~~
 ]
 
 %footer-element

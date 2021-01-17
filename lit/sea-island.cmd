@@ -9,7 +9,7 @@
 {+ resources/syntax/translations.cmd +}
 
 %%
-  %title "The Sea Island Computational Classic" 《海島算經》
+  %title "[The] Sea Island Computational Classic" 《海島算經》
   %title-en ".[The] Sea Island Computational Classic"
   %date-created 2019-04-20
   %date-modified 2020-07-19
@@ -1783,8 +1783,10 @@ The punctuation inserted in this section is my own.
   $$
 ====
 
-\cite-this-page[%title-en][sea-island][
-  ~~ ``\textit{The} {Sea} {Island} {Computational} {Classic}'' ~~
+\cite-this-page[
+  ~~ "[The] Sea Island Computational Classic" ~~
+][sea-island][
+  ~~ ``[The] {Sea} {Island} {Computational} {Classic}'' ~~
 ]
 
 %footer-element

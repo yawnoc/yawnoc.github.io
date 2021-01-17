@@ -7,14 +7,15 @@
 
 %%
   %title
-    "Q \& A with Confucius: the Little Child's Discourse" 《孔子問答：小兒論》
+    "Q [\&] A [with] Confucius: [the] Little Child's Discourse" \
+    《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
   %date-modified 2021-01-17
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
-    "Q \& A with Confucius: the Little Child's Discourse". \
+    "Q [\&] A [with] Confucius: [the] Little Child's Discourse". \
     Basically Confucius getting his arse whooped by a little kid.
   %css
     .danger {
@@ -1002,10 +1003,11 @@ see [the actual first page of the almanac text][almanac text].
 ====
 
 
-\cite-this-page[%title-en][little-child][
+\cite-this-page[
+  ~~ "Q [&] A [with] Confucius: [the] Little Child's Discourse" ~~
+][little-child][
   c~~
-    ``{Q}~\textit{\&}~{A} \textit{with} {Confucius}: \
-    \textit{the} {Little} {Child's} {Discourse}''
+    ``{Q}~[\&]~{A} [with] {Confucius}: [the] {Little} {Child's} {Discourse}''
   ~~
 ]
 
