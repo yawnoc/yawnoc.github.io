@@ -175,7 +175,7 @@ The Chinese source text is from Chinese Text Project:
   Today King's territory .[spanneth a]
   circumference of five thousand miles,
   .[with] armour-donning .[soldiers a] million,
-  and exclusively subordinate .[are] these unto Chao Hi-s(u") ((昭奚恤));
+  and exclusively subordinate .[are] they unto Chao Hi-s(u") ((昭奚恤));
 >>
 ====
 * 地： territory; \lit land
