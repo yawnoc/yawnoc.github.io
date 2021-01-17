@@ -4,7 +4,7 @@
 {+ resources/syntax/sun-tzu.cmd +}
 
 %%
-  %title \[Mathematica\] \sun-tzu multiplication \& division animations
+  %title \sun-tzu multiplication \& division animations (Mathematica)
   %date-created 2019-05-26
   %date-modified 2020-03-20
   \resources:maths

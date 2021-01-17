@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-01-14
+  %date-modified 2021-01-17
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -308,27 +308,14 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ###
 
 ====
-* [\oct Animating a tumbling polygon (GitHub)][yawnoc/tumbling-polygon]
-* [\oct Image to ASCII art converter (GitHub)](
+* [Animating a tumbling polygon (GNU Octave)][yawnoc/tumbling-polygon]
+* [Image to ASCII art converter (GNU Octave)](
     https://github.com/yawnoc/ascii-art
   )
-* [\py Big Two (鋤大弟) scoring statistics (GitHub)](
-    https://github.com/yawnoc/big-two-stats
-  )
-* [\py Cantonese Diceware (GitHub)](
-    https://github.com/yawnoc/cantonese-diceware
-  )
-* [\py \sun-tzu square root algorithm (GitHub)](
-    https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/code/sqrt.py
-  )
-* [\ma \sun-tzu multiplication \& division animations](
+* [\sun-tzu multiplication \& division animations (Mathematica)](
     /sun-tzu/code/animations
   )
 ====
-
-{: \py : \[Python\] :}
-{: \oct : \[GNU Octave\] :}
-{: \ma : \[Mathematica\] :}
 
 
 ###{#code-emails}
