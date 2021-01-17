@@ -8,7 +8,7 @@
   %title "An History of Mr Shih's Eating of Lions" 《施氏食獅史》
   %title-en ".[An] History of Mr~Shih's Eating of Lions"
   %date-created 2019-04-07
-  %date-modified 2020-08-02
+  %date-modified 2021-01-17
   \resources:rendering
   %description
     An English translation of the Mandarin "lion tongue twister" \
@@ -76,8 +76,6 @@ The Chinese source text is from Page~143 of Chao's
 >>
 ====
 * 施氏： Mr~Shih; \lit .[he with] surname Shih
-
-* 史： history; \or record
 ====
 
 <<
@@ -88,14 +86,7 @@ The Chinese source text is from Page~143 of Chao's
 >>
 ====
 * 石： stone; \or rock
-
-* 室： house; \or room
-
-* 詩士： poet; \lit poem scholar
-
 * 嗜： liked; \or .[was] fond of
-
-* 誓： sware to; \or took oath to
 ====
 
 <<
@@ -108,8 +99,6 @@ The Chinese source text is from Page~143 of Chao's
   Here, 施 has been dropped from 施氏.
 
 * 時時： all the time; \or often
-
-* 適：往也； went unto
 ====
 
 <<
@@ -118,9 +107,6 @@ The Chinese source text is from Page~143 of Chao's
   .[At the] tenth hour, ten lions .[had] just gone unto market.
   .[At] this time, Mr~Shih .[had also] just gone unto market.
 >>
-====
-* 適： .[had] just; \or .[happened to have] just
-====
 
 <<
   氏視是十獅，恃矢勢，使是十獅逝世。
@@ -153,9 +139,6 @@ The Chinese source text is from Page~143 of Chao's
   .[The] stone house wiped,
   Mr~.[Shih] began to try eating .[the] carcasses of these ten lions.
 >>
-====
-* 始： began to; \or started to
-====
 
 <<
   食時，始識是十獅屍，實十石獅屍。
@@ -166,8 +149,6 @@ The Chinese source text is from Page~143 of Chao's
 >>
 ====
 * 始： first; \lit begin to
-
-* 實： actually; \or in fact; \or really
 ====
 
 <<
@@ -176,8 +157,6 @@ The Chinese source text is from Page~143 of Chao's
   Try to interpret these events.
 >>
 ====
-* 試： try to; \or attempt to
-
 * 是事： these events; \or this incident
 ====
 
