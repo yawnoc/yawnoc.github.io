@@ -8,7 +8,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2020-07-19
+  %date-modified 2021-01-17
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -153,15 +153,11 @@ The Chinese source text is from Chinese Text Project:
     https://en.wikipedia.org/wiki/Courtesy_name
   @@
 
-* 濟：渡也； crossed
-
 * 觴深：Shang-sh(e^)n  \+
   (Proper) name of a body of water. \+
   觴，音商， \C [^sh](oe)ng1 (\pm [_s](oe)ng1) \M sh(a-)ng
 
 * 淵： .[the] deep waters; \or .[the] deep
-
-* 操： handled; \or controlled
 ====
 
 <<
@@ -174,7 +170,7 @@ The Chinese source text is from Chinese Text Project:
   曰：可。善游者數能。若乃夫沒人，則未嘗見舟而便操之也。
 ||
   .[And they] said,
-    .[It] can. Good swimmers .[are] able to .[upon] repetition.
+    .[It] can. Good swimmers .[upon] repetition .[are] able.
     If .[it] be .[a] diver, .[having] not once seen boats
     .[may he] yet immediately handle them.
 >>
@@ -201,8 +197,8 @@ The Chinese source text is from Chinese Text Project:
   仲尼曰：善游者數能，忘水也。
 ||
   Chung-ni ((仲尼)) said,
-    Good swimmers .[are] able to .[upon] repetition:
-    .[they] forget about .[the] water.
+    Good swimmers .[upon] repetition .[are] able:
+    .[they] forget .[the] water.
 >>
 
 <<
@@ -212,10 +208,6 @@ The Chinese source text is from Chinese Text Project:
   if .[it] be .[a] diver: he vieweth .[the] deep waters as .[an] hill,
   .[and] vieweth .[the] overturning of .[a] boat like his chariot receding.
 >>
-====
-* 卻： receding \+
-  Rolling backwards down the slope of said hill.
-====
 
 <<
   覆卻萬方陳乎前而不得入其舍，惡往而不暇！
@@ -350,8 +342,6 @@ The Chinese source text is from Chinese Text Project:
   ====
   * 疏，去聲， \C [^sh]or3 (\pm [_s]or3) \M sh(u\) (\gr sh(u-))
   ====
-  
-* 鉤：帶鉤； buckle; \or .[belt] buckle
   
 * 憚：畏也，忌難也； fearful; \or afraid of .[the] difficulty \+
   憚，音但， \C taan6, \M d(a\)n
