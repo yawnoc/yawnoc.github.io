@@ -10,7 +10,7 @@
     "Record of the Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2020-09-25
+  %date-modified 2021-01-17
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -126,17 +126,11 @@ The inserted punctuation is my own.
   with .[the] Five Planets going round it.
 >>
 ====
-* 建： built; \or constructed
-
-* 主： main; \or primary
-
-* 北辰： North Star
-
 * 居： abiding in; \or dwelling in
 
 * 五星： .[the] Five Planets \+
   These are 金木水火土,
-  i.e.~Venus, Jupiter, Mercury, Mars and Saturn respectively.
+  i.e.~Venus, Jupiter, Mercury, Mars, and Saturn respectively.
 
 * 拱，拱翊，環衛也： going round \+
   The line 如北辰居中，而五星拱之 is a nod to Confucius
@@ -166,12 +160,11 @@ The inserted punctuation is my own.
 * 畫： drawing-.[decorated] \+
   畫，去聲， \C waa6, \M hu(a\)
 
-* 檻： balustrades; \or rails \+
+* 檻： balustrades \+
   檻，音艦， \C laam6, \M ji(a\)n
 
 * 月門：
-    [Moon Gate](https://en.wikipedia.org/wiki/Moon_gate);
-    \or Moon Entrance
+    [Moon Gate](https://en.wikipedia.org/wiki/Moon_gate)
 ====
 
 <<
@@ -185,9 +178,6 @@ The inserted punctuation is my own.
 * 聨翩：翩，疾飛也； continuously flock; \lit rapidly fly together \+
   翩，音篇， \C p'een1, \M pi(a-)n \+
   "Flock" preserves the connotation with bird flight.
-
-* 蒞止：蒞，臨也； attend \+
-  蒞，力地切，音利， \C lei6, \M l(i\)
 ====
 
 <<
