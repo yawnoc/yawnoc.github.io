@@ -9,7 +9,7 @@
   %title "The Fox Feigneth the Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2020-12-04
+  %date-modified 2020-01-17
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -125,11 +125,7 @@ The Chinese source text is from Chinese Text Project:
   A minister of King~S(u")an ((宣)) of~King ((荊)).
   In another manuscript he is called Kiang I ((江乙)).
 
-* 求：索也； sought
-
 * 百獸： .[the] many beasts; \lit .[the] hundred beasts
-
-* 得： obtained; \or got
 ====
 
 <<
@@ -143,8 +139,6 @@ The Chinese source text is from Chinese Text Project:
 >>
 ====
 * 子： thou; \lit .[the] master
-
-* 天帝： .[the] Emperor of Heaven; \or God
 
 * 長： leader \+
   長，上聲， \C ch(oe)ng2, \M zh(av)ng
@@ -193,8 +187,6 @@ The Chinese source text is from Chinese Text Project:
   of the order half a kilometre.
 
 * 百萬： .[a] million; \or .[in their] millions; \lit .[an] hundred myriad
-
-* 屬： subordinate unto; \or belonging unto
 ====
 
 <<
