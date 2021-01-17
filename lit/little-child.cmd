@@ -10,7 +10,7 @@
     "Q \& A with Confucius: the Little Child's Discourse" 《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2020-12-04
+  %date-modified 2021-01-17
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -60,8 +60,7 @@ In 《三字經》 he is mentioned in the line [「昔仲尼，師項橐」][三
 
 ----
 The Chinese source text is from a 1999 (己卯年) Chinese almanac (通勝),
-printed by 天寶樓 (though these days only two almanac printing houses
-remain in Hong Kong, 永經堂 and 廣經堂).
+printed by 天寶樓.
 It is entitled 小兒論, with the heading 孔子問答 in the margins.
 ----
 
@@ -115,15 +114,9 @@ see [the actual first page of the almanac text][almanac text].
 * 孔子： Confucius; \lit Master~K'ung ((孔))
 
 * 字： styled \+
-  名 is one's name given at birth,
-  whereas 字 is given at twenty (adulthood) by one's parents or teacher,
-  usually rendered as ["courtesy name" or "style name"][字].
-  The compound 名字 only means "name" in modern Mandarin;
-  classically it refers to
-  the two separate names 名 (birth name) and 字 (style name).
+  A style name, also called a [courtesy name][字].
 
-* 敎： .[a] teaching \+
-  Arguably ".[a] religion" would also work.
+* 敎： .[a] teaching; \or .[a] religion \+
 ====
 
 @@[字]
@@ -139,9 +132,6 @@ see [the actual first page of the almanac text][almanac text].
   .[and] amidst .[them] there was one child .[who] played not.
 >>
 ====
-* 御：使馬也； driving \+
-  Driving horses of course.
-
 * 車： chariot \+
   車，音居， \C k\_(u")1, \M j(u-) \+
   This is a literary text, and Confucius~\&~co. are riding in a chariot,
@@ -224,9 +214,6 @@ see [the actual first page of the almanac text][almanac text].
     be .[it that] the chariot ought to avoid the wall,
     not .[that] the wall ought to avoid the chariot.
 >>
-====
-* 當： ought to; \or should
-====
 
 <<
   孔子乃勒車論道，下車而問焉：汝年尚幼，何多詐乎？
@@ -355,10 +342,6 @@ see [the actual first page of the almanac text][almanac text].
   Often used as an honorific.
 
 * 順： obey; \or go along with; \or follow
-
-* 明：高明； brilliant; \or wise
-
-* 暇：閒也； spare time; \or free time
 ====
 
 <<
@@ -404,22 +387,14 @@ see [the actual first page of the almanac text][almanac text].
 * 天子： .[the] Son of Heaven \+
   The emperor.
 
-* 理： administered; \or managed
-
 * 侯： lords; \or marquesses \+
   See [諸侯](https://en.wiktionary.org/wiki/%E8%AB%B8%E4%BE%AF).
 
 * 妨： harm; \or obstruct
 
-* 士儒： scholars .[and] academics \+
-  Both 士 and 儒 refer to scholars,
-  although 儒 can mean Confucian scholar specifically.
-  I have used "academics" to avoid rendering 士儒 as
-  "scholars .[and] scholars".
-
 * 學問： scholarship; \or learning; \lit learning .[and] enquiry
 
-* 弛：放也，棄也，廢也； abandoned; \lit slackened
+* 弛： abandoned; \lit slackened
 ====
 
 <<
@@ -434,18 +409,6 @@ see [the actual first page of the almanac text][almanac text].
   .[For] these reasons .[I] wager not.
 >>
 ====
-* 小人： the little man; \or the despicable man \+
-  In Confucianism, 小人 is a person of low moral character,
-  always seeking quick personal gain.
-  The opposite of 小人 is 君子 (gentleman),
-  a refined man and a person of virtue.
-  James Legge renders 君子 as "the superior man"
-  and 小人 as "the mean man" in [《論語\.述而》](
-    https://ctext.org/analects/shu-er#n1287
-  ).
-
-* 撲：擊也； beaten
-
 * 失時： out of season; \lit missing .[the] season
 ====
 
@@ -495,19 +458,7 @@ see [the actual first page of the almanac text][almanac text].
     Vast .[be all] under Heaven: how can .[it be] levelled?
 >>
 ====
-* 鱉：龜屬； turtle \+
-  鱉，變入聲， \C peet8, \M bi(e-)
-
 * 無歸： no home; \or nothing .[to] return to
-
-* 絶却： cut off; \lit cut out
-
-* 君子： rulers \+
-  Here I don't think 君子
-  refers to gentlemen, but to rulers and lords
-  (君 as in "monarch" or "sovereign").
-
-* 使： employ; \or use
 
 * 蕩蕩：大也，廣遠也； vast
 ====
@@ -740,8 +691,6 @@ see [the actual first page of the almanac text][almanac text].
 * 郊市： outskirt towns \+
   Not certain. Possibly "town of Kiao ((郊))".
 
-* 寄： adherence unto; \or dependence upon \+
-  Not certain.
 ====
 
 <<
@@ -870,13 +819,7 @@ see [the actual first page of the almanac text][almanac text].
     https://en.wikipedia.org/wiki/Illeism
   @@
 
-* 求敎： request .[the] advice; \or .[earnestly] request .[the] advice
-
 * 言：問也； [asking](https://en.wiktionary.org/wiki/asking#Noun Noun)
-
-* 明： clarity; \or illustration
-
-* 幸：冀也； hopeth
 ====
 
 <<
@@ -888,8 +831,6 @@ see [the actual first page of the almanac text][almanac text].
     Why .[are] pine trees .[and] cypress trees evergreen?
 >>
 ====
-* 浮： float; \or drift
-
 * 鴻雁： swans .[and] wild geese \+
   Could also be the single bird ["swan goose"](
     https://en.wikipedia.org/wiki/Swan_goose
@@ -1043,20 +984,14 @@ see [the actual first page of the almanac text][almanac text].
   ||||
     Do not bully the intelligent child, young .[in] years, \+
     .[Who] greatly hath outstanding talent, \
-      .[and] wisdom .[which] surpasseth others. \+
+      .[and] wisdom surpassing others. \+
     .[He] discusseth .[and] discourseth \
       .[the] infinite matters in .[the] world; \+
-    Clearly .[the] ancient sages .[have] manifested .[in] his person.
+    Clearly .[the] olden sages .[have] manifested .[in] his person.
   ||||
   ||||||
 >>>>>>>>
 ====
-* 欺： bully; \or pick on
-
-* 過： surpasseth; \or exceedeth
-
-* 論： discourseth; \or debateth
-
 * 分明： clearly \+
   Or "blatantly", but here without the negative connotation.
 
@@ -1064,8 +999,6 @@ see [the actual first page of the almanac text][almanac text].
   The virtuous, wise men of antiquity.
   In modern times though, due to the influence of Christian literature,
   聖 has come to mean "holy", or "sacred", or "saint".
-
-* 現： manifested; \or appeared
 ====
 
 
