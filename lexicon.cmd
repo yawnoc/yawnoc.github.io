@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2020-12-04
+  %date-modified 2021-01-29
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -2200,7 +2200,7 @@ See also: [百萬][萬]
 ⽫ (dish) U+2F6B
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-5 [益] 76CA
+5 [益] U+76CA
 ====
 * benefit
 ====
