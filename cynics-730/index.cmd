@@ -91,7 +91,7 @@ Brought to you in the safety of Western Australia.
 Don't come. We don't want you.
 ----
 ||||{.host .marker}
----Mark McGowan [(29~March~2020)] [don't come]
+---~Mark McGowan [(29~March~2020)] [don't come]
 ||||
 
 ![WA Health Minister Roger Cook] [Roger Cook]
@@ -101,7 +101,7 @@ If someone wants to challenge that in the High Court, good luck to them.
 I say, you know, fill your boots.
 ----
 ||||{.guest .marker}
----Roger Cook [(20~May~2020)] [good luck]
+---~Roger Cook [(20~May~2020)] [good luck]
 ||||
 
 """"

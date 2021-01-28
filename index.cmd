@@ -334,13 +334,13 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 
 ===={.testimonial-container}
 * """[He's] British.""" \+
-  ---F.~(circa~2006)
+  ---~F.~(circa~2006)
 
 * """Conway's disagreeing with himself.""" \+
-  ---N.~(2008)
+  ---~N.~(2008)
 
 * """Conway is just dumb.""" \+
-  ---L.~\&~K.~(2014)
+  ---~L.~\&~K.~(2014)
 
 ====
 
