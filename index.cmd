@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-01-30
+  %date-modified 2021-01-31
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -19,6 +19,14 @@
     or gotten around to adding content since %year-modified-next;
     possibly I have died.
   %css a~~
+    #me-elsewhere-container > a {
+      background-image: none;
+      padding: 0 0.1em;
+    }
+    #me-elsewhere-container > a > img {
+      height: 2em;
+      vertical-align: middle;
+    }
     .page-link-container > li {
       margin-bottom: 0.7em;
     }
@@ -60,6 +68,28 @@ with the metabolism of Sir~Doris the Hamster.
 ----
 Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ----
+||||{#me-elsewhere-container}
+<span>Me elsewhere:</span>
+[![GitHub][github icon]][github profile]
+[![GitLab][gitlab icon]][gitlab profile]
+[![Mathematica Stack Exchange][mse icon]][mse profile]
+[![Lichess][lichess icon]][lichess profile]
+||||
+
+@@[github icon] icons/github.svg @@
+@@[github profile] https://github.com/yawnoc GitHub @@
+
+@@[gitlab icon] icons/gitlab.svg @@
+@@[gitlab profile] https://gitlab.com/yawnoc GitLab @@
+
+@@[mse icon] icons/mathematica-stackexchange.svg @@
+@@[mse profile]
+  https://mathematica.stackexchange.com/users/72028/yawnoc
+  Mathematica Stack Exchange
+@@
+
+@@[lichess icon] icons/lichess.svg @@
+@@[lichess profile] https://lichess.org/@/yawnoc Lichess @@
 
 ##{#general}
   General
