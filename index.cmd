@@ -24,6 +24,7 @@
       padding: 0 0.1em;
     }
     #me-elsewhere-container > a > img {
+      height: 2em;
       vertical-align: middle;
     }
     .page-link-container > li {
@@ -75,19 +76,19 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 [![Lichess][lichess icon]][lichess profile]
 ||||
 
-@@[github icon]{w=32} icons/github.svg @@
+@@[github icon] icons/github.svg @@
 @@[github profile] https://github.com/yawnoc GitHub @@
 
-@@[gitlab icon]{w=32} icons/gitlab.svg @@
+@@[gitlab icon] icons/gitlab.svg @@
 @@[gitlab profile] https://gitlab.com/yawnoc GitLab @@
 
-@@[mse icon]{w=32} icons/mathematica-stackexchange.svg @@
+@@[mse icon] icons/mathematica-stackexchange.svg @@
 @@[mse profile]
   https://mathematica.stackexchange.com/users/72028/yawnoc
   Mathematica Stack Exchange
 @@
 
-@@[lichess icon]{w=32} icons/lichess.svg @@
+@@[lichess icon] icons/lichess.svg @@
 @@[lichess profile] https://lichess.org/@/yawnoc Lichess @@
 
 ##{#general}
