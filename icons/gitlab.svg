@@ -3,9 +3,7 @@
     <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
     <title>press-kit-icon</title>
     <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="press-page-v1" transform="translate(-747.000000, -2860.000000)">
-            <g id="press-kit-icon" transform="translate(748.000000, 2860.000000)">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1,0)">
                 <polygon id="Fill-1" fill="#E24329" points="49.0098 90.2299 49.0098 90.2299 67.0558 35.3209 30.9638 35.3209"/>
                 <polygon id="Fill-2" fill="#FC6D26" points="48.9971 90.2299 30.9511 35.3219 5.6831 35.3219"/>
                 <g id="Group-27" transform="translate(0.000000, 0.248500)">
@@ -22,7 +20,5 @@
                     <path d="M92.3252,35.0918 L97.8162,51.7748 C98.3142,53.2888 97.7772,54.9618 96.4642,55.9058 L49.0122,89.9808 L92.3252,35.0918 Z" id="Stroke-23" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                     <path d="M92.3389,35.0918 L67.0509,35.0918 L77.9139,2.0208 C78.4719,0.3278 80.8989,0.3278 81.4759,2.0208 L92.3389,35.0918 Z" id="Stroke-25" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                 </g>
-            </g>
-        </g>
     </g>
 </svg>
