@@ -60,6 +60,28 @@ with the metabolism of Sir~Doris the Hamster.
 ----
 Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ----
+||||
+Me elsewhere:
+[![GitHub][github icon]][github profile]
+[![GitLab][gitlab icon]][gitlab profile]
+[![Mathematica Stack Exchange][mse icon]][mse profile]
+[![Lichess][lichess icon]][lichess profile]
+||||
+
+@@[github icon]{w=32} icons/github.svg @@
+@@[github profile] https://github.com/yawnoc GitHub @@
+
+@@[gitlab icon]{w=32} icons/gitlab.svg @@
+@@[gitlab profile] https://gitlab.com/yawnoc GitLab @@
+
+@@[mse icon]{w=32} icons/mathematica-stackexchange.svg @@
+@@[mse profile]
+  https://mathematica.stackexchange.com/users/72028/yawnoc
+  Mathematica Stack Exchange
+@@
+
+@@[lichess icon]{w=32} icons/lichess.svg @@
+@@[lichess profile] https://lichess.org/@/yawnoc Lichess @@
 
 ##{#general}
   General
