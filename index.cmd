@@ -21,7 +21,10 @@
   %css a~~
     #me-elsewhere-container > a {
       background-image: none;
-      padding: 0 0.2em;
+      padding: 0 0.1em;
+    }
+    #me-elsewhere-container > a > img {
+      vertical-align: middle;
     }
     .page-link-container > li {
       margin-bottom: 0.7em;
@@ -65,7 +68,7 @@ with the metabolism of Sir~Doris the Hamster.
 Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ----
 ||||{#me-elsewhere-container}
-Me elsewhere:
+<span>Me elsewhere:</span>
 [![GitHub][github icon]][github profile]
 [![GitLab][gitlab icon]][gitlab profile]
 [![Mathematica Stack Exchange][mse icon]][mse profile]
