@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-01-17
+  %date-modified 2021-01-30
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -55,7 +55,7 @@ Feedback welcome: yawnoc@pm.me
 
 ----
 Assorted musings of a remnant of the 20th~century,
-with the cynicism of Daria and the metabolism of Sir~Doris the Hamster.
+with the metabolism of Sir~Doris the Hamster.
 ----
 ----
 Mostly [applied maths](#math) and [Literary Chinese](#lit).
