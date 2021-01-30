@@ -19,6 +19,10 @@
     or gotten around to adding content since %year-modified-next;
     possibly I have died.
   %css a~~
+    #me-elsewhere-container > a {
+      background-image: none;
+      padding: 0 0.2em;
+    }
     .page-link-container > li {
       margin-bottom: 0.7em;
     }
@@ -60,7 +64,7 @@ with the metabolism of Sir~Doris the Hamster.
 ----
 Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ----
-||||
+||||{#me-elsewhere-container}
 Me elsewhere:
 [![GitHub][github icon]][github profile]
 [![GitLab][gitlab icon]][gitlab profile]
