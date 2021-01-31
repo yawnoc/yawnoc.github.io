@@ -20,14 +20,13 @@
     possibly I have died.
   %css a~~
     #me-elsewhere-container > a {
-      padding: 0 0.1em;
+      padding: 0 0.2em;
     }
     #me-elsewhere-container > a::after {
       content: none;
     }
     #me-elsewhere-container > a > img {
       height: 2em;
-      vertical-align: middle;
     }
     .page-link-container > li {
       margin-bottom: 0.7em;
@@ -72,7 +71,6 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ----
 
 ||||{#me-elsewhere-container}
-Me elsewhere:
 [![GitHub][github icon]][github profile]
 [![GitLab][gitlab icon]][gitlab profile]
 [![Mathematica Stack Exchange][mse icon]][mse profile]
