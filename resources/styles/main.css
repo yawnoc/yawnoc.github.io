@@ -308,12 +308,11 @@ a[href^="http"
   [href^="https://github.com/conway-markdown"]
 ):not(
   [href^="https://conway-markdown.github.io/"]
-) {
-  background-image: url(/resources/styles/external-link.svg);
-  background-position: center right;
-  background-repeat: no-repeat;
-  background-size: 0.8em;
-  padding-right: 1em;
+)::after {
+  content: '↗';
+  font-size: 0.7em;
+  position: relative;
+  top: -0.3em;
 }
 
 

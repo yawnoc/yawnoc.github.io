@@ -20,8 +20,10 @@
     possibly I have died.
   %css a~~
     #me-elsewhere-container > a {
-      background-image: none;
       padding: 0 0.1em;
+    }
+    #me-elsewhere-container > a::after {
+      content: none;
     }
     #me-elsewhere-container > a > img {
       height: 2em;

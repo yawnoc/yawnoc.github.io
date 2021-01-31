@@ -16,8 +16,10 @@
 <script defer src="/resources/scripts/rendering.min.js"></script>
 <title>Conway's site</title>
 <style>#me-elsewhere-container > a {
-background-image: none;
 padding: 0 0.1em;
+}
+#me-elsewhere-container > a::after {
+content: none;
 }
 #me-elsewhere-container > a > img {
 height: 2em;
