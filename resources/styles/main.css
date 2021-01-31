@@ -589,7 +589,7 @@ th, td {
 
 /* Translator-supplied words */
 .translator-supplied {
-  color: #717171;
+  color: #595959;
 }
 
 /* Parallel text */
@@ -619,7 +619,7 @@ li > .parallel-text {
 /* Translation-alternative markers ("or", "lit.", etc.) */
 
 .alternative-marker {
-  color: #666;
+  color: #444;
   font-family: Palatino, Georgia, serif;
 }
 
