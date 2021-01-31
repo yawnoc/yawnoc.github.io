@@ -508,7 +508,7 @@ noscript {
 /* Bracketed original Chinese after romanisations */
 
 .original-chinese {
-  color: #ce0000;
+  color: #800;
 }
 
 .original-chinese::before {
