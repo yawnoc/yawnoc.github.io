@@ -307,8 +307,7 @@ a[href^="http"
 )::after {
   content: '↗';
   font-size: 0.7em;
-  position: relative;
-  top: -0.3em;
+  vertical-align: top;
 }
 
 
