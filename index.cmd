@@ -70,8 +70,9 @@ with the metabolism of Sir~Doris the Hamster.
 ----
 Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ----
+
 ||||{#me-elsewhere-container}
-<span>Me elsewhere:</span>
+Me elsewhere:
 [![GitHub][github icon]][github profile]
 [![GitLab][gitlab icon]][gitlab profile]
 [![Mathematica Stack Exchange][mse icon]][mse profile]
