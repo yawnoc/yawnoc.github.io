@@ -21,9 +21,7 @@
   %css a~~
     #me-elsewhere-container > a {
       padding: 0 0.2em;
-    }
-    #me-elsewhere-container > a::after {
-      content: none;
+      background-image: none;
     }
     #me-elsewhere-container > a > img {
       height: 2em;
