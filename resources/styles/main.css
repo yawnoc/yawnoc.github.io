@@ -38,11 +38,27 @@
 */
 
 body {
+  background: white;
   font-family: sans-serif;
   line-height: 1.4;
   margin: 0;
   overflow-wrap: break-word;
-  padding: 2em 0.7em 0.7em;
+  padding: 2em 1em 0.7em;
+}
+
+/*
+  Cap width of content and navigation
+*/
+
+html {
+  background: #cde;
+  margin: 0 auto;
+  max-width: 44em;
+}
+
+body > header {
+  margin-left: -1em;
+  max-width: 44em;
 }
 
 
@@ -374,7 +390,6 @@ ul {
 header {
   position: fixed;
   top: 0;
-  left: 0;
   width: 100vw;
   z-index: 1;
 }
@@ -588,6 +603,7 @@ th, td {
 
 
 /* Translator-supplied words */
+
 .translator-supplied {
   color: #595959;
 }
