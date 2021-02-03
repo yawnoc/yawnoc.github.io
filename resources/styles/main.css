@@ -246,7 +246,7 @@ img {
   font-size: large;
   display: flow-root;
   margin: 0 auto 1em;
-  max-width: 30em;
+  max-width: 27em;
 }
 
 img.host, img.guest {
