@@ -26,6 +26,19 @@
   
 */
 
+/* Variables (custom properties) */
+
+:root{
+  --anchor-clearance-top: 2.5rem;
+  --body-padding-horizontal: 1em;
+  --guest-colour: black;
+  --host-colour: blue;
+  --html-max-width: 44em;
+  --interview-image-margin-horizontal: 0.75em;
+  --katex-clearance-top: 0.5em;
+  --katex-clearance-bottom: 0.25em;
+}
+
 
 /* ---------------------------------------------------------------- */
 /* Body                                                             */
@@ -43,7 +56,7 @@ body {
   line-height: 1.4;
   margin: 0;
   overflow-wrap: break-word;
-  padding: 2em 1em 0.7em;
+  padding: 2em var(--body-padding-horizontal) 0.7em;
 }
 
 /*
@@ -53,12 +66,12 @@ body {
 html {
   background: #cde;
   margin: 0 auto;
-  max-width: 44em;
+  max-width: var(--html-max-width);
 }
 
 body > header {
-  margin-left: -1em;
-  max-width: 44em;
+  margin-left: calc(-1 * var(--body-padding-horizontal));
+  max-width: var(--html-max-width);
 }
 
 
@@ -158,10 +171,10 @@ pre {
 .katex-display > .katex {
   overflow-x: auto;
   overflow-y: hidden;
-  margin-top: -0.5em;
-  padding-top: 0.5em;
-  margin-bottom: -0.25em;
-  padding-bottom: 0.25em;
+  margin-top: calc(-1 * var(--katex-clearance-top));
+  padding-top: var(--katex-clearance-top);
+  margin-bottom: calc(-1 * var(--katex-clearance-bottom));
+  padding-bottom: var(--katex-clearance-bottom);
 }
 
 /*
@@ -262,24 +275,27 @@ img.host, img.guest {
 }
 
 img.host {
-  border-color: blue;
+  border-color: var(--host-colour);
   float: left;
-  margin-right: 0.75em;
+  margin-right: var(--interview-image-margin-horizontal);
 }
 p.host {
   clear: right;
 }
 .host {
-  color: blue;
+  color: var(--host-colour);
 }
 
 img.guest {
-  border-color: black;
+  border-color: var(--guest-colour);
   float: right;
-  margin-left: 0.75em;
+  margin-left: var(--interview-image-margin-horizontal);
 }
 p.guest {
   clear: left;
+}
+.guest {
+  color: var(--guest-colour);
 }
 
 p.thought-bubble {
@@ -474,8 +490,8 @@ nav > ul > li > a {
 :target::before {
   content: "";
   display: block;
-  height: 2.5rem;
-  margin: -2.5rem 0 0;
+  height: var(--anchor-clearance-top);
+  margin: calc(-1 * var(--anchor-clearance-top)) 0 0;
 }
 
 
