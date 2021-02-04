@@ -26,6 +26,12 @@
   
 */
 
+/* Variables (custom properties) */
+
+:root{
+  --body-padding-horizontal: 1em;
+}
+
 
 /* ---------------------------------------------------------------- */
 /* Body                                                             */
@@ -43,7 +49,7 @@ body {
   line-height: 1.4;
   margin: 0;
   overflow-wrap: break-word;
-  padding: 2em 1em 0.7em;
+  padding: 2em var(--body-padding-horizontal) 0.7em;
 }
 
 /*
@@ -57,7 +63,7 @@ html {
 }
 
 body > header {
-  margin-left: -1em;
+  margin-left: calc(-1 * var(--body-padding-horizontal));
   max-width: 44em;
 }
 
