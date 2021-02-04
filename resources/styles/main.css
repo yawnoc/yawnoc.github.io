@@ -30,6 +30,7 @@
 
 :root{
   --body-padding-horizontal: 1em;
+  --html-max-width: 44em;
 }
 
 
@@ -59,12 +60,12 @@ body {
 html {
   background: #cde;
   margin: 0 auto;
-  max-width: 44em;
+  max-width: var(--html-max-width);
 }
 
 body > header {
   margin-left: calc(-1 * var(--body-padding-horizontal));
-  max-width: 44em;
+  max-width: var(--html-max-width);
 }
 
 
