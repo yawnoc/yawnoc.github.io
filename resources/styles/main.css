@@ -29,6 +29,7 @@
 /* Variables (custom properties) */
 
 :root{
+  --anchor-clearance-top: 2.5rem;
   --body-padding-horizontal: 1em;
   --guest-colour: black;
   --host-colour: blue;
@@ -489,8 +490,8 @@ nav > ul > li > a {
 :target::before {
   content: "";
   display: block;
-  height: 2.5rem;
-  margin: -2.5rem 0 0;
+  height: var(--anchor-clearance-top);
+  margin: calc(-1 * var(--anchor-clearance-top)) 0 0;
 }
 
 
