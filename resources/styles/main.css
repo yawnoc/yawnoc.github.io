@@ -33,6 +33,7 @@
   --guest-colour: black;
   --host-colour: blue;
   --html-max-width: 44em;
+  --interview-image-margin-horizontal: 0.75em;
   --katex-clearance-top: 0.5em;
   --katex-clearance-bottom: 0.25em;
 }
@@ -275,7 +276,7 @@ img.host, img.guest {
 img.host {
   border-color: var(--host-colour);
   float: left;
-  margin-right: 0.75em;
+  margin-right: var(--interview-image-margin-horizontal);
 }
 p.host {
   clear: right;
@@ -287,7 +288,7 @@ p.host {
 img.guest {
   border-color: var(--guest-colour);
   float: right;
-  margin-left: 0.75em;
+  margin-left: var(--interview-image-margin-horizontal);
 }
 p.guest {
   clear: left;
