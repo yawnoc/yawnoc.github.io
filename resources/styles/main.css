@@ -30,6 +30,8 @@
 
 :root{
   --body-padding-horizontal: 1em;
+  --guest-colour: black;
+  --host-colour: blue;
   --html-max-width: 44em;
   --katex-clearance-top: 0.5em;
   --katex-clearance-bottom: 0.25em;
@@ -271,7 +273,7 @@ img.host, img.guest {
 }
 
 img.host {
-  border-color: blue;
+  border-color: var(--host-colour);
   float: left;
   margin-right: 0.75em;
 }
@@ -279,16 +281,19 @@ p.host {
   clear: right;
 }
 .host {
-  color: blue;
+  color: var(--host-colour);
 }
 
 img.guest {
-  border-color: black;
+  border-color: var(--guest-colour);
   float: right;
   margin-left: 0.75em;
 }
 p.guest {
   clear: left;
+}
+.guest {
+  color: var(--guest-colour);
 }
 
 p.thought-bubble {
