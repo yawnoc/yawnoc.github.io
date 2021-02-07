@@ -9,7 +9,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2021-01-29
+  %date-modified 2021-02-07
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -33,22 +33,9 @@
 ||||]
 
 ----
-This is an idiom describing the feigning
-of a higher up or more powerful authority
-in order to oppress/intimidate/bully the weak/vulnerable.
-It originates from a fable told in 《戰國策\.楚策一》, or
-"Ch'u ((楚))~Strategies~I" of [".[The] Warring States' Strategies"][戰國策],
+This idiom originates from a fable told
+in the ["Warring States' Strategies"][戰國策],
 compiled/edited by [Liu Hiang ((劉向))][劉向].
-----
-
-@@[戰國策]
-  https://en.wikipedia.org/wiki/Zhan_Guo_Ce
-@@
-@@[劉向]
-  https://en.wikipedia.org/wiki/Liu_Xiang_(scholar)
-@@
-
-----
 See also:
 ----
 ====
@@ -58,6 +45,12 @@ See also:
   by Julia Donaldson
 ====
 
+@@[戰國策]
+  https://en.wikipedia.org/wiki/Zhan_Guo_Ce
+@@
+@@[劉向]
+  https://en.wikipedia.org/wiki/Liu_Xiang_(scholar)
+@@
 @@[fairy book]
   https://en.wikisource.org/wiki/Chinese_Fairy_Book_(Richard_Wilhelm)/11
 @@
