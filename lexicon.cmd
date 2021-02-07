@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-01-29
+  %date-modified 2021-02-07
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -1132,7 +1132,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 11 [實] U+5BE6
 ====
-* actual; (in) fact; real; solid
+* actual; fact; real; solid
 * full
 * fruit
 ====
