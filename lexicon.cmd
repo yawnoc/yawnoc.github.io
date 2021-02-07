@@ -334,7 +334,7 @@ See also: [Unihan Radical-Stroke Index][unihan]
 
 4 [世] U+4E16
 ====
-* generation
+* generation; world
 ====
 ----
 See also: [逝世][逝]
