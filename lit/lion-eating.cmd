@@ -103,7 +103,7 @@ The Chinese source text is from Page~143 of Chao's
   十時，適十獅適市。是時，適施氏適市。
 ||
   .[At the] tenth hour, ten lions .[had] just gone unto market.
-  .[At] this time, Mr~Shih .[had also] just gone unto market.
+  .[At] this time, Mr~Shih .[had] just gone unto market.
 >>
 
 <<
