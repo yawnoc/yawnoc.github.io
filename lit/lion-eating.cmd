@@ -120,7 +120,7 @@ The Chinese source text is from Page~143 of Chao's
 <<
   氏拾是十獅屍，適石室。
 ||
-  Mr~.[Shih] picked up .[the] carcasses of these ten lions,
+  Mr~.[Shih] picked up these ten lions' carcasses,
   .[and] went unto .[the] stone house.
 >>
 
@@ -135,15 +135,15 @@ The Chinese source text is from Page~143 of Chao's
   石室拭，氏始試食是十獅屍。
 ||
   .[The] stone house wiped,
-  Mr~.[Shih] began to try eating .[the] carcasses of these ten lions.
+  Mr~.[Shih] began to try eating these ten lions' carcasses.
 >>
 
 <<
   食時，始識是十獅屍，實十石獅屍。
 ||
   .[Only] when eating,
-  .[did he] first know .[that the] carcasses of these ten lions,
-  .[were] actually .[the] carcasses of ten stone lions.
+  .[did he] first know .[that] these ten lions' carcasses,
+  .[were] actually ten stone lions' carcasses.
 >>
 ====
 * 始： first; \lit begin to
