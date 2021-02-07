@@ -91,8 +91,8 @@ The inserted punctuation is my own.
 ||
   Victoria Peak, .[in] antiquity referred to .[as]
   .[the] Peak of the Great Sea Turtle,
-  overlooketh .[the] great sea .[unto the] south,
-  .[and is in] far, far mutual looking .[unto the] north
+  overlooketh southward .[the] great sea,
+  .[and is in] far mutual looking northward
   with .[the] many mountains of Kowloon;
   .[its] ridges .[and] small, pointed hills .[are] connected .[and] unbroken,
   .[its] woods .[and] trees thriving .[and] flourishing,
