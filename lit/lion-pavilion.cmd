@@ -224,7 +224,7 @@ The inserted punctuation is my own.
   .[is] also like the sh(e^)ng ((笙)) .[and] the y(u") ((竽))
   playing .[in] ensemble;
   .[among] that which the ear .[and] the eye receiveth,
-  not one .[thing] .[is] not sufficient .[or] pleasing.
+  not one .[thing] .[is] not sufficient .[to] please.
   .[It is] also .[a] good place .[for]
   travel .[and] rest.
 >>
