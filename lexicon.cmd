@@ -488,7 +488,7 @@ See also: [逝世][逝]
 
 0 [人] U+4EBA
 ====
-* (gender-neutral) man; person
+* (gender-neutral) man; human
 * another; others
 ====
 
