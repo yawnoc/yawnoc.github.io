@@ -10,7 +10,7 @@
     "Record of [the] Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2021-01-17
+  %date-modified 2021-02-08
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -204,9 +204,9 @@ The inserted punctuation is my own.
   山中復有竒花異草可以觀賞，幽泉怪石可以遊遨。
 ||
   Amidst .[the] mountain there are also odd flowers .[and] strange grasses
-  which .[one] can see .[and] appreciate,
+  .[one] can see .[and] appreciate,
   .[and] secluded springs .[and] strange rocks
-  which .[one] can tour .[and] roam.
+  .[one] can tour .[and] roam.
 >>
 ====
 * 草： grasses \+
