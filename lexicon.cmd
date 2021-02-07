@@ -1353,7 +1353,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 4 [弟] U+5F1F
 ====
-* younger brother
+* younger-brother
 * disciple
 ====
 ====
@@ -1796,7 +1796,7 @@ See also: [爰書][爰]
 
 4 [松] U+677E
 ====
-* pine tree
+* pine-tree
 ====
 
 4 [林] U+6797

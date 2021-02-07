@@ -101,7 +101,7 @@ The inserted punctuation is my own.
 ====
 * 太平山： Victoria Peak； \lit Mount~Tranquility; \or Mount~Peace
 
-* 鼇：海中大鱉也； the Great Sea Turtle \+
+* 鼇：海中大鱉也； the Great Sea-Turtle \+
   鼇，牛刀切， \C ngou4, \M (a/)o
 
 * 峰： Peak; \or Summit
@@ -220,7 +220,7 @@ The inserted punctuation is my own.
 <<
   而遠近松風，又如笙竽合奏，耳目所接，無一而不足快。亦遊息之佳所也。
 ||
-  And .[the] far .[and] nearby pine tree wind,
+  And .[the] far .[and] nearby pine-tree wind,
   .[is] also like the sh(e^)ng ((笙)) .[and] the y(u") ((竽))
   playing .[in] ensemble;
   .[among] that which the ear .[and] the eye receiveth,
