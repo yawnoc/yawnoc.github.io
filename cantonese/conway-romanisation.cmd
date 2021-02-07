@@ -39,6 +39,7 @@
 [[====
 * \header-link:home
 * \header-link:top
+* [Tables](#tables Compact reference tables)
 * [Examples](#examples Examples)
 * \header-link:cite
 ====]]
@@ -59,7 +60,7 @@ See also:
 * [{ts~vs~ch}](#ts-vs-ch)
 * [Finals](#finals)
 * [Tones](#tones)
-* [Compact tables](#compact-tables)
+* [Compact tables](#tables)
 * [Examples](#examples)
 ====]
 
@@ -1668,7 +1669,7 @@ Here are a few examples:
 ||||||
 
 
-##{#compact-tables}
+##{#tables}
   Compact reference tables
 ##
 
