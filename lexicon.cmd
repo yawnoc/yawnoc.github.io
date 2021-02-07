@@ -1243,7 +1243,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 19 [巒] U+5DD2
 ====
-* small, pointed hill; unbroken .[and] connected hills
+* pointed hill; unbroken .[and] connected hills
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

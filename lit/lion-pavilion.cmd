@@ -94,7 +94,7 @@ The inserted punctuation is my own.
   overlooketh southward .[the] great sea,
   .[and is in] far mutual looking northward
   with .[the] many mountains of Kowloon;
-  .[its] ridges .[and] small, pointed hills .[are] connected .[and] unbroken,
+  .[its] ridges .[and] pointed hills .[are] connected .[and] unbroken,
   .[its] woods .[and] trees thriving .[and] flourishing,
   .[and its] sights .[and] scenery absolutely beautiful.
 >>
@@ -109,7 +109,7 @@ The inserted punctuation is my own.
 * 臨：居高臨下；臨，視也； overlooketh
 
 * 巒：山小而銳；又山綿連曰巒；
-    small, pointed hills; \or unbroken .[and] connected hills \+
+    pointed hills; \or unbroken .[and] connected hills \+
   巒，音鑾， \C l(u")n4, \M lu(a/)n
 
 * 蔚：茂也； thriving; \or flourishing \+
