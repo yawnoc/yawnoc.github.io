@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-01-17
+  %date-modified 2021-02-07
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -178,8 +178,7 @@ see [the actual first page of the almanac text][almanac text].
 <<
   遂低頭以瓦片作城。
 ||
-  .[He] then lowered .[his] head .[and began] building .[a] wall
-  using .[some] tile pieces.
+  .[He] then lowered .[his] head .[and did] make .[a] wall with tile pieces.
 >>
 ====
 * 低頭： lowered .[his] head \+
