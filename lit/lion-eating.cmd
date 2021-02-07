@@ -81,7 +81,7 @@ The Chinese source text is from Page~143 of Chao's
 <<
   石室詩士施氏，嗜獅，誓食十獅。
 ||
-  .[The] poet Mr~Shih of .[a] stone house:
+  .[The] poet Mr~Shih of .[a] stone house,
   liked lions, .[and] sware to eat ten lions.
 >>
 ====
