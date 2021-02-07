@@ -146,7 +146,7 @@ The Chinese source text is from Chinese Text Project:
   .[let] me walk first for thee,
   .[and] thee follow after me,
   .[and] observe, .[who] of .[the] many beasts
-  seeth me and dareth run not?
+  .[shall] see me and dare run not?
 >>
 
 <<
