@@ -153,7 +153,7 @@ The Chinese source text is from Chinese Text Project:
   虎以為然，故遂與之行。獸見之皆走。
 ||
   .[The] tiger thought so, therefore .[he] then walked with him.
-  .[The] beasts seeing him, all ran.
+  .[The] beasts seeing him all ran.
 >>
 
 <<
