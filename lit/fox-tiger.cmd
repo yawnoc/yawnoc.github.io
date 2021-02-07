@@ -9,7 +9,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2021-02-07
+  %date-modified 2021-02-08
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -103,7 +103,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   群臣莫對。
 ||
-  .[And] .[his] group of ministers replied not.
+  .[And] .[his] group of ministers could not reply.
 >>
 
 <<

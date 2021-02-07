@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-02-07
+  %date-modified 2021-02-08
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -2674,7 +2674,7 @@ See also: [聯翩][翩]
 
 7 [莫] U+83AB
 ====
-* not; do not
+* cannot; do not
 ====
 
 10 [蒙] U+8499
