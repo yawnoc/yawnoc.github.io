@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-01-31
+  %date-modified 2021-02-07
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -232,7 +232,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 
 * [
     《施氏食獅史》 \+
-    ".[An] History of Mr Shih's Eating of Lions"
+    ".[An] History of Mr Shih's Eating Lions"
   ](/lit/lion-eating)
   ||||{.page-description}
      The original Mandarin "lion tongue twister".
