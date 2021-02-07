@@ -90,7 +90,7 @@ The inserted punctuation is my own.
   岡巒連綿，林木蔚茂，風景絶美。
 ||
   Victoria Peak, .[in] antiquity referred to .[as]
-  .[the] Peak of the Great Sea Turtle,
+  .[the] Peak of the Great Sea-Turtle,
   overlooketh southward .[the] great sea,
   .[and is in] far mutual looking northward
   with .[the] many mountains of Kowloon;
