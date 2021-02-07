@@ -92,13 +92,11 @@ The Chinese source text is from Page~143 of Chao's
 <<
   氏時時適市視獅。
 ||
-  Mr~.[Shih] went unto market all the time .[to] view lions.
+  Mr~.[Shih] went constantly unto market .[to] view lions.
 >>
 ====
 * 氏 \+
   Here, 施 has been dropped from 施氏.
-
-* 時時： all the time; \or often
 ====
 
 <<

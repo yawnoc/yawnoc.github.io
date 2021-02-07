@@ -1700,9 +1700,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 ====
 * time; hour; season
 * when
-====
-====
-* 時時： all the time; often
+* constantly
 ====
 
 8 [景] U+666F
