@@ -101,16 +101,7 @@ The inserted punctuation is my own.
 ====
 * 太平山： Victoria Peak； \lit Mount~Tranquility; \or Mount~Peace
 
-* 鼇：海中大鱉也； the Great Sea-Turtle \+
-  鼇，牛刀切， \C ngou4, \M (a/)o
-
-* 峰： Peak; \or Summit
-
 * 臨：居高臨下；臨，視也； overlooketh
-
-* 巒：山小而銳；又山綿連曰巒；
-    pointed hills; \or unbroken .[and] connected hills \+
-  巒，音鑾， \C l(u")n4, \M lu(a/)n
 
 * 蔚：茂也； thriving; \or flourishing \+
   蔚，音尉， \C wai3, w(e\)i
@@ -209,9 +200,6 @@ The inserted punctuation is my own.
   .[one] can tour .[and] roam.
 >>
 ====
-* 草： grasses \+
-  More generally any green plant which is not a tree.
-
 * 賞： appreciate; \or admire
 
 * 遨： roam; \or ramble
