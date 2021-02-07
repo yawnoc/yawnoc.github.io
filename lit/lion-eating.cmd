@@ -35,9 +35,7 @@ See also: [Conway's Romanisation for Cantonese](/cantonese/conway-romanisation)
 
 ----
 This is the passage composed by [Yuen Ren Chao],
-a Chinese-American linguist, scholar, etc.
-It is written in literary Chinese, with every character pronounced
-尸 (Pinyin:~shi) up to tone in Mandarin.
+with every character pronounced 尸 (Pinyin:~shi) up to tone in Mandarin.
 ----
 
 @@[Yuen Ren Chao]
