@@ -12,10 +12,11 @@
   %description
     Links to an annotated English translation of Volume~II of Sunzi Suanjing, \
     《孫子算經》, "\sun-tzu's Computational Classic".
-  %css
+  %css a~~
     .wip {
-      color: #e00;
+      color: var(--colour-r);
     }
+  ~~
 %%
 
 [[====

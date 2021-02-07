@@ -21,11 +21,11 @@
     .approximation-part,
     .conway-romanisation,
     .tone {
-      color: darkviolet;
+      color: var(--colour-v);
       font-weight: bold;
     }
     .wrong {
-      color: #e00;
+      color: var(--colour-r);
     }
     .example {
       border: 2px solid black;

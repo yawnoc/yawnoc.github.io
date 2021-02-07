@@ -31,6 +31,10 @@
 :root{
   --anchor-clearance-top: 2.5rem;
   --body-padding-horizontal: 1em;
+  --colour-r: #e00000;
+  --colour-g: green;
+  --colour-b: blue;
+  --colour-v: darkviolet;
   --guest-colour: black;
   --host-colour: blue;
   --html-max-width: 44em;
@@ -117,19 +121,19 @@ pre {
 
 
 .colour-r {
-  color: #e00000;
+  color: var(--colour-r);
 }
 
 .colour-g {
-  color: green;
+  color: var(--colour-g);
 }
 
 .colour-b {
-  color: blue;
+  color: var(--colour-b);
 }
 
 .colour-v {
-  color: darkviolet;
+  color: var(--colour-v);
 }
 
 
@@ -531,11 +535,11 @@ noscript {
 }
 
 .pre-merger {
-  color: darkviolet;
+  color: var(--colour-v);
 }
 
 .post-merger {
-  color: green;
+  color: var(--colour-g);
 }
 
 /* Bracketed original Chinese after romanisations */

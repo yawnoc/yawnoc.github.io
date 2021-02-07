@@ -17,10 +17,11 @@
     An English translation of 《孔子問答：小兒論》, \
     "Q [\&] A [with] Confucius: [the] Little Child's Discourse". \
     Basically Confucius getting his arse whooped by a little kid.
-  %css
+  %css a~~
     .danger {
-      color: #e00;
+      color: var(--colour-r);
     }
+  ~~
 %%
 
 [[====

@@ -68,7 +68,7 @@
       margin: 0.5em 0;
     }
     .type {
-      color: darkviolet
+      color: var(--colour-v);
     }
   ~~
 %%
