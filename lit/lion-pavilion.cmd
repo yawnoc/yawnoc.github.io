@@ -59,7 +59,7 @@ but no mention of the author.
   ![Photograph of the plaque text.][plaque text small]
 ||||
 
-@@[plaque text small]
+@@[plaque text small]{width=480}
   lion-pavilion-small.jpg
 @@
 
