@@ -126,8 +126,8 @@ __Manuscript:__ [`resistance.pdf`~(983~KB)][manuscript]
     Projectile motion from the origin in weak quadratic drag. \
     The initial speed is u and the initial angle is phi. \
     The projectile takes an asymmetric path, \
-    similar to a parabola but squashed horizontally to the right,
-    and strikes the ground at range R along the x-axis.
+    similar to a parabola but squashed horizontally to the right, \
+    and strikes the ground at range R along the x-axis. \
   /]
   
   [accessible-svg-content/
