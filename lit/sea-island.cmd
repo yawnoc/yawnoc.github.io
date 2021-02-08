@@ -163,17 +163,17 @@ $$
   \accessible-svg-attributes[now-there-be-title]\
 >
   [accessible-svg-title/now-there-be-title
-    "Now there be" diagram.
-    Draw a horizontal segment representing the ground.
+    Diagram: \
+    Draw a horizontal segment representing the ground. \
     At the left end of the ground, \
-      draw a vertical segment upward, representing the sea island.
+      draw a vertical segment upward, representing the sea island. \
     At each of two points within the ground segment, \
       draw a vertical segment upward, \
-      representing a vertical post of height 3~rods, \
-      which is shorter than the sea island.
-    The two vertical posts are separated by 1000~paces.
-    The post closer to the sea island is called the front post.
-    The post further from the sea island is called the rear post.
+      representing a vertical post of height 3 rods, \
+      which is shorter than the sea island. \
+    The two vertical posts are separated by 1000 paces. \
+    The post closer to the sea island is called the front post. \
+    The post further from the sea island is called the rear post. \
   /]
   
   [accessible-svg-content/
@@ -247,11 +247,11 @@ $$
   \accessible-svg-attributes[walking-back-123-paces-title]\
 >
   [accessible-svg-title/walking-back-123-paces-title
-    "Walking back 123~paces" diagram.
+    Diagram: \
     Draw a line through the peak of the sea island \
-    and the (upper) tip of the front post.
+    and the (upper) tip of the front post. \
     This line meets the horizontal ground \
-    123~paces from the base of the front post.
+    123 paces from the base of the front post. \
   /]
   
   [accessible-svg-content/
@@ -304,11 +304,11 @@ $$
   \accessible-svg-attributes[walking-back-127-paces-title]\
 >
   [accessible-svg-title/walking-back-127-paces-title
-    "Walking back 127~paces" diagram.
+    Diagram: \
     Draw a line through the peak of the sea island \
-    and the (upper) tip of the rear post.
+    and the (upper) tip of the rear post. \
     This line meets the horizontal ground \
-    127~paces from the base of the rear post.
+    127 paces from the base of the rear post. \
   /]
   
   [accessible-svg-content/
@@ -350,10 +350,10 @@ $$
   \accessible-svg-attributes[we-ask-how-much-title]\
 >
   [accessible-svg-title/we-ask-how-much-title
-    "We ask how much" diagram.
-    What is the height of the sea island?
+    Diagram: \
+    What is the height of the sea island? \
     What is the distance from the base of the sea island \
-    to the base of the front post?
+    to the base of the front post? \
   /]
   
   [accessible-svg-content/
@@ -632,10 +632,10 @@ w{: \font-size : font-size="0.3" :}
     Main diagram from the Chinese text 《海島算經細草圖說》, \
     minus some irrelevant vertical lines, \
     replicated in SVG format and with vertices labelled using latin letters \
-    in addition to the original Chinese.
+    in addition to the original Chinese. \
     This diagram is not easily describable in words, \
     and is better understood via the diagrams to follow, \
-    which construct this diagram step by step.
+    which construct this diagram step by step. \
   /]
   
   [accessible-svg-content/
@@ -711,11 +711,11 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[ab-is-the-sea-island-title]\
 >
   [accessible-svg-title/ab-is-the-sea-island-title
-    "AB is the sea island" diagram.
-    Draw a horizontal segment representing the ground.
-    Label the left end of the ground B, the base of the sea island.
-    At B, draw a vertical segment upward to A, the peak of the sea island.
-    AB represents the sea island.
+    Diagram: \
+    Draw a horizontal segment representing the ground. \
+    Label the left end of the ground B, the base of the sea island. \
+    At B, draw a vertical segment upward to A, the peak of the sea island. \
+    AB represents the sea island. \
   /]
   
   [accessible-svg-content/
@@ -751,11 +751,11 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[cd-is-the-front-post-title]\
 >
   [accessible-svg-title/cd-is-the-front-post-title
-    "CD is the front post" diagram.
-    Mark a point D along the ground, the location of the front post.
-    At D, draw a vertical segment upward to C, the tip of the front post.
-    CD represents the front post, and is shorter than the sea island AB.
-    Draw a line through A and C, to meet the ground at E.
+    Diagram: \
+    Mark a point D along the ground, the location of the front post. \
+    At D, draw a vertical segment upward to C, the tip of the front post. \
+    CD represents the front post, and is shorter than the sea island AB. \
+    Draw a line through A and C, to meet the ground at E. \
   /]
   
   [accessible-svg-content/
@@ -812,13 +812,13 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[fg-is-the-rear-post-title]\
 >
   [accessible-svg-title/fg-is-the-rear-post-title
-    "FG is the rear post" diagram.
+    Diagram: \
     Mark a point G along the ground, the location of the rear post, \
-    further than the front post from the sea island.
-    At G, draw a vertical segment upward to F, the tip of the rear post.
+    further than the front post from the sea island. \
+    At G, draw a vertical segment upward to F, the tip of the rear post. \
     FG represents the rear post, \
-    and is of the same height as the front post CD.
-    Draw a line through A and F, to meet the ground at H.
+    and is of the same height as the front post CD. \
+    Draw a line through A and F, to meet the ground at H. \
   /]
   
   [accessible-svg-content/
@@ -891,11 +891,11 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[construct-fco-title]\
 >
   [accessible-svg-title/construct-fco-title
-    "Construct FCO" diagram.
+    Diagram: \
     Draw a line through F and C, the tips of the rear and front posts, \
-    to meet the sea island AB at O.
+    to meet the sea island AB at O. \
     Highlight OB and the posts CD and FG, \
-    all three of which are the same height.
+    all three of which are the same height. \
   /]
   
   [accessible-svg-content/
@@ -975,9 +975,9 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[constructing-fi-title]\
 >
   [accessible-svg-title/constructing-fi-title
-    "Constructing FI" diagram.
-    Construct FI parallel and equal in length to CE.
-    Highlight IG and ED, which are the same length.
+    Diagram: \
+    Construct FI parallel and equal in length to CE. \
+    Highlight IG and ED, which are the same length. \
   /]
   
   [accessible-svg-content/
@@ -1064,8 +1064,8 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[similar-with-the-shape-aof-title]\
 >
   [accessible-svg-title/similar-with-the-shape-aof-title
-    "... similar with the shape AOF" diagram.
-    Highlight the right-angled triangles FGH and AOF, which are similar.
+    Diagram: \
+    Highlight the right-angled triangles FGH and AOF, which are similar. \
   /]
   
   [accessible-svg-content/
@@ -1153,8 +1153,8 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[similar-with-the-shape-aoc-title]\
 >
   [accessible-svg-title/similar-with-the-shape-aoc-title
-    "... similar with the shape AOC" diagram.
-    Highlight the right-angled triangles FGI and AOC, which are similar.
+    Diagram: \
+    Highlight the right-angled triangles FGI and AOC, which are similar. \
   /]
   
   [accessible-svg-content/
@@ -1242,9 +1242,9 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[hi-as-the-major-cathetus-title]\
 >
   [accessible-svg-title/hi-as-the-major-cathetus-title
-    "... HI as the major cathetus" diagram.
-    Highlight the right-angled triangle FGI.
-    Highlight the segment IH sticking out from the base of FGI.
+    Diagram: \
+    Highlight the right-angled triangle FGI. \
+    Highlight the segment IH sticking out from the base of FGI. \
   /]
   
   [accessible-svg-content/
@@ -1358,9 +1358,9 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[fc-as-the-major-cathetus-title]\
 >
   [accessible-svg-title/fc-as-the-major-cathetus-title
-    "... FC as the major cathetus" diagram.
-    Highlight the right-angled triangle AOC.
-    Highlight the segment CF sticking out from the base of AOC.
+    Diagram: \
+    Highlight the right-angled triangle AOC. \
+    Highlight the segment CF sticking out from the base of AOC. \
   /]
   
   [accessible-svg-content/
@@ -1446,9 +1446,9 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[compared-unto-the-large-minor-cathetus-title]\
 >
   [accessible-svg-title/compared-unto-the-large-minor-cathetus-title
-    "... compared unto the large minor cathetus" diagram.
-    Highlight the vertical segments AO and FG.
-    Highlight the horizontal segments FC and HI.
+    Diagram: \
+    Highlight the vertical segments AO and FG. \
+    Highlight the horizontal segments FC and HI. \
   /]
   
   [accessible-svg-content/
@@ -1546,7 +1546,7 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[add-the-post-height-title]\
 >
   [accessible-svg-title/add-the-post-height-title
-    "Add the post height" diagram.
+    Diagram: \
     Highlight the vertical segments OB, CD, and FG, which are the same height.
   /]
   
@@ -1664,10 +1664,10 @@ The punctuation inserted in this section is my own.
   \accessible-svg-attributes[compared-unto-the-split-major-cathetus-title]\
 >
   [accessible-svg-title/compared-unto-the-split-major-cathetus-title
-    "... compared unto the split major cathetus.
-    Highlight the horizontal segments HI and IG.
-    Highlight the horizontal segments FC and CO.
-    Highlight the horizontal segments CO and DB, which are equal in length.
+    Diagram: \
+    Highlight the horizontal segments HI and IG. \
+    Highlight the horizontal segments FC and CO. \
+    Highlight the horizontal segments CO and DB, which are equal in length. \
   /]
   
   [accessible-svg-content/

@@ -184,8 +184,8 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[put-down-the-area-title]\
   >
     [accessible-svg-title/put-down-the-area-title
-      "Put down the area" diagram.
-      Put down the dividend 234567.
+      Diagram: \
+      Put down the dividend 234567. \
     /]
     [accessible-svg-content/
       <## d ##>
@@ -240,13 +240,13 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[next-borrow-one-rod-title]\
   >
     [accessible-svg-title/next-borrow-one-rod-title
-      "Next borrow one rod" diagram.
+      Diagram: \
       Put a 1 below the dividend 234567, \
       and move it by two double steps to the left, \
-      to become the lower divisor 10000.
+      to become the lower divisor 10000. \
       There are now two rows: \
         the dividend 234567 and \
-        the lower divisor 10000.
+        the lower divisor 10000. \
     /]
     [accessible-svg-content/
       <## Marker definitions ##>
@@ -316,12 +316,12 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[for-the-upper-quotient-put-400-title]\
   >
     [accessible-svg-title/for-the-upper-quotient-put-400-title
-      "For the upper quotient put four hundred" diagram.
-      Insert the upper quotient 400 above the dividend 234567.
+      Diagram: \
+      Insert the upper quotient 400 above the dividend 234567. \
       There are now three rows: \
         the upper quotient 400, \
         the dividend 234567, and \
-        the lower divisor 10000.
+        the lower divisor 10000. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -389,14 +389,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[subsidiarily-put-40000-title]\
   >
     [accessible-svg-title/subsidiarily-put-40000-title
-      "Subsidiarily put four myriad" diagram.
+      Diagram: \
       Insert the upright divisor 40000 \
-      between the dividend 234567 and the lower divisor 10000.
+      between the dividend 234567 and the lower divisor 10000. \
       There are now four rows: \
         the upper quotient 400, \
         the dividend 234567, \
         the upright divisor 40000, and \
-        the lower divisor 10000.
+        the lower divisor 10000. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -470,13 +470,13 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[name-the-upper-quotients-400-title]\
   >
     [accessible-svg-title/name-the-upper-quotients-400-title
-      "Name the upper quotient's four hundred" diagram.
-      Update the dividend 234567 to 74567.
+      Diagram: \
+      Update the dividend 234567 to 74567. \
       The four rows are now: \
         the upper quotient 400, \
         the dividend 74567, \
         the upright divisor 40000, and \
-        the lower divisor 10000.
+        the lower divisor 10000. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -536,13 +536,13 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[double-the-upright-divisor-title]\
   >
     [accessible-svg-title/double-the-upright-divisor-title
-      "Double the upright divisor" diagram.
-      Update the upright divisor 40000 to 80000.
+      Diagram: \
+      Update the upright divisor 40000 to 80000. \
       The four rows are now: \
         the upper quotient 400, \
         the dividend 74567, \
         the upright divisor 80000, and \
-        the lower divisor 10000.
+        the lower divisor 10000. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -610,14 +610,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[the-upright-divisor-retreateth-title-1]\
   >
     [accessible-svg-title/the-upright-divisor-retreateth-title-1
-      "The upright divisor retreateth once", first diagram.
-      Update the upright divisor 80000 to 8000.
-      Update the lower divisor 10000 to 100.
+      Diagram: \
+      Update the upright divisor 80000 to 8000. \
+      Update the lower divisor 10000 to 100. \
       The four rows are now: \
         the upper quotient 400, \
         the dividend 74567, \
         the upright divisor 8000, and \
-        the lower divisor 100.
+        the lower divisor 100. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -689,13 +689,13 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[put-again-for-the-upper-quotient-80-title]\
   >
     [accessible-svg-title/put-again-for-the-upper-quotient-80-title
-      "Put again for the upper quotient eighty" diagram.
-      Update the upper quotient 400 to 480.
+      Diagram: \
+      Update the upper quotient 400 to 480. \
       The four rows are now: \
         the upper quotient 480, \
         the dividend 74567, \
         the upright divisor 8000, and \
-        the lower divisor 100.
+        the lower divisor 100. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -768,15 +768,15 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[subsidiarily-put-800-title]\
   >
     [accessible-svg-title/subsidiarily-put-800-title
-      "Subsidiarily put eight hundred" diagram.
+      Diagram: \
       Insert the incorrupt divisor 800 \
-      between the upright divisor 8000 and the lower divisor 100.
+      between the upright divisor 8000 and the lower divisor 100. \
       There are now five rows: \
         the upper quotient 480, \
         the dividend 74567, \
         the upright divisor 8000, \
         the incorrupt divisor 800, and \
-        the lower divisor 100.
+        the lower divisor 100. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -859,14 +859,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[the-incorrupt-nameth-title]\
   >
     [accessible-svg-title/the-incorrupt-nameth-title
-      "... the incorrupt nameth" diagram.
-      Update the dividend 74567 to 4167.
+      Diagram: \
+      Update the dividend 74567 to 4167. \
       The five rows are now: \
         the upper quotient 480, \
         the dividend 4167, \
         the upright divisor 8000, \
         the incorrupt divisor 800, and \
-        the lower divisor 100.
+        the lower divisor 100. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -942,14 +942,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[double-the-incorrupt-divisor-title]\
   >
     [accessible-svg-title/double-the-incorrupt-divisor-title
-      "Double the incorrupt divisor" diagram.
-      Update the incorrupt divisor 800 to 1600.
+      Diagram: \
+      Update the incorrupt divisor 800 to 1600. \
       The five rows are now: \
         the upper quotient 480, \
         the dividend 4167, \
         the upright divisor 8000, \
         the incorrupt divisor 1600, and \
-        the lower divisor 100.
+        the lower divisor 100. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -1035,16 +1035,16 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[the-upright-divisor-retreateth-title-2]\
   >
     [accessible-svg-title/the-upright-divisor-retreateth-title-2
-      "The upright divisor retreateth once", second diagram.
-      Update the upright divisor 8000 to 800.
-      Update the incorrupt divisor 1600 to 160.
-      Update the lower divisor 100 to 1.
+      Diagram: \
+      Update the upright divisor 8000 to 800. \
+      Update the incorrupt divisor 1600 to 160. \
+      Update the lower divisor 100 to 1. \
       The five rows are now: \
         the upper quotient 480, \
         the dividend 4167, \
         the upright divisor 800, \
         the incorrupt divisor 160, and \
-        the lower divisor 1.
+        the lower divisor 1. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -1132,14 +1132,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[put-again-for-the-upper-quotient-4-title]\
   >
     [accessible-svg-title/put-again-for-the-upper-quotient-4-title
-      "Put again for the upper quotient four" diagram.
-      Update the upper quotient 480 to 484.
+      Diagram: \
+      Update the upper quotient 480 to 484. \
       The five rows are now: \
         the upper quotient 484, \
         the dividend 4167, \
         the upright divisor 800, \
         the incorrupt divisor 160, and \
-        the lower divisor 1.
+        the lower divisor 1. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -1226,16 +1226,16 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[subsidiarily-put-4-title]\
   >
     [accessible-svg-title/subsidiarily-put-4-title
-      "Subsidiarily put four" diagram.
+      Diagram: \
       Insert the honest divisor 4 \
-      between the incorrupt divisor 160 and the lower divisor 1.
+      between the incorrupt divisor 160 and the lower divisor 1. \
       There are now six rows: \
         the upper quotient 484, \
         the dividend 4167, \
         the upright divisor 800, \
         the incorrupt divisor 160, \
         the honest divisor 4, and \
-        the lower divisor 1.
+        the lower divisor 1. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -1332,15 +1332,15 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[the-honest-nameth-title]\
   >
     [accessible-svg-title/the-honest-nameth-title
-      "... the honest nameth" diagram.
-      Update the dividend 4167 to 311.
+      Diagram: \
+      Update the dividend 4167 to 311. \
       The six rows are now: \
         the upper quotient 484, \
         the dividend 311, \
         the upright divisor 800, \
         the incorrupt divisor 160, \
         the honest divisor 4, and \
-        the lower divisor 1.
+        the lower divisor 1. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -1430,15 +1430,15 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[double-the-honest-divisor-title]\
   >
     [accessible-svg-title/double-the-honest-divisor-title
-      "Double the honest divisor" diagram.
-      Update the honest divisor 4 to 8.
+      Diagram: \
+      Update the honest divisor 4 to 8. \
       The six rows are now: \
         the upper quotient 484, \
         the dividend 311, \
         the upright divisor 800, \
         the incorrupt divisor 160, \
         the honest divisor 8, and \
-        the lower divisor 1.
+        the lower divisor 1. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
@@ -1543,14 +1543,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. \+
     \accessible-svg-attributes[final-arrangement-title]\
   >
     [accessible-svg-title/final-arrangement-title
-      Final arrangement diagram.
+      Final diagram: \
       There are six rows: \
         the upper quotient 484, \
         the dividend 311, \
         the upright divisor 800, \
         the incorrupt divisor 160, \
         the honest divisor 8, and \
-        the lower divisor 1.
+        the lower divisor 1. \
     /]
     [accessible-svg-content/
       <## 上商 ##>
