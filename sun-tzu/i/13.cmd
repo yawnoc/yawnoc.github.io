@@ -143,7 +143,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. \+
 * In animated form ([link to source code]):
   
   ||||{.centred-block}
-    ![Animation for \sun-tzu multiplication: 81 multiplied by 81](
+    ![Animation for \sun-tzu multiplication: 81 multiplied by 81.](
       /sun-tzu/code/multiply-81-81.gif
     )
   ||||

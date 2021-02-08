@@ -122,7 +122,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. \+
   I provide an animation here ([link to source code]):
   
   ||||{.centred-block}
-    ![Animation for \sun-tzu division: 100 divided by 6](
+    ![Animation for \sun-tzu division: 100 divided by 6.](
       /sun-tzu/code/divide-100-6.gif
     )
   ||||
