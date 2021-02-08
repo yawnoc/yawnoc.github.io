@@ -52,13 +52,13 @@ Race and place of origin are irrelevant.
 ## Gladys Liu discusses membership of various Chinese Associations. ##
 
 
-{: \andrew-bolt : ![ANDREW BOLT] :}
-@@[andrew bolt]{.h}
+{: \andrew-bolt : ![ANDREW BOLT:] :}
+@@[andrew bolt:]{.h}
   andrew-bolt-2019-09-10.jpg
 @@
 
-{: \gladys-liu : ![GLADYS LIU] :}
-@@[gladys liu]{.g}
+{: \gladys-liu : ![GLADYS LIU:] :}
+@@[gladys liu:]{.g}
   gladys-liu-2019-09-10.jpg
 @@
 

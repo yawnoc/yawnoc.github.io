@@ -45,13 +45,13 @@
 
 ## Education Minister Dan Tehan discusses NAPLAN and the latest results. ##
 
-{: \leigh-sales : ![LEIGH SALES] :}
-@@[leigh sales]{.h}
+{: \leigh-sales : ![LEIGH SALES:] :}
+@@[leigh sales:]{.h}
   leigh-sales-2019-08-28.jpg
 @@
 
-{: \dan-tehan : ![DAN TEHAN] :}
-@@[dan tehan]{.g}
+{: \dan-tehan : ![DAN TEHAN:] :}
+@@[dan tehan:]{.g}
   dan-tehan-2019-08-28.jpg
 @@
 

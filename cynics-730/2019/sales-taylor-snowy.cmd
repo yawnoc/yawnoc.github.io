@@ -47,13 +47,13 @@
 ## Energy Minister Angus Taylor discusses Snowy Hydro 2.0 ##
 
 
-{: \leigh-sales : ![LEIGH SALES] :}
-@@[leigh sales]{.h}
+{: \leigh-sales : ![LEIGH SALES:] :}
+@@[leigh sales:]{.h}
   leigh-sales-2019-10-14.jpg
 @@
 
-{: \angus-taylor : ![ANGUS TAYLOR] :}
-@@[angus taylor]{.g}
+{: \angus-taylor : ![ANGUS TAYLOR:] :}
+@@[angus taylor:]{.g}
   angus-taylor-2019-10-14.jpg
 @@
 

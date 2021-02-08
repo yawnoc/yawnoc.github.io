@@ -48,13 +48,13 @@
 ##
 
 
-{: \leigh-sales : ![LEIGH SALES] :}
-@@[leigh sales]{.h}
+{: \leigh-sales : ![LEIGH SALES:] :}
+@@[leigh sales:]{.h}
   leigh-sales-2021-02-02.jpg
 @@
 
-{: \chris-bowen : ![CHRIS BOWEN] :}
-@@[chris bowen]{.g}
+{: \chris-bowen : ![CHRIS BOWEN:] :}
+@@[chris bowen:]{.g}
   chris-bowen-2021-02-02.jpg
 @@
 

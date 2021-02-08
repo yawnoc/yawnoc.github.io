@@ -47,13 +47,13 @@
 ## Energy Minister Angus Taylor discusses carbon emissions and Clover Moore ##
 
 
-{: \leigh-sales : ![LEIGH SALES] :}
-@@[leigh sales]{.h}
+{: \leigh-sales : ![LEIGH SALES:] :}
+@@[leigh sales:]{.h}
   leigh-sales-2020-03-02.jpg
 @@
 
-{: \angus-taylor : ![ANGUS TAYLOR] :}
-@@[angus taylor]{.g}
+{: \angus-taylor : ![ANGUS TAYLOR:] :}
+@@[angus taylor:]{.g}
   angus-taylor-2020-03-02.jpg
 @@
 
