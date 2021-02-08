@@ -236,10 +236,10 @@ Or maybe he only had access to *very* impure silver and jade:
 >
   [accessible-svg-title/scatter-plot-title
     Scatter plot of \sun-tzu versus modern densities \
-    for gold, silver, jade, copper, lead, and cast iron.
+    for gold, silver, jade, copper, lead, and cast iron. \
     If the clear outliers silver and jade are discarded, \
     a straight line through the origin fits well \
-    to the four remaining points (gold, lead, copper, and cast iron).
+    to the four remaining points (gold, lead, copper, and cast iron). \
   /]
   
   {:: \tick-labels:horizontal :: \\font-size:ticks dy="1.35em" ::}

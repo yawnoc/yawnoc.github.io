@@ -205,15 +205,13 @@ gives the relevant conversions between the Chinese units themselves
 
 ||||{.centred-block}
   ![
-    Image of Ordinance No.~22 of~1844, British Hong Kong.
-    Weights.
-    w~~
-      Ten Candareen or 分 Fun, make one 錢 Tseen, (Mace.)
-      Ten Mace or 錢 Tseen, make one 兩 Leang, (Tael.)
-      Sixteen Taels or 兩 Leang, make one 斤 Kin, (Catty.)
-      One hundred Catties or 斤 Kin, make one 担 Tam, (Picul.)
-      One and one fifth Picul or 担 Tam, make one 石 Shik, (Stone.)
-    ~~
+    Image of Ordinance Number 22 of 1844, British Hong Kong. \
+    Weights. \
+      Ten Candareen or 分 Fun, make one 錢 Tseen, (Mace). \
+      Ten Mace or 錢 Tseen, make one 兩 Leang, (Tael). \
+      Sixteen Taels or 兩 Leang, make one 斤 Kin, (Catty). \
+      One hundred Catties or 斤 Kin, make one 担 Tam, (Picul). \
+      One and one fifth Picul or 担 Tam, make one 石 Shik, (Stone). \
   ](
     ord-1844-no-22-weights.jpg
   )
@@ -237,13 +235,13 @@ in [Ordinance No.~8 of~1885 (PDF)] [ord 8 of 1885]
 
 ||||{.centred-block}
   ![
-    Image of Ordinance No.~8 of~1885, British Hong Kong.
-    Weights.
-      One Fan (candareen) equals 0.133 oz. avoirdupois.
-      One Tsin (mace) equals 0.133 oz. avoirdupois.
-      One Leung (tael) equals one and one third oz. avoirdupois.
-      One Kan (catty) equals one and one third lbs. avoirdupois.
-      One Tam (picul) equals 133 and one third lbs. avoirdupois.
+    Image of Ordinance Number 8 of 1885, British Hong Kong. \
+    Weights. \
+      One Fan (candareen) equals 0.133 oz. avoirdupois. \
+      One Tsin (mace) equals 0.133 oz. avoirdupois. \
+      One Leung (tael) equals one and one third oz. avoirdupois. \
+      One Kan (catty) equals one and one third lbs. avoirdupois. \
+      One Tam (picul) equals 133 and one third lbs. avoirdupois. \
   ](
     ord-1885-no-8-weights.jpg
   )
