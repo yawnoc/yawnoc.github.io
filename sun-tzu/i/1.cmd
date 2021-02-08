@@ -289,14 +289,12 @@ gives the following conversions between Chinese length units
 
 ||||{.centred-block}
   ![
-    Image of Ordinance No.~22 of~1844, British Hong Kong.
-    Measures of Length.
-    w~~
-      Ten Fun, 分 make one 寸 Tsun.
-      Ten Tsun, 寸 make one 尺 Chih. (or Covid.)
-      Ten Chih, 尺 make one 丈 Chang.
-      Ten Chang, 丈 make one 引 Yin.
-    ~~
+    Image of Ordinance Number 22 of 1844, British Hong Kong. \
+    Measures of Length. \
+      Ten Fun 分 make one 寸 Tsun. \
+      Ten Tsun 寸 make one 尺 Chih (or Covid). \
+      Ten Chih 尺 make one 丈 Chang. \
+      Ten Chang 丈 make one 引 Yin. \
   ](
     ord-1844-no-22-length.jpg
   )
@@ -326,11 +324,11 @@ more than four decades later:
 
 ||||{.centred-block}
   ![
-    Image of Ordinance No.~8 of~1885, British Hong Kong.
-    Length.
-      One Chek (foot) equal to fourteen and five eighths English inches,
-      divided into ten Tsün or inches,
-      and each inch into ten Fan or tenths.
+    Image of Ordinance Number 8 of 1885, British Hong Kong. \
+    Length. \
+      One Chek (foot) equal to fourteen and five eighths English inches, \
+      divided into ten Tsün or inches, \
+      and each inch into ten Fan or tenths. \
   ](
     ord-1885-no-8-length.jpg
   )

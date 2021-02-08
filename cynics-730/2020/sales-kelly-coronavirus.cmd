@@ -49,13 +49,13 @@
 ##
 
 
-{: \leigh-sales : ![LEIGH SALES] :}
-@@[leigh sales]{.h}
+{: \leigh-sales : ![LEIGH SALES:] :}
+@@[leigh sales:]{.h}
   leigh-sales-2020-03-26.jpg
 @@
 
-{: \paul-kelly : ![PAUL KELLY] :}
-@@[paul kelly]{.g}
+{: \paul-kelly : ![PAUL KELLY:] :}
+@@[paul kelly:]{.g}
   paul-kelly-2020-03-26.jpg
 @@
 

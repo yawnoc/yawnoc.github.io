@@ -51,35 +51,35 @@
 
 <## Excerpt images ##>
 
-{: \leigh-sales-2019 : ![LEIGH SALES (2019)] :}
-@@[leigh sales (2019)]{.h}
+{: \leigh-sales-2019 : ![LEIGH SALES (2019):] :}
+@@[leigh sales (2019):]{.h}
   leigh-sales-2019-04-02.jpg
 @@
 
-{: \josh-frydenberg-2019-730 : ![JOSH FRYDENBERG (2019) on 7.30] :}
-@@[josh frydenberg (2019) on 7.30]{.g}
+{: \josh-frydenberg-2019-730 : ![JOSH FRYDENBERG (2019) on 7.30:] :}
+@@[josh frydenberg (2019) on 7.30:]{.g}
   josh-frydenberg-2019-04-02-730.jpg
 @@
 
-{: \david-speers-2019 : ![DAVID SPEERS (2019)] :}
-@@[david speers (2019)]{.h}
+{: \david-speers-2019 : ![DAVID SPEERS (2019):] :}
+@@[david speers (2019):]{.h}
   david-speers-2019-04-02.jpg
 @@
 
-{: \josh-frydenberg-2019-sky : ![JOSH FRYDENBERG (2019) on Sky News] :}
-@@[josh frydenberg (2019) on sky news]{.g}
+{: \josh-frydenberg-2019-sky : ![JOSH FRYDENBERG (2019) on Sky News:] :}
+@@[josh frydenberg (2019) on sky news:]{.g}
   josh-frydenberg-2019-04-02-sky.jpg
 @@
 
 <## Main images ##>
 
-{: \leigh-sales : ![LEIGH SALES] :}
-@@[leigh sales]{.h}
+{: \leigh-sales : ![LEIGH SALES:] :}
+@@[leigh sales:]{.h}
   leigh-sales-2020-03-12.jpg
 @@
 
-{: \josh-frydenberg : ![JOSH FRYDENBERG] :}
-@@[josh frydenberg]{.g}
+{: \josh-frydenberg : ![JOSH FRYDENBERG:] :}
+@@[josh frydenberg:]{.g}
   josh-frydenberg-2020-03-12.jpg
 @@
 

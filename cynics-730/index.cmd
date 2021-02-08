@@ -95,7 +95,7 @@ Brought to you in the safety of Western Australia.
 
 """"{.interview}
 
-![WA Premier Mark McGowan] [Mark McGowan]
+![\/] [Mark McGowan]
 
 ----{.h}
 Don't come. We don't want you.
@@ -104,7 +104,7 @@ Don't come. We don't want you.
 ---~Mark McGowan [(29~March~2020)] [don't come]
 ||||
 
-![WA Health Minister Roger Cook] [Roger Cook]
+![\/] [Roger Cook]
 
 ----{.g}
 If someone wants to challenge that in the High Court, good luck to them.
@@ -139,8 +139,6 @@ I say, you know, fill your boots.
   ](
     2020/sales-kelly-coronavirus
   )
-  
-  (or, Professor Paul Kelly speaking politician-speak)
 
 * [.12~March~2020.]
   [

@@ -143,7 +143,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. \+
 * In animated form ([link to source code]):
   
   ||||{.centred-block}
-    ![Animation for \sun-tzu division: 6561 divided by 9](
+    ![Animation for \sun-tzu division: 6561 divided by 9.](
       /sun-tzu/code/divide-6561-9.gif
     )
   ||||

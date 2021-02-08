@@ -318,19 +318,17 @@ five tou ((斗)) rather than ten tou ((斗)):
 
 ||||{.centred-block}
   ![
-    Image of Ordinance No.~22 of~1844, British Hong Kong.
-    Measures of Grain.
-    w~~
-      Six Suh, 粟 make one 圭 Kwei.
-      Ten Kwei, 圭 make one 撮 Tsoh. (or Pugil.)
-      Ten Tsoh, 撮 make one 抄 Chau. (or Handful.)
-      Ten Chau, 抄 make one 勺 Choh. (or Ladle.)
-      Five Choh, 勺 make one 龠 Yoh. (or Cup.)
-      Two Yoh, 龠 make one 合 Koh. (or Gill.)
-      Ten Koh, 合 make one 升 Shing. (or Pint.)
-      Ten Shing, 升 make one 斗 Taw.
-      Five Taw, 斗 make one 斛 Hoh.
-    ~~
+    Image of Ordinance Number 22 of 1844, British Hong Kong. \
+    Measures of Grain. \
+      Six Suh 粟 make one 圭 Kwei. \
+      Ten Kwei 圭 make one 撮 Tsoh (or Pugil). \
+      Ten Tsoh 撮 make one 抄 Chau (or Handful). \
+      Ten Chau 抄 make one 勺 Choh (or Ladle). \
+      Five Choh 勺 make one 龠 Yoh (or Cup). \
+      Two Yoh 龠 make one 合 Koh (or Gill). \
+      Ten Koh 合 make one 升 Shing (or Pint). \
+      Ten Shing 升 make one 斗 Taw. \
+      Five Taw 斗 make one 斛 Hoh. \
   ](
     ord-1844-no-22-grain.jpg
   )

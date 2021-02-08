@@ -176,20 +176,20 @@ the corresponding SVGs would simply be too time consuming to make.
 
 ||||{.centred-block}
 ![
-  Diagram of equatorial coordinates and the solar year.
+  Diagram of equatorial coordinates and the solar year. \
   The earth lies at the centre of the equatorial coordinate system, \
-  and spins once about its own axis in a day.
-  The equator is in the xy-plane; the north pole is the positive z-axis.
+  and spins once about its own axis in a day. \
+  The equator is in the xy-plane; the north pole is the positive z-axis. \
   The sun goes once around the ecliptic \
-  (relative to the fixed stars) in a solar year.
+  (relative to the fixed stars) in a solar year. \
   The path of the sun, the ecliptic, \
   lies not in the equatorial xy-plane but in the ecliptic plane, \
   which is tilted by tilt tau about the positive x-axis \
-  in a right-handed sense.
+  in a right-handed sense. \
   When the sun crosses the positive x-axis, it is northern spring equinox; \
   above the positive y-axis, northern summer solstice; \
   the negative x-axis, northern autumnal equinox; \
-  below the negative y-axis, northern winter solstice.
+  below the negative y-axis, northern winter solstice. \
 ][
   equatorial coordinates and solar year
 ]
@@ -227,12 +227,12 @@ $xy$-plane by earth's [axial tilt] $\tau = 23\degree \, 26'$.
 
 ||||{.centred-block}
 ![
-  Diagram of equatorial spherical coordinates.
-  r is the distance from the origin, the centre of the earth.
-  theta is the angle from the north pole, the z-axis.
-  phi is the angle east from the x-axis.
+  Diagram of equatorial spherical coordinates. \
+  r is the distance from the origin, the centre of the earth. \
+  theta is the angle from the north pole, the z-axis. \
+  phi is the angle east from the x-axis. \
   Declination delta is the complement of theta, \
-  i.e.~delta and theta sum to a right angle.
+  i.e. delta and theta sum to a right angle. \
 ][
   equatorial coordinates spherical
 ]
@@ -272,11 +272,11 @@ and that $\phi$ is equivalent to the astronomer's [right ascension].
 
 ||||{.centred-block}
 ![
-  Diagram of ecliptic coordinates.
+  Diagram of ecliptic coordinates. \
   The ecliptic coordinate axes (with tildes) are tilted \
   with respect to the equatorial coordinate axes \
   by tilt tau about the positive x-axis, \
-  in a right-handed sense.
+  in a right-handed sense. \
 ][
   ecliptic coordinates
 ]
@@ -466,10 +466,10 @@ where
 
 ||||{.centred-block}
 ![
-  Diagram of the local basis of equatorial spherical coordinate.
-  The r-vector points up,
-  the theta-vector points south,
-  and the phi-vector points east.
+  Diagram of the local basis of equatorial spherical coordinate. \
+  The r-vector points up, \
+  the theta-vector points south, \
+  and the phi-vector points east. \
 ][
   equatorial coordinates spherical basis
 ]
@@ -548,12 +548,12 @@ meaning $\mathrm{atan2} (y, x)$
   \accessible-svg-attributes[tilt-reduced-quantities-diagram]\
 >
   [accessible-svg-title/tilt-reduced-quantities-diagram
-    Fundamental diagram of tilt-reduced quantities.
-    A right-angled triangle with
-      hypotenuse rho (which is the tilt-reduced unit radius),
-      azimuthal angle curly-phi (which is the tilt-reduced year angle),
-      base cos Y (adjacent to curly-phi),
-      and height cos tau sin Y (opposite curly-phi).
+    Fundamental diagram of tilt-reduced quantities. \
+    A right-angled triangle with \
+      hypotenuse rho (which is the tilt-reduced unit radius), \
+      azimuthal angle curly-phi (which is the tilt-reduced year angle), \
+      base cos Y (adjacent to curly-phi), \
+      and height cos tau sin Y (opposite curly-phi). \
   /]
   
   [accessible-svg-content/
@@ -725,11 +725,11 @@ north of the Arctic Circle and south of the Antarctic Circle
 
 ||||{.centred-block}
 ![
-  Diagram of earth's polar regions.
-  Midnight sun and polar night possible
-  where the absolute value of delta exceeds pi on two minus tau.
-  The Arctic Circle is delta equals pi on two minus tau.
-  The Antarctic Circle is delta equals the negative, of pi on two minus tau.
+  Diagram of earth's polar regions. \
+  Midnight sun and polar night possible \
+  where the absolute value of delta exceeds pi on two minus tau. \
+  The Arctic Circle is delta equals pi on two minus tau. \
+  The Antarctic Circle is delta equals the negative, of pi on two minus tau. \
 ][
   polar regions
 ]
@@ -777,11 +777,11 @@ $$
 
 ||||{.centred-block}
 ![
-  Diagram of components of the direction towards the sun.
-  This direction makes an angle alpha to the horizontal plane (the ground).
+  Diagram of components of the direction towards the sun. \
+  This direction makes an angle alpha to the horizontal plane (the ground). \
   After scaling out by the tilt-reduced unit radius rho, \
   the local components of the direction from the observer towards the sun \
-  are U (up), S (south) and E (east).
+  are U (up), S (south) and E (east). \
 ][
   sun components
 ]

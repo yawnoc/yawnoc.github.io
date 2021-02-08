@@ -185,13 +185,12 @@ see [the actual first page of the almanac text][almanac text].
 * 低頭： lowered .[his] head \+
   Being a little child, he had to look up to speak to Confucius;
   having finished speaking he turned his head back down.
-  From the [illustration][almanac text] in the almanac, he then
-  joins in with the building of the wall:
+  The [almanac illustration][almanac text]:
   ||||{.centred-block}
     ![
-      Almanac illustration.
-      A little child with Confucius,
-      before two other children building a wall.
+      A little child talking with Confucius, \
+      accompanied by a disciple of Confucius \
+      looking at two other children building a wall. \
     ](
       almanac-little-child-1-small.jpg
     )

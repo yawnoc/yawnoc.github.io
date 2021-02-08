@@ -55,13 +55,13 @@ nor kiss ye the arses of tyrants. \+
 ## Anthony Albanese discusses the NSW Labor donation scandal. ##
 
 
-{: \leigh-sales : ![LEIGH SALES] :}
-@@[leigh sales]{.h}
+{: \leigh-sales : ![LEIGH SALES:] :}
+@@[leigh sales:]{.h}
   leigh-sales-2019-09-03.jpg
 @@
 
-{: \anthony-albanese : ![ANTHONY ALBANESE] :}
-@@[anthony albanese]{.g}
+{: \anthony-albanese : ![ANTHONY ALBANESE:] :}
+@@[anthony albanese:]{.g}
   anthony-albanese-2019-09-03.jpg
 @@
 

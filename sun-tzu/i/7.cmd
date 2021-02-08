@@ -366,7 +366,7 @@ there are two forms, vertical and horizontal:
         </defs>
         
         [accessible-svg-title/rod-vertical-1-title
-          Rod numeral vertical 1.
+          Rod numeral vertical 1. \
           One vertical rod.
         /]
         [accessible-svg-content/
@@ -379,7 +379,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-vertical-2-title]\
       >
         [accessible-svg-title/rod-vertical-2-title
-          Rod numeral vertical 2.
+          Rod numeral vertical 2. \
           Two vertical rods.
         /]
         [accessible-svg-content/
@@ -391,7 +391,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-vertical-3-title]\
       >
         [accessible-svg-title/rod-vertical-3-title
-          Rod numeral vertical 3.
+          Rod numeral vertical 3. \
           Three vertical rods.
         /]
         [accessible-svg-content/
@@ -403,7 +403,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-vertical-4-title]\
       >
         [accessible-svg-title/rod-vertical-4-title
-          Rod numeral vertical 4.
+          Rod numeral vertical 4. \
           Four vertical rods.
         /]
         [accessible-svg-content/
@@ -415,7 +415,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-vertical-5-title]\
       >
         [accessible-svg-title/rod-vertical-5-title
-          Rod numeral vertical 5.
+          Rod numeral vertical 5. \
           Five vertical rods.
         /]
         [accessible-svg-content/
@@ -427,7 +427,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-vertical-6-title]\
       >
         [accessible-svg-title/rod-vertical-6-title
-          Rod numeral vertical 6.
+          Rod numeral vertical 6. \
           One horizontal rod above one vertical rod, like a T.
         /]
         [accessible-svg-content/
@@ -439,7 +439,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-vertical-7-title]\
       >
         [accessible-svg-title/rod-vertical-7-title
-          Rod numeral vertical 7.
+          Rod numeral vertical 7. \
           One horizontal rod above two vertical rods.
         /]
         [accessible-svg-content/
@@ -451,7 +451,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-vertical-8-title]\
       >
         [accessible-svg-title/rod-vertical-8-title
-          Rod numeral vertical 8.
+          Rod numeral vertical 8. \
           One horizontal rod above three vertical rods.
         /]
         [accessible-svg-content/
@@ -463,7 +463,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-vertical-9-title]\
       >
         [accessible-svg-title/rod-vertical-9-title
-          Rod numeral vertical 9.
+          Rod numeral vertical 9. \
           One horizontal rod above four vertical rods.
         /]
         [accessible-svg-content/
@@ -477,7 +477,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-horizontal-1-title]\
       >
         [accessible-svg-title/rod-horizontal-1-title
-          Rod numeral horizontal 1.
+          Rod numeral horizontal 1. \
           One horizontal rod.
         /]
         [accessible-svg-content/
@@ -489,7 +489,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-horizontal-2-title]\
       >
         [accessible-svg-title/rod-horizontal-2-title
-          Rod numeral horizontal 2.
+          Rod numeral horizontal 2. \
           Two horizontal rods.
         /]
         [accessible-svg-content/
@@ -501,7 +501,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-horizontal-3-title]\
       >
         [accessible-svg-title/rod-horizontal-3-title
-          Rod numeral horizontal 3.
+          Rod numeral horizontal 3. \
           Three horizontal rods.
         /]
         [accessible-svg-content/
@@ -513,7 +513,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-horizontal-4-title]\
       >
         [accessible-svg-title/rod-horizontal-4-title
-          Rod numeral horizontal 4.
+          Rod numeral horizontal 4. \
           Four horizontal rods.
         /]
         [accessible-svg-content/
@@ -525,7 +525,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-horizontal-5-title]\
       >
         [accessible-svg-title/rod-horizontal-5-title
-          Rod numeral horizontal 5.
+          Rod numeral horizontal 5. \
           Five horizontal rods.
         /]
         [accessible-svg-content/
@@ -537,7 +537,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-horizontal-6-title]\
       >
         [accessible-svg-title/rod-horizontal-6-title
-          Rod numeral horizontal 6.
+          Rod numeral horizontal 6. \
           One vertical rod above one horizontal rod, like an upside-down T.
         /]
         [accessible-svg-content/
@@ -549,7 +549,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-horizontal-7-title]\
       >
         [accessible-svg-title/rod-horizontal-7-title
-          Rod numeral horizontal 7.
+          Rod numeral horizontal 7. \
           One vertical rod above two horizontal rods.
         /]
         [accessible-svg-content/
@@ -561,7 +561,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-horizontal-8-title]\
       >
         [accessible-svg-title/rod-horizontal-8-title
-          Rod numeral horizontal 8.
+          Rod numeral horizontal 8. \
           One vertical rod above three horizontal rods.
         /]
         [accessible-svg-content/
@@ -573,7 +573,7 @@ there are two forms, vertical and horizontal:
         \accessible-svg-attributes[rod-horizontal-9-title]\
       >
         [accessible-svg-title/rod-horizontal-9-title
-          Rod numeral horizontal 9.
+          Rod numeral horizontal 9. \
           One vertical rod above four horizontal rods.
         /]
         [accessible-svg-content/
@@ -601,7 +601,9 @@ For example, the number~345 is displayed as
     \accessible-svg-attributes[rod-numerals-345-title]\
   >
     [accessible-svg-title/rod-numerals-345-title
-      Graphic for the number 345 in rod numerals.
+      three vertical rods, \
+      followed by four horizontal rods, \
+      followed by five vertical rods, \
     /]
     [accessible-svg-content/
       <polyline \point points="1,0" \marker:rod-v[3]/>
@@ -609,7 +611,7 @@ For example, the number~345 is displayed as
       <polyline \point points="3,0" \marker:rod-v[5]/>
     /]
   </svg>,
-with vertical form for the hundreds digit~3,
+i.e.~with vertical form for the hundreds digit~3,
 horizontal form for the tens digit~4,
 and vertical form for the units digit~5.
 The alternating between vertical and horizontal forms

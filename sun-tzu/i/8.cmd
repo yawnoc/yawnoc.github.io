@@ -281,10 +281,10 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       </defs>
       
       [accessible-svg-title/rod-numerals-1989-times-64-title
-        Initial arrangement for multiplying 1989 by 64.
+        Initial arrangement for multiplying 1989 by 64. \
         The upper row contains the rod numerals for 1989, \
         and the lower row contains the rod numerals for 64, \
-        where the upper~1 is horizontally aligned with the lower~4.
+        where the upper 1 is horizontally aligned with the lower 4. \
       /]
       
       [accessible-svg-content/
@@ -312,9 +312,9 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       
       [accessible-svg-title/arabic-numerals-1989-times-64-title
         Initial arrangement for multiplying 1989 by 64, \
-          with Arabic numerals instead of rod numerals.
+          with Arabic numerals instead of rod numerals. \
         The upper row contains 1989, and the lower row contains 64, \
-        where the upper~1 is horizontally aligned with the lower~4.
+        where the upper 1 is horizontally aligned with the lower 4. \
       /]
       
       [accessible-svg-content/
@@ -386,7 +386,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
   I have greyed out the finished digits instead of removing them:
   
   ||||{.centred-block}
-    ![Animation for \sun-tzu multiplication: 1989 multiplied by 64](
+    ![Animation for \sun-tzu multiplication: 1989 multiplied by 64.](
       /sun-tzu/code/multiply-1989-64.gif
     )
   ||||
@@ -416,8 +416,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       \accessible-svg-attributes[rod-numeral-vertical-6-title]\
     >
       [accessible-svg-title/rod-numeral-vertical-6-title
-        Graphic for rod numeral vertical 6.
-        One horizontal rod above one vertical rod, like a T.
+        one horizontal rod above one vertical rod, like a T
       /]
       [accessible-svg-content/
         \rod-v[6]
@@ -428,8 +427,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       \accessible-svg-attributes[rod-numeral-horizontal-6-title]\
     >
       [accessible-svg-title/rod-numeral-horizontal-6-title
-        Graphic for rod numeral horizontal 6.
-        One vertical rod above one horizontal rod, like an upside-down T.
+        one vertical rod above one horizontal rod, like an upside-down T
       /]
       [accessible-svg-content/
         \rod-h[6]
@@ -440,8 +438,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       \accessible-svg-attributes[improper-rod-numeral-vertical-6-title]\
     >
       [accessible-svg-title/improper-rod-numeral-vertical-6-title
-        Graphic for improper rod numeral vertical 6.
-        Six vertical rods.
+        six vertical rods
       /]
       [accessible-svg-content/
         <polyline \point points="-0.25,0" \marker:rod-v[1]/>
@@ -457,8 +454,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       \accessible-svg-attributes[improper-rod-numeral-horizontal-6-title]\
     >
       [accessible-svg-title/improper-rod-numeral-horizontal-6-title
-        Graphic for improper rod numeral horizontal 6.
-        Six horizontal rods.
+        six horizontal rods
       /]
       [accessible-svg-content/
         <polyline \point points="0,-0.25" \marker:rod-h[1]/>
@@ -476,8 +472,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       \accessible-svg-attributes[rod-numeral-vertical-5-title]\
     >
       [accessible-svg-title/rod-numeral-vertical-5-title
-        Graphic for rod numeral vertical 5.
-        Five vertical rods.
+        five vertical rods
       /]
       [accessible-svg-content/
         \rod-v[5]
@@ -488,8 +483,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       \accessible-svg-attributes[rod-numeral-horizontal-5-title]\
     >
       [accessible-svg-title/rod-numeral-horizontal-5-title
-        Graphic for rod numeral horizontal 5.
-        Five horizontal rods.
+        five horizontal rods
       /]
       [accessible-svg-content/
         \rod-h[5]
@@ -500,8 +494,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       \accessible-svg-attributes[improper-rod-numeral-vertical-5-title]\
     >
       [accessible-svg-title/improper-rod-numeral-vertical-5-title
-        Graphic for improper rod numeral vertical 5.
-        One horizontal rod above zero vertical rods.
+        one horizontal rod above zero vertical rods
       /]
       [accessible-svg-content/
         <polyline \point points="0,0" \marker:rod-v-g[5]/>
@@ -512,8 +505,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
       \accessible-svg-attributes[improper-rod-numeral-horizontal-5-title]\
     >
       [accessible-svg-title/improper-rod-numeral-horizontal-5-title
-        Graphic for improper rod numeral horizontal 5.
-        One vertical rod above zero horizontal rods.
+        one vertical rod above zero horizontal rods
       /]
       [accessible-svg-content/
         <polyline \point points="0,0" \marker:rod-h-g[5]/>

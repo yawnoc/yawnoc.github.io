@@ -41,7 +41,7 @@ It is played using the standard 32-piece set on half the board
 ----
 
 ||||{.centred-block}
-  ![Starting position for Crowded Xiangqi][starting position]
+  ![Starting position for Crowded Xiangqi.][starting position]
 ||||
 
 @[starting position]{w=360} crowded-xiangqi.png @
