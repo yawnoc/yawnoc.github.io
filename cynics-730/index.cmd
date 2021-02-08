@@ -139,8 +139,6 @@ I say, you know, fill your boots.
   ](
     2020/sales-kelly-coronavirus
   )
-  
-  (or, Professor Paul Kelly speaking politician-speak)
 
 * [.12~March~2020.]
   [
