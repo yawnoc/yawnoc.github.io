@@ -1361,16 +1361,16 @@ and is **never** sounded as a consonant.
 >
   [accessible-svg-title/tone-diagram-title
     Diagram of the nine tones of Cantonese. \
-    Using the pitch numerals 1 to 5 in order of increasing pitch:
-      tone~1 ~~ 陰平 ~~ is level at 5;
-      tone~2 ~~ 陰上 ~~ is rising from 3 to 5;
-      tone~3 ~~ 陰去 ~~ is level at 3;
-      tone~4 ~~ 陽平 ~~ is level at 1;
-      tone~5 ~~ 陽上 ~~ is rising from 2 to 3;
-      tone~6 ~~ 陽去 ~~ is level at 2;
-      tone~7 ~~ 高陰入 ~~ is level at 5 and short;
-      tone~8 ~~ 低陰入 ~~ is level at 3 and short;
-      tone~9 ~~ 陽入 ~~ is level at 2 and short.
+    Using the pitch numerals 1 to 5 in order of increasing pitch: \
+      tone 1 ~~ 陰平 ~~ is level at 5; \
+      tone 2 ~~ 陰上 ~~ is rising from 3 to 5; \
+      tone 3 ~~ 陰去 ~~ is level at 3; \
+      tone 4 ~~ 陽平 ~~ is level at 1; \
+      tone 5 ~~ 陽上 ~~ is rising from 2 to 3; \
+      tone 6 ~~ 陽去 ~~ is level at 2; \
+      tone 7 ~~ 高陰入 ~~ is level at 5 and short; \
+      tone 8 ~~ 低陰入 ~~ is level at 3 and short; \
+      tone 9 ~~ 陽入 ~~ is level at 2 and short. \
   /]
   
   [accessible-svg-content/
