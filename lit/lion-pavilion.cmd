@@ -94,7 +94,7 @@ The inserted punctuation is my own.
   overlooketh southward .[the] great sea,
   .[and is in] far mutual looking northward
   with .[the] many mountains of Kowloon;
-  .[its] ridges .[and] pointed hills .[are] connected .[and] unbroken,
+  .[its] ridges .[and] pointed hills connected .[and] unbroken,
   .[its] woods .[and] trees thriving .[and] flourishing,
   .[and its] sights .[and] scenery absolutely beautiful.
 >>
