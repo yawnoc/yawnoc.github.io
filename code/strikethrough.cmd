@@ -50,7 +50,7 @@ a~~
 
 ||||{.container}
   <noscript>
-    Enable JavaScript for the strikethrough formatter to work.
+    **{.noscript} Enable JavaScript for the strikethrough formatter to work.**
   </noscript>
   a~~ <s id="output"></s> ~~
 ||||

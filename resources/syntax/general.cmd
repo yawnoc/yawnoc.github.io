@@ -108,10 +108,10 @@ p{: \resources :
   ----------------------------------------------------------------
 ##>
 
-Z{:: \noscript:maths ::
-  a~~
-    <noscript>Enable JavaScript for equation rendering to work.</noscript>
-  ~~
+s{:: \noscript:maths ::
+  <noscript>
+    **{.noscript} Enable JavaScript for equation rendering to work.**
+  </noscript>
 ::}
 
 
