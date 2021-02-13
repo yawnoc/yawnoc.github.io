@@ -4,6 +4,9 @@
   %title Termux configuration
   %date-created 2020-10-04
   %date-modified 2020-10-04
+  %footer-remark
+    The above `termux.properties` is released under the
+    [MIT No Attribution (MIT-0) license][MIT-0].
   \resources
 %%
 
@@ -33,3 +36,5 @@ extra-keys = [[ \
   'DEL', 'HOME', 'END' \
 ]]
 ````
+
+%footer-element

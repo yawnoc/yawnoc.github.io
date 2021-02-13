@@ -4,6 +4,9 @@
   %title Git configuration
   %date-created 2020-10-04
   %date-modified 2020-10-04
+  %footer-remark
+    The above `.gitconfig` is released under the
+    [MIT No Attribution (MIT-0) license][MIT-0].
   \resources
 %%
 
@@ -48,3 +51,5 @@ for fewer keystrokes in your workflow:
   shw = show --word-diff
   shd = show --word-diff-regex=.
 ````
+
+%footer-element

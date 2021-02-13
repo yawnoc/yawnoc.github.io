@@ -4,6 +4,9 @@
   %title Chinese font configuration in Linux
   %date-created 2020-10-04
   %date-modified 2020-10-04
+  %footer-remark
+    The above `fonts.conf` is released under the
+    [MIT No Attribution (MIT-0) license][MIT-0].
   \resources
 %%
 
@@ -72,3 +75,5 @@ it will immediately fall back onto \C as desired:
   </alias>
 </fontconfig>
 ````
+
+%footer-element

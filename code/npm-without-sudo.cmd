@@ -4,6 +4,9 @@
   %title Install npm packages globally without sudo
   %date-created 2020-12-27
   %date-modified 2020-12-27
+  %footer-copyright-remark
+    except the quoted content,
+    which is ©~Michael Bethencourt 2020 [CC-BY-SA][cc]
   \resources
 %%
 
@@ -78,3 +81,6 @@ Don't forget to `source ~/.bashrc` (or restart the terminal).
 @[sindre]
   https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md
 @
+
+
+%footer-element
