@@ -32,7 +32,7 @@
 <div class="page-properties">
 Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/pinebook-pro.cmd">code/pinebook-pro.cmd</a><br>
 First created: 2020-06-15<br>
-Last modified: 2020-12-16
+Last modified: 2021-02-14
 </div>
 <p>
 A step-by-step record of
@@ -408,10 +408,23 @@ No cookies appears to be the default now.
 <p>
 Then <a href="chinese-font">set the preferred font using <code>fonts.conf</code></a>.
 </p>
+<h2 id="audio"><a class="permalink" href="#audio" aria-label="Permalink"></a>Audio</h2>
+<pre><code>$ sudo apt install alsa-utils
+$ sudo apt install pavucontrol
+</code></pre>
+<p>
+To get the microphone to work,
+install <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/asound.state"><code>asound.state</code></a>,
+which is a quieter version
+of a <a href="https://gitlab.manjaro.org/manjaro-arm/packages/community/pinebookpro-post-install/-/blob/9e9465d875/asound.state">Manjaro post-install <code>asound.state</code></a>:
+</p>
+<pre><code>$ sudo install -Dm644 asound.state /var/lib/alsa/
+$ sudo alsactl nrestore
+</code></pre>
 <h2 id="cite"><a class="permalink" href="#cite" aria-label="Permalink"></a>Cite this page</h2>
 <h3>Text</h3>
 <p>
-Conway&nbsp;(2020).
+Conway&nbsp;(2021).
 Debian on Pinebook Pro via Daniel's installer.
 &lt;https://yawnoc.github.io/code/pinebook-pro&gt;
 Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
@@ -419,7 +432,7 @@ Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
 <h3>BibTeX</h3>
 <pre><code>@misc{conway-pinebook-pro,
   author = {Conway},
-  year = {2020},
+  year = {2021},
   title = {{Debian} on {Pinebook} {Pro} via {Daniel's} installer},
   howpublished = {\url{https://yawnoc.github.io/code/pinebook-pro}},
   note = {Accessed~<span class="js-date">yyyy-mm-dd</span>},
@@ -428,7 +441,7 @@ Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
 <h3>BibLaTeX</h3>
 <pre><code>@online{conway-pinebook-pro,
   author = {Conway},
-  year = {2020},
+  year = {2021},
   title = {{Debian} on {Pinebook} {Pro} via {Daniel's} installer},
   url = {https://yawnoc.github.io/code/pinebook-pro},
   urldate = {<span class="js-date">yyyy-mm-dd</span>},
@@ -436,7 +449,7 @@ Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
 </code></pre>
 <script>document.addEventListener("DOMContentLoaded",function(){renderDate()})</script>
 <footer>
-©&nbsp;2020&nbsp;Conway.
+©&nbsp;2020–2021&nbsp;Conway.
 </footer>
 </body>
 </html>

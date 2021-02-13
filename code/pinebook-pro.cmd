@@ -3,7 +3,7 @@
 %%
   %title Debian on Pinebook Pro via Daniel's installer
   %date-created 2020-06-15
-  %date-modified 2020-12-16
+  %date-modified 2021-02-14
   \resources:rendering
 %%
 
@@ -456,6 +456,34 @@ $ sudo apt install fonts-noto-cjk
 ----
 Then [set the preferred font using `fonts.conf`](chinese-font).
 ----
+
+
+##{#audio}
+  Audio
+##
+
+````
+$ sudo apt install alsa-utils
+$ sudo apt install pavucontrol
+````
+
+----
+To get the microphone to work,
+install [`asound.state`][asound.state],
+which is a quieter version
+of a [Manjaro post-install `asound.state`][manjaro asound.state]:
+----
+````
+$ sudo install -Dm644 asound.state /var/lib/alsa/
+$ sudo alsactl nrestore
+````
+@@[asound.state]
+  https://github.com/yawnoc/yawnoc.github.io/blob/master/code/asound.state
+@@
+@@[manjaro asound.state]
+  https://gitlab.manjaro.org/manjaro-arm/packages/community/\
+    pinebookpro-post-install/-/blob/9e9465d875/asound.state
+@@
 
 
 \cite-this-page[][pinebook-pro][
