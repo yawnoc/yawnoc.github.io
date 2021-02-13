@@ -12,8 +12,8 @@ state.rockchipes8316c {
 	control.2 {
 		iface MIXER
 		name 'Headphone Playback Volume'
-		value.0 2
-		value.1 2
+		value.0 0
+		value.1 0
 		comment {
 			access 'read write'
 			type INTEGER
