@@ -10,7 +10,7 @@
     "Record of [the] Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2021-02-08
+  %date-modified 2021-02-27
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -47,7 +47,7 @@ This is a semi-literary text on a plaque in the Lion's Pavilion,
 [Victoria Peak], Hong~Kong.
 Unfortunately I did not photograph the left half of the plaque.
 From memory it contained a list of names of contributors to the funding
-(referred to in the text as 諸君子, ".[the] many gentlemen"),
+(referred to in the text as 諸君子, "all .[the] gentlemen"),
 but no mention of the author.
 ----
 
@@ -92,19 +92,14 @@ The inserted punctuation is my own.
   Victoria Peak, .[in] antiquity referred to .[as]
   .[the] Peak of the Great Sea-Turtle,
   overlooketh southward .[the] great sea,
-  .[and is in] far mutual looking northward
-  with .[the] many mountains of Kowloon;
-  .[its] ridges .[and] pointed hills connected .[and] unbroken,
-  .[its] woods .[and] trees thriving .[and] flourishing,
-  .[and its] sights .[and] scenery absolutely beautiful.
+  .[and] distantly looketh northward at each other
+  with .[the] various mountains of Kowloon;
+  .[its] ridge hills connected .[and] unbroken,
+  .[its] forest trees luxuriant .[and] flourishing,
+  .[and its] scenic views absolutely beautiful.
 >>
 ====
 * 太平山： Victoria Peak； \lit Mount~Tranquility; \or Mount~Peace
-
-* 臨：居高臨下；臨，視也； overlooketh
-
-* 蔚：茂也； thriving; \or flourishing \+
-  蔚，音尉， \C wai3, w(e\)i
 ====
 
 <<
@@ -112,7 +107,7 @@ The inserted punctuation is my own.
 ||
   We .[the] Lions Club, built .[the] Pavilion
   to .[the] side of Findlay~Path,
-  being one main Pavilion, .[and] five fore Pavilions,
+  being main pavilion one, .[and] fore pavilions five,
   like .[the] North Star abiding in .[the] centre,
   with .[the] Five Planets going round it.
 >>
@@ -120,17 +115,16 @@ The inserted punctuation is my own.
 * 居： abiding in; \or dwelling in
 
 * 五星： .[the] Five Planets \+
-  These are 金木水火土,
-  i.e.~Venus, Jupiter, Mercury, Mars, and Saturn respectively.
+  金木水火土, i.e.~Venus, Jupiter, Mercury, Mars, and Saturn.
 
-* 拱，拱翊，環衛也： going round \+
+* 拱： going round \+
   The line 如北辰居中，而五星拱之 is a nod to Confucius
   in [《論語\.為政》](https://ctext.org/analects/wei-zheng):
   <<
     子曰：為政以德，譬如北辰，居其所而眾星共之。
   ||
     .[The] Master saith,
-    .[He who] governeth by virtue,
+    .[He who] governeth with virtue,
     .[is] likened unto .[the] North Star, abiding in its place with
     .[the] multitude of stars going round it.
   >>
@@ -145,30 +139,18 @@ The inserted punctuation is my own.
   all .[were] made according unto the olden.
 >>
 ====
-* 楹：柱也； columns \+
-  楹，以成切， \C ying4, \M y(i/)ng
-
-* 畫： drawing-.[decorated] \+
-  畫，去聲， \C waa6, \M hu(a\)
-
-* 檻： balustrades \+
-  檻，音艦， \C laam6, \M ji(a\)n
-
-* 月門：
-    [Moon Gate](https://en.wikipedia.org/wiki/Moon_gate)
+* 月門： [Moon Gate](https://en.wikipedia.org/wiki/Moon_gate)
 ====
 
 <<
   春秋佳日，中西人士聨翩蒞止，登斯亭也。
 ||
-  .[On a] good spring .[or] autumn day,
+  .[On a] goodly spring .[or] autumn day,
   .[both] Chinese .[and] Western people continuously flock .[here to] attend,
   ascending this Pavilion.
 >>
 ====
-* 聨翩：翩，疾飛也； continuously flock; \lit rapidly fly together \+
-  翩，音篇， \C p'een1, \M pi(a-)n \+
-  "Flock" preserves the connotation with bird flight.
+* 聨翩： continuously flock; \lit rapidly fly together
 ====
 
 <<
@@ -176,25 +158,19 @@ The inserted punctuation is my own.
 ||
   .[One] can look down .[and] overlook .[the] two banks,
   southern .[and] northern, of Victoria~Harbour:
-  between them .[the] morning sunshine .[and the] even darkness,
-  .[and the] clear light .[and the] rainy hues,
-  .[undergo a] thousand changes .[and a] myriad tranformations,
+  between them .[the] morning sunshine .[and the] even shade,
+  .[the] clear light .[and the] rainy hues,
+  .[undergo] .[a] thousand changes .[and a] myriad tranformations,
   as .[in] paintings .[and] drawings.
 >>
 ====
-* 瞰：視也；又俯視曰瞰； overlook; \or look at \+
-  瞰，音磡， \C ham3, \M k(a\)n
-
 * 晴： clear; \or fine
-
-* 殆 \+
-  Speech-assist I think.
 ====
 
 <<
   山中復有竒花異草可以觀賞，幽泉怪石可以遊遨。
 ||
-  Amidst .[the] mountain there are also odd flowers .[and] strange grasses
+  Amidst .[the] mount there are also odd flowers .[and] strange grasses
   .[one] can see .[and] appreciate,
   .[and] secluded springs .[and] strange rocks
   .[one] can tour .[and] roam.
@@ -209,12 +185,11 @@ The inserted punctuation is my own.
   而遠近松風，又如笙竽合奏，耳目所接，無一而不足快。亦遊息之佳所也。
 ||
   And .[the] far .[and] nearby pine-tree wind,
-  .[is] also like the sh(e^)ng ((笙)) .[and] the y(u") ((竽))
+  .[is] also as the sh(e^)ng ((笙)) .[and] the y(u") ((竽))
   playing .[in] ensemble;
-  .[among] that which the ear .[and] the eye receiveth,
-  not one .[thing] .[is] not sufficient .[to] please.
-  .[It is] also .[a] good place .[for]
-  travel .[and] rest.
+  .[among] that which the ear .[and] the eye receive,
+  not one .[thing] .[is] not sufficient .[and] pleasing.
+  .[It is] also .[a] goodly place .[for] travel .[and] rest.
 >>
 ====
 * 笙： sh(e^)ng \+
@@ -241,9 +216,9 @@ The inserted punctuation is my own.
 <<
   洪磋景、福伯齡，先後任會長，與諸君子規畫其事，蒙當局撥地興工。
 ||
-  Hung Ts'or-king ((洪磋景)), .[and] Fook Pak-ling ((福伯齡)),
+  Hung Tsor-king ((洪磋景)), .[and] Fook Pak-ling ((福伯齡)),
   served as Club Chairman .[one] after .[the] other,
-  .[and] planned those matters with .[the] many gentlemen,
+  .[and] planned those matters with all .[the] gentlemen,
   .[and] received from .[the] local authority
   .[an] allocation of land .[with which to] begin work.
 >>
@@ -254,17 +229,17 @@ The inserted punctuation is my own.
 <<
   而形制則前會長百强則師，任之不受酬。其建築布置諸費，凡共五十萬元。
 ||
-  And .[of designing the] form .[and] structure,
-  .[the] former Club Chairman Pak-k'eung ((百强)) .[the] architect
+  And .[of designing] .[the] form .[and] structure,
+  .[the] former Club Chairman Pak-keung ((百强)) .[the] architect
   served it not receiving payment.
-  Its various construction .[and] arrangement costs,
-  altogether totalled five hundred thousand dollars.
+  Its various construction .[and] furnishing costs,
+  totalled altogether five hundred thousand dollars.
 >>
 ====
-* 百强： Pak-k'eung \+
+* 百强： Pak-keung \+
   The name of the architect.
   According to [a separate plaque]
-  his full name is Ch'an Pak-k'eung ((陳百强)).
+  his full name is Chan Pak-keung ((陳百强)).
   I have no idea why he is referred to by first name only.
   Note that he shares the same full name with [Danny Chan] (1958--1993).
   
@@ -287,19 +262,12 @@ The inserted punctuation is my own.
 <<
   以一九七六年九月落成，是月三日，由市政局沙利士主席行接收禮。
 ||
-  .[It was] completed in September of .[the] year 1976,
-  .[and on the] 3rd day of this month,
+  In September of .[the] year 1976 .[was it] completed,
+  .[and on] .[the] 3rd day of this month,
   .[the] ceremony of receiving .[was] performed by
   Chairman Sales of .[the] Urban Council.
 >>
 ====
-* 市政局：
-    [Urban Council](https://en.wikipedia.org/wiki/Urban_Council);
-    \lit City Administration Department \+
-  Disbanded post 1997,
-  in favour of new bodies appointed by the government
-  rather than elected by citizens.
-
 * 沙利士： Sales \+
   [Arnaldo de~Oliveira Sales](
     https://en.wikipedia.org/wiki/Arnaldo_de_Oliveira_Sales
@@ -309,17 +277,12 @@ The inserted punctuation is my own.
 <<
   吾聞獅子得金精之剛，聲吼如雷，天地皆動。
 ||
-  I hear .[that the] lion getteth
-  .[the] strength of .[the] essence of metal;
-  .[its] sounds .[and] roars .[are] like thunder:
-  all Heaven .[and] Earth .[are] moved .[by it].
+  I hear .[that] the lion getteth
+  .[the] strength of .[the] essence of metal,
+  .[its] sounds .[and] roars as thunder:
+  all Heaven .[and] Earth .[are] moved.
 >>
 ====
-* 金精： .[the] essence of metal \+
-  Perhaps "essence of .[the] west",
-  since metal~(金) is the element associated with
-  the cardinal direction west.
-
 * 剛： strength; \or toughness
 ====
 
@@ -327,32 +290,25 @@ The inserted punctuation is my own.
   今兹之舉，賴諸君子如響斯應，相輔相成，其力不啻雄獅。
 ||
   .[This] deed here .[and] now,
-  dependeth upon .[the] many gentlemen
-  .[having as quickly] as .[an] echo responded,
-  mutually assisting .[and] mutually fulfilling,
-  their efforts no less than .[the] mighty lion's.
+  dependeth upon all .[the] gentlemen
+  .[having] .[as quickly] as .[an] echo responded,
+  assisting each other .[and] fulfilling each other,
+  their efforts no less than the mighty lion's.
 >>
 ====
-* 舉： deed; \or .[commendable] action
-
 * 力： efforts; \lit strength
-
-* 啻： less than; \lit only; \or merely \+
-  啻，音翅， \C [^ch']ee3 (\pm [_ts']ee3), \M ch(i\)
 ====
 
 <<
   尤望來遊者，亦步健神旺，顧盼自如，而與獅子同也。
 ||
-  .[I] especially hope .[for the] traveller .[who] cometh,
-  .[to] also .[have a] robust step .[and an] energetic spirit,
-  looking back .[and] looking forward
-  according unto .[his] own .[will],
+  .[I] especially hope .[that] the traveller .[who] cometh,
+  also .[be] robust .[in] step .[and] vigorous .[in] spirit,
+  looking back .[and] forward at .[his] own .[will],
   and .[be the] same as .[a] lion.
 >>
 ====
 * 望： hope; \or wish
-
 * 神： spirit; \or mind
 ====
 

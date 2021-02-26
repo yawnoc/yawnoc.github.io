@@ -91,7 +91,7 @@ color: var(--colour-v);
 <div class="page-properties">
 Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/lexicon.cmd">lexicon.cmd</a><br>
 First created: 2020-08-05<br>
-Last modified: 2021-02-08
+Last modified: 2021-02-27
 </div>
 <nav>
 <ul class="radical-strokes">
@@ -140,22 +140,7 @@ which I have rendered into English somewhere amidst my translations.
 Compiling a dictionary takes a lot of work.
 <strong>This lexicon is not a dictionary:</strong>
 the listings of meanings, parts of speech, and pronunciations
-are not complete, nor could they ever be;
-<strong>neither is this lexicon a concordance:</strong>
-the entries are not indexed to my translations.
-</p>
-<p>
-Sorting Chinese characters is a nightmare.
-<a href="https://en.wikipedia.org/wiki/Kangxi_Dictionary">K'ang-hi's dictionary</a> uses radical-stroke,
-but amongst characters with the <em>same</em> radical &amp; number of strokes
-the ordering appears to be completely arbitrary.
-Unicode has a <a href="https://www.unicode.org/reports/tr38/#SortingAlgorithm">sorting algorithm</a>
-which assigns each character a collation key by
-Radical &gt; Strokes &gt; First residual stroke &gt; Simplified &gt; Block &gt; Code point,
-but here I simply sort by Radical &gt; Strokes &gt; Code point.
-</p>
-<p>
-See also: <a href="https://www.unicode.org/charts/unihanrsindex.html">Unihan Radical-Stroke Index</a>
+are not complete, nor could they ever be.
 </p>
 <h2 id="1"><a class="permalink" href="#1" aria-label="Permalink"></a>1-stroke radicals</h2>
 <nav>
@@ -180,7 +165,7 @@ See also: <a href="https://www.unicode.org/charts/unihanrsindex.html">Unihan Rad
 <span class="character"><span lang="zh-Hant">一</span></span>
 <span class="code-point">U+4E00</span></h4>
 <ul>
-<li>one; unity; first
+<li>one; first
 </li>
 <li>same
 </li>
@@ -210,23 +195,25 @@ See also: <a href="https://www.unicode.org/charts/unihanrsindex.html">Unihan Rad
 <span class="code-point">U+4E0A</span></h4>
 <h5><span class="tone"><span lang="zh-Hant">上聲</span></span></h5>
 <ul>
-<li><span class="type">[verb]</span> go up; rise [but <span lang="zh-Hant">去聲</span> in Mandarin]
+<li><span class="type">[verb]</span> go up [but <span lang="zh-Hant">去聲</span> in Mandarin]
+</li>
+<li><span class="type">[verb]</span> offer up [but <span lang="zh-Hant">去聲</span> in Mandarin]
 </li>
 <li><span class="type">[tone]</span> rising
 </li>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
 <ul>
-<li><span class="type">[non-verb]</span> upper; above
+<li><span class="type">[non-verb]</span> up(ward); upper; above; superior
 </li>
 </ul>
 <h4 id="下"><a class="permalink" href="#下" aria-label="Permalink"></a><span class="residual-strokes">2</span>
 <span class="character"><span lang="zh-Hant">下</span></span>
 <span class="code-point">U+4E0B</span></h4>
 <ul>
-<li>go down; descend
+<li>go down
 </li>
-<li>lower; below
+<li>down(ward); lower; below; inferior
 </li>
 </ul>
 <h4 id="不"><a class="permalink" href="#不" aria-label="Permalink"></a><span class="residual-strokes">3</span>
@@ -250,7 +237,7 @@ See also: <a href="#逝"><span lang="zh-Hant">逝世</span></a>
 <span class="character"><span lang="zh-Hant">两</span></span>
 <span class="code-point">U+4E24</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#兩"><span lang="zh-Hant">兩</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#兩"><span lang="zh-Hant">兩</span></a>}
 </li>
 </ul>
 <h3 id="line"><a class="permalink" href="#line" aria-label="Permalink"></a><span lang="zh-Hant">⼁</span> (line)
@@ -260,12 +247,12 @@ See also: <a href="#逝"><span lang="zh-Hant">逝世</span></a>
 <span class="code-point">U+4E2D</span></h4>
 <h5><span class="tone"><span lang="zh-Hant">平聲</span></span></h5>
 <ul>
-<li>centre; middle; midst; amidst
+<li>centre; middle; (a)midst
 </li>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
 <ul>
-<li>hit (a target)
+<li>hit {a target}
 </li>
 </ul>
 <h3 id="dot"><a class="permalink" href="#dot" aria-label="Permalink"></a><span lang="zh-Hant">⼂</span> (dot)
@@ -300,7 +287,7 @@ See also: <a href="#逝"><span lang="zh-Hant">逝世</span></a>
 </li>
 <li><span class="type">[speech-assist]</span>
 </li>
-<li>(auxiliary) do
+<li>{auxiliary} do
 </li>
 </ul>
 <h4 id="之"><a class="permalink" href="#之" aria-label="Permalink"></a><span class="residual-strokes">3</span>
@@ -309,9 +296,9 @@ See also: <a href="#逝"><span lang="zh-Hant">逝世</span></a>
 <ul>
 <li>go
 </li>
-<li>this; these
+<li>this
 </li>
-<li>him; it; them
+<li>{generic} him; it
 </li>
 <li>of
 </li>
@@ -347,7 +334,9 @@ See also: <a href="#逝"><span lang="zh-Hant">逝世</span></a>
 <span class="character"><span lang="zh-Hant">事</span></span>
 <span class="code-point">U+4E8B</span></h4>
 <ul>
-<li>matter; incident; event; thing
+<li>thing; matter
+</li>
+<li>incident; event
 </li>
 <li>serve
 </li>
@@ -436,7 +425,7 @@ See also: <a href="#逝"><span lang="zh-Hant">逝世</span></a>
 <span class="character"><span lang="zh-Hant">人</span></span>
 <span class="code-point">U+4EBA</span></h4>
 <ul>
-<li>(gender-neutral) man; human
+<li>{generic} man; human
 </li>
 <li>another; others
 </li>
@@ -454,9 +443,17 @@ See also: <a href="#逝"><span lang="zh-Hant">逝世</span></a>
 <span class="character"><span lang="zh-Hant">以</span></span>
 <span class="code-point">U+4EE5</span></h4>
 <ul>
-<li>use; by; with; to; in
+<li>use; by; with; to
 </li>
 <li>think; believe
+</li>
+<li>according unto
+</li>
+<li>reason; because (of)
+</li>
+<li>thus
+</li>
+<li>in
 </li>
 </ul>
 <ul>
@@ -470,7 +467,7 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <span class="character"><span lang="zh-Hant">任</span></span>
 <span class="code-point">U+4EFB</span></h4>
 <ul>
-<li>burden; bear; serve (a role)
+<li>burden; bear; serve {a role}
 </li>
 <li>responsibility; charge
 </li>
@@ -486,13 +483,13 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <span class="character"><span lang="zh-Hant">何</span></span>
 <span class="code-point">U+4F55</span></h4>
 <ul>
-<li>what; how; why; wherefore
+<li>what; how; why
 </li>
 </ul>
 <ul>
 <li><span lang="zh-Hant">何</span><a href="#如"><span lang="zh-Hant">如</span></a><span lang="zh-Hant">：</span> what of <i class="translator-supplied">it</i>
 </li>
-<li><a href="#如"><span lang="zh-Hant">如</span></a><span lang="zh-Hant">何：</span> how; what <i class="translator-supplied">be</i>
+<li><a href="#如"><span lang="zh-Hant">如</span></a><span lang="zh-Hant">何：</span> how; <span class="alternative-marker">met.</span> what sayest <i class="translator-supplied">thou</i>
 </li>
 </ul>
 <h4 id="作"><a class="permalink" href="#作" aria-label="Permalink"></a><span class="residual-strokes">5</span>
@@ -510,7 +507,7 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <span class="character"><span lang="zh-Hant">佳</span></span>
 <span class="code-point">U+4F73</span></h4>
 <ul>
-<li>good; beautiful
+<li>goodly
 </li>
 </ul>
 <h4 id="使"><a class="permalink" href="#使" aria-label="Permalink"></a><span class="residual-strokes">6</span>
@@ -583,14 +580,16 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <ul>
 <li>fake; false
 </li>
-<li>borrow; feign; falsely assume
+<li>feign
+</li>
+<li>borrow
 </li>
 <li>suppose; if
 </li>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
 <ul>
-<li>rest; holiday
+<li>rest
 </li>
 </ul>
 <h4 id="健"><a class="permalink" href="#健" aria-label="Permalink"></a><span class="residual-strokes">9</span>
@@ -655,7 +654,7 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <span class="code-point">U+5171</span></h4>
 <h5><span class="tone"><span lang="zh-Hant">上聲</span></span></h5>
 <ul>
-<li>(<span class="alternative-marker">int.</span> <a href="#拱"><span lang="zh-Hant">拱</span></a>)
+<li>{<span class="alternative-marker">int.</span> <a href="#拱"><span lang="zh-Hant">拱</span></a>}
 </li>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
@@ -676,11 +675,21 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <span class="character"><span lang="zh-Hant">其</span></span>
 <span class="code-point">U+5176</span></h4>
 <ul>
-<li>his; its; their
+<li>{generic} his; its
 </li>
-<li>he; it; they
+<li>{generic} he; it; that
 </li>
-<li>them; those
+<li>thereof
+</li>
+<li>likely
+</li>
+<li>let
+</li>
+<li>how
+</li>
+<li>if
+</li>
+<li><span class="type">[conjunction]</span> or
 </li>
 <li><span class="type">[speech-assist]</span>
 </li>
@@ -689,7 +698,7 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <span class="character"><span lang="zh-Hant">兹</span></span>
 <span class="code-point">U+5179</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#茲"><span lang="zh-Hant">茲</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#茲"><span lang="zh-Hant">茲</span></a>}
 </li>
 </ul>
 <h3 id="down-box"><a class="permalink" href="#down-box" aria-label="Permalink"></a><span lang="zh-Hant">⼌</span> (down-box)
@@ -715,7 +724,7 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <span class="character"><span lang="zh-Hant">凢</span></span>
 <span class="code-point">U+51E2</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#凡"><span lang="zh-Hant">凡</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#凡"><span lang="zh-Hant">凡</span></a>}
 </li>
 </ul>
 <h3 id="open-box"><a class="permalink" href="#open-box" aria-label="Permalink"></a><span lang="zh-Hant">⼐</span> (open-box)
@@ -724,7 +733,7 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <span class="character"><span lang="zh-Hant">出</span></span>
 <span class="code-point">U+51FA</span></h4>
 <ul>
-<li>go out; out; exit
+<li>(go) out; exit
 </li>
 <li>send forth
 </li>
@@ -741,7 +750,7 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 </li>
 <li>system
 </li>
-<li><span class="alternative-marker">var.</span> <a href="#製"><span lang="zh-Hant">製</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#製"><span lang="zh-Hant">製</span></a>}
 </li>
 </ul>
 <h4 id="前"><a class="permalink" href="#前" aria-label="Permalink"></a><span class="residual-strokes">7</span>
@@ -814,7 +823,7 @@ See also: <a href="#可"><span lang="zh-Hant">可以</span></a>
 <span class="character"><span lang="zh-Hant">北</span></span>
 <span class="code-point">U+5317</span></h4>
 <ul>
-<li>north
+<li>north(ward)
 </li>
 </ul>
 <p>
@@ -844,7 +853,7 @@ See also: <a href="#方"><span lang="zh-Hant">北方</span></a>
 <span class="character"><span lang="zh-Hant">南</span></span>
 <span class="code-point">U+5357</span></h4>
 <ul>
-<li>south
+<li>south(ward)
 </li>
 </ul>
 <h3 id="divination"><a class="permalink" href="#divination" aria-label="Permalink"></a><span lang="zh-Hant">⼘</span> (divination)
@@ -862,6 +871,8 @@ See also: <a href="#方"><span lang="zh-Hant">北方</span></a>
 <span class="code-point">U+53C8</span></h4>
 <ul>
 <li>and; also
+</li>
+<li>again
 </li>
 </ul>
 <h4 id="及"><a class="permalink" href="#及" aria-label="Permalink"></a><span class="residual-strokes">2</span>
@@ -1015,7 +1026,7 @@ See also: <a href="#奏"><span lang="zh-Hant">合奏</span></a>
 <span class="character"><span lang="zh-Hant">吾</span></span>
 <span class="code-point">U+543E</span></h4>
 <ul>
-<li>I; we
+<li>I
 </li>
 </ul>
 <h4 id="命"><a class="permalink" href="#命" aria-label="Permalink"></a><span class="residual-strokes">5</span>
@@ -1024,11 +1035,11 @@ See also: <a href="#奏"><span lang="zh-Hant">合奏</span></a>
 <ul>
 <li>command; order; mandate
 </li>
-<li>life
-</li>
 <li>fate; will <i class="translator-supplied">of heaven</i>
 </li>
 <li><span class="type">[verb]</span> name
+</li>
+<li>life
 </li>
 </ul>
 <h4 id="問"><a class="permalink" href="#問" aria-label="Permalink"></a><span class="residual-strokes">8</span>
@@ -1051,7 +1062,7 @@ See also: <a href="#奏"><span lang="zh-Hant">合奏</span></a>
 <span class="character"><span lang="zh-Hant">嗜</span></span>
 <span class="code-point">U+55DC</span></h4>
 <ul>
-<li>like; <i class="translator-supplied">be</i> fond of
+<li><span class="type">[verb]</span> like
 </li>
 </ul>
 <h3 id="enclosure"><a class="permalink" href="#enclosure" aria-label="Permalink"></a><span lang="zh-Hant">⼞</span> (enclosure)
@@ -1112,7 +1123,7 @@ See also: <a href="#詩"><span lang="zh-Hant">詩士</span></a>
 <span class="character"><span lang="zh-Hant">夕</span></span>
 <span class="code-point">U+5915</span></h4>
 <ul>
-<li>even (evening)
+<li>even {evening}
 </li>
 </ul>
 <h3 id="big"><a class="permalink" href="#big" aria-label="Permalink"></a><span lang="zh-Hant">⼤</span> (big)
@@ -1128,7 +1139,7 @@ See also: <a href="#詩"><span lang="zh-Hant">詩士</span></a>
 <span class="character"><span lang="zh-Hant">天</span></span>
 <span class="code-point">U+5929</span></h4>
 <ul>
-<li>heaven; sky
+<li>heaven
 </li>
 </ul>
 <h4 id="太"><a class="permalink" href="#太" aria-label="Permalink"></a><span class="residual-strokes">1</span>
@@ -1146,12 +1157,12 @@ See also: <a href="#平"><span lang="zh-Hant">太平</span></a>
 <span class="code-point">U+5947</span></h4>
 <h5><span class="tone"><span lang="zh-Hant">陰平</span></span></h5>
 <ul>
-<li>odd (not even)
+<li>odd {opposite of even}
 </li>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">陽平</span></span></h5>
 <ul>
-<li>odd (strange)
+<li>odd {strange}
 </li>
 </ul>
 <h4 id="奏"><a class="permalink" href="#奏" aria-label="Permalink"></a><span class="residual-strokes">6</span>
@@ -1160,7 +1171,7 @@ See also: <a href="#平"><span lang="zh-Hant">太平</span></a>
 <ul>
 <li>report
 </li>
-<li>play (music)
+<li>play {music}
 </li>
 </ul>
 <ul>
@@ -1237,7 +1248,7 @@ See also: <a href="#戲"><span lang="zh-Hant">嬉戲</span></a>
 <ul>
 <li>child; son; daughter
 </li>
-<li>master (teacher); <span class="alternative-marker">met.</span> thou
+<li>master {teacher}; <span class="alternative-marker">met.</span> thou
 </li>
 </ul>
 <p>
@@ -1373,14 +1384,14 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <span class="character"><span lang="zh-Hant">峰</span></span>
 <span class="code-point">U+5CF0</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#峯"><span lang="zh-Hant">峯</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#峯"><span lang="zh-Hant">峯</span></a>}
 </li>
 </ul>
 <h4 id="巒"><a class="permalink" href="#巒" aria-label="Permalink"></a><span class="residual-strokes">19</span>
 <span class="character"><span lang="zh-Hant">巒</span></span>
 <span class="code-point">U+5DD2</span></h4>
 <ul>
-<li>pointed hill; unbroken <i class="translator-supplied">and</i> connected hills
+<li>pointed-hill; unbroken-hills
 </li>
 </ul>
 <h3 id="river"><a class="permalink" href="#river" aria-label="Permalink"></a><span lang="zh-Hant">⼮</span> (river)
@@ -1400,7 +1411,7 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <span class="character"><span lang="zh-Hant">己</span></span>
 <span class="code-point">U+5DF1</span></h4>
 <ul>
-<li>oneself; himself
+<li>oneself; {generic} himself
 </li>
 </ul>
 <h4 id="已"><a class="permalink" href="#已" aria-label="Permalink"></a><span class="residual-strokes">0</span>
@@ -1676,7 +1687,7 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <span class="character"><span lang="zh-Hant">悉</span></span>
 <span class="code-point">U+6089</span></h4>
 <ul>
-<li>know (to learn of)
+<li>know
 </li>
 <li>all
 </li>
@@ -1709,7 +1720,7 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <span class="character"><span lang="zh-Hant">我</span></span>
 <span class="code-point">U+6211</span></h4>
 <ul>
-<li>I; we
+<li>I
 </li>
 </ul>
 <h4 id="戰"><a class="permalink" href="#戰" aria-label="Permalink"></a><span class="residual-strokes">12</span>
@@ -1754,7 +1765,7 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <span class="character"><span lang="zh-Hant">拱</span></span>
 <span class="code-point">U+62F1</span></h4>
 <ul>
-<li>clasp hands (respectful gesture)
+<li>clasp hands {respectful gesture}
 </li>
 <li>go round
 </li>
@@ -1773,13 +1784,6 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <span class="code-point">U+63A5</span></h4>
 <ul>
 <li>receive
-</li>
-</ul>
-<h4 id="撥"><a class="permalink" href="#撥" aria-label="Permalink"></a><span class="residual-strokes">12</span>
-<span class="character"><span lang="zh-Hant">撥</span></span>
-<span class="code-point">U+64A5</span></h4>
-<ul>
-<li>allocate
 </li>
 </ul>
 <h3 id="branch"><a class="permalink" href="#branch" aria-label="Permalink"></a><span lang="zh-Hant">⽀</span> (branch)
@@ -1814,7 +1818,7 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <span class="character"><span lang="zh-Hant">敎</span></span>
 <span class="code-point">U+654E</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#教"><span lang="zh-Hant">教</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#教"><span lang="zh-Hant">教</span></a>}
 </li>
 </ul>
 <h4 id="教"><a class="permalink" href="#教" aria-label="Permalink"></a><span class="residual-strokes">7</span>
@@ -1863,6 +1867,8 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <ul>
 <li>this
 </li>
+<li>then
+</li>
 <li><span class="type">[speech-assist]</span>
 </li>
 </ul>
@@ -1878,17 +1884,15 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 </li>
 <li>place
 </li>
-<li>(morally) upright
+<li>{morally} upright
 </li>
 <li>method
 </li>
 <li>circumference; perimeter
 </li>
-<li>(medical) prescription
+<li>{medical} prescription
 </li>
 <li>just; only then; at
-</li>
-<li><span class="alternative-marker">met.</span> instance
 </li>
 </ul>
 <ul>
@@ -1919,7 +1923,14 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <span class="character"><span lang="zh-Hant">旺</span></span>
 <span class="code-point">U+65FA</span></h4>
 <ul>
-<li>thriving; energetic
+<li>flourishing; vigorous
+</li>
+</ul>
+<h4 id="昔"><a class="permalink" href="#昔" aria-label="Permalink"></a><span class="residual-strokes">4</span>
+<span class="character"><span lang="zh-Hant">昔</span></span>
+<span class="code-point">U+6614</span></h4>
+<ul>
+<li>aforetime
 </li>
 </ul>
 <h4 id="星"><a class="permalink" href="#星" aria-label="Permalink"></a><span class="residual-strokes">5</span>
@@ -1961,10 +1972,6 @@ See also: <a href="#君"><span lang="zh-Hant">君子</span></a>, <a href="#女">
 <span class="code-point">U+666F</span></h4>
 <ul>
 <li>scenery
-</li>
-</ul>
-<ul>
-<li><a href="#風"><span lang="zh-Hant">風</span></a><span lang="zh-Hant">景：</span> <span class="alternative-marker">met.</span> sights <i class="translator-supplied">and</i> scenery
 </li>
 </ul>
 <h4 id="晴"><a class="permalink" href="#晴" aria-label="Permalink"></a><span class="residual-strokes">8</span>
@@ -2035,7 +2042,7 @@ See also: <a href="#爰"><span lang="zh-Hant">爰書</span></a>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
 <ul>
-<li>(<span class="alternative-marker">int.</span> <a href="#又"><span lang="zh-Hant">又</span></a>) and
+<li>{<span class="alternative-marker">int.</span> <a href="#又"><span lang="zh-Hant">又</span></a>} and
 </li>
 </ul>
 <h4 id="望"><a class="permalink" href="#望" aria-label="Permalink"></a><span class="residual-strokes">7</span>
@@ -2082,7 +2089,7 @@ See also: <a href="#爰"><span lang="zh-Hant">爰書</span></a>
 <span class="character"><span lang="zh-Hant">林</span></span>
 <span class="code-point">U+6797</span></h4>
 <ul>
-<li>forest; woods
+<li>forest
 </li>
 </ul>
 <h4 id="果"><a class="permalink" href="#果" aria-label="Permalink"></a><span class="residual-strokes">4</span>
@@ -2112,7 +2119,7 @@ See also: <a href="#爰"><span lang="zh-Hant">爰書</span></a>
 <span class="character"><span lang="zh-Hant">蔚</span></span>
 <span class="code-point">U+851A</span></h4>
 <ul>
-<li>thrive; flourish
+<li>luxuriant
 </li>
 </ul>
 <h4 id="檻"><a class="permalink" href="#檻" aria-label="Permalink"></a><span class="residual-strokes">14</span>
@@ -2291,7 +2298,7 @@ See also: <a href="#以"><span lang="zh-Hant">以為</span></a>, <a href="#政">
 <span class="character"><span lang="zh-Hant">爲</span></span>
 <span class="code-point">U+7232</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#為"><span lang="zh-Hant">為</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#為"><span lang="zh-Hant">為</span></a>}
 </li>
 </ul>
 <h3 id="father"><a class="permalink" href="#father" aria-label="Permalink"></a><span lang="zh-Hant">⽗</span> (father)
@@ -2439,7 +2446,7 @@ See also: <a href="#以"><span lang="zh-Hant">以為</span></a>, <a href="#政">
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
 <ul>
-<li><span class="type">[verb]</span> king (to rule as king)
+<li><span class="type">[verb]</span> king
 </li>
 </ul>
 <h3 id="melon"><a class="permalink" href="#melon" aria-label="Permalink"></a><span lang="zh-Hant">⽠</span> (melon)
@@ -2467,18 +2474,18 @@ See also: <a href="#以"><span lang="zh-Hant">以為</span></a>, <a href="#政">
 <ul>
 <li>armour
 </li>
-<li>A (1st heavenly stem)
+<li>A {1st heavenly stem}
 </li>
 </ul>
 <h4 id="畏"><a class="permalink" href="#畏" aria-label="Permalink"></a><span class="residual-strokes">4</span>
 <span class="character"><span lang="zh-Hant">畏</span></span>
 <span class="code-point">U+754F</span></h4>
 <ul>
-<li>fear (to dread)
+<li>fear {to dread}
 </li>
 <li>scare
 </li>
-<li>fear (to venerate)
+<li>fear {to venerate}
 </li>
 </ul>
 <h4 id="異"><a class="permalink" href="#異" aria-label="Permalink"></a><span class="residual-strokes">6</span>
@@ -2585,7 +2592,7 @@ See also: <a href="#萬"><span lang="zh-Hant">百萬</span></a>
 <span class="code-point">U+76F8</span></h4>
 <h5><span class="tone"><span lang="zh-Hant">平聲</span></span></h5>
 <ul>
-<li>mutual; (with) each other
+<li>(with) each other
 </li>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
@@ -2630,7 +2637,7 @@ See also: <a href="#萬"><span lang="zh-Hant">百萬</span></a>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
 <ul>
-<li>(<span class="alternative-marker">int.</span> <a href="#智"><span lang="zh-Hant">智</span></a>) wisdom
+<li>{<span class="alternative-marker">int.</span> <a href="#智"><span lang="zh-Hant">智</span></a>} wisdom
 </li>
 </ul>
 <h3 id="stone"><a class="permalink" href="#stone" aria-label="Permalink"></a><span lang="zh-Hant">⽯</span> (stone)
@@ -2694,9 +2701,9 @@ See also: <a href="#萬"><span lang="zh-Hant">百萬</span></a>
 <span class="code-point">U+7A31</span></h4>
 <h5><span class="tone"><span lang="zh-Hant">平聲</span></span></h5>
 <ul>
-<li>refer unto
+<li>refer to
 </li>
-<li>weigh [but <span lang="zh-Hant">去聲</span> in modern Cantonese, probably after <span lang="zh-Hant">秤</span>]
+<li>weigh [but <span lang="zh-Hant">去聲</span> for <span lang="zh-Hant">秤</span> in modern Cantonese]
 </li>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
@@ -2712,7 +2719,7 @@ See also: <a href="#萬"><span lang="zh-Hant">百萬</span></a>
 <span class="character"><span lang="zh-Hant">竒</span></span>
 <span class="code-point">U+7AD2</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#奇"><span lang="zh-Hant">奇</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#奇"><span lang="zh-Hant">奇</span></a>}
 </li>
 </ul>
 <h2 id="6"><a class="permalink" href="#6" aria-label="Permalink"></a>6-stroke radicals</h2>
@@ -2784,14 +2791,14 @@ See also: <a href="#萬"><span lang="zh-Hant">百萬</span></a>
 <span class="character"><span lang="zh-Hant">竽</span></span>
 <span class="code-point">U+7AFD</span></h4>
 <ul>
-<li>yü (free reed instrument)
+<li>yü {free reed instrument}
 </li>
 </ul>
 <h4 id="笙"><a class="permalink" href="#笙" aria-label="Permalink"></a><span class="residual-strokes">5</span>
 <span class="character"><span lang="zh-Hant">笙</span></span>
 <span class="code-point">U+7B19</span></h4>
 <ul>
-<li>shêng (free reed instrument)
+<li>shêng {free reed instrument}
 </li>
 </ul>
 <h4 id="答"><a class="permalink" href="#答" aria-label="Permalink"></a><span class="residual-strokes">6</span>
@@ -2836,7 +2843,7 @@ See also: <a href="#萬"><span lang="zh-Hant">百萬</span></a>
 <span class="character"><span lang="zh-Hant">絶</span></span>
 <span class="code-point">U+7D76</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#絕"><span lang="zh-Hant">絕</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#絕"><span lang="zh-Hant">絕</span></a>}
 </li>
 </ul>
 <h4 id="綿"><a class="permalink" href="#綿" aria-label="Permalink"></a><span class="residual-strokes">8</span>
@@ -2894,7 +2901,7 @@ See also: <a href="#萬"><span lang="zh-Hant">百萬</span></a>
 <span class="character"><span lang="zh-Hant">者</span></span>
 <span class="code-point">U+8005</span></h4>
 <ul>
-<li>he who; that which; one
+<li>{generic} he who; that which; one
 </li>
 <li><span class="type">[speech-assist]</span>
 </li>
@@ -2939,7 +2946,7 @@ See also: <a href="#已"><span lang="zh-Hant">而已</span></a>
 <span class="character"><span lang="zh-Hant">聨</span></span>
 <span class="code-point">U+8068</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#聯"><span lang="zh-Hant">聯</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#聯"><span lang="zh-Hant">聯</span></a>}
 </li>
 </ul>
 <h4 id="聯"><a class="permalink" href="#聯" aria-label="Permalink"></a><span class="residual-strokes">11</span>
@@ -3012,7 +3019,7 @@ See also: <a href="#翩"><span lang="zh-Hant">聯翩</span></a>
 </li>
 <li>and
 </li>
-<li>with
+<li>with; as
 </li>
 </ul>
 <h4 id="興"><a class="permalink" href="#興" aria-label="Permalink"></a><span class="residual-strokes">9</span>
@@ -3038,7 +3045,7 @@ See also: <a href="#翩"><span lang="zh-Hant">聯翩</span></a>
 </li>
 <li>recommend
 </li>
-<li>action; deed
+<li>deed
 </li>
 <li>entire
 </li>
@@ -3137,7 +3144,7 @@ See also: <a href="#翩"><span lang="zh-Hant">聯翩</span></a>
 <span class="character"><span lang="zh-Hant">衆</span></span>
 <span class="code-point">U+8846</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#眾"><span lang="zh-Hant">眾</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#眾"><span lang="zh-Hant">眾</span></a>}
 </li>
 </ul>
 <h3 id="walk-enclosure"><a class="permalink" href="#walk-enclosure" aria-label="Permalink"></a><span lang="zh-Hant">⾏</span> (walk-enclosure)
@@ -3295,7 +3302,7 @@ See also: <a href="#翩"><span lang="zh-Hant">聯翩</span></a>
 <span class="character"><span lang="zh-Hant">誓</span></span>
 <span class="code-point">U+8A93</span></h4>
 <ul>
-<li>swear; take oath
+<li>swear; (take) oath
 </li>
 </ul>
 <h4 id="論"><a class="permalink" href="#論" aria-label="Permalink"></a><span class="residual-strokes">8</span>
@@ -3309,7 +3316,7 @@ See also: <a href="#翩"><span lang="zh-Hant">聯翩</span></a>
 <span class="character"><span lang="zh-Hant">諸</span></span>
 <span class="code-point">U+8AF8</span></h4>
 <ul>
-<li>many; various
+<li>all <i class="translator-supplied">the</i>; various
 </li>
 <li><span class="type">[contraction]</span> <a href="#之"><span lang="zh-Hant">之</span></a><a href="#於"><span lang="zh-Hant">於</span></a>
 </li>
@@ -3523,7 +3530,7 @@ See also: <a href="#翩"><span lang="zh-Hant">聯翩</span></a>
 <span class="character"><span lang="zh-Hant">遙</span></span>
 <span class="code-point">U+9059</span></h4>
 <ul>
-<li>far
+<li>distant
 </li>
 </ul>
 <h4 id="遠"><a class="permalink" href="#遠" aria-label="Permalink"></a><span class="residual-strokes">10</span>
@@ -3545,7 +3552,7 @@ See also: <a href="#翩"><span lang="zh-Hant">聯翩</span></a>
 <span class="character"><span lang="zh-Hant">遥</span></span>
 <span class="code-point">U+9065</span></h4>
 <ul>
-<li><span class="alternative-marker">var.</span> <a href="#遙"><span lang="zh-Hant">遙</span></a>
+<li>{<span class="alternative-marker">var.</span> <a href="#遙"><span lang="zh-Hant">遙</span></a>}
 </li>
 </ul>
 <h4 id="遨"><a class="permalink" href="#遨" aria-label="Permalink"></a><span class="residual-strokes">11</span>
@@ -3574,7 +3581,7 @@ See also: <a href="#翩"><span lang="zh-Hant">聯翩</span></a>
 <span class="character"><span lang="zh-Hant">酬</span></span>
 <span class="code-point">U+916C</span></h4>
 <ul>
-<li>toast (salute by alcohol)
+<li>toast {salute by alcohol}
 </li>
 <li>payment
 </li>
@@ -3820,9 +3827,6 @@ See also: <a href="#翩"><span lang="zh-Hant">聯翩</span></a>
 <li>demeanour; style; manner
 </li>
 </ul>
-<p>
-See also: <a href="#景"><span lang="zh-Hant">風景</span></a>
-</p>
 <h3 id="fly"><a class="permalink" href="#fly" aria-label="Permalink"></a><span lang="zh-Hant">⾶</span> (fly)
 <span class="code-point">U+2FB6</span></h3>
 <h3 id="eat"><a class="permalink" href="#eat" aria-label="Permalink"></a><span lang="zh-Hant">⾷</span> (eat)
@@ -3832,7 +3836,7 @@ See also: <a href="#景"><span lang="zh-Hant">風景</span></a>
 <span class="code-point">U+98DF</span></h4>
 <h5><span class="tone"><span lang="zh-Hant">去聲</span></span></h5>
 <ul>
-<li>(<span class="alternative-marker">int.</span> <a href="#飼"><span lang="zh-Hant">飼</span></a>) feed
+<li>{<span class="alternative-marker">int.</span> <a href="#飼"><span lang="zh-Hant">飼</span></a>} feed
 </li>
 </ul>
 <h5><span class="tone"><span lang="zh-Hant">入聲</span></span></h5>
