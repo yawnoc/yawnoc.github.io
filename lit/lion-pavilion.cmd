@@ -187,9 +187,9 @@ The inserted punctuation is my own.
   And .[the] far .[and] nearby pine-tree wind,
   .[is] also like the sh(e^)ng ((笙)) .[and] the y(u") ((竽))
   playing .[in] ensemble;
-  .[among] that which the ear .[and] the eye receiveth,
-  not one .[thing] .[is] not sufficient .[to] please.
-  .[It is] also .[a] good place .[for]
+  .[among] that which the ear .[and] the eye receive,
+  not one .[thing] .[is] not sufficient .[and] pleasing.
+  .[It is] also .[a] goodly place .[for]
   travel .[and] rest.
 >>
 ====
