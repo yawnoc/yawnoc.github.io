@@ -8,7 +8,7 @@
   %title "[An] History of Mr Shih's Eating Lions" 《施氏食獅史》
   %title-en ".[An] History of Mr~Shih's Eating Lions"
   %date-created 2019-04-07
-  %date-modified 2021-02-07
+  %date-modified 2021-02-26
   \resources:rendering
   %description
     An English translation of the Mandarin "lion tongue twister" \
@@ -30,7 +30,6 @@
 #
 
 [||||
-See also: [Conway's Romanisation for Cantonese](/cantonese/conway-romanisation)
 ||||]
 
 ----
@@ -84,7 +83,6 @@ The Chinese source text is from Page~143 of Chao's
 >>
 ====
 * 石： stone; \or rock
-* 嗜： liked; \or .[was] fond of
 ====
 
 <<
