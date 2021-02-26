@@ -302,15 +302,13 @@ The inserted punctuation is my own.
 <<
   尤望來遊者，亦步健神旺，顧盼自如，而與獅子同也。
 ||
-  .[I] especially hope .[for the] traveller .[who] cometh,
-  .[to] also .[have a] robust step .[and an] energetic spirit,
-  looking back .[and] looking forward
-  according unto .[his] own .[will],
+  .[I] especially hope .[that] the traveller .[who] cometh,
+  also .[be] robust .[in] step .[and] vigorous .[in] spirit,
+  looking back .[and] forward at .[his] own .[will],
   and .[be the] same as .[a] lion.
 >>
 ====
 * 望： hope; \or wish
-
 * 神： spirit; \or mind
 ====
 

@@ -1657,7 +1657,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 4 [旺] U+65FA
 ====
-* thriving
+* flourishing; vigorous
 ====
 
 4 [昔] U+6614
@@ -2585,7 +2585,7 @@ See also: [聯翩][翩]
 ====
 * give
 * and
-* with
+* with; as
 ====
 
 9 [興] U+8208
