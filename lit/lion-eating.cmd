@@ -8,7 +8,7 @@
   %title "[An] History of Mr Shih's Eating Lions" 《施氏食獅史》
   %title-en ".[An] History of Mr~Shih's Eating Lions"
   %date-created 2019-04-07
-  %date-modified 2021-02-26
+  %date-modified 2021-02-27
   \resources:rendering
   %description
     An English translation of the Mandarin "lion tongue twister" \

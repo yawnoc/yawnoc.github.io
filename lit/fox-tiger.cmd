@@ -9,7 +9,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2021-02-26
+  %date-modified 2021-02-27
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
