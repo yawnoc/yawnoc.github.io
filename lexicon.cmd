@@ -1783,7 +1783,7 @@ See also: [爰書][爰]
 
 4 [林] U+6797
 ====
-* forest; woods
+* forest
 ====
 
 4 [果] U+679C
@@ -1804,7 +1804,7 @@ See also: [爰書][爰]
 
 11 [蔚] U+851A
 ====
-* thrive; flourish
+* luxuriant
 ====
 
 14 [檻] U+6ABB
@@ -2831,7 +2831,7 @@ See also: [聯翩][翩]
 
 9 [諸] U+8AF8
 ====
-* many; various
+* all .[the]
 * [:contraction:] [之]\/[於]
 * [:contraction:] [之]\/[乎]
 ====
@@ -3016,7 +3016,7 @@ See also: [聯翩][翩]
 
 10 [遙] U+9059
 ====
-* far
+* distant
 ====
 
 10 [遠] U+9060

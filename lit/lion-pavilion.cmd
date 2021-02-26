@@ -47,7 +47,7 @@ This is a semi-literary text on a plaque in the Lion's Pavilion,
 [Victoria Peak], Hong~Kong.
 Unfortunately I did not photograph the left half of the plaque.
 From memory it contained a list of names of contributors to the funding
-(referred to in the text as 諸君子, ".[the] many gentlemen"),
+(referred to in the text as 諸君子, "all .[the] gentlemen"),
 but no mention of the author.
 ----
 
@@ -92,19 +92,14 @@ The inserted punctuation is my own.
   Victoria Peak, .[in] antiquity referred to .[as]
   .[the] Peak of the Great Sea-Turtle,
   overlooketh southward .[the] great sea,
-  .[and is in] far mutual looking northward
-  with .[the] many mountains of Kowloon;
-  .[its] ridges .[and] pointed hills connected .[and] unbroken,
-  .[its] woods .[and] trees thriving .[and] flourishing,
-  .[and its] sights .[and] scenery absolutely beautiful.
+  .[and] distantly looketh northward at each other
+  with all .[the] mountains of Kowloon;
+  .[its] ridge hills connected .[and] unbroken,
+  .[its] forest trees luxuriant .[and] flourishing,
+  .[and its] scenic views absolutely beautiful.
 >>
 ====
 * 太平山： Victoria Peak； \lit Mount~Tranquility; \or Mount~Peace
-
-* 臨：居高臨下；臨，視也； overlooketh
-
-* 蔚：茂也； thriving; \or flourishing \+
-  蔚，音尉， \C wai3, w(e\)i
 ====
 
 <<
