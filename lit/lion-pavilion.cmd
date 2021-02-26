@@ -107,7 +107,7 @@ The inserted punctuation is my own.
 ||
   We .[the] Lions Club, built .[the] Pavilion
   to .[the] side of Findlay~Path,
-  being one main Pavilion, .[and] five fore Pavilions,
+  being main pavilion one, .[and] fore pavilions five,
   like .[the] North Star abiding in .[the] centre,
   with .[the] Five Planets going round it.
 >>
@@ -115,17 +115,16 @@ The inserted punctuation is my own.
 * 居： abiding in; \or dwelling in
 
 * 五星： .[the] Five Planets \+
-  These are 金木水火土,
-  i.e.~Venus, Jupiter, Mercury, Mars, and Saturn respectively.
+  金木水火土, i.e.~Venus, Jupiter, Mercury, Mars, and Saturn.
 
-* 拱，拱翊，環衛也： going round \+
+* 拱： going round \+
   The line 如北辰居中，而五星拱之 is a nod to Confucius
   in [《論語\.為政》](https://ctext.org/analects/wei-zheng):
   <<
     子曰：為政以德，譬如北辰，居其所而眾星共之。
   ||
     .[The] Master saith,
-    .[He who] governeth by virtue,
+    .[He who] governeth with virtue,
     .[is] likened unto .[the] North Star, abiding in its place with
     .[the] multitude of stars going round it.
   >>
