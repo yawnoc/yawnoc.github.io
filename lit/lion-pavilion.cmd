@@ -158,19 +158,13 @@ The inserted punctuation is my own.
 ||
   .[One] can look down .[and] overlook .[the] two banks,
   southern .[and] northern, of Victoria~Harbour:
-  between them .[the] morning sunshine .[and the] even darkness,
-  .[and the] clear light .[and the] rainy hues,
+  between them .[the] morning sunshine .[and the] even shade,
+  .[the] clear light .[and the] rainy hues,
   .[undergo a] thousand changes .[and a] myriad tranformations,
   as .[in] paintings .[and] drawings.
 >>
 ====
-* 瞰：視也；又俯視曰瞰； overlook; \or look at \+
-  瞰，音磡， \C ham3, \M k(a\)n
-
 * 晴： clear; \or fine
-
-* 殆 \+
-  Speech-assist I think.
 ====
 
 <<
