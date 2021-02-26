@@ -150,15 +150,15 @@ The Chinese source text is from Chinese Text Project:
 <<
   虎不知獸畏己而走也，以為畏狐也。
 ||
-  .[The] tiger knew not .[that the] beasts feared himself and ran,
-  .[but] thought .[that they] feared .[the] fox.
+  .[The] tiger knew not .[that] .[the] beasts feared himself and ran,
+  .[but] thought .[that] .[they] feared .[the] fox.
 >>
 <<
   今王之地方五千里，帶甲百萬，而專屬之昭奚恤；
 ||
-  Today King's territory .[spanneth a]
-  circumference of five thousand miles,
-  .[with] armour-donning .[soldiers a] million,
+  Today King's territory .[spanneth]
+  .[a] circumference of five thousand miles,
+  .[with] armour-donning .[soldiers] .[a] million,
   and exclusively subordinate .[are] they unto Chao Hi-s(u") ((昭奚恤));
 >>
 ====
@@ -176,7 +176,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   故北方之畏奚恤也，其實畏王之甲兵也，猶百獸之畏虎也。
 ||
-  Therefore, .[as to the] North's fear of Hi-s(u") ((奚恤)):
+  Therefore, .[as to] .[the] North's fear of Hi-s(u") ((奚恤)):
   it .[is] actually fear of King's armoured troops,
   like .[the] many beasts' fear of .[the] tiger.
 >>
