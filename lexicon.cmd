@@ -2224,7 +2224,7 @@ See also: [百萬][萬]
 4 [相] U+76F8
 [平聲]
 ====
-* mutual; (with) each other
+* (with) each other
 ====
 [去聲]
 ====
@@ -2603,7 +2603,7 @@ See also: [聯翩][翩]
 ====
 * raise
 * recommend
-* action; deed
+* deed
 * entire
 ====
 

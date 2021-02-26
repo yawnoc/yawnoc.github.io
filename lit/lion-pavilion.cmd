@@ -290,18 +290,13 @@ The inserted punctuation is my own.
   今兹之舉，賴諸君子如響斯應，相輔相成，其力不啻雄獅。
 ||
   .[This] deed here .[and] now,
-  dependeth upon .[the] many gentlemen
-  .[having as quickly] as .[an] echo responded,
-  mutually assisting .[and] mutually fulfilling,
-  their efforts no less than .[the] mighty lion's.
+  dependeth upon all .[the] gentlemen
+  .[having] .[as quickly] as .[an] echo responded,
+  assisting each other .[and] fulfilling each other,
+  their efforts no less than the mighty lion's.
 >>
 ====
-* 舉： deed; \or .[commendable] action
-
 * 力： efforts; \lit strength
-
-* 啻： less than; \lit only; \or merely \+
-  啻，音翅， \C [^ch']ee3 (\pm [_ts']ee3), \M ch(i\)
 ====
 
 <<
