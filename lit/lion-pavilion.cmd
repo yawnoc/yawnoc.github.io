@@ -160,7 +160,7 @@ The inserted punctuation is my own.
   southern .[and] northern, of Victoria~Harbour:
   between them .[the] morning sunshine .[and the] even shade,
   .[the] clear light .[and the] rainy hues,
-  .[undergo a] thousand changes .[and a] myriad tranformations,
+  .[undergo] .[a] thousand changes .[and a] myriad tranformations,
   as .[in] paintings .[and] drawings.
 >>
 ====
@@ -189,8 +189,7 @@ The inserted punctuation is my own.
   playing .[in] ensemble;
   .[among] that which the ear .[and] the eye receive,
   not one .[thing] .[is] not sufficient .[and] pleasing.
-  .[It is] also .[a] goodly place .[for]
-  travel .[and] rest.
+  .[It is] also .[a] goodly place .[for] travel .[and] rest.
 >>
 ====
 * 笙： sh(e^)ng \+
@@ -263,19 +262,12 @@ The inserted punctuation is my own.
 <<
   以一九七六年九月落成，是月三日，由市政局沙利士主席行接收禮。
 ||
-  .[It was] completed in September of .[the] year 1976,
+  In September of .[the] year 1976 .[was it] completed,
   .[and on the] 3rd day of this month,
   .[the] ceremony of receiving .[was] performed by
   Chairman Sales of .[the] Urban Council.
 >>
 ====
-* 市政局：
-    [Urban Council](https://en.wikipedia.org/wiki/Urban_Council);
-    \lit City Administration Department \+
-  Disbanded post 1997,
-  in favour of new bodies appointed by the government
-  rather than elected by citizens.
-
 * 沙利士： Sales \+
   [Arnaldo de~Oliveira Sales](
     https://en.wikipedia.org/wiki/Arnaldo_de_Oliveira_Sales
