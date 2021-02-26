@@ -765,7 +765,7 @@ See also: [可以][可]
 
 3 [北] U+5317
 ====
-* north
+* north(ward)
 ====
 ----
 See also: [北方][方]
@@ -795,7 +795,7 @@ See also: [北方][方]
 
 7 [南] U+5357
 ====
-* south
+* south(ward)
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -2318,7 +2318,7 @@ See also: [百萬][萬]
 9 [稱] U+7A31
 [平聲]
 ====
-* refer unto
+* refer to
 * weigh [but 去聲 for 秤 in modern Cantonese]
 ====
 [去聲]
