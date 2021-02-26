@@ -93,7 +93,7 @@ The inserted punctuation is my own.
   .[the] Peak of the Great Sea-Turtle,
   overlooketh southward .[the] great sea,
   .[and] distantly looketh northward at each other
-  with all .[the] mountains of Kowloon;
+  with .[the] various mountains of Kowloon;
   .[its] ridge hills connected .[and] unbroken,
   .[its] forest trees luxuriant .[and] flourishing,
   .[and its] scenic views absolutely beautiful.
@@ -217,9 +217,9 @@ The inserted punctuation is my own.
 <<
   洪磋景、福伯齡，先後任會長，與諸君子規畫其事，蒙當局撥地興工。
 ||
-  Hung Ts'or-king ((洪磋景)), .[and] Fook Pak-ling ((福伯齡)),
+  Hung Tsor-king ((洪磋景)), .[and] Fook Pak-ling ((福伯齡)),
   served as Club Chairman .[one] after .[the] other,
-  .[and] planned those matters with .[the] many gentlemen,
+  .[and] planned those matters with all .[the] gentlemen,
   .[and] received from .[the] local authority
   .[an] allocation of land .[with which to] begin work.
 >>
@@ -231,16 +231,16 @@ The inserted punctuation is my own.
   而形制則前會長百强則師，任之不受酬。其建築布置諸費，凡共五十萬元。
 ||
   And .[of designing the] form .[and] structure,
-  .[the] former Club Chairman Pak-k'eung ((百强)) .[the] architect
+  .[the] former Club Chairman Pak-keung ((百强)) .[the] architect
   served it not receiving payment.
-  Its various construction .[and] arrangement costs,
-  altogether totalled five hundred thousand dollars.
+  Its various construction .[and] furnishing costs,
+  totalled altogether five hundred thousand dollars.
 >>
 ====
-* 百强： Pak-k'eung \+
+* 百强： Pak-keung \+
   The name of the architect.
   According to [a separate plaque]
-  his full name is Ch'an Pak-k'eung ((陳百强)).
+  his full name is Chan Pak-keung ((陳百强)).
   I have no idea why he is referred to by first name only.
   Note that he shares the same full name with [Danny Chan] (1958--1993).
   

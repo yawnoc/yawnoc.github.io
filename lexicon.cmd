@@ -2831,7 +2831,7 @@ See also: [聯翩][翩]
 
 9 [諸] U+8AF8
 ====
-* all .[the]
+* all .[the]; various
 * [:contraction:] [之]\/[於]
 * [:contraction:] [之]\/[乎]
 ====
