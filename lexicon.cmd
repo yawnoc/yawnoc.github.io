@@ -263,7 +263,7 @@ are not complete, nor could they ever be.
 
 0 [一] U+4E00
 ====
-* one; unity; first
+* one; first
 * same
 ====
 
@@ -285,18 +285,19 @@ are not complete, nor could they ever be.
 2 [上] U+4E0A
 [上聲]
 ====
-* [:verb:] go up; rise [but 去聲 in Mandarin]
+* [:verb:] go up [but 去聲 in Mandarin]
+* [:verb:] offer up [but 去聲 in Mandarin]
 * [:tone:] rising
 ====
 [去聲]
 ====
-* [:non-verb:] upper; above
+* [:non-verb:] up(ward); upper; above; superior
 ====
 
 2 [下] U+4E0B
 ====
-* go down; descend
-* lower; below
+* go down
+* down(ward); lower; below; inferior
 ====
 
 3 [不] U+4E0D
@@ -314,7 +315,7 @@ See also: [逝世][逝]
 
 6 [两] U+4E24
 ====
-* \var [兩]
+* {\var [兩]}
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -324,11 +325,11 @@ See also: [逝世][逝]
 3 [中] U+4E2D
 [平聲]
 ====
-* centre; middle; midst; amidst
+* centre; middle; (a)midst
 ====
 [去聲]
 ====
-* hit (a target)
+* hit {a target}
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -356,14 +357,14 @@ See also: [逝世][逝]
 * be
 * thus
 * [:speech-assist:]
-* (auxiliary) do
+* {auxiliary} do
 ====
 
 3 [之] U+4E4B
 ====
 * go
-* this; these
-* him; it; them
+* this
+* {generic} him; it
 * of
 * [:speech-assist:]
 ====
@@ -393,7 +394,8 @@ See also: [逝世][逝]
 
 7 [事] U+4E8B
 ====
-* matter; incident; event; thing
+* thing; matter
+* incident; event
 * serve
 ====
 
@@ -460,7 +462,7 @@ See also: [逝世][逝]
 
 0 [人] U+4EBA
 ====
-* (gender-neutral) man; human
+* {generic} man; human
 * another; others
 ====
 
@@ -472,8 +474,12 @@ See also: [逝世][逝]
 
 3 [以] U+4EE5
 ====
-* use; by; with; to; in
+* use; by; with
 * think; believe
+* according unto
+* reason; because (of)
+* thus
+* in
 ====
 ====
 * 以[為]： think; believe
@@ -484,7 +490,7 @@ See also: [可以][可]
 
 4 [任] U+4EFB
 ====
-* burden; bear; serve (a role)
+* burden; bear; serve {a role}
 * responsibility; charge
 ====
 
@@ -495,11 +501,11 @@ See also: [可以][可]
 
 5 [何] U+4F55
 ====
-* what; how; why; wherefore
+* what; how; why
 ====
 ====
 * 何[如]： what of .[it]
-* [如]何： how; what .[be]
+* [如]何： how; \met what sayest .[thou]
 ====
 
 5 [作] U+4F5C
@@ -562,12 +568,13 @@ See also: [可以][可]
 [上聲]
 ====
 * fake; false
-* borrow; feign; falsely assume
+* feign
+* borrow
 * suppose; if
 ====
 [去聲]
 ====
-* rest; holiday
+* rest
 ====
 
 9 [健] U+5065
@@ -621,7 +628,7 @@ See also: [可以][可]
 4 [共] U+5171
 [上聲]
 ====
-* (\int [拱])
+* {\int [拱]}
 ====
 [去聲]
 ====
@@ -636,15 +643,20 @@ See also: [可以][可]
 
 6 [其] U+5176
 ====
-* his; its; their
-* he; it; they
-* them; those
+* {generic} his; its
+* {generic} he; it; that
+* thereof
+* likely
+* let
+* how
+* if
+* [:conjunction:] or
 * [:speech-assist:]
 ====
 
 7 [兹] U+5179
 ====
-* \var [茲]
+* {\var [茲]}
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -672,7 +684,7 @@ See also: [可以][可]
 
 1 [凢] U+51E2
 ====
-* \var [凡]
+* {\var [凡]}
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -681,7 +693,7 @@ See also: [可以][可]
 
 3 [出] U+51FA
 ====
-* go out; out; exit
+* (go) out; exit
 * send forth
 * emerge
 ====
@@ -694,7 +706,7 @@ See also: [可以][可]
 ====
 * control; regulate
 * system
-* \var [製]
+* {\var [製]}
 ====
 
 7 [前] U+524D
@@ -809,6 +821,7 @@ See also: [北方][方]
 0 [又] U+53C8
 ====
 * and; also
+* again
 ====
 
 2 [及] U+53CA
@@ -914,15 +927,15 @@ See also: [合奏][奏]
 
 4 [吾] U+543E
 ====
-* I; we
+* I
 ====
 
 5 [命] U+547D
 ====
 * command; order; mandate
-* life
 * fate; will .[of heaven]
 * [:verb:] name
+* life
 ====
 
 8 [問] U+554F
@@ -938,7 +951,7 @@ See also: [合奏][奏]
 
 10 [嗜] U+55DC
 ====
-* like; .[be] fond of
+* [:verb:] like
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -997,7 +1010,7 @@ See also: [詩士][詩]
 
 0 [夕] U+5915
 ====
-* even (evening)
+* even {evening}
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1011,7 +1024,7 @@ See also: [詩士][詩]
 
 1 [天] U+5929
 ====
-* heaven; sky
+* heaven
 ====
 
 1 [太] U+592A
@@ -1025,17 +1038,17 @@ See also: [太平][平]
 5 [奇] U+5947
 [陰平]
 ====
-* odd (not even)
+* odd {opposite of even}
 ====
 [陽平]
 ====
-* odd (strange)
+* odd {strange}
 ====
 
 6 [奏] U+594F
 ====
 * report
-* play (music)
+* play {music}
 ====
 ====
 * [合]奏： play .[in] ensemble
@@ -1097,7 +1110,7 @@ See also: [嬉戲][戲]
 0 [子] U+5B50
 ====
 * child; son; daughter
-* master (teacher); \met thou
+* master {teacher}; \met thou
 ====
 ----
 See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
@@ -1210,12 +1223,12 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 7 [峰] U+5CF0
 ====
-* \var [峯]
+* {\var [峯]}
 ====
 
 19 [巒] U+5DD2
 ====
-* pointed hill; unbroken .[and] connected hills
+* pointed-hill; unbroken-hills
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1237,7 +1250,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 0 [己] U+5DF1
 ====
-* oneself; himself
+* oneself; {generic} himself
 ====
 
 0 [已] U+5DF2
@@ -1453,7 +1466,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 7 [悉] U+6089
 ====
-* know (to learn of)
+* know
 * all
 ====
 
@@ -1479,7 +1492,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 3 [我] U+6211
 ====
-* I; we
+* I
 ====
 
 12 [戰] U+6230
@@ -1516,7 +1529,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 6 [拱] U+62F1
 ====
-* clasp hands (respectful gesture)
+* clasp hands {respectful gesture}
 * go round
 ====
 
@@ -1529,11 +1542,6 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 8 [接] U+63A5
 ====
 * receive
-====
-
-12 [撥] U+64A5
-====
-* allocate
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1562,7 +1570,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 7 [敎] U+654E
 ====
-* \var [教]
+* {\var [教]}
 ====
 
 7 [教] U+6559
@@ -1605,6 +1613,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 8 [斯] U+65AF
 ====
 * this
+* then
 * [:speech-assist:]
 ====
 
@@ -1617,12 +1626,11 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 * square; rectangle; cube; \met block
 * direction; side
 * place
-* (morally) upright
+* {morally} upright
 * method
 * circumference; perimeter
-* (medical) prescription
+* {medical} prescription
 * just; only then; at
-* \met instance
 ====
 ====
 * [北]方： .[the] north
@@ -1649,7 +1657,12 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 
 4 [旺] U+65FA
 ====
-* thriving; energetic
+* thriving
+====
+
+4 [昔] U+6614
+====
+* aforetime
 ====
 
 5 [星] U+661F
@@ -1678,9 +1691,6 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 8 [景] U+666F
 ====
 * scenery
-====
-====
-* [風]景： \met sights .[and] scenery
 ====
 
 8 [晴] U+6674
@@ -1737,7 +1747,7 @@ See also: [爰書][爰]
 ====
 [去聲]
 ====
-* (\int [又]) and
+* {\int [又]} and
 ====
 
 7 [望] U+671B
@@ -1951,7 +1961,7 @@ See also: [以為][以], [為政][政]
 
 8 [爲] U+7232
 ====
-* \var [為]
+* {\var [為]}
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -2078,7 +2088,7 @@ See also: [以為][以], [為政][政]
 ====
 [去聲]
 ====
-* [:verb:] king (to rule as king)
+* [:verb:] king
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -2113,14 +2123,14 @@ See also: [以為][以], [為政][政]
 0 [甲] U+7532
 ====
 * armour
-* A (1st heavenly stem)
+* A {1st heavenly stem}
 ====
 
 4 [畏] U+754F
 ====
-* fear (to dread)
+* fear {to dread}
 * scare
-* fear (to venerate)
+* fear {to venerate}
 ====
 
 6 [異] U+7570
@@ -2252,7 +2262,7 @@ See also: [百萬][萬]
 ====
 [去聲]
 ====
-* (\int [智]) wisdom
+* {\int [智]} wisdom
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -2309,7 +2319,7 @@ See also: [百萬][萬]
 [平聲]
 ====
 * refer unto
-* weigh [but 去聲 in modern Cantonese, probably after 秤]
+* weigh [but 去聲 for 秤 in modern Cantonese]
 ====
 [去聲]
 ====
@@ -2326,7 +2336,7 @@ See also: [百萬][萬]
 
 4 [竒] U+7AD2
 ====
-* \var [奇]
+* {\var [奇]}
 ====
 
 
@@ -2374,12 +2384,12 @@ See also: [百萬][萬]
 
 3 [竽] U+7AFD
 ====
-* y(u") (free reed instrument)
+* y(u") {free reed instrument}
 ====
 
 5 [笙] U+7B19
 ====
-* sh(e^)ng (free reed instrument)
+* sh(e^)ng {free reed instrument}
 ====
 
 6 [答] U+7B54
@@ -2415,7 +2425,7 @@ See also: [百萬][萬]
 
 6 [絶] U+7D76
 ====
-* \var [絕]
+* {\var [絕]}
 ====
 
 8 [綿] U+7DBF
@@ -2469,7 +2479,7 @@ See also: [百萬][萬]
 
 4 [者] U+8005
 ====
-* he who; that which; one
+* {generic} he who; that which; one
 * [:speech-assist:]
 ====
 
@@ -2508,7 +2518,7 @@ See also: [而已][已]
 
 9 [聨] U+8068
 ====
-* \var [聯]
+* {\var [聯]}
 ====
 
 11 [聯] U+806F
@@ -2684,7 +2694,7 @@ See also: [聯翩][翩]
 
 6 [衆] U+8846
 ====
-* \var [眾]
+* {\var [眾]}
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -2811,7 +2821,7 @@ See also: [聯翩][翩]
 
 7 [誓] U+8A93
 ====
-* swear; take oath
+* swear; (take) oath
 ====
 
 8 [論] U+8AD6
@@ -3022,7 +3032,7 @@ See also: [聯翩][翩]
 
 10 [遥] U+9065
 ====
-* \var [遙]
+* {\var [遙]}
 ====
 
 11 [遨] U+9068
@@ -3047,7 +3057,7 @@ See also: [聯翩][翩]
 
 6 [酬] U+916C
 ====
-* toast (salute by alcohol)
+* toast {salute by alcohol}
 * payment
 ====
 
@@ -3271,9 +3281,6 @@ See also: [聯翩][翩]
 * wind
 * demeanour; style; manner
 ====
-----
-See also: [風景][景]
-----
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⾶ (fly) U+2FB6
@@ -3286,7 +3293,7 @@ See also: [風景][景]
 0 [食] U+98DF
 [去聲]
 ====
-* (\int [飼]) feed
+* {\int [飼]} feed
 ====
 [入聲]
 ====
