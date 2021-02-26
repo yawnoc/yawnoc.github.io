@@ -517,7 +517,7 @@ See also: [可以][可]
 
 6 [佳] U+4F73
 ====
-* good; beautiful
+* goodly
 ====
 
 6 [使] U+4F7F

@@ -139,30 +139,18 @@ The inserted punctuation is my own.
   all .[were] made according unto the olden.
 >>
 ====
-* 楹：柱也； columns \+
-  楹，以成切， \C ying4, \M y(i/)ng
-
-* 畫： drawing-.[decorated] \+
-  畫，去聲， \C waa6, \M hu(a\)
-
-* 檻： balustrades \+
-  檻，音艦， \C laam6, \M ji(a\)n
-
-* 月門：
-    [Moon Gate](https://en.wikipedia.org/wiki/Moon_gate)
+* 月門： [Moon Gate](https://en.wikipedia.org/wiki/Moon_gate)
 ====
 
 <<
   春秋佳日，中西人士聨翩蒞止，登斯亭也。
 ||
-  .[On a] good spring .[or] autumn day,
+  .[On a] goodly spring .[or] autumn day,
   .[both] Chinese .[and] Western people continuously flock .[here to] attend,
   ascending this Pavilion.
 >>
 ====
-* 聨翩：翩，疾飛也； continuously flock; \lit rapidly fly together \+
-  翩，音篇， \C p'een1, \M pi(a-)n \+
-  "Flock" preserves the connotation with bird flight.
+* 聨翩： continuously flock; \lit rapidly fly together
 ====
 
 <<
