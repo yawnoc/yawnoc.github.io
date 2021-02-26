@@ -9,7 +9,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2021-02-08
+  %date-modified 2021-02-26
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -75,11 +75,6 @@ The Chinese source text is from Chinese Text Project:
   ".[The] Fox Feigneth .[the] Tiger's Authority"
 >>
 ====
-* 狐 \+
-  The fox is as cunning an animal in the East, as he is in the West.
-
-* 假： feigneth; \or falsely assumeth
-
 * 威： authority; \lit might
 ====
 
@@ -93,9 +88,7 @@ The Chinese source text is from Chinese Text Project:
 ====
 * King ((荊)) \+
   Another name for the state of~Ch'u ((楚)).
-
 * 群： group; \or gathering
-
 * Chao Hi-s(u") ((昭奚恤)) \+
   The name of a high military official of~Ch'u ((楚)).
 ====
@@ -110,8 +103,8 @@ The Chinese source text is from Chinese Text Project:
   江一對曰：虎求百獸而食之，得狐。
 ||
   .[But] Kiang I ((江一)) replied, saying,
-    .[The] tiger sought .[the] many beasts .[to] eat them,
-    .[and] obtained .[the] fox.
+    .[A] tiger sought .[the] many beasts .[to] eat them,
+    .[and] obtained .[a] fox.
 >>
 ====
 * Kiang I ((江一)) \+
@@ -132,10 +125,8 @@ The Chinese source text is from Chinese Text Project:
 >>
 ====
 * 子： thou; \lit .[the] master
-
 * 長： leader \+
   長，上聲， \C ch(oe)ng2, \M zh(av)ng
-
 * 逆： defieth; \or goeth against
 ====
 
