@@ -474,7 +474,7 @@ See also: [逝世][逝]
 
 3 [以] U+4EE5
 ====
-* use; by; with
+* use; by; with; to
 * think; believe
 * according unto
 * reason; because (of)
