@@ -170,7 +170,7 @@ The inserted punctuation is my own.
 <<
   山中復有竒花異草可以觀賞，幽泉怪石可以遊遨。
 ||
-  Amidst .[the] mountain there are also odd flowers .[and] strange grasses
+  Amidst .[the] mount there are also odd flowers .[and] strange grasses
   .[one] can see .[and] appreciate,
   .[and] secluded springs .[and] strange rocks
   .[one] can tour .[and] roam.
