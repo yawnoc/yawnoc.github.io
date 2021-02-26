@@ -185,7 +185,7 @@ The inserted punctuation is my own.
   而遠近松風，又如笙竽合奏，耳目所接，無一而不足快。亦遊息之佳所也。
 ||
   And .[the] far .[and] nearby pine-tree wind,
-  .[is] also like the sh(e^)ng ((笙)) .[and] the y(u") ((竽))
+  .[is] also as the sh(e^)ng ((笙)) .[and] the y(u") ((竽))
   playing .[in] ensemble;
   .[among] that which the ear .[and] the eye receive,
   not one .[thing] .[is] not sufficient .[and] pleasing.
@@ -229,7 +229,7 @@ The inserted punctuation is my own.
 <<
   而形制則前會長百强則師，任之不受酬。其建築布置諸費，凡共五十萬元。
 ||
-  And .[of designing the] form .[and] structure,
+  And .[of designing] .[the] form .[and] structure,
   .[the] former Club Chairman Pak-keung ((百强)) .[the] architect
   served it not receiving payment.
   Its various construction .[and] furnishing costs,
@@ -263,7 +263,7 @@ The inserted punctuation is my own.
   以一九七六年九月落成，是月三日，由市政局沙利士主席行接收禮。
 ||
   In September of .[the] year 1976 .[was it] completed,
-  .[and on the] 3rd day of this month,
+  .[and on] .[the] 3rd day of this month,
   .[the] ceremony of receiving .[was] performed by
   Chairman Sales of .[the] Urban Council.
 >>
@@ -277,17 +277,12 @@ The inserted punctuation is my own.
 <<
   吾聞獅子得金精之剛，聲吼如雷，天地皆動。
 ||
-  I hear .[that the] lion getteth
-  .[the] strength of .[the] essence of metal;
-  .[its] sounds .[and] roars .[are] like thunder:
-  all Heaven .[and] Earth .[are] moved .[by it].
+  I hear .[that] the lion getteth
+  .[the] strength of .[the] essence of metal,
+  .[its] sounds .[and] roars as thunder:
+  all Heaven .[and] Earth .[are] moved.
 >>
 ====
-* 金精： .[the] essence of metal \+
-  Perhaps "essence of .[the] west",
-  since metal~(金) is the element associated with
-  the cardinal direction west.
-
 * 剛： strength; \or toughness
 ====
 
