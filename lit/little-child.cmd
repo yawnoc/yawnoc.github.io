@@ -188,10 +188,10 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：自古及今，爲當車避于城，不當城避於車。
 ||
-  .[The] little child replied, saying,
-    Since antiquity, .[even] until now,
-    be .[it that] the chariot ought to avoid the wall,
-    not .[that] the wall ought to avoid the chariot.
+  .[The] little child answered, saying,
+  Since antiquity .[even] unto this day,
+  .[it] ought to be .[that] the chariot avoideth of the wall;
+  .[it] ought not to .[be] .[that] the wall avoideth of the chariot.
 >>
 
 <<
