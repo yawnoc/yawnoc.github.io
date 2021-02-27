@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-02-27
+  %date-modified 2021-02-28
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -2879,6 +2879,13 @@ See also: [聯翩][翩]
 ⾙ (shell) U+2F99
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+4 [責] U+8CAC
+====
+* rebuke
+* blame
+* responsibility
+====
+
 8 [賞] U+8CDE
 ====
 * reward
@@ -3045,6 +3052,11 @@ See also: [聯翩][翩]
 * go unto
 * suitable
 * just
+====
+
+13 [避] U+907F
+====
+* avoid
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-02-27
+  %date-modified 2021-02-28
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -182,8 +182,7 @@ see [the actual first page of the almanac text][almanac text].
 <<
   孔子責之曰：何不避車乎？
 ||
-  Confucius rebuked him, saying,
-    Wherefore avoidest .[thou] not .[my] chariot?
+  Confucius rebuked him, saying, Why avoidest .[thou] not .[my] chariot?
 >>
 
 <<
