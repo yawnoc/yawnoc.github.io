@@ -197,17 +197,13 @@ see [the actual first page of the almanac text][almanac text].
 <<
   孔子乃勒車論道，下車而問焉：汝年尚幼，何多詐乎？
 ||
-  Confucius thus restrained .[his] chariot
-  .[to] reason, alighting .[his] chariot and asking,
-    Thy years .[be] yet young; wherefore .[so] much cunning?
+  Confucius thus bridled .[his] chariot .[to] reason,
+  alighting .[his] chariot and asking him,
+  Thy years .[be] yet young; why .[so] much cunning?
 >>
 ====
 * 論道： reason; \lit debate logic \+
   Maybe "argue for .[the right of] way".
-
-* 詐： cunning; \lit trickery; \or deception \+
-  Here I think Confucius is referring to the child's wit;
-  I don't see how the child is tricking or deceiving Confucius in any way.
 ====
 
 <<

@@ -285,7 +285,7 @@ are not complete, nor could they ever be.
 2 [上] U+4E0A
 [上聲]
 ====
-* [:verb:] go up [but 去聲 in Mandarin]
+* [:verb:] go up; mount [but 去聲 in Mandarin]
 * [:verb:] offer up [but 去聲 in Mandarin]
 * [:tone:] rising
 ====
@@ -296,7 +296,7 @@ are not complete, nor could they ever be.
 
 2 [下] U+4E0B
 ====
-* go down
+* go down; alight
 * down(ward); lower; below; inferior
 ====
 
@@ -739,6 +739,11 @@ See also: [可以][可]
 * achievement; output
 ====
 
+9 [勒] U+52D2
+====
+* bridle
+====
+
 9 [動] U+52D5
 ====
 * move
@@ -1018,6 +1023,12 @@ See also: [詩士][詩]
 * even {evening}
 ====
 
+3 [多] U+591A
+====
+* much
+* more
+====
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼤ (big) U+2F24
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1168,6 +1179,12 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 * little; small
 ====
 
+5 [尚] U+5C1A
+====
+* [:verb:] esteem
+* yet
+====
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼪ (lame) U+2F2A
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1310,6 +1327,11 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼳ (short-thread) U+2F33
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+2 [幼] U+5E7C
+====
+* young
+====
 
 6 [幽] U+5E7D
 ====
@@ -1931,6 +1953,19 @@ See also: [以為][以], [為政][政]
 [去聲]
 ====
 * because; for
+====
+
+7 [焉] U+7109
+[陰平]
+====
+* how
+====
+[陽平] [but 陰平 in Mandarin]
+====
+* this; here
+* {generic} him; it
+* then
+* [:speech-assist:]
 ====
 
 8 [無] U+7121
@@ -2806,6 +2841,12 @@ See also: [聯翩][翩]
 * establish
 ====
 
+5 [詐] U+8A50
+====
+* deceit
+* cunning
+====
+
 6 [試] U+8A66
 ====
 * try; attempt
@@ -2830,8 +2871,13 @@ See also: [聯翩][翩]
 ====
 
 8 [論] U+8AD6
+[平聲]
 ====
-* discourse
+* {Confucian} Analects
+====
+[去聲]
+====
+* discourse; debate
 ====
 
 9 [諸] U+8AF8
@@ -3024,6 +3070,11 @@ See also: [聯翩][翩]
 9 [遊] U+904A
 ====
 * journey; travel; tour
+====
+
+9 [道] U+9053
+====
+* way; Tao
 ====
 
 10 [遙] U+9059
