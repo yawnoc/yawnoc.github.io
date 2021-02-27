@@ -132,9 +132,8 @@ see [the actual first page of the almanac text][almanac text].
 <<
   孔子乃駐車問曰：獨汝不戲，何也？
 ||
-  Confucius thus stopped .[his] chariot .[and] asked,
-  saying,
-    Alone thou playest not: why?
+  Confucius thus stopped .[his] chariot .[and] asked, saying,
+  Alone thou playest not: why?
 >>
 
 <<
@@ -142,25 +141,19 @@ see [the actual first page of the almanac text][almanac text].
     凢戲無益，衣破難縫。上辱父母，下及門中。必有鬥爭，勞而無功。\
     豈爲好事？故乃不戲。
 ||
-  .[The] little child replied, saying,
-    All play .[is] without benefit:
-    clothes broken .[are] difficult .[to] mend;
-    above, .[it] disgraceth father .[and] mother:
-    .[and] below, unto .[those] amidst .[the] house;
-    surely there .[shall] be fighting .[and] striving:
+  .[The] little child answered, saying,
+    All play hath no benefit:
+    clothing broken .[is] difficult .[to] mend.
+    Upward disgraceth .[it] father .[and] mother;
+    .[and] downward unto .[those] amidst .[the] house.
+    Surely there be fighting .[and] striving;
     toil but no achievement.
-    How be .[this a] good thing? Therefore do .[I] play not.
+    How be .[this] .[a] good thing? Therefore do .[I] play not.
 >>
 ====
-* 凢 \+
-  Variant of 凡.
-
 * 縫： mend; \lit stitch
 
 * 門： house; \lit family
-
-* 豈： how \+
-  A very stern and righteous "how".
 ====
 
 <<

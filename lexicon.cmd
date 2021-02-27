@@ -2394,7 +2394,7 @@ See also: [百萬][萬]
 
 6 [答] U+7B54
 ====
-* answer; reply
+* answer
 ====
 
 6 [策] U+7B56
@@ -2722,7 +2722,7 @@ See also: [聯翩][翩]
 
 0 [衣] U+8863
 ====
-* clothes
+* clothing
 ====
 
 8 [製] U+88FD
