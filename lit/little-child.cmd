@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-02-07
+  %date-modified 2021-02-27
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -44,20 +44,10 @@
 This is one of several accounts of [Hiang T'o ((項橐))][項橐],
 a child prodigy who is supposed to have outwitted Confucius
 at the age of seven.
-From 《淮南子\.脩務訓》： [「夫項託七歲為孔子師」][脩務訓],
-"Hiang T'o ((項橐)) .[at] seven years became teacher of Confucius".
-In 《三字經》 he is mentioned in the line [「昔仲尼，師項橐」][三字經],
-"Chung-ni ((仲尼)) of old, .[had] teacher Hiang T'o ((項橐))".
 ----
 
 @@[項橐]
   https://zh.wikipedia.org/wiki/%E9%A0%85%E6%A9%90
-@@
-@@[脩務訓]
-  https://ctext.org/huainanzi/xiu-wu-xun#n3435
-@@
-@@[三字經]
-  https://ctext.org/three-character-classic#n90627
 @@
 
 ----
@@ -99,8 +89,6 @@ see [the actual first page of the almanac text][almanac text].
   .[the] Little Child's Discourse"
 >>
 ====
-* 問答： Q~.[\&]~A; \or questions .[and] answers; \or asking .[and] replying
-
 * 小： little; \or small
 ====
 
@@ -116,7 +104,7 @@ see [the actual first page of the almanac text][almanac text].
 * 孔子： Confucius; \lit Master~K'ung ((孔))
 
 * 字： styled \+
-  A style name, also called a [courtesy name][字].
+  A style-name, also called a [courtesy name][字].
 
 * 敎： .[a] teaching; \or .[a] religion \+
 ====
