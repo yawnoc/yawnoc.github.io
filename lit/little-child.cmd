@@ -97,8 +97,7 @@ see [the actual first page of the almanac text][almanac text].
 ||
   Confucius, named K'iu ((丘)),
   .[and] styled Chung-ni ((仲尼)),
-  established .[a] teaching in .[the] west
-  of .[the] nation of Lu ((魯)).
+  established .[a] teaching in .[the] west of .[the] nation of Lu ((魯)).
 >>
 ====
 * 孔子： Confucius; \lit Master~K'ung ((孔))
@@ -116,10 +115,10 @@ see [the actual first page of the almanac text][almanac text].
 <<
   一日率諸弟子，御車出遊，路逢數兒嬉戲，中有一兒不戲。
 ||
-  One day .[he] led .[his] many disciples,
-  driving .[his] chariot out .[for] travel.
-  .[Along the] road .[they] encountered several children playing,
-  .[and] amidst .[them] there was one child .[who] played not.
+  One day .[he] led all .[the] disciples,
+  driving .[his] chariot out .[for] travel;
+  .[and] .[along] .[the] road encountered several children playing:
+  .[but] amidst .[them] there was one child .[who] played not.
 >>
 ====
 * 車： chariot \+
