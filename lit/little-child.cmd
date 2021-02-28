@@ -246,16 +246,16 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：吾居敝鄉、賤地、姓項、名橐、未有字也。
 ||
-  .[The] little child replied, saying,
-    I dwell in .[a] shabby hometown, .[and a] lowly village,
-    .[and am] surnamed Hiang ((項)),
-    .[and] named T'o ((橐)),
-    .[and am] yet to have .[a] style name.
+  .[The] little child answered, saying,
+  I dwell in .[a] decrepit hometown, .[in] lowly land,
+  .[and am] surnamed Hiang ((項)),
+  .[and] named T'o ((橐)),
+  .[and] yet to have .[a] style-name.
 >>
 ====
-* 敝： shabby; \or worn-out \+
-  Both 敝 and 賤 can be used
-  as a self-deprecating substitute for "I" or "my".
+* 敝： decrepit \+
+  Both 敝~(decrepit) and 賤~(lowly) can be used
+  as self-deprecating substitutes for "I" or "my".
 ====
 
 <<

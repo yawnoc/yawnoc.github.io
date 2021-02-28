@@ -1640,6 +1640,11 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 * teach
 ====
 
+8 [敝] U+655D
+====
+* decrepit
+====
+
 8 [敢] U+6562
 ====
 * dare
@@ -1836,6 +1841,11 @@ See also: [爰書][爰]
 ====
 * tree
 * wood; timber
+====
+
+1 [未] U+672A
+====
+* not yet; yet to
 ====
 
 4 [松] U+677E
@@ -3019,6 +3029,12 @@ See also: [聯翩][翩]
 ====
 * reward
 * appreciate
+====
+
+8 [賤] U+8CE4
+====
+* lowly
+* cheap
 ====
 
 9 [賴] U+8CF4
