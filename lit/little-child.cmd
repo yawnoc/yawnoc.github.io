@@ -294,19 +294,17 @@ see [the actual first page of the almanac text][almanac text].
 <<
   家有賢兄，須當順之。家有弱弟，須當敎之。家有明師，須當學之。何暇同遊也？
 ||
-  .[In mine] house there are .[my] worthy older brothers:
-    .[I] must obey them.
-  .[In mine] house there are .[my] feeble younger brothers:
-    .[I] must teach them.
+  .[In mine] house there are .[my] worthy elder-brothers:
+  .[I] must needs obey them.
+  .[In mine] house there are .[my] weak younger-brothers:
+  .[I] must needs teach them.
   .[In mine] house there is .[my] brilliant teacher:
     .[I] must learn from him.
   What spare time .[have I to] travel together .[with thee]?
 >>
 ====
-* 賢： worthy; also virtuous \+
-  Often used as an honorific.
-
-* 順： obey; \or go along with; \or follow
+* 賢： worthy; \or talented
+* 順： obey; \or conform unto
 ====
 
 <<
