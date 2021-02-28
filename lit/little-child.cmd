@@ -239,8 +239,8 @@ see [the actual first page of the almanac text][almanac text].
   孔子曰：汝居何鄉、何里、何姓、何名、何字？
 ||
   Confucius said,
-    Dwellest thou in what hometown, .[and] what village;
-    .[and] what surname, what name, .[and] what style name .[hast thou]?
+  Dwellest thou in what hometown, .[and] what village,
+  .[and hast] what surname, what name, .[and] what style-name?
 >>
 
 <<
