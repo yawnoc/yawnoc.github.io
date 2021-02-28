@@ -298,13 +298,14 @@ see [the actual first page of the almanac text][almanac text].
   .[I] must needs obey them.
   .[In mine] house there are .[my] weak younger-brothers:
   .[I] must needs teach them.
-  .[In mine] house there is .[my] brilliant teacher:
-    .[I] must learn from him.
-  What spare time .[have I to] travel together .[with thee]?
+  .[In mine] house there is .[my] wise master:
+  .[I] must needs learn from him.
+  What leisure .[have I] .[to] travel together?
 >>
 ====
 * 賢： worthy; \or talented
 * 順： obey; \or conform unto
+* 明： wise; \lit brilliant
 ====
 
 <<
