@@ -1069,6 +1069,9 @@ See also: [詩士][詩]
 ====
 * heaven
 ====
+----
+See also: [天生][生]
+----
 
 1 [太] U+592A
 ====
@@ -2200,6 +2203,9 @@ See also: [以為][以], [為政][政]
 * life; growth
 * beget; bear
 ====
+====
+* [天]生： born of heaven; inborn
+====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⽤ (use) U+2F64
@@ -2945,6 +2951,13 @@ See also: [聯翩][翩]
 * all .[the]; various
 * [:contraction:] [之]\/[於]
 * [:contraction:] [之]\/[乎]
+====
+
+9 [謂] U+8B02
+====
+* speak
+* mean
+* call; \met be
 ====
 
 12 [識] U+8B58

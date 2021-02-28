@@ -220,7 +220,7 @@ see [the actual first page of the almanac text][almanac text].
   .[and] runneth upon .[the] ditched fields of .[the] earth;
   the fish liveth three days,
   .[and] journeyeth unto .[the] rivers .[and] lakes.
-  Naturally .[are they] automatically thus: how be .[this] cunning?
+  Inborn .[and] natural: how be .[this] cunning?
 >>
 ====
 * 人生： .[I] .[the] human lived \+
@@ -230,9 +230,9 @@ see [the actual first page of the almanac text][almanac text].
 
 * 三歲： three years; \or .[to] age three
 
-* 天生： naturally; \lit born of nature; \or born of Heaven
+* 天生： inborn; \lit born of Heaven
 
-* 豈謂： how be .[this]; \lit how speak of .[this as]
+* 謂： be; \lit call
 ====
 
 <<
