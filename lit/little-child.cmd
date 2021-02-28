@@ -339,26 +339,21 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：天子好博，四海不理。諸侯好博，有妨政紀。士儒好博，學問廢弛。
 ||
-  .[The] little child replied, saying,
-    .[Be the] Son of Heaven fond of wagering:
-      .[all within the] Four Seas .[shall] not .[be properly] administered.
-    .[Be the] many lords fond of wagering:
-      .[this] doth harm governance .[and] law.
-    .[Be the] scholars .[and] academics fond of wagering:
-      scholarship .[shall be] neglected .[and] abandoned.
+  .[The] little child answered, saying,
+  .[The] Son of Heaven being fond of wagering,
+  .[all] .[within] .[the] Four Seas .[shall] not .[be] maintained.
+  All .[the] marquesses being fond of wagering,
+  doth obstruct .[the] laws of governance.
+  .[The] scholars being fond of wagering,
+  scholarship .[shall] .[be] abandoned.
 >>
 ====
 * 天子： .[the] Son of Heaven \+
   The emperor.
 
-* 侯： lords; \or marquesses \+
-  See [諸侯](https://en.wiktionary.org/wiki/%E8%AB%B8%E4%BE%AF).
+* 妨： obstruct; \or harm
 
-* 妨： harm; \or obstruct
-
-* 學問： scholarship; \or learning; \lit learning .[and] enquiry
-
-* 弛： abandoned; \lit slackened
+* 學問： scholarship; \lit learning .[and] enquiry
 ====
 
 <<
