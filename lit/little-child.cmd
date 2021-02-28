@@ -275,27 +275,21 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：家有嚴父，須當事之。家有慈母，須當養之。
 ||
-  .[The] little child replied, saying,
-    .[In mine] house there is .[my] strict father: .[I] must attend to him.
-    .[In mine] house there is .[my] loving mother: .[I] must provide for her.
+  .[The] little child answered, saying,
+  .[In mine] house there is .[my] strict father:
+  .[I] must needs serve him.
+  .[In mine] house there is .[my] affectionate mother:
+  .[I] must needs provide for her.
 >>
 ====
-* 慈： loving; \or kind \+
-  The quintessential father is strict (嚴) in that
-  in addition to providing for his children,
-  he ought not to fail in teaching them
-  (as in [養不教，父之過][養不教],
-  ".[to] provide for .[but] not teach, .[is the] mistake of .[the] father").
-  The quintessential mother is kind/loving (慈).
-  In literary Chinese the words 嚴 and 慈 can, even on their own,
-  mean father and mother respectively.
-
+* 嚴父： strict father \+
+  Arguably could be rendered just "father".
+  Here, 嚴~(strict) is not specific to the child's father,
+  but a quality of the quintessential father in Confucianism.
+  Ditto 慈~(affectionate) for the mother.
+* 須當： must needs; \lit must ought to
 * 養： provide for; \or support; \or feed
 ====
-
-@@[養不教]
-  https://ctext.org/three-character-classic#n90568
-@@
 
 <<
   家有賢兄，須當順之。家有弱弟，須當敎之。家有明師，須當學之。何暇同遊也？
