@@ -217,7 +217,7 @@ see [the actual first page of the almanac text][almanac text].
   .[I] .[the] human lived three years,
   .[and] .[was] separated from father .[and] mother;
   the rabbit liveth three days,
-  .[and] runneth upon .[the] ditches .[and] fields of .[the] earth;
+  .[and] runneth upon .[the] ditched fields of .[the] earth;
   the fish liveth three days,
   .[and] journeyeth unto .[the] rivers .[and] lakes.
   Naturally .[are they] automatically thus: how be .[this] cunning?
@@ -229,9 +229,6 @@ see [the actual first page of the almanac text][almanac text].
   人生三歲 might be rendered "man liveth three years".
 
 * 三歲： three years; \or .[to] age three
-
-* 畎：田中溝也； ditch (in a field) \+
-  畎，音犬， \C h(u")n2, \M qu(av)n
 
 * 天生： naturally; \lit born of nature; \or born of Heaven
 
