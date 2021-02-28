@@ -262,15 +262,14 @@ see [the actual first page of the almanac text][almanac text].
   孔子曰：吾欲共汝同遊，汝意下如何？
 ||
   Confucius said,
-    I wish to travel together with thee:
-    what .[be] thy thoughts .[upon this]?
+  I wish to travel together with thee:
+  what .[be] thy thoughts?
 >>
 ====
 * **{.danger} Beware stranger danger.**
 
-* 汝意下如何：
-    what .[be] thy thoughts .[upon this];
-    \or [what sayest thou](https://youtu.be/f_4-rCROcsM "What say you?")
+* 汝意下如何： what .[be] thy thoughts \+
+  Perhaps ["what sayest thou"](https://youtu.be/f_4-rCROcsM "What say you?").
 ====
 
 <<
