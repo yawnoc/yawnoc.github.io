@@ -312,17 +312,17 @@ see [the actual first page of the almanac text][almanac text].
   孔子曰：吾車中有三十二棋子，與汝奕博，汝意下如何？
 ||
   Confucius said,
-    In my chariot there are thirty-two chess pieces,
-    .[to] play chess .[for a] wager with thee:
-    what .[be] thy thoughts .[upon this]?
+  Amidst my chariot there are thirty-two chess pieces,
+  .[to] play chess .[for a] wager with thee:
+  what .[be] thy thoughts?
 >>
 ====
 * 三十二棋子 \+
   It is a coincidence that
   [Chinese Chess (象棋)][象棋] and [Western Chess][Chess]
-  both use 16 chess pieces per player.
+  both use 16~chess pieces per player.
   Of course this text is not canon, nor is it historically accurate;
-  in Confucius's time, 奕 referred to the [Surrounding Game (圍棋)][圍棋],
+  in Confucius's time, 奕 referred to [Surrounding Chess (圍棋)][圍棋],
   more commonly known as Go.
 ====
 
