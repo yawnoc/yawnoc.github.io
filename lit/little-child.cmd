@@ -288,7 +288,7 @@ see [the actual first page of the almanac text][almanac text].
   but a quality of the quintessential father in Confucianism.
   Ditto 慈~(affectionate) for the mother.
 * 須當： must needs; \lit must ought to
-* 養： provide for; \or support; \or feed
+* 養： provide for; \or support
 ====
 
 <<
