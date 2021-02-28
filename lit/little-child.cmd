@@ -208,27 +208,27 @@ see [the actual first page of the almanac text][almanac text].
 
 <<
   小兒答曰：\
-    人生三歲，分別父母。\
-    兔生三日，走地畎畝。\
-    魚生三日，遊於江湖。\
-    天生自然，豈謂詐乎？
+  人生三歲，分別父母。\
+  兔生三日，走地畎畝。\
+  魚生三日，遊於江湖。\
+  天生自然，豈謂詐乎？
 ||
-  .[The] little child replied, saying,
-    .[I the] human lived three years,
-    .[and was] separated from .[my] father .[and] mother;
-    the rabbit liveth three days,
-    .[and] runneth upon .[the] ditches .[and] fields of .[the] earth;
-    the fish liveth three days,
-    .[and] journeyeth unto .[the] rivers .[and] lakes.
-    Naturally .[are they] automatically thus: how be .[this] cunning?
+  .[The] little child answered, saying,
+  .[I] .[the] human lived three years,
+  .[and] .[was] separated from father .[and] mother;
+  the rabbit liveth three days,
+  .[and] runneth upon .[the] ditches .[and] fields of .[the] earth;
+  the fish liveth three days,
+  .[and] journeyeth unto .[the] rivers .[and] lakes.
+  Naturally .[are they] automatically thus: how be .[this] cunning?
 >>
 ====
-* 人生： .[I the] human lived \+
-  Literally this is "human life", or "life".
+* 人生： .[I] .[the] human lived \+
+  Literally "human life", or "life".
   To match the pattern in the sentences which follow,
   人生三歲 might be rendered "man liveth three years".
 
-* 三歲： three years; \or to .[the] age of three
+* 三歲： three years; \or .[to] age three
 
 * 畎：田中溝也； ditch (in a field) \+
   畎，音犬， \C h(u")n2, \M qu(av)n
