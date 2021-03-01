@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-02-07
+  %date-modified 2021-03-02
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -44,20 +44,10 @@
 This is one of several accounts of [Hiang T'o ((項橐))][項橐],
 a child prodigy who is supposed to have outwitted Confucius
 at the age of seven.
-From 《淮南子\.脩務訓》： [「夫項託七歲為孔子師」][脩務訓],
-"Hiang T'o ((項橐)) .[at] seven years became teacher of Confucius".
-In 《三字經》 he is mentioned in the line [「昔仲尼，師項橐」][三字經],
-"Chung-ni ((仲尼)) of old, .[had] teacher Hiang T'o ((項橐))".
 ----
 
 @@[項橐]
   https://zh.wikipedia.org/wiki/%E9%A0%85%E6%A9%90
-@@
-@@[脩務訓]
-  https://ctext.org/huainanzi/xiu-wu-xun#n3435
-@@
-@@[三字經]
-  https://ctext.org/three-character-classic#n90627
 @@
 
 ----
@@ -99,8 +89,6 @@ see [the actual first page of the almanac text][almanac text].
   .[the] Little Child's Discourse"
 >>
 ====
-* 問答： Q~.[\&]~A; \or questions .[and] answers; \or asking .[and] replying
-
 * 小： little; \or small
 ====
 
@@ -109,14 +97,13 @@ see [the actual first page of the almanac text][almanac text].
 ||
   Confucius, named K'iu ((丘)),
   .[and] styled Chung-ni ((仲尼)),
-  established .[a] teaching in .[the] west
-  of .[the] nation of Lu ((魯)).
+  established .[a] teaching in .[the] west of .[the] nation of Lu ((魯)).
 >>
 ====
 * 孔子： Confucius; \lit Master~K'ung ((孔))
 
 * 字： styled \+
-  A style name, also called a [courtesy name][字].
+  A style-name, also called a [courtesy name][字].
 
 * 敎： .[a] teaching; \or .[a] religion \+
 ====
@@ -128,10 +115,10 @@ see [the actual first page of the almanac text][almanac text].
 <<
   一日率諸弟子，御車出遊，路逢數兒嬉戲，中有一兒不戲。
 ||
-  One day .[he] led .[his] many disciples,
-  driving .[his] chariot out .[for] travel.
-  .[Along the] road .[they] encountered several children playing,
-  .[and] amidst .[them] there was one child .[who] played not.
+  One day .[he] led all .[the] disciples,
+  driving .[his] chariot out .[for] travel;
+  .[and] .[along] .[the] road encountered several children playing:
+  .[but] amidst .[them] there was one child .[who] played not.
 >>
 ====
 * 車： chariot \+
@@ -145,9 +132,8 @@ see [the actual first page of the almanac text][almanac text].
 <<
   孔子乃駐車問曰：獨汝不戲，何也？
 ||
-  Confucius thus stopped .[his] chariot .[and] asked,
-  saying,
-    Alone thou playest not: why?
+  Confucius thus stopped .[his] chariot .[and] asked, saying,
+  Alone thou playest not: why?
 >>
 
 <<
@@ -155,25 +141,19 @@ see [the actual first page of the almanac text][almanac text].
     凢戲無益，衣破難縫。上辱父母，下及門中。必有鬥爭，勞而無功。\
     豈爲好事？故乃不戲。
 ||
-  .[The] little child replied, saying,
-    All play .[is] without benefit:
-    clothes broken .[are] difficult .[to] mend;
-    above, .[it] disgraceth father .[and] mother:
-    .[and] below, unto .[those] amidst .[the] house;
-    surely there .[shall] be fighting .[and] striving:
+  .[The] little child answered, saying,
+    All play hath no benefit:
+    clothing broken .[is] difficult .[to] mend.
+    Upward disgraceth .[it] father .[and] mother;
+    .[and] downward unto .[those] amidst .[the] house.
+    Surely there be fighting .[and] striving;
     toil but no achievement.
-    How be .[this a] good thing? Therefore do .[I] play not.
+    How be .[this] .[a] good thing? Therefore do .[I] play not.
 >>
 ====
-* 凢 \+
-  Variant of 凡.
-
 * 縫： mend; \lit stitch
 
 * 門： house; \lit family
-
-* 豈： how \+
-  A very stern and righteous "how".
 ====
 
 <<
@@ -202,163 +182,147 @@ see [the actual first page of the almanac text][almanac text].
 <<
   孔子責之曰：何不避車乎？
 ||
-  Confucius rebuked him, saying,
-    Wherefore avoidest .[thou] not .[my] chariot?
+  Confucius rebuked him, saying, Why avoidest .[thou] not .[my] chariot?
 >>
 
 <<
   小兒答曰：自古及今，爲當車避于城，不當城避於車。
 ||
-  .[The] little child replied, saying,
-    Since antiquity, .[even] until now,
-    be .[it that] the chariot ought to avoid the wall,
-    not .[that] the wall ought to avoid the chariot.
+  .[The] little child answered, saying,
+  Since antiquity .[even] unto this day,
+  .[it] ought to be .[that] the chariot avoideth of the wall;
+  .[it] ought not to .[be] .[that] the wall avoideth of the chariot.
 >>
 
 <<
   孔子乃勒車論道，下車而問焉：汝年尚幼，何多詐乎？
 ||
-  Confucius thus restrained .[his] chariot
-  .[to] reason, alighting .[his] chariot and asking,
-    Thy years .[be] yet young; wherefore .[so] much cunning?
+  Confucius thus bridled .[his] chariot .[to] reason,
+  alighting .[his] chariot and asking him,
+  Thy years .[be] yet young; why .[so] much cunning?
 >>
 ====
 * 論道： reason; \lit debate logic \+
   Maybe "argue for .[the right of] way".
-
-* 詐： cunning; \lit trickery; \or deception \+
-  Here I think Confucius is referring to the child's wit;
-  I don't see how the child is tricking or deceiving Confucius in any way.
 ====
 
 <<
   小兒答曰：\
-    人生三歲，分別父母。\
-    兔生三日，走地畎畝。\
-    魚生三日，遊於江湖。\
-    天生自然，豈謂詐乎？
+  人生三歲，分別父母。\
+  兔生三日，走地畎畝。\
+  魚生三日，遊於江湖。\
+  天生自然，豈謂詐乎？
 ||
-  .[The] little child replied, saying,
-    .[I the] human lived three years,
-    .[and was] separated from .[my] father .[and] mother;
-    the rabbit liveth three days,
-    .[and] runneth upon .[the] ditches .[and] fields of .[the] earth;
-    the fish liveth three days,
-    .[and] journeyeth unto .[the] rivers .[and] lakes.
-    Naturally .[are they] automatically thus: how be .[this] cunning?
+  .[The] little child answered, saying,
+  .[I] .[the] human lived three years,
+  .[and] .[was] separated from father .[and] mother;
+  the rabbit liveth three days,
+  .[and] runneth upon .[the] ditched fields of .[the] earth;
+  the fish liveth three days,
+  .[and] journeyeth unto .[the] rivers .[and] lakes.
+  Inborn .[and] natural: how be .[this] cunning?
 >>
 ====
-* 人生： .[I the] human lived \+
-  Literally this is "human life", or "life".
+* 人生： .[I] .[the] human lived \+
+  Literally "human life", or "life".
   To match the pattern in the sentences which follow,
   人生三歲 might be rendered "man liveth three years".
 
-* 三歲： three years; \or to .[the] age of three
+* 三歲： three years; \or .[to] age three
 
-* 畎：田中溝也； ditch (in a field) \+
-  畎，音犬， \C h(u")n2, \M qu(av)n
+* 天生： inborn; \lit born of Heaven
 
-* 天生： naturally; \lit born of nature; \or born of Heaven
-
-* 豈謂： how be .[this]; \lit how speak of .[this as]
+* 謂： be; \lit call
 ====
 
 <<
   孔子曰：汝居何鄉、何里、何姓、何名、何字？
 ||
   Confucius said,
-    Dwellest thou in what hometown, .[and] what village;
-    .[and] what surname, what name, .[and] what style name .[hast thou]?
+  Dwellest thou in what hometown, .[and] what village,
+  .[and hast] what surname, what name, .[and] what style-name?
 >>
 
 <<
   小兒答曰：吾居敝鄉、賤地、姓項、名橐、未有字也。
 ||
-  .[The] little child replied, saying,
-    I dwell in .[a] shabby hometown, .[and a] lowly village,
-    .[and am] surnamed Hiang ((項)),
-    .[and] named T'o ((橐)),
-    .[and am] yet to have .[a] style name.
+  .[The] little child answered, saying,
+  I dwell in .[a] decrepit hometown, .[in] lowly land,
+  .[and am] surnamed Hiang ((項)),
+  .[and] named T'o ((橐)),
+  .[and] yet to have .[a] style-name.
 >>
 ====
-* 敝： shabby; \or worn-out \+
-  Both 敝 and 賤 can be used
-  as a self-deprecating substitute for "I" or "my".
+* 敝： decrepit \+
+  Both 敝~(decrepit) and 賤~(lowly) can be used
+  as self-deprecating substitutes for "I" or "my".
 ====
 
 <<
   孔子曰：吾欲共汝同遊，汝意下如何？
 ||
   Confucius said,
-    I wish to travel together with thee:
-    what .[be] thy thoughts .[upon this]?
+  I wish to travel together with thee:
+  what .[be] thy thoughts?
 >>
 ====
 * **{.danger} Beware stranger danger.**
 
-* 汝意下如何：
-    what .[be] thy thoughts .[upon this];
-    \or [what sayest thou](https://youtu.be/f_4-rCROcsM "What say you?")
+* 汝意下如何： what .[be] thy thoughts \+
+  Perhaps ["what sayest thou"](https://youtu.be/f_4-rCROcsM "What say you?").
 ====
 
 <<
   小兒答曰：家有嚴父，須當事之。家有慈母，須當養之。
 ||
-  .[The] little child replied, saying,
-    .[In mine] house there is .[my] strict father: .[I] must attend to him.
-    .[In mine] house there is .[my] loving mother: .[I] must provide for her.
+  .[The] little child answered, saying,
+  .[In mine] house there is .[my] strict father:
+  .[I] must needs serve him.
+  .[In mine] house there is .[my] affectionate mother:
+  .[I] must needs provide for her.
 >>
 ====
-* 慈： loving; \or kind \+
-  The quintessential father is strict (嚴) in that
-  in addition to providing for his children,
-  he ought not to fail in teaching them
-  (as in [養不教，父之過][養不教],
-  ".[to] provide for .[but] not teach, .[is the] mistake of .[the] father").
-  The quintessential mother is kind/loving (慈).
-  In literary Chinese the words 嚴 and 慈 can, even on their own,
-  mean father and mother respectively.
-
-* 養： provide for; \or support; \or feed
+* 嚴父： strict father \+
+  Arguably could be rendered just "father".
+  Here, 嚴~(strict) is not specific to the child's father,
+  but a quality of the quintessential father in Confucianism.
+  Ditto 慈~(affectionate) for the mother.
+* 須當： must needs; \lit must ought to
+* 養： provide for; \or support
 ====
-
-@@[養不教]
-  https://ctext.org/three-character-classic#n90568
-@@
 
 <<
   家有賢兄，須當順之。家有弱弟，須當敎之。家有明師，須當學之。何暇同遊也？
 ||
-  .[In mine] house there are .[my] worthy older brothers:
-    .[I] must obey them.
-  .[In mine] house there are .[my] feeble younger brothers:
-    .[I] must teach them.
-  .[In mine] house there is .[my] brilliant teacher:
-    .[I] must learn from him.
-  What spare time .[have I to] travel together .[with thee]?
+  .[In mine] house there are .[my] worthy elder-brothers:
+  .[I] must needs obey them.
+  .[In mine] house there are .[my] weak younger-brothers:
+  .[I] must needs teach them.
+  .[In mine] house there is .[my] wise master:
+  .[I] must needs learn from him.
+  What leisure .[have I] .[to] travel together?
 >>
 ====
-* 賢： worthy; also virtuous \+
-  Often used as an honorific.
-
-* 順： obey; \or go along with; \or follow
+* 賢： worthy; \or talented
+* 順： obey; \or conform unto
+* 明： wise; \lit brilliant
 ====
 
 <<
   孔子曰：吾車中有三十二棋子，與汝奕博，汝意下如何？
 ||
   Confucius said,
-    In my chariot there are thirty-two chess pieces,
-    .[to] play chess .[for a] wager with thee:
-    what .[be] thy thoughts .[upon this]?
+  Amidst my chariot there are thirty-two chess pieces,
+  .[to] play chess .[for a] wager with thee:
+  what .[be] thy thoughts?
 >>
 ====
 * 三十二棋子 \+
   It is a coincidence that
   [Chinese Chess (象棋)][象棋] and [Western Chess][Chess]
-  both use 16 chess pieces per player.
+  both use 16~chess pieces per player.
   Of course this text is not canon, nor is it historically accurate;
-  in Confucius's time, 奕 referred to the [Surrounding Game (圍棋)][圍棋],
+  in Confucius's time, 奕 referred to [Surrounding Chess (圍棋)][圍棋],
   more commonly known as Go.
 ====
 
@@ -375,41 +339,36 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：天子好博，四海不理。諸侯好博，有妨政紀。士儒好博，學問廢弛。
 ||
-  .[The] little child replied, saying,
-    .[Be the] Son of Heaven fond of wagering:
-      .[all within the] Four Seas .[shall] not .[be properly] administered.
-    .[Be the] many lords fond of wagering:
-      .[this] doth harm governance .[and] law.
-    .[Be the] scholars .[and] academics fond of wagering:
-      scholarship .[shall be] neglected .[and] abandoned.
+  .[The] little child answered, saying,
+  .[The] Son of Heaven being fond of wagering,
+  .[all] .[within] .[the] Four Seas .[shall] not .[be] maintained.
+  All .[the] marquesses being fond of wagering,
+  doth obstruct .[the] laws of governance.
+  .[The] scholars being fond of wagering,
+  scholarship .[shall] .[be] abandoned.
 >>
 ====
 * 天子： .[the] Son of Heaven \+
   The emperor.
 
-* 侯： lords; \or marquesses \+
-  See [諸侯](https://en.wiktionary.org/wiki/%E8%AB%B8%E4%BE%AF).
+* 妨： obstruct; \or harm
 
-* 妨： harm; \or obstruct
-
-* 學問： scholarship; \or learning; \lit learning .[and] enquiry
-
-* 弛： abandoned; \lit slackened
+* 學問： scholarship; \lit learning .[and] enquiry
 ====
 
 <<
   小人好博，輸却家計。奴婢好博，必受鞭撲。農夫好博，耕種失時。是故不博也。
 ||
-  .[Be] the little man fond of wagering:
-    .[he shall] lose away .[the] livelihood of .[his] family.
-  .[Be the] manservants .[and] maidservants fond of wagering:
-    .[they shall] surely be lashed .[and] beaten.
-  .[Be] the farmer fond of wagering:
-    .[he shall] plough .[and] sow out of season.
+  The little man being fond of wagering,
+  .[shall] lose away .[the] family livelihood.
+  .[The] manservants .[and] maidservants being fond of wagering,
+  .[shall] surely receive whipping .[and] beating.
+  The farmer being fond of wagering,
+  .[shall] plough .[and] sow out of season.
   .[For] these reasons .[I] wager not.
 >>
 ====
-* 失時： out of season; \lit missing .[the] season
+* 失時： out of season; \lit mis-season
 ====
 
 <<
