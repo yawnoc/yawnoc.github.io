@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-01
+  %date-modified 2021-03-02
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.

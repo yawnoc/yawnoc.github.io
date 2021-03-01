@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-03-01
+  %date-modified 2021-03-02
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
