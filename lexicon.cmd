@@ -300,7 +300,7 @@ are not complete, nor could they ever be.
 2 [下] U+4E0B
 ====
 * go down; alight
-* down(ward); lower; below; inferior
+* down(ward); lower; below; under; inferior
 ====
 ----
 See also: [意下][意]

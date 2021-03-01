@@ -375,13 +375,12 @@ see [the actual first page of the almanac text][almanac text].
   孔子曰：吾欲與汝平却天下，汝意下如何？
 ||
   Confucius said,
-    I wish to level out .[all] under Heaven with thee:
-    what .[be] thy thoughts .[upon this]?
+  I wish to level out .[all] under Heaven with thee:
+  what .[be] thy thoughts?
 >>
 ====
-* 平却： level out; \or flatten away \+
-  Alternatively, 平 may mean "make fair",
-  as in fairness, and egalitarianism.
+* 平却： level out \+
+  Hinting at egalitarianism.
 
 * 天下： .[all] under Heaven \+
   The whole world. Similar to "under the sun" in English,
