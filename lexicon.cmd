@@ -331,7 +331,8 @@ See also: [逝世][逝]
 3 [中] U+4E2D
 [平聲]
 ====
-* centre; middle; (a)midst
+* centre; middle; midst
+* amidst; among
 ====
 [去聲]
 ====

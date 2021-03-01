@@ -118,7 +118,7 @@ see [the actual first page of the almanac text][almanac text].
   One day .[he] led all .[the] disciples,
   driving .[his] chariot out .[for] travel;
   .[and] .[along] .[the] road encountered several children playing:
-  .[but] amidst .[them] there was one child .[who] played not.
+  .[but] among .[them] there was one child .[who] played not.
 >>
 ====
 * 車： chariot \+
