@@ -41,6 +41,7 @@
       font-family: Consolas, "Lucida Sans Typewriter", monospace;
     }
     .code-point {
+      color: var(--colour-g);
       margin-left: 0.1rem;
     }
     .radical-strokes > li {
