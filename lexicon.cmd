@@ -53,7 +53,7 @@
       width: 1.3rem;
     }
     .tone {
-      background: #666;
+      background: #222;
       color: white;
       padding: 0.13em 0.2em;
     }
