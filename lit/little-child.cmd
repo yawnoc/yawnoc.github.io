@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-02-28
+  %date-modified 2021-03-01
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -359,10 +359,10 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小人好博，輸却家計。奴婢好博，必受鞭撲。農夫好博，耕種失時。是故不博也。
 ||
-  .[Be] the little man fond of wagering:
-    .[he shall] lose away .[the] livelihood of .[his] family.
-  .[Be the] manservants .[and] maidservants fond of wagering:
-    .[they shall] surely be lashed .[and] beaten.
+  The little man being fond of wagering,
+  .[shall] lose away .[the] family livelihood.
+  .[The] manservants .[and] maidservants being fond of wagering,
+  .[shall] surely receive whipping .[and] beating.
   .[Be] the farmer fond of wagering:
     .[he shall] plough .[and] sow out of season.
   .[For] these reasons .[I] wager not.
