@@ -363,12 +363,12 @@ see [the actual first page of the almanac text][almanac text].
   .[shall] lose away .[the] family livelihood.
   .[The] manservants .[and] maidservants being fond of wagering,
   .[shall] surely receive whipping .[and] beating.
-  .[Be] the farmer fond of wagering:
-    .[he shall] plough .[and] sow out of season.
+  The farmer being fond of wagering,
+  .[shall] plough .[and] sow out of season.
   .[For] these reasons .[I] wager not.
 >>
 ====
-* 失時： out of season; \lit missing .[the] season
+* 失時： out of season; \lit mis-season
 ====
 
 <<
