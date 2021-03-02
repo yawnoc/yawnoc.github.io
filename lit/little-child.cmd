@@ -480,7 +480,7 @@ see [the actual first page of the almanac text][almanac text].
 * 仙人： the immortal man \+
   Legendary immortal beings, celibate by trope.
   Historically, people [ingested "elixirs of immortality"][仙丹]
-  in attempts to become immortal.
+  in attempts to become such.
 
   @@[仙丹]
     https://en.wikipedia.org/wiki/Chinese_alchemical_elixir_poisoning
