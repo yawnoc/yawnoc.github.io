@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-03-02
+  %date-modified 2021-03-03
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -497,22 +497,21 @@ see [the actual first page of the almanac text][almanac text].
   冬日不足。夏日有餘。\
   皇城無市。小人無字。
 ||
-  .[A] clay cow hath no calf.
-  .[A] wooden horse hath no foal.
-  The lone male bird hath no female bird.
-  The lone female bird hath no male bird.
-  Virtuous be the gentleman.
-  Foolish be the little man.
-  Winter days .[be] not sufficient.
-  Summer days .[be] in excess.
+  The clay cow hath no calf.
+  The wooden horse hath no foal.
+  The lone male hath no female.
+  The lone female hath no male.
+  The worthy .[one] be .[a] gentleman.
+  The foolish .[one] be .[a] little man.
+  The winter day .[be] not sufficient.
+  The summer day .[be] in excess.
   .[The] imperial city hath no market.
-  .[I the] little man have no style name.
+  .[I] .[the] little man have no style-name.
 >>
 ====
-* 小人： .[I the] little man \+
-  A self-deprecating self address.
-  Evidently Hiang T'o ((項橐)) is
-  far from the little man of Confucianism.
+* 小人： .[I] .[the] little man \+
+  A deprecating self-address.
+  Evidently Hiang T'o ((項橐)) is far from the little man of Confucianism.
 ====
 
 <<
