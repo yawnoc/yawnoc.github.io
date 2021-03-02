@@ -405,21 +405,16 @@ see [the actual first page of the almanac text][almanac text].
   除却王侯，民多是非。絶却奴婢，君子使誰？\
   天下蕩蕩，豈可平乎？
 ||
-    Level out .[the] high mountains,
-      .[and the] birds .[and] beasts .[shall] have nothing .[to] lean upon;
-    fill out .[the] rivers .[and] lakes,
-      .[and the] fishes .[and] turtles .[shall] have no home;
-    remove out .[the] kings .[and] lords,
-      .[and] the people .[shall have] many quarrels;
-    cut off .[the] manservants .[and] maidservants,
-      .[and] whom .[shall the] rulers employ?
-    Vast .[be all] under Heaven: how can .[it be] levelled?
+  Level out .[the] high mountains,
+  .[and the] birds .[and] beasts .[shall] have nothing .[to] lean upon.
+  Fill out .[the] rivers .[and] lakes,
+  .[and the] fishes .[and] turtles .[shall] have nowhere .[to] return.
+  Remove away .[the] kings .[and] marquesses,
+  .[and] the people .[shall have] many quarrels.
+  Cut off .[the] manservants .[and] maidservants,
+  .[and] whom .[shall] the ruler employ?
+  Vast .[be] .[all] under Heaven: how can .[it be] levelled?
 >>
-====
-* 無歸： no home; \or nothing .[to] return to
-
-* 蕩蕩：大也，廣遠也； vast
-====
 
 <<
   孔子曰：\
