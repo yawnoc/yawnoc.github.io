@@ -445,26 +445,18 @@ see [the actual first page of the almanac text][almanac text].
 ||
   What cow hath no calf?
   What horse hath no foal?
-  What male bird hath no female bird?
-  What female bird hath no male bird?
-  What be the gentleman?
-  What be the little man?
+  What male hath no female?
+  What female hath no male?
+  What be .[a] gentleman?
+  What be .[a] little man?
   What be not sufficient?
   What be in excess?
   What city hath no market?
-  What man hath no style name?
+  What man hath no style-name?
 >>
 ====
-* 犢：牛子也； calf \+
-  犢，音獨， \C tuk9, \M d(u/)
-
-* 駒：馬二歲曰駒； foal; \lit horse .[under] two years
-
-* 雄： male bird \+
-  More generally this refers to any male plant or animal.
-
-* 雌： female bird \+
-  More generally this refers to any female plant or animal.
+* 雄： male; \or male-bird
+* 雌： female; \or female-bird
 ====
 
 <<
