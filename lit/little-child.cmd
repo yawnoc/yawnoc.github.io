@@ -418,26 +418,24 @@ see [the actual first page of the almanac text][almanac text].
 
 <<
   孔子曰：\
-    汝知天下，\
-    何火無烟？何水無魚？\
-    何山無石？何樹無枝？\
-    何人無婦？何女無夫？
+  汝知天下，\
+  何火無烟？何水無魚？\
+  何山無石？何樹無枝？\
+  何人無婦？何女無夫？
 ||
   Confucius said,
-    Knowest thou under Heaven:
-    What fire hath no smoke?
-    What water hath no fish?
-    What mountain hath no rock?
-    What tree hath no twig?
-    What man hath no wife?
-    What woman hath no husband?
+  Knowest thou under Heaven:
+  What fire hath no smoke?
+  What water hath no fish?
+  What mountain hath no rock?
+  What tree hath no branch?
+  What man hath no wife?
+  What woman hath no husband?
 >>
 ====
 * 火： fire; \or light
-
 * 山： mountain; \or hill
-
-* 枝： twig; \or branch
+* 枝： branch; \or twig
 ====
 
 <<
