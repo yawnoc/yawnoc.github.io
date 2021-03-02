@@ -392,12 +392,12 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：天下不可平也。或有高山，或有江湖。或有王侯，或有奴婢。
 ||
-  .[The] little child replied, saying,
-    .[All] under Heaven cannot .[be] levelled.
-    Perhaps there be high mountains;
-    perhaps there be rivers .[and] lakes;
-    perhaps there be kings .[and] lords;
-    perhaps there be manservants .[and] maidservants.
+  .[The] little child answered, saying,
+  .[All] under Heaven cannot .[be] levelled.
+  Perhaps there be high mountains;
+  perhaps there be rivers .[and] lakes.
+  Perhaps there be kings .[and] marquesses;
+  perhaps there be manservants .[and] maidservants.
 >>
 
 <<
