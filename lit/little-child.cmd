@@ -462,35 +462,31 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：螢火無烟。井水無魚。土山無石。枯樹無枝。仙人無婦。玉女無夫。
 ||
-  .[The] little child replied, saying,
-    Firefly light hath no smoke.
-    Well water hath no fish.
-    The dirt hill hath no rock.
-    The withered tree hath no twig.
-    The celestial man hath no wife.
-    The fairy woman hath no husband.
+  .[The] little child answered, saying,
+  Firefly light hath no smoke.
+  Well water hath no fish.
+  The soil hill hath no rock.
+  The withered tree hath no branch.
+  The immortal man hath no wife.
+  The fairy woman hath no husband.
 >>
 ====
 * 螢火： firefly light \+
   This riddle only works because 火 may mean both "fire" and "light".
 
-* 土山： the dirt hill; \or the earth hill \+
-  Similarly this works because 山 may mean both "mountain" and "hill".
+* 土山： the soil hill; \or the earth hill \+
+  Ditto 山 for both "mountain" and "hill".
 
-* 仙人： the celestial man \+
-  A supernatural, immortal being, usually celibate.
-  Many people attempted to become immortal by
-  ingesting various "immortality elixirs" of [alchemy],
-  which were usually [toxic substances].
-  
-  @@[alchemy]
-    https://en.wikipedia.org/wiki/Chinese_alchemy
-  @@
-  @@[toxic substances]
+* 仙人： the immortal man \+
+  Legendary immortal beings, celibate by trope.
+  Historically, people [ingested "elixirs of immortality"][仙丹]
+  in attempts to become immortal.
+
+  @@[仙丹]
     https://en.wikipedia.org/wiki/Chinese_alchemical_elixir_poisoning
   @@
 
-* 玉女： fairy lady; \lit jade lady \+
+* 玉女： fairy woman; \lit jade woman \+
   The female equivalent of 仙人.
 ====
 
