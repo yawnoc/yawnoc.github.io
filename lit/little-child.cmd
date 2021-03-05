@@ -530,12 +530,12 @@ see [the actual first page of the almanac text][almanac text].
 ||
   What be left?
   What be right?
-  What be .[on the] surface?
-  What be within?
-  What be the father?
-  What be the mother?
-  What be the husband?
-  What be the wife?
+  What be surficial?
+  What be internal?
+  What be .[a] father?
+  What be .[a] mother?
+  What be .[an] husband?
+  What be .[a] wife?
 >>
 
 <<
