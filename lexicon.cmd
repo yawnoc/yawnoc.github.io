@@ -1370,6 +1370,16 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 * family; house
 ====
 
+7 [容] U+5BB9
+====
+* contain
+* tolerate; suffer
+* countenance
+====
+----
+See also: [從容][從]
+----
+
 11 [實] U+5BE6
 ====
 * actual; fact; real; solid
@@ -1659,12 +1669,12 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 8 [從] U+5F9E
 [陰平] 音嵩 c(o-)ng
 ====
-* 從容： leisurely
+* 從[容]： leisurely
 ====
 [陰平] 音蹤 z(o-)ng
 ====
-* {\int 縱} [but 去聲 z(o\)ng in Mainlandia]
-* {\int 蹤}
+* {\int [縱]} vertical [but 去聲 z(o\)ng in Mainlandia]
+* {\int [蹤]}
 ====
 [陽平] 音叢 c(o/)ng
 ====
@@ -1673,7 +1683,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 ====
 [陰去] 音瘲 z(o\)ng
 ====
-* {\int 縱}
+* {\int [縱]}
 ====
 [陽去] 音頌 z(o\)ng
 ====
@@ -2960,6 +2970,18 @@ See also: [百萬][萬]
 * stitch; \met mend
 ====
 
+11 [縱] U+7E31
+[平聲]
+====
+* vertical; longitudinal; meridian [but 去聲 in Mainlandia]
+* {\int [蹤]}
+====
+[去聲]
+====
+* set (loose)
+* indulge
+====
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⽸ (jar) U+2F78
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -3526,6 +3548,11 @@ See also: [聯翩][翩]
 6 [路] U+8DEF
 ====
 * road; path
+====
+
+11 [蹤] U+8E64
+====
+* [:noun:] trace
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
