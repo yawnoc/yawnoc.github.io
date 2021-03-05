@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-03
+  %date-modified 2021-03-05
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -2879,6 +2879,12 @@ See also: [百萬][萬]
 * annals
 ====
 
+5 [終] U+7D42
+====
+* end; finish
+* all
+====
+
 6 [絕] U+7D55
 ====
 * cut (off); sever
@@ -2888,6 +2894,12 @@ See also: [百萬][萬]
 6 [絶] U+7D76
 ====
 * {\var [絕]}
+====
+
+8 [綱] U+7DB1
+====
+* principle
+* crux
 ====
 
 8 [綿] U+7DBF
@@ -3730,7 +3742,12 @@ See also: [聯翩][翩]
 
 8 [陰] U+9670
 ====
-* shade; dark; female
+* shade; dark; female; Yin
+====
+
+9 [陽] U+967D
+====
+* sun; light; male; Yang
 ====
 
 13 [隨] U+96A8

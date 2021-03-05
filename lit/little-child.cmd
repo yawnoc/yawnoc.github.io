@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-03-03
+  %date-modified 2021-03-05
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -518,8 +518,8 @@ see [the actual first page of the almanac text][almanac text].
   孔子問曰：汝知天地之綱紀，陰陽之終始？
 ||
   Confucius asked, saying,
-    Knowest thou .[the] principle .[and the] law of Heaven .[and] Earth,
-    .[and the] beginning .[and the] end of Yin .[and] Yang?
+  Knowest thou .[the] principle .[and] .[the] law of Heaven .[and] Earth,
+  .[and] .[the] end .[and] .[the] beginning of Yin .[and] Yang?
 >>
 ====
 * 綱： principle; \or crux
