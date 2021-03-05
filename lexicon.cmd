@@ -1643,6 +1643,30 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 * satisfy; done
 ====
 
+8 [從] U+5F9E
+[陰平] 音嵩 c(o-)ng
+====
+* 從容： leisurely
+====
+[陰平] 音蹤 z(o-)ng
+====
+* {\int 縱} [but 去聲 z(o\)ng in Mainlandia]
+* {\int 蹤}
+====
+[陽平] 音叢 c(o/)ng
+====
+* follow; pursue; obey
+* from
+====
+[陰去] 音瘲 z(o\)ng
+====
+* {\int 縱}
+====
+[陽去] 音頌 z(o\)ng
+====
+* paternal {relative}
+====
+
 8 [御] U+5FA1
 ====
 * drive
