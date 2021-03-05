@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-05
+  %date-modified 2021-03-06
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -233,18 +233,31 @@ Z{%
 
 
 
-----
-This lexicon is meant to be a quick reference
-for Literary Chinese words and phrases
-which I have rendered into English somewhere amidst my translations.
-----
+++++{start=0}
++ **I am not a Literary Chinese expert.**
+  This lexicon is merely a means of improving consistency in my translations.
+  Undoubtedly I will misinterpret words,
+  but hopefully I will now do so *consistently*.
 
-----
-Compiling a dictionary takes a lot of work.
-**This lexicon is not a dictionary:**
-the listings of meanings, parts of speech, and pronunciations
-are not complete, nor could they ever be.
-----
++ **This lexicon is not a dictionary.**
+  The listings of meanings, <span class="type">\[parts of speech\]</span>,
+  and <span class="tone">pronunciations</span>
+  are not complete, nor could they ever be.
+
++ Pronunciation listings by <span class="tone">陰陽平上去入</span>
+  are based on the classical tone classes,
+  which generally accord with modern Cantonese.
+  When they do not make sense in modern Mandarin,
+  it is due to either
+  (1)~loss of entering tone, or
+  (2)~[Government-regulated 統讀-readings][統讀] in Mainlandia.
+
++ 音-homophones are based on modern Cantonese.
+
++ Non-literal renderings are marked by \met (for "metaphorical").
+++++
+
+@[統讀] ~~https://zh.wikisource.org/wiki/普通话异读词审音表（修订稿）~~ @
 
 
 ////////////////////////////////////////////////////////////////
