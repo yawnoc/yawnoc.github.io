@@ -651,17 +651,16 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：人生無婦，如車無輪。無輪再造，必得其新。婦死更索，又得其新。
 ||
-  .[The] little child replied, saying,
-    .[A] man losing .[his] wife .[in] life,
-    .[is] like .[a] chariot losing .[its] wheel.
-    .[Should a] wheel .[be] lost, remake .[it]:
-    surely .[a] new .[one shall be] obtained.
-    .[Should one's] wife die, seek anew:
-    also .[a] new .[one shall be] obtained.
+  .[The] little child answered, saying,
+  Losing .[one's] wife .[in] life,
+  .[is] like the cart losing .[its] wheel.
+  .[The] wheel lost, make again,
+  .[and] surely obtain .[a] new .[one] thereof.
+  .[One's] wife .[having] died, seek anew,
+  .[and] also obtain .[a] new .[one] thereof.
 >>
 ====
-* 更： anew \+
-  更，平聲， \C kang1, \M g(e-)ng
+* 無： losing; \lit without
 ====
 
 <<
