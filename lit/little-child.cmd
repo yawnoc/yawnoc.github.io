@@ -573,16 +573,10 @@ see [the actual first page of the almanac text][almanac text].
     天一，地二，人三；三三而九，九九八十一；一主日，日數十，故人十月而生。
   ||
     Heaven .[is] first, Earth second .[and] Man third.
-    .[Now] three threes .[are] then nine, .[and] nine nines eighty-one.
+    .[From] three threes .[are] nine, .[and] nine nines eighty-one.
     One governeth .[the] sun, .[and the] sun .[hath] number ten;
-    therefore man .[is] born of .[a term of] ten months.
+    therefore man .[is] born of ten months.
   >>
-  (Presumably "months" are 28-day months,
-  so that ten months make forty weeks, a full term.)
-  Being a physicist, I take a very dim view of such works
-  (involving arbitrary associations etc.).
-  It is a real pity too, for such material detracts from
-  the [serious mathematics of Classical Chinese literature](/#lit-math).
 ====
 
 <<
