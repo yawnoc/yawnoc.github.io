@@ -531,7 +531,7 @@ see [the actual first page of the almanac text][almanac text].
   What be left?
   What be right?
   What be surficial?
-  What be internal?
+  What be inside?
   What be .[a] father?
   What be .[a] mother?
   What be .[an] husband?
@@ -582,18 +582,18 @@ see [the actual first page of the almanac text][almanac text].
 <<
   天爲父。地爲母。日爲夫。月爲婦。東爲左。西爲右。外爲表。内爲裏。
 ||
-  Heaven be the father.
-  Earth be the mother.
-  .[The] sun be the husband.
-  .[The] moon be the wife.
+  Heaven be .[a] father.
+  Earth be .[a] mother.
+  .[The] sun be .[an] husband.
+  .[The] moon be .[a] wife.
   East be left.
   West be right.
-  .[The] exterior be .[on the] surface.
-  .[The] interior be within.
+  The external be surficial.
+  The internal be inside.
 >>
 ====
 * 東爲左。西爲右。 \+
-  Traditionally, one faces the south;
+  Classically, one faces the south;
   thus east is to the left, and west is to the right.
 ====
 
