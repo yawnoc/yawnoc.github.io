@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-06
+  %date-modified 2021-03-07
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -1430,6 +1430,13 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 ----
 See also: [從容][從]
 ----
+
+8 [寄] U+5BC4
+====
+* commit {to entrust}
+* adhere
+* send (away)
+====
 
 11 [實] U+5BE6
 ====
@@ -3797,6 +3804,11 @@ See also: [聯翩][翩]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⾢ (city) U+2FA2
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+6 [郊] U+90CA
+====
+* outskirt
+====
 
 9 [鄉] U+9109
 ====

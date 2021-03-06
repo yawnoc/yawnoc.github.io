@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-03-06
+  %date-modified 2021-03-07
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -543,7 +543,7 @@ see [the actual first page of the almanac text][almanac text].
 ||
   From whence cometh the wind?
   From whence arriveth the rain?
-  From whence emergeth the clouds?
+  From whence emergeth the cloud?
   From whence ariseth the fog?
   How many thousands .[and] myriads of miles
   .[are] Heaven .[and] Earth separated from each other?
@@ -604,21 +604,16 @@ see [the actual first page of the almanac text][almanac text].
   東西南北，皆有寄耳。
 ||
   The wind .[cometh] from Ts'ang Wu ((蒼梧)).
-  The rain .[arriveth] from .[the] outskirt towns.
-  The clouds emergeth from .[the] mountains.
+  The rain .[arriveth] from the outskirt town.
+  The cloud emergeth from the mountain.
   The fog ariseth from .[the] ground.
-  Heaven .[and] Earth .[are] mutually separated,
-   .[in] excess of
-    thousands .[upon] thousands .[and]
-    myriads .[upon] myriads of miles.
-  East, west, south, .[and] north, all have adherence unto .[these].
+  Heaven .[and] Earth .[are] separated from each other,
+  in excess of .[a] thousand thousand .[and] .[a] myriad myriad miles.
+  East, west, south, .[and] north, all have adherence.
 >>
 ====
-* Ts'ang Wu ((蒼梧))：地名，舜葬處 \+
+* Ts'ang Wu ((蒼梧)) \+
   A place name.
-  [The legendary Shun ((舜)) is supposed to have been buried here.](
-    https://ctext.org/kangxi-zidian/75/7#n330493
-  )
 
 * 郊市： outskirt towns \+
   Not certain. Possibly "town of Kiao ((郊))".
