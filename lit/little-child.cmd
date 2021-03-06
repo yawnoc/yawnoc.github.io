@@ -624,9 +624,9 @@ see [the actual first page of the almanac text][almanac text].
   孔子問曰：汝言父母是親，夫婦是親？
 ||
   Confucius asked, saying,
-    Sayest thou .[that] father .[and] mother are .[more] close
-    .[unto their children],
-    .[or that] husband .[and] wife are .[more] close?
+  Sayest thou .[that]
+  father .[and] mother are .[more] close .[unto] .[their children],
+  .[or that] husband .[and] wife are .[more] close?
 >>
 ====
 * 親： close; \or loving
@@ -635,9 +635,9 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：父母是親，夫婦不親。
 ||
-  .[The] little child replied, saying,
-    Father .[and] mother are .[more] close .[unto their children];
-    husband .[and] wife, not .[as] close.
+  .[The] little child answered, saying,
+  Father .[and] mother are .[more] close;
+  husband .[and] wife, not .[as] close.
 >>
 
 <<

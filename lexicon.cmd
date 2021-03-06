@@ -2108,6 +2108,7 @@ See also: [從容][從]
 ====
 * right; correct
 * this
+* is
 ====
 ----
 See also: [是非][非]
@@ -3443,6 +3444,18 @@ See also: [聯翩][翩]
 * see; meet
 ====
 
+9 [親] U+89AA
+[平聲]
+====
+* parents; relatives
+* (be) close; touch; love
+* personally; \met .[mine] own
+====
+[去聲]
+====
+* in-laws
+====
+
 18 [觀] U+89C0
 ====
 * observe; see
@@ -3455,6 +3468,13 @@ See also: [聯翩][翩]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⾔ (speech) U+2F94
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+0 [言] U+8A00
+====
+* speech; saying; \met words
+* speak; say
+* [:speech-assist:]
+====
 
 2 [計] U+8A08
 ====
