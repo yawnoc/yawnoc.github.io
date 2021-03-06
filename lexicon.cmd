@@ -44,9 +44,6 @@
       color: var(--colour-g);
       margin-left: 0.1rem;
     }
-    .links {
-      margin-left: 0.7rem;
-    }
     .radical-strokes > li {
       text-align: center;
       width: 2rem;
@@ -176,7 +173,7 @@ l{%
 
 <## Character entry heading ##>
 <## {strokes} [{character}] {code point} ##>
-c{%
+r{%
   ^
     (?P<residual_strokes> [0-9]{1,2} )
   [ ]
@@ -189,25 +186,6 @@ c{%
     <span class="residual-strokes">\g<residual_strokes></span>
     <span class="character">\g<character></span>
     <span class="code-point">\g<code_point></span>
-    <span class="links">
-      [c](
-        https://ctext.org/dictionary.pl?if=en&char=\g<character>
-        Chinese Text Project Dictionary
-      )
-      [m](
-        https://www.moedict.tw/\g<character>
-        萌典
-      )
-      [u](
-        https://www.unicode.org/cgi-bin/GetUnihanData.pl\\
-          ?codepoint=\g<character>
-        Unihan Database
-      )
-      [w](
-        https://en.wiktionary.org/wiki/\g<character>
-        Wiktionary
-      )
-    </span>
   ####
   @[\g<character>] #\g<character> @
 %}
