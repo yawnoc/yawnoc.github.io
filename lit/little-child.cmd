@@ -560,11 +560,11 @@ see [the actual first page of the almanac text][almanac text].
 <<
   小兒答曰：九九還歸八十一，是天地之綱紀。八九七十二，是陰陽之終始。
 ||
-  .[The] little child replied, saying,
-    Nine nines return eighty-one:
-      this .[be] .[the] principle .[and the] law of Heaven .[and] Earth.
-    .[And] eight nines seventy-two:
-      this .[be the] beginning .[and the] end of Yin .[and] Yang.
+  .[The] little child answered, saying,
+  Nine nines .[do] return eighty-one:
+  this .[be] .[the] principle .[and] .[the] law of Heaven .[and] Earth.
+  Eight nines .[are] seventy-two:
+  this .[be] .[the] end .[and] .[the] beginning of Yin .[and] Yang.
 >>
 ====
 * There is a whole genre of stuff like this i.e.~divination, numerology etc.
