@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-03-05
+  %date-modified 2021-03-06
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -546,7 +546,7 @@ see [the actual first page of the almanac text][almanac text].
   From whence emergeth the clouds?
   From whence ariseth the fog?
   How many thousands .[and] myriads of miles
-  .[are] Heaven .[and] Earth mutually separated?
+  .[are] Heaven .[and] Earth separated from each other?
 >>
 ====
 * 里： miles \+
