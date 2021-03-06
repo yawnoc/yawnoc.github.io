@@ -644,12 +644,9 @@ see [the actual first page of the almanac text][almanac text].
   孔子曰：夫婦生則同衾，死則同穴，何得不親？
 ||
   Confucius said,
-    Husband .[and] wife .[are under the] same bed quilt .[in] life,
-    .[and the] same grave .[in] death: how can .[they be] not .[as] close?
+  Husband .[and] wife .[share] .[the] same quilt .[in] life,
+  .[and the] same pit .[in] death: how could .[they be] not .[as] close?
 >>
-====
-* 衾： bed quilt; \or blanket
-====
 
 <<
   小兒答曰：人生無婦，如車無輪。無輪再造，必得其新。婦死更索，又得其新。
