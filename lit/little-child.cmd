@@ -756,20 +756,19 @@ see [the actual first page of the almanac text][almanac text].
 
 <<
   小兒答曰：\
-    不然。魚鱉能浮，豈皆足方？\
-    蝦蟆能鳴，豈因頸長？\
-    綠竹冬青，豈因心堅？
+  不然。魚鱉能浮，豈皆足方？\
+  蝦蟆能鳴，豈因頸長？\
+  綠竹冬青，豈因心堅？
 ||
-  .[The] little child replied, saying,
-    Not so.
-    Fishes .[and] turtles can float: how .[have they] all square feet?
-    The toad can sound: how .[be this] because of .[a] long neck?
-    The green bamboo .[is] evergreen:
-      how .[be this] because of .[a] strong core?
+  .[The] little child answered, saying,
+  Not so.
+  Fishes .[and] turtles .[be] able to float,
+  .[and] how .[have they] all feet square?
+  The toad .[be] able to sound,
+  .[and] how because of .[a] neck long?
+  The green bamboo .[be] evergreen,
+  .[and] how because of .[a] core strong?
 >>
-====
-* 綠竹： [the green bamboo](https://en.wikipedia.org/wiki/Bambusa_oldhamii)
-====
 
 <<
   小兒又問曰：天上零零有幾星？
