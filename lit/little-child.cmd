@@ -774,13 +774,8 @@ see [the actual first page of the almanac text][almanac text].
   小兒又問曰：天上零零有幾星？
 ||
   .[The] little child asked again, saying,
-    How many stars are there, scattered .[in the] heavens above?
+  How many stars be there scattered .[in the] heavens above?
 >>
-====
-* 零零： scattered \+
-  As in 零碎. \+
-  Note that 零 (ling4/l(i/)ng) rhymes with 星 (sing1/x(i-)ng).
-====
 
 <<
   孔子答曰：適來問地，何必談天？

@@ -4210,6 +4210,11 @@ See also: [鴻雁][鴻]
 * cloud
 ====
 
+5 [零] U+96F6
+====
+* drizzle; scatter
+====
+
 5 [雷] U+96F7
 ====
 * thunder
