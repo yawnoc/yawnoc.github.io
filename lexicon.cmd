@@ -2326,11 +2326,6 @@ See also: [有餘][餘]
 * cypress-tree
 ====
 
-5 [茂] U+8302
-====
-* flourish
-====
-
 8 [棄] U+68C4
 ====
 * forsake; discard
@@ -3407,6 +3402,11 @@ See also: [聯翩][翩]
 4 [花] U+82B1
 ====
 * flower
+====
+
+5 [茂] U+8302
+====
+* flourish
 ====
 
 6 [茲] U+8332
