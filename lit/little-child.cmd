@@ -813,8 +813,8 @@ see [the actual first page of the almanac text][almanac text].
   小兒曰：若論眼前之事，眉毛中有幾枝？
 ||
   .[The] little child said,
-    If .[we shall] discuss matters before .[our very] eyes,
-    how many .[hairs] be there amidst .[my] brow?
+  If .[we shall] discourse matters before .[our] .[very] eyes,
+  how many .[hairs] be there amidst .[my] brow?
 >>
 
 <<
