@@ -745,15 +745,14 @@ see [the actual first page of the almanac text][almanac text].
 <<
   孔子答曰：鵝鴨能浮，皆因足方。鴻雁能鳴，皆因頸長。松柏冬青，皆因心堅。
 ||
-  Confucius replied, saying,
-    Geese .[and] ducks .[are] able to float, all because of square feet.
-    Swans .[and] wild geese .[are] able to sound, all because of long necks.
-    Pine trees .[and] cypress trees .[are] evergreen,
-      all because of strong cores.
+  Confucius answered, saying,
+  The goose .[and] the duck .[be] able to float,
+  all because .[their] feet .[are] square.
+  The swan-goose .[be] able to sound,
+  all because .[its] neck .[is] long.
+  The pine-tree .[and] the cypress-tree .[be] evergreen,
+  all because .[their] cores .[are] firm.
 >>
-====
-* 堅： strong; \or firm
-====
 
 <<
   小兒答曰：\
