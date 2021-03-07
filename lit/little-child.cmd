@@ -689,20 +689,15 @@ see [the actual first page of the almanac text][almanac text].
 <<
   三窗六牗，不如一户之光。衆星朗朗，不如孤月獨明。父母之恩，奚可失也？
 ||
-  .[Yet the light of] three windows .[and] six casements,
-  .[is] not as .[the] light of one .[particular] door.
+  Three windows .[and] six casements,
+  .[are] not as .[the] light of one household.
   .[The] multitude of stars bright,
-  .[are] not as .[the] lone moon, radiant by itself.
+  .[are] not as .[the] lone moon brilliant alone.
   .[The] affection of father .[and] mother:
-  how can .[it be] lost?
+  how can .[it] .[be] lost?
 >>
 ====
-* 牗：窗也； casement \+
-  牗，與久切，音酉， \C yau5, \M y(ov)u \+
-  Variant of 牖. \+
-  A fancy word for "window".
-
-* 恩： affection; \or kindness; \or love
+* 户： household; \or door
 ====
 
 <<
