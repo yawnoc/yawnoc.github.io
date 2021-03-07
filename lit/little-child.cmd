@@ -666,21 +666,14 @@ see [the actual first page of the almanac text][almanac text].
 <<
   賢家之女，必配貴夫。十間之室，須得棟樑。
 ||
-  .[A] daughter of .[a] worthy family,
-  .[shall] surely .[be] matched with the worthy man.
+  The daughter of .[a] worthy family,
+  .[shall] surely .[be] matched with .[a] noble man.
   .[The] bedchambers of ten partitions,
-  must get pillars .[and] roof beams.
+  must get pillars .[and] roof-beams.
 >>
 ======
-* 貴： worthy; \or honourable; \lit noble \+
-  Perhaps "venerable" as in "commanding respect"
-  would also work, but 貴 has no connotation with age.
-  Rendering both 賢 and 貴 as "worthy" is not desirable,
-  but unavoidable.
-
-* I have rendered 十間之室，須得棟樑
-  literally, but really this is saying
-  ".[the] women of many families must get upholding .[men]":
+* I have rendered 十間之室，須得棟樑 literally.
+  Figuratively, ".[the] women of many families, must get upholding men":
   ====
   * 十間： many families; \lit ten partitions \+
     間，去聲， \C kaan3, \M ji(a\)n
@@ -688,8 +681,8 @@ see [the actual first page of the almanac text][almanac text].
   * 室： women; \lit bedchambers \+
     In other contexts, 室 may mean wife or concubine.
   
-  * 棟樑： upholding .[men]; \lit pillars .[and] roof beams \+
-    Those worthy of bearing great responsibility.
+  * 棟樑： upholding men; \lit pillars .[and] roof-beams \+
+    Or, "pillars of society" (cringe).
   ====
 ======
 
