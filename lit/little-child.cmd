@@ -709,28 +709,25 @@ see [the actual first page of the almanac text][almanac text].
 
 <<
   小兒問孔子曰：\
-    適來問橐，橐一一答之。橐今欲求敎夫子一言，明以誨橐，幸請勿棄。
+  適來問橐，橐一一答之。橐今欲求敎夫子一言，明以誨橐，幸請勿棄。
 ||
   .[The] little child asked Confucius, saying,
-    .[The master hath] just come to ask T'o ((橐)) .[questions],
-    .[and] T'o ((橐)) .[hath] answered them one .[by] one.
-    T'o ((橐)) now wisheth to request
-    .[the] advice of .[the] master .[in] one asking,
-    .[to] teach T'o ((橐)) with clarity,
-    .[and] hopeth .[and] asketh .[that the master]
-    doth not forsake .[this request].
+  .[My master] .[hath] just come to ask T'o ((橐)) .[questions],
+  .[and] T'o ((橐)) .[hath] one .[by] one answered them.
+  T'o ((橐)) now wisheth to
+  request instruction of .[my] master .[in] one saying,
+  .[to] teach T'o ((橐)) with clarity,
+  .[and] .[doth] wishfully ask .[that] .[my master] do not forsake.
 >>
 ====
 * T'o ((橐)) \+
   Out of respect, the child Hiang T'o ((項橐)) refers
   [to himself in the third person][illeism],
-  and to Confucius as 夫子, ".[the] master", rather than 汝, "thou".
+  and to Confucius as 夫子, ".[my] master", rather than 汝, "thou".
   
   @@[illeism]
     https://en.wikipedia.org/wiki/Illeism
   @@
-
-* 言：問也； [asking](https://en.wiktionary.org/wiki/asking#Noun Noun)
 ====
 
 <<
