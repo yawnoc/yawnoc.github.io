@@ -780,9 +780,9 @@ see [the actual first page of the almanac text][almanac text].
 <<
   孔子答曰：適來問地，何必談天？
 ||
-  Confucius replied, saying,
-    .[I have] just come to ask .[regarding the] earth;
-    wherefore must .[we] discuss .[the] heavens?
+  Confucius answered, saying,
+  .[I have] just come to ask of .[the] earth;
+  why must .[we] talk of .[the] heavens?
 >>
 
 <<
