@@ -324,6 +324,11 @@ See also: [意下][意]
 * not
 ====
 
+4 [且] U+4E14
+====
+* and
+====
+
 4 [世] U+4E16
 ====
 * generation; world
@@ -2941,6 +2946,11 @@ See also: [百萬][萬]
 * minister
 ====
 
+6 [眼] U+773C
+====
+* eye
+====
+
 6 [眾] U+773E
 ====
 * multitude
@@ -3698,6 +3708,25 @@ See also: [聯翩][翩]
 7 [誓] U+8A93
 ====
 * swear; (take) oath
+====
+
+7 [說] U+8AAA
+[去聲]
+====
+* persuade
+====
+[陰入]
+====
+* explain; speak
+====
+[陽入]
+====
+* {\var 悅}
+====
+
+7 [説] U+8AAC
+====
+* {\var [說]}
 ====
 
 7 [誨] U+8AA8

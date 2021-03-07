@@ -804,8 +804,8 @@ see [the actual first page of the almanac text][almanac text].
   孔子曰：且論眼前之事，何必談天説地？
 ||
   Confucius said,
-    And .[let us] discuss matters before .[our very] eyes;
-    wherefore must .[we] discuss .[the] heavens
+  And .[do] discourse matters before .[our] .[very] eyes;
+  why must .[we] talk of .[the] heavens
     .[and] speak of .[the] earth?
 >>
 
