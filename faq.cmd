@@ -8,7 +8,7 @@
 %%
   %title FAQ
   %date-created 2019-08-01
-  %date-modified 2021-01-09
+  %date-modified 2021-03-08
   \resources
   %css
     li > ul, li > ol {
@@ -178,57 +178,21 @@ Using [KaTeX](https://katex.org/).
 ###
 
 ----
-These are words which I have supplied as the translator.
-----
-
-----
-No two languages correspond perfectly.
-When the target language has no equivalent,
-one inevitably loses meanings, connotations, rhymes, meter, structure, etc.
-It is also necessary to introduce words in the target language
-which do not appear in the source text.
-----
-
-----
-I aim for [formal equivalence] in my translations,
-and believe that translations should be
-as faithful to the original text as possible.
-Accuracy should not be forsaken in favour of readability,
-and the translator should take care not to alter a text by paraphrasing.
-----
-
-----
-In order to make clear
-which words are the original text's and which words are mine,
-I adopt the convention of the King~James Bible translators,
-who .[distinguished] words which did not appear
-in the original Hebrew, Aramaic or Greek,
-but were supplied.
-(Note that in the 1611 version this was done not using italics,
-but using Roman type instead of the main Black Letter type.)
-----
-
-----
-In my case, English words which do not appear in the original Chinese
-(meaning I cannot point to a character which corresponds to
-or contains that word) are .[distinguished], except:
+These are words I have supplied as translator,
+which are *{.translator-supplied} absent* in the original Chinese.
 ----
 ====
-* "The" is not distinguished when referring to a general class
+* "The" is considered present when referring to a general class
   as opposed to a particular instance, e.g.~"the poor".
 
-* "Of" is not distinguished unless part an entire phrase
-  not in the original Chinese,
+* "Of" is considered present
+  unless part an entire phrase absent in the original Chinese,
   and is thought of as being provided by the word order in Chinese.
 
-* Prepositions are not distinguished when they follow a verb,
+* Prepositions are considered present when they follow a verb,
   and are thought of as part of the verb in Chinese,
   e.g.~"went to", "laughed at".
 ====
-
-@@[formal equivalence]
-  https://en.wikipedia.org/wiki/Dynamic_and_formal_equivalence
-@@
 
 
 
