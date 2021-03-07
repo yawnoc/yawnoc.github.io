@@ -704,7 +704,7 @@ see [the actual first page of the almanac text][almanac text].
   孔子歎曰：賢哉！賢哉！
 ||
   Confucius sighed, saying,
-    Worthy .[art thou]! Worthy .[art thou]!
+  Worthy .[art] .[thou]! Worthy .[art] .[thou]!
 >>
 
 <<
