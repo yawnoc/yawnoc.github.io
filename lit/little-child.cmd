@@ -776,6 +776,10 @@ see [the actual first page of the almanac text][almanac text].
   .[The] little child asked again, saying,
   How many stars be there scattered .[in the] heavens above?
 >>
+====
+* 零零： scattered \+
+  Note that 零 (ling4/l(i/)ng) rhymes with 星 (sing1/x(i-)ng).
+====
 
 <<
   孔子答曰：適來問地，何必談天？
@@ -789,10 +793,10 @@ see [the actual first page of the almanac text][almanac text].
   小兒曰：地下碌碌有幾屋？
 ||
   .[The] little child said,
-    How many houses are there, ordinary .[on the] earth below?
+  How many houses be there ordinary .[on the] earth below?
 >>
 ====
-* 碌碌： ordinary; \or common; \or everyday \+
+* 碌碌： ordinary \+
   Note that 碌 (luk7/l(u\)) rhymes with 屋 (uk7/w(u-)).
 ====
 
