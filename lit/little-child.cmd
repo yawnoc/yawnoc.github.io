@@ -877,24 +877,14 @@ see [the actual first page of the almanac text][almanac text].
   Verse saith:
   ||||||{.centred-block}
   ||||
-    Do not bully the intelligent child, young .[in] years, \+
-    .[Who] greatly hath outstanding talent, \
-      .[and] wisdom surpassing others. \+
-    .[He] discusseth .[and] discourseth \
-      .[the] infinite matters in .[the] world; \+
+    Do not bully the intelligent child young .[in] years, \+
+    .[Who] broadly hath fine talent .[and] wisdom surpassing others. \+
+    .[He] talketh of .[and] discourseth \
+      .[the] infinite matters of .[the] world; \+
     Clearly .[the] olden sages .[have] manifested .[in] his person.
   ||||
   ||||||
 >>>>>>>>
-====
-* 分明： clearly \+
-  Or "blatantly", but here without the negative connotation.
-
-* 古聖： .[the] ancient sages \+
-  The virtuous, wise men of antiquity.
-  In modern times though, due to the influence of Christian literature,
-  聖 has come to mean "holy", or "sacred", or "saint".
-====
 
 
 \cite-this-page[
