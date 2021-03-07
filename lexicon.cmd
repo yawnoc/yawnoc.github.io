@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-07
+  %date-modified 2021-03-08
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -1049,6 +1049,7 @@ See also: [北方][方]
 2 [可] U+53EF
 ====
 * can
+* ought to
 ====
 ====
 * 可[以]： can
@@ -1767,6 +1768,9 @@ See also: [從容][從]
 * rear; hind; behind
 * after
 * afterbear
+====
+====
+* 後[生]： the young
 ====
 
 8 [得] U+5F97
@@ -2810,6 +2814,9 @@ See also: [以為][以], [為政][政]
 ====
 * [天]生： inborn
 ====
+----
+See also: [後生][後]
+----
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⽤ (use) U+2F64
@@ -3141,6 +3148,11 @@ See also: [百萬][萬]
 3 [竽] U+7AFD
 ====
 * y(u") {free reed instrument}
+====
+
+4 [笑] U+7B11
+====
+* laugh; smile
 ====
 
 5 [笙] U+7B19
@@ -3894,7 +3906,7 @@ See also: [聯翩][翩]
 0 [足] U+8DB3
 ====
 * foot
-* sufficient
+* sufficient; \met worthy
 ====
 
 6 [路] U+8DEF

@@ -11,7 +11,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-03-07
+  %date-modified 2021-03-08
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -820,11 +820,11 @@ see [the actual first page of the almanac text][almanac text].
 <<
   孔子笑而不答，顧謂諸弟子曰：後生可畏！焉知來者之不如今也？
 ||
-  Confucius smiled and replied not,
-  .[and] turned back .[and] spake unto .[his] many disciples, saying,
-    The young ought to .[be] feared!
-    .[For] how know .[we] .[that] those who come .[after us],
-    .[be] not as .[we who are] now?
+  Confucius laughed and answered not,
+  .[and] spake looking back unto all .[the] disciples, saying,
+  The young ought to .[be] feared!
+  .[For] how know .[we],
+  .[that] those who come .[after] .[be] not as .[we] now?
 >>
 ======
 * 後生可畏！焉知來者之不如今也？ \+
@@ -837,9 +837,9 @@ see [the actual first page of the almanac text][almanac text].
   ||
     .[The] Master said,
       The young ought to .[be] feared;
-      .[for] how know .[we] .[that] those who come .[after us],
-      .[be] not as .[we who are] now?
-      .[By] forty .[or] fifty and .[be they] unheard of,
+      .[for] how know .[we],
+      .[that] those who come .[after] .[be] not as .[we] now?
+      .[By] forty .[or] fifty .[have we] not heard of them,
       then .[be they] not worthy of fear.
   >>
   ====
@@ -849,17 +849,12 @@ see [the actual first page of the almanac text][almanac text].
     This usage survives today in Cantonese,
     and also Japanese _{l=ja} sensei_, where 先生 means teacher.
   
-  * 畏： feared; \or respected \+
-    Here, I do not mean fear as in being afraid,
-    but rather reverence and respect, as in fearing God.
+  * 畏： feared \+
+    Feared as in respected.
     ".[Is] formidable" is also a good rendering of 可畏,
     but the following 不足畏 then becomes difficult to render likewise.
-  
-  * 不如： not as; \or not .[as good] as
   ====
-  The almanac erroneously has 焉能求者 for 焉知來者;
-  this is called 執錯字粒, or
-  "picking .[the] wrong character block" in printing.
+  The almanac erroneously has 焉能求者 for 焉知來者.
 ======
 
 <<
