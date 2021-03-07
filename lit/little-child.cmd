@@ -734,17 +734,12 @@ see [the actual first page of the almanac text][almanac text].
   小兒曰：鵝鴨何以能浮？鴻雁何以能鳴？松柏何以冬青？
 ||
   .[The] little child said,
-    Why .[are] geese .[and] ducks able to float?
-    Why .[are] swans .[and] wild geese able to sound?
-    Why .[are] pine trees .[and] cypress trees evergreen?
+  Why .[be] the goose .[and] the duck able to float?
+  Why .[be] the swan-goose able to sound?
+  Why .[be] the pine-tree .[and] the cypress-tree evergreen?
 >>
 ====
-* 鴻雁： swans .[and] wild geese \+
-  Could also be the single bird ["swan goose"](
-    https://en.wikipedia.org/wiki/Swan_goose
-  ).
-
-* 冬青： evergreen; \lit green .[in] winter
+* 冬青： evergreen; \lit winter-green
 ====
 
 <<
