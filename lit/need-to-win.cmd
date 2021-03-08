@@ -166,17 +166,15 @@ The Chinese source text is from Chinese Text Project:
   曰：可。善游者數能。若乃夫沒人，則未嘗見舟而便操之也。
 ||
   .[And they] said,
-    .[It] can. Good swimmers .[upon] repetition .[are] able.
-    If .[it] be .[a] diver, .[having] not once seen boats
-    .[may he] yet immediately handle them.
+  .[It] can. Those good at swimming .[upon] repetition .[are] able.
+  If .[it] be .[a] diver,
+  then .[having] not ever seen boats .[may he] immediately handle them.
 >>
 ====
 * 數： .[upon] repetition \+
   數，入聲， \C [^sh]ok8 (\pm [_s]ok8) \M shu(o\)
 
-* 沒人：沒，沉也； diver; literally submerger
-
-* 便：即也，輒也； immediately; \or soon
+* 沒人： diver; literally submerging man
 ====
 
 <<

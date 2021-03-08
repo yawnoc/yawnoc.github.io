@@ -611,6 +611,17 @@ See also: [何以][何], [可以][可]
 * marquess
 ====
 
+7 [便] U+4FBF
+[平聲]
+====
+* cheap
+====
+[去聲]
+====
+* convenient; benefit
+* immediately
+====
+
 7 [信] U+4FE1
 ====
 * trust; believe; trustworthy
@@ -1138,6 +1149,11 @@ See also: [學問][學]
 * only; merely; \met less than
 ====
 
+9 [善] U+5584
+====
+* good; good at
+====
+
 10 [嗜] U+55DC
 ====
 * [:verb:] like
@@ -1148,6 +1164,9 @@ See also: [學問][學]
 * [:verb:] taste
 * once; ever
 ====
+----
+See also: [未嘗][未]
+----
 
 17 [嚴] U+56B4
 ====
@@ -2366,6 +2385,9 @@ See also: [有餘][餘]
 ====
 * not yet; yet to
 ====
+====
+* 未[嘗]： not ever
+====
 
 4 [東] U+6771
 ====
@@ -2571,6 +2593,11 @@ See also: [蒞止][蒞]
 * river
 ====
 
+4 [沒] U+6C92
+====
+* submerge
+====
+
 5 [泉] U+6CC9
 ====
 * spring; fountain
@@ -2594,6 +2621,12 @@ See also: [蒞止][蒞]
 8 [淵] U+6DF5
 ====
 * deep (water)
+====
+
+9 [游] U+6E38
+====
+* swim
+* -stream
 ====
 
 9 [湖] U+6E56
@@ -3360,7 +3393,7 @@ See also: [百萬][萬]
 
 4 [者] U+8005
 ====
-* {generic} he who; that which; one
+* {generic} he who; that which; those; one
 * [:speech-assist:]
 ====
 
