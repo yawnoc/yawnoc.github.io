@@ -8,7 +8,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2021-01-17
+  %date-modified 2021-03-08
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -43,7 +43,7 @@
 
 
 ----
-This "quote" of Chuang Tz(uu)
+This alleged quote of Chuang Tz(uu)
 begins the chapter "Family" in Tim Winton's '''The~Turning''':
 ----
 
@@ -90,7 +90,7 @@ into western languages, two English, one French, and one German".
 @@
 
 ----
-The source of the passage is a dialogue between
+The actual source of the passage is a dialogue between
 Confucius and one of his disciples in 《莊子\.外篇\.達生》,
 or "Understanding Life" in the "Outer Texts" of '''Chuang Tz(uu)''',
 a work traditionally credited to [Chuang Tz(uu)][莊子] the Taoist philosopher.
@@ -114,8 +114,8 @@ depends on how you interpret the word 注, chu.
 
 ----
 In summary, the passage above is  **twice removed from the source material**:
-once by translation (James Legge and others), and once through the
-interpretative reading of Thomas Merton.
+once through translation (by James Legge and others),
+and once through the interpretative reading of Thomas Merton.
 Just reading '''The~Turning''' though, you wouldn't have any clue of this.
 ----
 
