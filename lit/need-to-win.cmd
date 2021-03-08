@@ -180,12 +180,9 @@ The Chinese source text is from Chinese Text Project:
 <<
   吾問焉而不吾告，敢問何謂也？
 ||
-  .[That] I asked of, yet .[they] told me not;
-  .[I] dare ask, what .[were they] saying?
+  I asked them, but informed not .[they] me;
+  .[I] dare ask, what meant .[they]?
 >>
-====
-* 何謂也： what .[were they] saying; \or what .[did they] mean
-====
 
 <<
   仲尼曰：善游者數能，忘水也。

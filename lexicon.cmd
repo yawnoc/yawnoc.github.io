@@ -1122,6 +1122,16 @@ See also: [合奏][奏]
 * I
 ====
 
+4 [告] U+544A
+[去聲]
+====
+* inform
+====
+[入聲]
+====
+* counsel
+====
+
 5 [命] U+547D
 ====
 * command; order; mandate
