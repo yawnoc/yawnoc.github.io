@@ -195,8 +195,9 @@ The Chinese source text is from Chinese Text Project:
 <<
   若乃夫沒人之未嘗見舟而便操之也，彼視淵若陵，視舟之覆猶其車卻也。
 ||
-  Of .[having] not once seen boats yet immediately handling them
-  if .[it] be .[a] diver: he vieweth .[the] deep waters as .[an] hill,
+  .[Of], if .[it] be .[a] diver,
+  .[having] not ever seen boats and immediately handling them:
+  he vieweth .[the] deep waters as .[an] hill,
   .[and] vieweth .[the] overturning of .[a] boat like his chariot receding.
 >>
 
