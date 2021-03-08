@@ -700,6 +700,12 @@ See also: [何以][何], [可以][可]
 ⼊ (enter) U+2F0A
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+0 [入] U+5165
+====
+* (go) in; enter
+* [:tone:] entering
+====
+
 2 [內] U+5167
 ====
 * internal; inner
@@ -1829,6 +1835,12 @@ See also: [從容][從]
 * {generic} he
 ====
 
+5 [往] U+5F80
+====
+* go
+* past
+====
+
 6 [後] U+5F8C
 ====
 * rear; hind; behind
@@ -1843,6 +1855,7 @@ See also: [從容][從]
 ====
 * obtain; get
 * satisfy; done
+* can
 ====
 ----
 See also: [何得][何]
@@ -1983,6 +1996,21 @@ See also: [何得][何]
 * know
 * all
 ====
+
+8 [惡] U+60E1
+[平聲]
+====
+* how
+====
+[去聲]
+====
+* loathe
+====
+[入聲]
+====
+* evil
+====
+
 
 9 [意] U+610F
 ====
@@ -2212,7 +2240,7 @@ See also: [何得][何]
 * direction; side
 * place
 * {morally} upright
-* method
+* method; way
 * circumference; perimeter
 * {medical} prescription
 * just; only then; at
@@ -3573,6 +3601,11 @@ See also: [聯翩][翩]
 ⾆ (tongue) U+2F86
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+2 [舍] U+820D
+====
+* abode; \met mind
+====
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⾇ (oppose) U+2F87
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -4399,6 +4432,13 @@ See also: [世間][世]
 8 [陰] U+9670
 ====
 * shade; dark; female; Yin
+====
+
+8 [陳] U+9673
+====
+* line (up); show
+* describe
+* aged
 ====
 
 8 [陵] U+9675

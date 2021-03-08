@@ -204,22 +204,22 @@ The Chinese source text is from Chinese Text Project:
 <<
   覆卻萬方陳乎前而不得入其舍，惡往而不暇！
 ||
-  Overturning .[and] receding .[have, in a]
-  myriad instances, .[been] shown before .[him]
-  and not entered his mind; why goeth .[he] and .[be he] not carefree?
+  Overturning .[and] receding .[in] .[a] myriad ways
+  .[have been] shown before .[him]
+  and could not enter his mind;
+  how goeth .[he] and .[be he] not leisurely?
 >>
 ====
-* 方： instances \+
-  According to the [annotation of S(u")an Ying ((宣穎))][方]
-  in 《南華經解》, 方，猶端.
+* 方： ways \+
+  From the [annotation of S(u")an Ying ((宣穎))][方]: 方，猶端.
   
   @@[方]
     https://ctext.org/library.pl?if=en&file=28357&page=22#box(656,532,59,39)
   @@
 
-* 舍： mind; \lit residence; \or abode \+
+* 舍： mind; \lit abode \+
 
-* 惡：何也； why \+
+* 惡： how \+
   惡，平聲， \C woo1, \M w(u-)
 ====
 
