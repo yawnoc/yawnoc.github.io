@@ -159,7 +159,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   吾問焉，曰：操舟可學邪？
 ||
-  I asked, saying, Can handling of boats .[be] learnt?
+  I asked them, saying, Can handling of boats .[be] learnt?
 >>
 
 <<
