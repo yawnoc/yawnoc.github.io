@@ -8,7 +8,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2021-03-08
+  %date-modified 2021-03-09
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -294,24 +294,22 @@ The Chinese source text is from Chinese Text Project:
 <<
   其巧一也，而有所矜，則重外也。凡外重者內拙。
 ||
-  Their skill .[is the] same,
-  but .[that] there be that which .[they are] concerned about,
-  .[is] attaching importance to .[the] external.
-  All those who attach importance to .[the] external,
-  .[are] internally stupid.
+  Their skill .[is] .[the] same,
+  but .[that] there be that of .[their] concern,
+  .[is] esteeming the external.
+  All those who esteem the external .[are] internally stupid.
 >>
 ====
-* 矜： concerned about \+
-  This is very similar to 重 which follows.
-  
-* 重： attaching importance to; \lit treating as heavy \+
+* 一： .[the] same; \or one
+
+* 重： esteem \+
   重，去聲， \C chung6, \M zh(o\)ng \+
-  The opposite of the verb 重 is the verb 輕,
+  Literally ".[to] weight".
+  The opposite of the verb 輕,
   which is to "make light of", or "treat as light".
   
 * 拙： stupid \+
-  The opposite of 巧,
-  which is "clever" or "skillful".  
+  The opposite of 巧, which is "clever" or "skillful".
 ====
 
 

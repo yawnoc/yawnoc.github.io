@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-08
+  %date-modified 2021-03-09
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -1657,7 +1657,7 @@ See also: [從容][從]
 
 2 [巧] U+5DE7
 ====
-* clever; skillful
+* clever; skill
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -2117,6 +2117,11 @@ See also: [何得][何]
 0 [才] U+624D
 ====
 * talent
+====
+
+5 [拙] U+62D9
+====
+* stupid
 ====
 
 6 [拭] U+62ED
@@ -3178,6 +3183,22 @@ See also: [百萬][萬]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⽭ (spear) U+2F6D
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+4 [矜] U+77DC
+[陰平] 音京 j(i-)n
+====
+* pity
+* value; concern
+* reserved
+====
+[陰平] 音關 gu(a-)n
+====
+* {\int [鰥]} widower
+====
+[陽平] 音勤 q(i/)n
+====
+* spear-handle
+====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⽮ (arrow) U+2F6E
@@ -4404,6 +4425,21 @@ See also: [聯翩][翩]
 * [:unit:] mile
 ====
 
+2 [重] U+91CD
+[平聲]
+====
+* repeat
+====
+[上聲] [but 去聲 in Mandarin]
+====
+* weight; heavy
+====
+[去聲]
+====
+* important
+* [:verb:] esteem
+====
+
 
 
 ////////////////////////////////////////////////////////////////
@@ -4847,6 +4883,11 @@ See also: [鴻雁][鴻]
 0 [魚] U+9B5A
 ====
 * fish
+====
+
+10 [鰥] U+9C25
+====
+* widower
 ====
 
 12 [鱉] U+9C49
