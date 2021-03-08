@@ -615,7 +615,7 @@ see [the actual first page of the almanac text][almanac text].
 * Ts'ang Wu ((蒼梧)) \+
   A place name.
 
-* 郊市： outskirt towns \+
+* 郊市： the outskirt town \+
   Not certain. Possibly "town of Kiao ((郊))".
 
 ====
