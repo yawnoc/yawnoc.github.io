@@ -204,7 +204,7 @@ The Chinese source text is from Chinese Text Project:
   Overturning .[and] receding .[in] .[a] myriad ways
   .[have been] shown before .[him]
   and could not enter his mind;
-  how goeth .[he] and .[be he] not leisurely?
+  how goeth .[he] and .[be he] not carefree?
 >>
 ====
 * 方： ways \+
@@ -218,6 +218,8 @@ The Chinese source text is from Chinese Text Project:
 
 * 惡： how \+
   惡，平聲， \C woo1, \M w(u-)
+
+* 暇： carefree; \lit leisurely
 ====
 
 <<

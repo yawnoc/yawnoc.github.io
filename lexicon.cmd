@@ -2354,7 +2354,7 @@ See also: [是非][非]
 
 9 [暇] U+6687
 ====
-* leisure
+* leisure; \met carefree
 ====
 
 9 [暉] U+6689
