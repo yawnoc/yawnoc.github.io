@@ -138,24 +138,20 @@ The Chinese source text is from Chinese Text Project:
   顏淵問仲尼曰：吾嘗濟乎觴深之淵，津人操舟若神。
 ||
   Yen Y(u")an ((顏淵)) asked Chung-ni ((仲尼)), saying,
-    I once crossed .[the] deep waters of Shang-sh(e^)n ((觴深)),
-    .[and the] men of .[the] crossing handled boats like gods.
+  I once crossed .[the] deep waters of Shang-sh(e^)n ((觴深)),
+  .[and the] men of .[the] ford handled boats as gods.
 >>
 ====
 * 顏淵： Yen Y(u")an \+
-    Confucius's [favourite disciple](https://en.wikipedia.org/wiki/Yan_Hui).
-    Also called Yen Huei ((顏回)).
+  Confucius's [favourite disciple](https://en.wikipedia.org/wiki/Yan_Hui).
+  Also called Yen Huei ((顏回)).
 
 * 仲尼： Chung-ni \+
-  The [style name (or courtesy name)][字] of Confucius.
+  The [style-name (or courtesy name)][字] of Confucius.
   
   @@[字]
     https://en.wikipedia.org/wiki/Courtesy_name
   @@
-
-* 觴深：Shang-sh(e^)n  \+
-  (Proper) name of a body of water. \+
-  觴，音商， \C [^sh](oe)ng1 (\pm [_s](oe)ng1) \M sh(a-)ng
 
 * 淵： .[the] deep waters; \or .[the] deep
 ====
