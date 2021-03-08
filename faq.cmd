@@ -189,9 +189,10 @@ which are *{.translator-supplied} absent* in the original Chinese.
   unless part an entire phrase absent in the original Chinese,
   and is thought of as being provided by the word order in Chinese.
 
-* Prepositions are considered present when they follow a verb,
+* Prepositions and infinitive-marking "to"
+  are considered present when they follow a verb,
   and are thought of as part of the verb in Chinese,
-  e.g.~"went to", "laughed at".
+  e.g.~"laughed at", "wish to".
 ====
 
 
