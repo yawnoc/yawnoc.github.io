@@ -21,9 +21,6 @@
     .sign-off {
       text-align: right;
     }
-    li > ul > li {
-      margin-bottom: 0.7em
-    }
 %%
 
 [[====
@@ -226,85 +223,47 @@ The Chinese source text is from Chinese Text Project:
 <<
   以瓦注者巧，以鉤注者憚，以黃金注者殙。
 ||
-  He who wagereth .[by archery] for earthenware .[is] skillful;
-  he who wagereth .[by archery] for .[a] buckle, fearful;
-  .[and] he who wagereth .[by archery] for gold, dazed.
+  He who wagereth .[by archery] with earthenware .[is] skillful;
+  he who wagereth .[by archery] with .[a] buckle, fearful;
+  .[and] he who wagereth .[by archery] with gold, dazed.
 >>
 ========
 * 注： wagereth .[by archery] \+
-    
-  ----
-  Opinion is divided on whether 注 refers to archery.
-  ----
   
-  ----
-  Among the annotations I could be bothered digging up,
-  these say __strike__:
-  ----
+  Opinion is divided on whether 注 refers to archery.
+  
+  \=
+  
+  These exegeses say 擊也, __strike__:
   ======
   * [《南華真經\.郭象註》](
       https://ctext.org/library.pl?if=en&file=77894&page=11\
         #box\(118,678,50,70\)
     ),
-    "Nan-hua True Classics: Kuo Siang's annotations":
-    <<
-      注，之樹反，李云擊也。
-    ||
-      注, .[hath] fan ((反))-.[pronunciation] chih shu ((之樹)),
-      .[and] Li ((李)) saith .[it meaneth] strike.
-    >>
-    ====
-    * 之樹反： fan ((反))-.[pronunciation] chih shu ((之樹)) \+
-      Fan ((反)) is short for [fan ts'ieh ((反切))](
-        https://en.wikipedia.org/wiki/Fanqie
-      ), "reverse cut",
-      where a pronunciation is spelt by taking the
-      initial \& tone-type (陰陽) of the first character
-      and the final (rhyme) \& tone (平上去入) of the second character.
-    
-    * 擊： strike; \or hit
-    ====
+    "Nan-hua True Classics: Kuo Siang's annotations".
   
   * [《康熙字典》](
       https://ctext.org/kangxi-zidian/85/5#n332753
     ),
-    "K'ang-hi's dictionary"
-    <<
-      又擊也。
-    ||
-      Also strike.
-    >>
+    "K'ang-hi's dictionary". \+
     Notably, the dictionary uses the line 以黃金注者㱪
     from our passage as the example for this meaning.
   ======
   
-  ----
-  These say __shoot__:
-  ----
+  These say 射也, __shoot__:
   ======
   * [《南華真經註疏》](
       https://ctext.org/library.pl?if=en&file=88939&page=20\
         #box\(196,822,42,46\)
     ),
-    "Nan-hua True Classics annotations .[and] further-commentary"
-    <<
-      注，射也。
-    ||
-      注, .[meaneth] shoot.
-    >>
+    "Nan-hua True Classics annotations .[and] subcommentary".
   
   * [《莊子注》](
       https://ctext.org/library.pl?if=en&file=53877&page=10\
         #box\(500,472,38,48\)
     ),
-    "Chuang Tz(uu) annotations" by Kuo Siang ((郭象))
-    <<
-      注，射也，射而賭物曰注。
-    ||
-      注, .[meaneth] shoot;
-      shooting to wager objects .[is] called 注.
-    >>
-    射而賭物 is the meaning taken by James Legge
+    "Chuang Tz(uu) annotations" by Kuo Siang ((郭象)). \+
+    In particular, 射而賭物 is the meaning taken by James Legge
     (see [footnote~1 of Page~1][Legge footnote]).
     
     @@[Legge footnote]
@@ -313,42 +272,23 @@ The Chinese source text is from Chinese Text Project:
     @@
     
   ======
-  ----
-  Alternatively, opinion might not be divided
-  if 擊 (strike or hit) refers to striking or hitting with an arrow.
-  ----
-  ----
+  
+  \=
+  
   In any case, 注 certainly has the primary meaning of "wager".
   The archery meaning is not definitive in my opinion,
-  so I have decided to render 注 as "wagereth .[by archery]"
-  with translator-supplied italics for the archery bit.
-  ----
-  ----
-  The conciseness of Literary Chinese comes with a great cost:
-  no one can really be sure of the author's intended meaning.
-  (Such is also true of scripture.)
+  so I have designated ".[by archery]" as translator-supplied.
+  The conciseness of Literary Chinese comes at the cost of ambiguity;
+  the same is also true of scripture.
   Many scholars have written 註, annotations,
-  and 疏, further-commentary, or annotations of the annotations.
-  And now I am writing annotations of annotations of annotations...
-  ----
+  and 疏, subcommentary, or annotations of the annotations.
+  And now, annotations of annotations of annotations...
   ====
   * 疏，去聲， \C [^sh]or3 (\pm [_s]or3) \M sh(u\) (\gr sh(u-))
   ====
   
-* 憚：畏也，忌難也； fearful; \or afraid of .[the] difficulty \+
-  憚，音但， \C taan6, \M d(a\)n
-  
 * 黃金： gold; \lit yellow gold
-  
-* 殙： dazed; \or confused; \lit unclear .[in] vision \+
-  殙，呼昆切， \C fan1, \M h(u-)n \+
-  In some versions I have seen this written 㱪~`U+3C6A`
-  (i.e.~歹 next to 昬).
-  Again people don't agree on exactly what this means,
-  but I concur with those who say it is a [variant of 惛](
-    https://ctext.org/library.pl\
-      ?if=en&file=28357&page=22#box(526,153,59,39)
-  ).
+
 ========
 
 <<
