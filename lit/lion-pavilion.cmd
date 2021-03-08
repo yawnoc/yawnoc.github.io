@@ -146,7 +146,8 @@ The inserted punctuation is my own.
   春秋佳日，中西人士聨翩蒞止，登斯亭也。
 ||
   .[On a] goodly spring .[or] autumn day,
-  .[both] Chinese .[and] Western people continuously flock .[here to] attend,
+  .[both] Chinese .[and] Western people
+  continuously flock .[here] .[to] attend,
   ascending this Pavilion.
 >>
 ====
