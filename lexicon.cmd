@@ -1941,6 +1941,11 @@ See also: [何得][何]
 * must; surely
 ====
 
+3 [忘] U+5FD8
+====
+* forget
+====
+
 4 [快] U+5FEB
 ====
 * pleasure

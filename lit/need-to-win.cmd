@@ -188,8 +188,8 @@ The Chinese source text is from Chinese Text Project:
   仲尼曰：善游者數能，忘水也。
 ||
   Chung-ni ((仲尼)) said,
-    Good swimmers .[upon] repetition .[are] able:
-    .[they] forget .[the] water.
+  .[Of] those good at swimming .[upon] repetition .[being] able:
+  .[they] forget .[the] water.
 >>
 
 <<
