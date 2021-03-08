@@ -177,7 +177,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   吾問焉而不吾告，敢問何謂也？
 ||
-  I asked them, but informed not .[they] me;
+  I asked them, but me informed .[they] not;
   .[I] dare ask, what meant .[they]?
 >>
 
