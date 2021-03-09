@@ -542,20 +542,11 @@ nav > ul > li > a {
   color: var(--colour-g);
 }
 
-/* Bracketed original Chinese after romanisations */
+/* Romanisations in translation parallel text */
 
-.original-chinese {
-  color: #800;
+.romanisation {
+  text-decoration: underline 0.1em dotted;
 }
-
-.original-chinese::before {
-  content: '(';
-}
-
-.original-chinese::after {
-  content: ')';
-}
-
 
 
 /* ---------------------------------------------------------------- */
