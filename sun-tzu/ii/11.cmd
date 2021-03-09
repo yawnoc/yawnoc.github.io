@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -144,8 +143,9 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. \+
 >>
 ====
 * 斛法： .[the] barrel divisor \+
-  This is the conversion between the capacity unit "barrel", hu ((斛)),
-  and the volume unit "cubic rule", ch'ih ((尺));
+  This is the conversion between the capacity unit "barrel",
+  ((hu | ~~斛~~))~(斛),
+  and the volume unit "cubic rule", ((ch'ih | ~~尺~~))~(尺);
   see [\P10 Extended commentary] [斛法].
 
 * In modern notation, the volume (or capacity) of a rectangular prism of

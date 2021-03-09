@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -93,7 +92,7 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. \+
 >>
 ====
 * 頃： yardland \+
-  K'ing ((頃)), equal to 100~mu ((畝)) or Chinese acres.
+  ((K'ing | ~~頃~~))~(頃), equal to 100~((mu | ~~畝~~))~(畝) or Chinese acres.
   Difficult to render,
   and I have chosen "yardland" because it sounds more natural,
   even though the [imperial oxgang] [oxgang]

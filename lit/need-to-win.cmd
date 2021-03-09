@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/translations.cmd +}
 
@@ -134,16 +133,16 @@ The Chinese source text is from Chinese Text Project:
 <<
   顏淵問仲尼曰：吾嘗濟乎觴深之淵，津人操舟若神。
 ||
-  Yen Y(u")an ((顏淵)) asked Chung-ni ((仲尼)), saying,
-  I once crossed .[the] deep waters of Shang-sh(e^)n ((觴深)),
+  ((Yen Y(u")an | ~~顏淵~~)) asked ((Chung-ni | ~~仲尼~~)), saying,
+  I once crossed .[the] deep waters of ((Shang-sh(e^)n | ~~觴深~~)),
   .[and the] men of .[the] ford handled boats as gods.
 >>
 ====
-* 顏淵： Yen Y(u")an \+
+* 顏淵： ((Yen Y(u")an | ~~顏淵~~)) \+
   Confucius's [favourite disciple](https://en.wikipedia.org/wiki/Yan_Hui).
-  Also called Yen Huei ((顏回)).
+  Also called ((Yen Huei | ~~顏回~~)), 顏回.
 
-* 仲尼： Chung-ni \+
+* 仲尼： ((Chung-ni | ~~仲尼~~)) \+
   The [style-name (or courtesy name)][字] of Confucius.
   
   @@[字]
@@ -184,7 +183,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   仲尼曰：善游者數能，忘水也。
 ||
-  Chung-ni ((仲尼)) said,
+  ((Chung-ni | ~~仲尼~~)) said,
   .[Of] those good at swimming .[upon] repetition .[being] able:
   .[they] forget .[the] water.
 >>
@@ -208,7 +207,7 @@ The Chinese source text is from Chinese Text Project:
 >>
 ====
 * 方： ways \+
-  From the [annotation of S(u")an Ying ((宣穎))][方]: 方，猶端.
+  From the [annotation of ((S(u")an Ying | ~~宣穎~~))][方]: 方，猶端.
   
   @@[方]
     https://ctext.org/library.pl?if=en&file=28357&page=22#box(656,532,59,39)
@@ -242,12 +241,13 @@ The Chinese source text is from Chinese Text Project:
       https://ctext.org/library.pl?if=en&file=77894&page=11\
         #box\(118,678,50,70\)
     ),
-    "Nan-hua True Classics: Kuo Siang's annotations".
+    "((Nan-hua | ~~南華~~)) True Classics:
+    ((Kuo Siang | ~~郭象~~))'s annotations".
   
   * [《康熙字典》](
       https://ctext.org/kangxi-zidian/85/5#n332753
     ),
-    "K'ang-hi's dictionary". \+
+    "((K'ang-hi | ~~康熙~~))'s dictionary". \+
     Notably, the dictionary uses the line 以黃金注者㱪
     from our passage as the example for this meaning.
   ======
@@ -258,13 +258,13 @@ The Chinese source text is from Chinese Text Project:
       https://ctext.org/library.pl?if=en&file=88939&page=20\
         #box\(196,822,42,46\)
     ),
-    "Nan-hua True Classics annotations .[and] subcommentary".
+    "((Nan-hua | ~~南華~~)) True Classics annotations .[and] subcommentary".
   
   * [《莊子注》](
       https://ctext.org/library.pl?if=en&file=53877&page=10\
         #box\(500,472,38,48\)
     ),
-    "Chuang Tz(uu) annotations" by Kuo Siang ((郭象)). \+
+    "Chuang Tz(uu) annotations" by ((Kuo Siang | ~~郭象~~)). \+
     In particular, 射而賭物 is the meaning taken by James Legge
     (see [footnote~1 of Page~1][Legge footnote]).
     

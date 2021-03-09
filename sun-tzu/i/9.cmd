@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -175,7 +174,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. \+
 >>
 ====
 * This line I have bracketed for it is an inline annotation
-  by Li Ch'un-f(e^)ng ((李淳風))~_et~al._,
+  by ((Li Ch'un-f(e^)ng | ~~李淳風~~))~_et~al._,
   written in two columns of smaller characters which take up
   half the width of the normal characters;
   see \d[15].

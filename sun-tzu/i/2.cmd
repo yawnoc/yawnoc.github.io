@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -76,7 +75,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 
 * 黍： \lit millet \+
   黍，音暑， \C sh(u")2, \M sh(uv) \+
-  Shu ((黍)).
+  ((Shu | ~~黍~~))~(黍).
 ====
 
 <<
@@ -97,14 +96,14 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 ====
 * 絫： pile \+
   絫，魯水切， \C l\_(u")5, \M l(ev)i \+
-  Lei ((絫)).
+  ((Lei | ~~絫~~))~(絫).
   Difficult to render because Chinese dictionaries
-  simply define it as ten shu ((黍)).
+  simply define it as ten ((shu | ~~黍~~))~(黍).
   I have taken "pile" from the interchangeable 累, "to accumulate/pile/heap".
 
 * 銖： dram \+
   銖， \C ch(u")1, \M zh(u-) \+
-  Chu ((銖)), of the order two grams.
+  ((Chu | ~~銖~~))~(銖), of the order two grams.
   According to [Williams' '''Tonic Dictionary'''] [銖],
   "a small ancient silver coin",
   so I have chosen "dram" after the eponymous
@@ -119,7 +118,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
   @@
 
 * 兩： [tael] \+
-  Liang ((兩)).
+  ((Liang | ~~兩~~))~(兩).
   One sixteenth of a catty,
   except in Mainland China where it has been metricised to a tenth,
   thus ruining the phrase 半斤八兩, "half .[a] catty .[is] eight taels".
@@ -129,7 +128,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
   @@
 
 * 斤： [catty] \+
-  Kin ((斤)).
+  ((Kin | ~~斤~~))~(斤).
   Of the order one pound, or half a kilogram.
   
   @@[catty]
@@ -138,11 +137,11 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 
 * 鈞： quarter \+
   鈞，音均， \C kwan1, \M j(u-)n \+
-  K(u")n ((鈞)).
-  A quarter of the shih ((石)) or "stone" below,
+  ((K(u")n | ~~鈞~~))~(鈞).
+  A quarter of the ((shih | ~~石~~))~(石) or "stone" below,
   and of similar weight to the [imperial quarter] (28~pounds).
   Difficult to render otherwise
-  since Chinese dictionaries simply define it as thirty kin ((斤))
+  since Chinese dictionaries simply define it as thirty catties.
   
   @@[imperial quarter]
     https://en.wikipedia.org/wiki/Quarter_(unit)#Weight
@@ -151,9 +150,9 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 * \c[52059] erroneously has 鉤 for 鈞.
 
 * 石： \lit stone \+
-  Shih ((石)).
+  ((Shih | ~~石~~))~(石).
   This is a literal rendering.
-  The Chinese stone shih ((石)) is of the order 120~pounds,
+  The Chinese stone ((shih | ~~石~~))~(石) is of the order 120~pounds,
   making it closer to the [imperial hundredweight]
   than the *much* lighter imperial stone (14~pounds).
   
@@ -169,7 +168,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 
 ----
 I can't be bothered looking up a reputable source
-for the precise weight of a kin ((斤)) or catty
+for the precise weight of a ((kin | ~~斤~~))~(斤) or catty
 when \sun-tzu's Computational Classic was first written,
 but using 600~grams as an estimate,
 we have:
@@ -195,8 +194,8 @@ $$
 
 ----
 By the later part of the Ts'ing Dynasty,
-one kin ((斤)) or catty is 1⅓~pounds in Hong Kong,
-locally called a kan ((斤)).
+one ((kin | ~~斤~~))~(斤) or catty is 1⅓~pounds in Hong Kong,
+locally called a ((kan | ~~斤~~))~(斤).
 As with length units,
 [Ordinance No.~22 of~1844 (PDF)] [ord 22 of 1844] of Hong Kong
 gives the relevant conversions between the Chinese units themselves
@@ -248,7 +247,7 @@ in [Ordinance No.~8 of~1885 (PDF)] [ord 8 of 1885]
 ||||
 
 ----
-Eventually the kan ((斤)) or catty is given the
+Eventually the ((kan | ~~斤~~))~(斤) or catty is given the
 *almost* equivalent definition of 0.60478982~kg,
 used unto this day in Hong Kong street markets;
 see [Cap.~68 Weights and Measures Ordinance] [cap 68].

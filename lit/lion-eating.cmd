@@ -6,7 +6,6 @@
 
 %%
   %title "[An] History of Mr Shih's Eating Lions" 《施氏食獅史》
-  %title-en ".[An] History of Mr~Shih's Eating Lions"
   %date-created 2019-04-07
   %date-modified 2021-02-27
   \resources:rendering
@@ -26,7 +25,7 @@
 
 #
   《施氏食獅史》 \+
-  %title-en
+  ".[An] History of Mr~((Shih | ~~施~~))'s Eating Lions"
 #
 
 [||||
@@ -69,16 +68,16 @@ The Chinese source text is from Page~143 of Chao's
 <<
   《施氏食獅史》
 ||
-  ".[An] History of Mr~Shih's Eating Lions"
+  ".[An] History of Mr~((Shih | ~~施~~))'s Eating Lions"
 >>
 ====
-* 施氏： Mr~Shih; \lit .[he with] surname Shih
+* 施氏： Mr~((Shih | ~~施~~)); \lit .[he with] surname ((Shih | ~~施~~))
 ====
 
 <<
   石室詩士施氏，嗜獅，誓食十獅。
 ||
-  .[The] poet Mr~Shih of .[a] stone house,
+  .[The] poet Mr~((Shih | ~~施~~)) of .[a] stone house,
   liked lions, .[and] sware to eat ten lions.
 >>
 ====
@@ -88,7 +87,7 @@ The Chinese source text is from Page~143 of Chao's
 <<
   氏時時適市視獅。
 ||
-  Mr~.[Shih] went constantly unto market .[to] view lions.
+  Mr~.[((Shih | ~~施~~))] went constantly unto market .[to] view lions.
 >>
 ====
 * 氏 \+
@@ -99,13 +98,13 @@ The Chinese source text is from Page~143 of Chao's
   十時，適十獅適市。是時，適施氏適市。
 ||
   .[At] .[the] tenth hour, ten lions .[had] just gone unto market.
-  .[At] this time, Mr~Shih .[had] just gone unto market.
+  .[At] this time, Mr~((Shih | ~~施~~)) .[had] just gone unto market.
 >>
 
 <<
   氏視是十獅，恃矢勢，使是十獅逝世。
 ||
-  Mr~.[Shih] viewed these ten lions,
+  Mr~.[((Shih | ~~施~~))] viewed these ten lions,
   .[and], relying upon the arrow's momentum,
   made these ten lions pass away.
 >>
@@ -116,7 +115,7 @@ The Chinese source text is from Page~143 of Chao's
 <<
   氏拾是十獅屍，適石室。
 ||
-  Mr~.[Shih] picked up these ten lions' carcasses,
+  Mr~.[((Shih | ~~施~~))] picked up these ten lions' carcasses,
   .[and] went unto .[the] stone house.
 >>
 
@@ -124,14 +123,14 @@ The Chinese source text is from Page~143 of Chao's
   石室濕，氏使侍拭石室。
 ||
   .[The] stone house wet,
-  Mr~.[Shih] made .[his] servants wipe .[the] stone house.
+  Mr~.[((Shih | ~~施~~))] made .[his] servants wipe .[the] stone house.
 >>
 
 <<
   石室拭，氏始試食是十獅屍。
 ||
   .[The] stone house wiped,
-  Mr~.[Shih] began to try eating these ten lions' carcasses.
+  Mr~.[((Shih | ~~施~~))] began to try eating these ten lions' carcasses.
 >>
 
 <<

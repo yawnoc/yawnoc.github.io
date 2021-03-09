@@ -3,7 +3,6 @@
 {+ resources/syntax/accessible-svgs.cmd +}
 {+ resources/syntax/chinese-lang.cmd +}
 {+ resources/syntax/coloured-spans.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/svg-styles.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -47,7 +46,7 @@ Also known as '''Haidao Suanjing'''.
 ----
 《海島算經》, or [".[The] Sea Island Computational Classic"][sea island],
 is one of the [ten canon classics] of Chinese mathematics.
-Written by [Liu Huei ((劉徽))] [劉徽]
+Written by [((Liu Huei | ~~劉徽~~))] [劉徽]
 of the [Three Kingdoms period] (220--280~AD),
 it consists of nine problems in the surveying of
 distant structures or landforms.
@@ -57,10 +56,10 @@ Derivations of the formulae I found
 in [《海島算經細草圖說》][sea island detailed],
 or ".[The] Sea Island Computational Classic
 .[with] detailed working, diagrams, .[and] explanations".
-Written by [Li Huang ((李潢))] [李潢],
+Written by [((Li Huang | ~~李潢~~))] [李潢],
 the rough working~(草), diagrams~(圖)
 and explanations~(說) supplement the older (but at times erroneous)
-annotations of [Li Ch'un-f(e^)ng ((李淳風))] [李淳風].
+annotations of [((Li Ch'un-f(e^)ng | ~~李淳風~~))] [李淳風].
 It is in the explanations~(說) that I find derivations of the formulae,
 not unlike high school geometry proofs.
 ----
@@ -138,9 +137,9 @@ and while their exact size is not terribly important,
 it is good to know the order of magnitude:
 ----
 ====
-* A chang ((丈)), "rod", is of the order three metres,
-* A pu ((步)), "pace", is of the order two metres, and
-* A li ((里)), "mile", is of the order half a kilometre.
+* A ((chang | ~~丈~~))~(丈), "rod", is of the order three metres,
+* A ((pu | ~~步~~))~(步), "pace", is of the order two metres, and
+* A ((li | ~~里~~))~(里), "mile", is of the order half a kilometre.
 ====
 ----
 The relevant conversions are

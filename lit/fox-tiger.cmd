@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/translations.cmd +}
 
@@ -35,7 +34,7 @@
 ----
 This idiom originates from a fable told
 in the ["Warring States' Strategies"][戰國策],
-compiled/edited by [Liu Hiang ((劉向))][劉向].
+compiled/edited by [((Liu Hiang | ~~劉向~~))][劉向].
 See also:
 ----
 ====
@@ -81,16 +80,17 @@ The Chinese source text is from Chinese Text Project:
 <<
   荊宣王問群臣曰：吾聞北方之畏昭奚恤也，果誠何如？
 ||
-  King~S(u")an ((宣)) of~King ((荊)) asked .[his] group of ministers, saying,
-    I hear of .[the] North's fear of Chao Hi-s(u") ((昭奚恤));
+  King~((S(u")an | ~~宣~~)) of~((King | ~~荊~~))
+  asked .[his] group of ministers, saying,
+    I hear of .[the] North's fear of ((Chao Hi-s(u") | ~~昭奚恤~~));
     if .[it be] true, what of .[it]?
 >>
 ====
-* King ((荊)) \+
-  Another name for the state of~Ch'u ((楚)).
+* 荊： ((King | ~~荊~~)) \+
+  Another name for the state of~((Ch'u | ~~楚~~)), 楚.
 * 群： group; \or gathering
-* Chao Hi-s(u") ((昭奚恤)) \+
-  The name of a high military official of~Ch'u ((楚)).
+* 昭奚恤： ((Chao Hi-s(u") | ~~昭奚恤~~)) \+
+  The name of a high military official of~((Ch'u | ~~楚~~)).
 ====
 
 <<
@@ -102,14 +102,15 @@ The Chinese source text is from Chinese Text Project:
 <<
   江一對曰：虎求百獸而食之，得狐。
 ||
-  .[But] Kiang I ((江一)) replied, saying,
+  .[But] ((Kiang I | ~~江一~~)) replied, saying,
     .[A] tiger sought .[the] many beasts .[to] eat them,
     .[and] obtained .[a] fox.
 >>
 ====
-* Kiang I ((江一)) \+
-  A minister of King~S(u")an ((宣)) of~King ((荊)).
-  In another manuscript he is called Kiang I ((江乙)).
+* 江一： ((Kiang I | ~~江一~~)) \+
+  A minister of King~((S(u")an | ~~宣~~)) of~((King | ~~荊~~)).
+  In another manuscript he is called 江乙,
+  also ((Kiang I | ~~江乙~~)).
 
 * 百獸： .[the] many beasts; \lit .[the] hundred beasts
 ====
@@ -159,7 +160,7 @@ The Chinese source text is from Chinese Text Project:
   Today King's territory .[spanneth]
   .[a] circumference of five thousand miles,
   .[with] armour-donning .[soldiers] .[a] million,
-  and exclusively subordinate .[are] they unto Chao Hi-s(u") ((昭奚恤));
+  and exclusively subordinate .[are] they unto ((Chao Hi-s(u") | ~~昭奚恤~~));
 >>
 ====
 * 地： territory; \lit land
@@ -176,7 +177,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   故北方之畏奚恤也，其實畏王之甲兵也，猶百獸之畏虎也。
 ||
-  Therefore, .[as to] .[the] North's fear of Hi-s(u") ((奚恤)):
+  Therefore, .[as to] .[the] North's fear of ((Hi-s(u") | ~~奚恤~~)):
   it .[is] actually fear of King's armoured troops,
   like .[the] many beasts' fear of .[the] tiger.
 >>

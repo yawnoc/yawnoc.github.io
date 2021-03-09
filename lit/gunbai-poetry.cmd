@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/translations.cmd +}
 
@@ -99,7 +98,7 @@ has the lines [ja/~~ 及時當勉励 歳月不待人 ~~/]:
 
 ----
 These lines are from [《雜詩》, "Assorted Poems"][雜詩],
-by [T'ao Y(u")an-ming ((陶淵明))][陶淵明].
+by [((T'ao Y(u")an-ming | ~~陶淵明~~))][陶淵明].
 \kimura-yodo never points the other side of the fan away from himself,
 but I would guess that that side bears the two lines before. All up:
 ----

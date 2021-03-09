@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -90,7 +89,7 @@ Chinese source text: \a[34], \b[155], \c[52166], \d[48]. \+
 ====
 * 奇： remainder \+
   奇，音羈， \C kei1, \M j(i-) \+
-  To convert area from square paces to acres, mu ((畝)),
+  To convert area from square paces to acres, ((mu | ~~畝~~))~(畝),
   one divides by the conversion factor $240 \unit{paces}^2 / \unit{acre}$,
   called the "acre divisor" below.
   This is why the text refers to a "remainder".

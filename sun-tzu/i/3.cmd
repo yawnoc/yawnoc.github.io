@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/superscripts.cmd +}
@@ -79,7 +78,8 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 * 起： beginneth from; \lit ariseth from
 
 * 粟： \lit grain \+
-  Su ((粟)), a six-hundred-thousandth of the Chinese litre, sh(e^)ng ((升)).
+  ((Su | ~~粟~~))~(粟),
+  a six-hundred-thousandth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
 ====
 
 <<
@@ -104,23 +104,28 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 ====
 * 圭： \lit (jade) tablet \+
   圭，古攜切， \C kwai1, \M gu(i-) \+
-  Kuei ((圭)), a hundred-thousandth of the Chinese litre, sh(e^)ng ((升)).
+  ((Kuei | ~~圭~~))~(圭),
+  a hundred-thousandth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
 
 * 撮： \lit (two- or three-finger) pinch; \or pugil \+
-  Ts'o ((撮)), a ten-thousandth of the Chinese litre, sh(e^)ng ((升)).
+  ((Ts'o | ~~撮~~))~(撮),
+  a ten-thousandth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
 
 * 抄： grab \+
-  Ch'ao ((抄)), a thousandth of the Chinese litre, sh(e^)ng ((升)).
+  ((Ch'ao | ~~抄~~))~(抄),
+  a thousandth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
   Others render this as "handful",
   but that sounds too big in my opinion.
 
 * 勺： ladle \+
   勺， \C ch(oe)k8, ch'(oe)k8, \M sh(a/)o \+
-  Shao ((勺)), a hundredth of the Chinese litre, sh(e^)ng ((升)).
+  ((Shao | ~~勺~~))~(勺),
+  a hundredth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
 
 * 合： gill \+
   合，葛合切， \C kap8, \M g(ev) \+
-  Ko ((合)), a tenth of the Chinese litre, sh(e^)ng ((升)).
+  ((Ko | ~~合~~))~(合),
+  a tenth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
   Similar in size to the [imperial gill].
   In English, "gill" is read [dʒɪl], i.e.~with a soft 'g'.
   
@@ -129,7 +134,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
   @@
 
 * 升： quart \+
-  Sh(e^)ng ((升)), the __Chinese litre__,
+  ((Sh(e^)ng | ~~升~~))~(升), the __Chinese litre__,
   of the same order of magnitude as the metric litre.
   I have avoided rendering it "litre"
   so as to keep SI units free,
@@ -141,16 +146,18 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
   @@
 
 * 斗： peck \+
-  Tou ((斗)), ten Chinese litres, of similar size to the imperial peck.
+  ((Tou | ~~斗~~))~(斗),
+  ten Chinese litres, of similar size to the imperial peck.
   A person of integrity will not 為五斗米折腰,
   or "bow down (\lit bend .[at the] waist) for five pecks of grain".
 
 * 斛： barrel \+
   斛， \C huk9, \M h(u/) \+
-  Hu ((斛)), a hundred Chinese litres.
+  ((Hu | ~~斛~~))~(斛), a hundred Chinese litres.
   [James Legge] instead uses "bushel", which is only about forty litres,
   but this is reasonable since later definitions
-  have a hu ((斛)) being only fifty Chinese litres (rather than a hundred).
+  have a ((hu | ~~斛~~))~(斛) being only fifty Chinese litres
+  (rather than a hundred).
   
   @@[James Legge]
     https://ctext.org/zhuangzi/cutting-open-satchels\
@@ -273,7 +280,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 
 ----
 I can't be bothered looking up a reputable source
-for the precise volume of a sh(e^)ng ((升))
+for the precise volume of a ((sh(e^)ng | ~~升~~))~(升)
 when \sun-tzu's Computational Classic was first written,
 but using 1~litre as an estimate,
 we have:
@@ -296,8 +303,8 @@ $$
 ----
 In [Vol.~II \P10] ["ii 10"],
 the conversion between
-the capacity unit "barrel", hu ((斛)),
-and the volume unit "cubic rule", ch'ih ((尺)),
+the capacity unit "barrel", ((hu | ~~斛~~))~(斛),
+and the volume unit "cubic rule", ((ch'ih | ~~尺~~))~(尺),
 is given as
 ----
 $$
@@ -306,14 +313,16 @@ $$
 
 ----
 \c[52059]
-has "pinches", ts'o ((撮)), and "grabs", ch'ao ((抄)), the other way around.
+has "pinches", ((ts'o | ~~撮~~))~(撮),
+and "grabs", ((ch'ao | ~~抄~~))~(抄), the other way around.
 The order given here is that in Versions~A, B and~D,
 and it is consistent with the order
 in Hong Kong's [Ordinance No.~22 of~1844 (PDF)] [ord 22 of 1844],
-which has all of the above units as well as the "cup", y(u")eh ((龠)),
+which has all of the above units
+as well as the "cup", ((y(u")eh | ~~龠~~))~(龠),
 equal to five ladles.
-Note however that Ordinance No.~22 has the "barrel", hu ((斛)), defined as
-five tou ((斗)) rather than ten tou ((斗)):
+Note however that Ordinance No.~22 has the "barrel", ((hu | ~~斛~~))~(斛),
+defined as five ((tou | ~~斗~~))~(斗) rather than ten ((tou | ~~斗~~))~(斗):
 ----
 
 ||||{.centred-block}

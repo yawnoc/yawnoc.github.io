@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -261,8 +260,8 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 
 * 尺丈： .[the] rule .[and the] rod \+
   Units of length, see [Vol.~I \P1] ["i 1"].
-  One rule, chih ((尺)), is of the order one Imperial foot,
-  and one rod, chang ((丈)), is equal to ten rules.
+  One rule, ((chih | ~~尺~~))~(尺), is of the order one Imperial foot,
+  and one rod, ((chang | ~~丈~~))~(丈), is equal to ten rules.
 ====
 
 <<
@@ -280,12 +279,12 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 * 毫釐： mils .[and] cents \+
   Small units of length (see [Vol.~I \P1] ["i 1"]),
   respectively a thousandth and a hundredth
-  of the Chinese inch, ts'un ((寸)).
+  of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
 
 * 黍絫： millets .[and] piles \+
   Small units of weight (see [Vol.~I \P2] ["i 2"]),
   respectively a hundredth and a tenth
-  of the Chinese dram, chu ((銖)),
+  of the Chinese dram, ((chu | ~~銖~~))~(銖),
   which is of the order one gram.
 ====
 

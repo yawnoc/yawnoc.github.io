@@ -120,3 +120,28 @@ p{: (u\)  : ù :}  <## U+00F9 LATIN SMALL LETTER U WITH GRAVE ##>
 p{: (u"\) : ǜ :}  <## U+01DC LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE ##>
 
 
+<##
+  ----------------------------------------------------------------
+  Romanisation original-Chinese title  (( ))
+  ----------------------------------------------------------------
+  Replaces
+    (({romanisation} | ~~{original Chinese}~~))
+  with
+    <span class="romanisation" title="{original Chinese}">
+      {romanisation}
+    </span>.
+##>
+
+c{%
+  \(\(
+    (?P<romanisation> [^\n]*? )
+    [ ]
+    [|]
+    [ ]
+    (?P<original_chinese> [\S]+ )
+  \)\)
+%
+  <span class="romanisation" title="\g<original_chinese>">\\
+    \g<romanisation>\\
+  </span>
+%}

@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -51,8 +50,8 @@
 This paragraph gives a worked example of computing
 the __volume of a cylinder__,
 and contains the first mention of
-the __conversion between the capacity unit "barrel"__, hu ((斛)),
-__and the volume unit "cubic rule"__, ch'ih ((尺)):
+the __conversion between the capacity unit "barrel"__, ((hu | ~~斛~~))~(斛),
+__and the volume unit "cubic rule"__, ((ch'ih | ~~尺~~))~(尺):
 ----
 $$
   1 \unit{barrel~(斛)} = 1.62 \unit{rules~(尺)}^3.
@@ -150,8 +149,10 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. \+
 ====
 * 斛法一尺六寸二分：
     .[the] barrel divisor, one rule, six inches, .[and] two tenths \+
-  This is the conversion between the capacity unit "barrel", hu ((斛)),
-  and the volume unit "cubic rule", ch'ih ((尺)).
+  This is the conversion between the capacity unit "barrel",
+    ((hu | ~~斛~~))~(斛),
+  and the volume unit "cubic rule",
+    ((ch'ih | ~~尺~~))~(尺).
   Rules, inches, and tenths are units of length,
   so at face value 一尺六寸二分 represents the length 1.62~rules.
   However, it is intended to represent the volume 1.62~**cubic** rules;
@@ -184,8 +185,8 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. \+
 
 ----
 The 斛法, "barrel divisor",
-gives the conversion between the capacity unit "barrel", hu ((斛)),
-and the volume unit "cubic rule", ch'ih ((尺)).
+gives the conversion between the capacity unit "barrel", ((hu | ~~斛~~))~(斛),
+and the volume unit "cubic rule", ((ch'ih | ~~尺~~))~(尺).
 ----
 ----
 If we parse the barrel divisor 一尺六寸二分 literally,

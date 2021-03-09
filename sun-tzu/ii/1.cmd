@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -144,7 +143,7 @@ I think it is informative to include a translation of an excerpt here.
 The source text for this excerpt is from
 [《四部叢刊初編》 (ctext.org library)] [四部叢刊初編],
 and the bracketed portions are
-inline two-column annotations by [Liu Huei ((劉徽))] [劉徽].
+inline two-column annotations by [((Liu Huei | ~~劉徽~~))] [劉徽].
 The inserted punctuation is my own.
 ----
 
@@ -211,7 +210,7 @@ of \sun-tzu's Computational Classic:
 
 * 動有參差： have unevenness .[in their] motions \+
   This is a literal rendering.
-  I think Liu Huei ((劉徽)) is trying to say that
+  I think ((Liu Huei | ~~劉徽~~)) is trying to say that
   different representations of fractions lead to inconsistencies,
   so first reduce them before doing any other calculations.
 

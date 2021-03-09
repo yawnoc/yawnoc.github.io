@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -77,9 +76,10 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 * 起： beginneth from; \lit ariseth from
 
 * 忽： floss \+
-  Hu ((忽)), a hundred-thousandth of the Chinese inch, ts'un ((寸)).
+  ((Hu | ~~忽~~))~(忽),
+  a hundred-thousandth of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
   [K'ang-hi's Dictionary](https://ctext.org/kangxi-zidian/61/4#n326385),
-  quoting 《劉德曰》, "Liu T(e^)'s sayings",
+  quoting 《劉德曰》, "((Liu T(e^) | ~~劉德~~))'s sayings",
   has 忽，蜘蛛網也, "floss, .[a] spider's web".
 
 * \c[52058] has 蠶所生，吐絲為忽.
@@ -106,10 +106,12 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 >>
 ====
 * 絲： (silk) thread \+
-  Ss(uu) ((絲)), a ten-thousandth of the Chinese inch, ts'un ((寸)).
+  ((Ss(uu) | ~~絲~~))~(絲),
+  a ten-thousandth of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
 
 * 毫： mil; \or thou; \lit fine hair \+
-  Hao ((毫)), a thousandth of the Chinese inch, ts'un ((寸)).
+  ((Hao | ~~毫~~))~(毫),
+  a thousandth of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
   Similar to the imperial [mil or thou].
   
   @@[mil or thou]
@@ -117,13 +119,15 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
   @@
 
 * 釐： cent \+
-  Li ((釐)), a hundredth of the Chinese inch, ts'un ((寸)).
+  ((Li | ~~釐~~))~(釐),
+  a hundredth of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
 
 * 分： tenth \+
-  F(e^)n ((分)), a tenth of the Chinese inch, ts'un ((寸)).
+  ((F(e^)n | ~~分~~))~(分),
+  a tenth of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
 
 * 寸： inch \+
-  Ts'un ((寸)), the [__Chinese inch__] [寸].
+  ((ts'un | ~~寸~~))~(寸), the [__Chinese inch__] [寸].
   Of the same order of magnitude as the imperial inch,
   and used figuratively as the inch is in English
   to denote a small distance,
@@ -134,7 +138,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
   @@
 
 * 尺： rule; \or ruler; \or covid \+
-  Ch'ih ((尺)), ten Chinese inches.
+  ((Ch'ih | ~~尺~~))~(尺), ten Chinese inches.
   This is of the order one foot,
   but I have not rendered this as "foot"
   because there is no such connotation.
@@ -145,7 +149,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
   thanks a lot, WHO.
 
 * 丈： rod; \or staff; \or measure \+
-  Chang ((丈)), ten rules.
+  ((Chang | ~~丈~~))~(丈), ten rules.
   Difficult to render because Chinese dictionaries
   simply define it as ten rules.
   More generally its meanings are "elder male",
@@ -161,7 +165,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
   @@
 
 * 引： \lit draw; \or pull \+
-  Yin ((引)), ten rods.
+  ((Yin | ~~引~~))~(引), ten rods.
 ====
 
 <<
@@ -175,17 +179,17 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 >>
 ====
 * 端： \lit end \+
-  Tuan ((端)), fifty rules.
+  ((Tuan | ~~端~~))~(端), fifty rules.
 
 * \b[146] erroneously has 五十引為一端.
 
 * 匹： length \+
-  P'i ((匹)), forty rules.
+  ((P'i | ~~匹~~))~(匹), forty rules.
   This is the only unit rendering which I am unsatisfied with.
   匹 is the classifier for cloth, 一匹布 being "one length of cloth".
 
 * 步： pace; \or step \+
-  Pu ((步)), the Chinese pace, six rules.
+  ((Pu | ~~步~~))~(步), the Chinese pace, six rules.
 ====
 
 <<
@@ -195,11 +199,11 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 >>
 ====
 * 畝： acre; \lit field \+
-  Mu ((畝)), 240~square paces.
+  ((Mu | ~~畝~~))~(畝), 240~square paces.
   Classical Chinese mathematics did not have
   a fully developed notion of dimensional analysis,
   so 'square paces' were simply referred to as 'paces'.
-  While a mu ((畝)) is only about a fifth of an [imperial acre],
+  While a ((mu | ~~畝~~))~(畝) is only about a fifth of an [imperial acre],
   I have chosen to render it acre
   because both have the etymological meaning "field".
   
@@ -215,7 +219,8 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 >>
 ====
 * 里： mile \+
-  Li ((里)), the [Chinese mile] [里], of the order half a kilometre.
+  ((Li | ~~里~~))~(里), the [Chinese mile] [里],
+  of the order half a kilometre.
   While this is much shorter than the imperial mile,
   it is figuratively used as the mile is in English
   to denote a large distance,
@@ -233,7 +238,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 
 ----
 I can't be bothered looking up a reputable source
-for the precise length of a ch'ih ((尺)) or rule
+for the precise length of a ((ch'ih | ~~尺~~))~(尺) or rule
 when \sun-tzu's Computational Classic was first written,
 but using 0.3~metres as an estimate,
 we have:
@@ -259,8 +264,8 @@ $$
 
 ----
 Silk is around 12~μm in thickness ([UAF], [Luong~_et~al._~(2014)][Luong])
-so hu ((忽)), "floss", is much too thin,
-and ss(uu) ((絲)), "(silk) thread", still a little thin.
+so ((hu | ~~忽~~))~(忽), "floss", is much too thin,
+and ((ss(uu) | ~~絲~~))~(絲), "(silk) thread", still a little thin.
 Thus 蠶吐絲為忽, ".[the] silk spat of the silkworm be floss",
 is an exaggeration of the thinness of silk.
 But my job is only to translate the text as it is, not to correct it.
@@ -278,8 +283,8 @@ But my job is only to translate the text as it is, not to correct it.
 
 ----
 By the later part of the Ts'ing Dynasty,
-one ch'ih ((尺)) or rule is 14⅝~inches in Hong Kong,
-locally called a ch'ek ((尺)).
+one ((ch'ih | ~~尺~~))~(尺) or rule is 14⅝~inches in Hong Kong,
+locally called a ((ch'ek | ~~尺~~))~(尺).
 Reading through historical versions of the [Weights and Measures Ordinance]
 enacted by the British in Hong Kong,
 [Ordinance No.~22 of~1844 (PDF)] [ord 22 of 1844]
@@ -335,7 +340,7 @@ more than four decades later:
 ||||
 
 ----
-Eventually the ch'ek ((尺)) is given
+Eventually the ((ch'ek | ~~尺~~))~(尺) is given
 the equivalent definition of 0.371475~metres,
 used unto this day in Hong Kong;
 see [Cap.~68 Weights and Measures Ordinance] [cap 68].
@@ -347,9 +352,9 @@ see [Cap.~68 Weights and Measures Ordinance] [cap 68].
 @@
 
 ----
-Taiwan uses a ch'ih ((尺)) from the Japanese occupation
+Taiwan uses a ((ch'ih | ~~尺~~))~(尺) from the Japanese occupation
 equal to 10/33 of a metre, i.e.~0.3030...~metres,
-and Mainland China uses a metric-based ch'ih ((尺))
+and Mainland China uses a metric-based ((ch'ih | ~~尺~~))~(尺)
 equal to 1/3 of a metre, i.e.~0.3333...~metres.
 In either case, ugh to recurring decimals.
 ----

@@ -2,7 +2,6 @@
 
 {+ resources/syntax/accessible-svgs.cmd +}
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/svg-styles.cmd +}
@@ -111,7 +110,7 @@ Chinese source text: \a[6], \b[147], \c[52063], \d[14]. \+
     Note: "Myriads .[and] hundreds" .[in the] original version
     .[was] erroneously written "hundreds .[and] myriads".
     Now corrected according to
-    ["Hia Hou-yang ((夏侯陽))'s Computational Classic"] [夏侯陽算經].
+    ["((Hia Hou-yang | ~~夏侯陽~~))'s Computational Classic"] [夏侯陽算經].
   >>
   In my opinion 萬百 vs~百萬 is a minor issue,
   but I agree that 萬百 is the correct order,

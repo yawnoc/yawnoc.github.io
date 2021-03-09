@@ -232,7 +232,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 
 * [
     《施氏食獅史》 \+
-    ".[An] History of Mr Shih's Eating Lions"
+    ".[An] History of Mr ((Shih | ~~施~~))'s Eating Lions"
   ](/lit/lion-eating)
   ||||{.page-description}
      The original Mandarin "lion tongue twister".

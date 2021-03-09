@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/translations.cmd +}
 
@@ -41,7 +40,7 @@
 
 
 ----
-This is one of several accounts of [Hiang T'o ((項橐))][項橐],
+This is one of several accounts of [((Hiang T'o | ~~項橐~~))][項橐],
 a child prodigy who is supposed to have outwitted Confucius
 at the age of seven.
 ----
@@ -57,19 +56,19 @@ It is entitled 小兒論, with the heading 孔子問答 in the margins.
 ----
 
 ----
-Although there is no paragraphing, k(u") tou ((句讀))
+Although there is no paragraphing, ((k(u") tou | ~~句讀~~))~(句讀)
 are supplied (albeit with errors in a few places).
 These are the rudimentary punctuation markers
 ----
 ====
-* k(u") ((句)), "。", for the end of a sentence, and
-* tou ((讀)), "、", for a mid-sentence pause. \+
+* ((k(u") | ~~句~~)), "。", for the end of a sentence, and
+* ((tou | ~~讀~~)), "、", for a mid-sentence pause. \+
   讀，去聲， \C tau6, \M d(o\)u.
 ====
 ----
 The almanac's usage of these is quite bizarre.
-K(u") ((句)) are used even for mid-sentence pauses,
-and tou ((讀)) are only very sparingly used for lists;
+((K(u") | ~~句~~)) are used even for mid-sentence pauses,
+and ((tou | ~~讀~~)) are only very sparingly used for lists;
 see [the actual first page of the almanac text][almanac text].
 ----
 
@@ -95,12 +94,12 @@ see [the actual first page of the almanac text][almanac text].
 <<
   孔子，名丘，字仲尼，設敎於魯國之西。
 ||
-  Confucius, named K'iu ((丘)),
-  .[and] styled Chung-ni ((仲尼)),
-  established .[a] teaching in .[the] west of .[the] nation of Lu ((魯)).
+  Confucius, named ((K'iu | ~~丘~~)),
+  .[and] styled ((Chung-ni | ~~仲尼~~)),
+  established .[a] teaching in .[the] west of .[the] nation of ((Lu | ~~魯~~)).
 >>
 ====
-* 孔子： Confucius; \lit Master~K'ung ((孔))
+* 孔子： Confucius; \lit Master~((K'ung | ~~孔~~))
 
 * 字： styled \+
   A style-name, also called a [courtesy name][字].
@@ -248,8 +247,8 @@ see [the actual first page of the almanac text][almanac text].
 ||
   .[The] little child answered, saying,
   I dwell in .[a] decrepit hometown, .[in] lowly land,
-  .[and am] surnamed Hiang ((項)),
-  .[and] named T'o ((橐)),
+  .[and am] surnamed ((Hiang | ~~項~~)),
+  .[and] named ((T'o | ~~橐~~)),
   .[and] yet to have .[a] style-name.
 >>
 ====
@@ -511,7 +510,7 @@ see [the actual first page of the almanac text][almanac text].
 ====
 * 小人： .[I] .[the] little man \+
   A deprecating self-address.
-  Evidently Hiang T'o ((項橐)) is far from the little man of Confucianism.
+  Evidently the child is far from the little man of Confucianism.
 ====
 
 <<
@@ -603,7 +602,7 @@ see [the actual first page of the almanac text][almanac text].
   天地相去，有千千萬萬餘里。\
   東西南北，皆有寄耳。
 ||
-  The wind .[cometh] from Ts'ang Wu ((蒼梧)).
+  The wind .[cometh] from ((Ts'ang Wu | ~~蒼梧~~)).
   The rain .[arriveth] from the outskirt town.
   The cloud emergeth from the mountain.
   The fog ariseth from .[the] ground.
@@ -612,12 +611,11 @@ see [the actual first page of the almanac text][almanac text].
   East, west, south, .[and] north, all have adherence.
 >>
 ====
-* Ts'ang Wu ((蒼梧)) \+
+* 蒼梧： ((Ts'ang Wu | ~~蒼梧~~)) \+
   A place name.
 
 * 郊市： the outskirt town \+
-  Not certain. Possibly "town of Kiao ((郊))".
-
+  Not certain. Possibly "town of ((Kiao | ~~郊~~))".
 ====
 
 <<
@@ -712,16 +710,16 @@ see [the actual first page of the almanac text][almanac text].
   適來問橐，橐一一答之。橐今欲求敎夫子一言，明以誨橐，幸請勿棄。
 ||
   .[The] little child asked Confucius, saying,
-  .[My master] .[hath] just come to ask T'o ((橐)) .[questions],
-  .[and] T'o ((橐)) .[hath] one .[by] one answered them.
-  T'o ((橐)) now wisheth to
+  .[My master] .[hath] just come to ask ((T'o | ~~橐~~)) .[questions],
+  .[and] ((T'o | ~~橐~~)) .[hath] one .[by] one answered them.
+  ((T'o | ~~橐~~)) now wisheth to
   request instruction of .[my] master .[in] one saying,
-  .[to] teach T'o ((橐)) with clarity,
+  .[to] teach ((T'o | ~~橐~~)) with clarity,
   .[and] .[doth] wishfully ask .[that] .[my master] do not forsake.
 >>
 ====
-* T'o ((橐)) \+
-  Out of respect, the child Hiang T'o ((項橐)) refers
+* 橐： ((T'o | ~~橐~~)) \+
+  Out of respect, the child ((Hiang T'o | ~~項橐~~)) refers
   [to himself in the third person][illeism],
   and to Confucius as 夫子, ".[my] master", rather than 汝, "thou".
   

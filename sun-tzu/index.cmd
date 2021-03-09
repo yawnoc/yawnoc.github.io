@@ -1,7 +1,6 @@
 {+ resources/syntax/general.cmd +}
 
 {+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/original-chinese.cmd +}
 {+ resources/syntax/romanisations.cmd +}
 {+ resources/syntax/sun-tzu.cmd +}
 {+ resources/syntax/translations.cmd +}
@@ -84,7 +83,7 @@ Also known as '''Sunzi Suanjing'''.
 like the [Sea Island Computational Classic][sea island],
 is one of the [ten canon classics] of Chinese mathematics.
 Probably written in the 3rd to 5th centuries AD,
-the reputed author \sun-tzu ((孫子)), "Master~Sun",
+the reputed author \sun-tzu~(孫子), "Master~Sun",
 is not the same [\sun-tzu] [孫子] who wrote ['''The Art of War'''][兵法]
 (though the characters are the same).
 ----
