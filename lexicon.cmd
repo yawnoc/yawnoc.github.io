@@ -3369,7 +3369,7 @@ See also: [百萬][萬]
 
 3 [竽] U+7AFD
 ====
-* y(u") {free reed instrument}
+* ((y(u") | ~~竽~~)) {free reed instrument}
 ====
 
 4 [笑] U+7B11
@@ -3379,7 +3379,7 @@ See also: [百萬][萬]
 
 5 [笙] U+7B19
 ====
-* sh(e^)ng {free reed instrument}
+* ((sh(e^)ng | ~~笙~~)) {free reed instrument}
 ====
 
 6 [答] U+7B54
