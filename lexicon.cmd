@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-09
+  %date-modified 2021-03-12
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -884,6 +884,15 @@ See also: [何以][何], [可以][可]
 * achievement; output
 ====
 
+7 [勉] U+52C9
+====
+* strive
+* spur
+====
+====
+* 勉[勵]： strive; spur
+====
+
 9 [勒] U+52D2
 ====
 * bridle
@@ -904,6 +913,15 @@ See also: [何以][何], [可以][可]
 * influence; power
 * momentum; situation
 ====
+
+15 [勵] U+52F5
+====
+* endeavour
+* spur
+====
+----
+See also: [勉勵][勉]
+----
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼓ (wrap) U+2F13
@@ -1015,6 +1033,9 @@ See also: [北方][方]
 * reach
 * unto
 * and
+====
+====
+* 及[時]： in good time
 ====
 
 6 [受] U+53D7
@@ -1846,6 +1867,11 @@ See also: [從容][從]
 * past
 ====
 
+6 [待] U+5F85
+====
+* await
+====
+
 6 [後] U+5F8C
 ====
 * rear; hind; behind
@@ -2335,6 +2361,14 @@ See also: [是非][非]
 * time; hour; season
 * when
 * constantly
+====
+----
+See also: [及時][及]
+----
+
+7 [晨] U+6668
+====
+* dawn
 ====
 
 8 [景] U+666F
@@ -3133,6 +3167,16 @@ See also: [百萬][萬]
 5 [益] U+76CA
 ====
 * benefit
+====
+
+6 [盛] U+76DB
+[平聲]
+====
+* hold; contain
+====
+[去聲]
+====
+* flourishing; vigorous
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -4428,7 +4472,7 @@ See also: [聯翩][翩]
 2 [重] U+91CD
 [平聲]
 ====
-* repeat
+* repeat; once more
 ====
 [上聲] [but 去聲 in Mandarin]
 ====

@@ -4,6 +4,7 @@ https://yawnoc.github.io/cantonese/tonic-dictionary
 https://yawnoc.github.io/code/chinese-font
 https://yawnoc.github.io/code/gitconfig
 https://yawnoc.github.io/code/npm-without-sudo
+https://yawnoc.github.io/code/phone
 https://yawnoc.github.io/code/pinebook-pro
 https://yawnoc.github.io/code/strikethrough
 https://yawnoc.github.io/code/termux
@@ -18,11 +19,11 @@ https://yawnoc.github.io/cynics-730/2020/sales-frydenberg-surplus
 https://yawnoc.github.io/cynics-730/2020/sales-kelly-coronavirus
 https://yawnoc.github.io/cynics-730/2020/sales-morrison-economy
 https://yawnoc.github.io/cynics-730/2020/sales-taylor-emissions
+https://yawnoc.github.io/cynics-730/2021/sales-bowen-climate
 https://yawnoc.github.io/faq
 https://yawnoc.github.io/lexicon
 https://yawnoc.github.io/lit/fox-tiger
 https://yawnoc.github.io/lit/gunbai-poetry
-https://yawnoc.github.io/lit/hk-mobilisation
 https://yawnoc.github.io/lit/lion-eating
 https://yawnoc.github.io/lit/lion-pavilion
 https://yawnoc.github.io/lit/little-child

@@ -7,7 +7,7 @@
 %%
   %title Poetry on a sumo umpire's fan
   %date-created 2019-11-21
-  %date-modified 2020-02-15
+  %date-modified 2020-03-12
   \resources:rendering
   %footer-copyright-remark
     except the image of \kimura-yodo,
@@ -126,17 +126,15 @@ but I would guess that that side bears the two lines before. All up:
   ||||
     .[The] years of prime come not once more; \+
     .[A] day cannot dawn again. \+
-    .[In] good time ought .[we] spur, \+
+    In good time ought .[we] strive, \+
     .[For] years .[and] months await not man.
   ||||
   ||||||
 >>>>>>>>
 ====
-* 盛： prime; \lit flourishing
-
+* 盛： prime; \lit flourishing; \or vigour
 * 一日： .[a] day; \lit one day
-
-* 難： cannot; \lit .[with] difficulty
+* 勉勵： strive; \or spur
 ====
 
 
