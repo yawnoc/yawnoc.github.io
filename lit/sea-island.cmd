@@ -375,8 +375,8 @@ $$
 <<
   問[b/島高/]及[r/去表/]各幾何？
 ||
-  .[We] ask, how much .[are] each of [b/ .[the] height of .[the] island /]
-  and [r/ .[its] distance from .[the] post /]?
+  .[We] ask, how much each .[be] [b/ .[the] island's height /]
+  and [r/ .[the] separation from .[the] post /]?
 >>
 
 <<
