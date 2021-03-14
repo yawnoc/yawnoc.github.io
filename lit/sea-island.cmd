@@ -277,9 +277,9 @@ $$
   從前表[b/卻行一百二十三步/]，人目著地[r/取望島峯/]，與表末參合。
 ||
   [b/ Walking back one hundred .[and] twenty-three paces /]
-    from .[the] front post,
+  from .[the] front post,
   man's eye upon .[the] ground,
-    [r/ taking .[a] looking at .[the] peak of .[the] island /],
+  [r/ taking .[a] looking at .[the] peak of .[the] island /],
   meet .[the] three with .[the] tip of .[the] post.
 >>
 ====
@@ -329,9 +329,10 @@ $$
   從後表[b/卻行一百二十七步/]，人目着地[r/取望島峯/]，亦與表末參合。
 ||
   [b/ Walking back one hundred .[and] twenty-seven paces /]
-  from .[the] rear post, .[a] man's eye on .[the] ground,
-  [r/ taking .[a] look at .[the] peak of .[the] island /],
-  also meeteth .[the] three with .[the] tip of .[the] post.
+  from .[the] rear post,
+  man's eye on .[the] ground,
+  [r/ taking .[a] looking at .[the] peak of .[the] island /],
+  meet .[the] three also with .[the] tip of .[the] post.
 >>
 
 
