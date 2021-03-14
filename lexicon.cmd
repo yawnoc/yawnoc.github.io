@@ -1070,6 +1070,11 @@ See also: [北方][方]
 * 及[時]： in good time
 ====
 
+6 [取] U+53D6
+====
+* take
+====
+
 6 [受] U+53D7
 ====
 * receive; bear
@@ -1146,7 +1151,7 @@ See also: [北方][方]
 
 3 [合] U+5408
 ====
-* join
+* join; meet
 ====
 ----
 See also: [合奏][奏]
@@ -2533,6 +2538,11 @@ See also: [有餘][餘]
 * 未[嘗]： not ever
 ====
 
+1 [末] U+672B
+====
+* tip; end; final
+====
+
 4 [東] U+6771
 ====
 * east(ward)
@@ -3220,6 +3230,11 @@ See also: [百萬][萬]
 ⽬ (eye) U+2F6C
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+0 [目] U+76EE
+====
+* eye
+====
+
 3 [直] U+76F4
 ====
 * straight; \met aligned
@@ -3845,6 +3860,23 @@ See also: [聯翩][翩]
 7 [莫] U+83AB
 ====
 * cannot; do not
+====
+
+8 [著] U+8457
+[去聲]
+====
+* notable; marked
+* show
+* write; record
+* establish
+====
+[陰入]
+====
+* wear
+====
+[陽入]
+====
+* contact; \met upon
 ====
 
 10 [蒙] U+8499

@@ -278,18 +278,14 @@ $$
 ||
   [b/ Walking back one hundred .[and] twenty-three paces /]
     from .[the] front post,
-  .[a] man's eye on .[the] ground,
-    [r/ taking .[a] look at .[the] peak of .[the] island /],
-  meeteth .[the] three with .[the] tip of .[the] post.
+  man's eye upon .[the] ground,
+    [r/ taking .[a] looking at .[the] peak of .[the] island /],
+  meet .[the] three with .[the] tip of .[the] post.
 >>
 ====
-* 著地： on .[the] ground; \lit contacting .[the] ground
+* 著地： upon .[the] ground; \lit contacting .[the] ground
 
 * 峯： peak; \or summit
-
-* In other words, the three of them
-  (the island's peak, the post's tip, and the person's eye)
-  are in a straight line.
 ====
 
 
