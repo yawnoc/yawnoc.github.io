@@ -382,10 +382,10 @@ $$
 <<
   答曰：島高[b/四里五十五步/]；去表[r/一百二里一百五十步/]。
 ||
-  Answer saith: .[the] height of .[the] island .[is]
-    [b/ four miles .[and] fifty-five paces /],
-  .[and the] distance from .[the] post,
-    [r/ one hundred .[and] two miles .[and] one hundred .[and] fifty paces /].
+  Answer saith: .[the] island's height .[be]
+  [b/ four miles .[and] fifty-five paces /],
+  .[and the] separation from .[the] post,
+  [r/ one hundred .[and] two miles .[and] one hundred .[and] fifty paces /].
 >>
 ======
 * 里： miles \+
@@ -399,9 +399,8 @@ $$
   ====
   * In modern Chinese, you must say 一百零二,
     "one hundred oh two", to mean~102.
-    If you just say 一百二 or 百二, this means~120;
-    the~二 refers to the next significant digit
-    (as in $1.2 \times 100 = 120$).
+    If you just say 一百二 or 百二, it means~120;
+    the~二 by default refers to the next significant digit.
   
   * In Literary Chinese you might see 一百又二 or 一百有二,
     "one hundred and two", but the "and" is not necessary.
