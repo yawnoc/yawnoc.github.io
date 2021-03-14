@@ -283,7 +283,7 @@ $$
   meet .[the] three with .[the] tip of .[the] post.
 >>
 ====
-* 著地： upon .[the] ground; \lit contacting .[the] ground
+* 著： upon; \lit contacting
 
 * 峯： peak; \or summit
 ====
