@@ -11,7 +11,7 @@
   %title "[The] Sea Island Computational Classic" 《海島算經》
   %title-en ".[The] Sea Island Computational Classic"
   %date-created 2019-04-20
-  %date-modified 2021-03-14
+  %date-modified 2021-03-15
   \resources:maths
   %description
     An annotated English translation of the first problem in Haidao Suanjing, \
@@ -412,29 +412,20 @@ $$
 <<
   術曰：以表高乘表間爲實；相多爲法，除之。所得加表高，即得島高。
 ||
-  Method saith: use .[the] post height times
-  .[the] post separation as .[the] dividend, .[and the]
-  mutual excess as .[the] divisor, .[and] divide them.
-  .[Unto] that obtained add .[the] post height,
-  that is .[we] obtain .[the] height of .[the] island.
+  Method saith:
+  use .[the] posts' height times .[the] posts' separation as .[the] dividend,
+  .[and the] mutual excess as .[the] divisor,
+  .[and] divide them.
+  That obtained added to .[the] posts' height,
+  doth result in .[the] island's height.
 >>
 ====
-* 實： dividend; \or numerator
-
 * 間： separation \+
   間，去聲， \C kaan3, \M ji(a\)n
 
 * 相多： mutual excess; \or difference \+
   It is not immediately obvious, but "mutual excess" refers to
   the difference between the backward walking distances from the two posts.
-
-* 法： divisor; \or denominator \+
-  Altogether:
-  $$
-    \frac{\text{實}}{\text{法}} = \frac{\textq{dividend}}{\textq{divisor}}.
-  $$
-  實 and 法 are very much mathematical jargon terms of Literary Chinese.
-  In no other context do they mean "dividend" and "divisor".
 
 * In modern notation,
   $$

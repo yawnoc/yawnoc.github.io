@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-14
+  %date-modified 2021-03-15
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -407,6 +407,17 @@ See also: [逝世][逝]
 4 [乎] U+4E4E
 ====
 * [:speech-assist:]
+====
+
+9 [乘] U+4E58
+[平聲]
+====
+* ride
+* multiply; times
+====
+[去聲]
+====
+* chariot
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -900,6 +911,11 @@ See also: [幾何][幾]
 * achievement; output
 ====
 
+3 [加] U+52A0
+====
+* add; plus
+====
+
 7 [勉] U+52C9
 ====
 * strive
@@ -1005,6 +1021,16 @@ See also: [北方][方]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼙ (seal) U+2F19
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+5 [即] U+5373
+====
+* nigh
+* assume {a throne}
+* though
+* immediately
+* that is; which is
+* {auxiliary} do
+====
 
 5 [却] U+5374
 ====
@@ -1360,7 +1386,7 @@ See also: [詩士][詩]
 3 [多] U+591A
 ====
 * much; many
-* more
+* more; excess
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1587,6 +1613,7 @@ See also: [從容][從]
 * actual; fact; real; solid
 * full
 * fruit
+* dividend
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1939,6 +1966,7 @@ See also: [從容][從]
 ====
 * obtain; get
 * satisfy; done
+* result in
 * can
 ====
 ----
@@ -2773,6 +2801,13 @@ See also: [蒞止][蒞]
 * spring; fountain
 ====
 
+5 [法] U+6CD5
+====
+* law; regulation
+* emulate
+* divisor
+====
+
 5 [注] U+6CE8
 ====
 * inject; channel
@@ -3259,7 +3294,7 @@ See also: [百萬][萬]
 4 [相] U+76F8
 [平聲]
 ====
-* (with) each other
+* (with) each other; mutual
 ====
 [去聲]
 ====
@@ -3966,6 +4001,11 @@ See also: [聯翩][翩]
 [去聲] 音幸 x(i\)ng [but 平聲 x(i/)ng in Mainlandia]
 ====
 * [:noun:] conduct
+====
+
+15 [術] U+8853
+====
+* method
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
