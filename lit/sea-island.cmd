@@ -11,7 +11,7 @@
   %title "[The] Sea Island Computational Classic" 《海島算經》
   %title-en ".[The] Sea Island Computational Classic"
   %date-created 2019-04-20
-  %date-modified 2020-07-19
+  %date-modified 2021-03-14
   \resources:maths
   %description
     An annotated English translation of the first problem in Haidao Suanjing, \
@@ -214,28 +214,25 @@ $$
   前後[g/相去千步/]，令後表與前表參相直。
 ||
   Now there be .[a] looking at .[a] [b/ sea island /];
-  erect [r/ two posts /], [r/ .[of the] same height three rods /],
-  .[one] in front of .[the] other,
-  [g/ mutually separated by .[a] thousand paces /],
-  .[and] make .[the] rear post mutually straight .[the] three
-  with .[the] front post .[and the island].
+  erect [r/ two posts /], [r/ .[of] equal height three rods /],
+  front .[and] rear
+  [g/ separated from each other .[by] .[a]  thousand paces /],
+  .[and] make .[the] rear post and .[the] front post
+  aligned .[the] three with each other.
 >>
 ====
-* 表：標也； posts; \or pillars; \lit markers
+* 表： posts; \or pillars
 
-* 齊： .[the] same; \or uniform
+* 齊： equal; \or uniform
 
 * 丈： rod; \or measure \+
   A unit of distance, of the order three metres.
   Note that $3 \unit{rods} = 5 \unit{paces}$.
 
-* 前後： .[one] in front of .[the] other; \lit front .[and] rear
-
 * 步： paces; \or steps \+
   A unit of distance, of the order two metres.
 
-* 參相直： mutually straight .[the] three; \or three-in-line \+
-  參 means 三, three.
+* 直： aligned; \lit straight
 ====
 
 

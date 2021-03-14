@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-12
+  %date-modified 2021-03-14
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -288,6 +288,12 @@ Z{%
 * seven; seventh
 ====
 
+2 [丈] U+4E08
+====
+* (old) man
+* [:unit:] rod; measure
+====
+
 2 [三] U+4E09
 [平聲]
 ====
@@ -519,6 +525,13 @@ See also: [逝世][逝]
 3 [仙] U+4ED9
 ====
 * immortal
+====
+
+3 [令] U+4EE4
+====
+* command; commandment
+* make
+* goodly
 ====
 
 3 [以] U+4EE5
@@ -1016,6 +1029,25 @@ See also: [北方][方]
 * remove
 * separated from
 * [:tone:] departing
+====
+
+9 [參] U+53C3
+[平聲] 音森 sh(e-)n
+====
+* .[the] Three {constellation}
+* ginseng
+====
+[平聲] 音驂 c(e-)n
+====
+* jagged; uneven
+====
+[平聲] 音驂 c(a-)n
+====
+* partake
+====
+[平聲] 音三 s(a-)n
+====
+* {\int [三]} three
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1651,6 +1683,11 @@ See also: [從容][從]
 7 [峰] U+5CF0
 ====
 * {\var [峯]}
+====
+
+7 [島] U+5CF6
+====
+* island
 ====
 
 19 [巒] U+5DD2
@@ -3183,6 +3220,11 @@ See also: [百萬][萬]
 ⽬ (eye) U+2F6C
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+3 [直] U+76F4
+====
+* straight; \met aligned
+====
+
 4 [盼] U+76FC
 ====
 * look; look forward
@@ -3357,6 +3399,12 @@ See also: [百萬][萬]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⽴ (stand) U+2F74
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+0 [立] U+7ACB
+====
+* stand; erect
+* establish
+====
 
 4 [竒] U+7AD2
 ====
@@ -3891,6 +3939,7 @@ See also: [聯翩][翩]
 * overgarment; coat
 * surface
 * show
+* pillar; post
 ====
 
 4 [衾] U+887E
@@ -4875,7 +4924,7 @@ See also: [鴻雁][鴻]
 
 0 [高] U+9AD8
 ====
-* high
+* high; height
 * tall
 ====
 
@@ -5079,6 +5128,13 @@ See also: [黃金][金]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⿑ (even) U+2FD1
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+0 [齊] U+9F4A
+====
+* [:adjective:] equal; uniform; orderly; even
+* [:verb:] equal; make orderly
+* together; complete
+====
 
 
 
