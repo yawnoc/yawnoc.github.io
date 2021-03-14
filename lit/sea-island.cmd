@@ -276,7 +276,7 @@ $$
 <<
   從前表[b/卻行一百二十三步/]，人目著地[r/取望島峯/]，與表末參合。
 ||
-  [b/ Walking back one hundred .[and] twenty-three paces /]
+  [b/ Walking backward one hundred .[and] twenty-three paces /]
   from .[the] front post,
   man's eye upon .[the] ground,
   [r/ taking .[a] looking at .[the] peak of .[the] island /],
@@ -328,7 +328,7 @@ $$
 <<
   從後表[b/卻行一百二十七步/]，人目着地[r/取望島峯/]，亦與表末參合。
 ||
-  [b/ Walking back one hundred .[and] twenty-seven paces /]
+  [b/ Walking backward one hundred .[and] twenty-seven paces /]
   from .[the] rear post,
   man's eye on .[the] ground,
   [r/ taking .[a] looking at .[the] peak of .[the] island /],
@@ -463,17 +463,15 @@ $$
 <<
   求前表去島遠近者：以前表卻行乘表間爲實；相多爲法。除之，得島去表里數。
 ||
-  Those seeking .[the] distance .[that the] front post .[is] separated
-    from .[the] island:
-  use .[the] front post backward walk times .[the] post separation
-    as .[the] dividend,
+  .[To] seek .[the] distance
+  .[that] .[the] front post .[is] separated from .[the] island:
+  use .[the] front post's backward walk times .[the] posts' separation
+  as .[the] dividend,
   .[and the] mutual excess as .[the] divisor.
-  Divide them, .[to] obtain .[the] number of miles
-    .[that the] island .[is] separated from .[the] post.
+  Dividing them, resulteth in .[the] number of miles
+  .[that] .[the] island .[is] separated from .[the] post.
 >>
 ====
-* 遠近： distance; \lit far-closeness
-
 * In modern notation,
   $$
     \text{島去表} = \frac{\text{前表卻行} \cdot \text{表間}}{\text{相多}}
@@ -481,7 +479,7 @@ $$
   or
   $$
     \begin{aligned}
-      \textq{island-post separation}
+      \textq{island--post separation}
       &=
         \frac{
           \textq{front post backward walk}
