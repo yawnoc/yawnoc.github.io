@@ -646,7 +646,7 @@ See also: [幾何][幾]
 [去聲]
 ====
 * convenient; benefit
-* immediately
+* promptly
 ====
 
 7 [信] U+4FE1

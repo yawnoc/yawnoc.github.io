@@ -7,7 +7,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2021-03-09
+  %date-modified 2021-03-15
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -164,7 +164,7 @@ The Chinese source text is from Chinese Text Project:
   .[And they] said,
   .[It] can. Those good at swimming .[upon] repetition .[are] able.
   If .[it] be .[a] diver,
-  then .[having] not ever seen boats .[may he] immediately handle them.
+  then .[having] not ever seen boats .[may he] promptly handle them.
 >>
 ====
 * 數： .[upon] repetition \+
@@ -192,7 +192,7 @@ The Chinese source text is from Chinese Text Project:
   若乃夫沒人之未嘗見舟而便操之也，彼視淵若陵，視舟之覆猶其車卻也。
 ||
   .[Of], if .[it] be .[a] diver,
-  .[having] not ever seen boats and immediately handling them:
+  .[having] not ever seen boats and promptly handling them:
   he vieweth .[the] deep waters as .[an] hill,
   .[and] vieweth .[the] overturning of .[a] boat like his chariot receding.
 >>
