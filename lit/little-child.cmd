@@ -10,7 +10,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-03-08
+  %date-modified 2021-03-30
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -710,7 +710,7 @@ see [the actual first page of the almanac text][almanac text].
   適來問橐，橐一一答之。橐今欲求敎夫子一言，明以誨橐，幸請勿棄。
 ||
   .[The] little child asked Confucius, saying,
-  .[My master] .[hath] just come to ask ((T'o | ~~橐~~)) .[questions],
+  .[My master] .[is] just come to ask ((T'o | ~~橐~~)) .[questions],
   .[and] ((T'o | ~~橐~~)) .[hath] one .[by] one answered them.
   ((T'o | ~~橐~~)) now wisheth to
   request instruction of .[my] master .[in] one saying,
@@ -783,7 +783,7 @@ see [the actual first page of the almanac text][almanac text].
   孔子答曰：適來問地，何必談天？
 ||
   Confucius answered, saying,
-  .[I have] just come to ask of .[the] earth;
+  .[I am] just come to ask of .[the] earth;
   why must .[we] talk of .[the] heavens?
 >>
 
