@@ -10,7 +10,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-03-30
+  %date-modified 2021-04-14
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -765,7 +765,7 @@ see [the actual first page of the almanac text][almanac text].
   The toad .[be] able to sound,
   .[and] how because of .[a] neck long?
   The green bamboo .[be] evergreen,
-  .[and] how because of .[a] core strong?
+  .[and] how because of .[a] core firm?
 >>
 
 <<
