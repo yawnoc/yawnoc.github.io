@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-03-15
+  %date-modified 2021-04-16
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -423,6 +423,12 @@ See also: [逝世][逝]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⼄ (second) U+2F04
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+0 [乙] U+4E59
+====
+* B {2nd heavenly stem}
+* one
+====
 
 1 [九] U+4E5D
 ====
