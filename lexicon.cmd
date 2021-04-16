@@ -346,6 +346,11 @@ See also: [意下][意]
 See also: [逝世][逝]
 ----
 
+4 [丙] U+4E19
+====
+* C {3rd heavenly stem}
+====
+
 6 [两] U+4E24
 ====
 * {\var [兩]}
