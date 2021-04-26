@@ -32,6 +32,7 @@
 ||||]
 
 
+
 ##{#7z} 7-Zip  ##
 
 ### Install ###
@@ -61,6 +62,16 @@ E{x}tract `ARCHIVE.7z` here:
 ----
 ````
 $ 7z x ARCHIVE.7z
+````
+
+
+##{#gpg} GnuPG ##
+
+Import `KEY.pub` and verify `FILE`:
+
+````
+$ gpg --import KEY.pub
+$ gpg --verify FILE
 ````
 
 
