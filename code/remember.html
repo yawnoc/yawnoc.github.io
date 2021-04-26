@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/resources/styles/main.min.css">
+<title>Stuff I can't remember | Conway's site</title>
+<style>.mnemonic {
+color: var(--colour-v);
+font-weight: bold;
+}</style>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="/" title="Home page">Home</a>
+</li>
+<li><a href="#" title="Jump back to top">Top</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1>Stuff I can't remember</h1>
+<div class="page-properties">
+Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/remember.cmd">code/remember.cmd</a><br>
+First created: 2021-04-26<br>
+Last modified: 2021-04-26
+</div>
+<h2 id="7z"><a class="permalink" href="#7z" aria-label="Permalink"></a>7-Zip</h2>
+<h3>Install</h3>
+<pre><code>$ sudo apt install p7zip-full
+</code></pre>
+<h3>Add</h3>
+<p>
+<span class="mnemonic">A</span>dd,
+with <span class="mnemonic">p</span>assword,
+with <span class="mnemonic">h</span>eader <span class="mnemonic">e</span>ncryption,
+with <span class="mnemonic">r</span>ecursion,
+unto <code>ARCHIVE.7z</code>,
+<code>FILES</code>.
+</p>
+<pre><code>$ 7z a -p -mhe=on -r ARCHIVE.7z FILES
+</code></pre>
+<h3>Extract</h3>
+<p>
+E<span class="mnemonic">x</span>tract <code>ARCHIVE.7z</code> here:
+</p>
+<pre><code>$ 7z x ARCHIVE.7z
+</code></pre>
+<footer>
+©&nbsp;2021&nbsp;Conway.
+</footer>
+</body>
+</html>
