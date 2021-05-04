@@ -45,10 +45,7 @@
 
 
 ||||{.important .statement}
-**Wake up Australia.** \+
-Do not sell yourselves amid the lure of riches,
-nor kiss ye the arses of tyrants. \+
-**Freedom is priceless.**
+"Money is good."
 ||||
 
 

@@ -5,7 +5,7 @@
 %%
   %title A cynic's 7.30 (and other programs)
   %date-created 2019-08-30
-  %date-modified 2021-02-03
+  %date-modified 2021-05-04
   \resources:rendering
   %css a~~
     .air-date {
@@ -61,8 +61,7 @@ it's supposed to be in a thought bubble.
 @@
 
 ||||{.important .statement}
-You may not care about politics, but politics cares about you.
-And by that I mean: politics is out to screw you.
+"Slogans, not substance."
 ||||
 
 

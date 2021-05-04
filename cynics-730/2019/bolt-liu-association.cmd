@@ -42,10 +42,7 @@
 @@
 
 ||||{.important .statement}
-**Wake up Australia.** \+
-It is not racist or xenophobic to question
-potential links to the Chinese Communist Party. \+
-Race and place of origin are irrelevant.
+"I can't remember."
 ||||
 
 
