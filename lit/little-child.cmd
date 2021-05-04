@@ -10,7 +10,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-04-14
+  %date-modified 2021-05-04
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -833,7 +833,7 @@ see [the actual first page of the almanac text][almanac text].
       後生可畏，焉知來者之不如今也？\
       四十、五十而無聞焉，斯亦不足畏也已。
   ||
-    .[The] Master said,
+    .[The] Master saith,
       The young ought to .[be] feared;
       .[for] how know .[we],
       .[that] those who come .[after] .[be] not as .[we] now?

@@ -9,7 +9,7 @@
     "Record of [the] Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2021-03-08
+  %date-modified 2021-05-04
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -122,7 +122,7 @@ The inserted punctuation is my own.
   <<
     子曰：為政以德，譬如北辰，居其所而眾星共之。
   ||
-    .[The] Master said,
+    .[The] Master saith,
     .[He who] governeth with virtue,
     .[is] likened unto .[the] North Star, abiding in its place with
     .[the] multitude of stars going round it.
