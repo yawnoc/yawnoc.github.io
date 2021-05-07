@@ -49,6 +49,8 @@ for fewer keystrokes in your workflow:
   sh = show
   shw = show --word-diff
   shd = show --word-diff-regex=.
+  shn = show --name-status
+  shf = show --first-parent
   s = status
 ````
 
