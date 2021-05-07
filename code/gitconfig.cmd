@@ -3,7 +3,7 @@
 %%
   %title Git configuration
   %date-created 2020-10-04
-  %date-modified 2020-10-04
+  %date-modified 2021-05-07
   %footer-remark
     The above `.gitconfig` is released under the
     [MIT No Attribution (MIT-0) license][MIT-0].
@@ -41,15 +41,15 @@ for fewer keystrokes in your workflow:
   ds = diff --staged
   dsw = diff --staged --word-diff
   dsd = diff --staged --word-diff-regex=.
-  l = log
-  s = status
   f = fetch
+  l = log
   m = merge
   mn = merge --no-ff --no-commit
   p = push
   sh = show
   shw = show --word-diff
   shd = show --word-diff-regex=.
+  s = status
 ````
 
 %footer-element
