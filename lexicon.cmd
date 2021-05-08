@@ -1782,6 +1782,7 @@ See also: [從容][從]
 0 [己] U+5DF1
 ====
 * oneself; {generic} himself
+* F {6th heavenly stem}
 ====
 
 0 [已] U+5DF2
