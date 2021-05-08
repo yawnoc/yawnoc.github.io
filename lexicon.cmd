@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-04-16
+  %date-modified 2021-05-08
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -281,6 +281,12 @@ Z{%
 ====
 * one; first
 * same
+====
+
+1 [丁] U+4E01
+====
+* D {4th heavenly stem}
+* male
 ====
 
 1 [七] U+4E03
