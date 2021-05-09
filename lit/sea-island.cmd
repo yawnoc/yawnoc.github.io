@@ -11,7 +11,7 @@
   %title "[The] Sea Island Computational Classic" 《海島算經》
   %title-en ".[The] Sea Island Computational Classic"
   %date-created 2019-04-20
-  %date-modified 2021-05-08
+  %date-modified 2021-05-09
   \resources:maths
   %description
     An annotated English translation of the first problem in Haidao Suanjing, \
@@ -862,7 +862,7 @@ The punctuation inserted in this section is my own.
 ||
   [b/$FG$ is .[the] rear post/];
   [r/$HG$ is .[the] rear .[walk's] separation from .[the] post/];
-  [g/$H$ is .[the] man's eye/];
+  [g/$H$ is man's eye/];
   [v/$HFA$ is .[the] rear post's looking at
     .[the] peak of .[the] island/].
 >>
