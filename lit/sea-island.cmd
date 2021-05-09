@@ -1122,11 +1122,11 @@ The punctuation inserted in this section is my own.
 <<
   [b/己庚辛形/]，與[r/甲辰己形/]同式。
 ||
-  [b/.[The] shape $FGH$/] .[is] similar with
+  [b/.[The] shape $FGH$/], .[is] similar with
   [r/.[the] shape $AOF$/].
 >>
 ====
-* 同式： similar; \lit same form; \or same style
+* 同式： similar; \lit same form
 ====
 
 ||||{.centred-block}
