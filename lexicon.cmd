@@ -676,6 +676,11 @@ See also: [幾何][幾]
 * look down
 ====
 
+8 [俱] U+4FF1
+====
+* all; \met both
+====
+
 8 [倡] U+5021
 ====
 * lead
@@ -3572,6 +3577,13 @@ See also: [百萬][萬]
 5 [笙] U+7B19
 ====
 * ((sh(e^)ng | ~~笙~~)) {free reed instrument}
+====
+
+6 [等] U+7B49
+====
+* rank
+* equal
+* wait
 ====
 
 6 [答] U+7B54
