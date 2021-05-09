@@ -1214,7 +1214,7 @@ The punctuation inserted in this section is my own.
 <<
   [b/己庚壬形/]，與[r/甲辰丙形/]同式。
 ||
-  [b/.[The] shape $FGI$/] .[is] similar with
+  [b/.[The] shape $FGI$/], .[is] similar with
   [r/.[the] shape $AOC$/].
 >>
 
