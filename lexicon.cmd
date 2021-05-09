@@ -612,7 +612,7 @@ See also: [幾何][幾]
 5 [作] U+4F5C
 ====
 * arise
-* make; do
+* construct; do
 * compose
 ====
 
