@@ -11,7 +11,7 @@
   %title "[The] Sea Island Computational Classic" 《海島算經》
   %title-en ".[The] Sea Island Computational Classic"
   %date-created 2019-04-20
-  %date-modified 2021-05-09
+  %date-modified 2021-05-10
   \resources:maths
   %description
     An annotated English translation of the first problem in Haidao Suanjing, \
@@ -1299,34 +1299,29 @@ The punctuation inserted in this section is my own.
 <<
   己庚辛形，分[b/己庚壬形，同己庚句/]，而[r/辛壬爲股較/]。
 ||
-  .[The] shape $FGH$ .[is] split into [b/.[the] shape $FGI$
-  .[of the] same minor cathetus  $FG$/],
-  with [r/$HI$ as .[the] major cathetus chariot-beam/].
+  .[The] shape $FGH$, .[is] separated into [b/.[the] shape $FGI$,
+  .[of] same minor-cathetus $FG$/],
+  with [r/$HI$ being .[the] major-cathetus chariot-beam/].
 >>
 
 ====
-* 句： minor cathetus; \or shorter leg (of a right-angled triangle) \+
-  Variant of 勾. \+
-  A [cathetus] or leg is a non-hypotenuse side of a right-angled triangle.
-  
-  @@[cathetus]
-    https://en.wikipedia.org/wiki/Cathetus
-  @@
+* 句： minor-cathetus \+
+  (Variant of 勾.) The shorter leg of a right-angled triangle.
 
-* 股： major cathetus; \or longer leg (of a right-angled triangle) \+
+* 股： major-cathetus \+
+  The longer leg of a right-angled triangle. \+
   Surveying the sea island from distances much greater than its height,
-  the horizontal lengths will be much greater than
-  the vertical lengths.
-  Thus the relevant horizontal segments are referred to as major catheti~(股)
-  and the relevant vertical segments as minor catheti~(句).
+  the horizontal lengths will be much greater than the vertical lengths.
+  Thus the relevant horizontal segments are referred to as major-catheti~(股),
+  and the relevant vertical segments as minor-catheti~(句).
 
-* 較： (horizontal) chariot-beam \+
+* 較： chariot-beam \+
   較，入聲，音覺， \C kok8, \M ji(a\)o \+
   If I understand [the entry in 《康熙字典》][較] correctly,
   較 are horizontal beams of a chariot which stick out like horns,
   above 輢 (the wooden vertical side boards)
   and above 軾 (which are the horizontal handrails for standing passengers).
-  So 辛壬爲股較 is a very literary way of saying
+  So 辛壬爲股較 is a literary way of saying
   "$HI$ sticks out horizontally" (from $FGI$).
   
   @@[較]
@@ -1417,9 +1412,9 @@ The punctuation inserted in this section is my own.
 <<
   甲辰己形，分[b/甲辰丙形，同甲辰句/]，而[r/己丙爲股較/]。
 ||
-  .[The] shape $AOF$ .[is] split into [b/.[the] shape $AOC$
-  .[of the] same minor cathetus  $AO$/],
-  with [r/$FC$ as .[the] major cathetus chariot-beam/].
+  .[The] shape $AOF$, .[is] separated into [b/.[the] shape $AOC$,
+  .[of] same minor-cathetus $AO$/],
+  with [r/$FC$ being .[the] major-cathetus chariot-beam/].
 >>
 
 ||||{.centred-block}

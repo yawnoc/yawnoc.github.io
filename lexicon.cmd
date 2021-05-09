@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-05-09
+  %date-modified 2021-05-10
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -981,6 +981,13 @@ See also: [勉勵][勉]
 ⼓ (wrap) U+2F13
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+2 [勾] U+52FE
+====
+* hook
+* curve
+* minor-cathetus
+====
+
 2 [勿] U+52FF
 ====
 * do not
@@ -1179,6 +1186,17 @@ See also: [北方][方]
 2 [古] U+53E4
 ====
 * olden; antiquity
+====
+
+2 [句] U+53E5
+[平聲]
+====
+* {\var [勾]}
+* {\int [鉤]}
+====
+[去聲]
+====
+* phrase; \met line
 ====
 
 2 [可] U+53EF
@@ -3814,6 +3832,12 @@ See also: [聯翩][翩]
 ⾁ (meat) U+2F81
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+4 [股] U+80A1
+====
+* thigh
+* major-cathetus
+====
+
 6 [能] U+80FD
 ====
 * able
@@ -4455,6 +4479,16 @@ See also: [平行][平]
 [平聲] 音硨
 ====
 * cart
+====
+
+6 [較] U+8F03
+[去聲]
+====
+* compare
+====
+[入聲]
+====
+* chariot-beam
 ====
 
 7 [輔] U+8F14
