@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-05-08
+  %date-modified 2021-05-09
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -1837,6 +1837,7 @@ See also: [從容][從]
 ====
 ====
 * [太]平： tranquility; peace
+* 平[行]： parallel
 ====
 
 3 [年] U+5E74
@@ -4031,6 +4032,9 @@ See also: [聯翩][翩]
 ====
 * walk; move
 ====
+----
+See also: [平行][平]
+----
 [平聲] 音航 h(a/)ng
 ====
 * column
