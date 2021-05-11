@@ -8,7 +8,7 @@
 %%
   %title FAQ
   %date-created 2019-08-01
-  %date-modified 2021-03-08
+  %date-modified 2021-05-11
   \resources
   %css
     li > ul, li > ol {
@@ -34,7 +34,6 @@
 ======
 * \faq-link:general
   ====
-  * \faq-link:time
   * \faq-link:site
   * \faq-link:domain
   * \faq-link:death
@@ -56,25 +55,6 @@
 ##{#general}
   General
 ##
-
-
-
-###{#time}
-  What do you do in your spare time?
-###
-
-----
-That depends on what you mean by spare time; a day is quite short really.
-Generally speaking life is very short too.
-Eighty years is not a very long time to (expect to) be alive,
-and even eight hundred years would pass me by very quickly.
-----
-----
-These days I ponder [unsophisticated applied maths problems](/#math)
-and attempt to read and [translate Literary Chinese](/#lit),
-and burn even more of my time building this website
-to make such material freely available online.
-----
 
 
 
