@@ -2,7 +2,7 @@
 
 Conway's site: https://yawnoc.github.io
 
-Built using [Conway's markdown (CMD)][cmd].
+Written in [Conway-Markdown (CMD)][cmd].
 
 ## Building
 

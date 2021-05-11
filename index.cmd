@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-04-26
+  %date-modified 2021-05-11
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -301,7 +301,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ###
 
 ====
-* __Conway's markdown:__
+* __Conway-Markdown:__
   [Python converter (GitHub)][cmd],
   [Documentation (GitHub pages)][cmd-docs]
 * Links to ping the sitemap: [Google], [Bing]
@@ -309,11 +309,11 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 
 @@[cmd]
   https://github.com/conway-markdown/conway-markdown
-  GitHub: Conway's fence-style markdown (CMD), implemented in Python.
+  GitHub: Conway-Markdown (CMD), implemented in Python.
 @@
 @@[cmd-docs]
   https://conway-markdown.github.io/
-  Conway's markdown (CMD)
+  Conway-Markdown (CMD)
 @@
 @@[google]
   https://www.google.com/ping?sitemap=https://yawnoc.github.io/sitemap.txt

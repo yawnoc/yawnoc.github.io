@@ -74,7 +74,7 @@ just straight CSS and JavaScript.
 @@
 
 ----
-The pages are written in [Conway's markdown (CMD)] [cmd],
+The pages are written in [Conway-Markdown (CMD)] [cmd],
 which gets converted to HTML via my custom-written [Python converter] [py].
 For example, this page was generated from the CMD file [`faq.cmd`] [.cmd].
 ----
