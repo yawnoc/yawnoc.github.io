@@ -1776,10 +1776,10 @@ w{%
 ++++++++
 
 ----
-For an implementation in Python, see [`/sun-tzu/code/sqrt.py`] [python].
+For an implementation in Python, see [`/sun-tzu/code/sqrt.py`].
 ----
 
-@@[python]
+@@[`/sun-tzu/code/sqrt.py`]
   https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/code/sqrt.py
 @@
 

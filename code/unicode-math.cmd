@@ -309,9 +309,9 @@ Convenient for use in emails.
 
 ----
 For the definitions of `\pd` and `\del`,
-see `macros` in [`rendering.js`][js].
+see `macros` in [`rendering.js`].
 ----
-@@[js]
+@@[`rendering.js`]
   https://github.com/yawnoc/yawnoc.github.io/blob/master/\
     resources/scripts/rendering.js
 @@

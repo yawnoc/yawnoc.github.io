@@ -469,18 +469,18 @@ $ sudo apt install pavucontrol
 
 ----
 To get the microphone to work,
-install [`asound.state`][asound.state],
+install [`asound.state`],
 which is a quieter version
-of a [Manjaro post-install `asound.state`][manjaro asound.state]:
+of a [Manjaro post-install `asound.state`]:
 ----
 ````
 $ sudo install -Dm644 asound.state /var/lib/alsa/
 $ sudo alsactl nrestore
 ````
-@@[asound.state]
+@@[`asound.state`]
   https://github.com/yawnoc/yawnoc.github.io/blob/master/code/asound.state
 @@
-@@[manjaro asound.state]
+@@[Manjaro post-install `asound.state`]
   https://gitlab.manjaro.org/manjaro-arm/packages/community/\
     pinebookpro-post-install/-/blob/9e9465d875/asound.state
 @@

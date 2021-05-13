@@ -46,12 +46,12 @@ and [\P9] ["i 9"] \&~[\P14] ["i 14"] (division).
 ----
 
 
-@@[package file]
+@@[`SunTzu.wl`]
   https://github.com/yawnoc/sun-tzu-arithmetic/blob/master/SunTzu.wl
 @@
 
 ----
-First change to the directory of [`SunTzu.wl`][package file],
+First change to the directory of [`SunTzu.wl`],
 then load the package
 ----
 ``
