@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-05-11
+  %date-modified 2021-05-16
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -328,7 +328,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ###
 
 ====
-* [Git aliases: `.gitconfig`](/code/gitconfig)
+* [Git configuration: `.gitconfig`](/code/gitconfig)
 * [Termux configuration: `termux.properties`](/code/termux)
 * [Chinese font configuration in Linux](/code/chinese-font)
 * [Debian on Pinebook Pro via Daniel's installer](/code/pinebook-pro)
