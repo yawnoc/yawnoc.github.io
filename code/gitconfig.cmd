@@ -3,7 +3,7 @@
 %%
   %title Git configuration
   %date-created 2020-10-04
-  %date-modified 2021-05-07
+  %date-modified 2021-05-16
   %footer-remark
     The above `.gitconfig` is released under the
     [MIT No Attribution (MIT-0) license][MIT-0].
@@ -23,11 +23,21 @@
 ||||]
 
 ----
-Include the following Git aliases in `.gitconfig`
-for fewer keystrokes in your workflow:
+Nicer diffs (courtesy of [Mo Zhou at Debian])
+and fewer keystrokes
+for maximum productivity:
 ----
 
+@[Mo Zhou at Debian]
+  https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=925288#25
+@
+
 ````
+[core]
+  # $ cd /usr/share/doc/git/contrib/diff-highlight/
+  # $ sudo make
+  # $ cp diff-highlight ~/.local/bin/
+  pager = ~/.local/bin/diff-highlight | less --tabs=4 -RFX
 [alias]
   a = add
   aa = add --all

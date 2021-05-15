@@ -29,13 +29,19 @@
 <div class="page-properties">
 Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/gitconfig.cmd">code/gitconfig.cmd</a><br>
 First created: 2020-10-04<br>
-Last modified: 2021-05-07
+Last modified: 2021-05-16
 </div>
 <p>
-Include the following Git aliases in <code>.gitconfig</code>
-for fewer keystrokes in your workflow:
+Nicer diffs (courtesy of <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=925288#25">Mo Zhou at Debian</a>)
+and fewer keystrokes
+for maximum productivity:
 </p>
-<pre><code>[alias]
+<pre><code>[core]
+  # $ cd /usr/share/doc/git/contrib/diff-highlight/
+  # $ sudo make
+  # $ cp diff-highlight ~/.local/bin/
+  pager = ~/.local/bin/diff-highlight | less --tabs=4 -RFX
+[alias]
   a = add
   aa = add --all
   ch = checkout
