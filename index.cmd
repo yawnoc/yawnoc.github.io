@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-05-16
+  %date-modified 2021-05-28
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -333,6 +333,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 * [Chinese font configuration in Linux](/code/chinese-font)
 * [Debian on Pinebook Pro via Daniel's installer](/code/pinebook-pro)
 * [Install npm packages globally without sudo](/code/npm-without-sudo)
+* [Nuking a phone](/code/phone)
 ====
 
 
