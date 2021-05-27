@@ -6,6 +6,7 @@ https://yawnoc.github.io/code/gitconfig
 https://yawnoc.github.io/code/npm-without-sudo
 https://yawnoc.github.io/code/phone
 https://yawnoc.github.io/code/pinebook-pro
+https://yawnoc.github.io/code/remember
 https://yawnoc.github.io/code/strikethrough
 https://yawnoc.github.io/code/termux
 https://yawnoc.github.io/code/unicode-math
