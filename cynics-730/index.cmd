@@ -5,7 +5,7 @@
 %%
   %title A cynic's 7.30 (and other programs)
   %date-created 2019-08-30
-  %date-modified 2021-05-04
+  %date-modified 2021-06-18
   \resources:rendering
   %css a~~
     .air-date {
@@ -79,6 +79,10 @@ it's supposed to be in a thought bubble.
 
 
 ====
+* [.17~June~2021.]
+  [NSW COVID outbreak started by an unvaccinated driver]\
+    (2021/sales-hazzard-covid)
+
 * [.2~February~2021.]
   [Chris Bowen says climate change is a key economic issue]\
     (2021/sales-bowen-climate)
