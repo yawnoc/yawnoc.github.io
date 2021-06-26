@@ -9,7 +9,7 @@
     "Record of [the] Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2021-05-04
+  %date-modified 2021-06-26
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -156,10 +156,10 @@ The inserted punctuation is my own.
 <<
   可俯瞰維多利亞海港南北两岸，其間朝暉夕陰，晴光雨色，千變萬化，殆如畫圖。
 ||
-  .[One] can look down .[and] overlook .[the] two banks,
+  .[They] can look down .[and] overlook .[the] two banks,
   southern .[and] northern, of Victoria~Harbour:
   between them .[the] morning sunshine .[and the] even shade,
-  .[the] clear light .[and the] rainy hues,
+  .[and the] clear light .[and the] rainy hues,
   .[undergo] .[a] thousand changes .[and a] myriad tranformations,
   as .[in] paintings .[and] drawings.
 >>
@@ -171,9 +171,9 @@ The inserted punctuation is my own.
   山中復有竒花異草可以觀賞，幽泉怪石可以遊遨。
 ||
   Amidst .[the] mount there are also odd flowers .[and] strange grasses
-  .[one] can see .[and] appreciate,
+  .[they] can see .[and] appreciate,
   .[and] secluded springs .[and] strange rocks
-  .[one] can tour .[and] roam.
+  .[they] can tour .[and] roam.
 >>
 ====
 * 賞： appreciate; \or admire
