@@ -7,7 +7,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2021-06-26
+  %date-modified 2021-06-27
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -279,8 +279,8 @@ The Chinese source text is from Chinese Text Project:
   
   \=
   
-  Note that the first explanation, 擊也, is not definitively "strike";
-  it could well mean 射擊, "shoot".
+  Note that the first explanation, 擊也, "strike",
+  probably means striking with an arrow, as in 射擊, "shoot".
   The conciseness of Literary Chinese comes at the cost of ambiguity;
   the same is also true of scripture.
   Many scholars have written 註, annotations,
