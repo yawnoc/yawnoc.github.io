@@ -7,7 +7,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2021-03-15
+  %date-modified 2021-06-26
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -224,18 +224,19 @@ The Chinese source text is from Chinese Text Project:
 <<
   以瓦注者巧，以鉤注者憚，以黃金注者殙。
 ||
-  He who wagereth .[by archery] with earthenware .[is] skillful;
-  he who wagereth .[by archery] with .[a] buckle, fearful;
-  .[and] he who wagereth .[by archery] with gold, dazed.
+  He who shooteth .[wagering] with earthenware .[is] skillful;
+  he who shooteth .[wagering] with .[a] buckle, fearful;
+  .[and] he who shooteth .[wagering] with gold, dazed.
 >>
 ========
-* 注： wagereth .[by archery] \+
+* 注： shooteth .[wagering]; \or wagereth .[by archery]; \or wagereth \+
   
-  Opinion is divided on whether 注 refers to archery.
+  A simple reading would take 注 to mean "wager".
+  Among the classical exegeses:
   
   \=
   
-  These exegeses say 擊也, __strike__:
+  These say 擊也, __strike__:
   ======
   * [《南華真經\.郭象註》](
       https://ctext.org/library.pl?if=en&file=77894&page=11\
@@ -265,7 +266,8 @@ The Chinese source text is from Chinese Text Project:
         #box\(500,472,38,48\)
     ),
     "Chuang Tz(uu) annotations" by ((Kuo Siang | ~~郭象~~)). \+
-    In particular, 射而賭物 is the meaning taken by James Legge
+    In particular, 射而賭物 ("shooting wagering objects")
+    is the meaning taken by James Legge
     (see [footnote~1 of Page~1][Legge footnote]).
     
     @@[Legge footnote]
@@ -277,9 +279,8 @@ The Chinese source text is from Chinese Text Project:
   
   \=
   
-  In any case, 注 certainly has the primary meaning of "wager".
-  The archery meaning is not definitive in my opinion,
-  so I have designated ".[by archery]" as translator-supplied.
+  Note that the first explanation, 擊也, is not definitively "strike";
+  it could well mean 射擊, "shoot".
   The conciseness of Literary Chinese comes at the cost of ambiguity;
   the same is also true of scripture.
   Many scholars have written 註, annotations,

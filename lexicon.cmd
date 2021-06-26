@@ -2883,6 +2883,7 @@ See also: [蒞止][蒞]
 5 [注] U+6CE8
 ====
 * inject; channel
+* shoot; strike
 * wager
 * {\var [註]}
 ====
