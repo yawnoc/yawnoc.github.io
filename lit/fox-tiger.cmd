@@ -177,7 +177,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   故北方之畏奚恤也，其實畏王之甲兵也，猶百獸之畏虎也。
 ||
-  Therefore, .[as to] .[the] North's fear of ((Hi-s(u") | ~~奚恤~~)):
+  Therefore .[the] North's fear of ((Hi-s(u") | ~~奚恤~~)),
   it .[is] actually fear of King's armoured troops,
   like .[the] many beasts' fear of .[the] tiger.
 >>
