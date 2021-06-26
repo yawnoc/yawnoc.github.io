@@ -171,7 +171,7 @@ The Chinese source text is from Chinese Text Project:
   A [unit of distance](https://en.wikipedia.org/wiki/Li_\(unit\)),
   of the order half a kilometre.
 
-* 百萬： .[a] million; \or .[in their] millions; \lit .[an] hundred myriad
+* 百萬： .[a] million; \lit .[an] hundred myriad
 ====
 
 <<
