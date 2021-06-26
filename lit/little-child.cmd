@@ -572,7 +572,7 @@ see [the actual first page of the almanac text][almanac text].
   <<
     天一，地二，人三；三三而九，九九八十一；一主日，日數十，故人十月而生。
   ||
-    Heaven .[is] first, Earth second .[and] Man third.
+    Heaven .[is] first, Earth second, .[and] Man third.
     .[From] three threes .[are] nine, .[and] nine nines eighty-one.
     One governeth .[the] sun, .[and the] sun .[hath] number ten;
     therefore man .[is] born of ten months.
