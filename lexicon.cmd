@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-05-10
+  %date-modified 2021-06-26
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -548,6 +548,7 @@ See also: [逝世][逝]
 ====
 * now; current
 * this (day); today
+* suppose; should
 ====
 
 3 [仙] U+4ED9

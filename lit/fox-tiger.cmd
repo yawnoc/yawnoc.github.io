@@ -122,7 +122,7 @@ The Chinese source text is from Chinese Text Project:
     Thou darest not eat me.
     .[The] Emperor of Heaven .[hath] made me
     be leader .[over] .[the] many beasts;
-    .[shouldst] thou now eat me,
+    shouldst thou eat me,
     this defieth .[the] will of .[the] Emperor of Heaven.
 >>
 ====
