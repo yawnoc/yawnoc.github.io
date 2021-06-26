@@ -120,13 +120,14 @@ The Chinese source text is from Chinese Text Project:
 ||
   .[The] fox said,
     Thou darest not eat me.
-    .[The] Emperor of Heaven .[hath] made me leader of .[the] many beasts;
+    .[The] Emperor of Heaven .[hath] made me
+    be leader .[over] .[the] many beasts;
     .[shouldst] thou now eat me,
     this defieth .[the] will of .[the] Emperor of Heaven.
 >>
 ====
 * 子： thou; \lit .[the] master
-* 長： leader \+
+* 長： be leader \+
   長，上聲， \C ch(oe)ng2, \M zh(av)ng
 * 逆： defieth; \or goeth against
 ====
