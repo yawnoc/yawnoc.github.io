@@ -8,7 +8,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2021-02-27
+  %date-modified 2021-06-26
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -103,7 +103,7 @@ The Chinese source text is from Chinese Text Project:
   江一對曰：虎求百獸而食之，得狐。
 ||
   .[But] ((Kiang I | ~~江一~~)) replied, saying,
-    .[A] tiger sought .[the] many beasts .[to] eat them,
+    .[A] tiger sought .[the] many beasts .[to] then eat them,
     .[and] obtained .[a] fox.
 >>
 ====
