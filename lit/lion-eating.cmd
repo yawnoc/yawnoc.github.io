@@ -7,7 +7,7 @@
 %%
   %title "[An] History of Mr Shih's Eating Lions" 《施氏食獅史》
   %date-created 2019-04-07
-  %date-modified 2021-04-14
+  %date-modified 2021-06-26
   \resources:rendering
   %description
     An English translation of the Mandarin "lion tongue twister" \
@@ -87,7 +87,7 @@ The Chinese source text is from Page~143 of Chao's
 <<
   氏時時適市視獅。
 ||
-  Mr~.[((Shih | ~~施~~))] went constantly unto market .[to] view lions.
+  Mr~.[((Shih | ~~施~~))] constantly went unto market .[to] view lions.
 >>
 ====
 * 氏 \+
@@ -123,7 +123,7 @@ The Chinese source text is from Page~143 of Chao's
   石室濕，氏使侍拭石室。
 ||
   .[The] stone house wet,
-  Mr~.[((Shih | ~~施~~))] made .[his] servants wipe .[the] stone house.
+  Mr~.[((Shih | ~~施~~))] made servants wipe .[the] stone house.
 >>
 
 <<
