@@ -122,13 +122,13 @@ The Chinese source text is from Chinese Text Project:
     Thou darest not eat me.
     .[The] Emperor of Heaven .[hath] made me be leader over .[the] many beasts;
     shouldst thou eat me,
-    this defieth .[the] will of .[the] Emperor of Heaven.
+    this .[shall] defy .[the] will of .[the] Emperor of Heaven.
 >>
 ====
 * 子： thou; \lit .[the] master
 * 長： be leader over \+
   長，上聲， \C ch(oe)ng2, \M zh(av)ng
-* 逆： defieth; \or goeth against
+* 逆： defy; \or go against
 ====
 
 <<
