@@ -11,7 +11,7 @@
   %title "[The] Sea Island Computational Classic" 《海島算經》
   %title-en ".[The] Sea Island Computational Classic"
   %date-created 2019-04-20
-  %date-modified 2021-05-10
+  %date-modified 2021-06-26
   \resources:maths
   %description
     An annotated English translation of the first problem in Haidao Suanjing, \
@@ -213,7 +213,7 @@ $$
   今有望[b/海島/]，立[r/兩表/]，[r/齊高三丈/]，\
   前後[g/相去千步/]，令後表與前表參相直。
 ||
-  Now there be .[a] looking at .[a] [b/ sea island /];
+  Suppose there be .[a] looking at .[a] [b/ sea island /];
   erect [r/ two posts /], [r/ .[of] equal height three rods /],
   front .[and] rear
   [g/ separated from each other .[by] .[a]  thousand paces /],
