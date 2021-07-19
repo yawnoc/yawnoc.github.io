@@ -1,11 +1,11 @@
-{+ resources/syntax/general.cmd +}
+{+ /resources/syntax/general.cmd +}
 
-{+ resources/syntax/accessible-svgs.cmd +}
-{+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/coloured-spans.cmd +}
-{+ resources/syntax/romanisations.cmd +}
-{+ resources/syntax/svg-styles.cmd +}
-{+ resources/syntax/translations.cmd +}
+{+ /resources/syntax/accessible-svgs.cmd +}
+{+ /resources/syntax/chinese-lang.cmd +}
+{+ /resources/syntax/coloured-spans.cmd +}
+{+ /resources/syntax/romanisations.cmd +}
+{+ /resources/syntax/svg-styles.cmd +}
+{+ /resources/syntax/translations.cmd +}
 
 %%
   %title "[The] Sea Island Computational Classic" 《海島算經》

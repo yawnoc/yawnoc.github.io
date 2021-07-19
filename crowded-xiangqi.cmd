@@ -1,6 +1,6 @@
-{+ resources/syntax/general.cmd +}
+{+ /resources/syntax/general.cmd +}
 
-{+ resources/syntax/chinese-lang.cmd +}
+{+ /resources/syntax/chinese-lang.cmd +}
 
 %%
   %title Crowded Xiangqi

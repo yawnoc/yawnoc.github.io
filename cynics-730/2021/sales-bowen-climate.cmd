@@ -1,6 +1,6 @@
-{+ resources/syntax/general.cmd +}
+{+ /resources/syntax/general.cmd +}
 
-{+ resources/syntax/cynics-730.cmd +}
+{+ /resources/syntax/cynics-730.cmd +}
 
 %%
   %title A cynic's 7.30: \short-title

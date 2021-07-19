@@ -1,8 +1,8 @@
-{+ resources/syntax/general.cmd +}
+{+ /resources/syntax/general.cmd +}
 
-{+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/translations.cmd +}
-{+ resources/syntax/romanisations.cmd +}
+{+ /resources/syntax/chinese-lang.cmd +}
+{+ /resources/syntax/translations.cmd +}
+{+ /resources/syntax/romanisations.cmd +}
 
 %%
   %title Conway's Lexicon for Literary Chinese

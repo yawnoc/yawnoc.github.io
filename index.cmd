@@ -1,9 +1,9 @@
-{+ resources/syntax/general.cmd +}
+{+ /resources/syntax/general.cmd +}
 
-{+ resources/syntax/chinese-lang.cmd +}
-{+ resources/syntax/romanisations.cmd +}
-{+ resources/syntax/sun-tzu.cmd +}
-{+ resources/syntax/translations.cmd +}
+{+ /resources/syntax/chinese-lang.cmd +}
+{+ /resources/syntax/romanisations.cmd +}
+{+ /resources/syntax/sun-tzu.cmd +}
+{+ /resources/syntax/translations.cmd +}
 
 %%
   %title Conway's site
