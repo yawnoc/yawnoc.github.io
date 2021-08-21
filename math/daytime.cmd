@@ -7,7 +7,7 @@
 %%
   %title Daytime: dependence on latitude and season
   %date-created 2019-07-12
-  %date-modified 2020-04-28
+  %date-modified 2021-08-22
   \resources:maths
   %description
     A simple mathematical model for the sun's path through the sky \
@@ -256,7 +256,7 @@ $$
 
 ----
 Thus $r$ is the distance from the centre of the earth,
-$\theta$ the angle from the north pole and
+$\theta$ the angle from the north pole, and
 $\phi$ the angle east from the spring equinox.
 Note that $\theta = \pi/2 - \delta$,
 where $\delta$ is the astronomer's [declination],
@@ -460,7 +460,7 @@ $$
 ----
 where
   $\basisvec{r}$ points up~(上),
-  $\basisvec{\theta}$ points south~(南) and
+  $\basisvec{\theta}$ points south~(南), and
   $\basisvec{\phi}$ points east~(東).
 ----
 
@@ -1376,7 +1376,7 @@ $$
 The corresponding __corrected bearings at sunrise/sunset__ may be computed
 by evaluating $\beta = \tan^{-1} (E / {-S})$ at $D = D_\pm + \eps_\pm$,
 where $D_\pm$ is given in the section [Daytime duration](#daytime) above,
-$S$ \& $E$ in [Assorted angles](#angles) and
+$S$ \& $E$ in [Assorted angles](#angles), and
 $\eps_\pm$ in [Refraction correction](#correction).
 ----
 

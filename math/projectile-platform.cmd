@@ -6,7 +6,7 @@
 %%
   %title Projectile motion: optimal launch angle from a platform
   %date-created 2019-04-13
-  %date-modified 2020-04-26
+  %date-modified 2021-08-22
   \resources:maths
   %description
     A derivation of the optimal launch angle (which maximises range) \
@@ -421,7 +421,7 @@ Finally note that the optimal angle depends only on
 the dimensionless ratio $C = 2 g h / u^2$.
 In fact this may be shown using dimensional analysis
 without actually having to solve the problem;
-the only parameters are $u$, $g$ and $h$,
+the only parameters are $u$, $g$, and $h$,
 so the only dimensionless group (up to a power) is $g h / u^2$.
 ----
 

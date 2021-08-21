@@ -6,7 +6,7 @@
 %%
   %title Conway's Romanisation for Cantonese
   %date-created 2019-04-07
-  %date-modified 2020-04-19
+  %date-modified 2021-08-22
   \resources:rendering
   %description
     Conway's Romanisation for Cantonese, \
@@ -355,7 +355,7 @@ as spoken and perceived by me.
 ----
   Modern Cantonese has merged the initials in the pairs
     {將~[^ts](oe)ng vs 張~[^ch](oe)ng},
-    {槍~[^ts'](oe)ng vs 昌~[^ch'](oe)ng} and
+    {槍~[^ts'](oe)ng vs 昌~[^ch'](oe)ng}, and
     {相~[^s](oe)ng vs 傷~[^sh](oe)ng}.
   As noted by [Samuel Wells Williams]
   in [《英華分韻撮要》][wells-tonic-dictionary] (1856, or 咸豐丙辰年):
@@ -1381,7 +1381,7 @@ as tones 1, 3, 6 respectively, they should not be regarded as the same.
 In poetry, balancing 平聲 (tones 1 and 4) and 仄聲 (the rest)
 is highly desirable; if you count tone~7 (高陰入) as tone~1 (陰平),
 you will get tone patterns (平仄) wrong.
-None of Jyutping, Yale and Sidney~Lau make this distinction.
+None of Jyutping, Yale, and Sidney~Lau make this distinction.
 ----
 
 ----

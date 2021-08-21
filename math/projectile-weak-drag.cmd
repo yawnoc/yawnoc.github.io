@@ -6,7 +6,7 @@
 %%
   %title Projectile motion: optimal launch angle for weak quadratic drag
   %date-created 2019-06-21
-  %date-modified 2020-06-10
+  %date-modified 2021-08-22
   \resources:maths
   %description
     A derivation of the optimal launch angle (which maximises range) \
@@ -319,9 +319,9 @@ $$
 
 ----
 Therefore we put $\hat{x} = x / L$,
-$\hat{y} = y / L$ and $\hat{t} = t / T$ to obtain
+$\hat{y} = y / L$, and $\hat{t} = t / T$ to obtain
 scaled (dimensionless) variables $\hat{x}$,
-$\hat{y}$ and $\hat{t}$.
+$\hat{y}$, and $\hat{t}$.
 Dropping the hats, the equations of motion become
 ----
 $$
