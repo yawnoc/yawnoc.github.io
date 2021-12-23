@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-05-28
+  %date-modified 2021-12-23
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -345,9 +345,6 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 * [Animating a tumbling polygon (GNU Octave)][yawnoc/tumbling-polygon]
 * [Image to ASCII art converter (GNU Octave)](
     https://github.com/yawnoc/ascii-art
-  )
-* [\sun-tzu multiplication \& division animations (Mathematica)](
-    /sun-tzu/code/animations
   )
 ====
 
