@@ -3,6 +3,7 @@ https://yawnoc.github.io/cantonese/conway-romanisation
 https://yawnoc.github.io/cantonese/tonic-dictionary
 https://yawnoc.github.io/code/chinese-font
 https://yawnoc.github.io/code/gitconfig
+https://yawnoc.github.io/code/metabox-np50hj
 https://yawnoc.github.io/code/npm-without-sudo
 https://yawnoc.github.io/code/phone
 https://yawnoc.github.io/code/pinebook-pro
