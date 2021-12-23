@@ -332,6 +332,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 * [Termux configuration: `termux.properties`](/code/termux)
 * [Chinese font configuration in Linux](/code/chinese-font)
 * [Debian on Pinebook Pro via Daniel's installer](/code/pinebook-pro)
+* [Debian on Metabox Alpha-S NP50HJ](/code/metabox-np50hj)
 * [Install npm packages globally without sudo](/code/npm-without-sudo)
 * [Nuking a phone](/code/phone)
 ====
