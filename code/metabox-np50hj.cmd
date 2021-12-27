@@ -3,7 +3,7 @@
 %%
   %title Debian on Metabox Alpha-S NP50HJ
   %date-created 2021-12-23
-  %date-modified 2021-12-23
+  %date-modified 2021-12-27
   \resources:rendering
 %%
 
@@ -170,6 +170,7 @@ $ sudo apt install \
       diffpdf \
     mtpaint \
     npm \
+    lilypond \
     texlive-full \
     fonts-noto-cjk \
 
