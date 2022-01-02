@@ -195,10 +195,6 @@ where it [resumes].
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~I \P17"
-][
-  sun-tzu-i-17
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{I} {\P17}''~~
 ]
 
 %footer-element

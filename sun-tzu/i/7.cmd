@@ -631,10 +631,6 @@ from placing vertical forms next to each other.
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~I \P7"
-][
-  sun-tzu-i-7
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{I} {\P7}''~~
 ]
 
 %footer-element

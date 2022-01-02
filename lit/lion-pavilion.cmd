@@ -327,8 +327,6 @@ The inserted punctuation is my own.
 
 \cite-this-page[
   ~~ "Record of [the] Lion's Pavilion, Victoria Peak" ~~
-][lion-pavilion][
-  ~~ ``{Record} of [the] {Lion's} {Pavilion}, {Victoria}~{Peak}'' ~~
 ]
 
 %footer-element

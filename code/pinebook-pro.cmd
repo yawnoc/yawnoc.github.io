@@ -486,9 +486,7 @@ $ sudo alsactl nrestore
 @@
 
 
-\cite-this-page[][pinebook-pro][
-  {Debian} on {Pinebook} {Pro} via {Daniel's} installer
-]
+\cite-this-page[]
 
 
 %footer-element

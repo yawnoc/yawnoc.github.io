@@ -251,10 +251,6 @@ END of Volume~I
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~I \P24"
-][
-  sun-tzu-i-24
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{I} {\P24}''~~
 ]
 
 %footer-element

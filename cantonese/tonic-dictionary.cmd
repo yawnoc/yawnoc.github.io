@@ -294,10 +294,6 @@ Note that Jyutping (like all contemporary romanisation systems)
 
 \cite-this-page[
   Quick links for Williams' '''Tonic Dictionary''' of Cantonese
-][
-  tonic-dictionary
-][
-  Quick links for {Williams'} \textit{{Tonic} {Dictionary}} of {Cantonese}
 ]
 
 %footer-element

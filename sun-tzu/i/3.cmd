@@ -391,10 +391,6 @@ where the named quantities go up by a factor of 10 ** 8.
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~I \P3"
-][
-  sun-tzu-i-3
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{I} {\P3}''~~
 ]
 
 %footer-element

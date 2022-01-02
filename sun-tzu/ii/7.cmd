@@ -153,10 +153,6 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. \+
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~II \P7"
-][
-  sun-tzu-ii-7
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{II} {\P7}''~~
 ]
 
 %footer-element

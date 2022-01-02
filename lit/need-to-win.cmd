@@ -317,6 +317,7 @@ The Chinese source text is from Chinese Text Project:
 
 
 
-\cite-this-page[][need-to-win][~~ ``The {Need} to {Win}'' ~~]
+\cite-this-page[]
+
 
 %footer-element

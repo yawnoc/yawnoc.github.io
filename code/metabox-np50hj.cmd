@@ -344,9 +344,7 @@ sudo apt update && sudo apt install vivaldi-stable
 """"""""
 
 
-\cite-this-page[][metabox-np50hj][
-  {Debian} on {Metabox} {Alpha-S} {NP50HJ}
-]
+\cite-this-page[]
 
 
 %footer-element

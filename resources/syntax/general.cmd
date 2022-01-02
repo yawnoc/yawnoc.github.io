@@ -118,7 +118,7 @@ s{:: \noscript:maths ::
 
 <##
   ----------------------------------------------------------------
-  Cite this page section  \cite-this-page[text title][tex key][tex title]
+  Cite this page section  \cite-this-page[text title]
   ----------------------------------------------------------------
 ##>
 
@@ -136,16 +136,6 @@ p{%
   \[
     [\s]*
     (?P<text_title> [^]]*? )
-    [\s]*?
-  \]
-  \[
-    [\s]*
-    (?P<tex_key> [^]]*? )
-    [\s]*?
-  \]
-  \[
-    [\s]*
-    (?P<tex_title> [^]]*? )
     [\s]*?
   \]
 %

@@ -209,10 +209,6 @@ it should be between [page/n12] and [page/n14].
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~I \P16"
-][
-  sun-tzu-i-16
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{I} {\P16}''~~
 ]
 
 %footer-element

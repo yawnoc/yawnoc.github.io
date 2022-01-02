@@ -219,10 +219,6 @@ Confusing eh?
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~I \P4"
-][
-  sun-tzu-i-4
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{I} {\P4}''~~
 ]
 
 %footer-element

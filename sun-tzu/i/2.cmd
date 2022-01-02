@@ -269,10 +269,6 @@ see [Cap.~68 Weights and Measures Ordinance] [cap 68].
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~I \P2"
-][
-  sun-tzu-i-2
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{I} {\P2}''~~
 ]
 
 %footer-element

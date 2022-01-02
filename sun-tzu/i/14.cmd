@@ -189,10 +189,6 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. \+
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~I \P14"
-][
-  sun-tzu-i-14
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{I} {\P14}''~~
 ]
 
 %footer-element

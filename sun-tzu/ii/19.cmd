@@ -1823,10 +1823,6 @@ $$
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~II \P19"
-][
-  sun-tzu-ii-19
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{II} {\P19}''~~
 ]
 
 %footer-element

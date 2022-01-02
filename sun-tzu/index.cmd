@@ -354,10 +354,6 @@ edits and corrections I have made since they were scanned.
 
 \cite-this-page[
   "\sun-tzu's Computational Classic"
-][
-  sun-tzu
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}''~~
 ]
 
 %footer-element

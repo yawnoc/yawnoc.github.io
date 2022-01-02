@@ -5387,12 +5387,7 @@ See also: [黃金][金]
 
 
 
-\cite-this-page[
-  %title
-][
-  lexicon
-][
-  {Conway's} {Lexicon} for {Literary} {Chinese}
-]
+\cite-this-page[]
+
 
 %footer-element

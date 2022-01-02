@@ -425,6 +425,6 @@ the only parameters are $u$, $g$, and $h$,
 so the only dimensionless group (up to a power) is $g h / u^2$.
 ----
 
-\cite-this-page[][projectile-platform][%title]
+\cite-this-page[]
 
 %footer-element

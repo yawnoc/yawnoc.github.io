@@ -888,10 +888,6 @@ see [the actual first page of the almanac text][almanac text].
 
 \cite-this-page[
   ~~ "Q [&] A [with] Confucius: [the] Little Child's Discourse" ~~
-][little-child][
-  c~~
-    ``{Q}~[\&]~{A} [with] {Confucius}: [the] {Little} {Child's} {Discourse}''
-  ~~
 ]
 
 %footer-element

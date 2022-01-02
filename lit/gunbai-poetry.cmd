@@ -138,7 +138,7 @@ but I would guess that that side bears the two lines before. All up:
 ====
 
 
-\cite-this-page[][gunbai-poetry][%title]
+\cite-this-page[]
 
 %footer-element
 

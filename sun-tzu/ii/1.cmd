@@ -264,10 +264,6 @@ of \sun-tzu's Computational Classic:
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~II \P1"
-][
-  sun-tzu-ii-1
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{II} {\P1}''~~
 ]
 
 %footer-element

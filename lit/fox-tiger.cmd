@@ -182,10 +182,6 @@ The Chinese source text is from Chinese Text Project:
   like .[the] many beasts' fear of .[the] tiger.
 >>
 
-\cite-this-page[
-  ~~ "[The] Fox Feigneth [the] Tiger's Authority" ~~
-][fox-tiger][
-  ~~ ``[The] {Fox} {Feigneth} [the] {Tiger's} {Authority}'' ~~
-]
+\cite-this-page[~~ "[The] Fox Feigneth [the] Tiger's Authority" ~~]
 
 %footer-element

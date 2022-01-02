@@ -202,6 +202,6 @@ I say, you know, fill your boots.
 
 ====
 
-\cite-this-page[][cynics-730][%title]
+\cite-this-page[]
 
 %footer-element

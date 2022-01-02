@@ -396,10 +396,6 @@ END of Preface
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Preface"
-][
-  sun-tzu-preface
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Preface}''~~
 ]
 
 %footer-element

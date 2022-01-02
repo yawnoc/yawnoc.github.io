@@ -153,10 +153,6 @@ The Chinese source text is from Page~143 of Chao's
 * 是事： these events; \or this incident
 ====
 
-\cite-this-page[
-  ~~ "[An] History of Mr Shih's Eating Lions" ~~
-][lion-eating][
-  ~~ ``[An] {History} of {Mr}~{Shih's} {Eating} {Lions}'' ~~
-]
+\cite-this-page[~~ "[An] History of Mr Shih's Eating Lions" ~~]
 
 %footer-element

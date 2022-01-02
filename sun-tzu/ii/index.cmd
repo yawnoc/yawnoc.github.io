@@ -104,10 +104,6 @@ and the headings I have allocated are **not** part of the original text.
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~II"
-][
-  sun-tzu-ii
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{II}''~~
 ]
 
 %footer-element

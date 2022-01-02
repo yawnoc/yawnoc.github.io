@@ -1759,10 +1759,6 @@ The punctuation inserted in this section is my own.
   $$
 ====
 
-\cite-this-page[
-  ~~ "[The] Sea Island Computational Classic" ~~
-][sea-island][
-  ~~ ``[The] {Sea} {Island} {Computational} {Classic}'' ~~
-]
+\cite-this-page[~~ "[The] Sea Island Computational Classic" ~~]
 
 %footer-element

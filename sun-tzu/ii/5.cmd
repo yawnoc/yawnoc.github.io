@@ -197,10 +197,6 @@ Note that this excerpt is **not** a part of \sun-tzu's Computational Classic:
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~II \P5"
-][
-  sun-tzu-ii-5
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{II} {\P5}''~~
 ]
 
 %footer-element

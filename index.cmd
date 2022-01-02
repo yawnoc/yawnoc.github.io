@@ -377,7 +377,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ====
 
 
-\cite-this-page[][home-page][{Conway's} site]
+\cite-this-page[]
 
 
 %footer-element

@@ -1392,6 +1392,6 @@ $${.important}
   }.
 $$
 
-\cite-this-page[][daytime][%title]
+\cite-this-page[]
 
 %footer-element

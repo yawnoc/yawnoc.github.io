@@ -83,9 +83,7 @@ and placed in the squares rather than at the intersections.
 @[Chinese chess] https://en.wikipedia.org/wiki/Xiangqi @
 @[banqi] https://en.wikipedia.org/wiki/Banqi @
 
-\cite-this-page[][crowded][
-  {Crowded} {Xiangqi}
-]
+\cite-this-page[]
 
 
 %footer-element

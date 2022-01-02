@@ -1161,6 +1161,6 @@ $\sqrt{B} = u / c$, the initial-to-terminal speed ratio:
 </svg>
 ||||
 
-\cite-this-page[][projectile-weak-drag][%title]
+\cite-this-page[]
 
 %footer-element

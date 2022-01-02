@@ -1782,9 +1782,7 @@ See [{[^ts] vs [^ch]} etc](#ts-vs-ch).
 ====
 
 
-\cite-this-page[][cantonese-romanisation][
-  {Conway's} {Romanisation} for {Cantonese}
-]
+\cite-this-page[]
 
 
 %footer-element

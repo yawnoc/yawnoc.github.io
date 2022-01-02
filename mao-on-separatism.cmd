@@ -541,7 +541,7 @@ Z{%
 >>
 
 
-\cite-this-page[][mao-separatism][~~ {Mao} on separatism: 27~{Chinas} ~~]
+\cite-this-page[]
 
 %footer-element
 

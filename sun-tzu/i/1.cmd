@@ -371,10 +371,6 @@ In either case, ugh to recurring decimals.
 
 \cite-this-page[
   "\sun-tzu's Computational Classic: Volume~I \P1"
-][
-  sun-tzu-i-1
-][
-  ~~``{Sun}~{Tz{\u u}'s} {Computational} {Classic}: {Volume}~{I} {\P1}''~~
 ]
 
 %footer-element
