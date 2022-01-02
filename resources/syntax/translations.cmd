@@ -40,17 +40,17 @@ b{%
 
 <##
   ----------------------------------------------------------------
-  Translator-supplied italics  .[ ]
+  Translator-supplied  .[ ]
   ----------------------------------------------------------------
 ##>
 
-l{%
+e{%
   [.]
   \[
     (?P<content> [^]] *? )
   \]
 %
-  _{.translator-supplied}\g<content>_
+  <span class="translator-supplied">\\[\g<content>\\]</span>
 %}
 
 
