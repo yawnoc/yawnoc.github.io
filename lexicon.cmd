@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2021-06-26
+  %date-modified 2022-01-02
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -4560,6 +4560,9 @@ See also: [遠近][遠]
 * nearby
 * [:verb:] keep near unto
 ====
+----
+See also: [遠近][遠]
+----
 
 6 [逆] U+9006
 ====
