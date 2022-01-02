@@ -151,35 +151,12 @@ p{%
 %
   ##{#cite} Cite this page ##
   
-  ### Text ###
-    ----
-    Conway~(%year-modified).
-    \g<text_title>.
-    \\<https://yawnoc.github.io/%clean-url\\>
-    Accessed~<span class="js-date">yyyy-mm-dd</span>.
-    ----
-  
-  ### BibTeX ###
-    <pre><code>\\
-      \/@misc{conway-\g<tex_key>,
-      \/  author = {Conway},
-      \/  year = {%year-modified},
-      \/  title = {\g<tex_title>},
-      \/  howpublished = {\\url{https://yawnoc.github.io/%clean-url}},
-      \/  note = {Accessed\\~<span class="js-date">yyyy-mm-dd</span>},
-      \/}
-    </code></pre>
-  
-  ### BibLaTeX ###
-    <pre><code>\\
-      \/@online{conway-\g<tex_key>,
-      \/  author = {Conway},
-      \/  year = {%year-modified},
-      \/  title = {\g<tex_title>},
-      \/  url = {https://yawnoc.github.io/%clean-url},
-      \/  urldate = {<span class="js-date">yyyy-mm-dd</span>},
-      \/}
-    </code></pre>
+  ----
+  Conway~(%year-modified).
+  \g<text_title>.
+  \\<https://yawnoc.github.io/%clean-url\\>
+  Accessed~<span class="js-date">yyyy-mm-dd</span>.
+  ----
   
   a~~
     <script>\
