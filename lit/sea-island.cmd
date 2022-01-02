@@ -1723,13 +1723,13 @@ The punctuation inserted in this section is my own.
   若[g/大股較己丙/]比[v/分股丙辰/]（即[v/丁乙/]），\
   得[v/島去前表之遠/]。
 ||
-  [b/.[The] small major cathetus chariot-beam $HI$/] compared unto
-  [r/.[the] split major cathetus $IG$/],
-  .[is] like
-  [g/.[the] large major cathetus chariot-beam $FC$/] compared unto
-  [v/.[the] split major cathetus $CO$/]
-  (which is [v/$DB$/]);
-  .[we] obtain [v/.[the] distance .[that the] island .[is] separated
+  [b/.[The] small major-cathetus chariot-beam $HI$/] compared unto
+  [r/.[the] split major-cathetus $IG$/],
+  .[is] as
+  [g/.[the] great major-cathetus chariot-beam $FC$/] compared unto
+  [v/.[the] split major-cathetus $CO$/]
+  (which is [v/$DB$/]),
+  .[and we] obtain [v/.[the] distance .[that the] island .[is] separated
   from .[the] front post/].
 >>
 ====

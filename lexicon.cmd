@@ -876,7 +876,7 @@ See also: [幾何][幾]
 [平聲]
 ====
 * [:verb:] share
-* separate
+* separate; split
 * distinguish
 * tenth
 ====
