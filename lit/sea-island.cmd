@@ -11,7 +11,7 @@
   %title "[The] Sea Island Computational Classic" 《海島算經》
   %title-en ".[The] Sea Island Computational Classic"
   %date-created 2019-04-20
-  %date-modified 2021-06-26
+  %date-modified 2022-01-02
   \resources:maths
   %description
     An annotated English translation of the first problem in Haidao Suanjing, \
@@ -1501,10 +1501,10 @@ The punctuation inserted in this section is my own.
   以[b/小股較辛壬/]比[r/小句己庚/]，\
   若[g/大股較己丙/]比[v/大句甲辰/]。
 ||
-  Using [b/.[the] small major cathetus chariot-beam $HI$/]
-  .[to] compare unto [r/.[the] small minor cathetus $FG$/],
-  .[is] like [g/.[the] large major cathetus chariot-beam $FC$/]
-  compared unto [v/.[the] large minor cathetus $AO$/].
+  Using [b/.[the] small major-cathetus chariot-beam $HI$/]
+  .[to] compare unto [r/.[the] small minor-cathetus $FG$/],
+  .[is] as [g/.[the] great major-cathetus chariot-beam $FC$/]
+  compared unto [v/.[the] great minor-cathetus $AO$/].
 >>
 ====
 * In modern notation,
