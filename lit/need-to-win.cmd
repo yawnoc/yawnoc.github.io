@@ -7,7 +7,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2021-06-27
+  %date-modified 2022-01-02
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -200,7 +200,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   覆卻萬方陳乎前而不得入其舍，惡往而不暇！
 ||
-  Overturning .[and] receding .[in] .[a] myriad ways
+  Overturning .[and] receding .[in a] myriad ways
   .[have been] shown before .[him]
   and could not enter his mind;
   how goeth .[he] and .[be he] not carefree?
@@ -297,7 +297,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   其巧一也，而有所矜，則重外也。凡外重者內拙。
 ||
-  Their skill .[is] .[the] same,
+  Their skill .[is the] same,
   but .[that] there be that of .[their] concern,
   .[is] esteeming the external.
   All those who esteem the external .[are] internally stupid.

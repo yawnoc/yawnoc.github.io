@@ -10,7 +10,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2021-05-09
+  %date-modified 2022-01-02
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -116,7 +116,7 @@ see [the actual first page of the almanac text][almanac text].
 ||
   One day .[he] led all .[the] disciples,
   driving .[his] chariot out .[for] travel;
-  .[and] .[along] .[the] road encountered several children playing:
+  .[and on the] road encountered several children playing:
   .[but] among .[them] there was one child .[who] played not.
 >>
 ====
@@ -147,7 +147,7 @@ see [the actual first page of the almanac text][almanac text].
     .[and] downward unto .[those] amidst .[the] house.
     Surely there be fighting .[and] striving;
     toil but no achievement.
-    How be .[this] .[a] good thing? Therefore do .[I] play not.
+    How be .[this a] good thing? Therefore do .[I] play not.
 >>
 ====
 * 縫： mend; \lit stitch
@@ -191,7 +191,7 @@ see [the actual first page of the almanac text][almanac text].
   .[The] little child answered, saying,
   Since antiquity .[even] unto this day,
   .[it] ought to be .[that] the chariot avoideth of the wall;
-  .[it] ought not to .[be] .[that] the wall avoideth of the chariot.
+  .[it] ought not to .[be that] the wall avoideth of the chariot.
 >>
 
 <<
@@ -214,8 +214,8 @@ see [the actual first page of the almanac text][almanac text].
   天生自然，豈謂詐乎？
 ||
   .[The] little child answered, saying,
-  .[I] .[the] human lived three years,
-  .[and] .[was] separated from father .[and] mother;
+  .[I the] human lived three years,
+  .[and was] separated from father .[and] mother;
   the rabbit liveth three days,
   .[and] runneth upon .[the] ditched fields of .[the] earth;
   the fish liveth three days,
@@ -223,7 +223,7 @@ see [the actual first page of the almanac text][almanac text].
   Inborn .[and] natural: how be .[this] cunning?
 >>
 ====
-* 人生： .[I] .[the] human lived \+
+* 人生： .[I the] human lived \+
   Literally "human life", or "life".
   To match the pattern in the sentences which follow,
   人生三歲 might be rendered "man liveth three years".
@@ -300,7 +300,7 @@ see [the actual first page of the almanac text][almanac text].
   .[I] must needs teach them.
   .[In mine] house there is .[my] wise master:
   .[I] must needs learn from him.
-  What leisure .[have I] .[to] travel together?
+  What leisure .[have I to] travel together?
 >>
 ====
 * 賢： worthy; \or talented
@@ -341,11 +341,11 @@ see [the actual first page of the almanac text][almanac text].
 ||
   .[The] little child answered, saying,
   .[The] Son of Heaven being fond of wagering,
-  .[all] .[within] .[the] Four Seas .[shall] not .[be] maintained.
+  .[all within the] Four Seas .[shall] not .[be] maintained.
   All .[the] marquesses being fond of wagering,
   doth obstruct .[the] laws of governance.
   .[The] scholars being fond of wagering,
-  scholarship .[shall] .[be] abandoned.
+  scholarship .[shall be] abandoned.
 >>
 ====
 * 天子： .[the] Son of Heaven \+
@@ -413,7 +413,7 @@ see [the actual first page of the almanac text][almanac text].
   .[and] the people .[shall have] many quarrels.
   Cut off .[the] manservants .[and] maidservants,
   .[and] whom .[shall] the ruler employ?
-  Vast .[be] .[all] under Heaven: how can .[it be] levelled?
+  Vast .[be all] under Heaven: how can .[it be] levelled?
 >>
 
 <<
@@ -506,10 +506,10 @@ see [the actual first page of the almanac text][almanac text].
   The winter day .[be] not sufficient.
   The summer day .[be] in excess.
   .[The] imperial city hath no market.
-  .[I] .[the] little man have no style-name.
+  .[I the] little man have no style-name.
 >>
 ====
-* 小人： .[I] .[the] little man \+
+* 小人： .[I the] little man \+
   A deprecating self-address.
   Evidently the child is far from the little man of Confucianism.
 ====
@@ -518,8 +518,8 @@ see [the actual first page of the almanac text][almanac text].
   孔子問曰：汝知天地之綱紀，陰陽之終始？
 ||
   Confucius asked, saying,
-  Knowest thou .[the] principle .[and] .[the] law of Heaven .[and] Earth,
-  .[and] .[the] end .[and] .[the] beginning of Yin .[and] Yang?
+  Knowest thou .[the] principle .[and the] law of Heaven .[and] Earth,
+  .[and the] end .[and the] beginning of Yin .[and] Yang?
 >>
 ====
 * 綱： principle; \or crux
@@ -562,9 +562,9 @@ see [the actual first page of the almanac text][almanac text].
 ||
   .[The] little child answered, saying,
   Nine nines .[do] return eighty-one:
-  this .[be] .[the] principle .[and] .[the] law of Heaven .[and] Earth.
+  this .[be the] principle .[and the] law of Heaven .[and] Earth.
   Eight nines .[are] seventy-two:
-  this .[be] .[the] end .[and] .[the] beginning of Yin .[and] Yang.
+  this .[be the] end .[and the] beginning of Yin .[and] Yang.
 >>
 ====
 * There is a whole genre of stuff like this i.e.~divination, numerology etc.
@@ -608,7 +608,7 @@ see [the actual first page of the almanac text][almanac text].
   The cloud emergeth from the mountain.
   The fog ariseth from .[the] ground.
   Heaven .[and] Earth .[are] separated from each other,
-  in excess of .[a] thousand thousand .[and] .[a] myriad myriad miles.
+  in excess of .[a] thousand thousand .[and a] myriad myriad miles.
   East, west, south, .[and] north, all have adherence.
 >>
 ====
@@ -624,7 +624,7 @@ see [the actual first page of the almanac text][almanac text].
 ||
   Confucius asked, saying,
   Sayest thou .[that]
-  father .[and] mother are .[more] close .[unto] .[their children],
+  father .[and] mother are .[more] close .[unto their children],
   .[or that] husband .[and] wife are .[more] close?
 >>
 ====
@@ -643,7 +643,7 @@ see [the actual first page of the almanac text][almanac text].
   孔子曰：夫婦生則同衾，死則同穴，何得不親？
 ||
   Confucius said,
-  Husband .[and] wife .[share] .[the] same quilt .[in] life,
+  Husband .[and] wife .[share the] same quilt .[in] life,
   .[and the] same pit .[in] death: how could .[they be] not .[as] close?
 >>
 
@@ -693,7 +693,7 @@ see [the actual first page of the almanac text][almanac text].
   .[The] multitude of stars bright,
   .[are] not as .[the] lone moon brilliant alone.
   .[The] affection of father .[and] mother:
-  how can .[it] .[be] lost?
+  how can .[it be] lost?
 >>
 ====
 * 户： household; \or door
@@ -703,7 +703,7 @@ see [the actual first page of the almanac text][almanac text].
   孔子歎曰：賢哉！賢哉！
 ||
   Confucius sighed, saying,
-  Worthy .[art] .[thou]! Worthy .[art] .[thou]!
+  Worthy .[art thou]! Worthy .[art thou]!
 >>
 
 <<
@@ -711,12 +711,12 @@ see [the actual first page of the almanac text][almanac text].
   適來問橐，橐一一答之。橐今欲求敎夫子一言，明以誨橐，幸請勿棄。
 ||
   .[The] little child asked Confucius, saying,
-  .[My master] .[is] just come to ask ((T'o | ~~橐~~)) .[questions],
+  .[My master is] just come to ask ((T'o | ~~橐~~)) .[questions],
   .[and] ((T'o | ~~橐~~)) .[hath] one .[by] one answered them.
   ((T'o | ~~橐~~)) now wisheth to
   request instruction of .[my] master .[in] one saying,
   .[to] teach ((T'o | ~~橐~~)) with clarity,
-  .[and] .[doth] wishfully ask .[that] .[my master] do not forsake.
+  .[and doth] wishfully ask .[that my master] do not forsake.
 >>
 ====
 * 橐： ((T'o | ~~橐~~)) \+
@@ -803,7 +803,7 @@ see [the actual first page of the almanac text][almanac text].
   孔子曰：且論眼前之事，何必談天説地？
 ||
   Confucius said,
-  And .[do] discourse matters before .[our] .[very] eyes;
+  And .[do] discourse matters before .[our very] eyes;
   why must .[we] talk of .[the] heavens
     .[and] speak of .[the] earth?
 >>
@@ -812,7 +812,7 @@ see [the actual first page of the almanac text][almanac text].
   小兒曰：若論眼前之事，眉毛中有幾枝？
 ||
   .[The] little child said,
-  If .[we shall] discourse matters before .[our] .[very] eyes,
+  If .[we shall] discourse matters before .[our very] eyes,
   how many .[hairs] be there amidst .[my] brow?
 >>
 
@@ -823,7 +823,7 @@ see [the actual first page of the almanac text][almanac text].
   .[and] spake looking back unto all .[the] disciples, saying,
   The young ought to .[be] feared!
   .[For] how know .[we],
-  .[that] those who come .[after] .[be] not as .[we] now?
+  .[that] those who come .[after be] not as .[we] now?
 >>
 ======
 * 後生可畏！焉知來者之不如今也？ \+
@@ -837,7 +837,7 @@ see [the actual first page of the almanac text][almanac text].
     .[The] Master saith,
       The young ought to .[be] feared;
       .[for] how know .[we],
-      .[that] those who come .[after] .[be] not as .[we] now?
+      .[that] those who come .[after be] not as .[we] now?
       .[By] forty .[or] fifty .[have we] not heard of them,
       then .[be they] not worthy of fear.
   >>

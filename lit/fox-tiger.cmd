@@ -8,7 +8,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2021-06-26
+  %date-modified 2022-01-02
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -96,7 +96,7 @@ The Chinese source text is from Chinese Text Project:
 <<
   群臣莫對。
 ||
-  .[And] .[his] group of ministers could not reply.
+  .[And his] group of ministers could not reply.
 >>
 
 <<
@@ -151,15 +151,14 @@ The Chinese source text is from Chinese Text Project:
 <<
   虎不知獸畏己而走也，以為畏狐也。
 ||
-  .[The] tiger knew not .[that] .[the] beasts feared himself and ran,
-  .[but] thought .[that] .[they] feared .[the] fox.
+  .[The] tiger knew not .[that the] beasts feared himself and ran,
+  .[but] thought .[that they] feared .[the] fox.
 >>
 <<
   今王之地方五千里，帶甲百萬，而專屬之昭奚恤；
 ||
-  Today King's territory .[spanneth]
-  .[a] circumference of five thousand miles,
-  .[with] armour-donning .[soldiers] .[a] million,
+  Today King's territory .[spanneth a] circumference of five thousand miles,
+  .[with] armour-donning .[soldiers a] million,
   and exclusively subordinate .[are] they unto ((Chao Hi-s(u") | ~~昭奚恤~~));
 >>
 ====

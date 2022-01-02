@@ -9,7 +9,7 @@
     "Record of [the] Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2021-06-26
+  %date-modified 2022-01-02
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -88,8 +88,8 @@ The inserted punctuation is my own.
   太平山，古稱鼇峰，南臨大海，北與九龍諸山遥遥相望，\
   岡巒連綿，林木蔚茂，風景絶美。
 ||
-  Victoria Peak, .[in] antiquity referred to .[as]
-  .[the] Peak of the Great Sea-Turtle,
+  Victoria Peak, .[in] antiquity referred to
+  .[as the] Peak of the Great Sea-Turtle,
   overlooketh southward .[the] great sea,
   .[and] distantly looketh northward at each other
   with .[the] various mountains of Kowloon;
@@ -146,7 +146,7 @@ The inserted punctuation is my own.
 ||
   .[On a] goodly spring .[or] autumn day,
   .[both] Chinese .[and] Western people
-  continuously flock .[here] .[to] attend,
+  continuously flock .[here to] attend,
   ascending this Pavilion.
 >>
 ====
@@ -160,7 +160,7 @@ The inserted punctuation is my own.
   southern .[and] northern, of Victoria~Harbour:
   between them .[the] morning sunshine .[and the] even shade,
   .[and the] clear light .[and the] rainy hues,
-  .[undergo] .[a] thousand changes .[and a] myriad tranformations,
+  .[undergo a] thousand changes .[and a] myriad tranformations,
   as .[in] paintings .[and] drawings.
 >>
 ====
@@ -188,7 +188,7 @@ The inserted punctuation is my own.
   .[is] also as the ((sh(e^)ng | ~~笙~~)) .[and] the ((y(u") | ~~竽~~))
   playing .[in] ensemble;
   .[among] that which the ear .[and] the eye receive,
-  not one .[thing] .[is] not sufficient .[and] pleasing.
+  not one .[thing is] not sufficient .[and] pleasing.
   .[It is] also .[a] goodly place .[for] travel .[and] rest.
 >>
 ====
@@ -229,7 +229,7 @@ The inserted punctuation is my own.
 <<
   而形制則前會長百强則師，任之不受酬。其建築布置諸費，凡共五十萬元。
 ||
-  And .[of designing] .[the] form .[and] structure,
+  And .[of designing the] form .[and] structure,
   .[the] former Club Chairman ((Pak-keung | ~~百强~~)) .[the] architect
   served it not receiving payment.
   Its various construction .[and] furnishing costs,
@@ -263,7 +263,7 @@ The inserted punctuation is my own.
   以一九七六年九月落成，是月三日，由市政局沙利士主席行接收禮。
 ||
   In September of .[the] year 1976 .[was it] completed,
-  .[and on] .[the] 3rd day of this month,
+  .[and on the] 3rd day of this month,
   .[the] ceremony of receiving .[was] performed by
   Chairman Sales of .[the] Urban Council.
 >>
@@ -291,7 +291,7 @@ The inserted punctuation is my own.
 ||
   .[This] deed here .[and] now,
   dependeth upon all .[the] gentlemen
-  .[having] .[as quickly] as .[an] echo responded,
+  .[having as quickly] as .[an] echo responded,
   assisting each other .[and] fulfilling each other,
   their efforts no less than the mighty lion's.
 >>

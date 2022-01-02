@@ -7,7 +7,7 @@
 %%
   %title "[An] History of Mr Shih's Eating Lions" 《施氏食獅史》
   %date-created 2019-04-07
-  %date-modified 2021-06-26
+  %date-modified 2022-01-02
   \resources:rendering
   %description
     An English translation of the Mandarin "lion tongue twister" \
@@ -97,7 +97,7 @@ The Chinese source text is from Page~143 of Chao's
 <<
   十時，適十獅適市。是時，適施氏適市。
 ||
-  .[At] .[the] tenth hour, ten lions .[were] just gone unto market.
+  .[At the] tenth hour, ten lions .[were] just gone unto market.
   .[At] this time, Mr~((Shih | ~~施~~)) .[was] just gone unto market.
 >>
 

@@ -216,7 +216,7 @@ $$
   Suppose there be .[a] looking at .[a] [b/ sea island /];
   erect [r/ two posts /], [r/ .[of] equal height three rods /],
   front .[and] rear
-  [g/ separated from each other .[by] .[a]  thousand paces /],
+  [g/ separated from each other .[by a]  thousand paces /],
   .[and] make .[the] rear post and .[the] front post
   aligned .[the] three with each other.
 >>
@@ -375,8 +375,8 @@ $$
 <<
   問[b/島高/]及[r/去表/]各幾何？
 ||
-  .[We] ask, how much each .[be] [b/ .[the] island's height /]
-  and [r/ .[the] separation from .[the] post /]?
+  .[We] ask, how much each .[be the] [b/ island's height /]
+  and .[the] [r/ separation from .[the] post /]?
 >>
 
 <<
@@ -464,12 +464,12 @@ $$
   求前表去島遠近者：以前表卻行乘表間爲實；相多爲法。除之，得島去表里數。
 ||
   .[To] seek .[the] distance
-  .[that] .[the] front post .[is] separated from .[the] island:
+  .[that the] front post .[is] separated from .[the] island:
   use .[the] front post's backward walk times .[the] posts' separation
   as .[the] dividend,
   .[and the] mutual excess as .[the] divisor.
   Dividing them, resulteth in .[the] number of miles
-  .[that] .[the] island .[is] separated from .[the] post.
+  .[that the] island .[is] separated from .[the] post.
 >>
 ====
 * In modern notation,
