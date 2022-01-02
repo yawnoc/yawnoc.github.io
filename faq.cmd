@@ -8,7 +8,7 @@
 %%
   %title FAQ
   %date-created 2019-08-01
-  %date-modified 2021-05-11
+  %date-modified 2022-01-02
   \resources
   %css
     li > ul, li > ol {
@@ -43,7 +43,7 @@
 
 * \faq-link:translation
   ====
-  * \faq-link:italics
+  * \faq-link:brackets
   * \faq-link:archaic
   * \faq-link:romanisation
   * \faq-link:this
@@ -153,13 +153,13 @@ Using [KaTeX](https://katex.org/).
 
 
 
-###{#italics}
-  Why are there italicised words in your translations?
+###{#brackets}
+  Why are there .[square-bracketed] words in your translations?
 ###
 
 ----
 These are words I have supplied as translator,
-which are *{.translator-supplied} absent* in the original Chinese.
+which are absent in the original Chinese.
 ----
 ====
 * "The" is considered present when referring to a general class
