@@ -1600,7 +1600,7 @@ The punctuation inserted in this section is my own.
 ||
   Having obtained [v/$AO$/],
   add [r/.[the] post height $OB$/] (which is [r/$CD$/]),
-  .[to] obtain $AB$, being .[the] height of .[the] island.
+  .[to] obtain $AB$, .[which] be .[the] height of .[the] island.
 >>
 ====
 * In modern notation,
