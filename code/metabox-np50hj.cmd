@@ -3,7 +3,7 @@
 %%
   %title Debian on Metabox Alpha-S NP50HJ
   %date-created 2021-12-23
-  %date-modified 2022-01-02
+  %date-modified 2022-01-06
   \resources:rendering
 %%
 
@@ -167,6 +167,7 @@ $ sudo apt install \
     firefox-esr \
     pluma \
     atril \
+      xournal \
       diffpdf \
     mtpaint \
     npm \
