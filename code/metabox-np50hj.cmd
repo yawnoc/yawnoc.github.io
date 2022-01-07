@@ -3,7 +3,7 @@
 %%
   %title Debian on Metabox Alpha-S NP50HJ
   %date-created 2021-12-23
-  %date-modified 2022-01-06
+  %date-modified 2022-01-07
   \resources:rendering
 %%
 
@@ -170,6 +170,7 @@ $ sudo apt install \
       xournal \
       diffpdf \
     mtpaint \
+      eom \
     npm \
     fontforge \
     lilypond \
