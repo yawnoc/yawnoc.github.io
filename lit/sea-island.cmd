@@ -11,7 +11,7 @@
   %title "[The] Sea Island Computational Classic" 《海島算經》
   %title-en ".[The] Sea Island Computational Classic"
   %date-created 2019-04-20
-  %date-modified 2022-01-02
+  %date-modified 2022-01-09
   \resources:maths
   %description
     An annotated English translation of the first problem in Haidao Suanjing, \
@@ -394,8 +394,8 @@ $$
   Note that $1 \unit{mile} = 300 \unit{paces}$.
 
 * 一百二： one hundred .[and] two \+
-  The italicised .[and] has been supplied by me as the translator,
-  and is noteworthy because:
+  The square-bracketed .[and] is supplied,
+  which is noteworthy because:
   ====
   * In modern Chinese, you must say 一百零二,
     "one hundred oh two", to mean~102.
