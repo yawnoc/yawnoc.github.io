@@ -7,7 +7,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2022-01-02
+  %date-modified 2022-01-09
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -201,7 +201,7 @@ The Chinese source text is from Chinese Text Project:
   覆卻萬方陳乎前而不得入其舍，惡往而不暇！
 ||
   Overturning .[and] receding .[in a] myriad ways
-  .[have been] shown before .[him]
+  .[have been] shewn before .[him]
   and could not enter his mind;
   how goeth .[he] and .[be he] not carefree?
 >>

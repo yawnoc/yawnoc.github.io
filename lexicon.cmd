@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-01-02
+  %date-modified 2022-01-09
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -4013,7 +4013,7 @@ See also: [聯翩][翩]
 [去聲]
 ====
 * notable; marked
-* show
+* shew
 * write; record
 * establish
 ====
@@ -4125,7 +4125,7 @@ See also: [平行][平]
 ====
 * overgarment; coat
 * surface
-* show
+* shew
 * pillar; post
 ====
 
@@ -4845,7 +4845,7 @@ See also: [世間][世]
 
 8 [陳] U+9673
 ====
-* line (up); show
+* line (up); shew
 * describe
 * aged
 ====
