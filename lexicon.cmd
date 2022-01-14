@@ -5075,10 +5075,10 @@ See also: [鴻雁][鴻]
 
 7 [餘] U+9918
 ====
-* remainder; excess
+* remainder; excess; spare
 ====
 ====
-* [有]餘： in excess; having remainder
+* [有]餘： in excess; with spare
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
