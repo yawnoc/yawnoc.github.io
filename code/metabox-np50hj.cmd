@@ -3,7 +3,7 @@
 %%
   %title Debian on Metabox Alpha-S NP50HJ
   %date-created 2021-12-23
-  %date-modified 2022-01-07
+  %date-modified 2022-01-18
   \resources:rendering
 %%
 
@@ -172,6 +172,7 @@ $ sudo apt install \
     mtpaint \
       eom \
     npm \
+    adb \
     fontforge \
     lilypond \
     texlive-full \
