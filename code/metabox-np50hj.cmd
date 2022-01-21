@@ -3,7 +3,7 @@
 %%
   %title Debian on Metabox Alpha-S NP50HJ
   %date-created 2021-12-23
-  %date-modified 2022-01-18
+  %date-modified 2022-01-22
   \resources:rendering
 %%
 
@@ -159,6 +159,7 @@ $ sudo apt install \
       mate-utils \
       mate-screensaver \
     lightdm \
+    locate \
     tlp \
     p7zip-full \
     git \
