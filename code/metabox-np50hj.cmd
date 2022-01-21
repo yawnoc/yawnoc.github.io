@@ -304,6 +304,7 @@ sudo apt update && sudo apt install signal-desktop
   bin/studio.sh
   bin/fsnotifier64
   jre/bin/java
+  jre/bin/keytool
   ````
 
 -
