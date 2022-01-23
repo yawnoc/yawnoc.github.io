@@ -117,16 +117,14 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   五行之準平，四時之終始；
 ||
-  .[the] evenness .[and] balance of .[the] Five Elements,
+  .[the] evenness .[and] levelness of .[the] Five Elements,
   .[and the] finishing .[and] starting of .[the] Four Seasons;
 >>
 ====
 * 五行： .[the] Five Elements \+
   [金木水火土](https://en.wikipedia.org/wiki/Wu_Xing),
   i.e.~metal, tree, water, fire and earth.
-  Perhaps better rendered as ".[the] Five Phases".
-
-* 準：平也；又均也； evenness; \or levelness
+  Perhaps better rendered as the "Five Phases".
 ====
 
 <<

@@ -2950,6 +2950,11 @@ See also: [蒞止][蒞]
 * lake
 ====
 
+10 [準] U+6E96
+====
+* even; level
+====
+
 14 [濕] U+6FD5
 ====
 * wet
@@ -4134,6 +4139,7 @@ See also: [聯翩][翩]
 [平聲] 音蘅 x(i/)ng
 ====
 * walk; move
+* \met element
 ====
 ----
 See also: [平行][平]
