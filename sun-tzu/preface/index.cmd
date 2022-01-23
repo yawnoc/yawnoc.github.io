@@ -143,24 +143,12 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   稽群倫之聚散，考二氣之降升；
 ||
-  .[It] examineth .[the] gathering .[and] dispersion of .[the] amassed kinds,
+  .[It] examineth .[the] gathering .[and] scattering of .[the] amassed kinds,
   .[and] inspecteth .[the] falling .[and] rising of .[the] Two Forces;
 >>
 ====
-* 稽：考也； examineth
-
-* 群： amassed; \lit crowded
-
-* 倫： kinds; \or types
-
 * 二氣： .[the] Two Forces; \lit .[the] Two Breaths \+
   陰氣, "Yin Force", and 陽氣, "Yang Force".
-  Recall 陰 and 陽 are
-  "Dark .[and] Light", "Shade .[and] Sun", or "Female .[and] Male".
-  [氣](https://en.wikipedia.org/wiki/Qi)
-  is usually rendered as "life force",
-  romanised as Hei ([Cantonese](/cantonese/conway-romanisation)),
-  Ch'i (Wade--Giles) or Q(i\) (Pinyin).
 ====
 
 <<
