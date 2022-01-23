@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-01-14
+  %date-modified 2022-01-23
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -3765,7 +3765,7 @@ See also: [百萬][萬]
 
 4 [者] U+8005
 ====
-* {generic} he who; that which; those; one
+* {generic} he that; that which; those; one
 * [:speech-assist:]
 ====
 

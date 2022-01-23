@@ -7,7 +7,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2022-01-09
+  %date-modified 2022-01-23
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -224,9 +224,9 @@ The Chinese source text is from Chinese Text Project:
 <<
   以瓦注者巧，以鉤注者憚，以黃金注者殙。
 ||
-  He who shooteth .[wagering] with earthenware .[is] skillful;
-  he who shooteth .[wagering] with .[a] buckle, fearful;
-  .[and] he who shooteth .[wagering] with gold, dazed.
+  He that shooteth .[wagering] with earthenware .[is] skillful;
+  he that shooteth .[wagering] with .[a] buckle, fearful;
+  .[and] he that shooteth .[wagering] with gold, dazed.
 >>
 ========
 * 注： shooteth .[wagering]; \or wagereth .[by archery]; \or wagereth \+
@@ -300,7 +300,7 @@ The Chinese source text is from Chinese Text Project:
   Their skill .[is the] same,
   but .[that] there be that of .[their] concern,
   .[is] esteeming the external.
-  All those who esteem the external .[are] internally stupid.
+  All those which esteem the external .[are] internally stupid.
 >>
 ====
 * 一： .[the] same; \or one

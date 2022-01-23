@@ -10,7 +10,7 @@
     《孔子問答：小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2022-01-02
+  %date-modified 2022-01-23
   \resources:rendering
   %description
     An English translation of 《孔子問答：小兒論》, \
@@ -117,7 +117,7 @@ see [the actual first page of the almanac text][almanac text].
   One day .[he] led all .[the] disciples,
   driving .[his] chariot out .[for] travel;
   .[and on the] road encountered several children playing:
-  .[but] among .[them] there was one child .[who] played not.
+  .[but] among .[them] there was one child .[that] played not.
 >>
 ====
 * 車： chariot \+
@@ -823,7 +823,7 @@ see [the actual first page of the almanac text][almanac text].
   .[and] spake looking back unto all .[the] disciples, saying,
   The young ought to .[be] feared!
   .[For] how know .[we],
-  .[that] those who come .[after be] not as .[we] now?
+  .[that] those which come .[after be] not as .[we] now?
 >>
 ======
 * 後生可畏！焉知來者之不如今也？ \+
@@ -837,7 +837,7 @@ see [the actual first page of the almanac text][almanac text].
     .[The] Master saith,
       The young ought to .[be] feared;
       .[for] how know .[we],
-      .[that] those who come .[after be] not as .[we] now?
+      .[that] those which come .[after be] not as .[we] now?
       .[By] forty .[or] fifty .[have we] not heard of them,
       then .[be they] not worthy of fear.
   >>
@@ -877,7 +877,7 @@ see [the actual first page of the almanac text][almanac text].
   ||||||{.centred-block}
   ||||
     Do not bully the intelligent child young .[in] years, \+
-    .[Who] broadly hath fine talent .[and] wisdom surpassing others. \+
+    .[Which] broadly hath fine talent .[and] wisdom surpassing others. \+
     .[He] talketh of .[and] discourseth \
       .[the] infinite matters of .[the] world; \+
     Clearly .[the] olden sages .[have] manifested .[in] his person.
