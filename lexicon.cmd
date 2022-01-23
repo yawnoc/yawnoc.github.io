@@ -1682,6 +1682,11 @@ See also: [從容][從]
 * send (away)
 ====
 
+9 [寒] U+5BD2
+====
+* cold; \met winter
+====
+
 11 [實] U+5BE6
 ====
 * actual; fact; real; solid
@@ -2356,6 +2361,12 @@ See also: [何得][何]
 * receive
 ====
 
+8 [推] U+63A8
+====
+* push; promote
+* deduce
+====
+
 12 [撲] U+64B2
 ====
 * beat
@@ -2584,6 +2595,11 @@ See also: [及時][及]
 8 [智] U+667A
 ====
 * wisdom
+====
+
+8 [暑] U+6691
+====
+* heat; \met summer
 ====
 
 9 [暇] U+6687
@@ -2842,6 +2858,11 @@ See also: [蒞止][蒞]
 ====
 * peril
 * [:speech-assist:]
+====
+
+6 [殊] U+6B8A
+====
+* disparate
 ====
 
 8 [殙] U+6B99
@@ -4688,6 +4709,11 @@ See also: [遠近][遠]
 See also: [遠近][遠]
 ----
 
+5 [迭] U+8FED
+====
+* alternate
+====
+
 6 [逆] U+9006
 ====
 * defy; go against
@@ -4729,6 +4755,12 @@ See also: [遠近][遠]
 9 [遊] U+904A
 ====
 * journey; travel; tour
+====
+
+9 [運] U+904B
+====
+* move
+* revolve
 ====
 
 9 [過] U+904E

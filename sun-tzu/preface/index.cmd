@@ -155,14 +155,10 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   推寒暑之迭運，步遠近之殊同；
 ||
   .[it] deduceth .[the] alternating .[and] revolving of winter .[and] summer,
-  .[and] measureth .[the] disparity .[and] sameness of far .[and] near;
+  .[and] paceth .[the] disparity .[and] sameness of far .[and] near;
 >>
 ====
 * 寒暑： winter .[and] summer; \lit cold .[and] heat
-
-* 迭：更也； alternating
-
-* 步： measureth (in paces)
 ====
 
 <<
