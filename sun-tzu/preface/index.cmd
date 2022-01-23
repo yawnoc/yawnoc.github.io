@@ -123,23 +123,21 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 * 五行： .[the] Five Elements \+
   [金木水火土](https://en.wikipedia.org/wiki/Wu_Xing),
-  i.e.~metal, tree, water, fire and earth.
+  i.e.~metal, tree, water, fire, and earth.
   Perhaps better rendered as the "Five Phases".
 ====
 
 <<
   萬物之祖宗，六藝之綱紀。
 ||
-  .[the] ancestor .[and] progenitor of .[the] myriad things,
-  .[and the] principle .[and] law of .[the] Six Arts.
+  .[the] forebear .[and] ancestor of .[the] myriad things,
+  .[and the] principle .[and the] law of .[the] Six Arts.
 >>
 ====
-* 萬物： everything; \lit .[the] myriad things
-
 * 六藝： .[the] Six Arts \+
   [禮樂射御書數](https://en.wikipedia.org/wiki/Six_Arts),
-  i.e.~Propriety (or Rites), Music, Archery,
-  (Chariot) Driving, Calligraphy and Mathematics.
+  i.e.~Propriety (or Rites), Music, Marksmanship,
+  (Chariot) Driving, Calligraphy, and Computation.
 ====
 
 <<
