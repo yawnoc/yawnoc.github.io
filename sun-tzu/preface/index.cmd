@@ -8,7 +8,7 @@
 %%
   %title "\sun-tzu's Computational Classic: Preface" 《孫子算經\.序》
   %date-created 2019-06-09
-  %date-modified 2020-06-24
+  %date-modified 2022-01-23
   \resources:rendering
   %description
     An annotated English translation of the Preface to Sunzi Suanjing, \
@@ -70,12 +70,6 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ||
   \sun-tzu saith: Computation---
 >>
-====
-* 算：
-    Computation;
-    \or Mathematics
-
-====
 
 <<
   天地之經緯，群生之元首；
@@ -89,10 +83,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   character for character.
   This is a very common rhetorical device in Literary Chinese.
 
-* 經緯： .[the] warp .[and] woof; \or .[the] meridians .[and] parallels \+
-  ["Warp and woof"](https://en.wiktionary.org/wiki/warp_and_woof)
-  is a good translation, both literally (longways and sideways threads)
-  and figuratively (fundamental structure).
+* 經緯： .[the] warp .[and] woof; \or .[the] meridians .[and] parallels
 ====
 
 <<
