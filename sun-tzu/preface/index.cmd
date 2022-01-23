@@ -95,21 +95,21 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 * 五常： .[the] Five Constants \+
   [仁義禮智信](https://ctext.org/three-character-classic#n90581),
-  i.e.~Humanity, Righteousness, Propriety (or Rites), Wisdom and Trust.
+  i.e.~Humanity, Righteousness, Propriety (or Rites), Wisdom, and Trust.
 ====
 
 <<
   星辰之建號，三光之表裏；
 ||
   .[the] establishment .[and] designation of
-  .[the] stars .[and] heavenly bodies,
+  .[the] stars .[and] asters,
   .[and the] surface .[and] internals of
   .[the] Three Luminaries;
 >>
 ====
 * 三光： .[the] Three Luminaries \+
   [日月星](https://ctext.org/three-character-classic#n90576),
-  i.e.~the sun, the moon and the stars.
+  i.e.~the sun, the moon, and the stars.
 
 * \c[52056] erroneously has 裹 for 裏.
 ====
