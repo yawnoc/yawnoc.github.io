@@ -89,15 +89,13 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   五常之本末，陰陽之父母；
 ||
-  .[the] beginning .[and] end of .[the] Five Everlasting .[Virtues],
+  .[the] base .[and] tip of .[the] Five Constants,
   .[and the] father .[and] mother of Yin .[and] Yang;
 >>
 ====
-* 五常： .[the] Five Everlasting .[Virtues] \+
+* 五常： .[the] Five Constants \+
   [仁義禮智信](https://ctext.org/three-character-classic#n90581),
   i.e.~Humanity, Righteousness, Propriety (or Rites), Wisdom and Trust.
-
-* 本末： .[the] beginning .[and] end; \or .[the] base .[and] tip
 ====
 
 <<
