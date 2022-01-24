@@ -8,7 +8,7 @@
 %%
   %title "\sun-tzu's Computational Classic: Preface" 《孫子算經\.序》
   %date-created 2019-06-09
-  %date-modified 2022-01-23
+  %date-modified 2022-01-24
   \resources:rendering
   %description
     An annotated English translation of the Preface to Sunzi Suanjing, \
@@ -68,7 +68,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   孫子曰：夫算者，
 ||
-  \sun-tzu saith: Computation---
+  \sun-tzu saith: Computation,
 >>
 
 <<
