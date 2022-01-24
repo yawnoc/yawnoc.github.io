@@ -83,7 +83,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   character for character.
   This is a very common rhetorical device in Literary Chinese.
 
-* 經緯： .[the] warp .[and] woof; \or .[the] meridians .[and] parallels
+* 經緯： warp .[and] woof; \or meridians .[and] parallels
 ====
 
 <<
@@ -93,7 +93,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   .[and the] father .[and] mother of Yin .[and] Yang;
 >>
 ====
-* 五常： .[the] Five Constants \+
+* 五常： Five Constants \+
   [仁義禮智信](https://ctext.org/three-character-classic#n90581),
   i.e.~Humanity, Righteousness, Propriety (or Rites), Wisdom, and Trust.
 ====
@@ -107,7 +107,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   .[the] Three Luminaries;
 >>
 ====
-* 三光： .[the] Three Luminaries \+
+* 三光： Three Luminaries \+
   [日月星](https://ctext.org/three-character-classic#n90576),
   i.e.~the sun, the moon, and the stars.
 
@@ -121,7 +121,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   .[and the] finishing .[and] starting of .[the] Four Seasons;
 >>
 ====
-* 五行： .[the] Five Elements \+
+* 五行： Five Elements \+
   [金木水火土](https://en.wikipedia.org/wiki/Wu_Xing),
   i.e.~metal, tree, water, fire, and earth.
   Perhaps better rendered as the "Five Phases".
@@ -134,7 +134,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   .[and the] principle .[and the] law of .[the] Six Arts.
 >>
 ====
-* 六藝： .[the] Six Arts \+
+* 六藝： Six Arts \+
   [禮樂射御書數](https://en.wikipedia.org/wiki/Six_Arts),
   i.e.~Propriety (or Rites), Music, Marksmanship,
   (Chariot) Driving, Calligraphy, and Computation.
@@ -147,7 +147,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   .[and] inspecteth .[the] falling .[and] rising of .[the] Two Forces;
 >>
 ====
-* 二氣： .[the] Two Forces; \lit .[the] Two Breaths \+
+* 二氣： Two Forces; \lit Two Breaths \+
   陰氣, "Yin Force", and 陽氣, "Yang Force".
 ====
 

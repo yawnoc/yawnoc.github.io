@@ -7,7 +7,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2022-01-23
+  %date-modified 2022-01-24
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -167,7 +167,7 @@ The Chinese source text is from Chinese Text Project:
   then .[having] not ever seen boats .[may he] promptly handle them.
 >>
 ====
-* 數： .[upon] repetition \+
+* 數： repetition \+
   數，入聲， \C [^sh]ok8 (\pm [_s]ok8) \M shu(o\)
 
 * 沒人： diver; literally submerging man
@@ -303,7 +303,7 @@ The Chinese source text is from Chinese Text Project:
   All those which esteem the external .[are] internally stupid.
 >>
 ====
-* 一： .[the] same; \or one
+* 一： same; \or one
 
 * 重： esteem \+
   重，去聲， \C chung6, \M zh(o\)ng \+

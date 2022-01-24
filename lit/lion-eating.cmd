@@ -7,7 +7,7 @@
 %%
   %title "[An] History of Mr Shih's Eating Lions" 《施氏食獅史》
   %date-created 2019-04-07
-  %date-modified 2022-01-02
+  %date-modified 2022-01-24
   \resources:rendering
   %description
     An English translation of the Mandarin "lion tongue twister" \
@@ -71,7 +71,7 @@ The Chinese source text is from Page~143 of Chao's
   ".[An] History of Mr~((Shih | ~~施~~))'s Eating Lions"
 >>
 ====
-* 施氏： Mr~((Shih | ~~施~~)); \lit .[he with] surname ((Shih | ~~施~~))
+* 施氏： Mr~((Shih | ~~施~~)); \lit surname ((Shih | ~~施~~))
 ====
 
 <<

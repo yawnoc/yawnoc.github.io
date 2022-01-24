@@ -8,7 +8,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2022-01-02
+  %date-modified 2022-01-24
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -112,7 +112,7 @@ The Chinese source text is from Chinese Text Project:
   In another manuscript he is called 江乙,
   also ((Kiang I | ~~江乙~~)).
 
-* 百獸： .[the] many beasts; \lit .[the] hundred beasts
+* 百獸： .[the] many beasts; \lit hundred beasts
 ====
 
 <<
@@ -125,7 +125,7 @@ The Chinese source text is from Chinese Text Project:
     this .[shall] defy .[the] will of .[the] Emperor of Heaven.
 >>
 ====
-* 子： thou; \lit .[the] master
+* 子： thou; \lit master
 * 長： be leader over \+
   長，上聲， \C ch(oe)ng2, \M zh(av)ng
 * 逆： defy; \or go against
@@ -170,7 +170,7 @@ The Chinese source text is from Chinese Text Project:
   A [unit of distance](https://en.wikipedia.org/wiki/Li_\(unit\)),
   of the order half a kilometre.
 
-* 百萬： .[a] million; \lit .[an] hundred myriad
+* 百萬： .[a] million; \lit hundred myriad
 ====
 
 <<
