@@ -49,7 +49,7 @@
 In the preface, \sun-tzu tells us that
 mathematics governs absolutely everything,
 and allows us to do even magical things
-like "seek .[the] whereabouts of gods .[and] earth gods".
+like "acquire .[the] whereabouts of gods .[and] earth-spirits".
 Basically it reads like advertising material for
 prospective STEM undergraduates.
 ----
@@ -179,21 +179,16 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   采神祇之所在，極成敗之符驗； \+
   窮道德之理，究性命之情。
 ||
-  .[it] seeketh .[the] whereabouts of gods .[and] earth gods,
-  .[and] examineth corroboration of success .[and] failure; \+
+  .[it] acquireth .[the] whereabouts of gods .[and] earth-spirits,
+  .[and] extremeth .[out the] corroboration of success .[and] failure; \+
   .[it] exhausteth .[the] reasoning of morality,
   .[and] investigateth .[the] sense of life.
 >>
 ====
-* 祇：地神； earth gods \+
+* 祇： earth-spirits \+
   祇，音岐， \C k'ei4, \M q(i/)
 
-* 極： examineth (.[unto] extremity) \+
-  All of 采, 極, 窮 and 究
-  mean "investigate", and in particular the last three mean
-  "investigate to the utmost extent".
-
-* 符驗： corroboration; \lit corroboration .[by] talisman
+* 符驗： corroboration; \lit talisman verification
 
 * 道德： morality; \or ethics
 
