@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-01-23
+  %date-modified 2022-01-24
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -740,6 +740,12 @@ See also: [幾何][幾]
 * elder-brother
 ====
 
+4 [兆] U+5146
+====
+* omen
+* multitude
+====
+
 4 [先] U+5148
 ====
 * first
@@ -1392,6 +1398,11 @@ See also: [未嘗][未]
 * city
 ====
 
+8 [基] U+57FA
+====
+* foundation
+====
+
 8 [堅] U+5805
 ====
 * firm
@@ -1685,6 +1696,11 @@ See also: [從容][從]
 9 [寒] U+5BD2
 ====
 * cold; \met winter
+====
+
+11 [察] U+5BDF
+====
+* inspect
 ====
 
 11 [實] U+5BE6
@@ -2109,6 +2125,11 @@ See also: [何得][何]
 ====
 * return; restore
 * repeat; again; \met also
+====
+
+10 [微] U+5FAE
+====
+* minute; petty
 ====
 
 12 [德] U+5FB7
@@ -2790,6 +2811,16 @@ See also: [有餘][餘]
 * establish
 ====
 
+12 [橫] U+6A6B
+[平聲]
+====
+* horizontal; parallel {geography}
+====
+[去聲]
+====
+* unruly
+====
+
 14 [檻] U+6ABB
 ====
 * threshold
@@ -3266,7 +3297,7 @@ See also: [以為][以], [為政][政]
 7 [理] U+7406
 ====
 * maintain
-* principle
+* principle; science
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -3536,6 +3567,11 @@ See also: [百萬][萬]
 [去聲]
 ====
 * {\int [智]} wisdom
+====
+
+7 [短] U+77ED
+====
+* short; shortness; shortcoming
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

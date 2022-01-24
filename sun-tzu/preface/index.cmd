@@ -164,30 +164,15 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   觀天道精微之兆基，察地理從橫之長短；
 ||
-  .[it] inspecteth .[the] foundations of
-    .[the] intricacies .[and] minutiae of Physics,
-  .[and] examineth .[the] length of
+  .[it] observeth .[the] omens .[and] foundations of
+    the fine .[and] the minute of Physics,
+  .[and] inspecteth .[the] length .[and] shortness of
     .[the] meridians .[and] parallels of Geography;
 >>
 ====
-* 天道： Physics;
-  \lit .[the] laws of Nature;
-  \or .[the] way of Heaven
+* 天道： Physics; \lit Way of Heaven
 
-* 兆基： foundations \+
-  According to 《國語辭典》 this means 開創基業,
-  roughly "opening/beginning/foundation".
-
-* 地理： Geography; \lit .[the] science of Earth
-
-* 從橫： meridians .[and] parallels (of latitude) \+
-  Variant of 縱橫.
-  Here 從橫 is referring to "things of broad scope"
-  or "the grand scheme of things", in contrast to 精微
-  (intricacies .[and] minutiae) in the previous line,
-  which it is parallel with.
-
-* 長短： length; \lit length .[and] shortness
+* 地理： Geography; \lit Science of Earth
 ====
 
 <<
