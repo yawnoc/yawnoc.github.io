@@ -181,18 +181,14 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ||
   .[it] acquireth .[the] whereabouts of gods .[and] earth-spirits,
   .[and] extremeth .[out the] corroboration of success .[and] failure; \+
-  .[it] exhausteth .[the] reasoning of morality,
-  .[and] investigateth .[the] sense of life.
+  .[it] exhausteth .[the] reasonings of morality,
+  .[and] scrutiniseth .[the] senses of life.
 >>
 ====
 * 祇： earth-spirits \+
   祇，音岐， \C k'ei4, \M q(i/)
 
 * 符驗： corroboration; \lit talisman verification
-
-* 道德： morality; \or ethics
-
-* 理： reasoning; \or logic
 ====
 
 <<

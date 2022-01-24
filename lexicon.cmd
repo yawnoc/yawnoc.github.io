@@ -1307,6 +1307,9 @@ See also: [同式][式]
 * [:verb:] name
 * life
 ====
+====
+* [性]命： life
+====
 
 6 [哉] U+54C9
 ====
@@ -2221,6 +2224,14 @@ See also: [何得][何]
 * pleasure
 ====
 
+5 [性] U+6027
+====
+* nature
+====
+----
+See also: [性命][命]
+----
+
 5 [怪] U+602A
 ====
 * strange; odd
@@ -2246,6 +2257,11 @@ See also: [何得][何]
 ====
 * know
 * all
+====
+
+8 [情] U+60C5
+====
+* feeling; sentiment; \met sense
 ====
 
 8 [惛] U+60DB
@@ -3330,7 +3346,7 @@ See also: [以為][以], [為政][政]
 7 [理] U+7406
 ====
 * maintain
-* principle; science
+* principle; reason; science
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -3708,9 +3724,20 @@ See also: [百萬][萬]
 * cave; den
 ====
 
+2 [究] U+7A76
+====
+* scrutinise
+====
+
 7 [窗] U+7A97
 ====
 * window
+====
+
+10 [窮] U+7AAE
+====
+* exhaust; limit
+* poor
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
