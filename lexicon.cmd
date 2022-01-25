@@ -2337,6 +2337,11 @@ See also: [性命][命]
 * all
 ====
 
+7 [悟] U+609F
+====
+* comprehend
+====
+
 8 [情] U+60C5
 ====
 * feeling; sentiment; \met sense
@@ -3163,6 +3168,12 @@ See also: [蒞止][蒞]
 * submerge
 ====
 
+4 [沖] U+6C96
+====
+* soar
+* child
+====
+
 5 [泉] U+6CC9
 ====
 * spring; fountain
@@ -3636,6 +3647,12 @@ See also: [百萬][萬]
 4 [皇] U+7687
 ====
 * emperor; imperial
+====
+
+7 [皓] U+7693
+====
+* bright
+* white
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -5284,6 +5301,16 @@ See also: [遠近][遠]
 ====
 * gate; entrance
 * family; \met house
+====
+
+3 [閉] U+9589
+====
+* close
+====
+
+4 [開] U+958B
+====
+* open
 ====
 
 4 [間] U+9593

@@ -295,17 +295,18 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   心開者幼沖而即悟，意閉者皓首而難精。
 ||
-  those who .[are] open-minded, .[even as] young children,
-    .[shall] immediately comprehend .[it],
-  .[but] those who .[are] closed-minded,
-    .[even with a] bright white head .[of hair],
-    .[shall find it] hard to .[be] proficient .[in it].
+  the open-minded one,
+    .[even a] young child,
+    .[shall] immediately comprehend,
+  .[but] the closed-thoughted one,
+    .[even] white-headed .[of hair],
+    cannot .[be] proficient.
 >>
 ====
-* 沖：童也； children
-
-* 皓：光也；白也； bright white \+
+* 皓： white \+
   皓，音號， \C hou6, \M h(a\)o
+
+* 難： cannot; \lit difficult
 
 * Here the parallel pairing of lines stops.
 ====
