@@ -284,11 +284,11 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   嚮之者富有餘，背之者貧且窶；
 ||
-  Those who echo .[in agreement with] it .[shall be] rich in excess,
-  .[but] those who turn .[their] backs to it .[shall be] poor and destitute;
+  He that faceth it .[shall be] wealthy in excess,
+  .[but] he that turneth .[his] back to it .[shall be] poor and destitute;
 >>
 ====
-* 窶：貧也； destitute \+
+* 窶： destitute \+
   窶，音巨， \C k\_(u")6, \M j(u\)
 ====
 
