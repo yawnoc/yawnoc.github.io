@@ -231,6 +231,32 @@ Z{%
   <span class="alternative-marker">\1.</span>
 %}
 
+<## Phrase lang tag amalgamation ##>
+Z{%
+  <span[ ]lang="zh-Hant"> (?P<character_1> \S ) </span>
+  <a[ ]href=" (?P<href> [^"]+? ) ">
+    <span[ ]lang="zh-Hant">
+      (?P<character_2> \S )
+    </span>
+  </a>
+  <span[ ]lang="zh-Hant">：</span>
+%
+  <span lang="zh-Hant">\g<character_1><a href="\g<href>">\g<character_2></a>：</span>
+%}
+Z{%
+  <a[ ]href=" (?P<href> [^"]+? ) ">
+    <span[ ]lang="zh-Hant">
+      (?P<character_1> \S )
+    </span>
+  </a>
+  <span[ ]lang="zh-Hant">
+    (?P<character_2> \S )
+    ：
+  </span>
+%
+  <span lang="zh-Hant"><a href="\g<href>">\g<character_1></a>\g<character_2>：</span>
+%}
+
 
 
 ++++{start=0}
