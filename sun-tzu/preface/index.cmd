@@ -176,20 +176,25 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  采神祇之所在，極成敗之符驗； \+
-  窮道德之理，究性命之情。
+  采神祇之所在，極成敗之符驗；
 ||
   .[it] acquireth .[the] whereabouts of gods .[and] earth-spirits,
-  .[and] extremeth .[out the] corroboration of success .[and] failure; \+
-  .[it] exhausteth .[the] reasonings of morality,
-  .[and] scrutiniseth .[the] senses of life.
+  .[and] extremeth .[out the] corroboration of success .[and] failure;
 >>
 ====
 * 祇： earth-spirits \+
   祇，音岐， \C k'ei4, \M q(i/)
 
 * 符驗： corroboration; \lit talisman verification
+====
 
+<<
+  窮道德之理，究性命之情。
+||
+  .[it] exhausteth .[the] reasonings of morality,
+  .[and] scrutiniseth .[the] senses of life.
+>>
+====
 * 理： reasonings; \or principles
 
 * 情： senses; \lit sentiments
