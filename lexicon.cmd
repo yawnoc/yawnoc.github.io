@@ -1015,6 +1015,12 @@ See also: [幾何][幾]
 * move
 ====
 
+9 [務] U+52D9
+====
+* devoted unto
+* seek to
+====
+
 10 [勝] U+52DD
 [平聲] [but 去聲 in Mainlandia]
 ====
@@ -1454,7 +1460,7 @@ See also: [未嘗][未]
 3 [在] U+5728
 ====
 * be {exist}
-* in
+* in; into
 ====
 ====
 * [所]在： whereabouts
@@ -1797,6 +1803,7 @@ See also: [從容][從]
 8 [專] U+5C08
 ====
 * exclusive; sole
+* focus
 ====
 
 11 [對] U+5C0D
@@ -2292,6 +2299,11 @@ See also: [何得][何]
 * must; surely
 ====
 
+3 [志] U+5FD7
+====
+* will
+====
+
 3 [忘] U+5FD8
 ====
 * forget
@@ -2516,6 +2528,11 @@ See also: [掌握][握]
 ====
 * push; promote
 * deduce
+====
+
+9 [揆] U+63C6
+====
+* [:verb:] gauge
 ====
 
 9 [握] U+63E1
@@ -5228,6 +5245,17 @@ See also: [遠近][遠]
 ====
 * important
 * [:verb:] esteem
+====
+
+5 [量] U+91CF
+[平聲]
+====
+* measure {physically}
+====
+[去聲]
+====
+* measure; gauge {metaphorically}
+* amount; capacity
 ====
 
 11 [釐] U+91D0

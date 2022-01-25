@@ -313,14 +313,14 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 
 
 <<
-  夫欲學之者必務量能揆己，志在所專。
+  夫欲學之者，必務量能揆己，志在所專。
 ||
-  Those who wish to learn it must seek to
-  gauge .[one's] abilities .[and] measure oneself,
-  .[and put one's] will into that focused upon.
+  He that wisheth to learn it,
+  must seek to measure .[his] ability .[and] gauge himself,
+  .[and put] will into that focused upon.
 >>
 ====
-* 量： gauge; or measure \+
+* 量： measure; \or gauge \+
   量，去聲， \C l(oe)ng6, \M li(a\)ng \+
   量 is a funny word.
   When it is the verb "measure/gauge" applied to physical measurements
@@ -331,9 +331,6 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
     it is read in 去聲 (l(oe)ng6/li(a\)ng).
   And when it is the noun "amount",
     also 去聲 (l(oe)ng6/li(a\)ng).
-
-* 揆：度也； measure \+
-  揆，音葵， \C k'wai4, \M ku(i/)
 ====
 
 <<
