@@ -226,17 +226,19 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  立權衡，平重輕， \+
+  立權衡，平重輕，
+||
+  establisheth the scale .[and] the steelyard,
+  levelleth the heavy .[and] the light,
+>>
+
+<<
   剖毫釐，析黍絫。
 ||
-  establisheth the weighing scale,
-  balanceth heavy .[and] light \+
   disecteth mils .[and] cents,
   .[and] splitteth millets .[and] piles.
 >>
 ====
-* 重輕： heavy .[and] light; \or important .[and] unimportant
-
 * 毫釐： mils .[and] cents \+
   Small units of length (see [Vol.~I \P1] ["i 1"]),
   respectively a thousandth and a hundredth
