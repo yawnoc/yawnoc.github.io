@@ -2012,6 +2012,17 @@ See also: [從容][從]
 * G {7th heavenly stem}
 ====
 
+6 [度] U+5EA6
+[去聲]
+====
+* standard
+* tolerance
+====
+[入聲]
+====
+* measure
+====
+
 12 [廢] U+5EE2
 ====
 * abandon; abolish
@@ -4643,6 +4654,11 @@ See also: [平行][平]
 * speak
 * mean
 * call; \met be
+====
+
+11 [謹] U+8B39
+====
+* careful; \met stricten
 ====
 
 12 [識] U+8B58
