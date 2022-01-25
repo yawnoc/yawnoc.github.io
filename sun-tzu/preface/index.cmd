@@ -336,7 +336,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   如是則焉有不成者哉！
 ||
-  .[Among those] like this, how be there those who succeed not!
+  .[Among those] like this, how be there those that succeed not!
 >>
 
 ||||{.marker .end}
