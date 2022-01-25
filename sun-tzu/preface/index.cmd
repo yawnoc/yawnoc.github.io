@@ -235,16 +235,16 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   剖毫釐，析黍絫。
 ||
-  disecteth mils .[and] cents,
-  .[and] splitteth millets .[and] piles.
+  dissecteth .[the] mil .[and the] cent,
+  .[and] splitteth .[the] millet .[and the] pile.
 >>
 ====
-* 毫釐： mils .[and] cents \+
+* 毫釐： .[the] mil .[and the] cent \+
   Small units of length (see [Vol.~I \P1] ["i 1"]),
   respectively a thousandth and a hundredth
   of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
 
-* 黍絫： millets .[and] piles \+
+* 黍絫： .[the] millet .[and the] pile \+
   Small units of weight (see [Vol.~I \P2] ["i 2"]),
   respectively a hundredth and a tenth
   of the Chinese dram, ((chu | ~~銖~~))~(銖),
