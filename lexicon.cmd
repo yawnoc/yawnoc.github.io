@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-01-25
+  %date-modified 2022-01-26
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -745,6 +745,11 @@ See also: [幾何][幾]
 9 [側] U+5074
 ====
 * side
+====
+
+13 [億] U+5104
+====
+* square-myriad
 ====
 
 14 [儒] U+5112
@@ -2623,6 +2628,11 @@ See also: [所在][在]
 * upon; unto
 ====
 
+5 [施] U+65BD
+====
+* impart
+====
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⽆ (not) U+2F46
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -2834,6 +2844,11 @@ See also: [有餘][餘]
 * base
 ====
 
+2 [朽] U+673D
+====
+* decay
+====
+
 4 [東] U+6771
 ====
 * east(ward)
@@ -2975,6 +2990,11 @@ See also: [蒞止][蒞]
 ====
 * year; age
 * Jupiter
+====
+
+12 [歷] U+6B77
+====
+* endure
 ====
 
 14 [歸] U+6B78
@@ -3509,6 +3529,11 @@ See also: [後生][後]
 ====
 * appropriate
 * [:verb:] pawn
+====
+
+14 [疆] U+7586
+====
+* bound
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -4841,6 +4866,17 @@ See also: [平行][平]
 [入聲]
 ====
 * chariot-beam
+====
+
+6 [載] U+8F09
+[上聲]
+====
+* year
+* [:noun:] carry
+====
+[去聲]
+====
+* [:verb:] carry
 ====
 
 7 [輔] U+8F14

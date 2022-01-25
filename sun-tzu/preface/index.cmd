@@ -8,7 +8,7 @@
 %%
   %title "\sun-tzu's Computational Classic: Preface" 《孫子算經\.序》
   %date-created 2019-06-09
-  %date-modified 2022-01-25
+  %date-modified 2022-01-26
   \resources:rendering
   %description
     An annotated English translation of the Preface to Sunzi Suanjing, \
@@ -255,10 +255,10 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   歷億載而不朽，施八極而無疆。
 ||
   .[It] endureth .[an] hundred million years and decayeth not,
-  .[and is] applied unto .[the] Eight Extremities without bound.
+  .[and is] imparted unto .[the] Eight Extremities and .[is] without bound.
 >>
 ====
-* 億： .[an] hundred million; \lit .[a] square-myriad
+* 億： hundred million; \lit square-myriad
 
 * 八極： .[the] Eight Extremities \+
   Probably the four cardinal directions
