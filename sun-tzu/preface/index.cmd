@@ -269,16 +269,16 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   散之不可勝究，斂之不盈掌握。
 ||
-  Scattering it, .[it] cannot .[be] wholly investigated,
-  .[yet] gathering it, .[it is] not beyond grasp.
+  Scattering it, .[it] cannot .[be] wholly scrutinised,
+  .[yet] collecting it, .[it is] not beyond grasp.
 >>
 ====
-* 勝： wholly; \or completely \+
+* 勝： wholly \+
   勝，平聲， \C [^sh]ing1 (\pm [_s]ing1), \M sh(e-)ng (\gr sh(e\)ng)
 
-* 斂：聚也； gathering
+* 盈： beyond; \lit exceedeth
 
-* 盈：過曰盈； beyond; \lit in excess of
+* 掌握： grasp; \lit palm's grasp
 ====
 
 <<
