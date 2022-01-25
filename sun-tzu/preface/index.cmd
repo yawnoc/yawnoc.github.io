@@ -8,7 +8,7 @@
 %%
   %title "\sun-tzu's Computational Classic: Preface" 《孫子算經\.序》
   %date-created 2019-06-09
-  %date-modified 2022-01-24
+  %date-modified 2022-01-25
   \resources:rendering
   %description
     An annotated English translation of the Preface to Sunzi Suanjing, \
@@ -189,6 +189,10 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   祇，音岐， \C k'ei4, \M q(i/)
 
 * 符驗： corroboration; \lit talisman verification
+
+* 理： reasonings; \or principles
+
+* 情： senses; \lit sentiments
 ====
 
 <<
