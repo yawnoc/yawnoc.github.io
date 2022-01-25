@@ -201,17 +201,22 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  立規矩，準方圓， \+
-  謹法度，約尺丈，
+  立規矩，準方圓，
 ||
   .[It] establisheth the compass .[and] the steel-square,
-  standardiseth the square .[and] the circle, \+
+  standardiseth the square .[and] the circle,
+>>
+====
+* 規矩： the compass .[and] the steel-square; \or .[the] rules
+====
+
+<<
+  謹法度，約尺丈，
+||
   stricteneth .[the] law .[and the] standard,
   restraineth .[the] rule .[and the] rod,
 >>
 ====
-* 規矩： the compass .[and] the steel-square; \or .[the] rules
-
 * 謹： stricteneth; \lit careful
 
 * 尺丈： .[the] rule .[and the] rod \+
