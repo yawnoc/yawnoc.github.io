@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-01-24
+  %date-modified 2022-01-25
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -1372,6 +1372,11 @@ See also: [未嘗][未]
 8 [國] U+570B
 ====
 * nation; country; state
+====
+
+10 [圓] U+5713
+====
+* circle; round
 ====
 
 11 [圖] U+5716
@@ -3086,6 +3091,7 @@ See also: [蒞止][蒞]
 10 [準] U+6E96
 ====
 * even; level
+* standard
 ====
 
 14 [濕] U+6FD5
@@ -3617,6 +3623,14 @@ See also: [百萬][萬]
 ====
 * {\int [智]} wisdom
 ====
+
+5 [矩] U+77E9
+====
+* steel-square
+====
+----
+See also: [規矩][規]
+----
 
 7 [短] U+77ED
 ====
@@ -4443,6 +4457,14 @@ See also: [平行][平]
 [陽去]
 ====
 * {\var [現]}
+====
+
+4 [規] U+898F
+====
+* compass {geometry}
+====
+====
+* 規[矩]： rules
 ====
 
 5 [視] U+8996

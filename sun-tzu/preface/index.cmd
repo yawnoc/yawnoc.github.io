@@ -204,13 +204,13 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   立規矩，準方圓， \+
   謹法度，約尺丈，
 ||
-  .[It] establisheth .[the] rules,
+  .[It] establisheth the compass .[and] the steel-square,
   standardiseth the square .[and] the circle, \+
   abideth by .[the] law,
   agreeth upon .[the] rule .[and the] rod,
 >>
 ====
-* 規矩： .[the] rules; \lit the compass .[and] the set square
+* 規矩： the compass .[and] the steel-square; \or .[the] rules
 
 * 尺丈： .[the] rule .[and the] rod \+
   Units of length, see [Vol.~I \P1] ["i 1"].
