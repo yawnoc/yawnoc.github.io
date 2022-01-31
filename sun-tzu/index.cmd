@@ -8,7 +8,7 @@
 %%
   %title "\sun-tzu's Computational Classic" 《孫子算經》
   %date-created 2019-05-04
-  %date-modified 2020-05-13
+  %date-modified 2022-02-01
   \resources:rendering
   %description
     An annotated English translation of Sunzi Suanjing, \
@@ -121,8 +121,8 @@ and I probably never will because it is behind a paywall.
 ----
 As of 23 November 2019,
 I have finished a [manuscript] for the entire translation,
-but it will probably take until the end of~2020
-to revise and type up all of it up in web (HTML) format.
+but it will probably take until the end of~<s>2020</s> 2022
+to heavily revise and type up all of it up in web (HTML) format.
 ----
 
 @@[manuscript]
