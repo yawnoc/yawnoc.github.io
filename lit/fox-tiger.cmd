@@ -8,7 +8,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2022-01-31
+  %date-modified 2022-02-01
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -128,7 +128,7 @@ but with olden-style punctuation:
 ====
 * 子： thou; \lit master
 * 長： be leader over \+
-  長，上聲， \C ch(oe)ng2, \M zh(av)ng
+  長、上聲、 \C ch(oe)ng2, \M zh(av)ng
 * 逆： defy; \or go against
 ====
 
