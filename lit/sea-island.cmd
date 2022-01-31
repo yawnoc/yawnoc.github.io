@@ -11,7 +11,7 @@
   %title "[The] Sea Island Computational Classic" 《海島算經》
   %title-en ".[The] Sea Island Computational Classic"
   %date-created 2019-04-20
-  %date-modified 2022-01-09
+  %date-modified 2022-02-01
   \resources:maths
   %description
     An annotated English translation of the first problem in Haidao Suanjing, \
@@ -210,8 +210,8 @@ $$
 ||||
 
 <<
-  今有望[b/海島/]，立[r/兩表/]，[r/齊高三丈/]，\
-  前後[g/相去千步/]，令後表與前表參相直。
+  今有望[b/海島/]、立[r/兩表/]、[r/齊高三丈/]、\
+  前後[g/相去千步/]、令後表與前表參相直。
 ||
   Suppose there be .[a] looking at .[a] [b/ sea island /];
   erect [r/ two posts /], [r/ .[of] equal height three rods /],
@@ -274,7 +274,7 @@ $$
 ||||
 
 <<
-  從前表[b/卻行一百二十三步/]，人目著地[r/取望島峯/]，與表末參合。
+  從前表[b/卻行一百二十三步/]、人目著地[r/取望島峯/]、與表末參合。
 ||
   [b/ Walking backward one hundred .[and] twenty-three paces /]
   from .[the] front post,
@@ -326,7 +326,7 @@ $$
 ||||
 
 <<
-  從後表[b/卻行一百二十七步/]，人目着地[r/取望島峯/]，亦與表末參合。
+  從後表[b/卻行一百二十七步/]、人目着地[r/取望島峯/]、亦與表末參合。
 ||
   [b/ Walking backward one hundred .[and] twenty-seven paces /]
   from .[the] rear post,
@@ -373,14 +373,14 @@ $$
 ||||
 
 <<
-  問[b/島高/]及[r/去表/]各幾何？
+  問[b/島高/]及[r/去表/]各幾何。
 ||
   .[We] ask, how much each .[be the] [b/ island's height /]
   and .[the] [r/ separation from .[the] post /]?
 >>
 
 <<
-  答曰：島高[b/四里五十五步/]；去表[r/一百二里一百五十步/]。
+  答曰、島高[b/四里五十五步/]、去表[r/一百二里一百五十步/]。
 ||
   Answer saith: .[the] island's height .[be]
   [b/ four miles .[and] fifty-five paces /],
@@ -410,7 +410,7 @@ $$
 ======
 
 <<
-  術曰：以表高乘表間爲實；相多爲法，除之。所得加表高，即得島高。
+  術曰、以表高乘表間爲實、相多爲法、除之。所得加表高、即得島高。
 ||
   Method saith:
   use .[the] posts' height times .[the] posts' separation as .[the] dividend,
@@ -421,7 +421,7 @@ $$
 >>
 ====
 * 間： separation \+
-  間，去聲， \C kaan3, \M ji(a\)n
+  間、去聲、 \C kaan3, \M ji(a\)n
 
 * 相多： mutual excess; \or difference \+
   It is not immediately obvious, but "mutual excess" refers to
@@ -461,7 +461,7 @@ $$
 ====
 
 <<
-  求前表去島遠近者：以前表卻行乘表間爲實；相多爲法。除之，得島去表里數。
+  求前表去島遠近者、以前表卻行乘表間爲實、相多爲法、除之、得島去表里數。
 ||
   .[To] seek .[the] distance
   .[that the] front post .[is] separated from .[the] island:
@@ -720,7 +720,7 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  說曰：[b/甲乙爲海島/]，[r/甲爲島峯/]。
+  說曰、[b/甲乙爲海島/]、[r/甲爲島峯/]。
 ||
   Explanation saith:
   [b/ $AB$ is .[the] sea island /];
@@ -778,8 +778,8 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  [b/丙丁爲前表/]，[r/戊丁爲前去表/]，\
-  [g/戊爲人目/]，[v/戊丙甲爲前表望島峯/]。
+  [b/丙丁爲前表/]、[r/戊丁爲前去表/]、\
+  [g/戊爲人目/]、[v/戊丙甲爲前表望島峯/]。
 ||
   [b/$CD$ is .[the] front post/];
   [r/$ED$ is .[the] front .[walk's] separation from .[the] post/];
@@ -857,8 +857,8 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  [b/己庚爲後表/]，[r/辛庚爲後去表/]，\
-  [g/辛爲人目/]，[v/辛己甲爲後表望島峯/]。
+  [b/己庚爲後表/]、[r/辛庚爲後去表/]、\
+  [g/辛爲人目/]、[v/辛己甲爲後表望島峯/]。
 ||
   [b/$FG$ is .[the] rear post/];
   [r/$HG$ is .[the] rear .[walk's] separation from .[the] post/];
@@ -942,7 +942,7 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  與[b/庚戊丁乙/]平行[r/作己丙辰/]，則[g/辰乙與丙丁、己庚俱等/]。
+  與[b/庚戊丁乙/]平行[r/作己丙辰/]、則[g/辰乙與丙丁己庚俱等/]。
 ||
   [r/Constructing $FCO$/] parallel with [b/$GEDB$/],
   [g/$OB$ .[is] equal with both $CD$ .[and] $FG$/].
@@ -1034,7 +1034,7 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  與[b/丙戊/]平行[r/作己壬/]，則[g/壬庚與戊丁等/]。
+  與[b/丙戊/]平行[r/作己壬/]、則[g/壬庚與戊丁等/]。
 ||
   [r/Constructing $FI$/] parallel with [b/$CE$/],
   [g/$IG$ .[is] equal with $ED$/].
@@ -1120,7 +1120,7 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  [b/己庚辛形/]，與[r/甲辰己形/]同式。
+  [b/己庚辛形/]、與[r/甲辰己形/]同式。
 ||
   [b/.[The] shape $FGH$/], .[is] similar with
   [r/.[the] shape $AOF$/].
@@ -1212,7 +1212,7 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  [b/己庚壬形/]，與[r/甲辰丙形/]同式。
+  [b/己庚壬形/]、與[r/甲辰丙形/]同式。
 ||
   [b/.[The] shape $FGI$/], .[is] similar with
   [r/.[the] shape $AOC$/].
@@ -1297,7 +1297,7 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  己庚辛形，分[b/己庚壬形，同己庚句/]，而[r/辛壬爲股較/]。
+  己庚辛形、分[b/己庚壬形、同己庚句/]、而[r/辛壬爲股較/]。
 ||
   .[The] shape $FGH$, .[is] separated into [b/.[the] shape $FGI$,
   .[of] same minor-cathetus $FG$/],
@@ -1316,7 +1316,7 @@ The punctuation inserted in this section is my own.
   and the relevant vertical segments as minor-catheti~(句).
 
 * 較： chariot-beam \+
-  較，入聲，音覺， \C kok8, \M ji(a\)o \+
+  較、入聲、音覺、 \C kok8, \M ji(a\)o \+
   If I understand [the entry in 《康熙字典》][較] correctly,
   較 are horizontal beams of a chariot which stick out like horns,
   above 輢 (the wooden vertical side boards)
@@ -1410,7 +1410,7 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  甲辰己形，分[b/甲辰丙形，同甲辰句/]，而[r/己丙爲股較/]。
+  甲辰己形、分[b/甲辰丙形、同甲辰句/]、而[r/己丙爲股較/]。
 ||
   .[The] shape $AOF$, .[is] separated into [b/.[the] shape $AOC$,
   .[of] same minor-cathetus $AO$/],
@@ -1498,7 +1498,7 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  以[b/小股較辛壬/]比[r/小句己庚/]，\
+  以[b/小股較辛壬/]比[r/小句己庚/]、\
   若[g/大股較己丙/]比[v/大句甲辰/]。
 ||
   Using [b/.[the] small major-cathetus chariot-beam $HI$/]
@@ -1596,7 +1596,7 @@ The punctuation inserted in this section is my own.
 
 ||||
 <<
-  既得[v/甲辰/]，加[r/表高辰乙/]（即[r/丙丁/]），得甲乙，爲島高。
+  既得[v/甲辰/]、加[r/表高辰乙/]（即[r/丙丁/]）、得甲乙、爲島高。
 ||
   Having obtained [v/$AO$/],
   add [r/.[the] post height $OB$/] (which is [r/$CD$/]),
@@ -1719,8 +1719,8 @@ The punctuation inserted in this section is my own.
 ||||
 
 <<
-  [b/小股較辛壬/]比[r/分股壬庚/]，\
-  若[g/大股較己丙/]比[v/分股丙辰/]（即[v/丁乙/]），\
+  [b/小股較辛壬/]比[r/分股壬庚/]、\
+  若[g/大股較己丙/]比[v/分股丙辰/]（即[v/丁乙/]）、\
   得[v/島去前表之遠/]。
 ||
   [b/.[The] small major-cathetus chariot-beam $HI$/] compared unto
