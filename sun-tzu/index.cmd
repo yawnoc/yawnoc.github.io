@@ -146,7 +146,8 @@ with slight differences in wording between them:
 ====
 ----
 **Unless noted otherwise, I follow the text from [Version~D][d].**
-The punctuation is based on [Version~C][c], but with changes to my liking.
+The punctuation is olden-style 句讀
+based on the modern punctuation in [Version~C][c].
 ----
 
 @@[a]

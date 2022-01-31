@@ -8,7 +8,7 @@
 %%
   %title "\sun-tzu's Computational Classic: Preface" 《孫子算經\.序》
   %date-created 2019-06-09
-  %date-modified 2022-01-26
+  %date-modified 2022-02-01
   \resources:rendering
   %description
     An annotated English translation of the Preface to Sunzi Suanjing, \
@@ -66,13 +66,13 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 
 
 <<
-  孫子曰：夫算者，
+  孫子曰、夫算者、
 ||
   \sun-tzu saith: Computation,
 >>
 
 <<
-  天地之經緯，群生之元首；
+  天地之經緯、群生之元首、
 ||
   .[the] warp .[and] woof of Heaven .[and] Earth,
   .[and the] origin .[and] beginning of amassed life;
@@ -87,7 +87,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  五常之本末，陰陽之父母；
+  五常之本末、陰陽之父母、
 ||
   .[the] base .[and] tip of .[the] Five Constants,
   .[and the] father .[and] mother of Yin .[and] Yang;
@@ -99,7 +99,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  星辰之建號，三光之表裏；
+  星辰之建號、三光之表裏、
 ||
   .[the] establishment .[and] designation of
   .[the] stars .[and] asters,
@@ -115,7 +115,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  五行之準平，四時之終始；
+  五行之準平、四時之終始、
 ||
   .[the] evenness .[and] levelness of .[the] Five Elements,
   .[and the] finishing .[and] starting of .[the] Four Seasons;
@@ -128,7 +128,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  萬物之祖宗，六藝之綱紀。
+  萬物之祖宗、六藝之綱紀。
 ||
   .[the] forebear .[and] ancestor of .[the] myriad things,
   .[and the] principle .[and the] law of .[the] Six Arts.
@@ -141,7 +141,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  稽群倫之聚散，考二氣之降升；
+  稽群倫之聚散、考二氣之降升、
 ||
   .[It] examineth .[the] gathering .[and] scattering of .[the] amassed kinds,
   .[and] inspecteth .[the] falling .[and] rising of .[the] Two Forces;
@@ -152,7 +152,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  推寒暑之迭運，步遠近之殊同；
+  推寒暑之迭運、步遠近之殊同、
 ||
   .[it] deduceth .[the] alternating .[and] revolving of winter .[and] summer,
   .[and] paceth .[the] disparity .[and] sameness of far .[and] near;
@@ -162,7 +162,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  觀天道精微之兆基，察地理從橫之長短；
+  觀天道精微之兆基、察地理從橫之長短、
 ||
   .[it] observeth .[the] omens .[and] foundations of
     the fine .[and] the minute of Physics,
@@ -176,20 +176,20 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  采神祇之所在，極成敗之符驗；
+  采神祇之所在、極成敗之符驗、
 ||
   .[it] acquireth .[the] whereabouts of gods .[and] earth-spirits,
   .[and] extremeth .[out the] corroboration of success .[and] failure;
 >>
 ====
 * 祇： earth-spirits \+
-  祇，音岐， \C k'ei4, \M q(i/)
+  祇、音岐、 \C k'ei4, \M q(i/)
 
 * 符驗： corroboration; \lit talisman verification
 ====
 
 <<
-  窮道德之理，究性命之情。
+  窮道德之理、究性命之情。
 ||
   .[it] exhausteth .[the] reasonings of morality,
   .[and] scrutiniseth .[the] senses of life.
@@ -201,7 +201,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  立規矩，準方圓，
+  立規矩、準方圓、
 ||
   .[It] establisheth the compass .[and] the steel-square,
   standardiseth the square .[and] the circle,
@@ -211,7 +211,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  謹法度，約尺丈，
+  謹法度、約尺丈、
 ||
   stricteneth .[the] law .[and the] standard,
   restraineth .[the] rule .[and the] rod,
@@ -226,14 +226,14 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  立權衡，平重輕，
+  立權衡、平重輕、
 ||
   establisheth the scale .[and] the steelyard,
   levelleth the heavy .[and] the light,
 >>
 
 <<
-  剖毫釐，析黍絫。
+  剖毫釐、析黍絫。
 ||
   dissecteth .[the] mil .[and the] cent,
   .[and] splitteth .[the] millet .[and the] pile.
@@ -252,7 +252,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  歷億載而不朽，施八極而無疆。
+  歷億載而不朽、施八極而無疆。
 ||
   .[It] endureth .[an] hundred million years and decayeth not,
   .[and is] imparted unto .[the] Eight Extremities and .[is] without bound.
@@ -267,14 +267,14 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  散之不可勝究，斂之不盈掌握。
+  散之不可勝究、斂之不盈掌握。
 ||
   Scattering it, .[it] cannot .[be] wholly scrutinised,
   .[yet] collecting it, .[it is] not beyond grasp.
 >>
 ====
 * 勝： wholly \+
-  勝，平聲， \C [^sh]ing1 (\pm [_s]ing1), \M sh(e-)ng (\gr sh(e\)ng)
+  勝、平聲、 \C [^sh]ing1 (\pm [_s]ing1), \M sh(e-)ng (\gr sh(e\)ng)
 
 * 盈： beyond; \lit exceedeth
 
@@ -282,18 +282,18 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  嚮之者富有餘，背之者貧且窶；
+  嚮之者富有餘、背之者貧且窶。
 ||
   He that faceth it .[shall be] wealthy in excess,
   .[but] he that turneth .[his] back to it .[shall be] poor and destitute;
 >>
 ====
 * 窶： destitute \+
-  窶，音巨， \C k\_(u")6, \M j(u\)
+  窶、音巨、 \C k\_(u")6, \M j(u\)
 ====
 
 <<
-  心開者幼沖而即悟，意閉者皓首而難精。
+  心開者幼沖而即悟、意閉者皓首而難精。
 ||
   the open-minded one,
     .[even a] young child,
@@ -304,7 +304,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 >>
 ====
 * 皓： white \+
-  皓，音號， \C hou6, \M h(a\)o
+  皓、音號、 \C hou6, \M h(a\)o
 
 * 難： cannot; \lit difficult
 
@@ -313,7 +313,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 
 
 <<
-  夫欲學之者，必務量能揆己，志在所專。
+  夫欲學之者、必務量能揆己、志在所專。
 ||
   He that wisheth to learn it,
   must seek to measure .[his] ability .[and] gauge himself,
@@ -321,7 +321,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 >>
 ====
 * 量： measure; \or gauge \+
-  量，去聲， \C l(oe)ng6, \M li(a\)ng \+
+  量、去聲、 \C l(oe)ng6, \M li(a\)ng \+
   量 is a funny word.
   When it is the verb "measure/gauge" applied to physical measurements
     (e.g.~volume of grain),
@@ -334,7 +334,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  如是則焉有不成者哉！
+  如是則焉有不成者哉。
 ||
   .[Among those] like this, how be there those that succeed not!
 >>
