@@ -8,7 +8,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2022-01-24
+  %date-modified 2022-01-31
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -59,15 +59,6 @@ See also:
   Translation
 ##
 
-----
-The Chinese source text is from Chinese Text Project:
-[先秦兩漢 \> 史書 \> 戰國策 \> 楚策 \> 楚一 \> 荊宣王問群臣][source].
-----
-
-@@[source]
-  https://ctext.org/zhan-guo-ce/jing-xuan-wang-wen-qun-chen
-@@
-
 <<
   《狐假虎威》
 ||
@@ -77,8 +68,18 @@ The Chinese source text is from Chinese Text Project:
 * 威： authority; \lit might
 ====
 
+----
+The Chinese source text below is from Chinese Text Project,
+but with olden-style punctuation:
+[先秦兩漢 \> 史書 \> 戰國策 \> 楚策 \> 楚一 \> 荊宣王問群臣][source].
+----
+
+@@[source]
+  https://ctext.org/zhan-guo-ce/jing-xuan-wang-wen-qun-chen
+@@
+
 <<
-  荊宣王問群臣曰：吾聞北方之畏昭奚恤也，果誠何如？
+  荊宣王問群臣曰、吾聞北方之畏昭奚恤也、果誠何如。
 ||
   King~((S(u")an | ~~宣~~)) of~((King | ~~荊~~))
   asked .[his] group of ministers, saying,
@@ -100,7 +101,7 @@ The Chinese source text is from Chinese Text Project:
 >>
 
 <<
-  江一對曰：虎求百獸而食之，得狐。
+  江一對曰、虎求百獸而食之、得狐、
 ||
   .[But] ((Kiang I | ~~江一~~)) replied, saying,
     .[A] tiger sought .[the] many beasts .[to] then eat them,
@@ -116,7 +117,7 @@ The Chinese source text is from Chinese Text Project:
 ====
 
 <<
-  狐曰：子無敢食我也。天帝使我長百獸，今子食我，是逆天帝命也。
+  狐曰、子無敢食我也、天帝使我長百獸、今子食我、是逆天帝命也。
 ||
   .[The] fox said,
     Thou darest not eat me.
@@ -132,7 +133,7 @@ The Chinese source text is from Chinese Text Project:
 ====
 
 <<
-  子以我為不信，吾為子先行，子隨我後，觀百獸之見我而敢不走乎？
+  子以我為不信、吾為子先行、子隨我後、觀百獸之見我而敢不走乎。
 ||
   .[Shouldst] thou think me untrustworthy,
   .[let] me walk first for thee,
@@ -142,20 +143,21 @@ The Chinese source text is from Chinese Text Project:
 >>
 
 <<
-  虎以為然，故遂與之行。獸見之皆走。
+  虎以為然、故遂與之行、獸見之皆走。
 ||
   .[The] tiger thought so, therefore .[he] then walked with him.
   .[The] beasts seeing him all ran.
 >>
 
 <<
-  虎不知獸畏己而走也，以為畏狐也。
+  虎不知獸畏己而走也、以為畏狐也。
 ||
   .[The] tiger knew not .[that the] beasts feared himself and ran,
   .[but] thought .[that they] feared .[the] fox.
 >>
+
 <<
-  今王之地方五千里，帶甲百萬，而專屬之昭奚恤；
+  今王之地方五千里、帶甲百萬、而專屬之昭奚恤、
 ||
   Today King's territory .[spanneth a] circumference of five thousand miles,
   .[with] armour-donning .[soldiers a] million,
@@ -174,7 +176,7 @@ The Chinese source text is from Chinese Text Project:
 ====
 
 <<
-  故北方之畏奚恤也，其實畏王之甲兵也，猶百獸之畏虎也。
+  故北方之畏奚恤也、其實畏王之甲兵也、猶百獸之畏虎也。
 ||
   Therefore .[the] North's fear of ((Hi-s(u") | ~~奚恤~~)),
   it .[is] actually fear of King's armoured troops,
