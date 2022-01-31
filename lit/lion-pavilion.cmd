@@ -9,7 +9,7 @@
     "Record of [the] Lion's Pavilion, Victoria Peak" 《太平山獅子亭記》
   %title-en "Record of .[the] Lion's Pavilion, Victoria~Peak"
   %date-created 2019-04-07
-  %date-modified 2022-01-23
+  %date-modified 2022-02-01
   \resources:rendering
   %description
     An English translation of 《太平山獅子亭記》, \
@@ -75,7 +75,7 @@ __High-resolution version:__ [`lion-pavilion.jpg`~(1.6~MB)](
 ##
 
 ----
-The inserted punctuation is my own.
+The inserted olden-style punctuation is my own.
 ----
 
 <<
@@ -85,8 +85,8 @@ The inserted punctuation is my own.
 >>
 
 <<
-  太平山，古稱鼇峰，南臨大海，北與九龍諸山遥遥相望，\
-  岡巒連綿，林木蔚茂，風景絶美。
+  太平山、古稱鼇峰、南臨大海、北與九龍諸山遥遥相望、\
+  岡巒連綿、林木蔚茂、風景絶美。
 ||
   Victoria Peak, .[in] antiquity referred to
   .[as the] Peak of the Great Sea-Turtle,
@@ -98,11 +98,11 @@ The inserted punctuation is my own.
   .[and its] scenic views absolutely beautiful.
 >>
 ====
-* 太平山： Victoria Peak； \lit Mount~Tranquility; \or Mount~Peace
+* 太平山： Victoria Peak; \lit Mount~Tranquility; \or Mount~Peace
 ====
 
 <<
-  我獅子會，建亭於芬尼徑側，為主亭一，前亭五，如北辰居中，而五星拱之。
+  我獅子會、建亭於芬尼徑側、為主亭一、前亭五、如北辰居中、而五星拱之。
 ||
   We .[the] Lions Club, built .[the] Pavilion
   to .[the] side of Findlay~Path,
@@ -117,10 +117,10 @@ The inserted punctuation is my own.
   金木水火土, i.e.~Venus, Jupiter, Mercury, Mars, and Saturn.
 
 * 拱： going round \+
-  The line 如北辰居中，而五星拱之 is a nod to Confucius
+  The line 如北辰居中、而五星拱之 is a nod to Confucius
   in [《論語\.為政》](https://ctext.org/analects/wei-zheng):
   <<
-    子曰：為政以德，譬如北辰，居其所而眾星共之。
+    子曰、為政以德、譬如北辰、居其所而眾星共之。
   ||
     .[The] Master saith,
     .[He that] governeth with virtue,
@@ -131,7 +131,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  丹楹畫檻，通以月門，悉依古制。
+  丹楹畫檻、通以月門、悉依古制。
 ||
   .[With] red-.[painted] columns .[and] drawing-.[decorated] balustrades,
   through to .[the] Moon Gate,
@@ -142,7 +142,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  春秋佳日，中西人士聨翩蒞止，登斯亭也。
+  春秋佳日、中西人士聨翩蒞止、登斯亭也。
 ||
   .[On a] goodly spring .[or] autumn day,
   .[both] Chinese .[and] Western people
@@ -154,7 +154,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  可俯瞰維多利亞海港南北两岸，其間朝暉夕陰，晴光雨色，千變萬化，殆如畫圖。
+  可俯瞰維多利亞海港南北两岸、其間朝暉夕陰、晴光雨色、千變萬化、殆如畫圖。
 ||
   .[They] can look down .[and] overlook .[the] two banks,
   southern .[and] northern, of Victoria~Harbour:
@@ -168,7 +168,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  山中復有竒花異草可以觀賞，幽泉怪石可以遊遨。
+  山中復有竒花異草可以觀賞、幽泉怪石可以遊遨。
 ||
   Amidst .[the] mount there are also odd flowers .[and] strange grasses
   .[they] can see .[and] appreciate,
@@ -182,7 +182,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  而遠近松風，又如笙竽合奏，耳目所接，無一而不足快。亦遊息之佳所也。
+  而遠近松風、又如笙竽合奏、耳目所接、無一而不足快、亦遊息之佳所也。
 ||
   And .[the] far .[and] nearby pine-tree wind,
   .[is] also as the ((sh(e^)ng | ~~笙~~)) .[and] the ((y(u") | ~~竽~~))
@@ -207,14 +207,14 @@ The inserted punctuation is my own.
 @@
 
 <<
-  亭之建，倡自一九七三年。
+  亭之建、倡自一九七三年。
 ||
   .[The] construction of .[the] Pavilion,
   .[was] advocated for since .[the] year 1973.
 >>
 
 <<
-  洪磋景、福伯齡，先後任會長，與諸君子規畫其事，蒙當局撥地興工。
+  洪磋景、福伯齡、先後任會長、與諸君子規畫其事、蒙當局撥地興工。
 ||
   ((Hung Tsor-king | ~~洪磋景~~)), .[and] ((Fook Pak-ling | ~~福伯齡~~)),
   served as Club Chairman .[one] after .[the] other,
@@ -227,7 +227,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  而形制則前會長百强則師，任之不受酬。其建築布置諸費，凡共五十萬元。
+  而形制則前會長百强則師、任之不受酬。其建築布置諸費、凡共五十萬元。
 ||
   And .[of designing the] form .[and] structure,
   .[the] former Club Chairman ((Pak-keung | ~~百强~~)) .[the] architect
@@ -260,7 +260,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  以一九七六年九月落成，是月三日，由市政局沙利士主席行接收禮。
+  以一九七六年九月落成、是月三日、由市政局沙利士主席行接收禮。
 ||
   In September of .[the] year 1976 .[was it] completed,
   .[and on the] 3rd day of this month,
@@ -275,7 +275,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  吾聞獅子得金精之剛，聲吼如雷，天地皆動。
+  吾聞獅子得金精之剛、聲吼如雷、天地皆動。
 ||
   I hear .[that] the lion getteth
   .[the] strength of .[the] essence of metal,
@@ -287,7 +287,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  今兹之舉，賴諸君子如響斯應，相輔相成，其力不啻雄獅。
+  今兹之舉、賴諸君子如響斯應、相輔相成、其力不啻雄獅。
 ||
   .[This] deed here .[and] now,
   dependeth upon all .[the] gentlemen
@@ -300,7 +300,7 @@ The inserted punctuation is my own.
 ====
 
 <<
-  尤望來遊者，亦步健神旺，顧盼自如，而與獅子同也。
+  尤望來遊者、亦步健神旺、顧盼自如、而與獅子同也。
 ||
   .[I] especially hope .[that] the traveller .[which] cometh,
   also .[be] robust .[in] step .[and] vigorous .[in] spirit,
@@ -313,14 +313,14 @@ The inserted punctuation is my own.
 ====
 
 <<
-  爰書，是以記之。
+  爰書、是以記之。
 ||
   .[A] prisoner's writing: this to record it.
 >>
 ====
 * 爰書： .[a] prisoner's writing; \lit changed writing \+
   An affidavit given by a prisoner, the term supposedly
-  derived from the text of the affidavit being changed: 爰，易也，換也。
+  derived from the text of the affidavit being changed: 爰、易也、換也。
   Here the author of the plaque text closes \
   by self-deprecating his own work.
 ====
