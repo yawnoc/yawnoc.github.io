@@ -6,15 +6,15 @@
 
 %%
   %title
-    "Q [\&] A [with] Confucius: [the] Little Child's Discourse" \
-    《孔子問答：小兒論》
-  %title-en "Q~.[\&]~A .[with] Confucius: .[the] Little Child's Discourse"
+    "Q [\&] A [with] Confucius" / "[The] Little Child's Discourse" \
+    《孔子問答》/《小兒論》
+  %title-en "Q~.[\&]~A .[with] Confucius" / ".[The] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2022-01-24
+  %date-modified 2022-02-01
   \resources:rendering
   %description
-    An English translation of 《孔子問答：小兒論》, \
-    "Q [\&] A [with] Confucius: [the] Little Child's Discourse". \
+    An English translation of 《孔子問答》/《小兒論》, \
+    "Q [\&] A [with] Confucius" / "[The] Little Child's Discourse". \
     Basically Confucius getting his arse whooped by a little kid.
   %css a~~
     .danger {
@@ -31,7 +31,7 @@
 ====]]
 
 #
-  《孔子問答：小兒論》 \+
+  《孔子問答》/《小兒論》 \+
   %title-en
 #
 
@@ -82,10 +82,9 @@ see [the actual first page of the almanac text][almanac text].
 ##
 
 <<
-  《孔子問答：小兒論》
+  《小兒論》
 ||
-  "Q~.[\&]~A .[with] Confucius:
-  .[the] Little Child's Discourse"
+  .[The] Little Child's Discourse"
 >>
 ====
 * 小： little; \or small
@@ -887,7 +886,7 @@ see [the actual first page of the almanac text][almanac text].
 
 
 \cite-this-page[
-  ~~ "Q [&] A [with] Confucius: [the] Little Child's Discourse" ~~
+  ~~ "Q [&] A [with] Confucius" / "[The] Little Child's Discourse" ~~
 ]
 
 %footer-element

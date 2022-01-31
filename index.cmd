@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2021-12-23
+  %date-modified 2022-02-01
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -207,8 +207,8 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
   ||||
 
 * [
-    《孔子問答：小兒論》 \+
-    "Q .[\&] A .[with] Confucius: .[the] Little Child's Discourse"
+    《孔子問答》/《小兒論》 \+
+    "Q .[\&] A .[with] Confucius" / ".[The] Little Child's Discourse"
   ](/lit/little-child)
   ||||{.page-description}
     Confucius getting his arse whooped by a little kid.
