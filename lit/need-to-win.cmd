@@ -7,7 +7,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2022-01-24
+  %date-modified 2022-02-01
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -121,7 +121,8 @@ Just reading '''The~Turning''' though, you wouldn't have any clue of this.
 ##
 
 ----
-The Chinese source text is from Chinese Text Project:
+The Chinese source text is from Chinese Text Project,
+but with olden-style punctuation:
 [先秦兩漢 \> 道家 \> 莊子 \> 外篇 \> 達生][source].
 ----
 
@@ -131,7 +132,7 @@ The Chinese source text is from Chinese Text Project:
 
 
 <<
-  顏淵問仲尼曰：吾嘗濟乎觴深之淵，津人操舟若神。
+  顏淵問仲尼曰、吾嘗濟乎觴深之淵、津人操舟若神。
 ||
   ((Yen Y(u")an | ~~顏淵~~)) asked ((Chung-ni | ~~仲尼~~)), saying,
   I once crossed .[the] deep waters of ((Shang-sh(e^)n | ~~觴深~~)),
@@ -153,13 +154,13 @@ The Chinese source text is from Chinese Text Project:
 ====
 
 <<
-  吾問焉，曰：操舟可學邪？
+  吾問焉、曰、操舟可學邪。
 ||
   I asked them, saying, Can handling of boats .[be] learnt?
 >>
 
 <<
-  曰：可。善游者數能。若乃夫沒人，則未嘗見舟而便操之也。
+  曰、可。善游者數能。若乃夫沒人、則未嘗見舟而便操之也。
 ||
   .[And they] said,
   .[It] can. Those good at swimming .[upon] repetition .[are] able.
@@ -168,20 +169,20 @@ The Chinese source text is from Chinese Text Project:
 >>
 ====
 * 數： repetition \+
-  數，入聲， \C [^sh]ok8 (\pm [_s]ok8) \M shu(o\)
+  數、入聲、 \C [^sh]ok8 (\pm [_s]ok8) \M shu(o\)
 
 * 沒人： diver; literally submerging man
 ====
 
 <<
-  吾問焉而不吾告，敢問何謂也？
+  吾問焉而不吾告、敢問何謂也。
 ||
   I asked them, but me informed .[they] not;
   .[I] dare ask, what meant .[they]?
 >>
 
 <<
-  仲尼曰：善游者數能，忘水也。
+  仲尼曰、善游者數能、忘水也。
 ||
   ((Chung-ni | ~~仲尼~~)) said,
   .[Of] those good at swimming .[upon] repetition .[being] able:
@@ -189,7 +190,7 @@ The Chinese source text is from Chinese Text Project:
 >>
 
 <<
-  若乃夫沒人之未嘗見舟而便操之也，彼視淵若陵，視舟之覆猶其車卻也。
+  若乃夫沒人之未嘗見舟而便操之也、彼視淵若陵、視舟之覆猶其車卻也、
 ||
   .[Of], if .[it] be .[a] diver,
   .[having] not ever seen boats and promptly handling them:
@@ -198,7 +199,7 @@ The Chinese source text is from Chinese Text Project:
 >>
 
 <<
-  覆卻萬方陳乎前而不得入其舍，惡往而不暇！
+  覆卻萬方陳乎前而不得入其舍、惡往而不暇。
 ||
   Overturning .[and] receding .[in a] myriad ways
   .[have been] shewn before .[him]
@@ -207,7 +208,7 @@ The Chinese source text is from Chinese Text Project:
 >>
 ====
 * 方： ways \+
-  From the [annotation of ((S(u")an Ying | ~~宣穎~~))][方]: 方，猶端.
+  From the [annotation of ((S(u")an Ying | ~~宣穎~~))][方]: 方、猶端.
   
   @@[方]
     https://ctext.org/library.pl?if=en&file=28357&page=22#box(656,532,59,39)
@@ -216,13 +217,13 @@ The Chinese source text is from Chinese Text Project:
 * 舍： mind; \lit abode \+
 
 * 惡： how \+
-  惡，平聲， \C woo1, \M w(u-)
+  惡、平聲、 \C woo1, \M w(u-)
 
 * 暇： carefree; \lit leisurely
 ====
 
 <<
-  以瓦注者巧，以鉤注者憚，以黃金注者殙。
+  以瓦注者巧、以鉤注者憚、以黃金注者殙。
 ||
   He that shooteth .[wagering] with earthenware .[is] skillful;
   he that shooteth .[wagering] with .[a] buckle, fearful;
@@ -287,7 +288,7 @@ The Chinese source text is from Chinese Text Project:
   and 疏, subcommentary, or annotations of the annotations.
   And now, annotations of annotations of annotations...
   ====
-  * 疏，去聲， \C [^sh]or3 (\pm [_s]or3) \M sh(u\) (\gr sh(u-))
+  * 疏、去聲、 \C [^sh]or3 (\pm [_s]or3) \M sh(u\) (\gr sh(u-))
   ====
   
 * 黃金： gold; \lit yellow gold
@@ -295,7 +296,7 @@ The Chinese source text is from Chinese Text Project:
 ========
 
 <<
-  其巧一也，而有所矜，則重外也。凡外重者內拙。
+  其巧一也、而有所矜、則重外也。凡外重者內拙。
 ||
   Their skill .[is the] same,
   but .[that] there be that of .[their] concern,
@@ -306,7 +307,7 @@ The Chinese source text is from Chinese Text Project:
 * 一： same; \or one
 
 * 重： esteem \+
-  重，去聲， \C chung6, \M zh(o\)ng \+
+  重、去聲、 \C chung6, \M zh(o\)ng \+
   Literally ".[to] weight".
   The opposite of the verb 輕,
   which is to "make light of", or "treat as light".
