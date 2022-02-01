@@ -57,7 +57,7 @@
 
 
 [||||
-Feedback welcome: yawnoc@pm.me
+Feedback welcome: s<mailto:s75ab511@duck.com>
 ||||]
 
 ----

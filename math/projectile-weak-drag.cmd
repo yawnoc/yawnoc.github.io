@@ -6,7 +6,7 @@
 %%
   %title Projectile motion: optimal launch angle for weak quadratic drag
   %date-created 2019-06-21
-  %date-modified 2021-08-22
+  %date-modified 2022-02-01
   \resources:maths
   %description
     A derivation of the optimal launch angle (which maximises range) \
@@ -418,7 +418,7 @@ $$
 $$
 ----
 If you are able to evaluate either of the two integrals above,
-please contact me at `yawnoc@pm.me`.
+please contact me at s<mailto:s75ab511@duck.com>.
 On the other hand, quartic terms, even if they could be found,
 would be of little practical use, since the expansion is asymptotic
 and as such probably does not converge.
