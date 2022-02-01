@@ -254,7 +254,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 <<
   歷億載而不朽、施八極而無疆。
 ||
-  .[It] endureth .[an] hundred million years and decayeth not,
+  .[It] endureth .[an] hundred million years and rotteth not,
   .[and is] imparted unto .[the] Eight Extremities and .[is] without bound.
 >>
 ====

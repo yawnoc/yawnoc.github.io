@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-01-26
+  %date-modified 2022-02-01
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -2915,7 +2915,7 @@ See also: [有餘][餘]
 
 2 [朽] U+673D
 ====
-* decay
+* rot
 ====
 
 4 [東] U+6771
