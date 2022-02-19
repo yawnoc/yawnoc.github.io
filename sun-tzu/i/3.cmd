@@ -171,7 +171,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 ====
 
 <<
-  斛得六千萬粟。所以得知者，
+  斛得六千萬粟。所以得知者、
 ||
   .[A] barrel resulteth in
   six thousand myriad grains.
@@ -181,13 +181,13 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 
 ====
 <<
-  六粟為一圭， \+
-  十圭六十粟為一撮， \+
-  十撮六百粟為一抄， \+
-  十抄六千粟為一勺， \+
-  十勺六萬粟為一合， \+
-  十合六十萬粟為一升， \+
-  十升六百萬粟為一斗， \+
+  六粟為一圭、 \+
+  十圭六十粟為一撮、 \+
+  十撮六百粟為一抄、 \+
+  十抄六千粟為一勺、 \+
+  十勺六萬粟為一合、 \+
+  十合六十萬粟為一升、 \+
+  十升六百萬粟為一斗、 \+
   十斗六千萬粟為一斛。
 ||
   six grains make one tablet; \+
@@ -201,13 +201,13 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 >>
 
 <<
-  十斛六億粟， \+
-  百斛六兆粟， \+
-  千斛六京粟， \+
-  萬斛六陔粟， \+
-  十萬斛六秭粟， \+
-  百萬斛六壤粟， \+
-  千萬斛六溝粟，
+  十斛六億粟、 \+
+  百斛六兆粟、 \+
+  千斛六京粟、 \+
+  萬斛六陔粟、 \+
+  十萬斛六秭粟、 \+
+  百萬斛六壤粟、 \+
+  千萬斛六溝粟、
 ||
   Ten barrels .[be] six square-myriad grains; \+
   .[an] hundred barrels, six multitude grains; \+
@@ -226,18 +226,18 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 * 兆： multitude \+
   Effectively a formal version of "zillion".
 
-* 京： \lit capital
+* 京： capital
 
-* 陔： \lit terrace \+
-  陔，音該， \C koi1, \M g(a-)i
+* 陔： terrace \+
+  陔、音該、 \C koi1, \M g(a-)i
 
-* 秭： \lit haystack \+
-  秭，音姊， \C tsee2, \M z(iv)
+* 秭： haystack \+
+  秭、音姊、 \C tsee2, \M z(iv) \+
   More accurately, "grainstack".
 
-* 壤： \lit soil
+* 壤： soil
 
-* 溝： \lit ditch
+* 溝： ditch
 ====
 
 <<
