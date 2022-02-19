@@ -9,7 +9,7 @@
   %title
     "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P2
   %date-created 2019-06-09
-  %date-modified 2020-05-13
+  %date-modified 2022-02-19
   \resources:maths
 %%
 
@@ -62,19 +62,20 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 ----
 
 <<
-  稱之所起，起於黍。
+  稱之所起、起於黍。
 ||
-  .[Of] that which measuring of weight beginneth from:
+  .[Of] that which measuring weight beginneth from:
   beginneth .[it] from millet.
 >>
 ====
-* 稱： measuring of weight; \or weighing \+
-  稱， \C 去聲~[^ch']ing3 (\pm [_ts']ing3), \M 平聲~ch(e-)ng
+* 稱： measuring weight; \or weighing \+
+  稱、平聲、 \C [^ch']ing1 (\pm [_ts']ing1), \M ch(e-)ng \+
+  (But in modern Cantonese, read 去聲~[^ch']ing3 for 秤.)
 
 * 起： beginneth from; \lit ariseth from
 
-* 黍： \lit millet \+
-  黍，音暑， \C sh(u")2, \M sh(uv) \+
+* 黍： millet \+
+  黍、音暑、 \C sh(u")2, \M sh(uv) \+
   ((Shu | ~~黍~~))~(黍).
 ====
 

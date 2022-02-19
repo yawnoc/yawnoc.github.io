@@ -3918,7 +3918,7 @@ See also: [規矩][規]
 [平聲]
 ====
 * refer to
-* weigh [but 去聲 for 秤 in modern Cantonese]
+* weigh; measure weight [but 去聲 for 秤 in modern Cantonese]
 ====
 [去聲]
 ====
