@@ -252,7 +252,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  歷億載而不朽、施八極而無疆。
+  歷億載而不朽、施八極而無疆、
 ||
   .[It] endureth .[an] hundred million years and rotteth not,
   .[and is] imparted unto .[the] Eight Extremities and .[is] without bound.
@@ -282,7 +282,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
 ====
 
 <<
-  嚮之者富有餘、背之者貧且窶。
+  嚮之者富有餘、背之者貧且窶、
 ||
   He that faceth it .[shall be] wealthy in excess,
   .[but] he that turneth .[his] back to it .[shall be] poor and destitute;
