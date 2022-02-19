@@ -1017,8 +1017,7 @@ See also: [幾何][幾]
 
 9 [務] U+52D9
 ====
-* devoted unto
-* seek to
+* endeavour
 ====
 
 10 [勝] U+52DD
@@ -1045,7 +1044,6 @@ See also: [幾何][幾]
 
 15 [勵] U+52F5
 ====
-* endeavour
 * spur
 ====
 ----

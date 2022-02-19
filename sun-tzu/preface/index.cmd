@@ -8,7 +8,7 @@
 %%
   %title "\sun-tzu's Computational Classic: Preface" 《孫子算經\.序》
   %date-created 2019-06-09
-  %date-modified 2022-02-01
+  %date-modified 2022-02-19
   \resources:rendering
   %description
     An annotated English translation of the Preface to Sunzi Suanjing, \
@@ -316,7 +316,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. \+
   夫欲學之者、必務量能揆己、志在所專。
 ||
   He that wisheth to learn it,
-  must seek to measure .[his] ability .[and] gauge himself,
+  must endeavour to measure .[his] ability .[and] gauge himself,
   .[and put] will into that focused upon.
 >>
 ====
