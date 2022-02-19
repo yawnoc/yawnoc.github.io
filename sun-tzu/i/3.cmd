@@ -10,7 +10,7 @@
   %title
     "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P3
   %date-created 2019-06-09
-  %date-modified 2020-05-13
+  %date-modified 2022-02-19
   \resources:maths
 %%
 
@@ -66,18 +66,18 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 ----
 
 <<
-  量之所起，起於粟。
+  量之所起、起於粟。
 ||
-  .[Of] that which measuring of capacity beginneth from:
+  .[Of] that which measuring capacity beginneth from:
   beginneth .[it] from grain.
 >>
 ====
 * 量： measuring of capacity \+
-  量，平聲， \C l(oe)ng4, \M li(a/)ng
+  量、平聲、 \C l(oe)ng4, \M li(a/)ng
 
 * 起： beginneth from; \lit ariseth from
 
-* 粟： \lit grain \+
+* 粟： grain \+
   ((Su | ~~粟~~))~(粟),
   a six-hundred-thousandth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
 ====

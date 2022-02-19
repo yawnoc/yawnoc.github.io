@@ -4085,6 +4085,11 @@ See also: [符驗][驗]
 ⽶ (rice) U+2F76
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+6 [粟] U+7C9F
+====
+* grain
+====
+
 8 [精] U+7CBE
 ====
 * fine; refined
@@ -5303,7 +5308,7 @@ See also: [遠近][遠]
 5 [量] U+91CF
 [平聲]
 ====
-* measure {physically}
+* measure (capacity) {physically}
 ====
 [去聲]
 ====
