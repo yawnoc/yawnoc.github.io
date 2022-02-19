@@ -169,16 +169,16 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 ====
 
 <<
-  五十尺為一端； \+
-  四十尺為一匹； \+
-  六尺為一步。
+  五十尺為一端、 \+
+  四十尺為一匹、 \+
+  六尺為一步、
 ||
   Fifty rules make one end; \+
   forty rules make one length; \+
   six rules make one pace.
 >>
 ====
-* 端： \lit end \+
+* 端： end \+
   ((Tuan | ~~端~~))~(端), fifty rules.
 
 * \b[146] erroneously has 五十引為一端.
@@ -193,7 +193,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 ====
 
 <<
-  二百四十步為一畝。
+  二百四十步為一畝、
 ||
   Two hundred .[and] forty paces make one acre.
 >>
@@ -266,7 +266,7 @@ $$
 Silk is around 12~μm in thickness ([UAF], [Luong~_et~al._~(2014)][Luong])
 so ((hu | ~~忽~~))~(忽), "floss", is much too thin,
 and ((ss(uu) | ~~絲~~))~(絲), "(silk) thread", still a little thin.
-Thus 蠶吐絲為忽, ".[the] silk spat of the silkworm be floss",
+Thus 蠶吐絲為忽, "the silkworm spitteth thread .[which] be floss",
 is an exaggeration of the thinness of silk.
 But my job is only to translate the text as it is, not to correct it.
 ----
