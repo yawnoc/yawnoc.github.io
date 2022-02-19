@@ -86,14 +86,14 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 ====
 
 <<
-  十忽為一絲， \+
-  十絲為一毫， \+
-  十毫為一釐， \+
-  十釐為一分， \+
-  十分為一寸， \+
-  十寸為一尺， \+
-  十尺為一丈， \+
-  十丈為一引；
+  十忽為一絲、 \+
+  十絲為一毫、 \+
+  十毫為一釐、 \+
+  十釐為一分、 \+
+  十分為一寸、 \+
+  十寸為一尺、 \+
+  十尺為一丈、 \+
+  十丈為一引、
 ||
   Ten flosses make one thread; \+
   ten threads make one mil; \+
@@ -109,7 +109,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
   ((Ss(uu) | ~~絲~~))~(絲),
   a ten-thousandth of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
 
-* 毫： mil; \or thou; \lit fine hair \+
+* 毫： mil; \lit fine-hair \+
   ((Hao | ~~毫~~))~(毫),
   a thousandth of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
   Similar to the imperial [mil or thou].
@@ -137,7 +137,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
     https://en.wikipedia.org/wiki/Cun_(unit)
   @@
 
-* 尺： rule; \or ruler; \or covid \+
+* 尺： rule; \or ruler \+
   ((Ch'ih | ~~尺~~))~(尺), ten Chinese inches.
   This is of the order one foot,
   but I have not rendered this as "foot"
@@ -148,7 +148,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
   but I can't seem to find much about it on the internet...
   thanks a lot, WHO.
 
-* 丈： rod; \or staff; \or measure \+
+* 丈： rod; \or measure \+
   ((Chang | ~~丈~~))~(丈), ten rules.
   Difficult to render because Chinese dictionaries
   simply define it as ten rules.
