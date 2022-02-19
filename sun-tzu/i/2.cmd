@@ -80,11 +80,11 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 ====
 
 <<
-  十黍為一絫， \+
-  十絫為一銖， \+
-  二十四銖為一兩， \+
-  十六兩為一斤， \+
-  三十斤為一鈞， \+
+  十黍為一絫、 \+
+  十絫為一銖、 \+
+  二十四銖為一兩、 \+
+  十六兩為一斤、 \+
+  三十斤為一鈞、 \+
   四鈞為一石。
 ||
   Ten millets make one pile; \+
@@ -96,7 +96,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 >>
 ====
 * 絫： pile \+
-  絫，魯水切， \C l\_(u")5, \M l(ev)i \+
+  絫、魯水切、 \C l\_(u")5, \M l(ev)i \+
   ((Lei | ~~絫~~))~(絫).
   Difficult to render because Chinese dictionaries
   simply define it as ten ((shu | ~~黍~~))~(黍).
@@ -137,7 +137,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
   @@
 
 * 鈞： quarter \+
-  鈞，音均， \C kwan1, \M j(u-)n \+
+  鈞、音均、 \C kwan1, \M j(u-)n \+
   ((K(u")n | ~~鈞~~))~(鈞).
   A quarter of the ((shih | ~~石~~))~(石) or "stone" below,
   and of similar weight to the [imperial quarter] (28~pounds).
@@ -150,7 +150,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
 
 * \c[52059] erroneously has 鉤 for 鈞.
 
-* 石： \lit stone \+
+* 石： stone \+
   ((Shih | ~~石~~))~(石).
   This is a literal rendering.
   The Chinese stone ((shih | ~~石~~))~(石) is of the order 120~pounds,
