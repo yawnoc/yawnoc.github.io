@@ -176,7 +176,7 @@ but with olden-style punctuation:
 <<
   故北方之畏奚恤也、其實畏王之甲兵也、猶百獸之畏虎也。
 ||
-  Therefore .[the] North's fear of ((Hi-s(u") | ~~奚恤~~)),
+  therefore .[the] North's fear of ((Hi-s(u") | ~~奚恤~~)),
   it .[is] actually fear of King's armoured troops,
   like .[the] hundred beasts' fear of .[the] tiger.
 >>
