@@ -216,7 +216,7 @@ I have edited the punctuation to not be bizarre.
   天生自然、豈謂詐乎。
 ||
   .[The] little child answered, saying,
-  .[I the] human lived three years,
+  .[This] human lived three years,
   .[and was] separated from father .[and] mother;
   the rabbit liveth three days,
   .[and] runneth upon .[the] ditched fields of .[the] earth;
@@ -225,7 +225,7 @@ I have edited the punctuation to not be bizarre.
   Inborn .[and] natural: how be .[this] cunning?
 >>
 ====
-* 人生： .[I the] human lived \+
+* 人生： .[This] human lived \+
   Or "human life".
   To match the pattern in the sentences which follow,
   人生三歲 might be rendered "man liveth three years".
@@ -508,10 +508,10 @@ I have edited the punctuation to not be bizarre.
   The winter day .[be] not sufficient.
   The summer day .[be] in excess.
   .[The] imperial city hath no market.
-  .[I the] little man have no style-name.
+  .[This] little man hath no style-name.
 >>
 ====
-* 小人： .[I the] little man \+
+* 小人： .[This] little man \+
   A deprecating self-address.
   Evidently the child is far from the little man of Confucianism.
 ====
