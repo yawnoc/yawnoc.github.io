@@ -102,7 +102,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
   ten pecks make one barrel.
 >>
 ====
-* 圭： tablet \+
+* 圭： (jade-)tablet \+
   圭、古攜切、 \C kwai1, \M gu(i-) \+
   ((Kuei | ~~圭~~))~(圭),
   a hundred-thousandth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
@@ -241,8 +241,8 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 ====
 
 <<
-  萬萬斛為一億斛六澗粟， \+
-  十億斛六正粟， \+
+  萬萬斛為一億斛六澗粟、 \+
+  十億斛六正粟、 \+
   百億斛六載粟。
 ||
   .[a] myriad myriad barrels
@@ -254,15 +254,15 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
     six carry grains.
 >>
 ====
-* 澗： \lit (mountain) stream
+* 澗： (mountain-)stream
 
-* 正： \lit right
+* 正： right
 
-* 載： \lit carry \+
-  載，上聲， \C [^ts]oi2 (\pm [_ch]oi2), \M z(av)i \+
+* 載： carry \+
+  載、上聲、 \C [^ts]oi2 (\pm [_ch]oi2), \M z(av)i \+
   An explanation for its use to denote a large power of ten is quoted
   in [K'ang-hi's entry for 秭] [秭]:
-  載地不能載也, ".[a] carry .[even] Earth cannot carry"
+  載地不能載也, ".[a] carry .[even the] Earth cannot carry"
   (here the second "carry" is a verb,
   read in the usual 去聲, i.e.~tsoi3/z(a\)i).
   For context, the usual phrase is 天覆地載,

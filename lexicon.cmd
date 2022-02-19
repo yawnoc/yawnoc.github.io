@@ -1494,8 +1494,7 @@ See also: [未嘗][未]
 
 3 [圭] U+572D
 ====
-* jade-tablet
-* [:unit:] tablet
+* (jade-)tablet
 ====
 
 3 [地] U+5730
@@ -3136,6 +3135,11 @@ See also: [有餘][餘]
 See also: [蒞止][蒞]
 ----
 
+1 [正] U+6B63
+====
+* right
+====
+
 3 [步] U+6B65
 ====
 * step; pace
@@ -3337,6 +3341,11 @@ See also: [蒞止][蒞]
 10 [溝] U+6E9D
 ====
 * ditch
+====
+
+12 [澗] U+6F97
+====
+* (mountain-)stream
 ====
 
 14 [濕] U+6FD5
