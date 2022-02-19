@@ -657,7 +657,7 @@ I have edited the punctuation to not be bizarre.
   .[is] like the cart losing .[its] wheel.
   .[The] wheel lost, make again,
   .[and] surely obtain .[a] new .[one] thereof.
-  .[One's] wife .[having] died, seek anew,
+  .[The] wife .[having] died, seek anew,
   .[and] also obtain .[a] new .[one] thereof.
 >>
 ====
