@@ -9,7 +9,7 @@
   %title
     "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P1
   %date-created 2019-06-09
-  %date-modified 2020-05-13
+  %date-modified 2022-02-19
   \resources:maths
 %%
 
@@ -62,16 +62,16 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
 ----
 
 <<
-  度之所起，起於忽。欲知其忽，蠶吐絲為忽。
+  度之所起、起於忽。欲知其忽、蠶吐絲為忽。
 ||
-  .[Of] that which measuring of length beginneth from:
+  .[Of] that which measuring length beginneth from:
   beginneth .[it] from floss.
   Wishing to know .[the size of] floss:
-  .[the] silk spat of the silkworm be floss.
+  the silkworm spitteth thread .[which] be floss.
 >>
 ====
 * 度： measuring of length \+
-  度，入聲， \C tok9, \M duo\ (\gr du(o/))
+  度、入聲、 \C tok9, \M du(o\) (\gr du(o/))
 
 * 起： beginneth from; \lit ariseth from
 
@@ -80,7 +80,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
   a hundred-thousandth of the Chinese inch, ((ts'un | ~~寸~~))~(寸).
   [K'ang-hi's Dictionary](https://ctext.org/kangxi-zidian/61/4#n326385),
   quoting 《劉德曰》, "((Liu T(e^) | ~~劉德~~))'s sayings",
-  has 忽，蜘蛛網也, "floss, .[a] spider's web".
+  has 忽、蜘蛛網也, "floss, .[a] spider's web".
 
 * \c[52058] has 蠶所生，吐絲為忽.
 ====
