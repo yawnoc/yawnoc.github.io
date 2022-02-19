@@ -8,7 +8,7 @@
   %title "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
   %title-en ".[The] Fox Feigneth .[the] Tiger's Authority"
   %date-created 2019-04-07
-  %date-modified 2022-02-01
+  %date-modified 2022-02-19
   \resources:rendering
   %description
     An English translation of 《狐假虎威》, \
@@ -104,7 +104,7 @@ but with olden-style punctuation:
   江一對曰、虎求百獸而食之、得狐、
 ||
   .[But] ((Kiang I | ~~江一~~)) replied, saying,
-    .[A] tiger sought .[the] many beasts .[to] then eat them,
+    .[A] tiger sought .[the] hundred beasts .[to] then eat them,
     .[and] obtained .[a] fox.
 >>
 ====
@@ -112,8 +112,6 @@ but with olden-style punctuation:
   A minister of King~((S(u")an | ~~宣~~)) of~((King | ~~荊~~)).
   In another manuscript he is called 江乙,
   also ((Kiang I | ~~江乙~~)).
-
-* 百獸： .[the] many beasts; \lit hundred beasts
 ====
 
 <<
@@ -121,7 +119,7 @@ but with olden-style punctuation:
 ||
   .[The] fox said,
     Thou darest not eat me.
-    .[The] Emperor of Heaven .[hath] made me be leader over .[the] many beasts;
+    .[The] Emperor of Heaven .[hath] made me be leader over .[the] hundred beasts;
     shouldst thou eat me,
     this .[shall] defy .[the] will of .[the] Emperor of Heaven.
 >>
@@ -138,7 +136,7 @@ but with olden-style punctuation:
   .[Shouldst] thou think me untrustworthy,
   .[let] me walk first for thee,
   .[and] thee follow after me,
-  .[and] observe, .[who] of .[the] many beasts
+  .[and] observe, .[who] of .[the] hundred beasts
   .[shall] see me and dare run not?
 >>
 
@@ -180,7 +178,7 @@ but with olden-style punctuation:
 ||
   Therefore .[the] North's fear of ((Hi-s(u") | ~~奚恤~~)),
   it .[is] actually fear of King's armoured troops,
-  like .[the] many beasts' fear of .[the] tiger.
+  like .[the] hundred beasts' fear of .[the] tiger.
 >>
 
 \cite-this-page[~~ "[The] Fox Feigneth [the] Tiger's Authority" ~~]

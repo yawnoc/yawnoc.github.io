@@ -3650,7 +3650,7 @@ See also: [後生][後]
 
 1 [百] U+767E
 ====
-* hundred; \met many
+* hundred
 ====
 ----
 See also: [百萬][萬]
