@@ -10,7 +10,7 @@
     《孔子問答》/《小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius" / ".[The] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2022-02-01
+  %date-modified 2022-02-19
   \resources:rendering
   %description
     An English translation of 《孔子問答》/《小兒論》, \
@@ -226,7 +226,7 @@ I have edited the punctuation to not be bizarre.
 >>
 ====
 * 人生： .[I the] human lived \+
-  Literally "human life", or "life".
+  Or "human life".
   To match the pattern in the sentences which follow,
   人生三歲 might be rendered "man liveth three years".
 
@@ -653,7 +653,7 @@ I have edited the punctuation to not be bizarre.
   小兒答曰、人生無婦、如車無輪、無輪再造、必得其新、婦死更索、又得其新。
 ||
   .[The] little child answered, saying,
-  Losing .[one's] wife .[in] life,
+  .[In] human life, losing .[one's] wife,
   .[is] like the cart losing .[its] wheel.
   .[The] wheel lost, make again,
   .[and] surely obtain .[a] new .[one] thereof.

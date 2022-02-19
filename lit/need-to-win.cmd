@@ -7,7 +7,7 @@
 %%
   %title "The Need to Win"
   %date-created 2019-04-15
-  %date-modified 2022-02-01
+  %date-modified 2022-02-19
   \resources:rendering
   %description
     A discussion and translation of Chuang Tz(uu)'s alleged "archery" quote, \
@@ -136,7 +136,7 @@ but with olden-style punctuation:
 ||
   ((Yen Y(u")an | ~~顏淵~~)) asked ((Chung-ni | ~~仲尼~~)), saying,
   I once crossed .[the] deep waters of ((Shang-sh(e^)n | ~~觴深~~)),
-  .[and the] men of .[the] ford handled boats as gods.
+  .[and the] people of .[the] ford handled boats as gods.
 >>
 ====
 * 顏淵： ((Yen Y(u")an | ~~顏淵~~)) \+

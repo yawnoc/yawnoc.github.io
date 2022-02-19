@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-02-01
+  %date-modified 2022-02-19
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -566,7 +566,7 @@ See also: [逝世][逝]
 
 0 [人] U+4EBA
 ====
-* {generic} man; human
+* {generic} man; human; person
 * another; others
 ====
 
