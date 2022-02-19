@@ -164,7 +164,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. \+
     https://en.wikipedia.org/wiki/Rod_(unit)
   @@
 
-* 引： \lit draw; \or pull \+
+* 引： draw; \or pull \+
   ((Yin | ~~引~~))~(引), ten rods.
 ====
 
