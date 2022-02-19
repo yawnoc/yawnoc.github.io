@@ -83,13 +83,13 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
 ====
 
 <<
-  六粟為一圭， \+
-  十圭為一撮， \+
-  十撮為一抄， \+
-  十抄為一勺， \+
-  十勺為一合， \+
-  十合為一升， \+
-  十升為一斗， \+
+  六粟為一圭、 \+
+  十圭為一撮、 \+
+  十撮為一抄、 \+
+  十抄為一勺、 \+
+  十勺為一合、 \+
+  十合為一升、 \+
+  十升為一斗、 \+
   十斗為一斛。
 ||
   Six grains make one tablet; \+
@@ -102,12 +102,12 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
   ten pecks make one barrel.
 >>
 ====
-* 圭： \lit (jade) tablet \+
-  圭，古攜切， \C kwai1, \M gu(i-) \+
+* 圭： tablet \+
+  圭、古攜切、 \C kwai1, \M gu(i-) \+
   ((Kuei | ~~圭~~))~(圭),
   a hundred-thousandth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
 
-* 撮： \lit (two- or three-finger) pinch; \or pugil \+
+* 撮： pinch \+
   ((Ts'o | ~~撮~~))~(撮),
   a ten-thousandth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
 
@@ -118,12 +118,12 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
   but that sounds too big in my opinion.
 
 * 勺： ladle \+
-  勺， \C ch(oe)k8, ch'(oe)k8, \M sh(a/)o \+
+  勺、 \C ch(oe)k8, ch'(oe)k8, \M sh(a/)o \+
   ((Shao | ~~勺~~))~(勺),
   a hundredth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
 
 * 合： gill \+
-  合，葛合切， \C kap8, \M g(ev) \+
+  合、葛合切、 \C kap8, \M g(ev) \+
   ((Ko | ~~合~~))~(合),
   a tenth of the Chinese litre, ((sh(e^)ng | ~~升~~))~(升).
   Similar in size to the [imperial gill].
@@ -152,7 +152,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. \+
   or "bow down (\lit bend .[at the] waist) for five pecks of grain".
 
 * 斛： barrel \+
-  斛， \C huk9, \M h(u/) \+
+  斛、 \C huk9, \M h(u/) \+
   ((Hu | ~~斛~~))~(斛), a hundred Chinese litres.
   [James Legge] instead uses "bushel", which is only about forty litres,
   but this is reasonable since later definitions
