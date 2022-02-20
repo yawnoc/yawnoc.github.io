@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-02-19
+  %date-modified 2022-02-20
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -2895,6 +2895,7 @@ See also: [及時][及]
 0 [曰] U+66F0
 ====
 * say
+* call
 ====
 
 3 [更] U+66F4
@@ -3289,6 +3290,7 @@ See also: [蒞止][蒞]
 5 [法] U+6CD5
 ====
 * law; regulation
+* method
 * emulate
 * divisor
 ====

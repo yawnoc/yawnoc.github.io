@@ -10,7 +10,7 @@
   %title
     "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P4
   %date-created 2019-06-09
-  %date-modified 2020-05-13
+  %date-modified 2022-02-20
   \resources:maths
 %%
 
@@ -63,19 +63,19 @@ Chinese source text: \a[6], \b[147], \c[52060], \d[13]. \+
 ----
 
 <<
-  凡大數之法， \+
-  萬萬曰億， \+
-  萬萬億曰兆， \+
-  萬萬兆曰京， \+
-  萬萬京曰陔， \+
-  萬萬陔曰秭， \+
-  萬萬秭曰壤， \+
-  萬萬壤曰溝， \+
-  萬萬溝曰澗， \+
-  萬萬澗曰正， \+
+  凡大數之法、 \+
+  萬萬曰億、 \+
+  萬萬億曰兆、 \+
+  萬萬兆曰京、 \+
+  萬萬京曰陔、 \+
+  萬萬陔曰秭、 \+
+  萬萬秭曰壤、 \+
+  萬萬壤曰溝、 \+
+  萬萬溝曰澗、 \+
+  萬萬澗曰正、 \+
   萬萬正曰載。
 ||
-  .[In the] method of all large numbers: \+
+  .[In the] method of all great numbers: \+
   .[a] myriad myriad .[is] called .[a] square-myriad; \+
   .[a] myriad myriad square-myriad .[is] called .[a] multitude; \+
   .[a] myriad myriad multitude .[is] called .[a] capital; \+
