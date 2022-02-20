@@ -318,6 +318,7 @@ Z{%
 1 [七] U+4E03
 ====
 * seven; seventh
+* [:verb:] septuple
 ====
 
 2 [丈] U+4E08
@@ -538,6 +539,7 @@ See also: [逝世][逝]
 2 [五] U+4E94
 ====
 * five; fifth
+* [:verb:] quintuple
 ====
 
 2 [井] U+4E95
@@ -1377,6 +1379,11 @@ See also: [同式][式]
 [入聲]
 ====
 * counsel
+====
+
+5 [周] U+5468
+====
+* cycle; circumference
 ====
 
 5 [命] U+547D
@@ -2235,6 +2242,12 @@ See also: [從容][從]
 * 後[生]： the young
 ====
 
+7 [徑] U+5F91
+====
+* path
+* diameter
+====
+
 8 [得] U+5F97
 ====
 * obtain; get
@@ -2734,6 +2747,11 @@ See also: [掌握][握]
 7 [斛] U+659B
 ====
 * [:unit:] barrel
+====
+
+7 [斜] U+659C
+====
+* slope; diagonal
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -5305,6 +5323,7 @@ See also: [遠近][遠]
 4 [邪] U+90AA
 ====
 * wicked
+* {\int [斜]}
 * {\var [耶]}
 ====
 

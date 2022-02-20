@@ -11,7 +11,7 @@
   %title
     "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P5
   %date-created 2019-06-09
-  %date-modified 2020-05-13
+  %date-modified 2022-02-20
   \resources:maths
 %%
 
@@ -64,15 +64,15 @@ Chinese source text: \a[6], \b[147], \c[52061], \d[13]. \+
 ----
 
 <<
-  周三徑一；方五邪七。 \+
-  見邪求方，五之，七而一； \+
-  見方求邪，七之，五而一。
+  周三徑一、方五邪七。 \+
+  見邪求方、五之、七而一。 \+
+  見方求邪、七之、五而一。
 ||
   .[The] circumference three: .[the] diameter one.
   .[The] square's .[edge] five: .[the] diagonal seven. \+
   Seeing .[the] diagonal .[and] seeking .[the] square's .[edge],
     quintuple it, .[and take] seven .[as] one. \+
-  Seeing .[the] square's .[edge] .[and] seeking .[the] diagonal,
+  Seeing .[the] square's .[edge and] seeking .[the] diagonal,
     septuple it, .[and take] five .[as] one.
 >>
 ====
