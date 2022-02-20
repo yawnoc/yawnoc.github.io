@@ -10,7 +10,7 @@
     《孔子問答》/《小兒論》
   %title-en "Q~.[\&]~A .[with] Confucius" / ".[The] Little Child's Discourse"
   %date-created 2019-04-07
-  %date-modified 2022-02-19
+  %date-modified 2022-02-20
   \resources:rendering
   %description
     An English translation of 《孔子問答》/《小兒論》, \
@@ -117,8 +117,8 @@ I have edited the punctuation to not be bizarre.
   一日率諸弟子、御車出遊、路逢數兒嬉戲、中有一兒不戲。
 ||
   One day .[he] led all .[the] disciples,
-  driving .[his] chariot out .[for] travel;
-  .[and on the] road encountered several children playing:
+  driving .[his] chariot out .[for] travel,
+  .[and on the] road encountered several children playing,
   .[but] among .[them] there was one child .[that] played not.
 >>
 ====
