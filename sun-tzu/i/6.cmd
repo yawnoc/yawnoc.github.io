@@ -11,7 +11,7 @@
   %title
     "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P6
   %date-created 2019-06-09
-  %date-modified 2020-05-13
+  %date-modified 2022-03-05
   \resources:maths
 %%
 
@@ -64,13 +64,13 @@ Chinese source text: \a[6], \b[147], \c[52062], \d[13]. \+
 ----
 
 <<
-  黃金方寸重一斤。 \+
-  白金方寸重一十四兩。 \+
-  玉方寸重一十二兩。
+  黃金方寸重一斤、 \+
+  白金方寸重一十四兩、 \+
+  玉方寸重一十二兩、
 ||
-  .[Each] cubic inch of gold weigheth one catty. \+
-  .[Each] cubic inch of silver weigheth fourteen taels. \+
-  .[Each] cubic inch of jade weigheth twelve taels.
+  .[A] cubic inch of gold weigheth one catty. \+
+  .[A] cubic inch of silver weigheth fourteen taels. \+
+  .[A] cubic inch of jade weigheth twelve taels.
 >>
 ====
 * 黃金： gold; \lit yellow metal
@@ -83,18 +83,19 @@ Chinese source text: \a[6], \b[147], \c[52062], \d[13]. \+
 ====
 
 <<
-  銅方寸重七兩半。 \+
-  鉛方寸重九兩半。 \+
-  鐵方寸重六兩。 \+
+  銅方寸重七兩半、 \+
+  鉛方寸重九兩半、 \+
+  鐵方寸重六兩、 \+
   石方寸重三兩。
 ||
-  .[Each] cubic inch of copper weigheth seven taels .[and an] half. \+
-  .[Each] cubic inch of lead weigheth nine taels .[and an] half. \+
-  .[Each] cubic inch of iron weigheth six taels. \+
-  .[Each] cubic inch of stone weigheth three taels.
+  .[A] cubic inch of copper weigheth seven taels .[and an] half. \+
+  .[A] cubic inch of lead weigheth nine taels .[and an] half. \+
+  .[A] cubic inch of iron weigheth six taels. \+
+  .[A] cubic inch of stone weigheth three taels.
 >>
 ====
-* 銅： copper; also brass
+* 銅： copper \+
+  Or, perhaps brass.
 
 * For iron, \b[147] has 七兩 for 六兩.
 
@@ -204,7 +205,7 @@ since it does not adequately pinpoint a specific material.
 
 ----
 Apart from silver and jade, the densities appear to fit quite well,
-so \sun-tzu either fluked the measurements for gold, copper, lead and iron
+so \sun-tzu either fluked the measurements for gold, copper, lead, and iron
 or he was actually a decent experimentalist but buggered up
 the measurements for silver and jade.
 Or maybe he only had access to *very* impure silver and jade:

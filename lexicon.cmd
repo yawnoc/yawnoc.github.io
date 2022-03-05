@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-02-20
+  %date-modified 2022-03-05
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -1128,6 +1128,11 @@ See also: [北方][方]
 ====
 * rise
 * [:unit:] quart
+====
+
+3 [半] U+534A
+====
+* half
 ====
 
 7 [南] U+5357
@@ -3768,6 +3773,14 @@ See also: [後生][後]
 ⽩ (white) U+2F69
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+0 [白] U+767D
+====
+* white
+====
+----
+See also: [白金][金]
+----
+
 1 [百] U+767E
 ====
 * hundred
@@ -5438,6 +5451,7 @@ See also: [遠近][遠]
 * gold; metal
 ====
 ====
+* [白]金： silver
 * [黃]金： gold
 ====
 
@@ -5446,15 +5460,30 @@ See also: [遠近][遠]
 * [:unit:] quarter
 ====
 
+5 [鉛] U+925B
+====
+* lead
+====
+
 5 [鉤] U+9264
 ====
 * hook
 * buckle
 ====
 
+6 [銅] U+9285
+====
+* copper
+====
+
 6 [銖] U+9296
 ====
 * [:unit:] dram
+====
+
+13 [鐵] U+9435
+====
+* iron
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
