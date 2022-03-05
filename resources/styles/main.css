@@ -182,20 +182,20 @@ pre {
 }
 
 /*
-  Style equations in case JavaScript is not enabled
-  Vertical margin and centring for display equations (margin-*, text-align)
+  Style equations in case JavaScript is not enabled (font-family, white-space)
+  Vertical margin for display equations (margin-*)
   Prevent vertical padding from .important (padding)
 */
 
 .js-maths {
   font-family: monospace;
+  white-space: pre;
 }
 
 div.js-maths {
   margin-top: 1em;
   margin-bottom: 1em;
   padding: 0 1em;
-  text-align: center;
 }
 
 /*
