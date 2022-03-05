@@ -11,7 +11,7 @@
   %title
     "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P7
   %date-created 2019-06-09
-  %date-modified 2020-05-13
+  %date-modified 2022-03-05
   \resources:rendering
   %css
     td {
@@ -74,48 +74,33 @@ Chinese source text: \a[6], \b[147], \c[52063], \d[14]. \+
 ----
 
 <<
-  凡算之法，先識其位。
+  凡算之法、先識其位。
 ||
   .[In the] method of all computation, know first .[the] places.
 >>
-====
-* 位： .[the] places
-====
 
 <<
-  一從十橫，百立千僵，千十相望，萬百相當。
+  一從十橫、百立千僵、千十相望、萬百相當。
 ||
   .[The] ones .[are] vertical .[and the] tens horizontal;
-  .[the] hundreds upright .[and the] thousands prostrate.
+  .[the] hundreds erect .[and the] thousands prostrate.
   .[The] thousands .[and] tens look at each other;
-  .[the] myriads .[and] hundreds correspond to each other.
+  .[the] myriads .[and] hundreds face each other.
 >>
 ====
-* 從 \+
-    Variant of 縱.
-
-* 僵：偃也； [prostrate] \+
-  Not to be confused with prostate.
-  
-  @@[prostrate]
-    https://en.wiktionary.org/wiki/prostrate#Adjective
-    Adjective
-  @@
-
 * \a[6] and \d[14] have 百萬 instead of 萬百.
   According to the inline note in \b[147], this is a transcription error:
   <<
-    案：「萬百」原本訛作「百萬」。今據《夏侯陽算經》改正。
+    案、萬百原本訛作百萬、今據夏侯陽算經改正。
   ||
-    Note: "Myriads .[and] hundreds" .[in the] original version
-    .[was] erroneously written "hundreds .[and] myriads".
-    Now corrected according to
-    ["((Hia Hou-yang | ~~夏侯陽~~))'s Computational Classic"] [夏侯陽算經].
+    Note: Myriads .[and] hundreds .[in the] original version
+    .[was] erroneously written hundreds .[and] myriads.
+    Now corrected according unto
+    [((Hia Hou-yang | ~~夏侯陽~~))'s Computational Classic][夏侯陽算經].
   >>
   In my opinion 萬百 vs~百萬 is a minor issue,
   but I agree that 萬百 is the correct order,
-  since we have 千十 preceding, rather than
-  十千 (i.e.~the larger place-value appears first).
+  since we have 千十 preceding, rather than 十千.
   Thus I have 萬百 above.
   
   @@[夏侯陽算經]
