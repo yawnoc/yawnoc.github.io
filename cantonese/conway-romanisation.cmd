@@ -6,7 +6,7 @@
 %%
   %title Conway's Romanisation for Cantonese
   %date-created 2019-04-07
-  %date-modified 2021-08-22
+  %date-modified 2022-03-05
   \resources:rendering
   %description
     Conway's Romanisation for Cantonese, \
@@ -1668,7 +1668,7 @@ See [{[^ts] vs [^ch]} etc](#ts-vs-ch).
 ----
 
 ||||{.example}
-  身體髮膚，受之父母，不敢毀傷，孝之始也。
+  身體髮膚、受之父母、不敢毀傷、孝之始也。
 ||||
 ====
 *
@@ -1684,7 +1684,7 @@ See [{[^ts] vs [^ch]} etc](#ts-vs-ch).
 ====
 
 ||||{.example}
-  天地玄黃，宇宙洪荒。日月盈昃，辰宿列張。
+  天地玄黃、宇宙洪荒。日月盈昃、辰宿列張。
 ||||
 ====
 *
@@ -1700,7 +1700,7 @@ See [{[^ts] vs [^ch]} etc](#ts-vs-ch).
 ====
 
 ||||{.example}
-  夫質以代興，妍因俗易。
+  夫質以代興、妍因俗易。
 ||||
 ====
 *
@@ -1712,7 +1712,7 @@ See [{[^ts] vs [^ch]} etc](#ts-vs-ch).
 ====
 
 ||||{.example}
-  攜書劍，滯京華。
+  攜書劍、滯京華。
 ||||
 ====
 *
@@ -1724,7 +1724,7 @@ See [{[^ts] vs [^ch]} etc](#ts-vs-ch).
 ====
 
 ||||{.example}
-  日日醉涼州，笙歌卒未休。
+  日日醉涼州、笙歌卒未休。
 ||||
 ====
 *
@@ -1736,7 +1736,7 @@ See [{[^ts] vs [^ch]} etc](#ts-vs-ch).
 ====
 
 ||||{.example}
-  胡不念花園盟香？
+  胡不念花園盟香。
 ||||
 ====
 *
@@ -1744,7 +1744,7 @@ See [{[^ts] vs [^ch]} etc](#ts-vs-ch).
 ====
 
 ||||{.example}
-  妾從無錯處，嘆我自招報應，怨句匹夫變性。
+  妾從無錯處、嘆我自招報應、怨句匹夫變性。
 ||||
 ====
 *
