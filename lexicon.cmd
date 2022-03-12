@@ -7,7 +7,7 @@
 %%
   %title Conway's Lexicon for Literary Chinese
   %date-created 2020-08-05
-  %date-modified 2022-03-05
+  %date-modified 2022-03-12
   \resources:rendering
   %description
     Conway's Lexicon for translating Literary Chinese into English.
@@ -629,6 +629,11 @@ See also: [何以][何], [可以][可]
 * do not
 ====
 
+5 [位] U+4F4D
+====
+* place
+====
+
 5 [低] U+4F4E
 ====
 * low
@@ -952,6 +957,11 @@ See also: [幾何][幾]
 * [:noun:] share
 * fraction [but 平聲 in Mandarin]
 * duty
+====
+
+4 [列] U+5217
+====
+* row; rank
 ====
 
 5 [別] U+5225
@@ -2269,7 +2279,7 @@ See also: [從容][從]
 ====
 * obtain; get
 * satisfy; done
-* result in
+* [:verb:] result (in)
 * can
 ====
 ----
@@ -3398,6 +3408,11 @@ See also: [改正][改]
 * ditch
 ====
 
+11 [滿] U+6EFF
+====
+* full; reach
+====
+
 12 [澗] U+6F97
 ====
 * (mountain-)stream
@@ -3864,6 +3879,11 @@ See also: [百萬][萬]
 * flourishing; vigorous
 ====
 
+9 [盡] U+76E1
+====
+* exhaust
+====
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⽬ (eye) U+2F6C
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -4065,6 +4085,11 @@ See also: [規矩][規]
 10 [稽] U+7A3D
 ====
 * examine
+====
+
+11 [積] U+7A4D
+====
+* accumulate
 ====
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -4325,6 +4350,11 @@ See also: [符驗][驗]
 ⽹ (net) U+2F79
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+8 [置] U+7F6E
+====
+* put
+====
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⽺ (sheep) U+2F7A
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -4498,7 +4528,7 @@ See also: [聯翩][翩]
 
 0 [至] U+81F3
 ====
-* arrive; unto
+* arrive; reach; unto
 * most; extremity
 * solstice
 ====
@@ -4727,8 +4757,7 @@ See also: [平行][平]
 ----
 [平聲] 音航 h(a/)ng
 ====
-* column
-* rank
+* column; file
 ====
 [去聲] 音幸 x(i\)ng [but 平聲 x(i/)ng in Mainlandia]
 ====
@@ -4890,6 +4919,11 @@ See also: [平行][平]
 * amount to
 * scheme; stratagem
 * livelihood
+====
+
+3 [訖] U+8A16
+====
+* finish
 ====
 
 3 [記] U+8A18
@@ -5257,6 +5291,11 @@ See also: [遠近][遠]
 * alternate
 ====
 
+6 [退] U+9000
+====
+* retreat
+====
+
 6 [逆] U+9006
 ====
 * defy; go against
@@ -5308,7 +5347,7 @@ See also: [遠近][遠]
 
 9 [過] U+904E
 ====
-* pass; surpass
+* pass; surpass; \met carry
 * excessive
 * mistake
 ====
@@ -5431,6 +5470,7 @@ See also: [遠近][遠]
 [平聲]
 ====
 * repeat; once more
+* layer
 ====
 [上聲] [but 去聲 in Mandarin]
 ====
@@ -5638,6 +5678,12 @@ See also: [世間][世]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ⾫ (short-tailed-bird) U+2FAB
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+2 [隻] U+96BB
+====
+* [:classifier:]
+* single
+====
 
 4 [雁] U+96C1
 ====

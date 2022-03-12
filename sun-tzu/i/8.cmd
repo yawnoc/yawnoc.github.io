@@ -11,7 +11,7 @@
   %title
     "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P8
   %date-created 2019-06-09
-  %date-modified 2020-05-13
+  %date-modified 2022-03-12
   \resources:rendering
 %%
 
@@ -109,29 +109,27 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
 ----
 
 <<
-  凡乘之法，重置其位。
+  凡乘之法、重置其位。
 ||
   .[In the] method of all multiplication,
-  put into .[a] stack .[the] places.
+  put layered .[the] places.
 >>
 ====
-* 重： .[a] stack \+
-  重，平聲， \C ch'ung4, \M ch(o/)ng
+* 重： layered \+
+  重、平聲、 \C ch'ung4, \M ch(o/)ng
 ====
 
 <<
-  上下相觀，上位有十步至十，有百步至百，有千步至千。
+  上下相觀、上位有十步至十、有百步至百、有千步至千。
 ||
-  .[That the] upper .[and] lower .[places] view each other:
-  be there tens .[in the] upper places, step unto .[the] tens;
-  be there hundreds, step unto .[the] hundreds;
-  be there thousands, step unto .[the] thousands.
+  The upper .[and] the lower observing each other:
+  have .[the] upper places tens, step unto .[the] tens;
+  have .[they] hundreds, step unto .[the] hundreds;
+  have .[they] thousands, step unto .[the] thousands.
 >>
 ====
 * \b[147] has 頭位 for 上位,
   both here and in many of the paragraphs to follow.
-
-* 至： unto; \or till
 
 * After putting the numbers into two separate rows,
   the text tells us to "step" (i.e.~shift to the left) the lower number
@@ -339,38 +337,33 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
 ====
 
 <<
-  以上命下，所得之數，列於中位。言十即過，不滿自如。
+  以上命下、所得之數、列於中位。言十即過、不滿自如。
 ||
-  Name the lower with the upper.
-  .[The] quantities which result,
-  .[are] arranged in .[a] row in .[the] middle places.
-  Tens are carried,
-  .[but those] not reaching .[ten], .[left] as themselves.
+  Name the lower with the upper;
+  .[the] numbers that result,
+  .[are] ranked in .[the] middle places.
+  Tens .[be] immediately carried,
+  .[but those] not reaching .[ten], .[left] as .[their] selves.
 >>
 ====
 * 命： name \+
   Or maybe "command/order" as in "operate on".
 
-* 列： arranged in .[a] row; \or displayed
-
-* 言 \+
-    Pretty sure this is a speech-assist word, with no meaning.
-
 * 過： carried; \lit passed
 ====
 
 <<
-  上位乘訖者，先去之。 \+
-  下位乘訖者，則俱退之。
+  上位乘訖者、先去之。 \+
+  下位乘訖者、則俱退之。
 ||
-  .[The] upper places which .[one hath] finished multiplying:
+  Those upper places which .[be] finished multiplying:
   remove them first. \+
-  .[The] lower places which .[one hath] finished multiplying:
+  Those lower places which .[be] finished multiplying:
   retreat them all.
 >>
 ====
-* 訖：終也，了也； finished \+
-  訖，居迄切， \C kat7, \M q(i\)
+* 訖： finished \+
+  訖、居迄切、 \C kat7, \M q(i\)
 
 @@[link to source code]
   /sun-tzu/code/animations
@@ -404,7 +397,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
 ====
 
 <<
-  六不積，五不隻。
+  六不積、五不隻。
 ||
   Sixes .[are] not accumulated;
   fives, not single.
@@ -516,15 +509,13 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. \+
 ====
 
 <<
-  上下相乘，至盡則已。
+  上下相乘、至盡則已。
 ||
   The upper .[and] the lower .[are] mutually multiplied,
-  finishing .[upon] reaching exhaustion.
+  finishing .[at] reaching exhaustion.
 >>
 ====
 * \c[52064] erroneously has 土下 for 上下.
-
-* 盡： exhaustion; \or .[the] end
 ====
 
 
