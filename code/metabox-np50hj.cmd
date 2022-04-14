@@ -3,7 +3,7 @@
 %%
   %title Debian on Metabox Alpha-S NP50HJ
   %date-created 2021-12-23
-  %date-modified 2022-04-14
+  %date-modified 2022-04-15
   \resources:rendering
 %%
 
@@ -163,7 +163,7 @@ $ sudo apt install \
     tlp \
     p7zip-full \
     git \
-    python3-pip \
+    python3-pip python3-gi-cairo \
     make \
     default-jdk \
     firefox-esr chromium \
