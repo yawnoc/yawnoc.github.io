@@ -3,7 +3,7 @@
 %%
   %title Debian on Metabox Alpha-S NP50HJ
   %date-created 2021-12-23
-  %date-modified 2022-04-05
+  %date-modified 2022-04-14
   \resources:rendering
 %%
 
@@ -168,7 +168,7 @@ $ sudo apt install \
     default-jdk \
     firefox-esr chromium \
     pluma \
-      glogg jq \
+      dos2unix glogg jq \
     atril \
       xournal \
       diffpdf \
