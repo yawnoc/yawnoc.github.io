@@ -3,7 +3,7 @@
 %%
   %title Debian on Metabox Alpha-S NP50HJ
   %date-created 2021-12-23
-  %date-modified 2022-04-15
+  %date-modified 2022-05-08
   \resources:rendering
 %%
 
@@ -179,6 +179,7 @@ $ sudo apt install \
     fontforge \
     lilypond \
     texlive-full \
+      ipe \
     fonts-noto-cjk \
     libreoffice \
 
