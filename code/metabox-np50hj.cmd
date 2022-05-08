@@ -179,7 +179,7 @@ $ sudo apt install \
     fontforge \
     lilypond \
     texlive-full \
-      ipe \
+      ipe pdftoipe \
     fonts-noto-cjk \
     libreoffice \
 
