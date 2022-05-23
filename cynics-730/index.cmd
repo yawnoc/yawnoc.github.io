@@ -5,7 +5,7 @@
 %%
   %title A cynic's 7.30 (and other programs)
   %date-created 2019-08-30
-  %date-modified 2021-06-18
+  %date-modified 2022-05-23
   \resources:rendering
   %css a~~
     .air-date {
@@ -73,6 +73,22 @@ it's supposed to be in a thought bubble.
 %
   <span class="air-date">\g<content></span>
 %}
+
+
+##{#2022} 2022 ##
+
+====
+* [.23~May~2022.]
+  """"{.interview}
+  ![LEIGH SALES, smiling] [Leigh Sales 2022]
+  ----{.h}
+  Welcome to the program.
+  [:{🎉😊}:]
+  ----
+  """"
+====
+
+@[Leigh Sales 2022]{.h} leigh-sales-2022-05-23.jpg @
 
 
 ##{#2021} 2021 ##
