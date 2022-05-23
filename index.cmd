@@ -9,7 +9,7 @@
   %title Conway's site
   %title-suffix <## nothing ##>
   %date-created 2019-03-09
-  %date-modified 2022-02-01
+  %date-modified 2022-05-23
   \resources:rendering
   %description Conway's site: Literary Chinese and applied mathematics.
   %footer-remark
@@ -59,6 +59,12 @@
 [||||
 Feedback welcome: s<mailto:s75ab511@duck.com>
 ||||]
+
+----
+**This site is currently being converted to CMDv4 on [branch `cmdv4`].
+Nothing will change until that is completed.**
+----
+@[branch `cmdv4`] https://github.com/yawnoc/yawnoc.github.io/tree/cmdv4 @
 
 ----
 Assorted musings of a remnant of the 20th~century,
