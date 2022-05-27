@@ -5,6 +5,16 @@
 OrdinaryDictionaryReplacement: #footer-properties-override
 - queue_position: AFTER #footer
 * %copyright-prior-years --> get_year@%date-created--
+* %post-copyright-remark -->
+  "
+    --
+    And if the current year is greater than get_year@%date-modified:
+    no, the footer is not "out of date".
+    It means that I haven't thought up
+    or gotten around to adding content since then;
+    possibly I have died.
+    --
+  "
 
 OrdinaryDictionaryReplacement: #boilerplate-properties-override
 - queue_position: AFTER #default-properties

@@ -66,6 +66,7 @@ OrdinaryDictionaryReplacement: #footer
   "
     <footer>
       (C)~%copyright-prior-years|get_year@%date-modified Conway.
+      %post-copyright-remark
       ==
       - First created: %date-created
       - Last modified: %date-modified
