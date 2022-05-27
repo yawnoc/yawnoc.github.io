@@ -5,6 +5,7 @@
 OrdinaryDictionaryReplacement: #boilerplate-properties-override
 - queue_position: BEFORE #boilerplate-properties
 * %title --> Conway's site
+* %description --> Conway's site: Literary Chinese and applied mathematics.
 
 %%%
 

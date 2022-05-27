@@ -1,3 +1,9 @@
+OrdinaryDictionaryReplacement: #global-boilerplate-properties-override
+- queue_position: BEFORE #boilerplate-properties
+* %head-elements-before-viewport -->
+    <meta name="author" content="Conway">
+    <meta name="description" content="%description">
+
 FixedDelimitersReplacement: #header
 - queue_position: BEFORE #inline-code
 - syntax_type: BLOCK
