@@ -2,12 +2,10 @@
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
 
-OrdinaryDictionaryReplacement: #cite-properties-override
-- queue_position: BEFORE #boilerplate-properties
-* %cite-title --> %title
-
 OrdinaryDictionaryReplacement: #boilerplate-properties-override
 - queue_position: BEFORE #boilerplate-properties
+- apply_mode: SEQUENTIAL
+* %cite-title --> %title
 * %title --> Conway's site
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
