@@ -132,6 +132,17 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ==
 
 
+##{#me-elsewhere} Me elsewhere
+
+||
+  [![GitHub](icons/github.svg)](https://github.com/yawnoc)
+  [![GitLab](icons/gitlab.svg)](https://gitlab.com/yawnoc)
+  [![Mathematica Stack Exchange](icons/mathematica-stackexchange.svg)]\
+    (https://mathematica.stackexchange.com/users/72028/yawnoc)
+  [![Lichess](icons/lichess.svg)](https://lichess.org/@/yawnoc)
+||
+
+
 ##{#testimonials} Testimonials
 
 ==
