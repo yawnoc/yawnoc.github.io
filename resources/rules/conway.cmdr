@@ -31,7 +31,7 @@ FixedDelimitersReplacement: #navigation
 - tag_name: nav
 
 OrdinaryDictionaryReplacement: #header-links
-- queue_position: BEFORE #explicit-links
+- queue_position: BEFORE #specified-links
 * !!home --> [Home]("You are already on the home page")
 * !home --> [Home](/ "Home page")
 * !top --> [Top](# "Jump to top of this page")
