@@ -1,0 +1,14 @@
+RegexDictionaryReplacement: #square-bracket-wrap
+* \A --> [
+* \Z --> ]
+
+FixedDelimitersReplacement: #translator-supplied
+- queue_position: BEFORE #specified-images
+- syntax_type: INLINE
+- opening_delimiter: .[
+- attribute_specifications: .translator-supplied
+- prohibited_content: BLOCKS
+- content_replacements: #square-bracket-wrap
+- closing_delimiter: ]
+- tag_name: span
+- concluding_replacements: #placeholder-protect
