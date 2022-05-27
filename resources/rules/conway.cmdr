@@ -1,3 +1,31 @@
+FixedDelimitersReplacement: #header
+- queue_position: BEFORE #inline-code
+- syntax_type: BLOCK
+- opening_delimiter: ^^^^
+- attribute_specifications: EMPTY
+- content_replacements: #prepend-newline
+- closing_delimiter: ^^^^
+- tag_name: header
+
+FixedDelimitersReplacement: #navigation
+- queue_position: BEFORE #inline-code
+- syntax_type: BLOCK
+- opening_delimiter: :::
+- attribute_specifications: EMPTY
+- content_replacements: #prepend-newline
+- closing_delimiter: :::
+- tag_name: nav
+
+OrdinaryDictionaryReplacement: #header-links
+- queue_position: BEFORE #explicit-links
+* !!home --> [Home]("You are already on the home page")
+* !home --> [Home](/ "Home page")
+* !top --> [Top](# "Jump to top of this page")
+* !translation --> [Translation](#translation "Jump to translation")
+* !result --> [Result](#result "Jump to result")
+* !cite --> [Cite](#cite "Cite this page")
+* !cynicism --> [More cynicism](/cynics-730/ "A cynic's 7.30")
+
 OrdinaryDictionaryReplacement: #typography
 - queue_position: BEFORE #escape-idle-html
 * ~ --> &nbsp;

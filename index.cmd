@@ -9,6 +9,20 @@ OrdinaryDictionaryReplacement: #boilerplate-properties-override
 %%%
 
 
+^^^^
+:::
+==
+- !!home
+- !top
+- [Math.](#math "Applied mathematics (or, physics)")
+- [Lit.](#lit "English translations of Literary Chinese")
+- [Code](#code "Useful code")
+- !cite
+==
+:::
+^^^^
+
+
 # %title
 
 --
