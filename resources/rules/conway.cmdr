@@ -43,7 +43,7 @@ OrdinaryDictionaryReplacement: #header-links
 OrdinaryDictionaryReplacement: #cite-this-page
 - queue_position: BEFORE #headings
 * %%cite -->
-    "
+  "
     ##{#cite} Cite this page
     --
     Conway (get_year@%date-modified).
@@ -51,7 +51,7 @@ OrdinaryDictionaryReplacement: #cite-this-page
     b<https://yawnoc.github.io/%cmd-basename>
     Accessed~yyyy-mm-dd.
     --
-    "
+  "
 
 RegexDictionaryReplacement: #get-year
 - queue_position: AFTER #boilerplate-properties
