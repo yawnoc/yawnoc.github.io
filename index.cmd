@@ -2,10 +2,16 @@
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
 
+OrdinaryDictionaryReplacement: #cite-properties-override
+- queue_position: BEFORE #boilerplate-properties
+* %cite-title --> %title
+
 OrdinaryDictionaryReplacement: #boilerplate-properties-override
 - queue_position: BEFORE #boilerplate-properties
 * %title --> Conway's site
 * %description --> Conway's site: Literary Chinese and applied mathematics.
+* %date-created --> 2019-03-09
+* %date-modified --> 2022-05-23
 
 %%%
 
@@ -168,3 +174,6 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 - ""Conway is just dumb."" <br>
   --- L.~&~K.~(2014)
 ==
+
+
+##cite
