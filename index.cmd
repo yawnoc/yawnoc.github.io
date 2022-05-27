@@ -2,6 +2,10 @@
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
 
+OrdinaryDictionaryReplacement: #copyright-prior-years-override
+- queue_position: BEFORE #default-properties
+* %copyright-prior-years --> get_year@%date-created--
+
 OrdinaryDictionaryReplacement: #boilerplate-properties-override
 - queue_position: BEFORE #boilerplate-properties
 - apply_mode: SEQUENTIAL
@@ -175,3 +179,6 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 
 
 %%cite
+
+
+%%footer
