@@ -2,12 +2,12 @@
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
 
-OrdinaryDictionaryReplacement: #copyright-prior-years-override
-- queue_position: BEFORE #default-properties
+OrdinaryDictionaryReplacement: #footer-properties-override
+- queue_position: AFTER #footer
 * %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #boilerplate-properties-override
-- queue_position: BEFORE #boilerplate-properties
+- queue_position: AFTER #default-properties
 - apply_mode: SEQUENTIAL
 * %cite-title --> %title
 * %title --> Conway's site
