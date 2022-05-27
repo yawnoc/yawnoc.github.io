@@ -174,4 +174,4 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ==
 
 
-##cite
+%%cite

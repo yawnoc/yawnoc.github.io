@@ -42,7 +42,7 @@ OrdinaryDictionaryReplacement: #header-links
 
 OrdinaryDictionaryReplacement: #cite-this-page
 - queue_position: BEFORE #headings
-* ##cite -->
+* %%cite -->
     "
     ##{#cite} Cite this page
     --
