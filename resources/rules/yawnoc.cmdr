@@ -141,3 +141,4 @@ OrdinaryDictionaryReplacement: #typography
 * ~ --> &nbsp;
 * --- --> &mdash;
 * -- --> &ndash;
+* (C) --> &copy;
