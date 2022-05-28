@@ -48,7 +48,7 @@ OrdinaryDictionaryReplacement: #header-links
 
 RegexDictionaryReplacement: #heading-permalinks
 - queue_position: BEFORE #headings
-* ^
+* ^ (?P<anchoring_whitespace> [^\S\n]* )
   (?P<opening_hashes_etc>
     [#]{2,6}
     \{
@@ -57,11 +57,13 @@ RegexDictionaryReplacement: #heading-permalinks
     [\s]+
   )
     -->
+  \g<anchoring_whitespace>\
   \g<opening_hashes_etc> []{.permalink aria-label="Permalink"}(#\g<id_>)
+- concluding_replacements: #backslash-continuations
 
 
 OrdinaryDictionaryReplacement: #cite-this-page
-- queue_position: BEFORE #headings
+- queue_position: BEFORE #heading-permalinks
 * %%cite -->
   "
     ##{#cite} Cite this page
