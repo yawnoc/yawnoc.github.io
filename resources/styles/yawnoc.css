@@ -100,3 +100,7 @@ header > nav > ul {
   overflow: auto;
   white-space: nowrap;
 }
+
+.translator-supplied {
+  color: #595959;
+}
