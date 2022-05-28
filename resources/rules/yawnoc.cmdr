@@ -141,6 +141,7 @@ OrdinaryDictionaryReplacement: #typography
 * ~ --> " "
 * --- --> —
 * -- --> –
+* \- --> ‑
 * (C) --> ©
 
 # Explanation saith:
@@ -148,4 +149,5 @@ OrdinaryDictionaryReplacement: #typography
 # " " is U+00A0 NO-BREAK SPACE (&nbsp;)
 # — is U+2014 EM DASH
 # – is U+2013 EN DASH
+# ‑ is U+2011 NON-BREAKING HYPHEN
 # © is U+00A9 COPYRIGHT SIGN
