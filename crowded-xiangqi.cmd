@@ -4,7 +4,7 @@
 
 OrdinaryDictionaryReplacement: #footer-properties-override
 - queue_position: AFTER #footer
-* %copyright-prior-years --> "get_year@%date-created, "
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #boilerplate-properties-override
 - queue_position: AFTER #default-properties
