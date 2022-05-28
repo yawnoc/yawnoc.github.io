@@ -2,6 +2,7 @@ RegexDictionaryReplacement: #square-bracket-wrap
 * \A --> [
 * \Z --> ]
 
+
 FixedDelimitersReplacement: #translator-supplied
 - queue_position: BEFORE #specified-images
 - syntax_type: INLINE

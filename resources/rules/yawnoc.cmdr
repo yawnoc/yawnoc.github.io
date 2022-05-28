@@ -14,6 +14,7 @@ OrdinaryDictionaryReplacement: #default-properties
     <link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 * %copyright-prior-years -->
 
+
 FixedDelimitersReplacement: #header
 - queue_position: BEFORE #inline-code
 - syntax_type: BLOCK
@@ -22,6 +23,7 @@ FixedDelimitersReplacement: #header
 - content_replacements: #prepend-newline
 - closing_delimiter: ^^^^
 - tag_name: header
+
 
 FixedDelimitersReplacement: #navigation
 - queue_position: BEFORE #inline-code
@@ -32,6 +34,7 @@ FixedDelimitersReplacement: #navigation
 - closing_delimiter: :::
 - tag_name: nav
 
+
 OrdinaryDictionaryReplacement: #header-links
 - queue_position: BEFORE #specified-links
 * !!home --> [Home]("You are already on the home page")
@@ -41,6 +44,7 @@ OrdinaryDictionaryReplacement: #header-links
 * !result --> [Result](#result "Jump to result")
 * !cite --> [Cite](#cite "Cite this page")
 * !cynicism --> [More cynicism](/cynics-730/ "A cynic's 7.30")
+
 
 RegexDictionaryReplacement: #heading-permalinks
 - queue_position: BEFORE #headings
@@ -54,6 +58,7 @@ RegexDictionaryReplacement: #heading-permalinks
   )
     -->
   \g<opening_hashes_etc> []{.permalink aria-label="Permalink"}(#\g<id_>)
+
 
 OrdinaryDictionaryReplacement: #cite-this-page
 - queue_position: BEFORE #headings
@@ -74,11 +79,13 @@ OrdinaryDictionaryReplacement: #cite-this-page
   "
 - concluding_replacements: #literals
 
+
 RegexDictionaryReplacement: #get-year
 - queue_position: AFTER #boilerplate-properties
 * [|]? get_year @ (?P<year> [0-9]{4}) - [0-9]{2} - [0-9]{2}
     -->
   \g<year>
+
 
 OrdinaryDictionaryReplacement: #footer
 - queue_position: BEFORE #unordered-lists
@@ -95,6 +102,7 @@ OrdinaryDictionaryReplacement: #footer
       ==
     </footer>
   "
+
 
 OrdinaryDictionaryReplacement: #typography
 - queue_position: BEFORE #escape-idle-html
