@@ -39,14 +39,17 @@ FixedDelimitersReplacement: #header-navigation-list
     #header-wrap
 
 
-FixedDelimitersReplacement: #navigation
+FixedDelimitersReplacement: #non-header-navigation-lists
 - queue_position: BEFORE #inline-code
 - syntax_type: BLOCK
-- opening_delimiter: :::
-- attribute_specifications: EMPTY
-- content_replacements: #prepend-newline
-- closing_delimiter: :::
-- tag_name: nav
+- opening_delimiter: ::::
+- content_replacements:
+    #unordered-list-items
+    #prepend-newline
+- closing_delimiter: ::::
+- tag_name: ul
+- concluding_replacements:
+    #navigation-wrap
 
 
 OrdinaryDictionaryReplacement: #header-links
