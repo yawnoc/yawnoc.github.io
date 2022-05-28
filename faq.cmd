@@ -40,16 +40,16 @@ OrdinaryDictionaryReplacement: #boilerplate-properties-override
 Using [GitHub Pages](https://pages.github.com/),
 which is __simple__, __fast__, and most importantly __ad-free__.
 I [do not use Jekyll] or any plugins;
-just straight CSS and JavaScript.
+just straight HTML and CSS (with sparing JavaScript).
 --
 --
 The pages are written in [Conway-Markdown (CMD)],
-which gets converted to HTML via my custom-written [Python converter].
+and converted to HTML via my custom-written [Python converter].
 For example, this page was generated
 from the CMD file [<code>%cmd-name.cmd</code>].
 --
 --
-Unfortunately conway.github.io was already taken though (sob);
+Unfortunately s<https://conway.github.io> was already taken though (sob);
 blame [Jake Conway].
 --
 
@@ -102,10 +102,10 @@ Using [KaTeX](https://katex.org/).
 ##{#translation} Translation
 
 
-###{#brackets} Why are there .[square-bracketed] words in your translations?
+###{#brackets} Why are there .[square-bracketed words] in your translations?
 
 --
-These are words I have supplied as translator,
+These are words that I have supplied as translator,
 which are absent in the original Chinese.
 --
 ==
@@ -141,23 +141,21 @@ For example,
 --
 
 
-###{#romanisation}
-  What weird romanisation system(s) are you using for proper names?
-
-
-#### In the translation parallel text itself:
+###{#romanisation-untranslated}
+  What weird romanisation system(s) are you using
+  for (untranslated words|<`titles will show original Chinese`>)?
 
 ++++
 1.
   An __established romanisation__ if one already exists,
-  e.g.~Confucius for .孔子 and Mencius for .孟子.
+  e.g.~(Confucius|孔子) for .孔子 and (Mencius|孟子) for .孟子.
 
 2.
   Otherwise, the __romanisation which best suits the context__,
   e.g.~[Hong Kong Government Romanisation] for someone from Hong Kong.
 
 3.
-  Otherwise, __Conway's common romanisation for Mandarin__:
+  Otherwise, __Conway's Common Romanisation for Mandarin__:
 
   ++{type=i}
   1. Write down the Wade--Giles romanisation.
@@ -187,7 +185,10 @@ For example,
 [rime dictionary]:
   https://ytenx.org/
 
-#### In the annotations (dot points) underneath the parallel text:
+
+###{#romanisation-annotations}
+  What romanisation system(s) are you using
+  in the annotations (dot points) underneath the parallel text?
 
 ==
 - For Cantonese: [Conway romanisation].
@@ -197,19 +198,14 @@ For example,
 [Conway romanisation]: /cantonese/conway-romanisation
 
 
-###{#this} Doesn't .是 mean "is", and .也, "also"?
+###{#this} Doesn't .是 mean "is", and .也 "also"?
 
 --
 Forget everything you learnt in Mandarin class; that is modern vernacular.
 Welcome to pre-twentieth-century Chinese Literature,
 in which .是 primarily means "this",
-and .也 is primarily an ending speech-assist word (with no inherent meaning)
-which asserts the preceding thing/notion/statement.
---
---
-In Hong Kong you might see .是日例湯 written on a chalkboard
-for soup at an eatery.
-Here .是日 means "this day", i.e.~"today".
+and .也 is primarily an ending speech-assist (語助)
+which asserts whatever precedes it.
 --
 
 

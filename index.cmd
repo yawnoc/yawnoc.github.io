@@ -91,7 +91,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ###{#lit-math} Mathematics
 
 ====
-- [.《孫子算經》 <br> "Sun Tzu's Computational Classic"](/sun-tzu/)
+- [.《孫子算經》 <br> "(Sun Tzu|孫子)'s Computational Classic"](/sun-tzu/)
   ==
   - [.《序》 "Preface"](/sun-tzu/preface/)
   - [.《卷上》 "Volume~I"](/sun-tzu/i/)
@@ -109,7 +109,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 - ["The Need to Win"]\
     (/lit/need-to-win)
 - [.《孔子問答》/.《小兒論》 <br>
-    "Q .[&] A .[with] Confucius" / ".[The] Little Child's Discourse"]\
+    "Q .[&] A .[with] (Confucius|孔子)" / ".[The] Little Child's Discourse"]\
     (/lit/little-child)
 - [.《太平山獅子亭記》 <br> "Record of .[the] Lion's Pavilion, Victoria Peak"]\
     (/lit/lion-pavilion)
