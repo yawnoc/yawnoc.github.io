@@ -42,6 +42,19 @@ OrdinaryDictionaryReplacement: #header-links
 * !cite --> [Cite](#cite "Cite this page")
 * !cynicism --> [More cynicism](/cynics-730/ "A cynic's 7.30")
 
+RegexDictionaryReplacement: #heading-permalinks
+- queue_position: BEFORE #headings
+* ^
+  (?P<opening_hashes_etc>
+    [#]{2,6}
+    \{
+      [#] (?P<id_> [\S]+ )
+    \}
+    [\s]+
+  )
+    -->
+  \g<opening_hashes_etc> []{.permalink aria-label="Permalink"}(#\g<id_>)
+
 OrdinaryDictionaryReplacement: #cite-this-page
 - queue_position: BEFORE #headings
 * %%cite -->
