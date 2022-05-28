@@ -18,7 +18,7 @@ body {
   overflow-wrap: break-word;
     /* allow breaking of long URLs */
   padding: 2rem var(--body-padding-horizontal) 0.7rem;
-    /* leave room at top for navigation bar */
+    /* leave room at top for header navigation bar */
 }
 
 footer {
@@ -55,7 +55,8 @@ html {
   background: #cde;
   margin: 0 auto;
   max-width: var(--html-max-width);
-  scroll-padding-top: 3rem; /* header clearance */
+  scroll-padding-top: 3rem;
+    /* header navigation bar clearance */
 }
 
 li {
