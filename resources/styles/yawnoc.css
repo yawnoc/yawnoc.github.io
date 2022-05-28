@@ -36,6 +36,12 @@ body {
 }
 
 
+:not(pre) > code {
+  border: 1px solid lightgrey;
+  padding: 0.15em;
+}
+
+
 footer {
   border-top: 2px solid black;
   font-size: 0.9rem;
