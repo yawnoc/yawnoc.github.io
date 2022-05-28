@@ -3,7 +3,7 @@
 # Minify main CSS using CSSO
 # <https://github.com/css/csso-cli>
 # npm install -g csso-cli
-csso resources/styles/main.css -o resources/styles/main.min.css
+csso resources/styles/yawnoc.css -o resources/styles/yawnoc.min.css
 
 # Minify rendering JS using terser
 # <https://github.com/terser/terser>
