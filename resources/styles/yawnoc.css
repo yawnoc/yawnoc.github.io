@@ -3,6 +3,9 @@
   --html-max-width: 44rem;
 }
 
+a:not([href]) { /* placeholder links (i.e. without href) */
+  color: #545454;
+}
 nav > ul > li > a {
   font-size: 0.9em;
   font-weight: bold;
