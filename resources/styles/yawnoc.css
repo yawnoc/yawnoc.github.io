@@ -4,7 +4,7 @@
 }
 
 
-a:not([href]) { /* placeholder links (i.e. without href) */
+a:not([href]) { /* placeholder links */
   color: #545454;
 }
 a[href^="http"]:not(
