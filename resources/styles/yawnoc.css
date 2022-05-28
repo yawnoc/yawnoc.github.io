@@ -82,11 +82,18 @@ ol {
   padding-left: 2em;
 }
 
+footer > p {
+  margin: 0.4em 0;
+}
+
 ul {
   padding-left: 2em;
 }
 li > ul {
   margin: 0.4em 0 0.45em;
+}
+footer > ul {
+  margin: 0.4em 0;
 }
 nav > ul {
   display: flex;
