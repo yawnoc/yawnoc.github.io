@@ -1,8 +1,8 @@
 RegexDictionaryReplacement: #chinese-lang
-- queue_position: BEFORE #whitespace
+- queue_position: BEFORE #spans
 * [.] (?P<chinese_run> [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+ )
     -->
-  <span lang=zh-Hant>\g<chinese_run></span>
+  //{lang=zh-Hant} \g<chinese_run>//
 
 # Explanation saith:
 
