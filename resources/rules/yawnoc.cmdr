@@ -87,7 +87,7 @@ OrdinaryDictionaryReplacement: #cite-this-page
   "
     ##{#cite} Cite this page
     --
-    Conway (get_year@%date-modified).
+    Conway~(get_year@%date-modified).
     %cite-title.
     b<https://yawnoc.github.io/%clean-url>
     Accessed~<span class="js-date">yyyy-mm-dd</span>.
