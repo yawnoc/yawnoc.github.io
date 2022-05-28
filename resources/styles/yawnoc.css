@@ -58,6 +58,10 @@ html {
   max-width: var(--html-max-width);
 }
 
+li {
+  margin-bottom: 0.3em;
+}
+
 nav > ul > li {
   margin: 0.2em 0.6em;
 }
@@ -74,6 +78,13 @@ header > nav {
   margin: 0;
 }
 
+ol {
+  padding-left: 2em;
+}
+
+ul {
+  padding-left: 2em;
+}
 nav > ul {
   display: flex;
   flex-wrap: wrap;
