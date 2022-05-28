@@ -1,0 +1,5 @@
+OrdinaryDictionaryReplacement: #properties-override-for-rendering-resources
+- queue_position: BEFORE #default-properties
+* %head-elements-after-viewport -->
+    %head-elements-after-viewport
+    <script defer src="/resources/scripts/rendering.min.js"></script>

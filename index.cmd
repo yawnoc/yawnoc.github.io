@@ -1,4 +1,5 @@
 < /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
 

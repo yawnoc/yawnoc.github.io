@@ -51,9 +51,15 @@ OrdinaryDictionaryReplacement: #cite-this-page
     Conway (get_year@%date-modified).
     %cite-title.
     b<https://yawnoc.github.io/%cmd-name>
-    Accessed~yyyy-mm-dd.
+    Accessed~<span class="js-date">yyyy-mm-dd</span>.
     --
+    u<``
+      <script>
+      document.addEventListener("DOMContentLoaded", function() {renderDate()})
+      </script>
+    ``>
   "
+- concluding_replacements: #literals
 
 RegexDictionaryReplacement: #get-year
 - queue_position: AFTER #boilerplate-properties
