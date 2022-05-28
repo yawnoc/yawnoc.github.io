@@ -1,3 +1,8 @@
+nav > ul > li > a {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
 body {
   background: white;
   font-family: sans-serif;
@@ -9,8 +14,37 @@ body {
     /* leave room at top for navigation bar */
 }
 
+header {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
 html {
   background: #cde;
   margin: 0 auto;
   max-width: 44rem;
+}
+
+nav > ul > li {
+  margin: 0.2em 0.6em;
+}
+
+nav {
+  background: #ffffcc;
+  border: 1px solid black;
+  margin: 1em 0.5em;
+}
+
+nav > ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+header > nav > ul {
+  flex-wrap: nowrap;
+  overflow: auto;
+  white-space: nowrap;
 }
