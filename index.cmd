@@ -118,7 +118,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
     (/lit/lion-pavilion)
 - [.《狐假虎威》 <br> ".[The] Fox Feigneth .[the] Tiger's Authority"]\
     (/lit/fox-tiger)
-- [.《施氏食獅史》 <br> ".[An] History of Mr~Shih's Eating Lions"]\
+- [.《施氏食獅史》 <br> ".[An] History of Mr~(Shih|施)'s Eating Lions"]\
     (/lit/lion-eating)
 ==
 

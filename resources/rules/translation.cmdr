@@ -13,3 +13,14 @@ FixedDelimitersReplacement: #translator-supplied
 - closing_delimiter: ]
 - tag_name: span
 - concluding_replacements: #placeholder-protect
+
+
+RegexDictionaryReplacement: #common-romanisation
+- queue_position: BEFORE #spans
+* \(
+    (?P<romanisation> [^\n]*? )
+  [|]
+    (?P<chinese> [\S]+ )
+  \)
+    -->
+  |//{.common-romanisation title=\g<chinese>} \g<romanisation>//
