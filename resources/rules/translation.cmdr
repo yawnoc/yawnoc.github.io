@@ -23,4 +23,4 @@ RegexDictionaryReplacement: #romanised-untranslated
     (?P<chinese> [\S]+ )
   \)
     -->
-  |//{.romanised-untranslated title=\g<chinese>} \g<romanisation>//
+  //{.romanised-untranslated title=\g<chinese>} \g<romanisation>//
