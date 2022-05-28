@@ -138,6 +138,13 @@ header > nav > ul {
 }
 
 
+.centred {
+  display: flex;
+  justify-content: center;
+  margin: 1em 0;
+}
+
+
 .permalink {
   background-image: url(/resources/styles/permalink.svg);
   background-position: center left;

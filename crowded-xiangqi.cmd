@@ -41,7 +41,7 @@ It is played using the standard 32-piece set on half the board
 
 [Chinese Chess]: https://en.wikipedia.org/wiki/Xiangqi
 
-||{.centred-block}
+||{.centred}
   ![Starting position for Crowded Xiangqi.]{w=360}(crowded-xiangqi.png)
 ||
 
