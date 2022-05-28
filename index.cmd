@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #boilerplate-properties-override
 - apply_mode: SEQUENTIAL
 * %cite-title --> %title
 * %title --> Conway's site
+* " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
 * %date-modified --> 2022-xx-xx
