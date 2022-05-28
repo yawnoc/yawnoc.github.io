@@ -1,27 +1,28 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
 
-%%
-  %title Page not found
-  %author <## no one ##>
-  \resources
-  %css a~~
-    strong {
-      display: block;
-      margin-bottom: 1em;
-    }
-  ~~
-%%
+OrdinaryDictionaryReplacement: #boilerplate-properties-override
+- queue_position: AFTER #default-properties
+* %title --> Page not found
+* <meta name="author" content="Conway"> -->
+* <meta name="description" content="%description"> -->
+
+%%%
 
 
-[[====
-* \header-link:home
-====]]
+^^^^
+:::
+==
+- !home
+==
+:::
+^^^^
 
 
-# 404: %title #
+# 404: %title
 
-----
+--
 **The requested page was not found.**
-
+--
+--
 Head back to the [home page](/).
-----
+--
