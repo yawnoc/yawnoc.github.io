@@ -14,6 +14,7 @@ OrdinaryDictionaryReplacement: #default-properties
     <link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 * </title> --> " | Conway's site</title>"
 * %copyright-prior-years -->
+* %post-copyright-remark -->
 
 
 RegexDictionaryReplacement: #navigation-wrap
