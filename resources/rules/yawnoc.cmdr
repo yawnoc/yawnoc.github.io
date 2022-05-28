@@ -50,7 +50,7 @@ OrdinaryDictionaryReplacement: #cite-this-page
     --
     Conway (get_year@%date-modified).
     %cite-title.
-    b<https://yawnoc.github.io/%cmd-name>
+    b<https://yawnoc.github.io/%clean-url>
     Accessed~<span class="js-date">yyyy-mm-dd</span>.
     --
     u<``
