@@ -7,7 +7,6 @@ a:not([href]) { /* placeholder links (i.e. without href) */
   color: #545454;
 }
 nav > ul > li > a {
-  font-size: 0.9em;
   font-weight: bold;
 }
 
@@ -64,7 +63,7 @@ li {
 }
 
 nav > ul > li {
-  margin: 0.2em 0.6em;
+  margin: 0.33em 0.66em;
 }
 
 nav {
