@@ -138,7 +138,7 @@ InlineAssortedDelimitersReplacement: #spans
 
 OrdinaryDictionaryReplacement: #typography
 - queue_position: BEFORE #escape-idle-html
-* ~ --> &nbsp;
-* --- --> &mdash;
-* -- --> &ndash;
-* (C) --> &copy;
+* ~ --> " "
+* --- --> —
+* -- --> –
+* (C) --> ©
