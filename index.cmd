@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #footer-properties-override
   "
     --
     And if the current year is greater than get_year@%date-modified:
-    no, the footer is not "out of date".
+    no, the footer copyright is not "out of date".
     It means that I haven't thought up
     or gotten around to adding content since then;
     possibly I have died.
