@@ -115,6 +115,13 @@ footer > p {
 }
 
 
+pre {
+  border: 1px solid grey;
+  overflow-x: auto;
+  padding: 0.5em;
+}
+
+
 ul {
   padding-left: 2em;
 }
