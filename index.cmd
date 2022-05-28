@@ -1,4 +1,4 @@
-< /resources/rules/conway.cmdr
+< /resources/rules/yawnoc.cmdr
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
 
