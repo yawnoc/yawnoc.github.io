@@ -85,6 +85,9 @@ ol {
 ul {
   padding-left: 2em;
 }
+li > ul {
+  margin: 0.4em 0 0.45em;
+}
 nav > ul {
   display: flex;
   flex-wrap: wrap;
