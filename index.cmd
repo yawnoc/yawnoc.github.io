@@ -94,7 +94,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ###{#lit-math} Mathematics
 
 ====
-- [.《孫子算經》 "Sun Tzu's Computational Classic"](/sun-tzu/)
+- [.《孫子算經》 <br> "Sun Tzu's Computational Classic"](/sun-tzu/)
   ==
   - [.《序》 "Preface"](/sun-tzu/preface/)
   - [.《卷上》 "Volume~I"](/sun-tzu/i/)
@@ -102,7 +102,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
   - .《卷下》 "Volume~III" (haven't started)
   ==
 
-- [.《海島算經》 ".[The] Sea Island Computational Classic"](/lit/sea-island)
+- [.《海島算經》 <br> ".[The] Sea Island Computational Classic"](/lit/sea-island)
 ====
 
 
@@ -111,14 +111,14 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ==
 - ["The Need to Win"]\
     (/lit/need-to-win)
-- [.《孔子問答》/.《小兒論》
+- [.《孔子問答》/.《小兒論》 <br>
     "Q .[&] A .[with] Confucius" / ".[The] Little Child's Discourse"]\
     (/lit/little-child)
-- [.《太平山獅子亭記》 "Record of .[the] Lion's Pavilion, Victoria Peak"]\
+- [.《太平山獅子亭記》 <br> "Record of .[the] Lion's Pavilion, Victoria Peak"]\
     (/lit/lion-pavilion)
-- [.《狐假虎威》 ".[The] Fox Feigneth .[the] Tiger's Authority"]\
+- [.《狐假虎威》 <br> ".[The] Fox Feigneth .[the] Tiger's Authority"]\
     (/lit/fox-tiger)
-- [.《施氏食獅史》 ".[An] History of Mr~Shih's Eating Lions"]\
+- [.《施氏食獅史》 <br> ".[An] History of Mr~Shih's Eating Lions"]\
     (/lit/lion-eating)
 ==
 
