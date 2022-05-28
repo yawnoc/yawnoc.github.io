@@ -97,10 +97,13 @@ OrdinaryDictionaryReplacement: #footer
       ==
       - First created: %date-created
       - Last modified: %date-modified
-      - CMD source: [<code>%cmd-name.cmd</code>]\
-        (https://github.com/yawnoc/yawnoc.github.io/blob/cmdv4/%cmd-name.cmd)
+      - Compiled from [<code>%cmd-name.cmd</code>] using [CMDv%cmd-version]
       ==
     </footer>
+    [<code>%cmd-name.cmd</code>]:
+      https://github.com/yawnoc/yawnoc.github.io/blob/cmdv4/%cmd-name.cmd
+    [CMDv%cmd-version]:
+      https://github.com/conway-markdown/conway-markdown/tree/v%cmd-version
   "
 
 
