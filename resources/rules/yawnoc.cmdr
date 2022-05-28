@@ -15,14 +15,28 @@ OrdinaryDictionaryReplacement: #default-properties
 * %copyright-prior-years -->
 
 
-FixedDelimitersReplacement: #header
+RegexDictionaryReplacement: #navigation-wrap
+* \A --> <nav>\n
+* \Z --> \n</nav>
+
+
+RegexDictionaryReplacement: #header-wrap
+* \A --> <header>\n
+* \Z --> \n</header>
+
+
+FixedDelimitersReplacement: #header-navigation-list
 - queue_position: BEFORE #inline-code
 - syntax_type: BLOCK
 - opening_delimiter: ^^^^
-- attribute_specifications: EMPTY
-- content_replacements: #prepend-newline
+- content_replacements:
+    #unordered-list-items
+    #prepend-newline
 - closing_delimiter: ^^^^
-- tag_name: header
+- tag_name: ul
+- concluding_replacements:
+    #navigation-wrap
+    #header-wrap
 
 
 FixedDelimitersReplacement: #navigation

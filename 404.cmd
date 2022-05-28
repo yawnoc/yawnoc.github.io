@@ -10,11 +10,7 @@ OrdinaryDictionaryReplacement: #boilerplate-properties-override
 
 
 ^^^^
-:::
-==
 - !home
-==
-:::
 ^^^^
 
 
