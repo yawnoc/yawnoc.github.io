@@ -99,7 +99,7 @@ OrdinaryDictionaryReplacement: #footer
       ==
       - First created: %date-created
       - Last modified: %date-modified
-      - Compiled from [<code>%cmd-name.cmd</code>] using [CMDv%cmd-version]
+      - Compiled from [<code>%cmd-name.cmd</code>] with [CMDv%cmd-version]
       ==
     </footer>
     [<code>%cmd-name.cmd</code>]:
