@@ -5,12 +5,12 @@ body {
   margin: 0;
   overflow-wrap: break-word;
     /* allow breaking of long URLs */
-  padding: 2em 1em 0.7em;
+  padding: 2rem 1rem 0.7rem;
     /* leave room at top for navigation bar */
 }
 
 html {
   background: #cde;
   margin: 0 auto;
-  max-width: 44em;
+  max-width: 44rem;
 }
