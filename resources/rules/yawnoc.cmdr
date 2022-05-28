@@ -109,6 +109,14 @@ OrdinaryDictionaryReplacement: #footer
   "
 
 
+InlineAssortedDelimitersReplacement: #spans
+- queue_position: BEFORE #whitespace
+- delimiter_conversion:
+    //=span
+- attribute_specifications: EMPTY
+- prohibited_content: BLOCKS
+
+
 OrdinaryDictionaryReplacement: #typography
 - queue_position: BEFORE #escape-idle-html
 * ~ --> &nbsp;
