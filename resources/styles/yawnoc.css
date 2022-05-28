@@ -114,6 +114,9 @@ header > nav {
 ol {
   padding-left: 2em;
 }
+li > ol {
+  margin: 0.4em 0 0.45em;
+}
 
 
 footer > p {
