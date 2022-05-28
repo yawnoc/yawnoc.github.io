@@ -24,7 +24,7 @@ OrdinaryDictionaryReplacement: #boilerplate-properties-override
 * %title --> Conway's site
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2022-05-23
+* %date-modified --> 2022-xx-xx
 * %styles -->
     .icon-link {
       padding: 0 0.2em;

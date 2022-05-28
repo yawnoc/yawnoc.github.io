@@ -101,7 +101,7 @@ OrdinaryDictionaryReplacement: #cite-this-page
 
 RegexDictionaryReplacement: #get-year
 - queue_position: AFTER #boilerplate-properties
-* [|]? get_year @ (?P<year> [0-9]{4}) - [0-9]{2} - [0-9]{2}
+* [|]? get_year @ (?P<year> [\S]{4}) - [\S]{2} - [\S]{2}
     -->
   \g<year>
 
