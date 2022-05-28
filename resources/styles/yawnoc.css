@@ -1,10 +1,14 @@
 body {
+  background: white;
   font-family: sans-serif;
   line-height: 1.4;
+  margin: 0;
   overflow-wrap: break-word; // allow breaking of long URLs
+  padding: 2em 1em 0.7em; // leave room at top for navigation bar
 }
 
 html {
+  background: #cde;
   margin: 0 auto;
   max-width: 44em;
 }
