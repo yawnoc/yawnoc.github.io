@@ -24,6 +24,14 @@ OrdinaryDictionaryReplacement: #boilerplate-properties-override
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
 * %date-modified --> 2022-05-23
+* %styles -->
+    .icon-link {
+      padding: 0 0.2em;
+      background-image: none;
+    }
+    .icon-link > img {
+      height: 2.5em;
+    }
 
 %%%
 
@@ -168,11 +176,11 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ##{#me-elsewhere} Me elsewhere
 
 ||
-  [![GitHub](icons/github.svg)](https://github.com/yawnoc)
-  [![GitLab](icons/gitlab.svg)](https://gitlab.com/yawnoc)
+  [![GitHub](icons/github.svg)]{.icon-link}(https://github.com/yawnoc)
+  [![GitLab](icons/gitlab.svg)]{.icon-link}(https://gitlab.com/yawnoc)
   [![Mathematica Stack Exchange](icons/mathematica-stackexchange.svg)]\
-    (https://mathematica.stackexchange.com/users/72028/yawnoc)
-  [![Lichess](icons/lichess.svg)](https://lichess.org/@/yawnoc)
+    {.icon-link}(https://mathematica.stackexchange.com/users/72028/yawnoc)
+  [![Lichess](icons/lichess.svg)]{.icon-link}(https://lichess.org/@/yawnoc)
 ||
 
 
