@@ -83,8 +83,10 @@ RegexDictionaryReplacement: #.pronunciations
   __{.pronunciation l=zh-Hant} \g<tone>__
 
 RegexDictionaryReplacement: #.phrase-entries
-- queue_position: BEFORE #referenced-links
-* (\S)(\S)： --> ::{l=zh-Hant} [\1]|[\2]::
+- queue_position: BEFORE #unordered-lists
+* [*] [ ] (\S)(\S)：
+    -->
+  *{#\1\2} ::{l=zh-Hant} [\1]|[\2]：::
 
 RegexDictionaryReplacement: #.square-bracket-wrap
 * \A --> [
