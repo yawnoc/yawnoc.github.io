@@ -1,4 +1,4 @@
-OrdinaryDictionaryReplacement: #properties-override-for-rendering-resources
+OrdinaryDictionaryReplacement: #.rendering.properties-override
 - queue_position: BEFORE #default-properties
 * %head-elements-after-viewport -->
     %head-elements-after-viewport
