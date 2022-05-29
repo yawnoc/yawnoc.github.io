@@ -23,13 +23,13 @@ RegexDictionaryReplacement: #.translation.romanised-untranslated
     (?P<chinese> [\S]+ )
   \)
     -->
-  //{.romanised-untranslated title=\g<chinese>} \g<romanisation>//
+  ::{.romanised-untranslated title=\g<chinese>} \g<romanisation>::
 
 
 OrdinaryDictionaryReplacement: #.translation.alternative-markers
 - queue_position: BEFORE #.yawnoc.spans
-* \or --> //{.alternative-marker} or//
-* \int --> //{.alternative-marker int="interchangeable with"} int.//
-* \lit --> //{.alternative-marker title="literally"} lit.//
-* \met --> //{.alternative-marker title="metaphorically rendered"} met.//
-* \var --> //{.alternative-marker title="variant of"} var.//
+* \or --> ::{.alternative-marker} or::
+* \int --> ::{.alternative-marker int="interchangeable with"} int.::
+* \lit --> ::{.alternative-marker title="literally"} lit.::
+* \met --> ::{.alternative-marker title="metaphorically rendered"} met.::
+* \var --> ::{.alternative-marker title="variant of"} var.::

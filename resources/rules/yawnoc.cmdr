@@ -136,7 +136,7 @@ OrdinaryDictionaryReplacement: #.yawnoc.footer
 InlineAssortedDelimitersReplacement: #.yawnoc.spans
 - queue_position: BEFORE #whitespace
 - delimiter_conversion:
-    //=span
+    ::=span
 - attribute_specifications: EMPTY
 - prohibited_content: BLOCKS
 
