@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - apply_mode: SEQUENTIAL
 * %cite-title --> %title
 * %title --> Crowded Xiangqi
-* %description --> A half-board variant of Chinese Chess.
+* %description --> Conway's half-board variant of Chinese Chess.
 * %date-created --> 2020-09-06
 * %date-modified --> 2022-xx-xx
 
