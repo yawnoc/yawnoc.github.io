@@ -17,7 +17,6 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
 * %date-modified --> 2022-xx-xx
-* %styles -->
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
