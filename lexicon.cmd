@@ -3952,7 +3952,7 @@ See also: [規矩][規]
 
 3 [竽] U+7AFD
 ==
-* ((y(u") | ~~竽~~)) {:free reed instrument:}
+* (y(u")|竽) {:free reed instrument:}
 ==
 
 4 [笑] U+7B11
@@ -3962,7 +3962,7 @@ See also: [規矩][規]
 
 5 [笙] U+7B19
 ==
-* ((sh(e^)ng | ~~笙~~)) {:free reed instrument:}
+* (sh(e^)ng|笙) {:free reed instrument:}
 ==
 
 5 [符] U+7B26
