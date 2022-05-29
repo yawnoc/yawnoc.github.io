@@ -24,3 +24,12 @@ RegexDictionaryReplacement: #.translation.romanised-untranslated
   \)
     -->
   //{.romanised-untranslated title=\g<chinese>} \g<romanisation>//
+
+
+OrdinaryDictionaryReplacement: #.translation.alternative-markers
+- queue_position: BEFORE #.yawnoc.spans
+* \or --> //{.alternative-marker} or//
+* \int --> //{.alternative-marker} int.//
+* \lit --> //{.alternative-marker} lit.//
+* \met --> //{.alternative-marker} met.//
+* \var --> //{.alternative-marker} var.//

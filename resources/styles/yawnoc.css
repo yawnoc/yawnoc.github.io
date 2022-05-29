@@ -154,6 +154,12 @@ header > nav > ul {
 }
 
 
+.alternative-marker {
+  color: #444;
+  font-family: Palatino, Georgia, serif;
+}
+
+
 .centred {
   display: flex;
   justify-content: center;
