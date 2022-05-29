@@ -88,9 +88,9 @@ FixedDelimitersReplacement: #.types
 - opening_delimiter: [:
 - attribute_specifications: .type
 - prohibited_content: BLOCKS
-- content_replacements: #.translation.square-bracket-wrap
 - closing_delimiter: :]
 - tag_name: i
+- concluding_replacements: #.translation.square-bracket-wrap
 
 
 %%%
