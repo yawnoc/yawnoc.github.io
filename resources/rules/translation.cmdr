@@ -1,3 +1,25 @@
+RegexDictionaryReplacement: #.translation.partition-parallel-text
+* \A -->
+    ||||||||{.source-text l=zh-Hant}\n
+* ^ [^\S\n]* \\{2} $ -->
+    ||||||||
+    ||||||||{.destination-text l=en}
+* \Z -->
+    ||||||||\n
+
+
+FixedDelimitersReplacement: #.translation.parallel-text
+- queue_position: BEFORE #divisions
+- syntax_type: BLOCK
+- opening_delimiter: <<
+- attribute_specifications: .translation .parallel-text
+- content_replacements:
+    #.translation.partition-parallel-text
+    #prepend-newline
+- closing_delimiter: >>
+- tag_name: div
+
+
 RegexDictionaryReplacement: #.translation.square-bracket-wrap
 * \A --> [
 * \Z --> ]
@@ -18,7 +40,7 @@ FixedDelimitersReplacement: #.translation.translator-supplied
 RegexDictionaryReplacement: #.translation.romanised-untranslated
 - queue_position: BEFORE #.yawnoc.spans
 * \(
-    (?P<romanisation> [^\n]*? )
+    (?P<romanisation> [^\n()]*? )
   [|]
     (?P<chinese> [\S]+ )
   \)

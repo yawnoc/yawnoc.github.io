@@ -122,6 +122,9 @@ li > ol {
 footer > p {
   margin: 0.4em 0;
 }
+.translation-annotations > li > p {
+  margin: 0.3em 0;
+}
 
 
 pre {
@@ -164,6 +167,21 @@ header > nav > ul {
   display: flex;
   justify-content: center;
   margin: 1em 0;
+}
+
+
+.parallel-text > .destination-text {
+  border-top: 1px solid black;
+  margin-top: 0.3em;
+  padding-top: 0.3em;
+}
+
+
+.parallel-text {
+  border: 2px solid black;
+  font-size: large;
+  margin: 0.7em;
+  padding: 0.4em 0.5em;
 }
 
 
