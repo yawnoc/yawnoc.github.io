@@ -82,6 +82,10 @@ RegexDictionaryReplacement: #.pronunciations
     -->
   __{.pronunciation l=zh-Hant} \g<tone>__
 
+RegexDictionaryReplacement: #.square-bracket-wrap
+* \A --> [
+* \Z --> ]
+
 FixedDelimitersReplacement: #.types
 - queue_position: BEFORE #whitespace
 - syntax_type: INLINE
@@ -90,7 +94,21 @@ FixedDelimitersReplacement: #.types
 - prohibited_content: BLOCKS
 - closing_delimiter: :]
 - tag_name: i
-- concluding_replacements: #.translation.square-bracket-wrap
+- concluding_replacements: #.square-bracket-wrap
+
+RegexDictionaryReplacement: #.curly-bracket-wrap
+* \A --> {
+* \Z --> }
+
+FixedDelimitersReplacement: #.disambiguators
+- queue_position: BEFORE #whitespace
+- syntax_type: INLINE
+- opening_delimiter: {:
+- attribute_specifications: .disambiguator
+- prohibited_content: BLOCKS
+- closing_delimiter: :}
+- tag_name: i
+- concluding_replacements: #.curly-bracket-wrap
 
 
 %%%
@@ -188,7 +206,7 @@ Lookup by stroke count of radical:
 
 1 [丁] U+4E01
 ==
-* D {4th heavenly stem}
+* D {:4th heavenly stem:}
 * male
 ==
 
@@ -258,12 +276,12 @@ See also: [逝世][逝]
 
 4 [丙] U+4E19
 ==
-* C {3rd heavenly stem}
+* C {:3rd heavenly stem:}
 ==
 
 6 [两] U+4E24
 ==
-* {\var [兩]}
+* \var [兩]
 ==
 
 
@@ -277,7 +295,7 @@ See also: [逝世][逝]
 ==
 [去聲]
 ==
-* hit {a target}
+* hit {:a target:}
 ==
 
 
@@ -304,14 +322,14 @@ See also: [逝世][逝]
 * be
 * thus
 * [:speech-assist:]
-* {auxiliary} do
+* {:auxiliary:} do
 ==
 
 3 [之] U+4E4B
 ==
 * go
 * this
-* {generic} him; it
+* {:generic:} him; it
 * of
 * [:speech-assist:]
 ==
@@ -337,7 +355,7 @@ See also: [逝世][逝]
 
 0 [乙] U+4E59
 ==
-* B {2nd heavenly stem}
+* B {:2nd heavenly stem:}
 * one
 ==
 
@@ -400,7 +418,7 @@ See also: [逝世][逝]
 
 1 [于] U+4E8E
 ==
-* {\var [於]}
+* \var [於]
 ==
 
 2 [五] U+4E94
@@ -438,7 +456,7 @@ See also: [逝世][逝]
 
 0 [人] U+4EBA
 ==
-* {generic} man; human; person
+* {:generic:} man; human; person
 * another; others
 ==
 
@@ -484,7 +502,7 @@ See also: [何以][何], [可以][可]
 
 4 [任] U+4EFB
 ==
-* burden; bear; serve {a role}
+* burden; bear; serve {:a role:}
 * responsibility; charge
 ==
 
@@ -717,7 +735,7 @@ See also: [幾何][幾]
 4 [共] U+5171
 [上聲]
 ==
-* {\int [拱]}
+* \int [拱]
 ==
 [去聲]
 ==
@@ -732,8 +750,8 @@ See also: [幾何][幾]
 
 6 [其] U+5176
 ==
-* {generic} his; its
-* {generic} he; it; that
+* {:generic:} his; its
+* {:generic:} he; it; that
 * thereof
 * likely
 * let
@@ -745,7 +763,7 @@ See also: [幾何][幾]
 
 7 [兹] U+5179
 ==
-* {\var [茲]}
+* \var [茲]
 ==
 
 
@@ -753,7 +771,7 @@ See also: [幾何][幾]
 
 2 [内] U+5185
 ==
-* {\var [內]}
+* \var [內]
 ==
 
 4 [再] U+518D
@@ -784,7 +802,7 @@ See also: [幾何][幾]
 
 1 [凢] U+51E2
 ==
-* {\var [凡]}
+* \var [凡]
 ==
 
 
@@ -831,7 +849,7 @@ See also: [幾何][幾]
 ==
 * control; regulate
 * system
-* {\var [製]}
+* \var [製]
 ==
 
 7 [則] U+5247
@@ -1022,16 +1040,16 @@ See also: [北方][方]
 5 [即] U+5373
 ==
 * nigh
-* assume {a throne}
+* assume {:a throne:}
 * though
 * immediately
 * that is; which is
-* {auxiliary} do
+* {:auxiliary:} do
 ==
 
 5 [却] U+5374
 ==
-* {\var [卻]}
+* \var [卻]
 ==
 
 7 [卻] U+537B
@@ -1063,7 +1081,7 @@ See also: [北方][方]
 9 [參] U+53C3
 [平聲] 音森 sh(e-)n
 ==
-* .[the] Three {constellation}
+* .[the] Three {:constellation:}
 * ginseng
 ==
 [平聲] 音驂 c(e-)n
@@ -1076,7 +1094,7 @@ See also: [北方][方]
 ==
 [平聲] 音三 s(a-)n
 ==
-* {\int [三]} three
+* \int [三]: three
 ==
 
 
@@ -1156,8 +1174,8 @@ See also: [北方][方]
 2 [句] U+53E5
 [平聲]
 ==
-* {\var [勾]}
-* {\int [鉤]}
+* \var [勾]
+* \int [鉤]
 ==
 [去聲]
 ==
@@ -1305,7 +1323,7 @@ See also: [未嘗][未]
 15 [嚮] U+56AE
 [上聲]
 ==
-* {\var [響]}
+* \var [響]
 ==
 [去聲]
 ==
@@ -1357,7 +1375,7 @@ See also: [未嘗][未]
 
 3 [在] U+5728
 ==
-* be {exist}
+* be {:exist:}
 * in; into
 ==
 ==
@@ -1393,7 +1411,7 @@ See also: [未嘗][未]
 
 10 [塡] U+5861
 ==
-* {\var [填]}
+* \var [填]
 ==
 
 10 [填] U+586B
@@ -1420,7 +1438,7 @@ See also: [詩士][詩]
 
 1 [壬] U+58EC
 ==
-* I {9th heavenly stem}
+* I {:9th heavenly stem:}
 ==
 
 
@@ -1439,7 +1457,7 @@ See also: [詩士][詩]
 
 0 [夕] U+5915
 ==
-* even {evening}
+* even {:evening:}
 ==
 
 2 [外] U+5916
@@ -1480,7 +1498,7 @@ See also: [太平][平]
 1 [夫] U+592B
 [陰平]
 ==
-* {male} man
+* {:male:} man
 * husband
 ==
 --
@@ -1503,17 +1521,17 @@ See also: [夫子][子], [農夫][農]
 5 [奇] U+5947
 [陰平]
 ==
-* odd {opposite of even}
+* odd {:opposite of even:}
 ==
 [陽平]
 ==
-* odd {strange}
+* odd {:strange:}
 ==
 
 6 [奏] U+594F
 ==
 * report
-* play {music}
+* play {:music:}
 ==
 ==
 * [合]奏： play .[in] ensemble
@@ -1521,7 +1539,7 @@ See also: [夫子][子], [農夫][農]
 
 6 [奕] U+5955
 ==
-* {\var [弈]}
+* \var [弈]
 ==
 
 7 [奚] U+595A
@@ -1609,7 +1627,7 @@ See also: [嬉戲][戲]
 0 [子] U+5B50
 ==
 * child; son; daughter
-* master {teacher}; \met thou
+* master {:teacher:}; \met thou
 ==
 ==
 * [夫]子： master
@@ -1668,7 +1686,7 @@ See also: [從容][從]
 
 8 [寄] U+5BC4
 ==
-* commit {to entrust}
+* commit {:to entrust:}
 * adhere
 * send (away)
 ==
@@ -1807,7 +1825,7 @@ See also: [從容][從]
 
 7 [峰] U+5CF0
 ==
-* {\var [峯]}
+* \var [峯]
 ==
 
 7 [島] U+5CF6
@@ -1846,8 +1864,8 @@ See also: [從容][從]
 
 0 [己] U+5DF1
 ==
-* oneself; {generic} himself
-* F {6th heavenly stem}
+* oneself; {:generic:} himself
+* F {:6th heavenly stem:}
 ==
 
 0 [已] U+5DF2
@@ -1875,7 +1893,7 @@ See also: [從容][從]
 
 7 [師] U+5E2B
 ==
-* master {teacher}
+* master {:teacher:}
 ==
 
 8 [帶] U+5E36
@@ -1949,7 +1967,7 @@ See also: [從容][從]
 
 5 [庚] U+5E9A
 ==
-* G {7th heavenly stem}
+* G {:7th heavenly stem:}
 ==
 
 6 [度] U+5EA6
@@ -2002,7 +2020,7 @@ See also: [從容][從]
 * [:speech-assist:]
 ==
 ==
-* [同]式： {geometrically} similar
+* [同]式： {:geometrically:} similar
 ==
 
 
@@ -2055,7 +2073,7 @@ See also: [從容][從]
 5 [彼] U+5F7C
 ==
 * those; there; other
-* {generic} he
+* {:generic:} he
 ==
 
 5 [往] U+5F80
@@ -2103,8 +2121,8 @@ See also: [何得][何]
 ==
 [陰平] 音蹤 z(o-)ng
 ==
-* {\int [縱]} vertical [but [去聲] z(o\)ng in Mainlandia]
-* {\int [蹤]}
+* \int [縱]: vertical [but [去聲] z(o\)ng in Mainlandia]
+* \int [蹤]
 ==
 [陽平] 音叢 c(o/)ng
 ==
@@ -2113,11 +2131,11 @@ See also: [何得][何]
 ==
 [陰去] 音瘲 z(o\)ng
 ==
-* {\int [縱]}
+* \int [縱]
 ==
 [陽去] 音頌 z(o\)ng
 ==
-* paternal {relative}
+* paternal {:relative:}
 ==
 
 8 [御] U+5FA1
@@ -2320,7 +2338,7 @@ See also: [性命][命]
 
 1 [戊] U+620A
 ==
-* E {5th heavenly stem}
+* E {:5th heavenly stem:}
 ==
 
 2 [成] U+6210
@@ -2364,7 +2382,7 @@ See also: [性命][命]
 
 0 [户] U+6237
 ==
-* {\var [戶]}
+* \var [戶]
 ==
 
 4 [所] U+6240
@@ -2402,7 +2420,7 @@ See also: [所在][在]
 
 6 [拱] U+62F1
 ==
-* clasp hands {respectful gesture}
+* clasp hands {:respectful gesture:}
 * go round
 ==
 
@@ -2512,7 +2530,7 @@ See also: [掌握][握]
 
 7 [敎] U+654E
 ==
-* {\var [教]}
+* \var [教]
 ==
 
 7 [敗] U+6557
@@ -2544,7 +2562,7 @@ See also: [掌握][握]
 [上聲]
 ==
 * [:adjective:] scattered
-* {medicinal} powder
+* {:medicinal:} powder
 ==
 [去聲]
 ==
@@ -2621,10 +2639,10 @@ See also: [掌握][握]
 * square; rectangle; cube; \met block
 * direction; side
 * place
-* {morally} upright
+* {:morally:} upright
 * method; way
 * circumference; perimeter
-* {medical} prescription
+* {:medical:} prescription
 * just; only then; at
 ==
 ==
@@ -2668,7 +2686,7 @@ See also: [掌握][握]
 * bright; brilliant; \met wise
 * clear; clarity; illuminate
 * eyesight
-* next {of dates}
+* next {:of dates:}
 ==
 
 4 [昔] U+6614
@@ -2791,14 +2809,14 @@ See also: [爰書][爰]
 [上聲]
 ==
 * there be; have
-* {auxiliary} do
+* {:auxiliary:} do
 ==
 --
 See also: [有餘][餘]
 --
 [去聲]
 ==
-* {\int [又]} and
+* \int [又]: and
 ==
 
 7 [朗] U+6717
@@ -2936,7 +2954,7 @@ See also: [有餘][餘]
 12 [橫] U+6A6B
 [平聲]
 ==
-* horizontal; parallel {geography}
+* horizontal; parallel {:geography:}
 ==
 [去聲]
 ==
@@ -3011,7 +3029,7 @@ See also: [改正][改]
 
 14 [歸] U+6B78
 ==
-* {of a woman} marry
+* {:of a woman:} marry
 * return
 ==
 
@@ -3036,7 +3054,7 @@ See also: [改正][改]
 
 8 [殙] U+6B99
 ==
-* {\var [惛]}
+* \var [惛]
 ==
 
 
@@ -3144,7 +3162,7 @@ See also: [改正][改]
 * inject; channel
 * shoot; strike
 * wager
-* {\var [註]}
+* \var [註]
 ==
 
 6 [津] U+6D25
@@ -3206,7 +3224,7 @@ See also: [改正][改]
 
 14 [濟] U+6FDF
 ==
-* cross {over water}
+* cross {:over water:}
 ==
 
 
@@ -3234,7 +3252,7 @@ See also: [以為][以], [為政][政]
 
 6 [烟] U+70DF
 ==
-* {\var [煙]}
+* \var [煙]
 ==
 
 7 [焉] U+7109
@@ -3245,7 +3263,7 @@ See also: [以為][以], [為政][政]
 [陽平] [but [陰平] in Mandarin]
 ==
 * this; here
-* {generic} him; it
+* {:generic:} him; it
 * then
 * [:speech-assist:]
 ==
@@ -3287,7 +3305,7 @@ See also: [以為][以], [為政][政]
 
 8 [爲] U+7232
 ==
-* {\var [為]}
+* \var [為]
 ==
 
 
@@ -3319,7 +3337,7 @@ See also: [以為][以], [為政][政]
 
 11 [牗] U+7257
 ==
-* {\var [牖]}
+* \var [牖]
 ==
 
 
@@ -3483,19 +3501,19 @@ See also: [後生][後]
 0 [甲] U+7532
 ==
 * armour
-* A {1st heavenly stem}
+* A {:1st heavenly stem:}
 ==
 
 4 [畎] U+754E
 ==
-* ditch {of a field}
+* ditch {:of a field:}
 ==
 
 4 [畏] U+754F
 ==
-* fear {to dread}
+* fear {:to dread:}
 * scare
-* fear {to venerate}
+* fear {:to venerate:}
 ==
 
 5 [畝] U+755D
@@ -3563,7 +3581,7 @@ See also: [後生][後]
 
 4 [癸] U+7678
 ==
-* J {10th heavenly stem}
+* J {:10th heavenly stem:}
 ==
 
 7 [登] U+767B
@@ -3704,7 +3722,7 @@ See also: [百萬][萬]
 ==
 [陰平] 音關 gu(a-)n
 ==
-* {\int [鰥]} widower
+* \int [鰥]: widower
 ==
 [陽平] 音勤 q(i/)n
 ==
@@ -3726,7 +3744,7 @@ See also: [百萬][萬]
 ==
 [去聲]
 ==
-* {\int [智]} wisdom
+* \int [智]: wisdom
 ==
 
 5 [矩] U+77E9
@@ -3880,7 +3898,7 @@ See also: [規矩][規]
 
 4 [竒] U+7AD2
 ==
-* {\var [奇]}
+* \var [奇]
 ==
 
 9 [端] U+7AEF
@@ -3934,7 +3952,7 @@ See also: [規矩][規]
 
 3 [竽] U+7AFD
 ==
-* ((y(u") | ~~竽~~)) {free reed instrument}
+* ((y(u") | ~~竽~~)) {:free reed instrument:}
 ==
 
 4 [笑] U+7B11
@@ -3944,7 +3962,7 @@ See also: [規矩][規]
 
 5 [笙] U+7B19
 ==
-* ((sh(e^)ng | ~~笙~~)) {free reed instrument}
+* ((sh(e^)ng | ~~笙~~)) {:free reed instrument:}
 ==
 
 5 [符] U+7B26
@@ -4031,7 +4049,7 @@ See also: [符驗][驗]
 
 6 [絶] U+7D76
 ==
-* {\var [絕]}
+* \var [絕]
 ==
 
 7 [經] U+7D93
@@ -4072,7 +4090,7 @@ See also: [符驗][驗]
 [平聲]
 ==
 * vertical; longitudinal; meridian [but [去聲] in Mainlandia]
-* {\int [蹤]}
+* \int [蹤]
 ==
 [去聲]
 ==
@@ -4130,7 +4148,7 @@ See also: [符驗][驗]
 
 4 [者] U+8005
 ==
-* {generic} he that; that which; those; one
+* {:generic:} he that; that which; those; one
 * [:speech-assist:]
 ==
 
@@ -4186,7 +4204,7 @@ See also: [而已][已]
 
 9 [聨] U+8068
 ==
-* {\var [聯]}
+* \var [聯]
 ==
 
 11 [聯] U+806F
@@ -4454,7 +4472,7 @@ See also: [聯翩][翩]
 
 6 [衆] U+8846
 ==
-* {\var [眾]}
+* \var [眾]
 ==
 
 
@@ -4572,12 +4590,12 @@ See also: [平行][平]
 ==
 [陽去]
 ==
-* {\var [現]}
+* \var [現]
 ==
 
 4 [規] U+898F
 ==
-* compass {geometry}
+* compass {:geometry:}
 ==
 ==
 * 規[矩]： rules
@@ -4691,12 +4709,12 @@ See also: [平行][平]
 ==
 [陽入]
 ==
-* {\var 悅}
+* \var 悅
 ==
 
 7 [説] U+8AAC
 ==
-* {\var [說]}
+* \var [說]
 ==
 
 7 [誨] U+8AA8
@@ -4722,7 +4740,7 @@ See also: [平行][平]
 8 [論] U+8AD6
 [平聲]
 ==
-* {Confucian} Analects
+* {:Confucian:} Analects
 ==
 [去聲]
 ==
@@ -4933,7 +4951,7 @@ See also: [平行][平]
 0 [辛] U+8F9B
 ==
 * pungent
-* H {8th heavenly stem}
+* H {:8th heavenly stem:}
 ==
 
 
@@ -5070,7 +5088,7 @@ See also: [遠近][遠]
 
 10 [遥] U+9065
 ==
-* {\var [遙]}
+* \var [遙]
 ==
 
 11 [遨] U+9068
@@ -5101,8 +5119,8 @@ See also: [遠近][遠]
 4 [邪] U+90AA
 ==
 * wicked
-* {\int [斜]}
-* {\var [耶]}
+* \int [斜]
+* \var [耶]
 ==
 
 6 [郊] U+90CA
@@ -5125,7 +5143,7 @@ See also: [遠近][遠]
 
 6 [酬] U+916C
 ==
-* toast {salute by alcohol}
+* toast {:salute by alcohol:}
 * payment
 ==
 
@@ -5134,9 +5152,9 @@ See also: [遠近][遠]
 
 1 [采] U+91C7
 ==
-* look {face}
-* {\var [採]}
-* {\var [彩]}
+* look {:face:}
+* \var [採]
+* \var [彩]
 ==
 
 13 [釋] U+91CB
@@ -5173,11 +5191,11 @@ See also: [遠近][遠]
 5 [量] U+91CF
 [平聲]
 ==
-* measure (capacity) {physically}
+* measure (capacity) {:physically:}
 ==
 [去聲]
 ==
-* measure; gauge {metaphorically}
+* measure; gauge {:metaphorically:}
 * amount; capacity
 ==
 
@@ -5426,8 +5444,8 @@ See also: [鴻雁][鴻]
 
 0 [青] U+9752
 ==
-* blue {of sky}; green {of plants}
-* black {of threads}
+* blue {:of sky:}; green {:of plants:}
+* black {:of threads:}
 ==
 
 
@@ -5530,7 +5548,7 @@ See also: [鴻雁][鴻]
 0 [食] U+98DF
 [去聲]
 ==
-* {\int [飼]} feed
+* \int [飼]: feed
 ==
 [入聲]
 ==
