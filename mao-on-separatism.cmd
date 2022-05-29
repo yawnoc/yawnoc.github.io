@@ -166,16 +166,10 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
 <<
   大概從前有一種謬論，就是「在今後世界能夠爭存的國家，必定是大國家」。
 \\
-  Broadly there is .[an] absurd discourse from former .[times],
+  Broadly there is one kind of absurd discourse from former .[times],
   .[which] is: 'In .[the] world hereafter,
   .[the] nations .[which shall be] able to survive, must be Great Nations'.
 >>
-=={.translation-annotations}
-* .一種： \lit one kind of
-  --
-  Omitted in the English.
-  --
-==
 
 <<
   這種議論的流毒，擴充帝國主義，壓抑自國的小弱民族，
