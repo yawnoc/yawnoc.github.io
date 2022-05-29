@@ -86,7 +86,7 @@ RegexDictionaryReplacement: #.phrase-entries
 - queue_position: BEFORE #unordered-lists
 * [*] [ ] (\S)(\S)：
     -->
-  [\1\2]: #\1\2
+  [\1\2]{l=zh-Hant}: #\1\2
   *{#\1\2} ::{l=zh-Hant} [\1]|[\2]：::
 
 RegexDictionaryReplacement: #.square-bracket-wrap
