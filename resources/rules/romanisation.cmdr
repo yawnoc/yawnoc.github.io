@@ -1,5 +1,5 @@
 OrdinaryDictionaryReplacement: #.romanisation.special-characters
-- queue_position: BEFORE #specified-images
+- queue_position: BEFORE #backslash-escapes
 #
 # ## Common
 #
