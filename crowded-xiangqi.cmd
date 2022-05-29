@@ -2,11 +2,11 @@
 < /resources/rules/rendering.cmdr
 < /resources/rules/language.cmdr
 
-OrdinaryDictionaryReplacement: #footer-properties-override
+OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
 * %copyright-prior-years --> get_year@%date-created--
 
-OrdinaryDictionaryReplacement: #boilerplate-properties-override
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 - apply_mode: SEQUENTIAL
 * %cite-title --> %title
@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #boilerplate-properties-override
 * %date-created --> 2020-09-06
 * %date-modified --> 2022-xx-xx
 
-RegexDictionaryReplacement: #piece-letters
+RegexDictionaryReplacement: #.piece-letters
 - queue_position: BEFORE #inline-semantics
 * \{ (?P<letter> [a-z] ) \} --> __{.piece-letter} \g<letter>__
 

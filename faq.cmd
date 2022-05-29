@@ -2,11 +2,11 @@
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
 
-OrdinaryDictionaryReplacement: #footer-properties-override
+OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
 * %copyright-prior-years --> get_year@%date-created--
 
-OrdinaryDictionaryReplacement: #boilerplate-properties-override
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> FAQ
 * %description --> Frequently asked questions.
