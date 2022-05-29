@@ -1,4 +1,4 @@
-OrdinaryDictionaryReplacement: #default-properties
+OrdinaryDictionaryReplacement: #.yawnoc.properties-override
 - queue_position: BEFORE #boilerplate-properties
 * %head-elements-before-viewport -->
     <meta name="author" content="Conway">
@@ -17,17 +17,17 @@ OrdinaryDictionaryReplacement: #default-properties
 * %post-copyright-remark -->
 
 
-RegexDictionaryReplacement: #navigation-wrap
+RegexDictionaryReplacement: #.yawnoc.navigation-wrap
 * \A --> <nav>\n
 * \Z --> \n</nav>
 
 
-RegexDictionaryReplacement: #header-wrap
+RegexDictionaryReplacement: #.yawnoc.header-wrap
 * \A --> <header>\n
 * \Z --> \n</header>
 
 
-FixedDelimitersReplacement: #header-navigation-list
+FixedDelimitersReplacement: #.yawnoc.header-navigation-list
 - queue_position: BEFORE #inline-code
 - syntax_type: BLOCK
 - opening_delimiter: ^^^^
@@ -37,11 +37,11 @@ FixedDelimitersReplacement: #header-navigation-list
 - closing_delimiter: ^^^^
 - tag_name: ul
 - concluding_replacements:
-    #navigation-wrap
-    #header-wrap
+    #.yawnoc.navigation-wrap
+    #.yawnoc.header-wrap
 
 
-FixedDelimitersReplacement: #non-header-navigation-lists
+FixedDelimitersReplacement: #.yawnoc.non-header-navigation-lists
 - queue_position: BEFORE #inline-code
 - syntax_type: BLOCK
 - opening_delimiter: ::::
@@ -51,10 +51,10 @@ FixedDelimitersReplacement: #non-header-navigation-lists
 - closing_delimiter: ::::
 - tag_name: ul
 - concluding_replacements:
-    #navigation-wrap
+    #.yawnoc.navigation-wrap
 
 
-OrdinaryDictionaryReplacement: #header-links
+OrdinaryDictionaryReplacement: #.yawnoc.header-links
 - queue_position: BEFORE #specified-links
 * !!home --> [Home]("You are already on the home page")
 * !home --> [Home](/ "Home page")
@@ -65,7 +65,7 @@ OrdinaryDictionaryReplacement: #header-links
 * !cynicism --> [More cynicism](/cynics-730/ "A cynic's 7.30")
 
 
-RegexDictionaryReplacement: #heading-permalinks
+RegexDictionaryReplacement: #.yawnoc.heading-permalinks
 - queue_position: BEFORE #headings
 * ^ (?P<anchoring_whitespace> [^\S\n]* )
   (?P<opening_hashes_etc>
@@ -81,8 +81,8 @@ RegexDictionaryReplacement: #heading-permalinks
 - concluding_replacements: #backslash-continuations
 
 
-OrdinaryDictionaryReplacement: #cite-this-page
-- queue_position: BEFORE #heading-permalinks
+OrdinaryDictionaryReplacement: #.yawnoc.cite-this-page
+- queue_position: BEFORE #.yawnoc.heading-permalinks
 * %%cite -->
   "
     ##{#cite} Cite this page
@@ -101,14 +101,14 @@ OrdinaryDictionaryReplacement: #cite-this-page
 - concluding_replacements: #literals
 
 
-RegexDictionaryReplacement: #get-year
+RegexDictionaryReplacement: #.yawnoc.get-year
 - queue_position: AFTER #boilerplate-properties
 * [|]? get_year @ (?P<year> [\S]{4}) - [\S]{2} - [\S]{2}
     -->
   \g<year>
 
 
-OrdinaryDictionaryReplacement: #footer
+OrdinaryDictionaryReplacement: #.yawnoc.footer
 - queue_position: BEFORE #unordered-lists
 * %%footer -->
   "
@@ -128,7 +128,7 @@ OrdinaryDictionaryReplacement: #footer
   "
 
 
-InlineAssortedDelimitersReplacement: #spans
+InlineAssortedDelimitersReplacement: #.yawnoc.spans
 - queue_position: BEFORE #whitespace
 - delimiter_conversion:
     //=span
@@ -136,7 +136,7 @@ InlineAssortedDelimitersReplacement: #spans
 - prohibited_content: BLOCKS
 
 
-OrdinaryDictionaryReplacement: #typography
+OrdinaryDictionaryReplacement: #.yawnoc.typography
 - queue_position: BEFORE #escape-idle-html
 * ~ --> " "
 * --- --> —

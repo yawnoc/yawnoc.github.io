@@ -1,5 +1,5 @@
 OrdinaryDictionaryReplacement: #.rendering.properties-override
-- queue_position: BEFORE #default-properties
+- queue_position: BEFORE #.yawnoc.properties-override
 * %head-elements-after-viewport -->
     %head-elements-after-viewport
     <script defer src="/resources/scripts/rendering.min.js"></script>

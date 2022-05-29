@@ -16,7 +16,7 @@ FixedDelimitersReplacement: #.translation.translator-supplied
 
 
 RegexDictionaryReplacement: #.translation.romanised-untranslated
-- queue_position: BEFORE #spans
+- queue_position: BEFORE #.yawnoc.spans
 * \(
     (?P<romanisation> [^\n]*? )
   [|]

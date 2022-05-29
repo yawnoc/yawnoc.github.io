@@ -4,7 +4,7 @@
 < /resources/rules/translation.cmdr
 
 OrdinaryDictionaryReplacement: #footer-properties-override
-- queue_position: AFTER #footer
+- queue_position: AFTER #.yawnoc.footer
 * %copyright-prior-years --> get_year@%date-created--
 * %post-copyright-remark -->
   "
@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #footer-properties-override
   "
 
 OrdinaryDictionaryReplacement: #boilerplate-properties-override
-- queue_position: AFTER #default-properties
+- queue_position: AFTER #.yawnoc.properties-override
 - apply_mode: SEQUENTIAL
 * %cite-title --> %title
 * %title --> Conway's site
