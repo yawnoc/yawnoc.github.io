@@ -82,6 +82,10 @@ RegexDictionaryReplacement: #.pronunciations
     -->
   __{.pronunciation l=zh-Hant} \g<tone>__
 
+RegexDictionaryReplacement: #.phrase-entries
+- queue_position: BEFORE #referenced-links
+* (\S)(\S)： --> ::{l=zh-Hant} [\1]|[\2]::
+
 RegexDictionaryReplacement: #.square-bracket-wrap
 * \A --> [
 * \Z --> ]
@@ -109,6 +113,10 @@ FixedDelimitersReplacement: #.disambiguators
 - closing_delimiter: :}
 - tag_name: i
 - concluding_replacements: #.curly-bracket-wrap
+
+OrdinaryDictionaryReplacement: #.pipe-separator-removal
+- queue_position: BEFORE #whitespace
+* | -->
 
 
 %%%
@@ -268,7 +276,7 @@ See also: [意下][意]
 * generation; world
 ==
 ==
-* 世[間]： .[the] world
+* 世間： .[the] world
 ==
 --
 See also: [逝世][逝]
@@ -494,7 +502,7 @@ See also: [逝世][逝]
 * in
 ==
 ==
-* 以[為]： think; believe
+* 以為： think; believe
 ==
 --
 See also: [何以][何], [可以][可]
@@ -527,10 +535,10 @@ See also: [何以][何], [可以][可]
 * what; how; why; whence
 ==
 ==
-* 何[以]： how; why
-* 何[如]： what of .[it]
-* 何[得]： how could
-* [如]何： how; \met what .[sayest thou]
+* 何以： how; why
+* 何如： what of .[it]
+* 何得： how could
+* 如何： how; \met what .[sayest thou]
 ==
 --
 See also: [幾何][幾]
@@ -900,7 +908,7 @@ See also: [幾何][幾]
 * spur
 ==
 ==
-* 勉[勵]： strive; spur
+* 勉勵： strive; spur
 ==
 
 9 [勒] U+52D2
@@ -1113,7 +1121,7 @@ See also: [北方][方]
 * and
 ==
 ==
-* 及[時]： in good time
+* 及時： in good time
 ==
 
 6 [取] U+53D6
@@ -1188,7 +1196,7 @@ See also: [北方][方]
 * ought to
 ==
 ==
-* 可[以]： can
+* 可以： can
 ==
 
 2 [史] U+53F2
@@ -1243,7 +1251,7 @@ See also: [同式][式]
 * ruler; monarch
 ==
 ==
-* 君[子]： ruler; gentleman
+* 君子： ruler; gentleman
 ==
 
 4 [吼] U+543C
@@ -1279,7 +1287,7 @@ See also: [同式][式]
 * life
 ==
 ==
-* [性]命： life
+* 性命： life
 ==
 
 6 [哉] U+54C9
@@ -1379,7 +1387,7 @@ See also: [未嘗][未]
 * in; into
 ==
 ==
-* [所]在： whereabouts
+* 所在： whereabouts
 ==
 
 3 [圭] U+572D
@@ -1534,7 +1542,7 @@ See also: [夫子][子], [農夫][農]
 * play {:music:}
 ==
 ==
-* [合]奏： play .[in] ensemble
+* 合奏： play .[in] ensemble
 ==
 
 6 [奕] U+5955
@@ -1555,7 +1563,7 @@ See also: [夫子][子], [農夫][農]
 * female; woman; daughter
 ==
 ==
-* 女[子]： lady
+* 女子： lady
 ==
 
 2 [奴] U+5974
@@ -1630,7 +1638,7 @@ See also: [嬉戲][戲]
 * master {:teacher:}; \met thou
 ==
 ==
-* [夫]子： master
+* 夫子： master
 ==
 --
 See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
@@ -1652,7 +1660,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 * learn
 ==
 ==
-* 學[問]： scholarship
+* 學問： scholarship
 ==
 
 
@@ -1875,7 +1883,7 @@ See also: [從容][從]
 * [:speech-assist:]
 ==
 ==
-* [而]已： only; is all
+* 而已： only; is all
 ==
 
 
@@ -1918,8 +1926,8 @@ See also: [從容][從]
 * [:tone:] level
 ==
 ==
-* [太]平： tranquility; peace
-* 平[行]： parallel
+* 太平： tranquility; peace
+* 平行： parallel
 ==
 
 3 [年] U+5E74
@@ -1959,7 +1967,7 @@ See also: [從容][從]
 * several
 ==
 ==
-* 幾[何]： how much
+* 幾何： how much
 ==
 
 
@@ -2020,7 +2028,7 @@ See also: [從容][從]
 * [:speech-assist:]
 ==
 ==
-* [同]式： {:geometrically:} similar
+* 同式： {:geometrically:} similar
 ==
 
 
@@ -2042,7 +2050,7 @@ See also: [從容][從]
 * disciple
 ==
 ==
-* 弟[子]： disciple
+* 弟子： disciple
 ==
 
 7 [弱] U+5F31
@@ -2094,7 +2102,7 @@ See also: [從容][從]
 * afterbear
 ==
 ==
-* 後[生]： the young
+* 後生： the young
 ==
 
 7 [徑] U+5F91
@@ -2117,7 +2125,7 @@ See also: [何得][何]
 8 [從] U+5F9E
 [陰平] 音嵩 c(o-)ng
 ==
-* 從[容]： leisurely
+* 從容： leisurely
 ==
 [陰平] 音蹤 z(o-)ng
 ==
@@ -2304,7 +2312,7 @@ See also: [性命][命]
 * thought; intent
 ==
 ==
-* 意[下]： thoughts
+* 意下： thoughts
 ==
 
 9 [愚] U+611A
@@ -2368,7 +2376,7 @@ See also: [性命][命]
 * play; sport; tease
 ==
 ==
-* [嬉]戲： play
+* 嬉戲： play
 ==
 
 
@@ -2464,7 +2472,7 @@ See also: [掌握][握]
 * grasp
 ==
 ==
-* [掌]握： grasp
+* 掌握： grasp
 ==
 
 12 [撲] U+64B2
@@ -2509,7 +2517,7 @@ See also: [掌握][握]
 * reform
 ==
 ==
-* 改[正]： [:verb:] correct
+* 改正： [:verb:] correct
 ==
 
 4 [政] U+653F
@@ -2517,7 +2525,7 @@ See also: [掌握][握]
 * governance
 ==
 ==
-* [為]政： govern
+* 為政： govern
 ==
 
 5 [故] U+6545
@@ -2646,7 +2654,7 @@ See also: [掌握][握]
 * just; only then; at
 ==
 ==
-* [北]方： .[the] north
+* 北方： .[the] north
 ==
 
 4 [於] U+65BC
@@ -2854,7 +2862,7 @@ See also: [有餘][餘]
 * not yet; yet to
 ==
 ==
-* 未[嘗]： not ever
+* 未嘗： not ever
 ==
 
 1 [末] U+672B
@@ -3300,7 +3308,7 @@ See also: [以為][以], [為政][政]
 * change
 ==
 ==
-* 爰[書]： changed writing; \met prisoner's writing
+* 爰書： changed writing; \met prisoner's writing
 ==
 
 8 [爲] U+7232
@@ -3379,7 +3387,7 @@ See also: [以為][以], [為政][政]
 * lion
 ==
 ==
-* 獅[子]： lion
+* 獅子： lion
 ==
 
 13 [獨] U+7368
@@ -3486,7 +3494,7 @@ See also: [以為][以], [為政][政]
 * beget; bear
 ==
 ==
-* [天]生： inborn
+* 天生： inborn
 ==
 --
 See also: [後生][後]
@@ -3810,7 +3818,7 @@ See also: [規矩][規]
 * myriad
 ==
 ==
-* [百]萬： million
+* 百萬： million
 ==
 
 
@@ -4135,7 +4143,7 @@ See also: [符驗][驗]
 * fly rapidly
 ==
 ==
-* [聯]翩： \met continuously flock
+* 聯翩： \met continuously flock
 ==
 
 
@@ -4417,7 +4425,7 @@ See also: [聯翩][翩]
 * attend; arrive
 ==
 ==
-* 蒞[止]： attend
+* 蒞止： attend
 ==
 
 11 [蔚] U+851A
@@ -4598,7 +4606,7 @@ See also: [平行][平]
 * compass {:geometry:}
 ==
 ==
-* 規[矩]： rules
+* 規矩： rules
 ==
 
 5 [視] U+8996
@@ -4685,7 +4693,7 @@ See also: [平行][平]
 * poem; verse
 ==
 ==
-* 詩[士]： poet
+* 詩士： poet
 ==
 
 6 [誠] U+8AA0
@@ -4776,7 +4784,7 @@ See also: [平行][平]
 * liken
 ==
 ==
-* 譬[如]： liken unto
+* 譬如： liken unto
 ==
 
 16 [變] U+8B8A
@@ -4973,7 +4981,7 @@ See also: [平行][平]
 * farming
 ==
 ==
-* 農[夫]： farmer
+* 農夫： farmer
 ==
 
 
@@ -5021,7 +5029,7 @@ See also: [遠近][遠]
 * pass
 ==
 ==
-* 逝[世]： pass away
+* 逝世： pass away
 ==
 
 7 [造] U+9020
@@ -5079,7 +5087,7 @@ See also: [遠近][遠]
 * profound
 ==
 ==
-* 遠[近]： distance
+* 遠近： distance
 ==
 [去聲]
 ==
@@ -5227,8 +5235,8 @@ See also: [遠近][遠]
 * gold; metal
 ==
 ==
-* [白]金： silver
-* [黃]金： gold
+* 白金： silver
+* 黃金： gold
 ==
 
 4 [鈞] U+921E
@@ -5457,7 +5465,7 @@ See also: [鴻雁][鴻]
 * not
 ==
 ==
-* [是]非： right .[and] wrong; quarrel
+* 是非： right .[and] wrong; quarrel
 ==
 
 
@@ -5570,7 +5578,7 @@ See also: [鴻雁][鴻]
 * remainder; excess; spare
 ==
 ==
-* [有]餘： in excess; with spare
+* 有餘： in excess; with spare
 ==
 
 
@@ -5621,7 +5629,7 @@ See also: [鴻雁][鴻]
 * test; verify
 ==
 ==
-* [符]驗： corroborate
+* 符驗： corroborate
 ==
 
 
@@ -5709,7 +5717,7 @@ See also: [鴻雁][鴻]
 * swan
 ==
 ==
-* 鴻[雁]： swan-goose
+* 鴻雁： swan-goose
 ==
 
 7 [鵝] U+9D5D
