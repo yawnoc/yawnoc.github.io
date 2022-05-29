@@ -74,7 +74,7 @@ RegexDictionaryReplacement: #.tone-headings
   (?P<pronunciation> (?: [ ][^\n]+ )? )
   $
     -->
-  #### [\g<tone>] \g<pronunciation>
+  ##### [\g<tone>] \g<pronunciation>
 
 RegexDictionaryReplacement: #.tones
 - queue_position: AFTER #.tone-headings
