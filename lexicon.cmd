@@ -74,7 +74,13 @@ RegexDictionaryReplacement: #.tone-headings
   (?P<pronunciation> (?: [ ][^\n]+ )? )
   $
     -->
-  #### [.\g<tone>] \g<pronunciation>
+  #### [\g<tone>] \g<pronunciation>
+
+RegexDictionaryReplacement: #.pronunciations
+- queue_position: AFTER #.tone-headings
+* \[ (?P<tone> [陰陽平上去入聲]{2} ) \]
+    -->
+  __{.pronunciation l=zh-Hant} \g<tone>__
 
 FixedDelimitersReplacement: #.types
 - queue_position: BEFORE #whitespace
@@ -211,8 +217,8 @@ Lookup by stroke count of radical:
 2 [上] U+4E0A
 [上聲]
 ==
-* [:verb:] go up; mount [but .去聲 in Mandarin]
-* [:verb:] offer up [but .去聲 in Mandarin]
+* [:verb:] go up; mount [but [去聲] in Mandarin]
+* [:verb:] offer up [but [去聲] in Mandarin]
 * [:tone:] rising
 ==
 [去聲]
@@ -532,7 +538,7 @@ See also: [幾何][幾]
 * use; employ
 * dispatch
 ==
-[去聲] [but .上聲 in Mandarin]
+[去聲] [but [上聲] in Mandarin]
 ==
 * envoy; messenger
 ==
@@ -805,7 +811,7 @@ See also: [幾何][幾]
 [去聲]
 ==
 * [:noun:] share
-* fraction [but .平聲 in Mandarin]
+* fraction [but [平聲] in Mandarin]
 * duty
 ==
 
@@ -895,7 +901,7 @@ See also: [幾何][幾]
 ==
 
 10 [勝] U+52DD
-[平聲] [but .去聲 in Mainlandia]
+[平聲] [but [去聲] in Mainlandia]
 ==
 * bear
 * wholly
@@ -2097,7 +2103,7 @@ See also: [何得][何]
 ==
 [陰平] 音蹤 z(o-)ng
 ==
-* {\int [縱]} vertical [but .去聲 z(o\)ng in Mainlandia]
+* {\int [縱]} vertical [but [去聲] z(o\)ng in Mainlandia]
 * {\int [蹤]}
 ==
 [陽平] 音叢 c(o/)ng
@@ -3236,7 +3242,7 @@ See also: [以為][以], [為政][政]
 ==
 * how
 ==
-[陽平] [but .陰平 in Mandarin]
+[陽平] [but [陰平] in Mandarin]
 ==
 * this; here
 * {generic} him; it
@@ -3544,7 +3550,7 @@ See also: [後生][後]
 * sparse
 * (be) distant; distance
 ==
-[去聲] [but .平聲 in Mainlandia]
+[去聲] [but [平聲] in Mainlandia]
 ==
 * subcommentary
 ==
@@ -3816,7 +3822,7 @@ See also: [規矩][規]
 [平聲]
 ==
 * refer to
-* weigh; measure weight [but .去聲 for 秤 in modern Cantonese]
+* weigh; measure weight [but [去聲] for 秤 in modern Cantonese]
 ==
 [去聲]
 ==
@@ -4065,7 +4071,7 @@ See also: [符驗][驗]
 11 [縱] U+7E31
 [平聲]
 ==
-* vertical; longitudinal; meridian [but .去聲 in Mainlandia]
+* vertical; longitudinal; meridian [but [去聲] in Mainlandia]
 * {\int [蹤]}
 ==
 [去聲]
@@ -4467,7 +4473,7 @@ See also: [平行][平]
 ==
 * column; file
 ==
-[去聲] 音幸 x(i\)ng [but .平聲 x(i/)ng in Mainlandia]
+[去聲] 音幸 x(i\)ng [but [平聲] x(i/)ng in Mainlandia]
 ==
 * [:noun:] conduct
 ==
@@ -4956,7 +4962,7 @@ See also: [平行][平]
 ### ⾡ (walk) U+2FA1
 
 4 [近] U+8FD1
-[上聲] [but .去聲 in Mandarin]
+[上聲] [but [去聲] in Mandarin]
 ==
 * near
 ==
@@ -5154,7 +5160,7 @@ See also: [遠近][遠]
 * repeat; once more
 * layer
 ==
-[上聲] [but .去聲 in Mandarin]
+[上聲] [but [去聲] in Mandarin]
 ==
 * weight; heavy
 ==
