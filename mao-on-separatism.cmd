@@ -98,7 +98,7 @@ And who now forbids any mention of self-determination or independence?
 
 
 [Google books]:
-  <https://books.google.com/books?id=6GVqDwAAQBAJ&pg=PT304&dq="湖南自治运动史料选编" "湖南建设问题的根本问题——湖南共和国">
+  <https://books.google.com/books?id=6GVqDwAAQBAJ&pg=PT304&dq=%22湖南自治运动史料选编%22%20%22湖南建设问题的根本问题——湖南共和国%22>
 [marxists.org]:
   https://www.marxists.org/chinese/maozedong/1968/1-023.htm
 [archived version]:
