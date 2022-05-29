@@ -64,7 +64,7 @@ RegexDictionaryReplacement: #.character-headings
       <sup class="redisual-stroke-count">\g<stroke_count></sup>
       .\g<character>
       <code>\g<code_point></code>
-    [\g<character>]: #\g<character>
+    [\g<character>]{l=zh-Hant}: #\g<character>
   "
 
 RegexDictionaryReplacement: #.tone-headings
@@ -87,7 +87,7 @@ RegexDictionaryReplacement: #.phrase-entries
 * [*] [ ] (\S)(\S)：
     -->
   [\1\2]{l=zh-Hant}: #\1\2
-  *{#\1\2} ::{l=zh-Hant} [\1]|[\2]：::
+  *{#\1\2} ::{l=zh-Hant} [\1]{-lang}|[\2]{-lang}：::
 
 RegexDictionaryReplacement: #.square-bracket-wrap
 * \A --> [
