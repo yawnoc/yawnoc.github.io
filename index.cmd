@@ -2,6 +2,7 @@
 < /resources/rules/rendering.cmdr
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
@@ -91,7 +92,7 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ###{#lit-math} Mathematics
 
 ====
-- [.《孫子算經》 <br> "(Sun Tzu|孫子)'s Computational Classic"](/sun-tzu/)
+- [.《孫子算經》 <br> "(Sun Tz(uu)|孫子)'s Computational Classic"](/sun-tzu/)
   ==
   - [.《序》 "Preface"](/sun-tzu/preface/)
   - [.《卷上》 "Volume~I"](/sun-tzu/i/)
