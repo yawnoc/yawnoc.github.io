@@ -182,11 +182,7 @@ h2 > .permalink {
 
 
 .romanised-untranslated {
-  cursor: help;
   text-decoration: underline 0.1em dotted;
-}
-a > .romanised-untranslated {
-  cursor: inherit;
 }
 
 
