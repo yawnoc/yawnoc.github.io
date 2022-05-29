@@ -210,10 +210,10 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
 >>
 
 <<
-  收得的是滿洲人消滅，蒙人、回人、藏人、奄奄欲死，
+  收得的是滿洲人消滅，蒙人、回人、藏人，奄奄欲死，
 \\
   .[but that] reaped is .[the] annihilation of .[the] Manchurians;
-  .[the] Mongolians, .[the] Huis, .[and the] Tibetans
+  .[the] Mongolians, .[the] Huis, .[and the] Tibetans,
   breathing feebly .[and] wishing to die;
 >>
 
