@@ -1,21 +1,21 @@
-RegexDictionaryReplacement: #square-bracket-wrap
+RegexDictionaryReplacement: #.translation.square-bracket-wrap
 * \A --> [
 * \Z --> ]
 
 
-FixedDelimitersReplacement: #translator-supplied
+FixedDelimitersReplacement: #.translation.translator-supplied
 - queue_position: BEFORE #specified-images
 - syntax_type: INLINE
 - opening_delimiter: .[
 - attribute_specifications: .translator-supplied
 - prohibited_content: BLOCKS
-- content_replacements: #square-bracket-wrap
+- content_replacements: #.translation.square-bracket-wrap
 - closing_delimiter: ]
 - tag_name: span
 - concluding_replacements: #placeholder-protect
 
 
-RegexDictionaryReplacement: #romanised-untranslated
+RegexDictionaryReplacement: #.translation.romanised-untranslated
 - queue_position: BEFORE #spans
 * \(
     (?P<romanisation> [^\n]*? )
