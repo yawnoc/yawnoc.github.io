@@ -29,7 +29,7 @@ RegexDictionaryReplacement: #.translation.romanised-untranslated
 OrdinaryDictionaryReplacement: #.translation.alternative-markers
 - queue_position: BEFORE #.yawnoc.spans
 * \or --> //{.alternative-marker} or//
-* \int --> //{.alternative-marker} int.//
-* \lit --> //{.alternative-marker} lit.//
-* \met --> //{.alternative-marker} met.//
-* \var --> //{.alternative-marker} var.//
+* \int --> //{.alternative-marker int="interchangeable with"} int.//
+* \lit --> //{.alternative-marker title="literally"} lit.//
+* \met --> //{.alternative-marker title="metaphorically rendered"} met.//
+* \var --> //{.alternative-marker title="variant of"} var.//

@@ -177,7 +177,7 @@ Lookup by stroke count of radical:
   .音-homophones are based on modern Cantonese.
 
 1.
-  Non-literal renderings are marked by \met (for "metaphorical").
+  Non-literal renderings are marked by \met ("metaphorically rendered").
 ++++
 
 [Government-regulated .統讀-readings]:
