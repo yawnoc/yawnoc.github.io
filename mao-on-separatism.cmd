@@ -125,7 +125,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
 <<
   湖南建設問題的根本問題——[:湖南共和國:]
 \\
-  .[The] Fundamental Issues of .[the] (Hunan|湖南) Development Issue
+  .[The] Fundamental Issue of .[the] (Hunan|湖南) Development Issue
   --- [:.[the] Republic of (Hunan|湖南):]
 >>
 
