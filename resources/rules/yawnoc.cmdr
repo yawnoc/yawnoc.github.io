@@ -138,16 +138,13 @@ InlineAssortedDelimitersReplacement: #.yawnoc.spans
 
 OrdinaryDictionaryReplacement: #.yawnoc.typography
 - queue_position: BEFORE #escape-idle-html
-* ~ --> " "
-* --- --> —
-* -- --> –
-* \- --> ‑
-* (C) --> ©
-
-# Explanation saith:
-
-# " " is U+00A0 NO-BREAK SPACE (&nbsp;)
-# — is U+2014 EM DASH
-# – is U+2013 EN DASH
-# ‑ is U+2011 NON-BREAKING HYPHEN
-# © is U+00A9 COPYRIGHT SIGN
+# U+00A0 NO-BREAK SPACE (&nbsp;)
+*   ~ --> " "
+# U+2014 EM DASH
+*   --- --> —
+# U+2013 EN DASH
+*   -- --> –
+# U+2011 NON-BREAKING HYPHEN
+*   \- --> ‑
+# U+00A9 COPYRIGHT SIGN
+*   (C) --> ©
