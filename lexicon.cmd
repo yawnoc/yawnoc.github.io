@@ -61,7 +61,7 @@ RegexDictionaryReplacement: #.character-headings
     -->
   "
     ####{#\g<character>}
-      <sup>\g<stroke_count></sup>
+      <sup class="redisual-stroke-count">\g<stroke_count></sup>
       .\g<character>
       <code>\g<code_point></code>
     [\g<character>]: #\g<character>
