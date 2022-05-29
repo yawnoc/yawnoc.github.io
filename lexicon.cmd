@@ -86,6 +86,7 @@ RegexDictionaryReplacement: #.phrase-entries
 - queue_position: BEFORE #unordered-lists
 * [*] [ ] (\S)(\S)：
     -->
+  [\1\2]: #\1\2
   *{#\1\2} ::{l=zh-Hant} [\1]|[\2]：::
 
 RegexDictionaryReplacement: #.square-bracket-wrap
@@ -260,7 +261,7 @@ Lookup by stroke count of radical:
 * down(ward); lower; below; under; inferior
 ==
 --
-See also: [意下][意]
+See also: [意下]
 --
 
 3 [不] U+4E0D
@@ -281,7 +282,7 @@ See also: [意下][意]
 * 世間： .[the] world
 ==
 --
-See also: [逝世][逝]
+See also: [逝世]
 --
 
 4 [丙] U+4E19
@@ -507,7 +508,7 @@ See also: [逝世][逝]
 * 以為： think; believe
 ==
 --
-See also: [何以][何], [可以][可]
+See also: [何以], [可以]
 --
 
 4 [任] U+4EFB
@@ -543,7 +544,7 @@ See also: [何以][何], [可以][可]
 * 如何： how; \met what .[sayest thou]
 ==
 --
-See also: [幾何][幾]
+See also: [幾何]
 --
 
 5 [作] U+4F5C
@@ -955,7 +956,7 @@ See also: [幾何][幾]
 * spur
 ==
 --
-See also: [勉勵][勉]
+See also: [勉勵]
 --
 
 
@@ -991,7 +992,7 @@ See also: [勉勵][勉]
 * north(ward)
 ==
 --
-See also: [北方][方]
+See also: [北方]
 --
 
 
@@ -1226,7 +1227,7 @@ See also: [北方][方]
 * join; meet
 ==
 --
-See also: [合奏][奏]
+See also: [合奏]
 --
 
 3 [同] U+540C
@@ -1235,7 +1236,7 @@ See also: [合奏][奏]
 * together
 ==
 --
-See also: [同式][式]
+See also: [同式]
 --
 
 3 [名] U+540D
@@ -1303,7 +1304,7 @@ See also: [同式][式]
 * [:noun:] asking; enquiry; question
 ==
 --
-See also: [學問][學]
+See also: [學問]
 --
 
 9 [啻] U+557B
@@ -1327,7 +1328,7 @@ See also: [學問][學]
 * once; ever
 ==
 --
-See also: [未嘗][未]
+See also: [未嘗]
 --
 
 15 [嚮] U+56AE
@@ -1443,7 +1444,7 @@ See also: [未嘗][未]
 * scholar
 ==
 --
-See also: [詩士][詩]
+See also: [詩士]
 --
 
 1 [壬] U+58EC
@@ -1494,7 +1495,7 @@ See also: [詩士][詩]
 * heaven
 ==
 --
-See also: [天生][生]
+See also: [天生]
 --
 
 1 [太] U+592A
@@ -1502,7 +1503,7 @@ See also: [天生][生]
 * grand
 ==
 --
-See also: [太平][平]
+See also: [太平]
 --
 
 1 [夫] U+592B
@@ -1512,7 +1513,7 @@ See also: [太平][平]
 * husband
 ==
 --
-See also: [夫子][子], [農夫][農]
+See also: [夫子], [農夫]
 --
 [陽平]
 ==
@@ -1589,7 +1590,7 @@ See also: [夫子][子], [農夫][農]
 * according unto
 ==
 --
-See also: [何如][何], [如何][何], [譬如][譬]
+See also: [何如], [如何], [譬如]
 --
 
 4 [妨] U+59A8
@@ -1628,7 +1629,7 @@ See also: [何如][何], [如何][何], [譬如][譬]
 * play
 ==
 --
-See also: [嬉戲][戲]
+See also: [嬉戲]
 --
 
 
@@ -1643,7 +1644,7 @@ See also: [嬉戲][戲]
 * 夫子： master
 ==
 --
-See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
+See also: [君子], [女子], [弟子], [獅子]
 --
 
 3 [字] U+5B57
@@ -1691,7 +1692,7 @@ See also: [君子][君], [女子][女], [弟子][弟], [獅子][獅]
 * countenance
 ==
 --
-See also: [從容][從]
+See also: [從容]
 --
 
 8 [寄] U+5BC4
@@ -2121,7 +2122,7 @@ See also: [從容][從]
 * can
 ==
 --
-See also: [何得][何]
+See also: [何得]
 --
 
 8 [從] U+5F9E
@@ -2250,7 +2251,7 @@ See also: [何得][何]
 * nature
 ==
 --
-See also: [性命][命]
+See also: [性命]
 --
 
 5 [怪] U+602A
@@ -2401,7 +2402,7 @@ See also: [性命][命]
 * that which; that
 ==
 --
-See also: [所在][在]
+See also: [所在]
 --
 
 
@@ -2445,7 +2446,7 @@ See also: [所在][在]
 * palm
 ==
 --
-See also: [掌握][握]
+See also: [掌握]
 --
 
 8 [採] U+63A1
@@ -2721,7 +2722,7 @@ See also: [掌握][握]
 * is
 ==
 --
-See also: [是非][非]
+See also: [是非]
 --
 
 6 [時] U+6642
@@ -2731,7 +2732,7 @@ See also: [是非][非]
 * constantly
 ==
 --
-See also: [及時][及]
+See also: [及時]
 --
 
 7 [晨] U+6668
@@ -2799,7 +2800,7 @@ See also: [及時][及]
 * book; epistle
 ==
 --
-See also: [爰書][爰]
+See also: [爰書]
 --
 
 9 [會] U+6703
@@ -2822,7 +2823,7 @@ See also: [爰書][爰]
 * {:auxiliary:} do
 ==
 --
-See also: [有餘][餘]
+See also: [有餘]
 --
 [去聲]
 ==
@@ -3010,7 +3011,7 @@ See also: [有餘][餘]
 * halt
 ==
 --
-See also: [蒞止][蒞]
+See also: [蒞止]
 --
 
 1 [正] U+6B63
@@ -3018,7 +3019,7 @@ See also: [蒞止][蒞]
 * right
 ==
 --
-See also: [改正][改]
+See also: [改正]
 --
 
 3 [步] U+6B65
@@ -3253,7 +3254,7 @@ See also: [改正][改]
 * be
 ==
 --
-See also: [以為][以], [為政][政]
+See also: [以為], [為政]
 --
 [去聲]
 ==
@@ -3499,7 +3500,7 @@ See also: [以為][以], [為政][政]
 * 天生： inborn
 ==
 --
-See also: [後生][後]
+See also: [後生]
 --
 
 
@@ -3607,7 +3608,7 @@ See also: [後生][後]
 * white
 ==
 --
-See also: [白金][金]
+See also: [白金]
 --
 
 1 [百] U+767E
@@ -3615,7 +3616,7 @@ See also: [白金][金]
 * hundred
 ==
 --
-See also: [百萬][萬]
+See also: [百萬]
 --
 
 4 [皆] U+7686
@@ -3762,7 +3763,7 @@ See also: [百萬][萬]
 * steel-square
 ==
 --
-See also: [規矩][規]
+See also: [規矩]
 --
 
 7 [短] U+77ED
@@ -3980,7 +3981,7 @@ See also: [規矩][規]
 * talisman
 ==
 --
-See also: [符驗][驗]
+See also: [符驗]
 --
 
 6 [等] U+7B49
@@ -4171,7 +4172,7 @@ See also: [符驗][驗]
 * [:speech-assist:]
 ==
 --
-See also: [而已][已]
+See also: [而已]
 --
 
 
@@ -4188,7 +4189,7 @@ See also: [而已][已]
 0 [耳] U+8033
 ==
 * ear
-* [:contraction:] [而已][已]
+* [:contraction:] [而已]
 * [:speech-assist:]
 ==
 
@@ -4222,7 +4223,7 @@ See also: [而已][已]
 * union
 ==
 --
-See also: [聯翩][翩]
+See also: [聯翩]
 --
 
 11 [聲] U+8072
@@ -4495,7 +4496,7 @@ See also: [聯翩][翩]
 * \met element
 ==
 --
-See also: [平行][平]
+See also: [平行]
 --
 [平聲] 音航 h(a/)ng
 ==
@@ -4995,7 +4996,7 @@ See also: [平行][平]
 * near
 ==
 --
-See also: [遠近][遠]
+See also: [遠近]
 --
 [去聲]
 ==
@@ -5003,7 +5004,7 @@ See also: [遠近][遠]
 * [:verb:] keep near unto
 ==
 --
-See also: [遠近][遠]
+See also: [遠近]
 --
 
 5 [迭] U+8FED
@@ -5318,7 +5319,7 @@ See also: [遠近][遠]
 * realm
 ==
 --
-See also: [世間][世]
+See also: [世間]
 --
 [去聲]
 ==
@@ -5396,7 +5397,7 @@ See also: [世間][世]
 * wild-goose
 ==
 --
-See also: [鴻雁][鴻]
+See also: [鴻雁]
 --
 
 4 [雄] U+96C4
@@ -5757,7 +5758,7 @@ See also: [鴻雁][鴻]
 * yellow
 ==
 --
-See also: [黃金][金]
+See also: [黃金]
 --
 
 
