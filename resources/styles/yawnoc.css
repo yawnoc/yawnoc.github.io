@@ -24,6 +24,15 @@ nav > ul > li > a {
 }
 
 
+blockquote {
+  background: #ffffce;
+  border-left: 3px solid grey;
+  clear: both;
+  display: flow-root;
+  padding: 0.6em 0.7em;
+}
+
+
 body {
   background: white;
   font-family: sans-serif;
@@ -87,6 +96,13 @@ html {
 }
 
 
+img {
+  align-self: center;
+  max-width: 100%;
+  height: auto;
+}
+
+
 li {
   margin-bottom: 0.5em;
 }
@@ -134,6 +150,23 @@ pre {
 }
 
 
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+
+th {
+  background-color: #ececec;
+}
+
+
+th, td {
+  border: 1px solid black;
+  padding: 0.4em;
+}
+
+
 ul {
   padding-left: 2em;
 }
@@ -177,7 +210,7 @@ header > nav > ul {
 }
 
 
-.parallel-text {
+.parallel-text, .example {
   border: 2px solid black;
   font-size: large;
   margin: 0.7em;
@@ -206,4 +239,9 @@ h2 > .permalink {
 
 .translator-supplied {
   color: #595959;
+}
+
+
+.wide {
+  overflow-x: auto;
 }
