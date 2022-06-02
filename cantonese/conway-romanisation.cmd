@@ -348,6 +348,7 @@ In two decades of personal experience,
 I have perceived a tendency for people to favour specific initials
 depending on the vowel afterwards:
 --
+||||||{.centred}
 ||||{.wide}
 ''
 |^
@@ -384,6 +385,7 @@ depending on the vowel afterwards:
     , [ɕ] __sh__
 ''
 ||||
+||||||
 
 --
 For example, the modern speaker will prefer
@@ -1599,7 +1601,7 @@ Here are a few examples:
 ###{#tones-table} Nine tones (.九聲)
 
 ||||||{.centred}
-||||{.centred .wide}
+||||{.wide}
 ''
 |^
   //
