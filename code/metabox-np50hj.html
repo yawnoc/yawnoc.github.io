@@ -11,7 +11,7 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/resources/styles/main.min.css">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 <script defer src="/resources/scripts/rendering.min.js"></script>
 <title>Debian on Metabox Alpha-S NP50HJ | Conway's site</title>
 </head>
@@ -19,48 +19,53 @@
 <header>
 <nav>
 <ul>
-<li><a href="/" title="Home page">Home</a>
+<li>
+<a href="/" title="Home page">Home</a>
 </li>
-<li><a href="#" title="Jump back to top">Top</a>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
 </li>
-<li><a href="#cite" title="Cite this page">Cite</a>
+<li>
+<a href="#cite" title="Cite this page">Cite</a>
 </li>
 </ul>
 </nav>
 </header>
 <h1>Debian on Metabox Alpha-S NP50HJ</h1>
-<div class="page-properties">
-Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/metabox-np50hj.cmd">code/metabox-np50hj.cmd</a><br>
-First created: 2021-12-23<br>
-Last modified: 2022-05-08
-</div>
 <p>
 Installing Debian Bullseye on a Metabox Alpha-S NP50HJ with these specs:
 </p>
 <ul>
-<li>CPU: 11th Gen Intel® 8 Core™ i7-11800H
+<li>
+CPU: 11th Gen Intel® 8 Core™ i7-11800H
 </li>
-<li>GPU: NVIDIA GeForce RTX 3050
+<li>
+GPU: NVIDIA GeForce RTX 3050
 </li>
-<li>Wireless: Intel AX201 Dual Band WIFI/BTv5.1
+<li>
+Wireless: Intel AX201 Dual Band WIFI/BTv5.1
 </li>
 </ul>
-<h2 id="image"><a class="permalink" href="#image" aria-label="Permalink"></a>Get CD image (11.1.0 non-free)</h2>
+<h2 id="image"><a href="#image" class="permalink" aria-label="Permalink"></a>Get CD image (11.1.0 non-free)</h2>
 <p>
 On an existing operating system:
 </p>
 <ol>
-<li><p>
+<li>
+<p>
 Download checksum and signature files:
 </p>
 <ul>
-<li><a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/SHA256SUMS">https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/SHA256SUMS</a>
+<li>
+<a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/SHA256SUMS">https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/SHA256SUMS</a>
 </li>
-<li><a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/SHA256SUMS.sign">https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/SHA256SUMS.sign</a>
+<li>
+<a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/SHA256SUMS.sign">https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/SHA256SUMS.sign</a>
 </li>
 </ul>
 </li>
-<li><p>
+<li>
+<p>
 Do a jigdo download,
 </p>
 <pre><code>$ sudo apt install jigdo-file
@@ -70,19 +75,23 @@ $ jigdo-lite
 using the following parameters when prompted:
 </p>
 <ul>
-<li>URL:
+<li>
+URL:
 <a href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/firmware-11.1.0-amd64-netinst.jigdo">https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.1.0+nonfree/amd64/jigdo-cd/firmware-11.1.0-amd64-netinst.jigdo</a>
 </li>
-<li>Files to scan: (none)
+<li>
+Files to scan: (none)
 </li>
-<li>Debian mirror: (default)
+<li>
+Debian mirror: (default)
 </li>
 </ul>
 <p>
 This results in <code>firmware-11.1.0-amd64-netinst.iso</code>.
 </p>
 </li>
-<li><p>
+<li>
+<p>
 Verify the image:
 </p>
 <pre><code>$ gpg --keyserver hkps://keyserver.ubuntu.com --recv-key DF9B9C49EAA9298432589D76DA87E80D6294BE9B
@@ -106,27 +115,33 @@ All good.
 </p>
 </li>
 </ol>
-<h2 id="usb"><a class="permalink" href="#usb" aria-label="Permalink"></a>Put CD image onto USB</h2>
+<h2 id="usb"><a href="#usb" class="permalink" aria-label="Permalink"></a>Put CD image onto USB</h2>
 <p>
 Still on the existing operating system:
 </p>
 <ol>
-<li>Use <code>lsblk</code> to check which disk the USB is (<code>/dev/sdb</code> in my case)
+<li>
+Use <code>lsblk</code> to check which disk the USB is (<code>/dev/sdb</code> in my case)
 </li>
-<li>Unmount the USB
+<li>
+Unmount the USB
 </li>
-<li>Copy the image onto the USB as a whole-disk device (NOT a partition):
+<li>
+Copy the image onto the USB as a whole-disk device (NOT a partition):
 <pre><code>$ sudo cp firmware-11.1.0-amd64-netinst.iso /dev/sdb; sync
 </code></pre>
 </li>
 </ol>
-<h2 id="install"><a class="permalink" href="#install" aria-label="Permalink"></a>Install from USB onto Metabox</h2>
+<h2 id="install"><a href="#install" class="permalink" aria-label="Permalink"></a>Install from USB onto Metabox</h2>
 <ol>
-<li>Hold F7
+<li>
+Hold F7
 </li>
-<li>Power on
+<li>
+Power on
 </li>
-<li>Choose boot from USB
+<li>
+Choose boot from USB
 </li>
 </ol>
 <p>
@@ -137,20 +152,22 @@ The wireless connection should work fine for the Intel AX201
 <p>
 Then reboot.
 </p>
-<h2 id="internet"><a class="permalink" href="#internet" aria-label="Permalink"></a>Internet connection</h2>
+<h2 id="internet"><a href="#internet" class="permalink" aria-label="Permalink"></a>Internet connection</h2>
 <p>
 After booting into the installed system,
 you will need to establish an internet connection.
 I was lazy so I used the ethernet.
 </p>
 <ol>
-<li>Run <code>ip l</code> to determine the name of the interface
+<li>
+Run <code>ip l</code> to determine the name of the interface
 (in my case, <code>enp2s0</code> for the ethernet)
 </li>
-<li>Run <code>sudo dhclient enp2s0</code>
+<li>
+Run <code>sudo dhclient enp2s0</code>
 </li>
 </ol>
-<h2 id="apt"><a class="permalink" href="#apt" aria-label="Permalink"></a><code>apt install</code> a bunch of stuff</h2>
+<h2 id="apt"><a href="#apt" class="permalink" aria-label="Permalink"></a><code>apt install</code> a bunch of stuff</h2>
 <pre><code>$ sudo apt update
 $ sudo apt install \
     network-manager \
@@ -184,7 +201,7 @@ $ sudo apt install \
     libreoffice \
 
 </code></pre>
-<h2 id="nvidia"><a class="permalink" href="#nvidia" aria-label="Permalink"></a>NVIDIA</h2>
+<h2 id="nvidia"><a href="#nvidia" class="permalink" aria-label="Permalink"></a>NVIDIA</h2>
 <p>
 From &lt;<a href="https://wiki.debian.org/NVIDIA%20Optimus#Methods">https://wiki.debian.org/NVIDIA%20Optimus#Methods</a>&gt;:
 </p>
@@ -196,7 +213,8 @@ From &lt;<a href="https://wiki.debian.org/NVIDIA%20Optimus#Methods">https://wiki
 To summarize the different approaches you can take that are supported in Debian:
 </p>
 <ul>
-<li><a href="https://wiki.debian.org/NVIDIA%20Optimus#PRIMEOffload">Using PRIME Render Offload</a> -
+<li>
+<a href="https://wiki.debian.org/NVIDIA%20Optimus#PRIMEOffload">Using PRIME Render Offload</a> -
 Theoretically, with Debian 11 (or newer),
 special configuration shouldn't be needed
 and offloading should be available
@@ -207,7 +225,8 @@ Making this work with display outputs that are wired to the discrete GPU
 requires some manual configuration.
 See the relevant section for more details.
 </li>
-<li>[…]
+<li>
+[…]
 </li>
 </ul>
 </blockquote>
@@ -229,7 +248,7 @@ The only requirements are to install the proprietary drivers
 (As per the <a href="https://wiki.debian.org/NvidiaGraphicsDrivers">NvidiaGraphicsDrivers</a> page)
 and then run your application
 with the <code>__NV_PRIME_RENDER_OFFLOAD=1</code> environment variable set,
-and in some cases (e.g.&nbsp;for GLX applications),
+and in some cases (e.g. for GLX applications),
 the <code>__GLX_VENDOR_LIBRARY_NAME=nvidia</code> environment variable set
 (or the <code>__GLX_VENDOR_LIBRARY_NAME=nvidia-current</code> environment variable,
 if it's installed an older driver).
@@ -261,7 +280,7 @@ $ sudo apt install nvidia-driver
 <p>
 Then reboot. Anecdotally this improves the battery life by about 20%.
 </p>
-<h2 id="signal"><a class="permalink" href="#signal" aria-label="Permalink"></a>Signal Desktop</h2>
+<h2 id="signal"><a href="#signal" class="permalink" aria-label="Permalink"></a>Signal Desktop</h2>
 <p>
 From &lt;<a href="https://signal.org/download/">https://signal.org/download/</a>&gt;:
 </p>
@@ -279,9 +298,10 @@ echo 'deb [arch=amd64 signed-by=/usr/share/keyrings/signal-desktop-keyring.gpg] 
 # 3. Update your package database and install signal
 sudo apt update &amp;&amp; sudo apt install signal-desktop
 </code></pre>
-<h2 id="android-studio"><a class="permalink" href="#android-studio" aria-label="Permalink"></a>Android Studio</h2>
+<h2 id="android-studio"><a href="#android-studio" class="permalink" aria-label="Permalink"></a>Android Studio</h2>
 <ul>
-<li><p>
+<li>
+<p>
 After extracting <code>android-studio-2020.3.1.26-linux.tar.gz</code>,
 make sure the following are executable (using <code>chmod +x</code>):
 </p>
@@ -291,7 +311,8 @@ jre/bin/java
 jre/bin/keytool
 </code></pre>
 </li>
-<li><p>
+<li>
+<p>
 Ensure that whatever <code>compileSdkVersion</code> you have in the project gradle
 is actually installed in the SDK manager.
 </p>
@@ -303,7 +324,7 @@ Cannot query the value of this provider because it has no value available"
 </p>
 </li>
 </ul>
-<h2 id="vivaldi"><a class="permalink" href="#vivaldi" aria-label="Permalink"></a>Vivaldi</h2>
+<h2 id="vivaldi"><a href="#vivaldi" class="permalink" aria-label="Permalink"></a>Vivaldi</h2>
 <p>
 From &lt;<a href="https://help.vivaldi.com/desktop/install-update/manual-setup-vivaldi-linux-repositories/">https://help.vivaldi.com/desktop/install-update/manual-setup-vivaldi-linux-repositories/</a>&gt;:
 </p>
@@ -324,16 +345,29 @@ Install Vivaldi
 <pre><code>sudo apt update &amp;&amp; sudo apt install vivaldi-stable
 </code></pre>
 </blockquote>
-<h2 id="cite"><a class="permalink" href="#cite" aria-label="Permalink"></a>Cite this page</h2>
+<h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
 <p>
-Conway&nbsp;(2022).
+Conway (2022).
 Debian on Metabox Alpha-S NP50HJ.
-&lt;https://yawnoc.github.io/code/metabox-np50hj&gt;
-Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
+&lt;<a href="https://yawnoc.github.io/code/metabox-np50hj">https://yawnoc.github.io/code/metabox-np50hj</a>&gt;
+Accessed <span class="js-date">yyyy-mm-dd</span>.
 </p>
-<script>document.addEventListener("DOMContentLoaded",function(){renderDate()})</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {renderDate()})
+</script>
 <footer>
-©&nbsp;2021–2022&nbsp;Conway.
+© 2021–2022 Conway.
+<ul>
+<li>
+First created: 2021-12-23
+</li>
+<li>
+Last modified: 2022-xx-xx
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/cmdv4/code/metabox-np50hj.cmd"><code>code/metabox-np50hj.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.3.1">CMDv4.3.1</a>
+</li>
+</ul>
 </footer>
 </body>
 </html>

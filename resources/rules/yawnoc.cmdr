@@ -153,3 +153,5 @@ OrdinaryDictionaryReplacement: #.yawnoc.typography
 *   \- --> ‑
 # U+00A9 COPYRIGHT SIGN
 *   (C) --> ©
+# U+2026 HORIZONTAL ELLIPSIS
+*   ... --> …
