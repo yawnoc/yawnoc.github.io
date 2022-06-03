@@ -1,38 +1,44 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
 
-%%
-  %title Git configuration
-  %date-created 2020-10-04
-  %date-modified 2021-05-16
-  %footer-remark
-    The above `.gitconfig` is released under the
-    [MIT No Attribution (MIT-0) license][MIT-0].
-  \resources
-%%
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
+* %post-copyright-remark -->
+  "
+    --
+    The above `.gitconfig` is released under [MIT No Attribution (MIT-0)].
+    --
+    [MIT No Attribution (MIT-0)]: https://spdx.org/licenses/MIT-0
+  "
+
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %title --> Git configuration
+* %date-created --> 2020-10-04
+* %date-modified --> 2022-xx-xx
 
 
-[[====
-* \header-link:home
-* \header-link:top
-====]]
+%%%
 
 
-# %title #
+^^^^
+- !home
+- !top
+^^^^
 
-[||||
-||||]
 
-----
+# %title
+
+--
 Nicer diffs (courtesy of [Mo Zhou at Debian])
 and fewer keystrokes
 for maximum productivity:
-----
+--
 
-@[Mo Zhou at Debian]
+[Mo Zhou at Debian]:
   https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=925288#25
-@
 
-````
+``
 [core]
   # $ cd /usr/share/doc/git/contrib/diff-highlight/
   # $ sudo make
@@ -62,6 +68,6 @@ for maximum productivity:
   shn = show --name-status
   shf = show --first-parent
   s = status
-````
+``
 
-%footer-element
+%%footer
