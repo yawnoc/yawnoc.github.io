@@ -46,6 +46,7 @@ Last version I used: [<code>%last-used-commit</code>]
 [<code>%last-used-commit</code>]:
   https://github.com/daniel-thompson/pinebook-pro-debian-installer/commit/%last-used-commit
 
+
 ##{#clone} Clone the installer
 
 ``
@@ -53,11 +54,13 @@ $ git clone https://github.com/daniel-thompson/pinebook-pro-debian-installer
 $ cd pinebook-pro-debian-installer
 ``
 
+
 ##{#unmount} Unmount the SD card
 
 ``
 $ umount /media/conway/mmcblk0
 ``
+
 
 ##{#run} Run the installer
 
