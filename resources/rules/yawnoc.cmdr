@@ -14,6 +14,7 @@ OrdinaryDictionaryReplacement: #.yawnoc.properties-override
     <link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 * </title> --> " | Conway's site</title>"
 * %copyright-prior-years -->
+* %copyright-exception -->
 * %post-copyright-remark -->
 
 
@@ -118,7 +119,8 @@ OrdinaryDictionaryReplacement: #.yawnoc.footer
 * %%footer -->
   "
     <footer>
-      (C)~%copyright-prior-years|get_year@%date-modified Conway.
+      (C)~%copyright-prior-years|get_year@%date-modified Conway\
+        %copyright-exception.
       %post-copyright-remark
       ==
       - First created: %date-created
