@@ -175,11 +175,18 @@ Mostly [applied maths](#math) and [Literary Chinese](#lit).
 ##{#me-elsewhere} Me elsewhere
 
 ||
-  [![GitHub](icons/github.svg)]{.icon-link}(https://github.com/yawnoc)
-  [![GitLab](icons/gitlab.svg)]{.icon-link}(https://gitlab.com/yawnoc)
-  [![Mathematica Stack Exchange](icons/mathematica-stackexchange.svg)]\
+  [![GitHub](/resources/icons/github.svg)]\
+    {.icon-link}(https://github.com/yawnoc)
+
+  [![GitLab](/resources/icons/gitlab.svg)]\
+    {.icon-link}(https://gitlab.com/yawnoc)
+
+  [![Mathematica Stack Exchange]\
+    (/resources/icons/mathematica-stackexchange.svg)]\
     {.icon-link}(https://mathematica.stackexchange.com/users/72028/yawnoc)
-  [![Lichess](icons/lichess.svg)]{.icon-link}(https://lichess.org/@/yawnoc)
+
+  [![Lichess](/resources/icons/lichess.svg)]\
+    {.icon-link}(https://lichess.org/@/yawnoc)
 ||
 
 
