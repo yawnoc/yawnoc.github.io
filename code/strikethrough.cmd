@@ -1,11 +1,15 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
 
-%%
-  %title Strikethrough formatter
-  %date-created 2020-03-02
-  %date-modified 2020-04-25
-  \resources
-  %css a~~
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
+
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %title --> Strikethrough formatter
+* %date-created --> 2020-03-02
+* %date-modified --> 2022-xx-xx
+* %styles -->
     .container {
       border: 2px solid black;
       margin: 1em 0.3em;
@@ -18,26 +22,21 @@
       resize: vertical;
       width: 100%;
     }
-  ~~
-  %onload-js a~~
-    passInputToOutput()
-  ~~
-%%
+* <body> --> <body onload="passInputToOutput()">
+
+%%%
 
 
-[[====
-* \header-link:home
-* \header-link:top
-====]]
+^^^^
+- !home
+- !top
+^^^^
 
 
-# %title #
+# %title
 
-[||||
-||||]
-
-||||{.container}
-a~~
+||{.container}
+uw<``
   <textarea
     autofocus
     id="input"
@@ -45,19 +44,20 @@ a~~
     placeholder="Enter input here"
   >
   </textarea>
-~~
-||||
+``>
+||
 
-||||{.container}
+||{.container}
   <noscript>
     **{.noscript} Enable JavaScript for the strikethrough formatter to work.**
   </noscript>
-  a~~ <s id="output"></s> ~~
-||||
+  uw<`` <s id="output"></s> ``>
+||
 
-%footer-element
 
-a~~
+%%footer
+
+uw<``
   <script>
   function passInputToOutput() {
     let inputString = document.getElementById('input').value
@@ -68,4 +68,4 @@ a~~
     )
   }
   </script>
-~~
+``>

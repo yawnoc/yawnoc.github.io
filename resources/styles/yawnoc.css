@@ -203,6 +203,11 @@ header > nav > ul {
 }
 
 
+.noscript {
+  color: crimson;
+}
+
+
 .parallel-text > .destination-text {
   border-top: 1px solid black;
   margin-top: 0.3em;
