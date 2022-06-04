@@ -343,6 +343,11 @@ h2 > .permalink {
 }
 
 
+.start {
+  margin-bottom: 1.3em;
+}
+
+
 .thought {
   border: 2px dotted #ec00ce;
   border-radius: 0.5em;
