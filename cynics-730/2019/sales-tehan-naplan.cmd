@@ -24,7 +24,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 # %title
 
 --
-([Original 7.30 interview], [archived version]) 
+([Original 7.30 interview], [archived version])
 --
 
 [Original 7.30 interview]:
