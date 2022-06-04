@@ -256,6 +256,9 @@ header > nav > ul {
 }
 
 
+.interview-guest {
+  color: var(--guest-colour);
+}
 img.interview-guest {
   border-color: var(--guest-colour);
   float: right;
@@ -264,11 +267,11 @@ img.interview-guest {
 p.interview-guest {
   clear: left;
 }
-.interview-guest {
-  color: var(--guest-colour);
+
+
+.interview-host {
+  color: var(--host-colour);
 }
-
-
 img.interview-host {
   border-color: var(--host-colour);
   float: left;
@@ -276,9 +279,6 @@ img.interview-host {
 }
 p.interview-host {
   clear: right;
-}
-.interview-host {
-  color: var(--host-colour);
 }
 
 
