@@ -25,18 +25,6 @@ RegexDictionaryReplacement: #.translation.square-bracket-wrap
 * \Z --> ]
 
 
-FixedDelimitersReplacement: #.translation.translator-supplied
-- queue_position: BEFORE #specified-images
-- syntax_type: INLINE
-- opening_delimiter: .[
-- attribute_specifications: .translator-supplied
-- prohibited_content: BLOCKS
-- content_replacements: #.translation.square-bracket-wrap
-- closing_delimiter: ]
-- tag_name: span
-- concluding_replacements: #placeholder-protect
-
-
 RegexDictionaryReplacement: #.translation.romanised-untranslated
 - queue_position: BEFORE #.yawnoc.spans
 * \(
@@ -46,6 +34,21 @@ RegexDictionaryReplacement: #.translation.romanised-untranslated
   \)
     -->
   ::{.romanised-untranslated title=\g<chinese>} \g<romanisation>::
+
+
+FixedDelimitersReplacement: #.translation.translator-supplied
+- queue_position: BEFORE #specified-images
+- syntax_type: INLINE
+- opening_delimiter: .[
+- attribute_specifications: .translator-supplied
+- prohibited_content: BLOCKS
+- content_replacements: #.translation.square-bracket-wrap
+- closing_delimiter: ]
+- tag_name: span
+- concluding_replacements:
+    #.translation.romanised-untranslated
+    #.yawnoc.spans
+    #placeholder-protect
 
 
 OrdinaryDictionaryReplacement: #.translation.alternative-markers
