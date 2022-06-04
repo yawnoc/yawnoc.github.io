@@ -66,7 +66,7 @@ See also:
 \\
   ".[The] Fox Feigneth .[the] Tiger's Authority"
 >>
-==
+=={.translation-annotations}
 * .威： authority; \lit might
 ==
 
@@ -86,7 +86,7 @@ but with olden-style punctuation:
     I hear of .[the] North's fear of (Chao Hi-s(u")|昭奚恤);
     if .[it be] true, what of .[it]?
 >>
-==
+=={.translation-annotations}
 * .荊： (King|荊)
   --
   Another name for the state of~(Ch'u|楚) (.楚).
@@ -113,7 +113,7 @@ but with olden-style punctuation:
     .[A] tiger sought .[the] hundred beasts .[to] then eat them,
     .[and] obtained .[a] fox.
 >>
-==
+=={.translation-annotations}
 * .江一： (Kiang I|江一)
   --
   A minister of King~(S(u")an|宣) of~(King|荊).
@@ -131,7 +131,7 @@ but with olden-style punctuation:
     shouldst thou eat me,
     this .[shall] defy .[the] will of .[the] Emperor of Heaven.
 >>
-==
+=={.translation-annotations}
 * .子： thou; \lit master
 
 * .長： be leader over
@@ -173,7 +173,7 @@ but with olden-style punctuation:
   .[with] armour-donning .[soldiers a] million,
   and exclusively subordinate .[are] they unto (Chao Hi-s(u")|昭奚恤);
 >>
-==
+=={.translation-annotations}
 * .地： territory; \lit land
 
 * .方： circumference

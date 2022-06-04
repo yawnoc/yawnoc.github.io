@@ -97,7 +97,7 @@ but I would guess that that side bears the two lines before. All up:
   ||
   ||||
 >>
-==
+=={.translation-annotations}
 * .盛： prime; \lit flourishing; \or vigour
 * .一日： .[a] day; \lit one day
 * .勉勵： strive; \or spur
