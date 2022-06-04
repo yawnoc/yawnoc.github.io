@@ -1,17 +1,9 @@
 < /resources/rules/yawnoc.cmdr
+< /resources/rules/cynicism.cmdr
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
 * %copyright-prior-years --> get_year@%date-created--
-* %copyright-exception -->
-    , except the [original 7.30 interview],
-    whose copyright belongs to the ABC
-* %post-copyright-remark -->
-  "
-    --
-    _{.thought} Italicised words_ inserted by me.
-    --
-  "
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override

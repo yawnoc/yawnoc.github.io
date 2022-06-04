@@ -1,0 +1,11 @@
+OrdinaryDictionaryReplacement: #.cynicism.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-exception -->
+    , except the [original 7.30 interview],
+    whose copyright belongs to the ABC
+* %post-copyright-remark -->
+  "
+    --
+    _{.thought} Italicised words_ inserted by me.
+    --
+  "
