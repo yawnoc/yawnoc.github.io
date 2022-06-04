@@ -133,7 +133,7 @@ I say, you know, fill your boots.
   [Energy Minister Angus Taylor discusses Snowy Hydro 2.0]\
     (2019/sales-taylor-snowy)
 
-- __10~September 2019__ (The Bolt Report, not 7.30):
+- __10~September 2019__ (The Bolt Report):
 
   [Gladys Liu discusses membership of various Chinese Associations]\
     (2019/bolt-liu-association)
