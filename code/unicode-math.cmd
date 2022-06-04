@@ -225,7 +225,7 @@ Convenient for use in emails.
     ,, \simeq
     , asymptotically equals
   //
-    , <`` ~ ``>
+    , \~
     ,, \sim
     , asymptotically
   //
