@@ -205,7 +205,7 @@ For example,
 Forget everything you learnt in Mandarin class; that is modern vernacular.
 Welcome to pre-twentieth-century Chinese Literature,
 in which .是 primarily means "this",
-and .也 is primarily an ending speech-assist (語助)
+and .也 is primarily an ending speech-assist (.語助)
 which asserts whatever precedes it.
 --
 
