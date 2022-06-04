@@ -42,7 +42,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 --
 This is one of several accounts of [(Hiang T'o|項橐)],
-a child prodigy who is supposed to have outwitted Confucius
+a child prodigy who is supposed to have outwitted (Confucius|孔子)
 at the age of seven.
 --
 
@@ -95,12 +95,12 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子、名丘、字仲尼、設敎於魯國之西。
 \\
-  Confucius, named (K'iu|丘),
+  (Confucius|孔子), named (K'iu|丘),
   .[and] styled (Chung-ni|仲尼),
   established .[a] teaching in .[the] west of .[the] nation of (Lu|魯).
 >>
 =={.translation-annotations}
-* .孔子： Confucius; \lit Master~(K'ung|孔)
+* .孔子： (Confucius|孔子); \lit Master~(K'ung|孔)
 
 * .字： styled
   --
@@ -126,7 +126,7 @@ I have edited the punctuation to not be bizarre.
   .車、音居、 \C k\_(u")1, \M j(u-)
   --
   --
-  This is a literary text, and Confucius~&~co. are riding in a chariot,
+  This is a literary text, and (Confucius|孔子)~&~co. are riding in a chariot,
   not a small cart or a wheelbarrow.
   Therefore, please do not pronounce this ch'e1/ch(e-);
   my ears will bleed.
@@ -136,7 +136,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子乃駐車問曰、獨汝不戲、何也。
 \\
-  Confucius thus stopped .[his] chariot .[and] asked, saying,
+  (Confucius|孔子) thus stopped .[his] chariot .[and] asked, saying,
   Alone thou playest not: why?
 >>
 
@@ -168,7 +168,7 @@ I have edited the punctuation to not be bizarre.
 =={.translation-annotations}
 * .低頭： lowered .[his] head
   --
-  Being a little child, he had to look up to speak to Confucius;
+  Being a little child, he had to look up to speak to (Confucius|孔子);
   having finished speaking he turned his head back down.
   The [almanac illustration][almanac text]:
   --
@@ -188,7 +188,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子責之曰、何不避車乎。
 \\
-  Confucius rebuked him, saying, Why avoidest .[thou] not .[my] chariot?
+  (Confucius|孔子) rebuked him, saying, Why avoidest .[thou] not .[my] chariot?
 >>
 
 <<
@@ -203,7 +203,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子乃勒車論道、下車而問焉、汝年尚幼、何多詐乎。
 \\
-  Confucius thus bridled .[his] chariot .[to] reason,
+  (Confucius|孔子) thus bridled .[his] chariot .[to] reason,
   alighting .[his] chariot and asking him,
   Thy years .[be] yet young; why .[so] much cunning?
 >>
@@ -248,7 +248,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子曰、汝居何鄉、何里、何姓、何名、何字。
 \\
-  Confucius said,
+  (Confucius|孔子) said,
   Dwellest thou in what hometown, .[and] what village,
   .[and hast] what surname, what name, .[and] what style-name?
 >>
@@ -273,7 +273,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子曰、吾欲共汝同遊、汝意下如何。
 \\
-  Confucius said,
+  (Confucius|孔子) said,
   I wish to travel together with thee:
   what .[be] thy thoughts?
 >>
@@ -329,7 +329,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子曰、吾車中有三十二棋子、與汝奕博、汝意下如何。
 \\
-  Confucius said,
+  (Confucius|孔子) said,
   Amidst my chariot there are thirty-two chess pieces,
   .[to] play chess .[for a] wager with thee:
   what .[be] thy thoughts?
@@ -341,7 +341,7 @@ I have edited the punctuation to not be bizarre.
   [Chinese Chess (.象棋)] and [Western Chess]
   both use 16~chess pieces per player.
   Of course this text is not canon, nor is it historically accurate;
-  in Confucius's time, .奕 referred to [Surrounding Chess (.圍棋)],
+  in (Confucius|孔子)'s time, .奕 referred to [Surrounding Chess (.圍棋)],
   more commonly known as Go.
   --
 ==
@@ -390,7 +390,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子曰、吾欲與汝平却天下、汝意下如何。
 \\
-  Confucius said,
+  (Confucius|孔子) said,
   I wish to level out .[all] under Heaven with thee:
   what .[be] thy thoughts?
 >>
@@ -443,7 +443,7 @@ I have edited the punctuation to not be bizarre.
   何山無石、何樹無枝、\
   何人無婦、何女無夫、
 \\
-  Confucius said,
+  (Confucius|孔子) said,
   Knowest thou under Heaven:
   What fire hath no smoke?
   What water hath no fish?
@@ -545,7 +545,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子問曰、汝知天地之綱紀、陰陽之終始。
 \\
-  Confucius asked, saying,
+  (Confucius|孔子) asked, saying,
   Knowest thou .[the] principle .[and the] law of Heaven .[and] Earth,
   .[and the] end .[and the] beginning of Yin .[and] Yang?
 >>
@@ -656,7 +656,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子問曰、汝言父母是親、夫婦是親。
 \\
-  Confucius asked, saying,
+  (Confucius|孔子) asked, saying,
   Sayest thou .[that]
   father .[and] mother are .[more] close .[unto their children],
   .[or that] husband .[and] wife are .[more] close?
@@ -676,7 +676,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子曰、夫婦生則同衾、死則同穴、何得不親。
 \\
-  Confucius said,
+  (Confucius|孔子) said,
   Husband .[and] wife .[share the] same quilt .[in] life,
   .[and the] same pit .[in] death: how could .[they be] not .[as] close?
 >>
@@ -742,7 +742,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子歎曰、賢哉、賢哉。
 \\
-  Confucius sighed, saying,
+  (Confucius|孔子) sighed, saying,
   Worthy .[art thou]! Worthy .[art thou]!
 >>
 
@@ -750,7 +750,7 @@ I have edited the punctuation to not be bizarre.
   小兒問孔子曰、\
   適來問橐、橐一一答之。橐今欲求敎夫子一言、明以誨橐、幸請勿棄。
 \\
-  .[The] little child asked Confucius, saying,
+  .[The] little child asked (Confucius|孔子), saying,
   .[My master is] just come to ask (T'o|橐) .[questions],
   .[and] (T'o|橐) .[hath] one .[by] one answered them.
   (T'o|橐) now wisheth to
@@ -763,7 +763,7 @@ I have edited the punctuation to not be bizarre.
   --
   Out of respect, the child (Hiang T'o|項橐) refers
   [to himself in the third person][illeism],
-  and to Confucius as .夫子, ".[my] master", rather than .汝, "thou".
+  and to (Confucius|孔子) as .夫子, ".[my] master", rather than .汝, "thou".
   --
 
   [illeism]: https://en.wikipedia.org/wiki/Illeism
@@ -784,7 +784,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子答曰、鵝鴨能浮、皆因足方、鴻雁能鳴、皆因頸長、松柏冬青、皆因心堅。
 \\
-  Confucius answered, saying,
+  (Confucius|孔子) answered, saying,
   The goose .[and] the duck .[be] able to float,
   all because .[their] feet .[are] square.
   The swan-goose .[be] able to sound,
@@ -825,7 +825,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子答曰、適來問地、何必談天。
 \\
-  Confucius answered, saying,
+  (Confucius|孔子) answered, saying,
   .[I am] just come to ask of .[the] earth;
   why must .[we] talk of .[the] heavens?
 >>
@@ -846,7 +846,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子曰、且論眼前之事、何必談天説地。
 \\
-  Confucius said,
+  (Confucius|孔子) said,
   And .[do] discourse matters before .[our very] eyes;
   why must .[we] talk of .[the] heavens
     .[and] speak of .[the] earth?
@@ -863,7 +863,7 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子笑而不答、顧謂諸弟子曰、後生可畏、焉知來者之不如今也。
 \\
-  Confucius laughed and answered not,
+  (Confucius|孔子) laughed and answered not,
   .[and] spake looking back unto all .[the] disciples, saying,
   The young ought to .[be] feared!
   .[For] how know .[we],
@@ -872,7 +872,7 @@ I have edited the punctuation to not be bizarre.
 ===={.translation-annotations}
 * .後生可畏、焉知來者之不如今也
   --
-  This is part of an actual (as in canon) quote of Confucius
+  This is part of an actual (as in canon) quote of (Confucius|孔子)
   in [《論語子罕》]{l=zh-Hant}(https://ctext.org/analects/zi-han#n1331):
   --
   <<
