@@ -238,56 +238,56 @@ Then reboot.
 ###{#appearance} Appearance settings
 
 ========
-* Top panel > System > Preferences > Look and Feel > Appearance
+- Top panel > System > Preferences > Look and Feel > Appearance
   ======
-  * [Theme] TraditionalOK
-  * [Background]
+  - [Theme] TraditionalOK
+  - [Background]
     ====
-    * No Desktop Background
-    * Colours: Solid colour, black.
+    - No Desktop Background
+    - Colours: Solid colour, black.
     ====
-  * [Fonts]
+  - [Fonts]
     ====
-    * Fixed width font size~11 (in line with the other families)
-    * Details...
+    - Fixed width font size~11 (in line with the other families)
+    - Details...
       ==
-      * Automatic detection: OFF
-      * Dots per inch (DPI): 120 (otherwise text is too small)
+      - Automatic detection: OFF
+      - Dots per inch (DPI): 120 (otherwise text is too small)
       ==
     ====
   ======
 
-* Right Click top panel > Delete This Panel
+- Right Click top panel > Delete This Panel
 
-* Right Click bottom panel > Properties
+- Right Click bottom panel > Properties
   ==
-  * [General] Size: 32~pixels
+  - [General] Size: 32~pixels
   ==
 
-* Unlock and Remove everything in the bottom panel,
+- Unlock and Remove everything in the bottom panel,
   which shall henceforth be called the taskbar
 
-* Add to taskbar and Lock the following
+- Add to taskbar and Lock the following
   ==
-  * Main Menu, which shall henceforth be called Start
-  * Workspace Switcher
-  * Window List
-  * Clock (flush right)
+  - Main Menu, which shall henceforth be called Start
+  - Workspace Switcher
+  - Window List
+  - Clock (flush right)
   ==
 
-* Rename `conway's Home` to `conway`
+- Rename `conway's Home` to `conway`
 
-* Start > System Tools > Caja
+- Start > System Tools > Caja
   ======
-  * Edit > Preferences
+  - Edit > Preferences
     ====
-    * [Views]
+    - [Views]
       ==
-      * Default View new folders using: List View
-      * List View Default Zoom level: 66%
+      - Default View new folders using: List View
+      - List View Default Zoom level: 66%
       ==
     ====
-  * View > Reset View to Defaults
+  - View > Reset View to Defaults
   ======
 
 ========
@@ -296,13 +296,13 @@ Then reboot.
 ###{#keyboard} Keyboard shortcuts
 
 ====
-* Start > System > Preferences > Hardware > Keyboard Shortcuts
+- Start > System > Preferences > Hardware > Keyboard Shortcuts
   ==
-  * Home folder: Pine + H
-  * Run a terminal: Pine + T
-  * Hide all and focus desktop: Pine + D
-  * Tile window to east (right): Pine + Right
-  * Tile window to west (left): Pine + Left
+  - Home folder: Pine + H
+  - Run a terminal: Pine + T
+  - Hide all and focus desktop: Pine + D
+  - Tile window to east (right): Pine + Right
+  - Tile window to west (left): Pine + Left
   ==
 ====
 --
@@ -313,35 +313,35 @@ Note that Pine key is Mod4.
 ###{#terminal} MATE Terminal
 
 ========
-* Edit > Profile Preferences
+- Edit > Profile Preferences
   ======
-  * [General]
+  - [General]
     ====
-    * Allow bold text: TRUE
-    * Terminal bell: FALSE
-    * Use custom default terminal size: 80 columns, 48 rows
+    - Allow bold text: TRUE
+    - Terminal bell: FALSE
+    - Use custom default terminal size: 80 columns, 48 rows
     ====
-  * [Colours]
+  - [Colours]
     ====
-    * Foreground, Background, Bold and Underline
+    - Foreground, Background, Bold and Underline
       ==
-      * Use colours from system theme: FALSE
-      * Built-in schemes: White on black
+      - Use colours from system theme: FALSE
+      - Built-in schemes: White on black
       ==
-    * Palette
+    - Palette
       ==
-      * Built-in schemes: XTerm
+      - Built-in schemes: XTerm
       ==
     ====
-  * [Scrolling]
+  - [Scrolling]
     ====
-    * Unlimited: TRUE
+    - Unlimited: TRUE
     ====
   ======
 
-* Edit > Keyboard Shortcuts
+- Edit > Keyboard Shortcuts
   ======
-  * Help Contents: Disabled
+  - Help Contents: Disabled
     (otherwise F1 won't work in TUI programs, e.g.~`alsamixer`)
   ======
 
@@ -376,18 +376,18 @@ $ sudo apt install mate-power-manager
 ``
 
 ======
-* Start > System > Preferences > Hardware > Power Management
+- Start > System > Preferences > Hardware > Power Management
   ====
-  * [On AC Power] Set display brightness to: 30%
-  * [General]
+  - [On AC Power] Set display brightness to: 30%
+  - [General]
     ==
-    * When the power button is pressed: Do nothing
-    * Notification Area: Always display an icon
+    - When the power button is pressed: Do nothing
+    - Notification Area: Always display an icon
     ==
   ====
-* Add to taskbar and Lock
+- Add to taskbar and Lock
   ====
-  * Notification Area (beside clock)
+  - Notification Area (beside clock)
   ====
 ======
 --
@@ -408,8 +408,8 @@ $ sudo apt install w3m
 ###{#w3m-options} w3m options
 
 ==
-* [Display] Tab width: 2
-* [Miscellaneous Settings] Save URL history: NO
+- [Display] Tab width: 2
+- [Miscellaneous Settings] Save URL history: NO
 ==
 --
 No cookies appears to be the default now.
