@@ -345,6 +345,7 @@ h2 > .permalink {
 
 .thought {
   border: 2px dotted #ec00ce;
+  border-radius: 0.5em;
   font-family: 'Comic_Neue', sans-serif;
   padding: 0.1em 0.2em;
 }
