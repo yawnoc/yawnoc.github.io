@@ -1,3 +1,11 @@
+OrdinaryDictionaryReplacement: #.romanisation.languages
+- queue_position: BEFORE #specified-links
+* '\C ' --> [Cantonese](/cantonese/conway-romanisation "Conway's Romanisation for Cantonese"):~
+* '\pm ' --> [post-merger](/cantonese/conway-romanisation#ts-vs-ch):~
+* '\M ' --> Mandarin:~
+* '\gr ' --> Government-regulated .統讀:~
+
+
 OrdinaryDictionaryReplacement: #.romanisation.special-characters
 - queue_position: BEFORE #backslash-escapes
 #
