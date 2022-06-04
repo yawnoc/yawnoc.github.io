@@ -1,8 +1,21 @@
 :root{
   --body-padding-horizontal: 1rem;
+  --guest-colour: maroon;
+  --host-colour: darkblue;
   --html-max-width: 44rem;
+  --interview-image-margin-horizontal: 0.75em;
   --katex-clearance-top: 0.5em;
   --katex-clearance-bottom: 0.25em;
+}
+
+
+@font-face {
+  font-display: swap;
+  font-family: 'Comic_Neue';
+  src:
+    url('/resources/fonts/ComicNeue-Regular.woff2') format('woff2'),
+    url('/resources/fonts/ComicNeue-Regular.woff') format('woff'),
+    url('/resources/fonts/ComicNeue-Regular.ttf') format('truetype');
 }
 
 
@@ -140,6 +153,9 @@ li > ol {
 footer > p {
   margin: 0.4em 0;
 }
+.interview > img + p {
+  padding-top: 0.7em;
+}
 .translation-annotations > li > p {
   margin: 0.3em 0;
 }
@@ -212,11 +228,61 @@ header > nav > ul {
 }
 
 
+.end {
+  clear: both;
+  font-size: x-large;
+  margin-top: 0.5em;
+}
+
+
 .example, .parallel-text {
   border: 2px solid black;
   font-size: large;
   margin: 0.7em;
   padding: 0.4em 0.5em;
+}
+
+
+.interview {
+  font-size: large;
+  display: flow-root;
+  margin: 0.5em auto 1em;
+  max-width: 32rem;
+}
+
+
+img.interview-guest {
+  border-color: var(--guest-colour);
+  float: right;
+  margin-left: var(--interview-image-margin-horizontal);
+}
+p.interview-guest {
+  clear: left;
+}
+.interview-guest {
+  color: var(--guest-colour);
+}
+
+
+img.interview-host {
+  border-color: var(--host-colour);
+  float: left;
+  margin-right: var(--interview-image-margin-horizontal);
+}
+p.interview-host {
+  clear: right;
+}
+.interview-host {
+  color: var(--host-colour);
+}
+
+
+img.interview-guest, img.interview-host {
+  border: 5px solid;
+  clear: both;
+  display: block;
+  margin-bottom: 0.25em;
+  max-width: 30%;
 }
 
 
@@ -242,6 +308,11 @@ div.js-maths {
 }
 
 
+.marker {
+  text-align: center;
+}
+
+
 .noscript {
   color: crimson;
 }
@@ -263,6 +334,16 @@ h2 > .permalink {
 
 .romanised-untranslated {
   text-decoration: underline 0.1em dotted;
+}
+
+
+.thought {
+  border: 2px dotted #ec00ce;
+  font-family: 'Comic_Neue', sans-serif;
+  padding: 0.1em 0.2em;
+}
+p.thought {
+  padding: 0.7em;
 }
 
 
