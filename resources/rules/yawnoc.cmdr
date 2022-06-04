@@ -18,6 +18,10 @@ OrdinaryDictionaryReplacement: #.yawnoc.properties-override
 * %post-copyright-remark -->
 
 
+OrdinaryDictionaryReplacement: #.yawnoc.double-quotes-in-attributes
+* ` --> &quot;
+
+
 OrdinaryDictionaryReplacement: #.yawnoc.nondescript
 - queue_position: AFTER #boilerplate-properties
 * <meta name="description" content="%description"> -->

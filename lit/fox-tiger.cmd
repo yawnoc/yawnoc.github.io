@@ -14,10 +14,11 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> "[The] Fox Feigneth [the] Tiger's Authority" 《狐假虎威》
 * %description -->
     An English translation of the original text for 《狐假虎威》, \
-    &quot;[The] Fox Feigneth [the] Tiger's Authority&quot;.
+    `[The] Fox Feigneth [the] Tiger's Authority`.
 * %date-created --> 2019-04-07
 * %date-modified --> 2022-xx-xx
 - concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
     #backslash-continuations
 
