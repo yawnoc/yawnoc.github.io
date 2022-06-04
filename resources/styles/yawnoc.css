@@ -290,7 +290,8 @@ img.interview-guest, img.interview-host {
   font-family: monospace;
 }
 div.js-maths {
-  margin: 1em unset;
+  margin-top: 1em;
+  margin-bottom: 1em;
   padding: 0 1em;
   white-space: pre;
 }
