@@ -225,6 +225,9 @@ header > nav > ul {
   justify-content: center;
   margin: 1em 0;
 }
+.source-text > .centred, .destination-text > .centred {
+  margin: 0.3em 0;
+}
 
 
 .destination-text {

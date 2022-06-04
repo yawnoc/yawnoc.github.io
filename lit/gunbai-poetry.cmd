@@ -1,144 +1,110 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/translations.cmd +}
-
-%%
-  %title Poetry on a sumo umpire's fan
-  %date-created 2019-11-21
-  %date-modified 2020-03-12
-  \resources:rendering
-  %footer-copyright-remark
-    except the image of \kimura-yodo,
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
+* %copyright-exception -->
+    , except the image of Kimura Yōdō,
     taken from [twitter] ([archived version][twitter archived])
-    ([raw image] ([archived version][raw archived]))
-%%
+    ([raw image] ([archived version][raw image archived]))
 
-@@[twitter]
-  https://twitter.com/kisaragishow/status/1129576295250030593
-@@
-@@[twitter archived]
-  https://web.archive.org/web/20191120143813/\
-    https://twitter.com/kisaragishow/status/1129576295250030593
-@@
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+- apply_mode: SEQUENTIAL
+* %cite-title --> %title
+* %title --> Poetry on a sumo umpire's fan
+* %date-created --> 2019-11-21
+* %date-modified --> 2022-xx-xx
 
-@@[raw image]
-  https://pbs.twimg.com/media/D60Ppn4VsAAKlu8.jpg
-@@
-@@[raw archived]
-  https://web.archive.org/web/20191120144338/\
-    https://pbs.twimg.com/media/D60Ppn4VsAAKlu8.jpg
-@@
+%%%
+
+[twitter]: https://twitter.com/kisaragishow/status/1129576295250030593
+[twitter archived]: https://web.archive.org/web/20191120143813/https://twitter.com/kisaragishow/status/1129576295250030593
+[raw image]: https://pbs.twimg.com/media/D60Ppn4VsAAKlu8.jpg
+[raw image archived]: https://web.archive.org/web/20191120144338/https://pbs.twimg.com/media/D60Ppn4VsAAKlu8.jpg
 
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:translation
-* \header-link:cite
-====]]
+^^^^
+- !home
+- !top
+- !translation
+- !cite
+^^^^
 
 
-# %title #
+# %title
 
-[||||
-||||]
 
-<## Japanese declaration [ja/ /] ##>
-l{%
-  \[ja
-    /
-      (?P<content> [\s\S]*? )
-    /
-  \]
-%
-  <span lang="ja">\g<content></span>
-%}
-
-{: \kimura-yodo : Kimura Yōdō :}
-
-----
-In professional sumo wrestling, the [umpire] [Gyoji]
+--
+In professional sumo wrestling, the [umpire]
 indicates his decision by pointing a fan, called a
-[_{l=ja} gunbai_ ([ja/~~ 軍配 ~~/]) ] [gunbai],
+[_{l=ja} gunbai_ (::{l=ja} 軍配::)][gunbai],
 towards the winning wrestler's starting end.
 Some are decorated with patterns, but others bear calligraphy.
 In particular, the fan carried by umpire
-[\kimura-yodo ([ja/~~ 木村容堂 ~~/])] [kimura]
-has the lines [ja/~~ 及時當勉励 歳月不待人 ~~/]:
-----
+[Kimura Yōdō (::{l=ja} 木村容堂::)][kimura]
+has the lines ::{l=ja} 及時當勉励 歳月不待人:::
+--
 
-@@[gyoji]
-  https://en.wikipedia.org/wiki/Gy%C5%8Dji
-@@
-@@[gunbai]
-  https://en.wikipedia.org/wiki/Gunbai
-@@
-@@[kimura]
-  https://ja.wikipedia.org/wiki/\
-    %E6%9C%A8%E6%9D%91%E5%AE%B9%E5%A0%82_(3%E4%BB%A3)
-@@
+[umpire]: https://en.wikipedia.org/wiki/Gyōji
+[gunbai]: https://en.wikipedia.org/wiki/Gunbai
+[kimura]: https://ja.wikipedia.org/wiki/木村容堂_(3代)
 
 
-||||{.centred-block}
+||{.centred}
   ![
-    Photograph of sumo umpire \kimura-yodo in yellow outfit, \
+    Photograph of sumo umpire Kimura Yōdō in yellow outfit, \
     with calligraphy-bearing gunbai raised.
   ](
     kimura-yodo-gunbai-calligraphy.jpg
   )
-||||
+||
 
 
-##{#translation}
-  Translation
-##
-
+##{#translation} Translation
 
 ----
-These lines are from [《雜詩》, "Assorted Poems"][雜詩],
-by [((T'ao Y(u")an-ming | ~~陶淵明~~))][陶淵明].
-\kimura-yodo never points the other side of the fan away from himself,
+These lines are from [.《雜詩》, "Assorted Poems"][poems],
+by [(T'ao Y(u")an-ming|陶淵明)][tym].
+Kimura Yōdō never points the other side of the fan away from himself,
 but I would guess that that side bears the two lines before. All up:
 ----
 
-@@[雜詩]
-  https://zh.wikisource.org/zh-hant/\
-    %E9%9B%9C%E8%A9%A9_(%E9%99%B6%E6%B7%B5%E6%98%8E)#%E5%85%B6%E4%B8%80
-@@
-@@[陶淵明]
-  https://en.wikipedia.org/wiki/Tao_Yuanming
-@@
+[poems]: https://zh.wikisource.org/zh-hant/雜詩_(陶淵明)#其一
+[tym]: https://en.wikipedia.org/wiki/Tao_Yuanming
 
 
-<<<<<<<<
-  ||||||{.centred-block}
-  ||||
-    盛年不重來， \+
-    一日難再晨。 \+
-    及時當勉勵， \+
+<<
+  ||||{.centred}
+  ||
+    盛年不重來、 <br>
+    一日難再晨。 <br>
+    及時當勉勵、 <br>
     歲月不待人。
+  ||
   ||||
-  ||||||
-||||||||
-  ||||||{.centred-block}
-  ||||
-    .[The] years of prime come not once more; \+
-    .[A] day cannot dawn again. \+
-    In good time ought .[we] strive, \+
+\\
+  ||||{.centred}
+  ||
+    .[The] years of prime come not once more; <br>
+    .[A] day cannot dawn again. <br>
+    In good time ought .[we] strive, <br>
     .[For] years .[and] months await not man.
+  ||
   ||||
-  ||||||
->>>>>>>>
-====
-* 盛： prime; \lit flourishing; \or vigour
-* 一日： .[a] day; \lit one day
-* 勉勵： strive; \or spur
-====
+>>
+==
+* .盛： prime; \lit flourishing; \or vigour
+* .一日： .[a] day; \lit one day
+* .勉勵： strive; \or spur
+==
 
 
-\cite-this-page[]
+%%cite
 
-%footer-element
 
+%%footer
