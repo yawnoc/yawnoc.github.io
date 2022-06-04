@@ -1,6 +1,8 @@
 :root{
   --body-padding-horizontal: 1rem;
   --html-max-width: 44rem;
+  --katex-clearance-top: 0.5em;
+  --katex-clearance-bottom: 0.25em;
 }
 
 
@@ -215,6 +217,28 @@ header > nav > ul {
   font-size: large;
   margin: 0.7em;
   padding: 0.4em 0.5em;
+}
+
+
+.js-maths { /* noscript equations fallback */
+  font-family: monospace;
+}
+div.js-maths {
+  margin: 1em unset;
+  padding: 0 1em;
+  white-space: pre;
+}
+
+
+.katex-display > .katex {
+  /* overflow with horizontal scrolling */
+  overflow-x: auto;
+  overflow-y: hidden;
+  /* prevent vertical clipping */
+  margin-top: calc(-1 * var(--katex-clearance-top));
+  padding-top: var(--katex-clearance-top);
+  margin-bottom: calc(-1 * var(--katex-clearance-bottom));
+  padding-bottom: var(--katex-clearance-bottom);
 }
 
 
