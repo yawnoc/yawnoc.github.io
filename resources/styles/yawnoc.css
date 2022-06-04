@@ -328,6 +328,11 @@ div.js-maths {
 }
 
 
+.translation-annotations > li > .parallel-text {
+  font-size: medium;
+}
+
+
 .permalink {
   background-image: url(/resources/styles/permalink.svg);
   background-position: center left;
