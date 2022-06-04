@@ -42,7 +42,7 @@ it's supposed to be in a thought bubble.
 
   """"{.interview}
 
-  ![Leigh Sales, seen smiling at 7:30 pm for the first time since 2013]\
+  ![Leigh Sales, seen smiling at 7:30 pm for the first time since 2013:]\
     {.interview-host}(leigh-sales-2022-05-23.jpg)
 
   --{.interview-host}
