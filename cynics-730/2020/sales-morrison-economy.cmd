@@ -11,7 +11,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A cynic's 7.30: Scott Morrison on the economy & coronavirus (3~Mar 2020)
 * %date-created --> 2020-03-14
 * %date-modified --> 2022-xx-xx
-- concluding_replacements: #.yawnoc.typography
+- concluding_replacements:
+    #escape-idle-html
+    #.yawnoc.typography
 
 %%%
 
