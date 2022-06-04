@@ -67,12 +67,12 @@ has the lines ::{l=ja} 及時當勉励 歳月不待人:::
 
 ##{#translation} Translation
 
-----
+--
 These lines are from [.《雜詩》, "Assorted Poems"][poems],
 by [(T'ao Y(u")an-ming|陶淵明)][tym].
 Kimura Yōdō never points the other side of the fan away from himself,
 but I would guess that that side bears the two lines before. All up:
-----
+--
 
 [poems]: https://zh.wikisource.org/zh-hant/雜詩_(陶淵明)#其一
 [tym]: https://en.wikipedia.org/wiki/Tao_Yuanming
