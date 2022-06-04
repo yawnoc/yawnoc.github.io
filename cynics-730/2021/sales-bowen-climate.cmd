@@ -199,9 +199,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
   --{.interview-guest .thought}
   _whoopsie-daisy_
   --
-  --{.interview-guest}
-  <` `>---uh humankind causing climate change.
-  --
+  ----{.interview-guest}
+  ---uh humankind causing climate change.
+  ----
 
   --{.interview-host}
   [...]
