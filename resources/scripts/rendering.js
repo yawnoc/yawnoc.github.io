@@ -84,8 +84,8 @@ function renderMaths()
     // Units
     '\\unit': '\\mathopspace\\text{#1}',
 
-    // Text quantities
-    '\\textq': '\\{\\text{#1}\\}',
+    // Text quantity in brackets
+    '\\textq': '(\\text{#1})',
 
     // Generic constant
     '\\const': '\\mathrm{const}',
