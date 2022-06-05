@@ -333,6 +333,9 @@ div.js-maths {
 }
 
 
+.js-maths > .katex {
+  font-size: 1.13em; /* default 1.21em is too big for inline maths */
+}
 .katex-display > .katex {
   /* overflow with horizontal scrolling */
   overflow-x: auto;
