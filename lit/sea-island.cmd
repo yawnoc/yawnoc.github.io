@@ -471,16 +471,27 @@ I have mapped the names of the vertices as follows:
 
 ||||
 
-<<
-  ::{.colour-b}己庚爲後表::、::{.colour-r}辛庚爲後去表::、\
-  ::{.colour-g}辛爲人目::、::{.colour-v}辛己甲爲後表望島峯::。
-\\
-  ::{.colour-b} $FG$ is .[the] rear post::;
-  ::{.colour-r} $HG$ is .[the] rear .[walk's] separation from .[the] post::;
-  ::{.colour-g} $H$ is man's eye::;
-  ::{.colour-v} $HFA$ is .[the] rear post's looking at
-  .[the] peak of .[the] island::.
->>
+
+||||{.group}
+
+  ||{.centred}
+    ![Draw a segment FG representing the rear post (with G at ground level), \
+      then extend AF until it hits ground level at H.]\
+      {w=480}(sea-island-derivation-diagram-3-fg.svg)
+  ||
+
+  <<
+    ::{.colour-b}己庚爲後表::、::{.colour-r}辛庚爲後去表::、\
+    ::{.colour-g}辛爲人目::、::{.colour-v}辛己甲爲後表望島峯::。
+  \\
+    ::{.colour-b} $FG$ is .[the] rear post::;
+    ::{.colour-r} $HG$ is .[the] rear .[walk's] separation from .[the] post::;
+    ::{.colour-g} $H$ is man's eye::;
+    ::{.colour-v} $HFA$ is .[the] rear post's looking at
+    .[the] peak of .[the] island::.
+  >>
+
+||||
 
 
 <<
