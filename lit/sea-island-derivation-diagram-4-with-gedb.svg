@@ -65,7 +65,6 @@ line.colour-b {
 <line x1="5.5" y1="-1" x2="5.5" y2="0" class="thick colour-g"/> <!-- FG -->
 <line x1="0" y1="-3.5" x2="4.2" y2="0"/> <!-- ACE -->
 <line x1="0" y1="-3.5" x2="7.7" y2="0"/> <!-- AFH -->
-<line x1="5.5" y1="-1" x2="6.7" y2="0"/> <!-- FI -->
 <line x1="0" y1="-1" x2="5.5" y2="-1" class="thick colour-r"/> <!-- OCF -->
 <line x1="0" y1="0" x2="5.5" y2="0" class="thick colour-b"/> <!-- BDEG -->
 
