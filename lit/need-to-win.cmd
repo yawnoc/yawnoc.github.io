@@ -76,7 +76,7 @@ which in Merton's own words, consists of
 rather than translations.
 Merton, a Trappist monk interested in Eastern religions,
 composed these interpretative readings after comparing
-"four of the best translations of ''Chuang Tz(uu)''
+"four of the best translations of ''(Chuang Tz(uu)|莊子)''
 into western languages, two English, one French, and one German".
 --
 
@@ -85,7 +85,7 @@ into western languages, two English, one French, and one German".
 --
 The actual source of the passage is a dialogue between
 (Confucius|孔子) and one of his disciples in .《莊子外篇達生》,
-or "Understanding Life" in the "Outer Texts" of ''{title=莊子} Chuang Tz(uu)'',
+or "Understanding Life" in the "Outer Texts" of ''(Chuang Tz(uu)|莊子)'',
 a work traditionally credited to [(Chuang Tz(uu)|莊子)] the Taoist philosopher.
 One of the English translations of this which Merton read
 was of course that of the great James Legge;
@@ -252,7 +252,7 @@ but with olden-style punctuation:
     "(Nan-hua|南華) True Classics annotations .[and] subcommentary".
 
   * [《莊子注》]{l=zh-Hant}(https://ctext.org/library.pl?if=en&file=53877&page=10#box\(500,472,38,48\)),
-    "Chuang Tz(uu) annotations" by (Kuo Siang|郭象).
+    "(Chuang Tz(uu)|莊子) annotations" by (Kuo Siang|郭象).
     --
     In particular, .射而賭物 ("shooting wagering objects")
     is the meaning taken by James Legge
