@@ -255,6 +255,10 @@ header > nav > ul {
 }
 
 
+.group {
+  margin-bottom: 2em;
+}
+
 .group + .group {
   margin-top: 3em;
 }
