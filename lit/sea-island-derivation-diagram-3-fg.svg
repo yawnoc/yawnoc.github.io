@@ -58,9 +58,6 @@ line.colour-v {
 <text x="6.7" y="0" dy="1.3em" lang="zh-Hant">壬</text>
 <text x="6.7" y="0" dy="2.8em" class="italicised">I</text>
 
-<text x="0" y="-1" dx="-1em" dy="0.3em" lang="zh-Hant">辰</text>
-<text x="0" y="-1" dx="-2.25em" dy="0.3em" class="italicised">O</text>
-
 <line x1="0" y1="-3.5" x2="0" y2="0"/> <!-- AB -->
 <line x1="0" y1="0" x2="7.7" y2="0"/>  <!-- BH -->
 <line x1="3" y1="-1" x2="3" y2="0"/> <!-- CD -->
