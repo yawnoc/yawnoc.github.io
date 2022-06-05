@@ -532,15 +532,23 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-<<
-  ::{.colour-b}己庚辛形::、與::{.colour-r}甲辰己形::同式。
-\\
-  ::{.colour-b} .[The] shape $FGH$::, .[is] similar with
-  ::{.colour-r} .[the] shape $AOF$::.
->>
-=={.translation-annotations}
-* .同式： similar; \lit same form
-==
+||||{.group}
+
+  ||{.centred}
+    ![]{w=480}(sea-island-derivation-diagram-6-fgh-shape.svg)
+  ||
+
+  <<
+    ::{.colour-b}己庚辛形::、與::{.colour-r}甲辰己形::同式。
+  \\
+    ::{.colour-b} .[The] shape $FGH$::, .[is] similar with
+    ::{.colour-r} .[the] shape $AOF$::.
+  >>
+  =={.translation-annotations}
+  * .同式： similar; \lit same form
+  ==
+
+||||
 
 
 <<
