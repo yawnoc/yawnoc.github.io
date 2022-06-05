@@ -570,13 +570,13 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-8-fgh-shape-separated.svg)
+    ![]{w=480}(sea-island-derivation-diagram-8-fgh-shape-split.svg)
   ||
 
   <<
     己庚辛形、分::{.colour-b}己庚壬形、同己庚句::、而::{.colour-r}辛壬爲股較::。
   \\
-    .[The] shape $FGH$, .[is] separated into ::{.colour-b} .[the] shape $FGI$,
+    .[The] shape $FGH$, .[is] split into ::{.colour-b} .[the] shape $FGI$,
     .[of] same minor-cathetus $FG$::,
     with ::{.colour-r} $HI$ being .[the] major-cathetus chariot-beam::.
   >>
@@ -615,13 +615,13 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-9-aof-shape-separated.svg)
+    ![]{w=480}(sea-island-derivation-diagram-9-aof-shape-split.svg)
   ||
 
   <<
     甲辰己形、分::{.colour-b}甲辰丙形、同甲辰句::、而::{.colour-r}己丙爲股較::。
   \\
-    .[The] shape $AOF$, .[is] separated into ::{.colour-b} .[the] shape $AOC$,
+    .[The] shape $AOF$, .[is] split into ::{.colour-b} .[the] shape $AOC$,
     .[of] same minor-cathetus $AO$::,
     with ::{.colour-r} $FC$ being .[the] major-cathetus chariot-beam::.
   >>
