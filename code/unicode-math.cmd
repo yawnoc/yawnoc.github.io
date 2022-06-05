@@ -30,7 +30,7 @@ RegexDictionaryReplacement: #.katex-and-katex-source-cells
 
 # %title
 
-%noscript-equation
+%%noscript-equations
 
 ::::
 - [Constants](#constants)

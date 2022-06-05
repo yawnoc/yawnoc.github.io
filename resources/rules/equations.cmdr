@@ -4,7 +4,7 @@ OrdinaryDictionaryReplacement: #.equations.properties-override
     %head-elements-after-viewport
     <link rel="stylesheet" href="/resources/katex/katex.min.css">
     <script defer src="/resources/katex/katex.min.js" onload="renderMaths()"></script>
-* %noscript-equation -->
+* %%noscript-equations -->
     <noscript>
       **{.noscript} Enable JavaScript for equation rendering to work.**
     </noscript>
