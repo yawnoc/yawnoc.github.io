@@ -165,20 +165,32 @@ The inserted olden-style punctuation is my own.
 ||||
 
 
-<<
-  從前表::{.colour-b}卻行一百二十三步::、人目著地::{.colour-r}取望島峯::、與表末參合。
-\\
-  ::{.colour-b} Walking backward one hundred .[and] twenty-three paces::
-  from .[the] front post,
-  man's eye upon .[the] ground,
-  ::{.colour-r} taking .[a] looking at .[the] peak of .[the] island::,
-  meet .[the] three with .[the] tip of .[the] post.
->>
-=={.translation-annotations}
-* .著： upon; \lit contacting
+||||{.group}
 
-* .峯： peak; \or summit
-==
+  ||{.centred}
+    ![Diagram showing a backward walk from the front post, such that \
+      the sea island's peak, the post's tip, and an eye at ground level \
+      are collinear.]\
+      {w=480}(sea-island-problem-diagram-2-from-front-post.svg)
+  ||
+
+  <<
+    從前表::{.colour-b}卻行一百二十三步::、人目著地::{.colour-r}取望島峯::、與表末參合。
+  \\
+    ::{.colour-b} Walking backward one hundred .[and] twenty-three paces::
+    from .[the] front post,
+    man's eye upon .[the] ground,
+    ::{.colour-r} taking .[a] looking at .[the] peak of .[the] island::,
+    meet .[the] three with .[the] tip of .[the] post.
+  >>
+  =={.translation-annotations}
+  * .著： upon; \lit contacting
+
+  * .峯： peak; \or summit
+  ==
+
+||||
+
 
 <<
   從後表::{.colour-b}卻行一百二十七步::、人目着地::{.colour-r}取望島峯::、亦與表末參合。
