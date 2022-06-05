@@ -230,6 +230,23 @@ header > nav > ul {
 }
 
 
+.colour-r {
+  color: crimson;
+}
+
+.colour-g {
+  color: green;
+}
+
+.colour-b {
+  color: mediumblue;
+}
+
+.colour-v {
+  color: darkviolet;
+}
+
+
 .destination-text {
   border-top: 1px solid black;
   margin-top: 0.3em;
