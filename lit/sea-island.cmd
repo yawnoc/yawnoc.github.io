@@ -430,13 +430,24 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-<<
-  說曰、::{.colour-b}甲乙爲海島::、::{.colour-r}甲爲島峯::。
-\\
-  Explanation saith:
-  ::{.colour-b} $AB$ is .[the] sea island::;
-  ::{.colour-r} $A$ is .[the] peak of .[the] island::.
->>
+||||{.group}
+
+  ||{.centred}
+    ![Creating the diagram from scratch: \
+      draw a vertical segment AB representing the sea island, \
+      and draw an horizontal line out from B representing ground level.]\
+      {w=480}(sea-island-derivation-diagram-1-ab.svg)
+  ||
+
+  <<
+    說曰、::{.colour-b}甲乙爲海島::、::{.colour-r}甲爲島峯::。
+  \\
+    Explanation saith:
+    ::{.colour-b} $AB$ is .[the] sea island::;
+    ::{.colour-r} $A$ is .[the] peak of .[the] island::.
+  >>
+
+||||
 
 <<
   ::{.colour-b}丙丁爲前表::、::{.colour-r}戊丁爲前去表::、\
