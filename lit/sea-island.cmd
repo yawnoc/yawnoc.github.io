@@ -119,6 +119,7 @@ $$
 
 --
 The inserted olden-style punctuation is my own.
+Parentheticals are (half-column) inline annotations in the original text.
 --
 
 
