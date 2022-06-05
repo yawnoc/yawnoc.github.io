@@ -192,15 +192,27 @@ The inserted olden-style punctuation is my own.
 ||||
 
 
-<<
-  從後表::{.colour-b}卻行一百二十七步::、人目着地::{.colour-r}取望島峯::、亦與表末參合。
-\\
-  ::{.colour-b} Walking backward one hundred .[and] twenty-seven paces::
-  from .[the] rear post,
-  man's eye on .[the] ground,
-  ::{.colour-r} taking .[a] looking at .[the] peak of .[the] island::,
-  meet .[the] three also with .[the] tip of .[the] post.
->>
+||||{.group}
+
+  ||{.centred}
+    ![Diagram showing a backward walk from the rear post, such that \
+      the sea island's peak, the post's tip, and an eye at ground level \
+      are collinear.]\
+      {w=480}(sea-island-problem-diagram-3-from-rear-post.svg)
+  ||
+
+  <<
+    從後表::{.colour-b}卻行一百二十七步::、人目着地::{.colour-r}取望島峯::、亦與表末參合。
+  \\
+    ::{.colour-b} Walking backward one hundred .[and] twenty-seven paces::
+    from .[the] rear post,
+    man's eye on .[the] ground,
+    ::{.colour-r} taking .[a] looking at .[the] peak of .[the] island::,
+    meet .[the] three also with .[the] tip of .[the] post.
+  >>
+
+||||
+
 
 <<
   問::{.colour-b}島高::及::{.colour-r}去表::各幾何。
