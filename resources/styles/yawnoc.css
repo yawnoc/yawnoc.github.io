@@ -256,7 +256,7 @@ header > nav > ul {
 
 
 .group {
-  margin-bottom: 2em;
+  margin: 2em 0;
 }
 
 .group + .group {
