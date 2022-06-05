@@ -554,7 +554,7 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-7-fgi-shape.svg)
+    ![]{w=480}(sea-island-derivation-diagram-7-fgi-shape-with.svg)
   ||
 
   <<
@@ -612,13 +612,21 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-<<
-  甲辰己形、分::{.colour-b}甲辰丙形、同甲辰句::、而::{.colour-r}己丙爲股較::。
-\\
-  .[The] shape $AOF$, .[is] separated into ::{.colour-b} .[the] shape $AOC$,
-  .[of] same minor-cathetus $AO$::,
-  with ::{.colour-r} $FC$ being .[the] major-cathetus chariot-beam::.
->>
+||||{.group}
+
+  ||{.centred}
+    ![]{w=480}(sea-island-derivation-diagram-9-aof-shape-separated.svg)
+  ||
+
+  <<
+    甲辰己形、分::{.colour-b}甲辰丙形、同甲辰句::、而::{.colour-r}己丙爲股較::。
+  \\
+    .[The] shape $AOF$, .[is] separated into ::{.colour-b} .[the] shape $AOC$,
+    .[of] same minor-cathetus $AO$::,
+    with ::{.colour-r} $FC$ being .[the] major-cathetus chariot-beam::.
+  >>
+
+||||
 
 
 <<
