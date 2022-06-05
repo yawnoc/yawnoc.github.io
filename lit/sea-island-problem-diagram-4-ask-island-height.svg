@@ -35,10 +35,9 @@ text.colour-b {
 <text x="0" y="-3.5" dx="0em" dy="-0.7em">sea island</text>
 <text x="0" y="-1.75" dx="0em" dy="-1em" transform="rotate(-90 0 -1.75)" class="dimension colour-b">height?</text>
 
+<line x1="0" y1="0" x2="7.7" y2="0"/> <!-- (ground) -->
 <line x1="0" y1="0" x2="3" y2="0" class="thick colour-r"/>
 <text x="1.5" y="0" dy="-0.7em" class="dimension colour-r">distance?</text>
-
-<line x1="0" y1="0" x2="7.7" y2="0"/> <!-- (ground) -->
 
 <line x1="3" y1="-1" x2="3" y2="0"/>
 <text x="3" y="-1" dy="-1.9em">front</text>
