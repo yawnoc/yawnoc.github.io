@@ -551,12 +551,20 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-<<
-  ::{.colour-b}己庚壬形::、與::{.colour-r}甲辰丙形::同式。
-\\
-  ::{.colour-b} .[The] shape $FGI$::, .[is] similar with
-  ::{.colour-r} .[the] shape $AOC$::.
->>
+||||{.group}
+
+  ||{.centred}
+    ![]{w=480}(sea-island-derivation-diagram-7-fgi-shape.svg)
+  ||
+
+  <<
+    ::{.colour-b}己庚壬形::、與::{.colour-r}甲辰丙形::同式。
+  \\
+    ::{.colour-b} .[The] shape $FGI$::, .[is] similar with
+    ::{.colour-r} .[the] shape $AOC$::.
+  >>
+
+||||
 
 
 <<
