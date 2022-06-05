@@ -379,6 +379,13 @@ I have mapped the names of the vertices as follows:
 ||
 ||||
 
+
+||||{.centred}
+  ![SVG reproduction of the Sea Island diagram in the original Chinese text.]\
+    {w=480}(sea-island-derivation-diagram-0-full.svg)
+||||
+
+
 <<
   說曰、::{.colour-b}甲乙爲海島::、::{.colour-r}甲爲島峯::。
 \\
