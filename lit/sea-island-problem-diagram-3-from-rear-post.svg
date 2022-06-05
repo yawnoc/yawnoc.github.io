@@ -35,9 +35,8 @@ text.colour-b {
 <line x1="3" y1="-1" x2="3" y2="0"/> <!-- (front post) -->
 
 <line x1="5.5" y1="-1" x2="5.5" y2="0"/>
-<text>
-  <tspan x="5.5" y="-1" dx="0.3em" dy="-1.9em">rear</tspan><tspan x="5.5" y="-1" dx="0.3em" dy="-0.7em">post</tspan>
-</text>
+<text x="5.5" y="-1" dx="0.3em" dy="-1.9em">rear</text>
+<text x="5.5" y="-1" dx="0.3em" dy="-0.7em">post</text>
 
 <line x1="0" y1="-3.5" x2="7.7" y2="0" class="thick colour-r"/> <!-- (line of sight) -->
 

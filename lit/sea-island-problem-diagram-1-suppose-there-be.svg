@@ -43,15 +43,13 @@ text.colour-b {
 <line x1="0" y1="0" x2="7.7" y2="0"/> <!-- (ground) -->
 
 <line x1="3" y1="-1" x2="3" y2="0" class="thick colour-r"/>
-<text class="colour-r">
-  <tspan x="3" y="-1" dy="-1.9em">front</tspan><tspan x="3" y="-1" dy="-0.7em">post</tspan>
-</text>
+<text x="3" y="-1" dy="-1.9em" class="colour-r">front</text>
+<text x="3" y="-1" dy="-0.7em" class="colour-r">post</text>
 <text x="3" y="-0.5" dy="-0.7em" transform="rotate(-90 3 -0.5)" class="dimension colour-r">3 rods</text>
 
 <line x1="5.5" y1="-1" x2="5.5" y2="0" class="thick colour-r"/>
-<text class="colour-r">
-  <tspan x="5.5" y="-1" dy="-1.9em">rear</tspan><tspan x="5.5" y="-1" dy="-0.7em">post</tspan>
-</text>
+<text x="5.5" y="-1" dy="-1.9em" class="colour-r">rear</text>
+<text x="5.5" y="-1" dy="-0.7em" class="colour-r">post</text>
 <text x="5.5" y="-0.5" dy="1.3em" transform="rotate(-90 5.5 -0.5)" class="dimension colour-r">3 rods</text>
 
 <line x1="3" y1="0" x2="5.5" y2="0" class="thick colour-g"/>
