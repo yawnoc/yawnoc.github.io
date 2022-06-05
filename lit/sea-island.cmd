@@ -708,47 +708,55 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-<<
-  ::{.colour-b}小股較辛壬::比::{.colour-r}分股壬庚::、\
-  若::{.colour-g}大股較己丙::比::{.colour-v}分股丙辰::（即::{.colour-v}丁乙::）、\
-  得::{.colour-v}島去前表之遠::。
-\\
-  ::{.colour-b} .[The] small major-cathetus chariot-beam $HI$:: compared unto
-  ::{.colour-r} .[the] split major-cathetus $IG$::,
-  .[is] as
-  ::{.colour-g} .[the] great major-cathetus chariot-beam $FC$:: compared unto
-  ::{.colour-v} .[the] split major-cathetus $CO$::
-  (which is ::{.colour-v} $DB$::),
-  .[and we] obtain
-  ::{.colour-v} .[the] distance .[that the] island .[is] separated
-  from .[the] front post::.
->>
-=={.translation-annotations}
-* In modern notation,
-  $$
-    \begin{aligned}
-      \frac{\colb{HI}}{\colr{IG}}
-        &= \frac{\colg{FC}}{\colv{CO}} \\[\tallspace]
-        &= \frac{\colg{FC}}{\colv{DB}} \\[\tallspace]
-      \colv{DB}
+||||{.group}
+
+  ||{.centred}
+    ![]{w=480}(sea-island-derivation-diagram-12-small-major-cathetus.svg)
+  ||
+
+  <<
+    ::{.colour-b}小股較辛壬::比::{.colour-r}分股壬庚::、\
+    若::{.colour-g}大股較己丙::比::{.colour-v}分股丙辰::（即::{.colour-v}丁乙::）、\
+    得::{.colour-v}島去前表之遠::。
+  \\
+    ::{.colour-b} .[The] small major-cathetus chariot-beam $HI$:: compared unto
+    ::{.colour-r} .[the] split major-cathetus $IG$::,
+    .[is] as
+    ::{.colour-g} .[the] great major-cathetus chariot-beam $FC$:: compared unto
+    ::{.colour-v} .[the] split major-cathetus $CO$::
+    (which is ::{.colour-v} $DB$::),
+    .[and we] obtain
+    ::{.colour-v} .[the] distance .[that the] island .[is] separated
+    from .[the] front post::.
+  >>
+  =={.translation-annotations}
+  * In modern notation,
+    $$
+      \begin{aligned}
+        \frac{\colb{HI}}{\colr{IG}}
+          &= \frac{\colg{FC}}{\colv{CO}} \\[\tallspace]
+          &= \frac{\colg{FC}}{\colv{DB}} \\[\tallspace]
+        \colv{DB}
+          &=
+            \frac{
+              \colr{IG} \cdot \colg{FC}
+            }{
+              \colb{HI}
+            }
+            \\[\tallspace]
+        \textq{\colv{island--post separation}}
         &=
           \frac{
-            \colr{IG} \cdot \colg{FC}
+            \textq{\colr{front post backward walk}}
+            \textq{\colg{post separation}}
           }{
-            \colb{HI}
-          }
-          \\[\tallspace]
-      \textq{\colv{island--post separation}}
-      &=
-        \frac{
-          \textq{\colr{front post backward walk}}
-          \textq{\colg{post separation}}
-        }{
-          \textq{\colb{mutual excess}}
-        }.
-    \end{aligned}
-  $$
-==
+            \textq{\colb{mutual excess}}
+          }.
+      \end{aligned}
+    $$
+  ==
+
+||||
 
 
 %%cite
