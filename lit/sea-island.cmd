@@ -494,16 +494,25 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-<<
-  與::{.colour-b}庚戊丁乙::平行::{.colour-r}作己丙辰::、\
-  則::{.colour-g}辰乙與丙丁己庚俱等::。
-\\
-  ::{.colour-r} Constructing $FCO$:: parallel with ::{.colour-b} $GEDB$::,
-  ::{.colour-g} $OB$ .[is] equal with both $CD$ .[and] $FG$::.
->>
-=={.translation-annotations}
-* .俱： both; \lit all
-==
+||||{.group}
+
+  ||{.centred}
+    ![Extend FC to meet AB at O.]\
+      {w=480}(sea-island-derivation-diagram-4-with-gedb.svg)
+  ||
+
+  <<
+    與::{.colour-b}庚戊丁乙::平行::{.colour-r}作己丙辰::、\
+    則::{.colour-g}辰乙與丙丁己庚俱等::。
+  \\
+    ::{.colour-r} Constructing $FCO$:: parallel with ::{.colour-b} $GEDB$::,
+    ::{.colour-g} $OB$ .[is] equal with both $CD$ .[and] $FG$::.
+  >>
+  =={.translation-annotations}
+  * .俱： both; \lit all
+  ==
+
+||||
 
 
 <<
