@@ -535,7 +535,7 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-6-fgh-shape.svg)
+    ![]{w=480}(sea-island-derivation-diagram-6-fgh-shape-with.svg)
   ||
 
   <<
@@ -567,41 +567,49 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-<<
-  己庚辛形、分::{.colour-b}己庚壬形、同己庚句::、而::{.colour-r}辛壬爲股較::。
-\\
-  .[The] shape $FGH$, .[is] separated into ::{.colour-b} .[the] shape $FGI$,
-  .[of] same minor-cathetus $FG$::,
-  with ::{.colour-r} $HI$ being .[the] major-cathetus chariot-beam::.
->>
-=={.translation-annotations}
-* .句： minor-cathetus
-  --
-  (Variant of .勾.) The shorter leg of a right-angled triangle.
-  --
+||||{.group}
 
-* .股： major-cathetus
-  --
-  The longer leg of a right-angled triangle.
-  --
-  Surveying the sea island from distances much greater than its height,
-  the horizontal lengths will be much greater than the vertical lengths.
-  Thus the relevant horizontal segments are referred to as major-catheti~(.股),
-  and the relevant vertical segments as minor-catheti~(.句).
+  ||{.centred}
+    ![]{w=480}(sea-island-derivation-diagram-8-fgh-shape-separated.svg)
+  ||
 
-* .較： chariot-beam
-  --
-  .較、入聲、音覺、 \C kok8, \M ji(a\)o
-  --
-  If I understand [the entry in .《康熙字典》][較] correctly,
-  .較 are horizontal beams of a chariot which stick out like horns,
-  above .輢 (the wooden vertical side boards)
-  and above .軾 (which are the horizontal handrails for standing passengers).
-  So .辛壬爲股較 is a literary way of saying
-  "$HI$ sticks out horizontally" (from $FGI$).
+  <<
+    己庚辛形、分::{.colour-b}己庚壬形、同己庚句::、而::{.colour-r}辛壬爲股較::。
+  \\
+    .[The] shape $FGH$, .[is] separated into ::{.colour-b} .[the] shape $FGI$,
+    .[of] same minor-cathetus $FG$::,
+    with ::{.colour-r} $HI$ being .[the] major-cathetus chariot-beam::.
+  >>
+  =={.translation-annotations}
+  * .句： minor-cathetus
+    --
+    (Variant of .勾.) The shorter leg of a right-angled triangle.
+    --
 
-  [較]: https://ctext.org/kangxi-zidian/159/6#n352070
-==
+  * .股： major-cathetus
+    --
+    The longer leg of a right-angled triangle.
+    --
+    Surveying the sea island from distances much greater than its height,
+    the horizontal lengths will be much greater than the vertical lengths.
+    Thus the relevant horizontal segments are referred to as major-catheti~(.股),
+    and the relevant vertical segments as minor-catheti~(.句).
+
+  * .較： chariot-beam
+    --
+    .較、入聲、音覺、 \C kok8, \M ji(a\)o
+    --
+    If I understand [the entry in .《康熙字典》][較] correctly,
+    .較 are horizontal beams of a chariot which stick out like horns,
+    above .輢 (the wooden vertical side boards)
+    and above .軾 (which are the horizontal handrails for standing passengers).
+    So .辛壬爲股較 is a literary way of saying
+    "$HI$ sticks out horizontally" (from $FGI$).
+
+    [較]: https://ctext.org/kangxi-zidian/159/6#n352070
+  ==
+
+||||
 
 
 <<
