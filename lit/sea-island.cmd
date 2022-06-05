@@ -515,12 +515,21 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-<<
-  與::{.colour-b}丙戊::平行::{.colour-r}作己壬::、則::{.colour-g}壬庚與戊丁等::。
-\\
-  ::{.colour-r} Constructing $FI$:: parallel with ::{.colour-b}$CE$::,
-  ::{.colour-g} $IG$ .[is] equal with $ED$::.
->>
+||||{.group}
+
+  ||{.centred}
+    ![Construct FI such that it has the same magnitude and direction as CE.]\
+      {w=480}(sea-island-derivation-diagram-5-with-ce.svg)
+  ||
+
+  <<
+    與::{.colour-b}丙戊::平行::{.colour-r}作己壬::、則::{.colour-g}壬庚與戊丁等::。
+  \\
+    ::{.colour-r} Constructing $FI$:: parallel with ::{.colour-b} $CE$::,
+    ::{.colour-g} $IG$ .[is] equal with $ED$::.
+  >>
+
+||||
 
 
 <<
