@@ -17,7 +17,7 @@ text.colour-r {
 line.colour-b {
   stroke: mediumblue;
 }
-.latin-variable {
+.italicised {
   font-style: italic;
 }
 .thick {
@@ -26,10 +26,10 @@ line.colour-b {
 </style>
 
 <text x="0" y="-3.5" dx="-1em" dy="0.3em" lang="zh-Hant" class="colour-r">甲</text>
-<text x="0" y="-3.5" dx="-2.25em" dy="0.3em" class="latin-variable colour-r">A</text>
+<text x="0" y="-3.5" dx="-2.25em" dy="0.3em" class="italicised colour-r">A</text>
 
 <text x="0" y="0" dy="1.3em" lang="zh-Hant">乙</text>
-<text x="0" y="0" dy="2.8em" class="latin-variable">B</text>
+<text x="0" y="0" dy="2.8em" class="italicised">B</text>
 
 <line x1="0" y1="-3.5" x2="0" y2="0" class="thick colour-b"/> <!-- AB -->
 <line x1="0" y1="0" x2="7.7" y2="0"/>  <!-- (ground) -->
