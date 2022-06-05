@@ -124,36 +124,45 @@ The inserted olden-style punctuation is my own.
 
 ###{#problem} Problem
 
-<<
-  今有望::{.colour-b}海島::、立::{.colour-r}兩表::、::{.colour-r}齊高三丈::、\
-  前後::{.colour-g}相去千步::、令後表與前表參相直。
-\\
-  Suppose there be .[a] looking at .[a] ::{.colour-b} sea island::;
-  erect ::{.colour-r} two posts::,
-  ::{.colour-r} .[of] equal height three rods::,
-  front .[and] rear
-  ::{.colour-g} separated from each other .[by a]  thousand paces::,
-  .[and] make .[the] rear post and .[the] front post
-  aligned .[the] three with each other.
->>
-=={.translation-annotations}
-* .表： posts; \or pillars
+||||{.group}
 
-* .齊： equal; \or uniform
+  ||{.centred}
+    ![Diagram representing a sea island and two posts of equal height.]\
+      {w=480}(sea-island-problem-diagram-1-suppose-there-be.svg)
+  ||
 
-* .丈： rod; \or measure
-  --
-  A unit of distance, of the order three metres.
-  Note that $3 \unit{rods} = 5 \unit{paces}$.
-  --
+  <<
+    今有望::{.colour-b}海島::、立::{.colour-r}兩表::、::{.colour-r}齊高三丈::、\
+    前後::{.colour-g}相去千步::、令後表與前表參相直。
+  \\
+    Suppose there be .[a] looking at .[a] ::{.colour-b} sea island::;
+    erect ::{.colour-r} two posts::,
+    ::{.colour-r} .[of] equal height three rods::,
+    front .[and] rear
+    ::{.colour-g} separated from each other .[by a]  thousand paces::,
+    .[and] make .[the] rear post and .[the] front post
+    aligned .[the] three with each other.
+  >>
+  =={.translation-annotations}
+  * .表： posts; \or pillars
 
-* .步： paces; \or steps
-  --
-  A unit of distance, of the order two metres.
-  --
+  * .齊： equal; \or uniform
 
-* .直： aligned; \lit straight
-==
+  * .丈： rod; \or measure
+    --
+    A unit of distance, of the order three metres.
+    Note that $3 \unit{rods} = 5 \unit{paces}$.
+    --
+
+  * .步： paces; \or steps
+    --
+    A unit of distance, of the order two metres.
+    --
+
+  * .直： aligned; \lit straight
+  ==
+
+||||
 
 
 <<

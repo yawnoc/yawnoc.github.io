@@ -1,11 +1,11 @@
 RegexDictionaryReplacement: #.translation.partition-parallel-text
 * \A -->
-    ||||||||{.source-text l=zh-Hant}\n
+    <div class="source-text" lang="zh-Hant">\n
 * ^ [^\S\n]* \\{2} $ -->
-    ||||||||
-    ||||||||{.destination-text l=en}
+    </div>
+    <div class="destination-text" lang="en">
 * \Z -->
-    ||||||||\n
+    </div>\n
 
 
 FixedDelimitersReplacement: #.translation.parallel-text
