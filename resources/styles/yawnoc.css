@@ -82,6 +82,7 @@ header {
 body > header {
   margin-left: calc(-1 * var(--body-padding-horizontal));
   max-width: var(--html-max-width);
+  z-index: 1; /* cover equations */
 }
 
 
