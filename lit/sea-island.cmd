@@ -574,8 +574,7 @@ I have mapped the names of the vertices as follows:
   .[of] same minor-cathetus $FG$::,
   with ::{.colour-r} $HI$ being .[the] major-cathetus chariot-beam::.
 >>
-
-==
+=={.translation-annotations}
 * .句： minor-cathetus
   --
   (Variant of .勾.) The shorter leg of a right-angled triangle.
