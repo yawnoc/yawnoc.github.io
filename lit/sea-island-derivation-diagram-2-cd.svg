@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -4 9.2 5">
+
+<style>
+line {
+  stroke: black;
+  vector-effect: non-scaling-stroke;
+}
+text {
+  font-family: sans-serif;
+  font-size: 0.33px;
+  text-anchor: middle;
+}
+line.colour-r {
+  stroke: crimson;
+}
+text.colour-g {
+  fill: green;
+}
+line.colour-b {
+  stroke: mediumblue;
+}
+line.colour-v {
+  stroke: darkviolet;
+}
+.italicised {
+  font-style: italic;
+}
+.thick {
+  stroke-width: 3;
+}
+</style>
+
+<text x="0" y="-3.5" dx="-1em" dy="0.3em" lang="zh-Hant">甲</text>
+<text x="0" y="-3.5" dx="-2.25em" dy="0.3em" class="italicised">A</text>
+
+<text x="0" y="0" dy="1.3em" lang="zh-Hant">乙</text>
+<text x="0" y="0" dy="2.8em" class="italicised">B</text>
+
+<text x="3" y="-1" dx="0.4em" dy="-0.5em" lang="zh-Hant">丙</text>
+<text x="3" y="-1" dx="0.4em" dy="-1.7em" class="italicised">C</text>
+
+<text x="3" y="0" dy="1.3em" lang="zh-Hant">丁</text>
+<text x="3" y="0" dy="2.8em" class="italicised">D</text>
+
+<text x="4.2" y="0" dy="1.3em" lang="zh-Hant" class="colour-g">戊</text>
+<text x="4.2" y="0" dy="2.8em" class="italicised colour-g">E</text>
+
+<line x1="0" y1="-3.5" x2="0" y2="0"/> <!-- AB -->
+<line x1="0" y1="0" x2="7.7" y2="0"/>  <!-- BH -->
+<line x1="3" y1="-1" x2="3" y2="0" class="thick colour-b"/> <!-- CD -->
+<line x1="3" y1="0" x2="4.2" y2="0" class="thick colour-r"/> <!-- DE -->
+<line x1="0" y1="-3.5" x2="4.2" y2="0" class="thick colour-v"/> <!-- ACE -->
+
+</svg>

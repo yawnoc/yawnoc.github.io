@@ -449,16 +449,27 @@ I have mapped the names of the vertices as follows:
 
 ||||
 
-<<
-  ::{.colour-b}丙丁爲前表::、::{.colour-r}戊丁爲前去表::、\
-  ::{.colour-g}戊爲人目::、::{.colour-v}戊丙甲爲前表望島峯::。
-\\
-  ::{.colour-b} $CD$ is .[the] front post::;
-  ::{.colour-r} $ED$ is .[the] front .[walk's] separation from .[the] post::;
-  ::{.colour-g} $E$ is man's eye::;
-  ::{.colour-v} $ECA$ is .[the] front post's
-  looking at .[the] peak of .[the] island::.
->>
+
+||||{.group}
+
+  ||{.centred}
+    ![Draw a segment CD representing the front post (with D at ground level), \
+      then extend AC until it hits ground level at E.]\
+      {w=480}(sea-island-derivation-diagram-2-cd.svg)
+  ||
+
+  <<
+    ::{.colour-b}丙丁爲前表::、::{.colour-r}戊丁爲前去表::、\
+    ::{.colour-g}戊爲人目::、::{.colour-v}戊丙甲爲前表望島峯::。
+  \\
+    ::{.colour-b} $CD$ is .[the] front post::;
+    ::{.colour-r} $ED$ is .[the] front .[walk's] separation from .[the] post::;
+    ::{.colour-g} $E$ is man's eye::;
+    ::{.colour-v} $ECA$ is .[the] front post's
+    looking at .[the] peak of .[the] island::.
+  >>
+
+||||
 
 <<
   ::{.colour-b}己庚爲後表::、::{.colour-r}辛庚爲後去表::、\
