@@ -657,46 +657,55 @@ I have mapped the names of the vertices as follows:
 
 ||||
 
-<<
-  既得::{.colour-v}甲辰::、加::{.colour-r}表高辰乙::（即::{.colour-r}丙丁::）、\
-  得甲乙、爲島高。
-\\
-  Having obtained ::{.colour-v} $AO$::,
-  add ::{.colour-r} .[the] post height $OB$:: (which is ::{.colour-r} $CD$::),
-  .[to] obtain $AB$, .[which] be .[the] height of .[the] island.
->>
-=={.translation-annotations}
-* In modern notation,
-  $$
-    \begin{aligned}
-      AB
-        &= \colv{AO} + \colr{OB} \\[\tallspace]
-        &= \frac{\colr{FG} \cdot \colg{FC}}{\colb{HI}} + \colr{OB}
-          \\[\tallspace]
-      \textq{island height}
-        &=
-          \frac{
-            \textq{\colr{post height}}
-            \textq{\colg{post separation}}
-          }{
-            \textq{\colb{mutual excess}}
-          }
-            +
-          \textq{\colr{post height}}.
-    \end{aligned}
-  $$
-  Remember
-  $$
-    \begin{aligned}
-      \textq{\colb{mutual excess}}
-        &= \colb{HI} \\
-        &= HG - IG \\
-        &= HG - ED \\
-        &= \textq{rear post backward walk}
-         - \textq{front post backward walk}.
-    \end{aligned}
-  $$
-==
+
+||||{.group}
+
+  ||{.centred}
+    ![]{w=480}(sea-island-derivation-diagram-11-having-obtained.svg)
+  ||
+
+  <<
+    既得::{.colour-v}甲辰::、加::{.colour-r}表高辰乙::（即::{.colour-r}丙丁::）、\
+    得甲乙、爲島高。
+  \\
+    Having obtained ::{.colour-v} $AO$::,
+    add ::{.colour-r} .[the] post height $OB$:: (which is ::{.colour-r} $CD$::),
+    .[to] obtain $AB$, .[which] be .[the] height of .[the] island.
+  >>
+  =={.translation-annotations}
+  * In modern notation,
+    $$
+      \begin{aligned}
+        AB
+          &= \colv{AO} + \colr{OB} \\[\tallspace]
+          &= \frac{\colr{FG} \cdot \colg{FC}}{\colb{HI}} + \colr{OB}
+            \\[\tallspace]
+        \textq{island height}
+          &=
+            \frac{
+              \textq{\colr{post height}}
+              \textq{\colg{post separation}}
+            }{
+              \textq{\colb{mutual excess}}
+            }
+              +
+            \textq{\colr{post height}}.
+      \end{aligned}
+    $$
+    Remember
+    $$
+      \begin{aligned}
+        \textq{\colb{mutual excess}}
+          &= \colb{HI} \\
+          &= HG - IG \\
+          &= HG - ED \\
+          &= \textq{rear post backward walk}
+           - \textq{front post backward walk}.
+      \end{aligned}
+    $$
+  ==
+
+||||
 
 
 <<
