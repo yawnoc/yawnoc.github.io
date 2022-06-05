@@ -214,47 +214,58 @@ The inserted olden-style punctuation is my own.
 ||||
 
 
-<<
-  問::{.colour-b}島高::及::{.colour-r}去表::各幾何。
-\\
-  .[We] ask, how much each .[be the] ::{.colour-b} island's height::
-  and .[the] ::{.colour-r} separation from .[the] post::?
->>
+||||{.group}
+
+  ||{.centred}
+    ![Diagram showing the sought-after quantities: \
+      the sea island's height and the distance from front post.]\
+      {w=480}(sea-island-problem-diagram-4-ask-island-height.svg)
+  ||
+
+  <<
+    問::{.colour-b}島高::及::{.colour-r}去表::各幾何。
+  \\
+    .[We] ask, how much each .[be the] ::{.colour-b} island's height::
+    and .[the] ::{.colour-r} separation from .[the] post::?
+  >>
 
 
-<<
-  答曰、島高::{.colour-b}四里五十五步::、去表::{.colour-r}一百二里一百五十步::。
-\\
-  Answer saith: .[the] island's height .[be]
-  ::{.colour-b} four miles .[and] fifty-five paces::,
-  .[and the] separation from .[the] post,
-  ::{.colour-r} one hundred .[and] two miles .[and] one hundred .[and] fifty paces::.
->>
-===={.translation-annotations}
-* .里： miles
-  --
-  A [unit of distance](https://en.wikipedia.org/wiki/Li_\(unit\)),
-  of the order half a kilometre.
-  Note that $1 \unit{mile} = 300 \unit{paces}$.
-  --
+  <<
+    答曰、島高::{.colour-b}四里五十五步::、去表::{.colour-r}一百二里一百五十步::。
+  \\
+    Answer saith: .[the] island's height .[be]
+    ::{.colour-b} four miles .[and] fifty-five paces::,
+    .[and the] separation from .[the] post,
+    ::{.colour-r} one hundred .[and] two miles .[and] one hundred .[and] fifty paces::.
+  >>
+  ===={.translation-annotations}
+  * .里： miles
+    --
+    A [unit of distance](https://en.wikipedia.org/wiki/Li_\(unit\)),
+    of the order half a kilometre.
+    Note that $1 \unit{mile} = 300 \unit{paces}$.
+    --
 
-* .一百二： one hundred .[and] two
-  --
-  The square-bracketed .[and] is supplied,
-  which is noteworthy because:
-  --
-  =={.translation-annotations}
-  * In modern Chinese, you must say .一百零二,
-    "one hundred oh two", to mean~102.
-    If you just say .一百二 or .百二, it means~120;
-    the~.二 by default refers to the next significant digit.
+  * .一百二： one hundred .[and] two
+    --
+    The square-bracketed .[and] is supplied,
+    which is noteworthy because:
+    --
+    =={.translation-annotations}
+    * In modern Chinese, you must say .一百零二,
+      "one hundred oh two", to mean~102.
+      If you just say .一百二 or .百二, it means~120;
+      the~.二 by default refers to the next significant digit.
 
-  * In Literary Chinese you might see .一百又二 or .一百有二,
-    "one hundred and two", but the "and" is not necessary.
-    Thus .一百二 or .百二 means~102 rather than~120.
-    This is preserved in modern Japanese.
-  ==
-====
+    * In Literary Chinese you might see .一百又二 or .一百有二,
+      "one hundred and two", but the "and" is not necessary.
+      Thus .一百二 or .百二 means~102 rather than~120.
+      This is preserved in modern Japanese.
+    ==
+  ====
+
+||||
+
 
 <<
   術曰、\
