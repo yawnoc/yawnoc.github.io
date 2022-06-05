@@ -629,25 +629,33 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-<<
-  以::{.colour-b}小股較辛壬::比::{.colour-r}小句己庚::、\
-  若::{.colour-g}大股較己丙::比::{.colour-v}大句甲辰::。
-\\
-  Using ::{.colour-b} .[the] small major-cathetus chariot-beam $HI$::
-  .[to] compare unto ::{.colour-r} .[the] small minor-cathetus $FG$::,
-  .[is] as ::{.colour-g} .[the] great major-cathetus chariot-beam $FC$::
-  compared unto ::{.colour-v} .[the] great minor-cathetus $AO$::.
->>
-=={.translation-annotations}
-* In modern notation,
-  $$
-    \begin{aligned}
-      \frac{\colb{HI}}{\colr{FG}} &= \frac{\colg{FC}}{\colv{AO}}
-        \\[\tallspace]
-      \colv{AO} &= \frac{\colr{FG} \cdot \colg{FC}}{\colb{HI}}.
-    \end{aligned}
-  $$
-==
+||||{.group}
+
+  ||{.centred}
+    ![]{w=480}(sea-island-derivation-diagram-10-using-small.svg)
+  ||
+
+  <<
+    以::{.colour-b}小股較辛壬::比::{.colour-r}小句己庚::、\
+    若::{.colour-g}大股較己丙::比::{.colour-v}大句甲辰::。
+  \\
+    Using ::{.colour-b} .[the] small major-cathetus chariot-beam $HI$::
+    .[to] compare unto ::{.colour-r} .[the] small minor-cathetus $FG$::,
+    .[is] as ::{.colour-g} .[the] great major-cathetus chariot-beam $FC$::
+    compared unto ::{.colour-v} .[the] great minor-cathetus $AO$::.
+  >>
+  =={.translation-annotations}
+  * In modern notation,
+    $$
+      \begin{aligned}
+        \frac{\colb{HI}}{\colr{FG}} &= \frac{\colg{FC}}{\colv{AO}}
+          \\[\tallspace]
+        \colv{AO} &= \frac{\colr{FG} \cdot \colg{FC}}{\colb{HI}}.
+      \end{aligned}
+    $$
+  ==
+
+||||
 
 <<
   既得::{.colour-v}甲辰::、加::{.colour-r}表高辰乙::（即::{.colour-r}丙丁::）、\
