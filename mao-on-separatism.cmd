@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     of dividing China into 27 separate countries, \
     including the Republic of Hunan (湖南共和國).
 * %date-created --> 2019-09-24
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 - concluding_replacements:
     #.yawnoc.typography
     #backslash-continuations

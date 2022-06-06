@@ -8,7 +8,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> Strikethrough formatter
 * %date-created --> 2020-03-02
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 * %styles -->
     .container {
       border: 2px solid black;

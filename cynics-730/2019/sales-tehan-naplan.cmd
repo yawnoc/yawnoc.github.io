@@ -9,7 +9,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> A cynic's 7.30: Dan Tehan on NAPLAN (28~Aug 2019)
 * %date-created --> 2019-08-30
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 - concluding_replacements: #.yawnoc.typography
 
 %%%

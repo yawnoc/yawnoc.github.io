@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A derivation of the optimal launch angle (which maximises range) \
     for projectile motion from a raised platform.
 * %date-created --> 2019-04-13
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 
 %%%
 

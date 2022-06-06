@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title -->
     A cynic's 7.30: Brad Hazzard on the NSW COVID outbreak (17~Jun 2021)
 * %date-created --> 2021-06-18
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 - concluding_replacements: #.yawnoc.typography
 
 %%%

@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> FAQ
 * %description --> Frequently asked questions.
 * %date-created --> 2019-08-01
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 
 %%%
 

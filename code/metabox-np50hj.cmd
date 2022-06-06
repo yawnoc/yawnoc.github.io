@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> %title
 * %title --> Debian on Metabox Alpha-S NP50HJ
 * %date-created --> 2021-12-23
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 
 %%%
 

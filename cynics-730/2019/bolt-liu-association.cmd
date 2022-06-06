@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title -->
     A cynic's Bolt Report: Gladys Liu on Chinese Associations (10~Sep 2019)
 * %date-created --> 2019-09-13
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 - concluding_replacements: #.yawnoc.typography
 
 %%%

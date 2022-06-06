@@ -21,7 +21,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A derivation of the optimal launch angle (which maximises range) \
     for projectile motion in weak quadratic drag using perturbation theory.
 * %date-created --> 2019-06-21
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 
 %%%
 

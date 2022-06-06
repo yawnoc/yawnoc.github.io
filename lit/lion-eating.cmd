@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     《施氏食獅史》, `shi shi shi shi shi`, or \
     `[An] History of Mr Shih's Eating Lions`.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography

@@ -9,7 +9,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> A cynic's 7.30: Paul Kelly on containing coronavirus (26~Mar 2020)
 * %date-created --> 2020-03-27
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 - concluding_replacements: #.yawnoc.typography
 
 %%%

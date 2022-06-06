@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An English translation of the original text for 《狐假虎威》, \
     `[The] Fox Feigneth [the] Tiger's Authority`.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography

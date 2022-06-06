@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> Chinese font configuration in Linux
 * %date-created --> 2020-10-04
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 
 RegexDictionaryReplacement: #.variables
 - queue_position: BEFORE #whitespace

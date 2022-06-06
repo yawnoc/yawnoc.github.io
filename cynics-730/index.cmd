@@ -8,7 +8,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> A cynic's 7.30 (and other programs)
 * %date-created --> 2019-08-30
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 
 %%%
 

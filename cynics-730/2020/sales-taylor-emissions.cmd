@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> A cynic's 7.30: Angus Taylor on emissions & documents (2~Mar 2020)
 * %date-created --> 2020-03-06
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 - concluding_replacements:
     #escape-idle-html
     #.yawnoc.typography

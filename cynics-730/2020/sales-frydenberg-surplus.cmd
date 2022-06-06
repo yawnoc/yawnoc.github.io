@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title -->
     A cynic's 7.30: Josh Frydenberg on surplus predictions (12~Mar 2020)
 * %date-created --> 2020-03-16
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 - concluding_replacements: #.yawnoc.typography
 
 %%%

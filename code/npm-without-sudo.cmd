@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> Install npm packages globally without sudo
 * %date-created --> 2020-12-27
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 
 
 %%%

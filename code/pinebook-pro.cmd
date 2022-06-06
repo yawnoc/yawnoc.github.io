@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> %title
 * %title --> Debian on Pinebook Pro via Daniel's installer
 * %date-created --> 2020-06-15
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 
 OrdinaryDictionaryReplacement: #.commit-hashes
 - queue_position: BEFORE #reference-definitions

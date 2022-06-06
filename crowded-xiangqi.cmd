@@ -13,7 +13,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> Crowded Xiangqi
 * %description --> Conway's half-board variant of Chinese Chess.
 * %date-created --> 2020-09-06
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 
 RegexDictionaryReplacement: #.piece-letters
 - queue_position: BEFORE #inline-semantics

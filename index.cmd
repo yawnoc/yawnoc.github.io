@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2022-xx-xx
+* %date-modified --> 2022-06-07
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
