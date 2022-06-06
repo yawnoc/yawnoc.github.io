@@ -138,6 +138,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 
 ==
 - [Conway-Markdown](https://github.com/conway-markdown/conway-markdown)
+  ([documentation](https://conway-markdown.github.io/))
 ==
 
 [ping-google]:
