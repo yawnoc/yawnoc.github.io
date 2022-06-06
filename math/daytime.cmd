@@ -1059,10 +1059,12 @@ __for refraction__ by angle $\alpha_\text{ref}$
 --
 $${.important}
   \frac{
-    24 \tan\alpha_\text{ref} \sqrt{1 + \tan^2\tau \sin^2\varphi}
+    \tan\alpha_\text{ref} \sqrt{1 + \tan^2\tau \sin^2\varphi}
   }{
     \pi \cos\delta \sqrt{1 - \tan^2\tau \tan^2\delta \sin^2\varphi}
-  } \unit{hr}.
+  }
+    \cdot
+  24 \unit{hr}.
 $$
 
 --
