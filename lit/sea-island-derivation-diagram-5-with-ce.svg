@@ -20,43 +20,44 @@ line.colour-g {
 line.colour-b {
   stroke: mediumblue;
 }
-.italicised {
-  font-style: italic;
-}
 .thick {
   stroke-width: 3;
+}
+.vertex {
+  font-style: italic;
+  font-family: serif;
 }
 </style>
 
 <text x="0" y="-3.5" dx="-1em" dy="0.3em" lang="zh-Hant">甲</text>
-<text x="0" y="-3.5" dx="-2.25em" dy="0.3em" class="italicised">A</text>
+<text x="0" y="-3.5" dx="-2.25em" dy="0.3em" class="vertex">A</text>
 
 <text x="0" y="0" dy="1.3em" lang="zh-Hant">乙</text>
-<text x="0" y="0" dy="2.8em" class="italicised">B</text>
+<text x="0" y="0" dy="2.8em" class="vertex">B</text>
 
 <text x="3" y="-1" dx="0.4em" dy="-0.5em" lang="zh-Hant">丙</text>
-<text x="3" y="-1" dx="0.4em" dy="-1.7em" class="italicised">C</text>
+<text x="3" y="-1" dx="0.4em" dy="-1.7em" class="vertex">C</text>
 
 <text x="3" y="0" dy="1.3em" lang="zh-Hant">丁</text>
-<text x="3" y="0" dy="2.8em" class="italicised">D</text>
+<text x="3" y="0" dy="2.8em" class="vertex">D</text>
 
 <text x="4.2" y="0" dy="1.3em" lang="zh-Hant">戊</text>
-<text x="4.2" y="0" dy="2.8em" class="italicised">E</text>
+<text x="4.2" y="0" dy="2.8em" class="vertex">E</text>
 
 <text x="5.5" y="-1" dx="0.4em" dy="-0.5em" lang="zh-Hant">己</text>
-<text x="5.5" y="-1" dx="0.4em" dy="-1.7em" class="italicised">F</text>
+<text x="5.5" y="-1" dx="0.4em" dy="-1.7em" class="vertex">F</text>
 
 <text x="5.5" y="0" dy="1.3em" lang="zh-Hant">庚</text>
-<text x="5.5" y="0" dy="2.8em" class="italicised">G</text>
+<text x="5.5" y="0" dy="2.8em" class="vertex">G</text>
 
 <text x="7.7" y="0" dy="1.3em" lang="zh-Hant">辛</text>
-<text x="7.7" y="0" dy="2.8em" class="italicised">H</text>
+<text x="7.7" y="0" dy="2.8em" class="vertex">H</text>
 
 <text x="6.7" y="0" dy="1.3em" lang="zh-Hant">壬</text>
-<text x="6.7" y="0" dy="2.8em" class="italicised">I</text>
+<text x="6.7" y="0" dy="2.8em" class="vertex">I</text>
 
 <text x="0" y="-1" dx="-1em" dy="0.3em" lang="zh-Hant">辰</text>
-<text x="0" y="-1" dx="-2.25em" dy="0.3em" class="italicised">O</text>
+<text x="0" y="-1" dx="-2.25em" dy="0.3em" class="vertex">O</text>
 
 <line x1="0" y1="-3.5" x2="0" y2="0"/> <!-- AB -->
 <line x1="0" y1="0" x2="7.7" y2="0"/>  <!-- BH -->
