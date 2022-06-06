@@ -521,7 +521,7 @@ Indeed the asymptotic expansion is very accurate for $B < 0.5$
 --
 ||{.centred}
   ![Graph of optimal launch angle (phi) versus the dimensionless group B.]\
-    {w=480}(projectile-weak-drag-phi-vs-b)
+    {w=480}(projectile-weak-drag-phi-vs-b.svg)
 ||
 --
 The true optimal launch angle is a decreasing function of $B$.
