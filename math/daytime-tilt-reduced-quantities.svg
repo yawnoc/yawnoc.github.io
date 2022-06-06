@@ -7,7 +7,7 @@ line {
   vector-effect: non-scaling-stroke;
 }
 text {
-  font-family: sans-serif;
+  font-family: serif;
   font-size: 0.7px;
   text-anchor: middle;
 }
