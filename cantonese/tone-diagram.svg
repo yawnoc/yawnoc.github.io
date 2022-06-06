@@ -3,6 +3,7 @@
 <style>
 line {
   stroke: black;
+  stroke-width: 2;
   vector-effect: non-scaling-stroke;
 }
 text {
