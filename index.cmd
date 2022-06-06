@@ -131,6 +131,14 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ==
 
 
+###{#code-apps} Apps
+
+==
+- [Android Chinese keyboard: Stroke Input Method (.筆畫輸入法)]\
+    (https://github.com/stroke-input/stroke-input-android)
+==
+
+
 ###{#code-web} Website building
 
 ==
