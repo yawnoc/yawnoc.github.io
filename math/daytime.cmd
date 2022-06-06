@@ -6,6 +6,11 @@
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
 * %copyright-prior-years --> get_year@%date-created--
+* %post-copyright-remark -->
+    --
+    For the original manuscript of this page, see [`daytime.pdf`].
+    --
+    [`daytime.pdf`]: https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/d3cea8ac79fa/manuscripts/daytime.pdf
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
@@ -71,10 +76,10 @@ OrdinaryDictionaryReplacement: #.typography
 --
 This is a simplistic model for the sun's path through the sky, and the
 dependence of the amount of daytime upon latitude and time of year.
-Skipped steps/algebra may be found in the [manuscript (624~KB PDF)].
+Skipped steps/algebra may be found in the [manuscript (624~KB PDF)][`daytime.pdf`].
 --
 
-[manuscript (624~KB PDF)]:
+[`daytime.pdf`]:
   https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/d3cea8ac79fa/manuscripts/daytime.pdf
 
 
