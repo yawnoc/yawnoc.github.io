@@ -58,6 +58,9 @@ with the metabolism of Sir~Doris the Hamster.
 --
 Mostly [applied maths](#math) and [Literary Chinese](#lit).
 --
+--
+Feedback welcome: s<mailto:s75ab511@duck.com>
+--
 
 
 ##{#general} General
