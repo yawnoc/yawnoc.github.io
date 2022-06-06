@@ -14,7 +14,7 @@ text {
   font-size: 0.8px;
   text-anchor: middle;
 }
-.italicised {
+.variable {
   font-style: italic;
 }
 </style>
@@ -30,10 +30,10 @@ text {
 </defs>
 
 <line x1="0" y1="0" x2="11" y2="0"/>
-<text x="11" y="0" dx="0.85em" dy="0.3em" class="italicised">x</text>
+<text x="11" y="0" dx="0.85em" dy="0.3em" class="variable">x</text>
 
 <line x1="0" y1="0" x2="0" y2="-8"/>
-<text x="0" y="-8" dy="-0.7em" class="italicised">y</text>
+<text x="0" y="-8" dy="-0.7em" class="variable">y</text>
 
 <!-- (trajectory) -->
 <polyline points="
@@ -125,9 +125,9 @@ text {
 "/>
 
 <line x1="0" y1="0" x2="1" y2="-2" marker-end = "url(#arrowhead)"/>
-<text x="1" y="-2" dx="-0.4em" dy="-0.3em" class="italicised">u</text>
-<text x="0" y="0" dx="1.17em" dy="-0.5em" class="italicised">ϕ</text>
+<text x="1" y="-2" dx="-0.4em" dy="-0.3em" class="variable">u</text>
+<text x="0" y="0" dx="1.17em" dy="-0.5em" class="variable">ϕ</text>
 
-<text x="10" y="0" dy="1.2em" class="italicised">R</text>
+<text x="10" y="0" dy="1.2em" class="variable">R</text>
 
 </svg>

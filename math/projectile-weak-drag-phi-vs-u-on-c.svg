@@ -14,7 +14,7 @@ text {
   font-size: 1px;
   text-anchor: middle;
 }
-.italicised {
+.variable {
   font-style: italic;
 }
 </style>
@@ -43,7 +43,7 @@ text {
 </defs>
 
 <line x1="0" y1="-30" x2="20.5" y2="-30"/>
-<text x="20.5" y="-30" dx="1.5em" dy="0.3em" class="italicised">u / c</text>
+<text x="20.5" y="-30" dx="1.5em" dy="0.3em" class="variable">u / c</text>
 <polyline class="points" points="0,-30 5,-30 10,-30 15,-30 20,-30"
   marker-start="url(#x-tick-coarse)"
   marker-mid="url(#x-tick-coarse)"
@@ -61,7 +61,7 @@ text {
 />
 
 <line x1="0" y1="-30" x2="0" y2="-46.8"/>
-<text x="0" y="-46.8" dy="-0.7em" class="italicised">ϕ</text>
+<text x="0" y="-46.8" dy="-0.7em" class="variable">ϕ</text>
 <polyline class="points" points="0,-30 0,-35 0,-40 0,-45"
   marker-start="url(#y-tick-coarse)"
   marker-mid="url(#y-tick-coarse)"
