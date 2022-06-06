@@ -4,7 +4,7 @@
 <style>
 line, path {
   stroke: black;
-  vector-effect: non-scaling-stroke;
+  stroke-width: 0.28%; /* 1px/360px */
 }
 text {
   font-family: serif;

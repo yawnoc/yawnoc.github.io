@@ -4,7 +4,7 @@
 <style>
 line, polyline {
   stroke: black;
-  vector-effect: non-scaling-stroke;
+  stroke-width: 0.21%; /* 1px/480px */
 }
 polyline {
   fill: none;
