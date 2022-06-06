@@ -1,7 +1,6 @@
 < /resources/rules/yawnoc.cmdr
 < /resources/rules/rendering.cmdr
 < /resources/rules/equations.cmdr
-< /resources/rules/language.cmdr
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
