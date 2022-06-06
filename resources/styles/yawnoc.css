@@ -271,11 +271,16 @@ header > nav > ul {
 }
 
 
-.example, .parallel-text {
+.example, .important, .parallel-text {
   border: 2px solid black;
   font-size: large;
   margin: 0.7em;
   padding: 0.4em 0.5em;
+}
+
+
+.important {
+  font-size: medium;
 }
 
 
