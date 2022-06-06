@@ -6,6 +6,7 @@
   --interview-image-margin-horizontal: 0.75em;
   --katex-clearance-top: 0.5em;
   --katex-clearance-bottom: 0.25em;
+  --katex-font-size: 1.17em; /* default 1.21em is too big */
 }
 
 
@@ -339,11 +340,10 @@ div.js-maths {
 
 
 .js-maths > .katex {
-  font-size: 1.13em; /* default 1.21em is too big */
+  font-size: var(--katex-font-size);
 }
 .katex-display > .katex {
-  /* default 1.21em is too big */
-  font-size: 1.13em;
+  font-size: var(--katex-font-size);
   /* overflow with horizontal scrolling */
   overflow-x: auto;
   overflow-y: hidden;
