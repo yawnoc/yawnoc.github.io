@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.5 -4.5 13 5.5">
+
+<style>
+line {
+  stroke: black;
+  vector-effect: non-scaling-stroke;
+}
+text {
+  font-family: sans-serif;
+  font-size: 0.7px;
+  text-anchor: middle;
+}
+.italicised {
+  font-style: italic;
+}
+</style>
+
+<!-- (hypotenuse) -->
+<line x1="0" y1="0" x2="8" y2="-4"/>
+<text x="4" y="-2" dy="-0.5em" class="italicised">ρ</text>
+
+<!-- (angle) -->
+<text dx="3em" dy="-0.5em" class="italicised">φ</text>
+
+<!-- (run) -->
+<line x1="0" y1="0" x2="8" y2="0"/>
+<text x="4" dy="1em">cos <tspan class="italicised">Y</tspan></text>
+
+<!-- (rise) -->
+<line x1="8" y1="0" x2="8" y2="-4"/>
+<text x="8" y="-2" dx="3em" dy="0.3em">cos <tspan class="italicised">τ</tspan> sin <tspan class="italicised">Y</tspan></text>
+
+<!-- (right-angle marker) -->
+<line x1="7.5" y1="0" x2="7.5" y2="-0.5"/>
+<line x1="7.5" y1="-0.5" x2="8" y2="-0.5"/>
+
+</svg>
