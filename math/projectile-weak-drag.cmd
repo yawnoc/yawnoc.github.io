@@ -539,7 +539,7 @@ $\sqrt{B} = u / c$, the initial-to-terminal speed ratio:
 ||{.centred}
   ![Graph of optimal launch angle (phi) versus the \
     initial-to-terminal speed ratio (u divided by c).]\
-    {w=480}(projectile-weak-drag-phi-vs-b)
+    {w=480}(projectile-weak-drag-phi-vs-u-on-c)
 ||
 
 
