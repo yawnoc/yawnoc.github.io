@@ -10,7 +10,7 @@ polyline {
   fill: none;
 }
 text {
-  font-family: sans-serif;
+  font-family: serif;
   font-size: 1px;
   text-anchor: middle;
 }
