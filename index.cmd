@@ -126,11 +126,6 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 
 ##{#code} Useful code
 
-==
-- [Stuff I can't remember](/code/remember)
-==
-
-
 ###{#code-apps} Apps
 
 ==
@@ -139,11 +134,10 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ==
 
 
-###{#code-web} Website building
+###{#code-web} Web development
 
 ==
 - [Conway-Markdown](https://github.com/conway-markdown/conway-markdown)
-- Links to ping the sitemap: [Google][ping-google], [Bing][ping-bing]
 ==
 
 [ping-google]:
@@ -172,14 +166,15 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
     (https://github.com/yawnoc/tumbling-polygon)
 - [Image to ASCII art converter (GNU Octave)]\
     (https://github.com/yawnoc/ascii-art)
-==
-
-
-###{#code-emails} Email typing
-
-==
 - [Unicode mathematical symbols](/code/unicode-math)
-- [Strikethrough formatter](/code/strikethrough)
+==
+
+
+###{#code-misc} Miscellaneous
+
+==
+- [Stuff I can't remember](/code/remember)
+- Links to ping the sitemap: [Google][ping-google], [Bing][ping-bing]
 ==
 
 
