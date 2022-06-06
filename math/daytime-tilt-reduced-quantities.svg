@@ -11,25 +11,25 @@ text {
   font-size: 0.7px;
   text-anchor: middle;
 }
-.italicised {
+.variable {
   font-style: italic;
 }
 </style>
 
 <!-- (hypotenuse) -->
 <line x1="0" y1="0" x2="8" y2="-4"/>
-<text x="4" y="-2" dy="-0.5em" class="italicised">ρ</text>
+<text x="4" y="-2" dy="-0.5em" class="variable">ρ</text>
 
 <!-- (angle) -->
-<text dx="3em" dy="-0.5em" class="italicised">φ</text>
+<text dx="3em" dy="-0.5em" class="variable">φ</text>
 
 <!-- (run) -->
 <line x1="0" y1="0" x2="8" y2="0"/>
-<text x="4" dy="1em">cos <tspan class="italicised">Y</tspan></text>
+<text x="4" dy="1em">cos <tspan class="variable">Y</tspan></text>
 
 <!-- (rise) -->
 <line x1="8" y1="0" x2="8" y2="-4"/>
-<text x="8" y="-2" dx="3em" dy="0.3em">cos <tspan class="italicised">τ</tspan> sin <tspan class="italicised">Y</tspan></text>
+<text x="8" y="-2" dx="3em" dy="0.3em">cos <tspan class="variable">τ</tspan> sin <tspan class="variable">Y</tspan></text>
 
 <!-- (right-angle marker) -->
 <line x1="7.5" y1="0" x2="7.5" y2="-0.5"/>
