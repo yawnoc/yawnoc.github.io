@@ -11,7 +11,7 @@ text {
   font-size: 0.45px;
   text-anchor: middle;
 }
-.italicised {
+.variable {
   font-style: italic;
 }
 </style>
@@ -28,21 +28,21 @@ text {
 </defs>
 
 <line x1="0" y1="0" x2="5.5" y2="0"/>
-<text x="5.5" y="0" dx="0.85em" dy="0.3em" class="italicised">x</text>
+<text x="5.5" y="0" dx="0.85em" dy="0.3em" class="variable">x</text>
 
 <line x1="0" y1="0" x2="0" y2="-3.5"/>
-<text x="0" y="-3.5" dy="-0.7em" class="italicised">y</text>
+<text x="0" y="-3.5" dy="-0.7em" class="variable">y</text>
 
 <line x1="-0.2" y1="-2" x2="0.7" y2="-2"/>
 <line x1="-0.2" y1="-2" x2="0.7" y2="-2"/>
-<text x="-0.25" y="-2" dx="-0.7em" dy="0.3em" class="italicised">h</text>
+<text x="-0.25" y="-2" dx="-0.7em" dy="0.3em" class="variable">h</text>
 
 <line x1="0" y1="-2" x2="1" y2="-3.6" marker-end = "url(#arrowhead)"/>
-<text x="1" y="-3.6" dx="0.5em" dy="-0.2em" class="italicised">u</text>
-<text x="0" y="-2" dx="1.2em" dy="-0.4em" class="italicised">ϕ</text>
+<text x="1" y="-3.6" dx="0.5em" dy="-0.2em" class="variable">u</text>
+<text x="0" y="-2" dx="1.2em" dy="-0.4em" class="variable">ϕ</text>
 
 <path d="M 0,-2 Q 2.5,-6 5,0" fill="none"/> <!-- (trajectory) -->
 
-<text x="5" y="0" dy="1.2em" class="italicised">R</text>
+<text x="5" y="0" dy="1.2em" class="variable">R</text>
 
 </svg>
