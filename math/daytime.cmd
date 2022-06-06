@@ -37,8 +37,6 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 OrdinaryDictionaryReplacement: #.typography
 - queue_position: BEFORE #whitespace
-# U+2007 FIGURE SPACE
-*   '\0' --> ' '
 # U+202F NARROW NO-BREAK SPACE
 *   ' | ' --> ' '
 

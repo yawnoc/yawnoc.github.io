@@ -23,11 +23,6 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %date-created --> 2019-06-21
 * %date-modified --> 2022-xx-xx
 
-OrdinaryDictionaryReplacement: #.typography
-- queue_position: BEFORE #whitespace
-# U+2007 FIGURE SPACE
-*   '\0' --> ' '
-
 %%%
 
 
