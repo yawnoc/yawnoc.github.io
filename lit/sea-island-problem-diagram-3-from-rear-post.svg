@@ -25,6 +25,7 @@ text.colour-b {
 }
 .dimension {
   font-size: 0.3px;
+  font-family: serif;
 }
 </style>
 
