@@ -1,0 +1,46 @@
+OrdinaryDictionaryReplacement: #.equations.properties-override
+- queue_position: BEFORE #.rendering.properties-override
+* %head-elements-after-viewport -->
+    %head-elements-after-viewport
+    <link rel="stylesheet" href="/resources/katex/katex.min.css">
+    <script defer src="/resources/katex/katex.min.js" onload="renderMaths()"></script>
+* %%noscript-equations -->
+    <noscript>
+      **{.noscript} Enable JavaScript for equation rendering to work.**
+    </noscript>
+
+
+ExtensibleFenceReplacement: #.equations.display-maths
+- queue_position: AFTER #comments
+- syntax_type: BLOCK
+- allowed_flags:
+    u=KEEP_HTML_UNESCAPED
+    i=KEEP_INDENTED
+    w=REDUCE_WHITESPACE
+- extensible_delimiter: $$
+- attribute_specifications: .js-maths
+- content_replacements:
+    #escape-html
+    #de-indent
+    #reduce-whitespace
+    #placeholder-protect
+- tag_name: div
+
+
+ExtensibleFenceReplacement: #.equations.inline-maths
+- queue_position: AFTER #inline-code
+- syntax_type: INLINE
+- allowed_flags:
+    u=KEEP_HTML_UNESCAPED
+    i=KEEP_INDENTED
+    w=REDUCE_WHITESPACE
+- extensible_delimiter: $
+- attribute_specifications: .js-maths
+- prohibited_content: BLOCKS
+- content_replacements:
+    #escape-html
+    #de-indent
+    #trim-whitespace
+    #reduce-whitespace
+    #placeholder-protect
+- tag_name: span

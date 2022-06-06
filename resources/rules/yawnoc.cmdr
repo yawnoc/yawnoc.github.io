@@ -1,0 +1,171 @@
+OrdinaryDictionaryReplacement: #.yawnoc.properties-override
+- queue_position: BEFORE #boilerplate-properties
+* %head-elements-before-viewport -->
+    <meta name="author" content="Conway">
+    <meta name="description" content="%description">
+* %head-elements-after-viewport -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
+* </title> --> " | Conway's site</title>"
+* %copyright-prior-years -->
+* %copyright-exception -->
+* %post-copyright-remark -->
+
+
+OrdinaryDictionaryReplacement: #.yawnoc.double-quotes-in-attributes
+* ` --> &quot;
+
+
+OrdinaryDictionaryReplacement: #.yawnoc.nondescript
+- queue_position: AFTER #boilerplate-properties
+* <meta name="description" content="%description"> -->
+
+
+RegexDictionaryReplacement: #.yawnoc.navigation-wrap
+* \A --> <nav>\n
+* \Z --> \n</nav>
+
+
+RegexDictionaryReplacement: #.yawnoc.header-wrap
+* \A --> <header>\n
+* \Z --> \n</header>
+
+
+FixedDelimitersReplacement: #.yawnoc.header-navigation-list
+- queue_position: BEFORE #inline-code
+- syntax_type: BLOCK
+- opening_delimiter: ^^^^
+- content_replacements:
+    #unordered-list-items
+    #prepend-newline
+- closing_delimiter: ^^^^
+- tag_name: ul
+- concluding_replacements:
+    #.yawnoc.navigation-wrap
+    #.yawnoc.header-wrap
+
+
+FixedDelimitersReplacement: #.yawnoc.non-header-navigation-lists
+- queue_position: BEFORE #inline-code
+- syntax_type: BLOCK
+- opening_delimiter: ::::
+- content_replacements:
+    #unordered-list-items
+    #prepend-newline
+- closing_delimiter: ::::
+- tag_name: ul
+- concluding_replacements:
+    #.yawnoc.navigation-wrap
+
+
+OrdinaryDictionaryReplacement: #.yawnoc.header-links
+- queue_position: BEFORE #specified-links
+* !!home --> [Home]("You are already on the home page")
+* !home --> [Home](/ "Home page")
+* !top --> [Top](# "Jump to top of this page")
+* !translation --> [Translation](#translation "Jump to translation")
+* !result --> [Result](#result "Jump to result")
+* !cite --> [Cite](#cite "Cite this page")
+* !cynicism --> [More cynicism](/cynics-730/ "A cynic's 7.30")
+
+
+RegexDictionaryReplacement: #.yawnoc.heading-permalinks
+- queue_position: BEFORE #headings
+* ^ (?P<anchoring_whitespace> [^\S\n]* )
+  (?P<opening_hashes_etc>
+    [#]{2,6}
+    \{
+      [#] (?P<id_> [\S]+ )
+    \}
+    [\s]+
+  )
+    -->
+  \g<anchoring_whitespace>\
+  \g<opening_hashes_etc> []{.permalink aria-label="Permalink"}(#\g<id_>)
+- concluding_replacements: #backslash-continuations
+
+
+OrdinaryDictionaryReplacement: #.yawnoc.cite-this-page
+- queue_position: BEFORE #.yawnoc.heading-permalinks
+* %%cite -->
+  "
+    ##{#cite} Cite this page
+    --
+    Conway~(get_year@%date-modified).
+    %cite-title.
+    b<https://yawnoc.github.io/%clean-url>
+    Accessed~<span class="js-date">yyyy-mm-dd</span>.
+    --
+    u<``
+      <script>
+      document.addEventListener("DOMContentLoaded", function() {renderDate()})
+      </script>
+    ``>
+  "
+- concluding_replacements: #literals
+
+
+RegexDictionaryReplacement: #.yawnoc.get-year
+- queue_position: AFTER #boilerplate-properties
+* [|]? get_year @ (?P<year> [\S]{4}) - [\S]{2} - [\S]{2}
+    -->
+  \g<year>
+
+
+OrdinaryDictionaryReplacement: #.yawnoc.footer
+- queue_position: BEFORE #unordered-lists
+* %%footer -->
+  "
+    <footer>
+      (C)~%copyright-prior-years|get_year@%date-modified Conway\
+        %copyright-exception.
+      %post-copyright-remark
+      ==
+      - First created: %date-created
+      - Last modified: %date-modified
+      - Compiled from [<code>%cmd-name.cmd</code>] with [CMDv%cmd-version]
+      ==
+    </footer>
+    [<code>%cmd-name.cmd</code>]:
+      https://github.com/yawnoc/yawnoc.github.io/blob/cmdv4/%cmd-name.cmd
+    [CMDv%cmd-version]:
+      https://github.com/conway-markdown/conway-markdown/tree/v%cmd-version
+  "
+
+
+InlineAssortedDelimitersReplacement: #.yawnoc.spans
+- queue_position: BEFORE #whitespace
+- delimiter_conversion:
+    ::=span
+- attribute_specifications: EMPTY
+- prohibited_content: BLOCKS
+
+
+OrdinaryDictionaryReplacement: #.yawnoc.backslash-escapes
+- queue_position: AFTER #backslash-escapes
+* \~ --> ~
+- concluding_replacements: #placeholder-protect
+
+
+OrdinaryDictionaryReplacement: #.yawnoc.typography
+- queue_position: BEFORE #escape-idle-html
+# U+00A0 NO-BREAK SPACE (&nbsp;)
+*   ~ --> " "
+# U+2007 FIGURE SPACE (&numsp;)
+*   \0 --> " "
+# U+2014 EM DASH
+*   --- --> —
+# U+2013 EN DASH
+*   -- --> –
+# U+2011 NON-BREAKING HYPHEN
+*   \- --> ‑
+# U+00A9 COPYRIGHT SIGN
+*   (C) --> ©
+# U+2026 HORIZONTAL ELLIPSIS
+*   ... --> …

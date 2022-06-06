@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -4 9.2 5">
+
+<style>
+line {
+  stroke: black;
+  vector-effect: non-scaling-stroke;
+}
+text {
+  font-family: sans-serif;
+  font-size: 0.33px;
+  text-anchor: middle;
+}
+line.colour-r {
+  stroke: crimson;
+}
+line.colour-g {
+  stroke: green;
+}
+line.colour-b {
+  stroke: mediumblue;
+}
+.thick {
+  stroke-width: 3;
+}
+.vertex {
+  font-style: italic;
+  font-family: serif;
+}
+</style>
+
+<text x="0" y="-3.5" dx="-1em" dy="0.3em" lang="zh-Hant">甲</text>
+<text x="0" y="-3.5" dx="-2.25em" dy="0.3em" class="vertex">A</text>
+
+<text x="0" y="0" dy="1.3em" lang="zh-Hant">乙</text>
+<text x="0" y="0" dy="2.8em" class="vertex">B</text>
+
+<text x="3" y="-1" dx="0.4em" dy="-0.5em" lang="zh-Hant">丙</text>
+<text x="3" y="-1" dx="0.4em" dy="-1.7em" class="vertex">C</text>
+
+<text x="3" y="0" dy="1.3em" lang="zh-Hant">丁</text>
+<text x="3" y="0" dy="2.8em" class="vertex">D</text>
+
+<text x="4.2" y="0" dy="1.3em" lang="zh-Hant">戊</text>
+<text x="4.2" y="0" dy="2.8em" class="vertex">E</text>
+
+<text x="5.5" y="-1" dx="0.4em" dy="-0.5em" lang="zh-Hant">己</text>
+<text x="5.5" y="-1" dx="0.4em" dy="-1.7em" class="vertex">F</text>
+
+<text x="5.5" y="0" dy="1.3em" lang="zh-Hant">庚</text>
+<text x="5.5" y="0" dy="2.8em" class="vertex">G</text>
+
+<text x="7.7" y="0" dy="1.3em" lang="zh-Hant">辛</text>
+<text x="7.7" y="0" dy="2.8em" class="vertex">H</text>
+
+<text x="6.7" y="0" dy="1.3em" lang="zh-Hant">壬</text>
+<text x="6.7" y="0" dy="2.8em" class="vertex">I</text>
+
+<text x="0" y="-1" dx="-1em" dy="0.3em" lang="zh-Hant">辰</text>
+<text x="0" y="-1" dx="-2.25em" dy="0.3em" class="vertex">O</text>
+
+<line x1="0" y1="-3.5" x2="0" y2="0"/> <!-- AB -->
+<line x1="0" y1="0" x2="7.7" y2="0"/>  <!-- BH -->
+<line x1="3" y1="-1" x2="3" y2="0"/> <!-- CD -->
+<line x1="3" y1="0" x2="4.2" y2="0" class="thick colour-g"/> <!-- DE -->
+<line x1="3" y1="-1" x2="4.2" y2="0" class="thick colour-b"/> <!-- DE -->
+<line x1="5.5" y1="-1" x2="5.5" y2="0"/> <!-- FG -->
+<line x1="5.5" y1="0" x2="6.7" y2="0" class="thick colour-g"/> <!-- GI -->
+<line x1="0" y1="-3.5" x2="4.2" y2="0"/> <!-- ACE -->
+<line x1="0" y1="-3.5" x2="7.7" y2="0"/> <!-- AFH -->
+<line x1="5.5" y1="-1" x2="6.7" y2="0" class="thick colour-r"/> <!-- FI -->
+<line x1="0" y1="-1" x2="5.5" y2="-1"/> <!-- OCF -->
+
+</svg>

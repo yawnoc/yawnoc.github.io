@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="author" content="Conway">
-<meta name="description" content="A derivation of the optimal launch angle (which maximises range) for projectile motion (no air resistance) from a raised platform.">
+<meta name="description" content="A derivation of the optimal launch angle (which maximises range) \
+for projectile motion from a raised platform.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -12,27 +13,27 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/resources/styles/main.min.css">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 <script defer src="/resources/scripts/rendering.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin onerror="this.removeAttribute('integrity');this.removeAttribute('onerror');this.setAttribute('href','/resources/katex/katex.min.css')">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin onerror="let a=document.createElement('script');a.setAttribute('src','/resources/katex/katex.min.js');a.setAttribute('onload', 'renderMaths()');document.head.appendChild(a);
-this.remove()" onload="renderMaths()"></script>
+<link rel="stylesheet" href="/resources/katex/katex.min.css">
+<script defer src="/resources/katex/katex.min.js" onload="renderMaths()"></script>
 <title>Projectile motion: optimal launch angle from a platform | Conway's site</title>
-<style>li {
-margin-bottom: 1.3em;
-}</style>
 </head>
 <body>
 <header>
 <nav>
 <ul>
-<li><a href="/" title="Home page">Home</a>
+<li>
+<a href="/" title="Home page">Home</a>
 </li>
-<li><a href="#" title="Jump back to top">Top</a>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
 </li>
-<li><a href="#result" title="Jump to result">Result</a>
+<li>
+<a href="#result" title="Jump to result">Result</a>
 </li>
-<li><a href="#cite" title="Cite this page">Cite</a>
+<li>
+<a href="#cite" title="Cite this page">Cite</a>
 </li>
 </ul>
 </nav>
@@ -41,76 +42,15 @@ margin-bottom: 1.3em;
 <noscript>
 <strong class="noscript">Enable JavaScript for equation rendering to work.</strong>
 </noscript>
-<div class="page-properties">
-Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/math/projectile-platform.cmd">math/projectile-platform.cmd</a><br>
-First created: 2019-04-13<br>
-Last modified: 2021-08-22<br>
-See also: <a href="/math/projectile-weak-drag">Projectile motion: optimal launch angle for weak quadratic drag</a>
-</div>
 <p>
 In the absence of air resistance, a launch angle of 45° maximises range.
 If the projectile is instead launched from a raised platform,
 the optimal launch angle still has a closed-form expression,
 although more algebra is required to compute it.
 </p>
-<h2 id="solution"><a class="permalink" href="#solution" aria-label="Permalink"></a>Solution</h2>
-<p>
-<b>Manuscript:</b> <a href="https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/d3cea8ac79fa/manuscripts/platform.pdf"><code>platform.pdf</code></a>
-</p>
-<svg class="embedded-styles" aria-hidden="true"><style>
-text {
-font-family: sans-serif;
-text-anchor: middle;
-}
-line, path {
-stroke: black;
-vector-effect: non-scaling-stroke;
-}
-@font-face {
-font-display: swap;
-font-family: "KaTeX_Math-Italic";
-src:
-url("/resources/katex/fonts/KaTeX_Math-Italic.woff2") format("woff2"),
-url("/resources/katex/fonts/KaTeX_Math-Italic.woff") format("woff"),
-url("/resources/katex/fonts/KaTeX_Math-Italic.ttf") format("truetype");
-}
-@font-face {
-font-display: swap;
-font-family: "KaTeX_Main-Regular";
-src:
-url("/resources/katex/fonts/KaTeX_Main-Regular.woff2") format("woff2"),
-url("/resources/katex/fonts/KaTeX_Main-Regular.woff") format("woff"),
-url("/resources/katex/fonts/KaTeX_Main-Regular.ttf") format("truetype");
-}
-.maths-italic {
-font-family: "KaTeX_Math-Italic", "KaTeX_Main-Regular";
-}
-.maths-regular {
-font-family: "KaTeX_Main-Regular";
-}
-</style></svg>
-<div class="centred-block">
-<svg width="360px" height="100%" viewBox="-1 -4 7.5 4.5" role="img" focusable="false" aria-labelledby="trajectory-diagram-title">
-<title id="trajectory-diagram-title">Projectile motion from a raised platform at height h along the y-axis. The initial speed is u and the initial angle is phi. The projectile takes a parabolic path and strikes the ground at range R along the x-axis.</title>
-<g aria-hidden="true">
-<defs>
-<marker id="arrowhead" viewBox="0 -0.15 0.5 0.3" refX="0.5" refY="0" markerUnits="userSpaceOnUse" markerWidth="0.5" markerHeight="0.15" orient="auto-start-reverse">
-<path d="M 0, -0.15 L 0, 0.15 L 0.5, 0 z"/>
-</marker>
-</defs>
-<line x1="0" y1="0" x2="5.5" y2="0"/>
-<text class="maths-italic" x="5.5" y="0" font-size="0.45" dx="0.5em" dy="0.3em">x</text>
-<line x1="0" y1="0" x2="0" y2="-3.5"/>
-<text class="maths-italic" x="0" y="-3.5" font-size="0.45" dy="-0.5em">y</text>
-<line x1="-0.2" y1="-2" x2="0.7" y2="-2"/>
-<text class="maths-italic" x="-0.25" y="-2" font-size="0.45" dx="-0.5em" dy="0.3em">h</text>
-<path d="M 0,-2 Q 2.5,-6 5,0" fill="none"/>
-<text class="maths-italic" x="0" y="-2" font-size="0.45" dx="1em" dy="-0.35em">ϕ</text>
-<text class="maths-italic" x="5" y="0" font-size="0.45" dy="1em">R</text>
-<line x1="0" y1="-2" x2="1" y2="-3.6" marker-end="url(#arrowhead)"/>
-<text class="maths-italic" x="1" y="-3.6" font-size="0.45" dx="0.5em">u</text>
-</g>
-</svg>
+<h2 id="solution"><a href="#solution" class="permalink" aria-label="Permalink"></a>Solution</h2>
+<div class="centred">
+<img alt="Diagram for projectile motion from a raised platform." src="projectile-motion-raised-platform.svg" width="360">
 </div>
 <p>
 Suppose the projectile is launched at speed <span class="js-maths">u</span> and angle <span class="js-maths">\phi</span>
@@ -163,20 +103,28 @@ where for brevity <span class="js-maths">\beta = \sin\phi</span>.
 We then carefully consider the ways in which <span class="js-maths">\pd R / {\pd\phi}</span> can vanish:
 </p>
 <ol>
-<li>If <span class="js-maths">C = \infty</span>, then
+<li>
+<p>
+If <span class="js-maths">C = \infty</span>, then
+</p>
 <div class="js-maths">\frac{\pd R}{\pd\phi}
 = \frac{2h}{C}
   \colb{\roundbr{\sqrt{C}}}
   \colr{\squarebr{-\beta}}
 = - 2\beta \cdot \frac{h}{\sqrt{C}},
 </div>
+<p>
 which vanishes assuming <span class="js-maths">h</span> is finite.
 But since <span class="js-maths">C = 2 g h / u^2</span> is infinite, this only occurs if
 <span class="js-maths">g = \infty</span> (infinitely strong gravity) or
 <span class="js-maths">u = 0</span> (zero launch speed),
-and in either case the range is zero, i.e.&nbsp;<span class="js-maths">R</span> is minimised.
+and in either case the range is zero, i.e. <span class="js-maths">R</span> is minimised.
+</p>
 </li>
-<li>If <span class="js-maths">\colb C = 0</span> and <span class="js-maths">\colb \beta &lt; 0</span>, then
+<li>
+<p>
+If <span class="js-maths">\colb C = 0</span> and <span class="js-maths">\colb \beta &lt; 0</span>, then
+</p>
 <div class="js-maths">\begin{aligned}
   \frac{\pd R}{\pd\phi}
   &amp;=
@@ -204,21 +152,28 @@ and in either case the range is zero, i.e.&nbsp;<span class="js-maths">R</span> 
   &amp;= \frac{h}{\beta^2},
 \end{aligned}
 </div>
+<p>
 which vanishes only if <span class="js-maths">h = 0</span>.
 But since <span class="js-maths">\phi = \sin^{-1}\beta &lt; 0</span>, this corresponds to
 launching the projectile downwards starting from ground level,
 and again the range is zero.
+</p>
 </li>
-<li>If <span class="js-maths">\colr{
-      \squarebr{\frac{1 - \beta^2}{\sqrt{\beta^2 + C}} - \beta} = 0
-    }</span>,
+<li>
+<p>
+If <span class="js-maths">\colr{
+  \squarebr{\frac{1 - \beta^2}{\sqrt{\beta^2 + C}} - \beta} = 0
+}</span>,
 then <span class="js-maths">\pd R / {\pd\phi}</span> vanishes unconditionally, and we have
+</p>
 <div class="js-maths">\begin{aligned}
   (1 - \beta^2)^2 &amp;= \beta^2 (\beta^2 + C) \\
   \beta &amp;= \frac{1}{\sqrt{C + 2}},
 \end{aligned}
 </div>
+<p>
 which indeed corresponds to the positive maximum range, which is
+</p>
 <div class="js-maths">\begin{aligned}
   R
   &amp;=
@@ -233,7 +188,7 @@ which indeed corresponds to the positive maximum range, which is
 </div>
 </li>
 </ol>
-<h2 id="result"><a class="permalink" href="#result" aria-label="Permalink"></a>Result</h2>
+<h2 id="result"><a href="#result" class="permalink" aria-label="Permalink"></a>Result</h2>
 <p>
 Hence the <b>optimal launch angle</b> for a projectile
 launched at speed <span class="js-maths">u</span> from height <span class="js-maths">h</span>
@@ -250,7 +205,8 @@ achieving a <b>maximum range</b> of
 In particular:
 </p>
 <ul>
-<li>For <span class="js-maths">h = 0</span>, we recover
+<li>
+For <span class="js-maths">h = 0</span>, we recover
 <span class="js-maths">\phi = \sin^{-1} (1/\sqrt{2}) = 45\degree</span> and <span class="js-maths">R = u^2 / g</span>,
 which are the optimal angle and maximum range
 respectively for a projectile launched from ground level.
@@ -261,7 +217,8 @@ and
 <div class="js-maths">R \asy \frac{u^2}{g} + h.
 </div>
 </li>
-<li>For <span class="js-maths">h = \infty</span>, the optimal angle is
+<li>
+For <span class="js-maths">h = \infty</span>, the optimal angle is
 <span class="js-maths">\phi = \sin^{-1} (1 / \sqrt{\infty}) = 0</span>
 and the maximum range is
 <span class="js-maths">R = u^2 / g \cdot \sqrt{\infty} = \infty</span>.
@@ -276,23 +233,45 @@ and
 </li>
 </ul>
 <p>
-Finally note that the optimal angle depends only on
+Finally, note that the optimal angle depends only on
 the dimensionless ratio <span class="js-maths">C = 2 g h / u^2</span>.
 In fact this may be shown using dimensional analysis
 without actually having to solve the problem;
 the only parameters are <span class="js-maths">u</span>, <span class="js-maths">g</span>, and <span class="js-maths">h</span>,
 so the only dimensionless group (up to a power) is <span class="js-maths">g h / u^2</span>.
 </p>
-<h2 id="cite"><a class="permalink" href="#cite" aria-label="Permalink"></a>Cite this page</h2>
+<h2 id="see-also"><a href="#see-also" class="permalink" aria-label="Permalink"></a>See also</h2>
+<ul>
+<li>
+<a href="/math/projectile-weak-drag">Projectile motion: optimal launch angle for weak quadratic drag</a>
+</li>
+</ul>
+<h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
 <p>
-Conway&nbsp;(2021).
+Conway (2022).
 Projectile motion: optimal launch angle from a platform.
-&lt;https://yawnoc.github.io/math/projectile-platform&gt;
-Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
+&lt;<a href="https://yawnoc.github.io/math/projectile-platform">https://yawnoc.github.io/math/projectile-platform</a>&gt;
+Accessed <span class="js-date">yyyy-mm-dd</span>.
 </p>
-<script>document.addEventListener("DOMContentLoaded",function(){renderDate()})</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {renderDate()})
+</script>
 <footer>
-©&nbsp;2019–2021&nbsp;Conway.
+© 2019–2022 Conway.
+<p>
+For the original manuscript of this page, see <a href="https://github.com/yawnoc/yawnoc.github.io-archive-1/blob/d3cea8ac79fa/manuscripts/platform.pdf"><code>platform.pdf</code></a>.
+</p>
+<ul>
+<li>
+First created: 2019-04-13
+</li>
+<li>
+Last modified: 2022-xx-xx
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/cmdv4/math/projectile-platform.cmd"><code>math/projectile-platform.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.4.0">CMDv4.4.0</a>
+</li>
+</ul>
 </footer>
 </body>
 </html>

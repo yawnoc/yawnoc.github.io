@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -4.5 7.5 5.5">
+
+<style>
+line, path {
+  stroke: black;
+  stroke-width: 0.28%; /* 1px/360px */
+}
+text {
+  font-family: serif;
+  font-size: 0.45px;
+  text-anchor: middle;
+}
+.variable {
+  font-style: italic;
+}
+</style>
+
+<defs>
+  <marker
+    id="arrowhead" viewBox="0 -0.15 0.5 0.3"
+    refX="0.5" refY="0"
+    markerUnits="userSpaceOnUse"
+    markerWidth="0.5" markerHeight="0.15"
+    orient="auto-start-reverse">
+    <path d="M 0, -0.15 L 0, 0.15 L 0.5, 0 z"/>
+  </marker>
+</defs>
+
+<line x1="0" y1="0" x2="5.5" y2="0"/>
+<text x="5.5" y="0" dx="0.85em" dy="0.3em" class="variable">x</text>
+
+<line x1="0" y1="0" x2="0" y2="-3.5"/>
+<text x="0" y="-3.5" dy="-0.7em" class="variable">y</text>
+
+<line x1="-0.2" y1="-2" x2="0.7" y2="-2"/>
+<line x1="-0.2" y1="-2" x2="0.7" y2="-2"/>
+<text x="-0.25" y="-2" dx="-0.7em" dy="0.3em" class="variable">h</text>
+
+<line x1="0" y1="-2" x2="1" y2="-3.6" marker-end = "url(#arrowhead)"/>
+<text x="1" y="-3.6" dx="0.5em" dy="-0.2em" class="variable">u</text>
+<text x="0" y="-2" dx="1.2em" dy="-0.4em" class="variable">ϕ</text>
+
+<path d="M 0,-2 Q 2.5,-6 5,0" fill="none"/> <!-- (trajectory) -->
+
+<text x="5" y="0" dy="1.2em" class="variable">R</text>
+
+</svg>

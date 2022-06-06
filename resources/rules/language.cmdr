@@ -1,0 +1,38 @@
+RegexDictionaryReplacement: #.language.chinese-lang
+- queue_position: BEFORE #.yawnoc.spans
+* [.] (?P<chinese_run> [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+ )
+    -->
+  ::{lang=zh-Hant} \g<chinese_run>::
+#
+# Here we have a pretty liberal definition of "Chinese".
+# See <https://en.wiktionary.org/wiki/Appendix:Unicode>
+# and <https://en.wikipedia.org/wiki/Template:CJK_ideographs_in_Unicode>.
+#
+# [⺀-〿]
+# - U+2E80 through U+2EFF (CJK Radicals Supplement)
+# - U+2F00 through U+2FDF (Kangxi Radicals)
+# - U+2FF0 through U+2FFF (Ideographic Description Characters)
+# - U+3000 through U+303F (CJK Symbols and Punctuation)
+#
+# [㇀-㇣]
+# - U+31C0 through U+31EF (CJK Strokes)
+#
+# [㐀-鿼]
+# - U+3400 through U+4DBF (CJK Unified Ideographs Extension A)
+# - U+4DC0 through U+4DFF (Yijing Hexagram Symbols)
+# - U+4E00 through U+9FFF (CJK Unified Ideographs)
+#
+# [豈-龎]
+# - U+F900 through U+FAFF (CJK Compatibility Ideographs)
+#
+# [！-｠]
+# - U+FF00 through U+FFEF (Halfwidth and Fullwidth Forms)
+#
+# [𠀀-𱍊]
+# - U+20000 through U+2A6DF (CJK Unified Ideographs Extension B)
+# - U+2A700 through U+2B73F (CJK Unified Ideographs Extension C)
+# - U+2B740 through U+2B81F (CJK Unified Ideographs Extension D)
+# - U+2B820 through U+2CEAF (CJK Unified Ideographs Extension E)
+# - U+2CEB0 through U+2EBEF (CJK Unified Ideographs Extension F)
+# - U+2F800 through U+2FA1F (CJK Compatibility Ideographs Supplement)
+# - U+30000 through U+3134F (CJK Unified Ideographs Extension G)

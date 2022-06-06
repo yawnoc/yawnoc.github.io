@@ -1,0 +1,415 @@
+:root{
+  --body-padding-horizontal: 1rem;
+  --guest-colour: maroon;
+  --host-colour: darkblue;
+  --html-max-width: 44rem;
+  --interview-image-margin-horizontal: 0.75em;
+  --katex-clearance-top: 0.5em;
+  --katex-clearance-bottom: 0.25em;
+  --katex-font-size: 1.17em; /* default 1.21em is too big */
+}
+
+
+@font-face {
+  font-display: swap;
+  font-family: 'Comic_Neue';
+  src:
+    url('/resources/fonts/ComicNeue-Regular.woff2') format('woff2'),
+    url('/resources/fonts/ComicNeue-Regular.woff') format('woff'),
+    url('/resources/fonts/ComicNeue-Regular.ttf') format('truetype');
+}
+
+
+a:not([href]) { /* placeholder links */
+  color: #545454;
+}
+a[href^="http"]:not(
+  [href^="https://github.com/yawnoc/yawnoc.github.io"]
+):not(
+  [href^="https://yawnoc.github.io/"]
+)
+{
+  background-image: url(/resources/styles/external-link.svg);
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 0.6em;
+  padding-right: 0.67em;
+}
+nav > ul > li > a {
+  font-weight: bold;
+}
+
+
+blockquote {
+  background: #ffffce;
+  border-left: 3px solid grey;
+  clear: both;
+  display: flow-root;
+  padding: 0.6em 0.7em;
+}
+
+
+body {
+  background: white;
+  font-family: sans-serif;
+  line-height: 1.4;
+  margin: 0;
+  overflow-wrap: break-word;
+    /* allow breaking of long URLs */
+  padding: 2rem var(--body-padding-horizontal) 0.7rem;
+    /* leave room at top for header navigation bar */
+}
+
+
+:not(pre) > code {
+  border: 1px solid lightgrey;
+  padding: 0.15em;
+}
+
+
+footer {
+  border-top: 2px solid black;
+  font-size: 0.9rem;
+  margin-top: 1.5em;
+  padding-top: 0.5em;
+}
+
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+body > header {
+  margin-left: calc(-1 * var(--body-padding-horizontal));
+  max-width: var(--html-max-width);
+  z-index: 1; /* cover equations */
+}
+
+
+i > em {
+  text-decoration: underline;
+}
+
+
+h1 {
+  font-size: 1.7rem;
+  margin: 0.75em auto;
+}
+
+
+h2 {
+  font-size: 1.4rem;
+  margin-top: 1.5em;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+}
+
+
+html {
+  background: #cde;
+  margin: 0 auto;
+  max-width: var(--html-max-width);
+  scroll-padding-top: 3rem;
+    /* header navigation bar clearance */
+}
+
+
+img {
+  align-self: center;
+  max-width: 100%;
+  height: auto;
+}
+
+
+li {
+  margin-bottom: 0.5em;
+}
+footer > ul > li {
+  margin-bottom: 0;
+}
+nav > ul > li {
+  margin: 0.33em 0.66em;
+}
+
+
+nav {
+  background: #ffffcc;
+  border: 1px solid black;
+  margin: 1em 0.5em;
+}
+header > nav {
+  background: #ffff66;
+  border: none;
+  border-bottom: 1px solid black;
+  margin: 0;
+}
+
+
+ol {
+  padding-left: 2em;
+}
+li > ol {
+  margin: 0.4em 0 0.45em;
+}
+
+
+footer > p {
+  margin: 0.4em 0;
+}
+.interview > img + p {
+  margin-top: 0.3em;
+  padding-top: 0.7em;
+}
+.translation-annotations > li > p {
+  margin: 0.3em 0;
+}
+
+
+pre {
+  border: 1px solid grey;
+  overflow-x: auto;
+  padding: 0.5em;
+}
+
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+
+th {
+  background-color: #ececec;
+}
+
+
+th, td {
+  border: 1px solid black;
+  padding: 0.4em;
+}
+
+
+ul {
+  padding-left: 2em;
+}
+li > ul {
+  margin: 0.4em 0 0.45em;
+}
+footer > ul {
+  margin: 0.4em 0;
+}
+nav > ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+header > nav > ul {
+  flex-wrap: nowrap;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+
+.alternative-marker {
+  color: #444;
+  font-family: Palatino, Georgia, serif;
+}
+
+
+.centred {
+  display: flex;
+  justify-content: center;
+  margin: 1em 0;
+}
+.source-text > .centred, .destination-text > .centred {
+  margin: 0.3em 0;
+}
+
+
+.colour-r {
+  color: crimson;
+}
+
+.colour-g {
+  color: green;
+}
+
+.colour-b {
+  color: mediumblue;
+}
+
+.colour-v {
+  color: darkviolet;
+}
+
+
+.destination-text {
+  border-top: 1px solid black;
+  margin-top: 0.3em;
+  padding-top: 0.3em;
+}
+
+
+.group {
+  margin: 2em 0;
+}
+
+.group + .group {
+  margin-top: 3em;
+}
+
+
+.end {
+  clear: both;
+  font-size: x-large;
+  margin-top: 0.5em;
+}
+
+
+.example, .important, .parallel-text {
+  border: 2px solid black;
+  font-size: large;
+  margin: 0.7em;
+  padding: 0.4em 0.5em;
+}
+
+
+.important {
+  font-size: medium;
+}
+
+
+.interview {
+  font-size: large;
+  display: flow-root;
+  margin: 0.5em auto 1em;
+  max-width: 32rem;
+}
+
+
+.interview-guest {
+  color: var(--guest-colour);
+}
+img.interview-guest {
+  border-color: var(--guest-colour);
+  float: right;
+  margin-left: var(--interview-image-margin-horizontal);
+}
+p.interview-guest {
+  clear: left;
+}
+
+
+.interview-host {
+  color: var(--host-colour);
+}
+img.interview-host {
+  border-color: var(--host-colour);
+  float: left;
+  margin-right: var(--interview-image-margin-horizontal);
+}
+p.interview-host {
+  clear: right;
+}
+
+
+img.interview-guest, img.interview-host {
+  border: 5px solid;
+  clear: both;
+  display: block;
+  margin-bottom: 0.25em;
+  max-width: 30%;
+}
+
+
+.js-maths { /* noscript equations fallback */
+  font-family: monospace;
+}
+div.js-maths {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 0 1em;
+  white-space: pre;
+}
+
+
+.js-maths > .katex {
+  font-size: var(--katex-font-size);
+}
+.katex-display > .katex {
+  font-size: var(--katex-font-size);
+  /* overflow with horizontal scrolling */
+  overflow-x: auto;
+  overflow-y: hidden;
+  /* prevent vertical clipping */
+  margin-top: calc(-1 * var(--katex-clearance-top));
+  padding-top: var(--katex-clearance-top);
+  margin-bottom: calc(-1 * var(--katex-clearance-bottom));
+  padding-bottom: var(--katex-clearance-bottom);
+}
+
+
+.marker {
+  text-align: center;
+}
+
+
+.noscript {
+  color: crimson;
+}
+
+
+.translation-annotations > li > .parallel-text {
+  font-size: medium;
+}
+
+
+.permalink {
+  background-image: url(/resources/styles/permalink.svg);
+  background-position: center left;
+  background-repeat: no-repeat;
+  background-size: 1em;
+  padding-left: 1.5em;
+}
+h2 > .permalink {
+  background-image: url(/yawnoc.svg);
+  background-size: 1.2em;
+  padding-left: 1.65em;
+}
+
+
+.romanised-untranslated {
+  text-decoration: underline 0.1em dotted;
+}
+
+
+.start {
+  margin-bottom: 1.3em;
+}
+
+
+.thought {
+  border: 2px dotted #ec00ce;
+  border-radius: 0.5em;
+  font-family: 'Comic_Neue', sans-serif;
+  padding: 0.1em 0.2em;
+}
+p.thought {
+  padding: 0.7em;
+}
+
+
+.translator-supplied {
+  color: #595959;
+}
+
+
+.wide {
+  overflow-x: auto;
+}

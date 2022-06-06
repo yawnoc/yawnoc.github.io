@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="author" content="Conway">
+<meta name="description" content="Conway's half-board variant of Chinese Chess.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -11,54 +12,54 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/resources/styles/main.min.css">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 <script defer src="/resources/scripts/rendering.min.js"></script>
 <title>Crowded Xiangqi | Conway's site</title>
-<style>.piece-letter {
-font-weight: bold;
-}</style>
 </head>
 <body>
 <header>
 <nav>
 <ul>
-<li><a href="/" title="Home page">Home</a>
+<li>
+<a href="/" title="Home page">Home</a>
 </li>
-<li><a href="#" title="Jump back to top">Top</a>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
 </li>
-<li><a href="#cite" title="Cite this page">Cite</a>
+<li>
+<a href="#cite" title="Cite this page">Cite</a>
 </li>
 </ul>
 </nav>
 </header>
 <h1>Crowded Xiangqi</h1>
-<div class="page-properties">
-Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/crowded-xiangqi.cmd">crowded-xiangqi.cmd</a><br>
-First created: 2020-09-06<br>
-Last modified: 2020-09-06
-</div>
 <p>
 <b>Crowded Xiangqi</b> (<span lang="zh-Hant">擠迫棋</span>) is a variant of <a href="https://en.wikipedia.org/wiki/Xiangqi">Chinese Chess</a> which I invented
 after all of my cheap magnetic boards broke in half.
 It is played using the standard 32-piece set on half the board
 (a grid of 5 × 9 intersections).
 </p>
-<div class="centred-block">
-<img alt="Starting position for Crowded Xiangqi." width="360" src="crowded-xiangqi.png">
+<div class="centred">
+<img alt="Starting position for Crowded Xiangqi." src="crowded-xiangqi.png" width="360">
 </div>
-<h2 id="specs"><a class="permalink" href="#specs" aria-label="Permalink"></a>Specifications</h2>
+<h2 id="specs"><a href="#specs" class="permalink" aria-label="Permalink"></a>Specifications</h2>
 <ol>
-<li>All is as standard Chinese Chess, except the below:
+<li>
+All is as standard Chinese Chess, except the below:
 </li>
-<li>The number of ranks is reduced from ten to five.
+<li>
+The number of ranks is reduced from ten to five.
 </li>
-<li>Pawns and cannons start on the second rank.
+<li>
+Pawns and cannons start on the second rank.
 </li>
-<li>Pawns can move sideways at the second-last rank
-(i.e.&nbsp;after advancing two steps forward).
+<li>
+Pawns can move sideways at the second-last rank
+(i.e. after advancing two steps forward).
 </li>
-<li>Generals can fly horizontally
-(i.e.&nbsp;the two generals cannot simultaneously be in the central rank,
+<li>
+Generals can fly horizontally
+(i.e. the two generals cannot simultaneously be in the central rank,
 where the two palaces overlap, unless there is an intervening piece).
 </li>
 </ol>
@@ -69,27 +70,38 @@ The starting position in FEN is
 </code></pre>
 <p>
 where <code>krncabp</code> (in either case) stand for
-general (<span class="piece-letter">k</span>ing), chariot (<span class="piece-letter">r</span>ook), horse (k<span class="piece-letter">n</span>ight), <span class="piece-letter">c</span>annon,
-<span class="piece-letter">a</span>dvisor, elephant (<span class="piece-letter">b</span>ishop), and <span class="piece-letter">p</span>awn respectively.
+general (<b class="piece-letter">k</b>ing), chariot (<b class="piece-letter">r</b>ook), horse (k<b class="piece-letter">n</b>ight), <b class="piece-letter">c</b>annon,
+<b class="piece-letter">a</b>dvisor, elephant (<b class="piece-letter">b</b>ishop), and <b class="piece-letter">p</b>awn respectively.
 </p>
 <p>
-<small>
 I have not named this variant "half-board" lest it be confused
 with <a href="https://en.wikipedia.org/wiki/Banqi">Banqi (<span lang="zh-Hant">半棋</span>)</a>, which is a very different game
 where the pieces are shuffled (so there is a strong element of luck)
 and placed in the squares rather than at the intersections.
-</small>
 </p>
-<h2 id="cite"><a class="permalink" href="#cite" aria-label="Permalink"></a>Cite this page</h2>
+<h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
 <p>
-Conway&nbsp;(2020).
+Conway (2022).
 Crowded Xiangqi.
-&lt;https://yawnoc.github.io/crowded-xiangqi&gt;
-Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
+&lt;<a href="https://yawnoc.github.io/crowded-xiangqi">https://yawnoc.github.io/crowded-xiangqi</a>&gt;
+Accessed <span class="js-date">yyyy-mm-dd</span>.
 </p>
-<script>document.addEventListener("DOMContentLoaded",function(){renderDate()})</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {renderDate()})
+</script>
 <footer>
-©&nbsp;2020&nbsp;Conway.
+© 2020–2022 Conway.
+<ul>
+<li>
+First created: 2020-09-06
+</li>
+<li>
+Last modified: 2022-xx-xx
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/cmdv4/crowded-xiangqi.cmd"><code>crowded-xiangqi.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.3.1">CMDv4.3.1</a>
+</li>
+</ul>
 </footer>
 </body>
 </html>

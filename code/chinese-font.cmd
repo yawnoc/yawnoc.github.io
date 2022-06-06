@@ -1,51 +1,55 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
 
-%%
-  %title Chinese font configuration in Linux
-  %date-created 2020-10-04
-  %date-modified 2020-10-04
-  %footer-remark
-    The above `fonts.conf` is released under the
-    [MIT No Attribution (MIT-0) license][MIT-0].
-  \resources
-%%
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
+* %post-copyright-remark -->
+  "
+    --
+    The above `fonts.conf` is released under [MIT No Attribution (MIT-0)].
+    --
+    [MIT No Attribution (MIT-0)]: https://spdx.org/licenses/MIT-0
+  "
+
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %title --> Chinese font configuration in Linux
+* %date-created --> 2020-10-04
+* %date-modified --> 2022-xx-xx
+
+RegexDictionaryReplacement: #.variables
+- queue_position: BEFORE #whitespace
+* [$](?P<variable> [A-Z] ) --> <var>\g<variable></var>
 
 
-[[====
-* \header-link:home
-* \header-link:top
-====]]
+%%%
 
 
-# %title #
+^^^^
+- !home
+- !top
+^^^^
 
-[||||
-||||]
 
+# %title
 
-----
+--
 The easiest way to set preferred Chinese fonts in Linux
 is through `<prefer>` in the font configuration file
 `~/.config/fontconfig/fonts.conf`.
-----
-----
-Suppose your preferred English and Chinese fonts are \E and \C.
+--
+--
+Suppose your preferred English and Chinese fonts are $E and $C.
 For each family (serif, sans-serif, monospace)
-simply use a `<prefer>` element containing \E first
-(so that English does not get rendered in \C)
-and \C second.
+simply use a `<prefer>` element containing $E first
+(so that English does not get rendered in $C)
+and $C second.
 Whenever the system encounters a Chinese character
-(for which \E has no glyph),
-it will immediately fall back onto \C as desired:
-----
+(for which $E has no glyph),
+it will immediately fall back onto $C as desired:
+--
 
-{%
-  \\(E|C)
-%
-  <var>\1</var>
-%}
-
-````
+``
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 <fontconfig>
@@ -74,6 +78,6 @@ it will immediately fall back onto \C as desired:
     </prefer>
   </alias>
 </fontconfig>
-````
+``
 
-%footer-element
+%%footer

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -49 27 21">
+
+<style>
+line, polyline {
+  stroke: black;
+  stroke-width: 0.21%; /* 1px/480px */
+}
+polyline {
+  fill: none;
+}
+text {
+  font-family: serif;
+  font-size: 1px;
+  text-anchor: middle;
+}
+.variable {
+  font-style: italic;
+}
+</style>
+
+<defs>
+  <marker id="x-tick-coarse" viewBox="-0.1 0 0.2 0.4"
+    markerUnits="userSpaceOnUse"
+    refX="0" refY="0" markerWidth="0.2" markerHeight="0.4">
+    <line x1="0" y1="0" x2="0" y2="0.4"/>
+  </marker>
+  <marker id="x-tick-fine" viewBox="-0.1 0 0.2 0.25"
+    markerUnits="userSpaceOnUse"
+    refX="0" refY="0" markerWidth="0.2" markerHeight="0.25">
+    <line x1="0" y1="0" x2="0" y2="0.25"/>
+  </marker>
+  <marker id="y-tick-coarse" viewBox="-0.4 -0.1 0.4 0.2"
+    markerUnits="userSpaceOnUse"
+    refX="0" refY="0" markerWidth="0.4" markerHeight="0.2">
+    <line x1="-0.4" y1="0" x2="0" y2="0"/>
+  </marker>
+  <marker id="y-tick-fine" viewBox="-0.25 -0.1 0.25 0.2"
+    markerUnits="userSpaceOnUse"
+    refX="0" refY="0" markerWidth="0.25" markerHeight="0.2">
+    <line x1="-0.25" y1="0" x2="0" y2="0"/>
+  </marker>
+</defs>
+
+<line x1="0" y1="-30" x2="20.5" y2="-30"/>
+<text x="20.5" y="-30" dx="1.5em" dy="0.3em" class="variable">u / c</text>
+<polyline class="points" points="0,-30 5,-30 10,-30 15,-30 20,-30"
+  marker-start="url(#x-tick-coarse)"
+  marker-mid="url(#x-tick-coarse)"
+  marker-end="url(#x-tick-coarse)"
+/>
+<text x="0" y="-30" dy="1.5em">0</text>
+<text x="5" y="-30" dy="1.5em">1</text>
+<text x="10" y="-30" dy="1.5em">2</text>
+<text x="15" y="-30" dy="1.5em">3</text>
+<text x="20" y="-30" dy="1.5em">4</text>
+<polyline class="points" points="1,-30 2,-30 3,-30 4,-30 6,-30 7,-30 8,-30 9,-30 11,-30 12,-30 13,-30 14,-30 16,-30 17,-30 18,-30 19,-30"
+  marker-start="url(#x-tick-fine)"
+  marker-mid="url(#x-tick-fine)"
+  marker-end="url(#x-tick-fine)"
+/>
+
+<line x1="0" y1="-30" x2="0" y2="-46.8"/>
+<text x="0" y="-46.8" dy="-0.7em" class="variable">ϕ</text>
+<polyline class="points" points="0,-30 0,-35 0,-40 0,-45"
+  marker-start="url(#y-tick-coarse)"
+  marker-mid="url(#y-tick-coarse)"
+  marker-end="url(#y-tick-coarse)"
+/>
+<text x="0" y="-30" dx="-1.5em" dy="0.3em">30°</text>
+<text x="0" y="-35" dx="-1.5em" dy="0.3em">35°</text>
+<text x="0" y="-40" dx="-1.5em" dy="0.3em">40°</text>
+<text x="0" y="-45" dx="-1.5em" dy="0.3em">45°</text>
+<polyline class="points" points="0,-31 0,-32 0,-33 0,-34 0,-36 0,-37 0,-38 0,-39 0,-41 0,-42 0,-43 0,-44 0,-46"
+  marker-start="url(#y-tick-fine)"
+  marker-mid="url(#y-tick-fine)"
+  marker-end="url(#y-tick-fine)"
+/>
+
+<polyline points="
+0,-45
+0.5,-44.94
+1,-44.76
+1.5,-44.48
+2,-44.11
+2.5,-43.67
+3,-43.18
+3.5,-42.65
+4,-42.1
+4.5,-41.54
+5,-40.98
+5.5,-40.42
+6,-39.89
+6.5,-39.36
+7,-38.85
+7.5,-38.36
+8,-37.89
+8.5,-37.44
+9,-37.01
+9.5,-36.59
+10,-36.2
+10.5,-35.82
+11,-35.45
+11.5,-35.1
+12,-34.77
+12.5,-34.45
+13,-34.15
+13.5,-33.85
+14,-33.57
+14.5,-33.29
+15,-33.03
+15.5,-32.78
+16,-32.54
+16.5,-32.3
+17,-32.07
+17.5,-31.86
+18,-31.65
+18.5,-31.44
+19,-31.25
+19.5,-31.06
+20,-30.87
+"/>
+<text x="10" y="-36.2" dx="2.5em" dy="-0.5em">Numerical</text>
+
+<polyline points="
+0,-45
+0.25,-44.98
+0.5,-44.94
+0.75,-44.87
+1,-44.76
+1.25,-44.64
+1.5,-44.48
+1.75,-44.31
+2,-44.12
+2.25,-43.92
+2.5,-43.7
+2.75,-43.48
+3,-43.26
+3.25,-43.04
+3.5,-42.84
+3.75,-42.66
+4,-42.5
+4.25,-42.37
+4.5,-42.28
+4.75,-42.25
+5,-42.27
+5.25,-42.36
+5.5,-42.53
+5.75,-42.79
+6,-43.16
+6.25,-43.63
+6.5,-44.22
+6.75,-44.96
+7,-45.84
+7.25,-46.89
+"/>
+<text x="7.25" y="-46.89" dx="-3.5em" dy="0.7em">Asymptotic</text>
+
+</svg>

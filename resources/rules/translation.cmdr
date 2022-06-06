@@ -1,0 +1,60 @@
+RegexDictionaryReplacement: #.translation.partition-parallel-text
+* \A -->
+    <div class="source-text" lang="zh-Hant">\n
+* ^ [^\S\n]* \\{2} $ -->
+    </div>
+    <div class="destination-text" lang="en">
+* \Z -->
+    </div>\n
+
+
+FixedDelimitersReplacement: #.translation.parallel-text
+- queue_position: BEFORE #divisions
+- syntax_type: BLOCK
+- opening_delimiter: <<
+- attribute_specifications: .translation .parallel-text
+- content_replacements:
+    #.translation.partition-parallel-text
+    #prepend-newline
+- closing_delimiter: >>
+- tag_name: div
+
+
+RegexDictionaryReplacement: #.translation.square-bracket-wrap
+* \A --> [
+* \Z --> ]
+
+
+RegexDictionaryReplacement: #.translation.romanised-untranslated
+- queue_position: BEFORE #.yawnoc.spans
+* \(
+    (?P<romanisation> [^\n()]*? )
+  [|]
+    (?P<chinese> [\S]+ )
+  \)
+    -->
+  ::{.romanised-untranslated title=\g<chinese>} \g<romanisation>::
+
+
+FixedDelimitersReplacement: #.translation.translator-supplied
+- queue_position: BEFORE #specified-images
+- syntax_type: INLINE
+- opening_delimiter: .[
+- attribute_specifications: .translator-supplied
+- prohibited_content: BLOCKS
+- content_replacements: #.translation.square-bracket-wrap
+- closing_delimiter: ]
+- tag_name: span
+- concluding_replacements:
+    #.translation.romanised-untranslated
+    #.yawnoc.spans
+    #placeholder-protect
+
+
+OrdinaryDictionaryReplacement: #.translation.alternative-markers
+- queue_position: BEFORE #.yawnoc.spans
+* \or --> ::{.alternative-marker} or::
+* \int --> ::{.alternative-marker title="interchangeable with"} int.::
+* \lit --> ::{.alternative-marker title="literally"} lit.::
+* \met --> ::{.alternative-marker title="metaphorically rendered"} met.::
+* \var --> ::{.alternative-marker title="variant of"} var.::

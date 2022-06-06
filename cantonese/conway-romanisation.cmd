@@ -1,1614 +1,1621 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/romanisation.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title Conway's Romanisation for Cantonese
-  %date-created 2019-04-07
-  %date-modified 2022-03-05
-  \resources:rendering
-  %description
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+- apply_mode: SEQUENTIAL
+* %cite-title --> %title
+* %title --> Conway's Romanisation for Cantonese
+* %description -->
     Conway's Romanisation for Cantonese, \
     with English approximations and a diagram of the nine tones.
-  %css a~~
-    .alternatives-separator {
-      font-weight: bold;
-      margin-left: 1em;
+* %date-created --> 2019-04-07
+* %date-modified --> 2022-xx-xx
+* %styles -->
+    .vertical-rtl {
+      writing-mode: vertical-rl;
     }
-    .approximation-part,
-    .conway-romanisation,
-    .tone {
-      color: var(--colour-v);
-      font-weight: bold;
-    }
-    .wrong {
-      color: var(--colour-r);
-    }
-    .example {
-      border: 2px solid black;
-      font-size: large;
-      padding: 0.3em 0.4em;
-    }
-  ~~
-%%
+- concluding_replacements:
+    #backslash-continuations
+
+%%%
 
 
-[[====
-* \header-link:home
-* \header-link:top
-* [Tables](#tables Compact reference tables)
-* [Examples](#examples Examples)
-* \header-link:cite
-====]]
+^^^^
+- !home
+- !top
+- [Tables](#tables "Jump to compact reference tables")
+- [Examples](#examples "Jump to examples")
+- !cite
+^^^^
 
 
-# %title #
+# %title
 
 
-[||||
-See also:
-  [\[Python\] Cantonese Diceware (GitHub)](
-    https://github.com/yawnoc/cantonese-diceware
-  )
-||||]
+::::
+- [Initials](#initials)
+- [ts~vs~ch](#ts-vs-ch)
+- [Finals](#finals)
+- [Tones](#tones)
+- [Compact tables](#tables)
+- [Examples](#examples)
+::::
 
-[====
-* [Initials](#initials)
-* [{ts~vs~ch}](#ts-vs-ch)
-* [Finals](#finals)
-* [Tones](#tones)
-* [Compact tables](#tables)
-* [Examples](#examples)
-====]
-
-
-----
+--
 This is my custom romanisation system for Cantonese,
 as spoken and perceived by me.
-----
+--
+--
+Features Wade--Giles-style pre-merger initials and length-indicative finals.
+--
 
 
-<## Conway romanisation / tone [. .] ##>
-{%
-  \[ [.]
-  (?P<tone> [1-9] )
-  [.] \]
-%
-  <span class="tone">\g<tone></span>
-%}
-{%
-  \[ [.]
-  (?P<content> [\S]*? )
-  [.] \]
-%
-  <span class="conway-romanisation">\g<content></span>
-%}
+##{#initials} Initials (.聲)
 
-<## Approximation parts [: :] ##>
-{%
-  \[ [:]
-  (?P<content> [\S]*? )
-  [:] \]
-%
-  <span class="approximation-part">\g<content></span>
-%}
+::::
+- [p p' m f](#labial)
+- [t t' n l](#plain-dental-alveolar)
+- [k k' ng h kw k'w w](#velar-glottal)
+- [ts ch ts' ch' s sh y](#sibilant-palatal)
+::::
 
 
-##{#initials}
-  Initials (聲)
-##
+###{#labial} Labial
 
-[====
-* [(p p' m f)](#labial)
-* [(t t' n l)](#plain-dental-alveolar)
-* [(k k' ng h kw k'w w)](#velar-glottal)
-* [(ts ch ts' ch' s sh y)](#sibilant-palatal)
-====]
-
-
-<## Header rows for tables ##>
-{%
-  \\header[-]row
-  \[
-    (?P<type> initials | finals )
-  \]
-%
-  |^
-    ==
-      ; \\heading-cell[\g<type>]
-      ; IPA
-      ; Conway
-      ; Jyutping
-      ; Yale
-      ; S.~Lau
-      ; Conway's approximation
-  |:
-%}
-{: \heading-cell[initials] : Initials (聲) :}
-{: \heading-cell[finals] : Finals (韻) :}
-
-
-###{#labial}
-  Labial
-###
-
-||||{.overflowing}
-''''
-  \header-row[initials]
-  ==
-    , 巴
+||||{.wide}
+''
+|^
+  //
+    ; Initial (.聲)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 巴
     , [p]
-    , [.p.]
+    , __p__
     , b
     , b
     , b
-    , [[:p:] as in s[:p:]y]
-  ==
-    , 怕
+    , [__p__ as in s__p__y]
+  //
+    ,{l=zh-Hant} 怕
     , [pʰ]
-    , [.p'.]
+    , __p'__
     , p
     , p
     , p
-    , [[:p:] as in [:p:]ie]
-  ==
-    , 媽
+    , [__p__ as in __p__ie]
+  //
+    ,{l=zh-Hant} 媽
     , [m]
-    , [.m.]
+    , __m__
     , m
     , m
     , m
-    , [[:m:] as in [:m:]y]
-  ==
-    , 花
+    , [__m__ as in __m__y]
+  //
+    ,{l=zh-Hant} 花
     , [f]
-    , [.f.]
+    , __f__
     , f
     , f
     , f
-    , [[:f:] as in [:f:]ee]
-''''
+    , [__f__ as in __f__ee]
+''
 ||||
 
 
-###{#plain-dental-alveolar}
-  Plain dental/alveolar
-###
+###{#plain-dental-alveolar} Plain dental/alveolar
 
-||||{.overflowing}
-''''
-  \header-row[initials]
-  ==
-    , 打
+||||{.wide}
+''
+|^
+  //
+    ; Initial (.聲)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 打
     , [t]
-    , [.t.]
+    , __t__
     , d
     , d
     , d
-    , [[:t:] as in s[:t:]y]
-  ==
-    , 他
+    , [__t__ as in s__t__y]
+  //
+    ,{l=zh-Hant} 他
     , [tʰ]
-    , [.t'.]
+    , __t'__
     , t
     , t
     , t
-    , [[:t:] as in [:t:]ie], in Received Pronunciation
-  ==
-    , 那
+    , [__t__ as in __t__ie], in Received Pronunciation
+  //
+    ,{l=zh-Hant} 那
     , [n]
-    , [.n.]
+    , __n__
     , n
     , n
     , n
-    , [[:n:] as in [:n:]igh]
-  ==
-    , 啦
+    , [__n__ as in __n__igh]
+  //
+    ,{l=zh-Hant} 啦
     , [l]
-    , [.l.]
+    , __l__
     , l
     , l
     , l
-    , [[:l:] as in [:l:]ie]
-''''
+    , [__l__ as in __l__ie]
+''
 ||||
 
 
-###{#velar-glottal}
-  Velar and glottal
-###
+###{#velar-glottal} Velar and glottal
 
-||||{.overflowing}
-''''
-  \header-row[initials]
-  ==
-    , 家
+||||{.wide}
+''
+|^
+  //
+    ; Initial (.聲)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 家
     , [k]
-    , [.k.]
+    , __k__
     , g
     , g
     , g
-    , [[:k:] as in s[:k:]y]
-  ==
-    , 卡
+    , [__k__ as in s__k__y]
+  //
+    ,{l=zh-Hant} 卡
     , [kʰ]
-    , [.k'.]
+    , __k'__
     , k
     , k
     , k
-    , [[:k:] as in [:k:]ey]
-  ==
-    , 牙
+    , [__k__ as in __k__ey]
+  //
+    ,{l=zh-Hant} 牙
     , [ŋ]
-    , [.ng.]
+    , __ng__
     , ng
     , ng
     , ng
-    , [[:ng:] as in si[:ng:]er]
-  ==
-    , 蝦
+    , [__ng__ as in si__ng__er]
+  //
+    ,{l=zh-Hant} 蝦
     , [h]
-    , [.h.]
+    , __h__
     , h
     , h
     , h
-    , [[:h:] as in [:h:]e]
-  ==
-    , 瓜
+    , [__h__ as in __h__e]
+  //
+    ,{l=zh-Hant} 瓜
     , [kʷ]
-    , [.kw.]
+    , __kw__
     , gw
     , gw
     , gw
-    , [[:qu:] as in s[:qu:]eeze]
-  ==
-    , 誇
+    , [__qu__ as in s__qu__eeze]
+  //
+    ,{l=zh-Hant} 誇
     , [kʷʰ]
-    , [.k'w.]
+    , __k'w__
     , kw
     , kw
     , kw
-    , [[:qu:] as in [:qu:]een]
-  ==
-    , 華
+    , [__qu__ as in __qu__een]
+  //
+    ,{l=zh-Hant} 華
     , [w]
-    , [.w.]
+    , __w__
     , w
     , w
     , w
-    , [[:w:] as in [:w:]e]
-''''
+    , [__w__ as in __w__e]
+''
 ||||
 
 
-###{#sibilant-palatal}
-  Sibilant dental/alveolar and palatal
-###
+###{#sibilant-palatal} Sibilant dental/alveolar and palatal
 
-||||{.overflowing}
-''''
-  \header-row[initials]
-  ==
-    , 將
+||||{.wide}
+''
+|^
+  //
+    ; Initial (.聲)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 將
     , [ts]
-    , [.ts.]
+    , __ts__
     ,{r2} z
     ,{r2} j
     ,{r2} j
-    , [[:ts:] as in lis[:ts:]]
-  ==
-    , 張
+    , [__ts__ as in lis__ts__]
+  //
+    ,{l=zh-Hant} 張
     , [tɕ]
-    , [.ch.]
+    , __ch__
     ,
-      halfway between [[:ts:] as in lis[:ts:]]
-      and [[:t:] as in s[:t:]upid],
+      halfway between [__ts__ as in lis__ts__]
+      and [__t__ as in s__t__upid],
       with the latter in a sufficiently broad Australian accent
-      for which the T is sounded like [[:ch:] as in [:ch:]ew]
-  ==
-    , 槍
+      for which the T is sounded like [__ch__ as in __ch__ew]
+  //
+    ,{l=zh-Hant} 槍
     , [tsʰ]
-    , [.ts'.]
+    , __ts'__
     ,{r2} c
     ,{r2} ch
     ,{r2} ch
-    , [[:ts:] as in hi[:ts:]]
-  ==
-    , 昌
+    , [__ts__ as in hi__ts__]
+  //
+    ,{l=zh-Hant} 昌
     , [tɕʰ]
-    , [.ch'.]
+    , __ch'__
     ,
-      halfway between [[:ts:] as in hi[:ts:]]
-      and [[:ch:] as in hit[:ch:]]
-  ==
-    , 相
+      halfway between [__ts__ as in hi__ts__]
+      and [__ch__ as in hit__ch__]
+  //
+    ,{l=zh-Hant} 相
     , [s]
-    , [.s.]
+    , __s__
     ,{r2} s
     ,{r2} s
     ,{r2} s
-    , [[:s:] as in [:s:]igh]
-  ==
-    , 傷
+    , [__s__ as in __s__igh]
+  //
+    ,{l=zh-Hant} 傷
     , [ɕ]
-    , [.sh.]
+    , __sh__
     ,
-      halfway between [[:s:] as in [:s:]igh]
-      and [[:sh:] as in [:sh:]y]
-  ==
-    , 也
+      halfway between [__s__ as in __s__igh]
+      and [__sh__ as in __sh__y]
+  //
+    ,{l=zh-Hant} 也
     , [j]
-    , [.y.]
+    , __y__
     , j
     , y
     , y
-    , [[:y:] as in [:y:]e]
-''''
+    , [__y__ as in __y__e]
+''
 ||||
 
 
-####{#ts-vs-ch}
-  {[^ts] vs [^ch]}, {[^ts'] vs [^ch']}, and {[^s] vs [^sh]}
-####
+####{#ts-vs-ch} __ts__~vs~__ch__, __ts'__~vs~__ch'__, and __s__~vs~__sh__
 
-----
-  Modern Cantonese has merged the initials in the pairs
-    {將~[^ts](oe)ng vs 張~[^ch](oe)ng},
-    {槍~[^ts'](oe)ng vs 昌~[^ch'](oe)ng}, and
-    {相~[^s](oe)ng vs 傷~[^sh](oe)ng}.
-  As noted by [Samuel Wells Williams]
-  in [《英華分韻撮要》][wells-tonic-dictionary] (1856, or 咸豐丙辰年):
-----
-""""
+--
+Modern Cantonese has merged the initials in the following pairs:
+--
+==
+- .將~__ts__(oe)ng vs .張~__ch__(oe)ng
+- .槍~__ts'__(oe)ng vs .昌~__ch'__(oe)ng
+- .相~__s__(oe)ng vs .傷~__sh__(oe)ng
+==
+--
+As noted by [Samuel Wells Williams] in [.《英華分韻撮要》]
+published in 1856 (.咸豐丙辰年):
+--
+""
   The initials _ch_ and _ts_ are constantly confounded,
   and some persons are absolutely unable to detect the difference,
   more frequently calling the words under _ts_ as _ch_, than contrawise.
-""""
+""
 
-@@[Samuel Wells Williams]
-  https://en.wikipedia.org/wiki/Samuel_Wells_Williams
-@@
-@@[wells-tonic-dictionary]
-  https://archive.org/details/tonicdictionaryo00will/page/n25/mode/1up
-@@
-
-----
-The pre-merger distinctions are remnant only in most romanisations
-of district names in Hong Kong, e.g.
-----
-====
-* {[^ts]~vs~[^ch]}:
-  將軍澳 ([^Ts]eung Kwan O) and 荔枝角 (Lai [^Ch]i Kok),
-
-* {[^ts']~vs~[^ch']}:
-  荃灣 ([^Ts]uen Wan) and 東涌 (Tung [^Ch]ung), and
-
-* {[^s]~vs~[^sh]}:
-  西灣河 ([^S]ai Wan Ho) and 筲箕灣 ([^Sh]au Kei Wan).
-
-====
-----
-Not all district romanisations
-follow the pre-merger consonants correctly though,
-e.g.~灣仔 should really be Wan [^Ts]ai (not Wan [^Ch]ai),
-and 彩虹 should be [^Ts]oi Hung (not [^Ch]oi Hung).
-----
-
-----
-Now despite the merging of those pairs of initials,
-I perceive a tendency for people to favour different consonants
-of the merger depending on the vowel which follows:
-----
-
-
-||||||{.centred-block}
-||||{.overflowing}
-''''
-  ==
-    ; Following vowel
-    , [aː]
-    , [ɐ]
-    , [ɛː]
-    , [e]
-    , [iː]
-    , [ɔː]
-    , [o]
-    , [uː]
-    , [œ]
-    , [ɵ]
-    , [yː]
-  ==
-    ;{r3} Favoured post-merger initial
-    ,{.merged-cell c5} [_ts]
-    ,{.merged-cell c6} [_ch]
-  ==
-    ,{.merged-cell c5} [_ts']
-    ,{.merged-cell c6} [_ch']
-  ==
-    ,{.merged-cell c10} [_s]
-    ,{.merged-cell} [_sh]
-''''
+--
+For academic purposes
+(such as compatibility with old-school things like [.反切]),
+**I preserve the pre-merger initials in my romanisation system**,
+using the initial according to [.《分韻撮要》].
+--
+--
+Nevertheless, in non-academic daily conversation,
+I recommend using what I call _favoured post-merger initials_,
+unless you want to sound very weird.
+In two decades of personal experience,
+I have perceived a tendency for people to favour specific initials
+depending on the vowel afterwards:
+--
+||||||{.centred}
+||||{.wide}
+''
+|^
+  //
+    ; Vowel afterwards
+    ;{c=3} Favoured post-merger initials
+  //
+    , [aː] __aa__
+    ,{r=5} [ts] __ts__
+    ,{r=5} [tsʰ] __ts'__
+    ,{r=10} [s] __s__
+  //
+    , [ɐ] __a__
+  //
+    , [ɛː] __e__
+  //
+    , [e] __i__
+  //
+    , [iː] __ee__
+  //
+    , [ɔː] __or__
+    ,{r=6} [tɕ] __ch__
+    ,{r=6} [tɕʰ] __ch'__
+  //
+    , [o] __o__
+  //
+    , [uː] __oo__
+  //
+    , [œ] __(oe)__
+  //
+    , [ɵ] __\___
+  //
+    , [yː] __(u")__
+    , [ɕ] __sh__
+''
 ||||
 ||||||
 
-<## Wrong initials [! ] ##>
-{%
-  \[
-  [!]
-    (?P<content> [\S]*? )
-  \]
-%
-  <span class="wrong initial">\g<content></span>
-%}
+--
+For example, the modern speaker will prefer
+--
+==
+- [sɛːk̚] __sek__ over [ɕɛːk̚] __shek__ for .石
+- [saːŋ tɕʰɔːy] __saang ch'oi__ over [ɕaːŋ tsʰɔːy] __shaang ts'oi__ for .生菜.
+==
+--
+In my entire life, I have *never* heard anyone pronounce .書 as
+[syː] __s(u")__, which is both the wrong pre-merger initial
+and the non-favoured post-merger initial.
+Native speakers will pronounce it [ɕyː] __sh(u")__.
+Unfortunately, this subtlety is simply ignored
+by Jyutping, Yale, and Sidney Lau,
+who all assign a romanisation that corresponds to [syː].
+--
 
-----
-The {[_s]~vs~[_sh]} tendency is the strongest.
-I have *never* heard anyone pronounce 書, [^sh](u")~/~[[^ɕ]yː],
-as [!s](u")~/~[[!s]yː] (which is both wrong and not favoured),
-and yet the vast majority of people will pronounce 石, [^sh]ek~/~[[^ɕ]ɛːk̚],
-as [_s]ek~/~[[_s]ɛːk̚] (which is wrong but favoured),
-myself included.
-The {[_ts]~vs~[_ch]} and {[_ts']~vs~[_ch']} tendencies are not as strong,
-but still prevalent.
-----
-
-||||{.important}
-I have decided for historical purposes
-to preserve the pre-merger distinctions in my romanisation system,
-using the [^pre-merger initial]
-according to [《分韻撮要》](https://ytenx.org/pyonh/).
-||||
-
-||||{.important}
-However, unless you want to sound really weird,
-**I still suggest pronouncing words out loud
-using the appropriate [_favoured post-merger initial]**
-listed in the table above,
-rather than the [^pre-merger initial].
-For example, [_s]aang [_ch']oi rather than [^sh]aang [^ts']oi for 生菜.
-||||
+[Samuel Wells Williams]:
+  https://en.wikipedia.org/wiki/Samuel_Wells_Williams
+[.《英華分韻撮要》]:
+  https://archive.org/details/tonicdictionaryo00will/page/n25/mode/1up
+[.反切]:
+  https://en.wikipedia.org/wiki/Fanqie
+[.《分韻撮要》]:
+  https://ytenx.org/pyonh/
 
 
-##{#finals}
-  Finals (韻)
-##
+##{#finals} Finals (.韻)
 
-[====
-* [(aa)](#aa)
-* [(a)](#a)
-* [(e)](#e)
-* [(ee i)](#ee-i)
-* [(or o)](#or-o)
-* [(oo u)](#oo-u)
-* [((oe))](#oe)
-* [(\_)](#_)
-* [((u"))](#ue)
-* [(m ng)](#m-ng)
-====]
+::::
+- [aa](#aa)
+- [a](#a)
+- [e](#e)
+- [ee i](#ee-i)
+- [or o](#or-o)
+- [oo u](#oo-u)
+- [(oe)](#oe)
+- [\_](#_)
+- [(u")](#ue)
+- [m ng](#m-ng)
+::::
 
-----
-If typesetting of the characters [.(oe).]~`U+0153`
-and [.(u").]~`U+00FC` is inconvenient,
-you may use the ASCII-only substitutes [.oe.] and [.ue.] respectively.
-----
+--
+Where typesetting of the characters __(oe)__ `U+0153 LATIN SMALL LIGATURE OE`
+and __(u")__ `U+00FC LATIN SMALL LETTER U WITH DIAERESIS` is inconvenient,
+the ASCII-only substitutes __oe__ and __ue__ may be used instead.
+--
 
 
-<## Alternative approximation \OR ##>
-{:
-  \OR
-:
-  <div class="alternatives-separator">OR</div>
-:}
+###{#aa} [aː]
 
-
-###{#aa}
-  aː
-###
-
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 叉
+||||{.wide}
+''
+|^
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 叉
     , [aː]
-    , [.aa.]
+    , __aa__
     , aa
     , a
     , a
     ,
-      [[:ar:] as in c[:ar:]],
+      [__ar__ as in c__ar__],
       in a general Australian accent with strictly no R consonant
-  ==
-    , 釵
+  //
+    ,{l=zh-Hant} 釵
     , [aːi]
-    , [.aai.]
+    , __aai__
     , aai
     , aai
     , aai
-    , [[:y:] as in m[:y:]], in Received Pronunciation
-  ==
-    , 抄
+    , [__y__ as in m__y__], in Received Pronunciation
+  //
+    ,{l=zh-Hant} 抄
     , [aːu]
-    , [.aau.]
+    , __aau__
     , aau
     , aau
     , aau
-    , [[:ow:] as in c[:ow:]], in Received Pronunciation
-  ==
-    , 參
+    , [__ow__ as in c__ow__], in Received Pronunciation
+  //
+    ,{l=zh-Hant} 參
     , [aːm]
-    , [.aam.]
+    , __aam__
     , aam
     , aam
     , aam
     ,
-      [[:arm:] as in [:arm:]],
+      [__arm__ as in __arm__],
       in a general Australian accent with strictly no R consonant
-  ==
-    , 餐
+  //
+    ,{l=zh-Hant} 餐
     , [aːn]
-    , [.aan.]
+    , __aan__
     , aan
     , aan
     , aan
     ,
-      [[:arn:] as in b[:arn:]],
+      [__arn__ as in b__arn__],
       in a general Australian accent with strictly no R consonant
-  ==
-    , 撐
+  //
+    ,{l=zh-Hant} 撐
     , [aːŋ]
-    , [.aang.]
+    , __aang__
     , aang
     , aang
     , aang
     ,
-      [[:ar:] as in c[:ar:]],
+      [__ar__ as in c__ar__],
       in a general Australian accent with strictly no R consonant,
-      followed by [[:ng:] as in si[:ng:]]
-  ==
-    , 插
+      followed by [__ng__ as in si__ng__]
+  //
+    ,{l=zh-Hant} 插
     , [aːp̚]
-    , [.aap.]
+    , __aap__
     , aap
     , aap
     , aap
     ,
-      [[:ar:] as in c[:ar:]],
+      [__ar__ as in c__ar__],
       in a general Australian accent with strictly no R consonant,
-      followed by [[:p:] as in co[:p:]ter] with no audibly released P
-  ==
-    , 察
+      followed by [__p__ as in co__p__ter] with no audibly released P
+  //
+    ,{l=zh-Hant} 察
     , [aːt̚]
-    , [.aat.]
+    , __aat__
     , aat
     , aat
     , aat
     ,
-      [[:ar:] as in c[:ar:]],
-      in a general Australian accent with strictly no R consonant,
-      followed by [[:t:] as in a[:t:]las]
-      with no audibly released T
-        \OR
-      [[:art:] as in c[:art:]wheel] with no audibly released T,
-      in a general Australian accent with strictly no R consonant
-  ==
-    , 拆
+      ||
+        [__ar__ as in c__ar__],
+        in a general Australian accent with strictly no R consonant,
+        followed by [__t__ as in a__t__las]
+        with no audibly released T
+      ||
+        OR
+      ||
+        [__art__ as in c__art__wheel] with no audibly released T,
+        in a general Australian accent with strictly no R consonant
+      ||
+  //
+    ,{l=zh-Hant} 拆
     , [aːk̚]
-    , [.aak.]
+    , __aak__
     , aak
     , aak
     , aak
     ,
-      [[:ar:] as in c[:ar:]],
-      in a general Australian accent with strictly no R consonant,
-      followed by [[:c:] as in do[:c:]tor]
-      with no audibly released C
-        \OR
-      [[:arc:] as in [:arc:]tangent] with no audibly released C,
-      in a general Australian accent with strictly no R consonant
-''''
+      ||
+        [__ar__ as in c__ar__],
+        in a general Australian accent with strictly no R consonant,
+        followed by [__c__ as in do__c__tor]
+        with no audibly released C
+      ||
+        OR
+      ||
+        [__arc__ as in __arc__tangent] with no audibly released C,
+        in a general Australian accent with strictly no R consonant
+      ||
+''
 ||||
 
 
-###{#a}
-  ɐ
-###
+###{#a} [ɐ]
 
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 仔
+||||{.wide}
+''
+|^
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 仔
     , [ɐi]
-    , [.ai.]
+    , __ai__
     , ai
     , ai
     , ai
     ,
-      [[:ay:] as in b[:ay:]],
+      [__ay__ as in b__ay__],
       in a general, perhaps slightly broad Australian accent,
       but with shorter A
-  ==
-    , 走
+  //
+    ,{l=zh-Hant} 走
     , [ɐu]
-    , [.au.]
+    , __au__
     , au
     , au
     , au
     ,
-      [[:u:] as in c[:u:]t],
+      [__u__ as in c__u__t],
       in a general Australian accent,
-      followed by [[:u:] as in p[:u:]ll],
+      followed by [__u__ as in p__u__ll],
       in a general Australian accent
-  ==
-    , 針
+  //
+    ,{l=zh-Hant} 針
     , [ɐm]
-    , [.am.]
+    , __am__
     , am
     , am
     , am
-    , [[:um:] as in s[:um:]], in a general Australian accent
-  ==
-    , 真
+    , [__um__ as in s__um__], in a general Australian accent
+  //
+    ,{l=zh-Hant} 真
     , [ɐn]
-    , [.an.]
+    , __an__
     , an
     , an
     , an
-    , [[:un:] as in s[:un:]], in a general Australian accent
-  ==
-    , 增
+    , [__un__ as in s__un__], in a general Australian accent
+  //
+    ,{l=zh-Hant} 增
     , [ɐŋ]
-    , [.ang.]
+    , __ang__
     , ang
     , ang
     , ang
-    , [[:ung:] as in s[:ung:]], in a general Australian accent
-  ==
-    , 汁
+    , [__ung__ as in s__ung__], in a general Australian accent
+  //
+    ,{l=zh-Hant} 汁
     , [ɐp̚]
-    , [.ap.]
+    , __ap__
     , ap
     , ap
     , ap
     ,
-      [[:u:] as in c[:u:]t], in a general Australian accent,
-      followed by [[:p:] as in co[:p:]ter] with no audibly released P
-  ==
-    , 疾
+      [__u__ as in c__u__t], in a general Australian accent,
+      followed by [__p__ as in co__p__ter] with no audibly released P
+  //
+    ,{l=zh-Hant} 疾
     , [ɐt̚]
-    , [.at.]
+    , __at__
     , at
     , at
     , at
     ,
-      [[:u:] as in c[:u:]t], in a general Australian accent,
-      followed by [[:t:] as in a[:t:]las]
-      with no audibly released T
-        \OR
-      [[:ut:] as in b[:ut:]ler] with no audibly released T,
-      in a general Australian accent
-  ==
-    , 仄
+      ||
+        [__u__ as in c__u__t], in a general Australian accent,
+        followed by [__t__ as in a__t__las]
+        with no audibly released T
+      ||
+        OR
+      ||
+        [__ut__ as in b__ut__ler] with no audibly released T,
+        in a general Australian accent
+      ||
+  //
+    ,{l=zh-Hant} 仄
     , [ɐk̚]
-    , [.ak.]
+    , __ak__
     , ak
     , ak
     , ak
     ,
-      [[:u:] as in c[:u:]t], in a general Australian accent,
-      followed by [[:c:] as in do[:c:]tor] with no audibly released C
-''''
+      [__u__ as in c__u__t], in a general Australian accent,
+      followed by [__c__ as in do__c__tor] with no audibly released C
+''
 ||||
 
 
-###{#e}
-  ɛː and e
-###
+###{#e} [ɛː] and [e]
 
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 爹
+||||{.wide}
+''
+|^
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 爹
     , [ɛː]
-    , [.e.]
+    , __e__
     , e
     , e
     , e
     ,
-      [[:e:] as in y[:e:]ah],
+      [__e__ as in y__e__ah],
       in a general Australian accent, but slightly longer
-  ==
-    , 地
+  //
+    ,{l=zh-Hant} 地
     , [ei]
-    , [.ei.]
+    , __ei__
     , ei
     , ei
     , ei
     ,
-      [[:ay:] as in b[:ay:]], in Received Pronunciation,
+      [__ay__ as in b__ay__], in Received Pronunciation,
       but with shorter A and longer Y
-  ==
-    , 掉
+  //
+    ,{l=zh-Hant} 掉
     , [ɛːu]
-    , [.eu.]
+    , __eu__
     , eu
     ,
     ,
     ,
-      [[:e:] as in y[:e:]ah], in a general Australian accent,
+      [__e__ as in y__e__ah], in a general Australian accent,
       followed by
-      [[:u:] as in p[:u:]ll], in a general Australian accent
-  ==
-    , 舔
+      [__u__ as in p__u__ll], in a general Australian accent
+  //
+    ,{l=zh-Hant} 舔
     , [ɛːm]
-    , [.em.]
+    , __em__
     , em
     ,
     ,
     ,
-      [[:em:] as in h[:em:]], in a general Australian accent,
+      [__em__ as in h__em__], in a general Australian accent,
       but longer
-  ==
-    , 贏
+  //
+    ,{l=zh-Hant} 贏
     , [ɛːŋ]
-    , [.eng.]
+    , __eng__
     , eng
     , eng
     , eng
     ,
-      [[:e:] as in y[:e:]ah], in a general Australian accent,
-      but slightly longer, followed by [[:ng:] as in si[:ng:]]
-  ==
-    , 夾
+      [__e__ as in y__e__ah], in a general Australian accent,
+      but slightly longer, followed by [__ng__ as in si__ng__]
+  //
+    ,{l=zh-Hant} 夾
     , [ɛːp̚]
-    , [.ep.]
+    , __ep__
     , ep
     ,
     ,
     ,
-      [[:e:] as in y[:e:]ah], in a general Australian accent,
-      but slightly longer, followed by
-      [[:p:] as in co[:p:]ter] with no audibly released P
-        \OR
-      [[:ep:] as in s[:ep:]tic] with no audibly released P,
-      in a general Australian accent, but longer
-  ==
-    , 尺
+      ||
+        [__e__ as in y__e__ah], in a general Australian accent,
+        but slightly longer, followed by
+        [__p__ as in co__p__ter] with no audibly released P
+      ||
+        OR
+      ||
+        [__ep__ as in s__ep__tic] with no audibly released P,
+        in a general Australian accent, but longer
+      ||
+  //
+    ,{l=zh-Hant} 尺
     , [ɛːk̚]
-    , [.ek.]
+    , __ek__
     , ek
     , ek
     , ek
     ,
-      [[:e:] as in y[:e:]ah], in a general Australian accent,
-      but slightly longer, followed by
-      [[:c:] as in do[:c:]tor] with no audibly released C
-        \OR
-      [[:ec:] as in s[:ec:]tor] with no audibly released C,
-      in a general Australian accent, but longer
-''''
+      ||
+        [__e__ as in y__e__ah], in a general Australian accent,
+        but slightly longer, followed by
+        [__c__ as in do__c__tor] with no audibly released C
+      ||
+        OR
+      ||
+        [__ec__ as in s__ec__tor] with no audibly released C,
+        in a general Australian accent, but longer
+      ||
+''
 ||||
 
 
-###{#ee-i}
-  iː and e
-###
+###{#ee-i} [iː] and [e]
 
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 而
+||||{.wide}
+''
+|^
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 而
     , [iː]
-    , [.ee.]
+    , __ee__
     , i
     , i
     , i
-    , [[:ee:] as in b[:ee:]], in Received Pronunciation
-  ==
-    , 堯
+    , [__ee__ as in b__ee__], in Received Pronunciation
+  //
+    ,{l=zh-Hant} 堯
     , [iːu]
-    , [.eeu.]
+    , __eeu__
     , iu
     , iu
     , iu
     ,
-      [[:ee:] as in b[:ee:]], in Received Pronunciation,
+      [__ee__ as in b__ee__], in Received Pronunciation,
       followed by
-      [[:u:] as in p[:u:]ll], in a general Australian accent
-  ==
-    , 嚴
+      [__u__ as in p__u__ll], in a general Australian accent
+  //
+    ,{l=zh-Hant} 嚴
     , [iːm]
-    , [.eem.]
+    , __eem__
     , im
     , im
     , im
-    , [[:eem:] as in s[:eem:]], in Received Pronunciation
-  ==
-    , 言
+    , [__eem__ as in s__eem__], in Received Pronunciation
+  //
+    ,{l=zh-Hant} 言
     , [iːn]
-    , [.een.]
+    , __een__
     , in
     , in
     , in
-    , [[:een:] as in s[:een:]], in Received Pronunciation
-  ==
-    , 形
+    , [__een__ as in s__een__], in Received Pronunciation
+  //
+    ,{l=zh-Hant} 形
     , [eŋ]
-    , [.ing.]
+    , __ing__
     , ing
     , ing
     , ing
     ,
-      halfway between [[:i:] as in t[:i:]n]
-      and [[:e:] as in t[:e:]n],
+      halfway between [__i__ as in t__i__n]
+      and [__e__ as in t__e__n],
       both in a general Australian accent,
-      followed by [[:ng:] as in si[:ng:]]
-  ==
-    , 葉
+      followed by [__ng__ as in si__ng__]
+  //
+    ,{l=zh-Hant} 葉
     , [iːp̚]
-    , [.eep.]
+    , __eep__
     , ip
     , ip
     , ip
     ,
-      [[:ee:] as in b[:ee:]], in Received Pronunciation,
-      followed by [[:p:] as in co[:p:]ter] with no audibly released P
-  ==
-    , 熱
+      [__ee__ as in b__ee__], in Received Pronunciation,
+      followed by [__p__ as in co__p__ter] with no audibly released P
+  //
+    ,{l=zh-Hant} 熱
     , [iːt̚]
-    , [.eet.]
+    , __eet__
     , it
     , it
     , it
     ,
-      [[:ee:] as in b[:ee:]], in Received Pronunciation,
-      followed by [[:t:] as in a[:t:]las] with no audibly released T 
-  ==
-    , 亦
+      [__ee__ as in b__ee__], in Received Pronunciation,
+      followed by [__t__ as in a__t__las] with no audibly released T 
+  //
+    ,{l=zh-Hant} 亦
     , [ek̚]
-    , [.ik.]
+    , __ik__
     , ik
     , ik
     , ik
     ,
-      halfway between [[:i:] as in t[:i:]n]
-      and [[:e:] as in t[:e:]n],
+      halfway between [__i__ as in t__i__n]
+      and [__e__ as in t__e__n],
       both in a general Australian accent,
-      followed by [[:c:] as in do[:c:]tor] with no audibly released C
-''''
+      followed by [__c__ as in do__c__tor] with no audibly released C
+''
 ||||
 
 
-###{#or-o}
-  ɔː and o
-###
+###{#or-o} [ɔː] and [o]
 
-----
+--
 Cantonese has no R sound.
-The letter R only appears in "[.or.]" to represent the vowel [ɔː],
+The letter R only appears in __or__ to represent the vowel [ɔː],
 and is **never** sounded as a consonant.
-----
+--
 
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 歌
+||||{.wide}
+''
+|^
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 歌
     , [ɔː]
-    , [.or.]
+    , __or__
     , o
     , o
     , oh
     ,
-      [[:or:] as in n[:or:]],
+      [__or__ as in n__or__],
       in a general Australian accent with strictly no R consonant
-  ==
-    , 該
+  //
+    ,{l=zh-Hant} 該
     , [ɔːy]
-    , [.oi.]
+    , __oi__
     , oi
     , oi
     , oi
     ,
-      [[:oy:] as in b[:oy:]], in a general Australian accent,
+      [__oy__ as in b__oy__], in a general Australian accent,
       but with longer O
-  ==
-    , 高
+  //
+    ,{l=zh-Hant} 高
     , [ou]
-    , [.ou.]
+    , __ou__
     , ou
     , ou
     , o
     ,
-      [[:or:] as in n[:or:]],
+      [__or__ as in n__or__],
       in a general Australian accent with strictly no R consonant,
       but much much shorter,
       followed by
-      [[:u:] as in p[:u:]ll], in a general Australian accent
-  ==
-    , 干
+      [__u__ as in p__u__ll], in a general Australian accent
+  //
+    ,{l=zh-Hant} 干
     , [ɔːn]
-    , [.orn.]
+    , __orn__
     , on
     , on
     , on
     ,
-      [[:orn:] as in h[:orn:]],
+      [__orn__ as in h__orn__],
       in a general Australian accent with strictly no R consonant
-  ==
-    , 江
+  //
+    ,{l=zh-Hant} 江
     , [ɔːŋ]
-    , [.ong.]
+    , __ong__
     , ong
     , ong
     , ong
     ,
-      [[:ong:] as in s[:ong:]], in a general Australian accent,
+      [__ong__ as in s__ong__], in a general Australian accent,
       but longer
-  ==
-    , 葛
+  //
+    ,{l=zh-Hant} 葛
     , [ɔːt̚]
-    , [.ort.]
+    , __ort__
     , ot
     , ot
     , ot
     ,
-      [[:or:] as in n[:or:]],
-      in a general Australian accent with strictly no R consonant,
-      followed by [[:t:] as in a[:t:]las]
-      with no audibly released T
-        \OR
-      [[:ort:] as in f[:ort:]let] with no audibly released T,
-      in a general Australian accent with strictly no R consonant
-  ==
-    , 各
+      ||
+        [__or__ as in n__or__],
+        in a general Australian accent with strictly no R consonant,
+        followed by [__t__ as in a__t__las]
+        with no audibly released T
+      ||
+        OR
+      ||
+        [__ort__ as in f__ort__let] with no audibly released T,
+        in a general Australian accent with strictly no R consonant
+      ||
+  //
+    ,{l=zh-Hant} 各
     , [ɔːk̚]
-    , [.ok.]
+    , __ok__
     , ok
     , ok
     , ok
     ,
-      [[:oc:] as in d[:oc:]tor] with no audibly released C,
+      [__oc__ as in d__oc__tor] with no audibly released C,
       in a general Australian accent, but longer
-''''
+''
 ||||
 
 
-###{#oo-u}
-  uː and o
-###
+###{#oo-u} uː and o
 
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 呼
+||||{.wide}
+''
+|^
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 呼
     , [uː]
-    , [.oo.]
+    , __oo__
     , u
     , u
     , oo
     ,
-      [[:u:] as in p[:u:]ll], in a general Australian accent,
+      [__u__ as in p__u__ll], in a general Australian accent,
       but longer
-  ==
-    , 灰
+  //
+    ,{l=zh-Hant} 灰
     , [uːy]
-    , [.ooi.]
+    , __ooi__
     , ui
     , ui
     , ooi
     ,
-      [[:u:] as in p[:u:]ll], in a general Australian accent,
+      [__u__ as in p__u__ll], in a general Australian accent,
       but longer, followed by
-      [[:y:] as in bo[:y:]], in a general Australian accent
-  ==
-    , 歡
+      [__y__ as in bo__y__], in a general Australian accent
+  //
+    ,{l=zh-Hant} 歡
     , [uːn]
-    , [.oon.]
+    , __oon__
     , un
     , un
     , oon
     ,
-      [[:u:] as in p[:u:]ll], in a general Australian accent,
-      but longer, followed by [[:n:] as in si[:n:]]
-  ==
-    , 風
+      [__u__ as in p__u__ll], in a general Australian accent,
+      but longer, followed by [__n__ as in si__n__]
+  //
+    ,{l=zh-Hant} 風
     , [oŋ]
-    , [.ung.]
+    , __ung__
     , ung
     , ung
     , ung
     ,
-      [[:oo:] as in t[:oo:]k], in a general Australian accent,
-      followed by [[:ng:] as in si[:ng:]]
-  ==
-    , 闊
+      [__oo__ as in t__oo__k], in a general Australian accent,
+      followed by [__ng__ as in si__ng__]
+  //
+    ,{l=zh-Hant} 闊
     , [uːt̚]
-    , [.oot.]
+    , __oot__
     , ut
     , ut
     , oot
     ,
-      [[:u:] as in p[:u:]ll], in a general Australian accent,
+      [__u__ as in p__u__ll], in a general Australian accent,
       but longer,
-      followed by [[:t:] as in a[:t:]las] with no audibly released T
-  ==
-    , 福
+      followed by [__t__ as in a__t__las] with no audibly released T
+  //
+    ,{l=zh-Hant} 福
     , [ok̚]
-    , [.uk.]
+    , __uk__
     , uk
     , uk
     , uk
     ,
-      [[:oo:] as in t[:oo:]k], in a general Australian accent,
-      followed by
-      [[:c:] as in do[:c:]tor] with no audibly released C
-        \OR
-      [[:ook:] as in b[:ook:]token] with no audibly released K,
-      in a general Australian accent
-''''
+      ||
+        [__oo__ as in t__oo__k], in a general Australian accent,
+        followed by
+        [__c__ as in do__c__tor] with no audibly released C
+      ||
+        OR
+      ||
+        [__ook__ as in b__ook__token] with no audibly released K,
+        in a general Australian accent
+      ||
+''
 ||||
 
 
-###{#oe}
-  œ
-###
+###{#oe} [œ]
 
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 靴
+||||{.wide}
+''
+|^
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 靴
     , [œː]
-    , [.(oe).]
+    , __(oe)__
     , oe
     , eu
     , euh
     ,
-      [[:ö:] as in H[:ö:]lle], in German
-        \OR
-      [[:eu:] as in j[:eu:]ne], in French
-  ==
-    , 香
+      ||
+        [__ö__ as in H__ö__lle], in German
+      ||
+        OR
+      ||
+        [__eu__ as in j__eu__ne], in French
+      ||
+  //
+    ,{l=zh-Hant} 香
     , [œːŋ]
-    , [.(oe)ng.]
+    , __(oe)ng__
     , oeng
     , eung
     , eung
     ,
-      [[:ö:] as in H[:ö:]lle], in German,
-      followed by [[:ng:] as in si[:ng:]]
-  ==
-    , 卻
+      [__ö__ as in H__ö__lle], in German,
+      followed by [__ng__ as in si__ng__]
+  //
+    ,{l=zh-Hant} 卻
     , [œːk̚]
-    , [.(oe)k.]
+    , __(oe)k__
     , oek
     , euk
     , euk
     ,
-      [[:ö:] as in H[:ö:]lle], in German,
-      followed by [[:c:] as in do[:c:]tor] with no audibly released C
-''''
+      [__ö__ as in H__ö__lle], in German,
+      followed by [__c__ as in do__c__tor] with no audibly released C
+''
 ||||
 
 
-###{#_}
-  ɵ
-###
+###{#_} [ɵ]
 
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 需
+||||{.wide}
+''
+|^
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 需
     , [ɵy]
-    , [.\_(u").]
+    , __\_(u")__
     , eoi
     , eui
     , ui
     ,
-      [[:ö:] as in H[:ö:]lle], in German, but extremely short,
-      followed by [[:ü:] as in [:ü:]ber], in German
-  ==
-    , 詢
+      [__ö__ as in H__ö__lle], in German, but extremely short,
+      followed by [__ü__ as in __ü__ber], in German
+  //
+    ,{l=zh-Hant} 詢
     , [ɵn]
-    , [.\_n.]
+    , __\_n__
     , eon
     , eun
     , un
     ,
-      [[:ö:] as in H[:ö:]lle], in German, but extremely short,
-      followed by [[:n:] as in si[:n:]]
-  ==
-    , 戌
+      [__ö__ as in H__ö__lle], in German, but extremely short,
+      followed by [__n__ as in si__n__]
+  //
+    ,{l=zh-Hant} 戌
     , [ɵt̚]
-    , [.\_t.]
+    , __\_t__
     , eot
     , eut
     , ut
     ,
-      [[:ö:] as in H[:ö:]lle], in German, but extremely short,
-      followed by [[:t:] as in a[:t:]las] with no audibly released T
-''''
+      [__ö__ as in H__ö__lle], in German, but extremely short,
+      followed by [__t__ as in a__t__las] with no audibly released T
+''
 ||||
 
 
-###{#ue}
-  yː
-###
+###{#ue} [yː]
 
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 遇
+||||{.wide}
+''
+|^
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 遇
     , [yː]
-    , [.(u").]
+    , __(u")__
     , yu
     , yu
     , ue
-    , [[:ü:] as in [:ü:]ber], in German
-  ==
-    , 願
+    , [__ü__ as in __ü__ber], in German
+  //
+    ,{l=zh-Hant} 願
     , [yːn]
-    , [.(u")n.]
+    , __(u")n__
     , yun
     , yun
     , uen
     ,
-      [[:ü:] as in [:ü:]ber], in German,
-      followed by [[:n:] as in si[:n:]]
-  ==
-    , 月
+      [__ü__ as in __ü__ber], in German,
+      followed by [__n__ as in si__n__]
+  //
+    ,{l=zh-Hant} 月
     , [yːt̚]
-    , [.(u")t.]
+    , __(u")t__
     , yut
     , yut
     , uet
     ,
-      [[:ü:] as in [:ü:]ber], in German,
-      followed by [[:t:] as in a[:t:]las] with no audibly released T
-''''
+      [__ü__ as in __ü__ber], in German,
+      followed by [__t__ as in a__t__las] with no audibly released T
+''
 ||||
 
 
-###{#m-ng}
-  m̩ and ŋ̍
-###
+###{#m-ng} [m̩] and [ŋ̍]
 
-||||{.overflowing}
-''''
-  \header-row[finals]
-  ==
-    , 唔
-    , [m̩]
-    , [.m.]
-    , m
-    , m
-    , m
-    , [[:m:] as in su[:m:]], but longer
-  ==
-    , 吾
-    , [ŋ̍]
-    , [.ng.]
-    , ng
-    , ng
-    , ng
-    , [[:ng:] as in si[:ng:]], but longer
-''''
-||||
-
-
-##{#tones}
-  Nine tones (九聲) with tone diagram
-##
-
-
-||||||{.centred-block}
-||||{.overflowing}
-''''{.no-wrapping}
+||||{.wide}
+''
 |^
-  ==
-    ;{c3} 九聲
+  //
+    ; Final (.韻)
+    ; IPA
+    ; Conway
+    ; Jyutping
+    ; Yale
+    ; Sidney Lau
+    ; Conway's approximation
+|:
+  //
+    ,{l=zh-Hant} 唔
+    , [m̩]
+    , __m__
+    , m
+    , m
+    , m
+    , [__m__ as in su__m__], but longer
+  //
+    ,{l=zh-Hant} 吾
+    , [ŋ̍]
+    , __ng__
+    , ng
+    , ng
+    , ng
+    , [__ng__ as in si__ng__], but longer
+''
+||||
+
+
+##{#tones} Nine tones (.九聲) with tone diagram
+
+||||||{.centred}
+||||{.wide}
+''
+|^
+  //
+    ;{c=3 l=zh-Hant} 九聲
     ; IPA~(num.)
     ; Conway
     ; Jyutping
     ; Yale
-    ; S.~Lau
+    ; Sidney Lau
 |:
-  ==
-    , 婚
+  //
+    ,{l=zh-Hant} 婚
     , 1
-    , 陰平
+    ,{l=zh-Hant} 陰平
     , [fɐn˥]~(55)
-    , [.fan1.]
+    , __fan1__
     , fan1
     , fān
     , fan1
-  ==
-    , 粉
+  //
+    ,{l=zh-Hant} 粉
     , 2
-    , 陰上
+    ,{l=zh-Hant} 陰上
     , [fɐn˧˥]~(35)
-    , [.fan2.]
+    , __fan2__
     , fan2
     , fán
     , fan2
-  ==
-    , 訓
+  //
+    ,{l=zh-Hant} 訓
     , 3
-    , 陰去
+    ,{l=zh-Hant} 陰去
     , [fɐn˧]~(33)
-    , [.fan3.]
+    , __fan3__
     , fan3
     , fan
     , fan3
-  ==
-    , 焚
+  //
+    ,{l=zh-Hant} 焚
     , 4
-    , 陽平
+    ,{l=zh-Hant} 陽平
     , [fɐn˩]~(11)
-    , [.fan4.]
+    , __fan4__
     , fan4
     , fàhn
     , fan4
-  ==
-    , 奮
+  //
+    ,{l=zh-Hant} 奮
     , 5
-    , 陽上
+    ,{l=zh-Hant} 陽上
     , [fɐn˨˧]~(23)
-    , [.fan5.]
+    , __fan5__
     , fan5
     , fáhn
     , fan5
-  ==
-    , 份
+  //
+    ,{l=zh-Hant} 份
     , 6
-    , 陽去
+    ,{l=zh-Hant} 陽去
     , [fɐn˨]~(22)
-    , [.fan6.]
+    , __fan6__
     , fan6
     , fahn
     , fan6
-  ==
-    , 忽
+  //
+    ,{l=zh-Hant} 忽
     , 7
-    , 高陰入
+    ,{l=zh-Hant} 高陰入
     , [fɐt̚˥]~(5)
-    , [.fat7.]
+    , __fat7__
     , fat1
     , fāt
     , fat1
-  ==
-    , 　
+  //
+    ,{l=zh-Hant} <`　`>
     , 8
-    , 低陰入
+    ,{l=zh-Hant} 低陰入
     , [fɐt̚˧]~(3)
-    , [.fat8.]
+    , __fat8__
     , fat3
     , fat
     , fat3
-  ==
-    , 佛
+  //
+    ,{l=zh-Hant} 佛
     , 9
-    , 陽入
+    ,{l=zh-Hant} 陽入
     , [fɐt̚˨]~(2)
-    , [.fat9.]
+    , __fat9__
     , fat6
     , faht
     , fat6
-''''
+''
 ||||
 ||||||
 
-||||{.centred-block}
-  ![
-    Diagram of the nine tones of Cantonese. \
-    Using the pitch numerals 1 to 5 in order of increasing pitch: \
-      tone 1 ~~ 陰平 ~~ is level at 5; \
-      tone 2 ~~ 陰上 ~~ is rising from 3 to 5; \
-      tone 3 ~~ 陰去 ~~ is level at 3; \
-      tone 4 ~~ 陽平 ~~ is level at 1; \
-      tone 5 ~~ 陽上 ~~ is rising from 2 to 3; \
-      tone 6 ~~ 陽去 ~~ is level at 2; \
-      tone 7 ~~ 高陰入 ~~ is level at 5 and short; \
-      tone 8 ~~ 低陰入 ~~ is level at 3 and short; \
-      tone 9 ~~ 陽入 ~~ is level at 2 and short. \
-  ]\
-  {w=480}\
-  (tone-diagram.svg)
+
+||||{.centred}
+  ![Pitch diagram of the nine tones of Cantonese.]{w=480}(tone-diagram.svg)
 ||||
 
-----
+--
 Tone~4 is also pronounced slightly falling, i.e.~[fɐn˨˩]~(21),
 especially if the syllable is drawn-out
 (for instance in operatic or theatrical dialogue).
 Tone~2 can start slightly lower, i.e.~[fɐn˨˥]~(25).
-----
-
-----
+--
+--
 Cantonese preserves all ending consonants of Middle Chinese,
 and thus there is a correspondence between
 the nasals ([m], [n], [ŋ]) and the unreleased stops ([p̚], [t̚], [k̚])
-of the entering tones (入聲).
-Pronunciations in old rime dictionaries can only be understood
+of the entering tones (.入聲).
+Pronunciations in olden rime dictionaries can only be understood
 in terms of this correspondence:
-----
-
-||||||{.centred-block}
-||||{.overflowing}
-''''
+--
+||||||{.centred}
+||||{.wide}
+''
 |^
-  ==
+  //
     ; Place of articulation
     ; Nasal
     ; Stop
-    ; Example quoted in 《康熙字典》
+    ; Example quoted in .《康熙字典》
 |:
-  ==
+  //
     , Labial
     , [m]
     , [p̚]
     ,
-      [入：任入聲](https://ctext.org/kangxi-zidian/11/0#n318684)
-      i.e.~任~[.(yam6).] to~入~[.(yap9).]
-  ==
+      [入、任入聲]{l=zh-Hant}(https://ctext.org/kangxi-zidian/11/0#n318684)
+      i.e.~.任~__(yam6)__ to~.入~__(yap9)__
+  //
     , Plain dental/alveolar
     , [n]
     , [t̚]
     ,
-      [出：春入聲](https://ctext.org/kangxi-zidian/17/3#n319099)
-      i.e.~春~[.(ch'\_n1).] to~出~[.(ch'\_t7).]
-  ==
+      [出、春入聲]{l=zh-Hant}(https://ctext.org/kangxi-zidian/17/3#n319099)
+      i.e.~.春~__(ch'\_n1)__ to~.出~__(ch'\_t7)__
+  //
     , Plain velar
     , [ŋ]
     , [k̚]
     ,
-      [德：登入聲](https://ctext.org/kangxi-zidian/60/12#n326232)
-      i.e.~登~[.(tang1).] to~德~[.(tak7).]
-''''
+      [德、登入聲]{l=zh-Hant}(https://ctext.org/kangxi-zidian/60/12#n326232)
+      i.e.~.登~__(tang1)__ to~.德~__(tak7)__
+''
 ||||
 ||||||
 
-----
-While the entering tones (入聲) 7, 8, 9 are the same pitch
+--
+While the entering tones (.入聲) 7, 8, 9 are the same pitch
 as tones 1, 3, 6 respectively, they should not be regarded as the same.
-In poetry, balancing 平聲 (tones 1 and 4) and 仄聲 (the rest)
-is highly desirable; if you count tone~7 (高陰入) as tone~1 (陰平),
-you will get tone patterns (平仄) wrong.
+In poetry, balancing .平聲 (tones~1 and~4) and .仄聲 (the rest)
+is highly desirable; if you count tone~7 (.高陰入) as tone~1 (.陰平),
+you will get tone patterns (.平仄) wrong.
 None of Jyutping, Yale, and Sidney~Lau make this distinction.
-----
-
-----
+--
+--
 Tone patterns and literary situations aside though,
-tones in colloquial Cantonese are highly versatile, in that they can be
+tones in colloquial Cantonese are versatile, in that they can be
 vernacularised as different tones in particular instances.
 This, in my opinion, makes colloquial Cantonese
 probably the most inconsistent language in the world.
 Here are a few examples:
-----
-
-||||||{.centred-block}
-||||{.overflowing}
-''''
+--
+||||||{.centred}
+||||{.wide}
+''
 |^
-  ==
+  //
     ; Phrase
     ; Literary
     ; Vernacularised
 |:
-  ==
-    , 笛
-    , tek[.9.]
-    , tek[.2.]
-  ==
-    , 姐姐
-    , tse[.2.]~tse[.2.]
-    , tse[.4.]~tse[.1.]
-  ==
-    , 後尾
-    , hau[.6.]~mei[.5.]
+  //
+    ,{l=zh-Hant} 笛
+    , tek__9__
+    , tek__2__
+  //
+    ,{l=zh-Hant} 姐姐
+    , tse__2__~tse__2__
+    , tse__4__~tse__1__
+  //
+    ,{l=zh-Hant} 後尾
+    , hau__6__~mei__5__
     ,
-      hau6~mei[.1.] \+
-      hau[.1.]~mei[.1.]
-  ==
-    , 今晚
-    , kam1~maan[.5.]
-    , kam1~maan[.1.]
-  ==
-    , 長沙灣
-    , ch'(oe)ng4~shaa1~waan[.1.]
-    , ch'(oe)ng4~shaa1~waan[.4.]
-  ==
-    , 油麻地
-    , yau4~maa4~tei[.6.]
-    , yau4~maa4~tei[.2.]
-''''
+      hau6~mei__1__ OR
+      hau__1__~mei__1__
+  //
+    ,{l=zh-Hant} 今晚
+    , kam1~maan__5__
+    , kam1~maan__1__
+  //
+    ,{l=zh-Hant} 長沙灣
+    , ch'(oe)ng4~shaa1~waan__1__
+    , ch'(oe)ng4~shaa1~waan__4__
+  //
+    ,{l=zh-Hant} 油麻地
+    , yau4~maa4~tei__6__
+    , yau4~maa4~tei__2__
+''
 ||||
 ||||||
 
 
-##{#tables}
-  Compact reference tables
-##
+##{#tables} Compact reference tables
 
-###{#initials-table}
-  Initials (聲)
-###
+###{#initials-table} Initials (.聲)
 
-||||||{.centred-block}
-||||{.overflowing}
-''''
-  ==
-    , 巴~[.p.]
-    , 打~[.t.]
-    , 家~[.k.]
-    , 瓜~[.kw.]
-    , 將~[.ts.]
-    , 張~[.ch.]
-  ==
-    , 怕~[.p'.]
-    , 他~[.t'.]
-    , 卡~[.k'.]
-    , 誇~[.k'w.]
-    , 槍~[.ts'.]
-    , 昌~[.ch'.]
-  ==
-    , 媽~[.m.]
-    , 那~[.n.]
-    , 牙~[.ng.]
-    , 華~[.w.]
-    , 相~[.s.]
-    , 傷~[.sh.]
-  ==
-    , 花~[.f.]
-    , 啦~[.l.]
-    , 蝦~[.h.]
-    , 也~[.y.]
+||||||{.centred}
+||||{.wide}
+''
+  //
+    , .巴~__p__
+    , .打~__t__
+    , .家~__k__
+    , .瓜~__kw__
+    , .將~__ts__
+    , .張~__ch__
+  //
+    , .怕~__p'__
+    , .他~__t'__
+    , .卡~__k'__
+    , .誇~__k'w__
+    , .槍~__ts'__
+    , .昌~__ch'__
+  //
+    , .媽~__m__
+    , .那~__n__
+    , .牙~__ng__
+    , .華~__w__
+    , .相~__s__
+    , .傷~__sh__
+  //
+    , .花~__f__
+    , .啦~__l__
+    , .蝦~__h__
+    , .也~__y__
     ,
     ,
-''''
+''
 ||||
 ||||||
 
 
-###{#finals-table}
-  Finals (韻)
-###
+###{#finals-table} Finals (.韻)
 
-||||||{.centred-block}
-||||{.overflowing}
-''''
-  ==
-    , 叉~[.aa.]
+||||||{.centred}
+||||{.wide}
+''
+  //
+    , .叉~__aa__
     ,
-    , 爹~[.e.]
-    , 而~[.ee.]
-    , 歌~[.or.]
-    , 呼~[.oo.]
-    , 靴~[.(oe).]
+    , .爹~__e__
+    , .而~__ee__
+    , .歌~__or__
+    , .呼~__oo__
+    , .靴~__(oe)__
     ,
-    , 遇~[.(u").]
+    , .遇~__(u")__
     ,
-  ==
-    , 釵~[.aai.]
-    , 仔~[.ai.]
-    , 地~[.ei.]
+  //
+    , .釵~__aai__
+    , .仔~__ai__
+    , .地~__ei__
     ,
-    , 該~[.oi.]
-    , 灰~[.ooi.]
+    , .該~__oi__
+    , .灰~__ooi__
     ,
-    , 需~[.\_(u").]
-    ,
-    ,
-  ==
-    , 抄~[.aau.]
-    , 走~[.au.]
-    , 掉~[.eu.]
-    , 堯~[.eeu.]
-    , 高~[.ou.]
+    , .需~__\_(u")__
     ,
     ,
-    ,
-    ,
-    ,
-  ==
-    , 參~[.aam.]
-    , 針~[.am.]
-    , 舔~[.em.]
-    , 嚴~[.eem.]
+  //
+    , .抄~__aau__
+    , .走~__au__
+    , .掉~__eu__
+    , .堯~__eeu__
+    , .高~__ou__
     ,
     ,
     ,
     ,
     ,
-    , 唔~[.m.]
-  ==
-    , 餐~[.aan.]
-    , 真~[.an.]
-    ,
-    , 言~[.een.]
-    , 干~[.orn.]
-    , 歡~[.oon.]
-    ,
-    , 詢~[.\_n.]
-    , 願~[.(u")n.]
-    ,
-  ==
-    , 撐~[.aang.]
-    , 增~[.ang.]
-    , 贏~[.eng.]
-    , 形~[.ing.]
-    , 江~[.ong.]
-    , 風~[.ung.]
-    , 香~[.(oe)ng.]
-    ,
-    ,
-    , 吾~[.ng.]
-  ==
-    , 插~[.aap.]
-    , 汁~[.ap.]
-    , 夾~[.ep.]
-    , 葉~[.eep.]
+  //
+    , .參~__aam__
+    , .針~__am__
+    , .舔~__em__
+    , .嚴~__eem__
     ,
     ,
     ,
     ,
     ,
+    , .唔~__m__
+  //
+    , .餐~__aan__
+    , .真~__an__
     ,
-  ==
-    , 察~[.aat.]
-    , 疾~[.at.]
+    , .言~__een__
+    , .干~__orn__
+    , .歡~__oon__
     ,
-    , 熱~[.eet.]
-    , 葛~[.ort.]
-    , 闊~[.oot.]
+    , .詢~__\_n__
+    , .願~__(u")n__
     ,
-    , 戌~[.\_t.]
-    , 月~[.(u")t.]
-    ,
-  ==
-    , 拆~[.aak.]
-    , 仄~[.ak.]
-    , 尺~[.ek.]
-    , 亦~[.ik.]
-    , 各~[.ok.]
-    , 福~[.uk.]
-    , 卻~[.(oe)k.]
+  //
+    , .撐~__aang__
+    , .增~__ang__
+    , .贏~__eng__
+    , .形~__ing__
+    , .江~__ong__
+    , .風~__ung__
+    , .香~__(oe)ng__
     ,
     ,
+    , .吾~__ng__
+  //
+    , .插~__aap__
+    , .汁~__ap__
+    , .夾~__ep__
+    , .葉~__eep__
     ,
-''''
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , .察~__aat__
+    , .疾~__at__
+    ,
+    , .熱~__eet__
+    , .葛~__ort__
+    , .闊~__oot__
+    ,
+    , .戌~__\_t__
+    , .月~__(u")t__
+    ,
+  //
+    , .拆~__aak__
+    , .仄~__ak__
+    , .尺~__ek__
+    , .亦~__ik__
+    , .各~__ok__
+    , .福~__uk__
+    , .卻~__(oe)k__
+    ,
+    ,
+    ,
+''
 ||||
 ||||||
 
-###{#tones-table}
-  Nine tones (九聲)
-###
 
-{: \to : → :}
+###{#tones-table} Nine tones (.九聲)
 
-||||||{.centred-block}
-||||{.centred-block .overflowing}
-''''
+||||||{.centred}
+||||{.wide}
+''
 |^
-  ==
-    ;{.vertical-rtl} 陰平
-    ;{.vertical-rtl} 陰上
-    ;{.vertical-rtl} 陰去
-    ;{.vertical-rtl} 陽平
-    ;{.vertical-rtl} 陽上
-    ;{.vertical-rtl} 陽去
-    ;{.no-wrapping r2} 鼻 → 塞
-    ;{.vertical-rtl} 高陰入
-    ;{.vertical-rtl} 低陰入
-    ;{.vertical-rtl} 陽入
-  ==
+  //
+    ;{.vertical-rtl l=zh-Hant} 陰平
+    ;{.vertical-rtl l=zh-Hant} 陰上
+    ;{.vertical-rtl l=zh-Hant} 陰去
+    ;{.vertical-rtl l=zh-Hant} 陽平
+    ;{.vertical-rtl l=zh-Hant} 陽上
+    ;{.vertical-rtl l=zh-Hant} 陽去
+    ;{r=2 l=zh-Hant} 鼻~→~塞
+    ;{.vertical-rtl l=zh-Hant} 高陰入
+    ;{.vertical-rtl l=zh-Hant} 低陰入
+    ;{.vertical-rtl l=zh-Hant} 陽入
+  //
     ; 1
     ; 2
     ; 3
@@ -1619,170 +1626,181 @@ Here are a few examples:
     ; 8
     ; 9
 |:
-  ==
-    , 閹
-    , 掩
-    , 厭
-    , 炎
-    , 染
-    , 艷
-    ,{.no-wrapping} [m] \to [p̚]
-    , 　
-    , 醃
-    , 頁
-  ==
-    , 婚
-    , 粉
-    , 訓
-    , 焚
-    , 奮
-    , 份
-    ,{.no-wrapping} [n] \to [t̚]
-    , 忽
-    , 　
-    , 佛
-  ==
-    , 英
-    , 影
-    , 應
-    , 形
-    , 　
-    , 認
-    ,{.no-wrapping} [ŋ] \to [k̚]
-    , 益
-    , 　
-    , 亦
-''''
+  //
+    ,{l=zh-Hant} 閹
+    ,{l=zh-Hant} 掩
+    ,{l=zh-Hant} 厭
+    ,{l=zh-Hant} 炎
+    ,{l=zh-Hant} 染
+    ,{l=zh-Hant} 艷
+    , [m]~→~[p̚]
+    ,{l=zh-Hant} <`　`>
+    ,{l=zh-Hant} 醃
+    ,{l=zh-Hant} 頁
+  //
+    ,{l=zh-Hant} 婚
+    ,{l=zh-Hant} 粉
+    ,{l=zh-Hant} 訓
+    ,{l=zh-Hant} 焚
+    ,{l=zh-Hant} 奮
+    ,{l=zh-Hant} 份
+    , [n]~→~[t̚]
+    ,{l=zh-Hant} 忽
+    ,{l=zh-Hant} <`　`>
+    ,{l=zh-Hant} 佛
+  //
+    ,{l=zh-Hant} 英
+    ,{l=zh-Hant} 影
+    ,{l=zh-Hant} 應
+    ,{l=zh-Hant} 形
+    ,{l=zh-Hant} <`　`>
+    ,{l=zh-Hant} 認
+    , [ŋ]~→~[k̚]
+    ,{l=zh-Hant} 益
+    ,{l=zh-Hant} <`　`>
+    ,{l=zh-Hant} 亦
+''
 ||||
 ||||||
 
 
-##{#examples}
-  Examples
-##
+##{#examples} Examples
 
-----
-First with [^pre-merger initials] (rarely heard today),
-then with [_favoured post-merger initials].
-See [{[^ts] vs [^ch]} etc](#ts-vs-ch).
-----
-
-||||{.example}
+++++
+1.
+||{.example l=zh-Hant}
   身體髮膚、受之父母、不敢毀傷、孝之始也。
-||||
-====
-*
-  [^sh]an1 t'ai2 faat8 foo1, 
-  [^sh]au6 [^ch]ee1 foo6 mou5,
-  pat7 kam2 wai2 [^sh](oe)ng1,
-  haau3 [^ch]ee1 [^ch']ee2 yaa5.
-*
-  [_s]an1 t'ai2 faat8 foo1,
-  [_s]au6 [_ts]ee1 foo6 mou5,
-  pat7 kam2 wai2 [_s](oe)ng1,
-  haau3 [_ts]ee1 [_ts']ee2 yaa5.
-====
+||
+==
+- (Pre-merger initials)
+  __sh__an1 t'ai2 faat8 foo1, 
+  __sh__au6 __ch__ee1 foo6 mou5,
+  pat7 kam2 wai2 __sh__(oe)ng1,
+  haau3 __ch__ee1 __ch'__ee2 yaa5.
 
-||||{.example}
+- (Post-merger initials)
+  __s__an1 t'ai2 faat8 foo1,
+  __s__au6 __ts__ee1 foo6 mou5,
+  pat7 kam2 wai2 __s__(oe)ng1,
+  haau3 __ts__ee1 __ts'__ee2 yaa5.
+==
+
+1.
+||{.example l=zh-Hant}
   天地玄黃、宇宙洪荒。日月盈昃、辰宿列張。
-||||
-====
-*
+||
+==
+- (Pre-merger initials)
   t'een1 tei6 y(u")n4 wong4,
-  y(u")5 [^ch]au6 hung4 fong1.
-  yat9 y(u")t9 ying4 [^ch]ak7,
-  [^sh]an4 [^s]uk7 leet9 [^ch](oe)ng1.
-*
-  t'een1 tei6 y(u")n4 wong4,
-  y(u")5 [_ts]au6 hung4 fong1.
-  yat9 y(u")t9 ying4 [_ts]ak7,
-  [_s]an4 [_s]uk7 leet9 [_ch](oe)ng1.
-====
+  y(u")5 __ch__au6 hung4 fong1.
+  yat9 y(u")t9 ying4 __ch__ak7,
+  __sh__an4 __s__uk7 leet9 __ch__(oe)ng1.
 
-||||{.example}
+- (Post-merger initials)
+  t'een1 tei6 y(u")n4 wong4,
+  y(u")5 __ts__au6 hung4 fong1.
+  yat9 y(u")t9 ying4 __ts__ak7,
+  __s__an4 __s__uk7 leet9 __ch__(oe)ng1.
+==
+
+1.
+||||{.example l=zh-Hant}
   夫質以代興、妍因俗易。
 ||||
-====
-*
-  foo4 [^ch]at7 yee5 toi6 hing1,
-  yeen4 yan1 [^ts]uk9 yik9.
-*
-  foo4 [_ts]at7 yee5 toi6 hing1,
-  yeen4 yan1 [_ch]uk9 yik9.
-====
+==
+- (Pre-merger initials)
+  foo4 __ch__at7 yee5 toi6 hing1,
+  yeen4 yan1 __ts__uk9 yik9.
 
-||||{.example}
+- (Post-merger initials)
+  foo4 __ts__at7 yee5 toi6 hing1,
+  yeen4 yan1 __ch__uk9 yik9.
+==
+
+1.
+||||{.example l=zh-Hant}
   攜書劍、滯京華。
 ||||
-====
-*
-  k'wai4 [^sh](u")1 keem3,
-  [^ch]ai6 king1 waa4.
-*
-  k'wai4 [_sh](u")1 keem3,
-  [_ts]ai6 king1 waa4.
-====
+==
+- (Pre-merger initials)
+  k'wai4 __sh__(u")1 keem3,
+  __ch__ai6 king1 waa4.
 
-||||{.example}
+- (Post-merger initials)
+  k'wai4 __sh__(u")1 keem3,
+  __ts__ai6 king1 waa4.
+==
+
+1.
+||||{.example l=zh-Hant}
   日日醉涼州、笙歌卒未休。
 ||||
-====
-*
-  yat9 yat9 [^ts]\_(u")3 l(oe)ng4 [^ch]au1,
-  [^sh]ang1 kor1 [^ts]\_t7 mei6 yau1.
-*
-  yat9 yat9 [_ch]\_(u")3 l(oe)ng4 [_ts]au1,
-  [_s]ang1 kor1 [_ch]\_t7 mei6 yau1.
-====
+==
+- (Pre-merger initials)
+  yat9 yat9 __ts__\_(u")3 l(oe)ng4 __ch__au1,
+  __sh__ang1 kor1 __ts__\_t7 mei6 yau1.
 
-||||{.example}
+- (Post-merger initials)
+  yat9 yat9 __ch__\_(u")3 l(oe)ng4 __ts__au1,
+  __s__ang1 kor1 __ch__\_t7 mei6 yau1.
+==
+
+1.
+||||{.example l=zh-Hant}
   胡不念花園盟香。
 ||||
-====
-*
+==
+- (Pre-merger and post-merger initials are the same)
   woo4 pat7 neem6 faa1 y(u")n2 mang4 h(oe)ng1?
-====
+==
 
-||||{.example}
+1.
+||||{.example l=zh-Hant}
   妾從無錯處、嘆我自招報應、怨句匹夫變性。
 ||||
-====
-*
-  [^ts']eep8 [^ts']ung4 mou4 [^ts']or3 [^ch'](u")3,
-  t'aan3 ngor5 [^ts]ee6 [^ch]eeu1 pou3 ying3,
-  y(u")n3 k\_(u")3 p'at7 foo1 peen3 [^s]ing3.
-*
-  [_ts']eep8 [_ch']ung4 mou4 [_ch']or3 [_ch'](u")3,
-  t'aan3 ngor5 [_ts]ee6 [_ts]eeu1 pou3 ying3,
-  y(u")n3 k\_(u")3 p'at7 foo1 peen3 [_s]ing3.
-====
+==
+- (Pre-merger initials)
+  __ts'__eep8 __ts'__ung4 mou4 __ts'__or3 __ch'__(u")3,
+  t'aan3 ngor5 __ts__ee6 __ch__eeu1 pou3 ying3,
+  y(u")n3 k\_(u")3 p'at7 foo1 peen3 __s__ing3.
 
-||||{.example}
+- (Post-merger initials)
+  __ts'__eep8 __ch'__ung4 mou4 __ch'__or3 __ch'__(u")3,
+  t'aan3 ngor5 __ts__ee6 __ts__eeu1 pou3 ying3,
+  y(u")n3 k\_(u")3 p'at7 foo1 peen3 __s__ing3.
+==
+
+1.
+||||{.example l=zh-Hant}
   請勿靠近車門。
 ||||
-====
-*
-  [^ts']ing2 mat9 k'aau3 kan6 [^ch']e1 moon4.
-*
-  [_ts']ing2 mat9 k'aau3 kan6 [_ts']e1 moon4.
-====
+==
+- (Pre-merger initials)
+  __ts'__ing2 mat9 k'aau3 kan6 __ch'__e1 moon4.
 
-||||{.example}
-  下一站：九龍塘，乘客可以轉乘九廣東鐵。
+- (Post-merger initials)
+  __ts'__ing2 mat9 k'aau3 kan6 __ts'__e1 moon4.
+==
+
+1.
+||||{.example l=zh-Hant}
+  下一站，九龍塘，乘客可以轉乘九廣東鐵。
 ||||
-====
-*
-  haa6 yat7 [^ch]aam6: kau2 lung4 t'ong4,
-  [^sh]ing4 haak8 hor2 yee5 [^ch](u")n2 [^sh]ing4
+==
+- (Pre-merger initials)
+  haa6 yat7 __ch__aam6, kau2 lung4 t'ong4,
+  __sh__ing4 haak8 hor2 yee5 __ch__(u")n2 __sh__ing4
   kau2 kwong2 tung1 t'eet8.
-*
-  haa6 yat7 [_ts]aam6: kau2 lung4 t'ong4,
-  [_s]ing4 haak8 hor2 yee5 [_ch](u")n2 [_s]ing4
+
+- (Post-merger initials)
+  haa6 yat7 __ts__aam6, kau2 lung4 t'ong4,
+  __s__ing4 haak8 hor2 yee5 __ch__(u")n2 __s__ing4
   kau2 kwong2 tung1 t'eet8.
-====
+==
+++++
 
 
-\cite-this-page[]
+%%cite
 
 
-%footer-element
+%%footer

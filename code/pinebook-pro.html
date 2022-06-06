@@ -11,7 +11,7 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/resources/styles/main.min.css">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 <script defer src="/resources/scripts/rendering.min.js"></script>
 <title>Debian on Pinebook Pro via Daniel's installer | Conway's site</title>
 </head>
@@ -19,21 +19,19 @@
 <header>
 <nav>
 <ul>
-<li><a href="/" title="Home page">Home</a>
+<li>
+<a href="/" title="Home page">Home</a>
 </li>
-<li><a href="#" title="Jump back to top">Top</a>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
 </li>
-<li><a href="#cite" title="Cite this page">Cite</a>
+<li>
+<a href="#cite" title="Cite this page">Cite</a>
 </li>
 </ul>
 </nav>
 </header>
 <h1>Debian on Pinebook Pro via Daniel's installer</h1>
-<div class="page-properties">
-Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/pinebook-pro.cmd">code/pinebook-pro.cmd</a><br>
-First created: 2020-06-15<br>
-Last modified: 2021-02-14
-</div>
 <p>
 A step-by-step record of
 the installation of Debian Buster onto Pinebook Pro (removable SD card slot)
@@ -43,14 +41,14 @@ along with subsequent customisations to my own liking.
 <p>
 Last version I used: <a href="https://github.com/daniel-thompson/pinebook-pro-debian-installer/commit/d86a81c2a4"><code>d86a81c2a4</code></a>
 </p>
-<h2 id="clone"><a class="permalink" href="#clone" aria-label="Permalink"></a>Clone the installer</h2>
+<h2 id="clone"><a href="#clone" class="permalink" aria-label="Permalink"></a>Clone the installer</h2>
 <pre><code>$ git clone https://github.com/daniel-thompson/pinebook-pro-debian-installer
 $ cd pinebook-pro-debian-installer
 </code></pre>
-<h2 id="unmount"><a class="permalink" href="#unmount" aria-label="Permalink"></a>Unmount the SD card</h2>
+<h2 id="unmount"><a href="#unmount" class="permalink" aria-label="Permalink"></a>Unmount the SD card</h2>
 <pre><code>$ umount /media/conway/mmcblk0
 </code></pre>
-<h2 id="run"><a class="permalink" href="#run" aria-label="Permalink"></a>Run the installer</h2>
+<h2 id="run"><a href="#run" class="permalink" aria-label="Permalink"></a>Run the installer</h2>
 <pre><code>$ ./install-debian BLKDEV=/dev/mmcblk0 CRYPT=y RELEASE=buster
 </code></pre>
 <p>
@@ -62,8 +60,8 @@ To avoid bloat,
 we leave the installation of a desktop environment and a window manager
 until later.
 </p>
-<div class="centred-block">
-<div class="overflowing">
+<div class="centred">
+<div class="wide">
 <table>
 <tr>
 <th>Hostname</th>
@@ -79,11 +77,11 @@ until later.
 </tr>
 <tr>
 <th>Keyboard model</th>
-<td>Generic 105-key PC&nbsp;(intl.)</td>
+<td>Generic 105-key PC (intl.)</td>
 </tr>
 <tr>
 <th>Keyboard layout</th>
-<td>English&nbsp;(US)</td>
+<td>English (US)</td>
 </tr>
 <tr>
 <th>AltGr Key</th>
@@ -116,7 +114,7 @@ until later.
 </table>
 </div>
 </div>
-<h2 id="swap"><a class="permalink" href="#swap" aria-label="Permalink"></a>Disable swap</h2>
+<h2 id="swap"><a href="#swap" class="permalink" aria-label="Permalink"></a>Disable swap</h2>
 <p>
 Using swap on an SD card is <a href="https://askubuntu.com/a/149683">a bad idea</a>,
 so we <a href="https://serverfault.com/a/684792">remove it</a>.
@@ -127,7 +125,7 @@ $ sudo nano /etc/fstab
 <p>
 Comment out the swap line.
 </p>
-<h2 id="terminal-encoding"><a class="permalink" href="#terminal-encoding" aria-label="Permalink"></a>Fix the TTY (terminal) encoding</h2>
+<h2 id="terminal-encoding"><a href="#terminal-encoding" class="permalink" aria-label="Permalink"></a>Fix the TTY (terminal) encoding</h2>
 <p>
 For whatever reason,
 the default encoding of the text terminal is <code>ISO-8859-15</code>.
@@ -143,14 +141,14 @@ so it too has broken borders initially:
 </p>
 <pre><code>$ sudo dpkg-reconfigure console-setup
 </code></pre>
-<div class="centred-block">
+<div class="centred">
 <img alt="Photo: Broken borders on the &quot;Configuring console-setup&quot; text user interface caused by incorrect encoding." src="tty-bad-encoding.jpg">
 </div>
 <p>
 While we're at it, we also increase the terminal font size.
 </p>
-<div class="centred-block">
-<div class="overflowing">
+<div class="centred">
+<div class="wide">
 <table>
 <tr>
 <th>Encoding</th>
@@ -171,18 +169,18 @@ While we're at it, we also increase the terminal font size.
 </table>
 </div>
 </div>
-<h2 id="internet"><a class="permalink" href="#internet" aria-label="Permalink"></a>Connect to the internet</h2>
+<h2 id="internet"><a href="#internet" class="permalink" aria-label="Permalink"></a>Connect to the internet</h2>
 <p>
 Having <a href="#terminal-encoding">fixed the terminal's encoding</a>,
 we then connect to the internet:
 </p>
 <pre><code>$ nmtui
 </code></pre>
-<h2 id="update"><a class="permalink" href="#update" aria-label="Permalink"></a>Update and upgrade packages</h2>
+<h2 id="update"><a href="#update" class="permalink" aria-label="Permalink"></a>Update and upgrade packages</h2>
 <pre><code>$ sudo apt update
 $ sudo apt upgrade
 </code></pre>
-<h2 id="power-key"><a class="permalink" href="#power-key" aria-label="Permalink"></a>Disable shutdown on power key</h2>
+<h2 id="power-key"><a href="#power-key" class="permalink" aria-label="Permalink"></a>Disable shutdown on power key</h2>
 <p>
 Since the Power key is dierectly above Backspace,
 it is very easy to shutdown by accident while typing.
@@ -194,100 +192,132 @@ We <a href="https://unix.stackexchange.com/a/288734">disable this using <code>lo
 Uncomment the <code>HandlePowerKey=poweroff</code> line
 and change it to <code>HandlePowerKey=ignore</code>.
 </p>
-<h2 id="mate"><a class="permalink" href="#mate" aria-label="Permalink"></a>Minimal MATE and LightDM</h2>
+<h2 id="mate"><a href="#mate" class="permalink" aria-label="Permalink"></a>Minimal MATE and LightDM</h2>
 <pre><code>$ sudo apt install mate-desktop-environment-core
 $ sudo apt install lightdm
 </code></pre>
 <p>
 Then reboot.
 </p>
-<h3 id="appearance"><a class="permalink" href="#appearance" aria-label="Permalink"></a>Appearance settings</h3>
+<h3 id="appearance"><a href="#appearance" class="permalink" aria-label="Permalink"></a>Appearance settings</h3>
 <ul>
-<li>Top panel &gt; System &gt; Preferences &gt; Look and Feel &gt; Appearance
+<li>
+Top panel > System > Preferences > Look and Feel > Appearance
 <ul>
-<li>[Theme] TraditionalOK
+<li>
+[Theme] TraditionalOK
 </li>
-<li>[Background]
+<li>
+[Background]
 <ul>
-<li>No Desktop Background
+<li>
+No Desktop Background
 </li>
-<li>Colours: Solid colour, black.
+<li>
+Colours: Solid colour, black.
 </li>
 </ul>
 </li>
-<li>[Fonts]
+<li>
+[Fonts]
 <ul>
-<li>Fixed width font size&nbsp;11 (in line with the other families)
+<li>
+Fixed width font size 11 (in line with the other families)
 </li>
-<li>Details…
+<li>
+Details…
 <ul>
-<li>Automatic detection: OFF
+<li>
+Automatic detection: OFF
 </li>
-<li>Dots per inch (DPI): 120 (otherwise text is too small)
+<li>
+Dots per inch (DPI): 120 (otherwise text is too small)
+</li>
+</ul>
 </li>
 </ul>
 </li>
 </ul>
 </li>
-</ul>
+<li>
+Right Click top panel > Delete This Panel
 </li>
-<li>Right Click top panel &gt; Delete This Panel
-</li>
-<li>Right Click bottom panel &gt; Properties
+<li>
+Right Click bottom panel > Properties
 <ul>
-<li>[General] Size: 32&nbsp;pixels
+<li>
+[General] Size: 32 pixels
 </li>
 </ul>
 </li>
-<li>Unlock and Remove everything in the bottom panel,
+<li>
+Unlock and Remove everything in the bottom panel,
 which shall henceforth be called the taskbar
 </li>
-<li>Add to taskbar and Lock the following
+<li>
+Add to taskbar and Lock the following
 <ul>
-<li>Main Menu, which shall henceforth be called Start
+<li>
+Main Menu, which shall henceforth be called Start
 </li>
-<li>Workspace Switcher
+<li>
+Workspace Switcher
 </li>
-<li>Window List
+<li>
+Window List
 </li>
-<li>Clock (flush right)
+<li>
+Clock (flush right)
 </li>
 </ul>
 </li>
-<li>Rename <code>conway's Home</code> to <code>conway</code>
+<li>
+Rename <code>conway's Home</code> to <code>conway</code>
 </li>
-<li>Start &gt; System Tools &gt; Caja
+<li>
+Start > System Tools > Caja
 <ul>
-<li>Edit &gt; Preferences
+<li>
+Edit > Preferences
 <ul>
-<li>[Views]
+<li>
+[Views]
 <ul>
-<li>Default View new folders using: List View
+<li>
+Default View new folders using: List View
 </li>
-<li>List View Default Zoom level: 66%
+<li>
+List View Default Zoom level: 66%
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li>View &gt; Reset View to Defaults
+<li>
+View > Reset View to Defaults
 </li>
 </ul>
 </li>
 </ul>
-<h3 id="keyboard"><a class="permalink" href="#keyboard" aria-label="Permalink"></a>Keyboard shortcuts</h3>
+<h3 id="keyboard"><a href="#keyboard" class="permalink" aria-label="Permalink"></a>Keyboard shortcuts</h3>
 <ul>
-<li>Start &gt; System &gt; Preferences &gt; Hardware &gt; Keyboard Shortcuts
+<li>
+Start > System > Preferences > Hardware > Keyboard Shortcuts
 <ul>
-<li>Home folder: Pine + H
+<li>
+Home folder: Pine + H
 </li>
-<li>Run a terminal: Pine + T
+<li>
+Run a terminal: Pine + T
 </li>
-<li>Hide all and focus desktop: Pine + D
+<li>
+Hide all and focus desktop: Pine + D
 </li>
-<li>Tile window to east (right): Pine + Right
+<li>
+Tile window to east (right): Pine + Right
 </li>
-<li>Tile window to west (left): Pine + Left
+<li>
+Tile window to west (left): Pine + Left
 </li>
 </ul>
 </li>
@@ -295,56 +325,71 @@ which shall henceforth be called the taskbar
 <p>
 Note that Pine key is Mod4.
 </p>
-<h3 id="terminal"><a class="permalink" href="#terminal" aria-label="Permalink"></a>MATE Terminal</h3>
+<h3 id="terminal"><a href="#terminal" class="permalink" aria-label="Permalink"></a>MATE Terminal</h3>
 <ul>
-<li>Edit &gt; Profile Preferences
+<li>
+Edit > Profile Preferences
 <ul>
-<li>[General]
+<li>
+[General]
 <ul>
-<li>Allow bold text: TRUE
+<li>
+Allow bold text: TRUE
 </li>
-<li>Terminal bell: FALSE
+<li>
+Terminal bell: FALSE
 </li>
-<li>Use custom default terminal size: 80 columns, 48 rows
+<li>
+Use custom default terminal size: 80 columns, 48 rows
 </li>
 </ul>
 </li>
-<li>[Colours]
+<li>
+[Colours]
 <ul>
-<li>Foreground, Background, Bold and Underline
+<li>
+Foreground, Background, Bold and Underline
 <ul>
-<li>Use colours from system theme: FALSE
+<li>
+Use colours from system theme: FALSE
 </li>
-<li>Built-in schemes: White on black
+<li>
+Built-in schemes: White on black
 </li>
 </ul>
 </li>
-<li>Palette
+<li>
+Palette
 <ul>
-<li>Built-in schemes: XTerm
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>[Scrolling]
-<ul>
-<li>Unlimited: TRUE
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Edit &gt; Keyboard Shortcuts
-<ul>
-<li>Help Contents: Disabled
-(otherwise F1 won't work in TUI programs, e.g.&nbsp;<code>alsamixer</code>)
+<li>
+Built-in schemes: XTerm
 </li>
 </ul>
 </li>
 </ul>
-<h2 id="bash"><a class="permalink" href="#bash" aria-label="Permalink"></a>Bash customisation</h2>
-<h3 id="bash-aliases"><a class="permalink" href="#bash-aliases" aria-label="Permalink"></a>Bash aliases</h3>
+</li>
+<li>
+[Scrolling]
+<ul>
+<li>
+Unlimited: TRUE
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+Edit > Keyboard Shortcuts
+<ul>
+<li>
+Help Contents: Disabled
+(otherwise F1 won't work in TUI programs, e.g. <code>alsamixer</code>)
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="bash"><a href="#bash" class="permalink" aria-label="Permalink"></a>Bash customisation</h2>
+<h3 id="bash-aliases"><a href="#bash-aliases" class="permalink" aria-label="Permalink"></a>Bash aliases</h3>
 <p>
 Add the following to <code>.bash_aliases</code>:
 </p>
@@ -352,32 +397,39 @@ Add the following to <code>.bash_aliases</code>:
 alias gr='grep -E'
 alias py='python3'
 </code></pre>
-<h3 id="bash-prompt"><a class="permalink" href="#bash-prompt" aria-label="Permalink"></a>Bash prompt</h3>
+<h3 id="bash-prompt"><a href="#bash-prompt" class="permalink" aria-label="Permalink"></a>Bash prompt</h3>
 <p>
 Edit <code>.bashrc</code> and insert newlines in <code>PS1</code>
 at the start and before the dollar sign.
 </p>
-<h2 id="power"><a class="permalink" href="#power" aria-label="Permalink"></a>Power management</h2>
+<h2 id="power"><a href="#power" class="permalink" aria-label="Permalink"></a>Power management</h2>
 <pre><code>$ sudo apt install mate-power-manager
 </code></pre>
 <ul>
-<li>Start &gt; System &gt; Preferences &gt; Hardware &gt; Power Management
+<li>
+Start > System > Preferences > Hardware > Power Management
 <ul>
-<li>[On AC Power] Set display brightness to: 30%
+<li>
+[On AC Power] Set display brightness to: 30%
 </li>
-<li>[General]
+<li>
+[General]
 <ul>
-<li>When the power button is pressed: Do nothing
+<li>
+When the power button is pressed: Do nothing
 </li>
-<li>Notification Area: Always display an icon
+<li>
+Notification Area: Always display an icon
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Add to taskbar and Lock
+<li>
+Add to taskbar and Lock
 <ul>
-<li>Notification Area (beside clock)
+<li>
+Notification Area (beside clock)
 </li>
 </ul>
 </li>
@@ -385,30 +437,32 @@ at the start and before the dollar sign.
 <p>
 Then reboot.
 </p>
-<h2 id="cli-essentials"><a class="permalink" href="#cli-essentials" aria-label="Permalink"></a>Command line essentials</h2>
+<h2 id="cli-essentials"><a href="#cli-essentials" class="permalink" aria-label="Permalink"></a>Command line essentials</h2>
 <p>
-Python&nbsp;3 was installed along with MATE.
+Python 3 was installed along with MATE.
 </p>
 <pre><code>$ sudo apt install git
 $ sudo apt install w3m
 </code></pre>
-<h3 id="w3m-options"><a class="permalink" href="#w3m-options" aria-label="Permalink"></a>w3m options</h3>
+<h3 id="w3m-options"><a href="#w3m-options" class="permalink" aria-label="Permalink"></a>w3m options</h3>
 <ul>
-<li>[Display] Tab width: 2
+<li>
+[Display] Tab width: 2
 </li>
-<li>[Miscellaneous Settings] Save URL history: NO
+<li>
+[Miscellaneous Settings] Save URL history: NO
 </li>
 </ul>
 <p>
 No cookies appears to be the default now.
 </p>
-<h2 id="cjk-fonts"><a class="permalink" href="#cjk-fonts" aria-label="Permalink"></a>CJK fonts</h2>
+<h2 id="cjk-fonts"><a href="#cjk-fonts" class="permalink" aria-label="Permalink"></a>CJK fonts</h2>
 <pre><code>$ sudo apt install fonts-noto-cjk
 </code></pre>
 <p>
 Then <a href="chinese-font">set the preferred font using <code>fonts.conf</code></a>.
 </p>
-<h2 id="audio"><a class="permalink" href="#audio" aria-label="Permalink"></a>Audio</h2>
+<h2 id="audio"><a href="#audio" class="permalink" aria-label="Permalink"></a>Audio</h2>
 <pre><code>$ sudo apt install alsa-utils
 $ sudo apt install pavucontrol
 </code></pre>
@@ -421,16 +475,29 @@ of a <a href="https://gitlab.manjaro.org/manjaro-arm/packages/community/pinebook
 <pre><code>$ sudo install -Dm644 asound.state /var/lib/alsa/
 $ sudo alsactl nrestore
 </code></pre>
-<h2 id="cite"><a class="permalink" href="#cite" aria-label="Permalink"></a>Cite this page</h2>
+<h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
 <p>
-Conway&nbsp;(2021).
+Conway (2022).
 Debian on Pinebook Pro via Daniel's installer.
-&lt;https://yawnoc.github.io/code/pinebook-pro&gt;
-Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
+&lt;<a href="https://yawnoc.github.io/code/pinebook-pro">https://yawnoc.github.io/code/pinebook-pro</a>&gt;
+Accessed <span class="js-date">yyyy-mm-dd</span>.
 </p>
-<script>document.addEventListener("DOMContentLoaded",function(){renderDate()})</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {renderDate()})
+</script>
 <footer>
-©&nbsp;2020–2021&nbsp;Conway.
+© 2020–2022 Conway.
+<ul>
+<li>
+First created: 2020-06-15
+</li>
+<li>
+Last modified: 2022-xx-xx
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/cmdv4/code/pinebook-pro.cmd"><code>code/pinebook-pro.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.3.1">CMDv4.3.1</a>
+</li>
+</ul>
 </footer>
 </body>
 </html>

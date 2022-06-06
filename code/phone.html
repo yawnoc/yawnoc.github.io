@@ -11,80 +11,100 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/resources/styles/main.min.css">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 <title>Nuking a phone | Conway's site</title>
 </head>
 <body>
 <header>
 <nav>
 <ul>
-<li><a href="/" title="Home page">Home</a>
+<li>
+<a href="/" title="Home page">Home</a>
 </li>
-<li><a href="#" title="Jump back to top">Top</a>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
 </li>
 </ul>
 </nav>
 </header>
 <h1>Nuking a phone</h1>
-<div class="page-properties">
-Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/phone.cmd">code/phone.cmd</a><br>
-First created: 2020-10-11<br>
-Last modified: 2020-10-11
-</div>
 <h2>Factory reset</h2>
 <ol>
-<li>Enable Airplane mode
+<li>
+Enable Airplane mode
 </li>
-<li>Power off
+<li>
+Power off
 </li>
-<li>Remove SIM card
+<li>
+Remove SIM card
 </li>
-<li>Power on
+<li>
+Power on
 </li>
-<li>Settings &gt; General management &gt; Reset &gt; Factory data reset
+<li>
+Settings > General management > Reset > Factory data reset
 </li>
 </ol>
 <h2>Initial setup</h2>
 <ol>
-<li>Language: English (Australia). (Start)
+<li>
+Language: English (Australia). (Start)
 </li>
-<li>Wi-Fi: Off. (Next)
+<li>
+Wi-Fi: Off. (Next)
 </li>
-<li>Terms and Conditions: EULA (but nothing else). (Next)
+<li>
+Terms and Conditions: EULA (but nothing else). (Next)
 </li>
-<li>Date &amp; time: [as appropriate]. (Next)
+<li>
+Date &amp; time: [as appropriate]. (Next)
 </li>
-<li>Name: [leave empty]. (Next)
+<li>
+Name: [leave empty]. (Next)
 </li>
-<li>Lock type: [as appropriate]
+<li>
+Lock type: [as appropriate]
 </li>
-<li>Secure startup: Require PIN when device powers on. (Continue)
+<li>
+Secure startup: Require PIN when device powers on. (Continue)
 </li>
-<li>Set PIN: [as appropriate]. (Done)
+<li>
+Set PIN: [as appropriate]. (Done)
 </li>
-<li>Notifications (for lock screen): Off. (Done)
+<li>
+Notifications (for lock screen): Off. (Done)
 </li>
-<li>Google Services: Disable All. (Accept)
+<li>
+Google Services: Disable All. (Accept)
 </li>
-<li>Samsung account: [no]. (Skip twice)
+<li>
+Samsung account: [no]. (Skip twice)
 </li>
-<li>More useful features: Turn off Secure your stuff. (Finish)
+<li>
+More useful features: Turn off Secure your stuff. (Finish)
 </li>
-<li>Enable Airplane mode
+<li>
+Enable Airplane mode
 </li>
 </ol>
 <h2>Debloat</h2>
 <h3>Enable USB debugging</h3>
 <ol>
-<li>Settings &gt; About phone &gt; Software information
+<li>
+Settings > About phone > Software information
 </li>
-<li>Tap Build number 7&nbsp;times
+<li>
+Tap Build number 7 times
 </li>
-<li>Home
+<li>
+Home
 </li>
-<li>Settings &gt; Developer options
+<li>
+Settings > Developer options
 </li>
-<li>Turn on USB debugging
+<li>
+Turn on USB debugging
 </li>
 </ol>
 <h3>Universal Android Debloater</h3>
@@ -110,37 +130,49 @@ it misses the package <code>au.com.optus.selfservice</code>.
 The following regex package search gets absolutely everything:
 </p>
 <ol>
-<li>ADB backup: <code>N</code>
+<li>
+ADB backup: <code>N</code>
 </li>
-<li>Force-uninstall: <code>1</code>
+<li>
+Force-uninstall: <code>1</code>
 </li>
-<li>Choose action: <code>0</code> (Packages search)
+<li>
+Choose action: <code>0</code> (Packages search)
 </li>
-<li>Regex: <code>.*</code>
+<li>
+Regex: <code>.*</code>
 </li>
-<li>Copy the output to <code>debloat-list.txt</code>
+<li>
+Copy the output to <code>debloat-list.txt</code>
 </li>
-<li>Comment out packages to be kept with hashes
+<li>
+Comment out packages to be kept with hashes
 </li>
-<li>Press any key to continue
+<li>
+Press any key to continue
 </li>
 </ol>
 <p>
-For the result, see <a href="debloat-list.txt"><code>debloat-list.txt</code></a>.
+For the result, see [<code>debloat-list.txt</code>].
 </p>
 <p>
 Then do the actual debloating:
 </p>
 <ol>
-<li>ADB backup: <code>N</code>
+<li>
+ADB backup: <code>N</code>
 </li>
-<li>Force-uninstall: <code>1</code>
+<li>
+Force-uninstall: <code>1</code>
 </li>
-<li>Choose action: <code>3</code> (Debloat packages)
+<li>
+Choose action: <code>3</code> (Debloat packages)
 </li>
-<li>Your selection: <code>7</code> (External list)
+<li>
+Your selection: <code>7</code> (External list)
 </li>
-<li>Path to the list: [as appropriate]
+<li>
+Path to the list: [as appropriate]
 </li>
 </ol>
 <p>
@@ -150,11 +182,14 @@ it just prints "Nothing to debloat".
 A workaround is to:
 </p>
 <ol>
-<li>Wrap all non-commented package names in quotes
+<li>
+Wrap all non-commented package names in quotes
 </li>
-<li>Stuff the result into the <code>AOSP.sh</code> declaration
+<li>
+Stuff the result into the <code>AOSP.sh</code> declaration
 </li>
-<li>Run the debloater for the AOSP list
+<li>
+Run the debloater for the AOSP list
 </li>
 </ol>
 <p>
@@ -166,38 +201,49 @@ so run the debloater to remove it individually
 Finally:
 </p>
 <ol>
-<li><code>X</code> (Exit and reboot the phone)
+<li>
+<code>X</code> (Exit and reboot the phone)
 </li>
 </ol>
 <h2>Finish up</h2>
 <ol>
-<li>Settings &gt; Apps &gt; 3-dot menu
+<li>
+Settings > Apps > 3-dot menu
 <ul>
-<li>App permissions: Turn off everything (even for System apps)
+<li>
+App permissions: Turn off everything (even for System apps)
 (only re-enable when needed)
 </li>
-<li>Special access &gt; Device administrators: Turn off Find My Device
+<li>
+Special access > Device administrators: Turn off Find My Device
 (Deactivate)
 </li>
-<li>Special access &gt; Apps that can change system settings:
+<li>
+Special access > Apps that can change system settings:
 Turn off everything (even System apps)
 </li>
-<li>Special access &gt; Usage data access:
+<li>
+Special access > Usage data access:
 Turn off everything (even System apps)
 </li>
 </ul>
 </li>
-<li>Settings &gt; Apps &gt; Every app (even System apps)
+<li>
+Settings > Apps > Every app (even System apps)
 <ul>
-<li>Storage &gt; Mobile data: Disable background data usage
+<li>
+Storage > Mobile data: Disable background data usage
 </li>
 </ul>
 </li>
-<li>Power off
+<li>
+Power off
 </li>
-<li>Insert SIM card
+<li>
+Insert SIM card
 </li>
-<li>Power on
+<li>
+Power on
 </li>
 </ol>
 <h2>Install F-Droid etc.</h2>
@@ -205,35 +251,58 @@ Turn off everything (even System apps)
 On a computer:
 </p>
 <ol>
-<li>Get <code>F-Droid.apk</code> and <code>F-Droid.apk.asc</code> (PGP Signature) from <a href="https://f-droid.org/">f-droid.org</a>
+<li>
+Get <code>F-Droid.apk</code> and <code>F-Droid.apk.asc</code> (PGP Signature) from <a href="https://f-droid.org/">f-droid.org</a>
 </li>
-<li>Get the (official binary releases) Primary key fingerprint
+<li>
+Get the (official binary releases) Primary key fingerprint
 <code>37D2 ...</code> from <a href="https://f-droid.org/en/docs/Release_Channels_and_Signing_Keys/">Release Channels and Signing Keys</a>
 (henceforth referred to as <code>&lt;key&gt;</code>)
 </li>
-<li>Verify the binary release
+<li>
+Verify the binary release
 (note the <a href="https://superuser.com/a/1485255">keyserver is important</a>)
 <pre><code>$ gpg --keyserver hkps://keyserver.ubuntu.com --receive-keys "&lt;key&gt;"
 $ gpg --verify F-Droid.apk.asc F-Droid.apk
 </code></pre>
 </li>
-<li>Copy <code>F-Droid.apk</code> to phone
+<li>
+Copy <code>F-Droid.apk</code> to phone
 </li>
 </ol>
 <p>
 On the phone:
 </p>
 <ol>
-<li>Settings &gt; Lock screen and security &gt; Unknown sources: enabled
+<li>
+Settings > Lock screen and security > Unknown sources: enabled
 </li>
-<li>Install <code>F-Droid.apk</code>
+<li>
+Install <code>F-Droid.apk</code>
 </li>
-<li>Disable Airplane mode
+<li>
+Disable Airplane mode
 </li>
-<li>Connect to Wi-Fi
+<li>
+Connect to Wi-Fi
 </li>
-<li>Install Termux, Aurora Store, etc.
+<li>
+Install Termux, Aurora Store, etc.
 </li>
 </ol>
+<footer>
+© 2020, 2022 Conway.
+<ul>
+<li>
+First created: 2020-10-11
+</li>
+<li>
+Last modified: 2022-xx-xx
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/cmdv4/code/phone.cmd"><code>code/phone.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.3.1">CMDv4.3.1</a>
+</li>
+</ul>
+</footer>
 </body>
 </html>

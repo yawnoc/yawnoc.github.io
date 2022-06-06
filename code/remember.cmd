@@ -1,79 +1,67 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
 
-%%
-  %title Stuff I can't remember
-  %date-created 2021-04-26
-  %date-modified 2021-04-26
-  \resources
-  %css a~~
-    .mnemonic {
-      color: var(--colour-v);
-      font-weight: bold;
-    }
-  ~~
-%%
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-{%
-  \{ ([a-zA-Z]) \}
-%
-  <span class="mnemonic">\1</span>
-%}
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %title --> Stuff I can't remember
+* %date-created --> 2021-04-26
+* %date-modified --> 2022-xx-xx
+
+%%%
 
 
-[[====
-* \header-link:home
-* \header-link:top
-====]]
+^^^^
+- !home
+- !top
+^^^^
 
 
-# %title #
-
-[||||
-||||]
+# %title
 
 
+##{#7z} 7-Zip
 
-##{#7z} 7-Zip  ##
+### Install
 
-### Install ###
-
-````
+``
 $ sudo apt install p7zip-full
-````
+``
 
-### Add ###
+### Add
 
-----
-{A}dd,
-  with {p}assword,
-  with {h}eader {e}ncryption,
-  with {r}ecursion,
+--
+__A__dd,
+  with __p__assword,
+  with __h__eader __e__ncryption,
+  with __r__ecursion,
 unto `ARCHIVE.7z`,
 `FILES`.
-----
-````
+--
+``
 $ 7z a -p -mhe=on -r ARCHIVE.7z FILES
-````
+``
 
-### Extract ###
+### Extract
 
-----
-E{x}tract `ARCHIVE.7z` here:
-----
-````
+--
+E__x__tract `ARCHIVE.7z` here:
+--
+``
 $ 7z x ARCHIVE.7z
-````
+``
 
 
-##{#gpg} GnuPG ##
+##{#gpg} GnuPG
 
 Import `KEY.pub` and verify `FILE`:
 
-````
+``
 $ gpg --import KEY.pub
 $ gpg --verify FILE
-````
+``
 
 
-
-%footer-element
+%%footer

@@ -11,40 +11,33 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/resources/styles/main.min.css">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 <title>Stuff I can't remember | Conway's site</title>
-<style>.mnemonic {
-color: var(--colour-v);
-font-weight: bold;
-}</style>
 </head>
 <body>
 <header>
 <nav>
 <ul>
-<li><a href="/" title="Home page">Home</a>
+<li>
+<a href="/" title="Home page">Home</a>
 </li>
-<li><a href="#" title="Jump back to top">Top</a>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
 </li>
 </ul>
 </nav>
 </header>
 <h1>Stuff I can't remember</h1>
-<div class="page-properties">
-Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/code/remember.cmd">code/remember.cmd</a><br>
-First created: 2021-04-26<br>
-Last modified: 2021-04-26
-</div>
-<h2 id="7z"><a class="permalink" href="#7z" aria-label="Permalink"></a>7-Zip</h2>
+<h2 id="7z"><a href="#7z" class="permalink" aria-label="Permalink"></a>7-Zip</h2>
 <h3>Install</h3>
 <pre><code>$ sudo apt install p7zip-full
 </code></pre>
 <h3>Add</h3>
 <p>
-<span class="mnemonic">A</span>dd,
-with <span class="mnemonic">p</span>assword,
-with <span class="mnemonic">h</span>eader <span class="mnemonic">e</span>ncryption,
-with <span class="mnemonic">r</span>ecursion,
+<b>A</b>dd,
+with <b>p</b>assword,
+with <b>h</b>eader <b>e</b>ncryption,
+with <b>r</b>ecursion,
 unto <code>ARCHIVE.7z</code>,
 <code>FILES</code>.
 </p>
@@ -52,17 +45,28 @@ unto <code>ARCHIVE.7z</code>,
 </code></pre>
 <h3>Extract</h3>
 <p>
-E<span class="mnemonic">x</span>tract <code>ARCHIVE.7z</code> here:
+E<b>x</b>tract <code>ARCHIVE.7z</code> here:
 </p>
 <pre><code>$ 7z x ARCHIVE.7z
 </code></pre>
-<h2 id="gpg"><a class="permalink" href="#gpg" aria-label="Permalink"></a>GnuPG</h2>
+<h2 id="gpg"><a href="#gpg" class="permalink" aria-label="Permalink"></a>GnuPG</h2>
 Import <code>KEY.pub</code> and verify <code>FILE</code>:
 <pre><code>$ gpg --import KEY.pub
 $ gpg --verify FILE
 </code></pre>
 <footer>
-©&nbsp;2021&nbsp;Conway.
+© 2021–2022 Conway.
+<ul>
+<li>
+First created: 2021-04-26
+</li>
+<li>
+Last modified: 2022-xx-xx
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/cmdv4/code/remember.cmd"><code>code/remember.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.3.1">CMDv4.3.1</a>
+</li>
+</ul>
 </footer>
 </body>
 </html>
