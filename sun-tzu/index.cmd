@@ -75,7 +75,7 @@ I have finished a [manuscript] for the entire translation.
 These are PDF scans of my handwritten translation scribblings,
 and do not contain edits and corrections I have made since they were scanned.
 It will probably take until the end of~<s>2020</s> 2022
-to fully revise and type up all of it up in web (HTML) format here.
+to fully revise and type all of it up in web (HTML) format here.
 --
 
 ["(Sun Tz(uu)|孫子)'s Computational Classic"]:
