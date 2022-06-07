@@ -222,6 +222,15 @@ header > nav > ul {
 }
 
 
+.breadcrumbed {
+  margin-left: 0;
+}
+.breadcrumbed::before {
+  content: ">";
+  margin-right: 0.3em;
+}
+
+
 .centred {
   display: flex;
   justify-content: center;
