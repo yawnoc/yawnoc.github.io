@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 # .《孫子算經》"(Sun Tz(uu)|孫子)'s Computational Classic"
 
 
-##{#contents} Contents
+##{#contents} Contents of translation
 
 ::::{-class}
 - [.《序》 "Preface"](/sun-tzu/preface/)
