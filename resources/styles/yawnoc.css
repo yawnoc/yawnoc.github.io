@@ -202,18 +202,6 @@ li > ul {
 footer > ul {
   margin: 0.4em 0;
 }
-nav > ul {
-  display: flex;
-  flex-wrap: wrap;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-header > nav > ul {
-  flex-wrap: nowrap;
-  overflow: auto;
-  white-space: nowrap;
-}
 
 
 .alternative-marker {
@@ -395,6 +383,20 @@ h2 > .permalink {
 
 .romanised-untranslated {
   text-decoration: underline 0.1em dotted;
+}
+
+
+.sideways {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+header .sideways {
+  flex-wrap: nowrap;
+  overflow: auto;
+  white-space: nowrap;
 }
 
 

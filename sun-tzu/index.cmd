@@ -42,7 +42,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 ##{#contents} Contents
 
-::::
+::::{-class}
 - [.《序》 "Preface"](/sun-tzu/preface/)
 - [.《卷上》 "Volume~I"](/sun-tzu/i/)
 - [.《卷中》 "Volume~II"](/sun-tzu/i/) (incomplete)
