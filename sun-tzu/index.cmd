@@ -40,6 +40,16 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 # .《孫子算經》"(Sun Tz(uu)|孫子)'s Computational Classic"
 
 
+--
+NOTE:
+  an effort is currently underway to convert pages under `/sun-tzu/`
+  from Conway-Markdown v3 (legacy) to v4.
+  Pages that have already been converted will have the line
+  "Compiled from u`<var>CMD file</var>` with CMDv4.<var>x</var>.<var>y</var>"
+  in the footer.
+--
+
+
 ##{#contents} Contents of translation
 
 ::::{-class}
