@@ -296,7 +296,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
 =={.translation-annotations}
 * .勝： wholly
   --
-  .勝、平聲、 \C [^sh]ing1 (\pm [_s]ing1), \M sh(e-)ng (\gr sh(e\)ng)
+  .勝、平聲、 \C shing1 (\pm sing1), \M sh(e-)ng (\gr sh(e\)ng)
   --
 
 * .盈： beyond; \lit exceedeth
