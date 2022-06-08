@@ -3,9 +3,51 @@ OrdinaryDictionaryReplacement: #.sun-tzu.header-links
 * !!sun-tzu -->
     [Sun Tz(uu)]("You are viewing Sun Tz(uu)'s Computational Classic")
 * !sun-tzu --> [Sun Tz(uu)](/sun-tzu/ "Sun Tz(uu)'s Computational Classic")
+* !!pref --> [Pref.]("You are viewing Preface")
 * !pref --> [Pref.](/sun-tzu/preface/ "Preface")
 * !ii --> [II](/sun-tzu/ii/ "Volume~II")
 * !i --> [I](/sun-tzu/i/ "Volume~I")
 - concluding_replacements:
   #.yawnoc.typography
   #.romanisation.special-characters
+
+
+OrdinaryDictionaryReplacement: #.sun-tzu.surrounds-navigation-arrows
+* ^ ---> ↑
+* <-- ---> ←
+* --> ---> →
+
+
+OrdinaryDictionaryReplacement: #.sun-tzu.boilerplate
+- queue_position: BEFORE #.yawnoc.properties-override
+* %%version-d-default -->
+    Unless noted otherwise, I follow the text from Version~D, .《知不足齋叢書》本.
+* %%surrounds -->
+    <nav class="surrounds">
+    <div class="surrounds-up">
+      %%surrounds-up
+    </div>
+    <div class="surrounds-neighbourhood">
+      <div class="surrounds-previous">
+        %%surrounds-previous
+      </div>
+      <div class="surrounds-current">
+        %%surrounds-current
+      </div>
+      <div class="surrounds-next">
+        %%surrounds-next
+      </div>
+    </div>
+    </nav>
+
+
+RegexDictionaryReplacement: #.sun-tzu.source-links
+- queue_position: BEFORE #specified-links
+* \\a \[ (?P<page> [0-9]+ ) \] -->
+    [Version~A](https://archive.org/details/02094034.cn/page/n\g<page>)
+* \\b \[ (?P<page> [0-9]+ ) \] -->
+    [Version~B](https://commons.wikimedia.org/w/index.php?title=File%3A文淵閣四庫全書_0797冊.djvu&page=\g<page>)
+* \\c \[ (?P<page> [0-9]+ ) \] -->
+    [Version~C](https://ctext.org/sunzi-suan-jing#n\g<page>)
+* \\d \[ (?P<page> [0-9]+ ) \] -->
+    [Version~D](https://ctext.org/library.pl?if=en&file=86926&page=\g<page>)
