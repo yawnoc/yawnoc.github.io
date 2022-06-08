@@ -405,6 +405,28 @@ header .sideways {
 }
 
 
+.surrounds {
+  padding: 0.2em;
+  text-align: center;
+}
+.surrounds-neighbourhood {
+  align-items: center;
+  display: flex;
+}
+.surrounds-previous {
+  flex: 1;
+  text-align: left;
+}
+.surrounds-current {
+  margin-top: 0.1em;
+  font-size: 1.3em;
+}
+.surrounds-next {
+  flex: 1;
+  text-align: right;
+}
+
+
 .thought {
   border: 2px dotted #ec00ce;
   border-radius: 0.5em;
