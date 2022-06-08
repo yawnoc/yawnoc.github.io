@@ -68,7 +68,7 @@ FixedDelimitersReplacement: #.yawnoc.non-header-navigation-lists
 
 OrdinaryDictionaryReplacement: #.yawnoc.header-links
 - queue_position: BEFORE #specified-links
-* !!home --> [Home]("You are already on the home page")
+* !!home --> [Home]("You are viewing the home page")
 * !home --> [Home](/ "Home page")
 * !top --> [Top](# "Jump to top of this page")
 * !translation --> [Translation](#translation "Jump to translation")

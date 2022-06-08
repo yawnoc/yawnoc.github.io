@@ -1,8 +1,7 @@
 OrdinaryDictionaryReplacement: #.sun-tzu.header-links
 - queue_position: BEFORE #backslash-escapes
 * !!sun-tzu -->
-    [Sun Tz(uu)]("You are already on the index page \
-      for Sun Tz(uu)'s Computational Classic")
+    [Sun Tz(uu)]("You are viewing Sun Tz(uu)'s Computational Classic")
 * !sun-tzu --> [Sun Tz(uu)](/sun-tzu/ "Sun Tz(uu)'s Computational Classic")
 * !pref --> [Pref.](/sun-tzu/preface/ "Preface")
 * !ii --> [II](/sun-tzu/ii/ "Volume~II")
