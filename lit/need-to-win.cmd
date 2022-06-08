@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> '"The Need to Win"'
 * %description -->
     A discussion and translation of Chuang Tz(uu)'s alleged `archery` quote, \
-    `When an archer is shooting for nothing, he has all his skill...`
+    `When an archer is shooting for nothing, he has all his skill...`.
 * %date-created --> 2019-04-15
 * %date-modified --> 2022-06-07
 - concluding_replacements:
