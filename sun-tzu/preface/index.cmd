@@ -235,8 +235,8 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
 * .尺丈： .[the] rule .[and the] rod
   --
   Units of length, see [Volume~I \P1](/sun-tzu/i/1).
-  One rule, (chih|尺)~.尺, is of the order one Imperial foot,
-  and one rod, (chang|丈)~.丈, is equal to ten rules.
+  One rule, (chih|尺)~(.尺), is of the order one Imperial foot,
+  and one rod, (chang|丈)~(.丈), is equal to ten rules.
   --
 ==
 
@@ -258,14 +258,14 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   --
   Small units of length (see [Volume~I \P1](/sun-tzu/i/1)),
   respectively a thousandth and a hundredth
-  of the Chinese inch, (ts'un|寸)~.寸.
+  of the Chinese inch, (ts'un|寸)~(.寸).
   --
 
 * .黍絫： .[the] millet .[and the] pile
   --
   Small units of weight (see [Volume~I \P2](/sun-tzu/i/2)),
   respectively a hundredth and a tenth
-  of the Chinese dram, (chu|銖)~.銖,
+  of the Chinese dram, (chu|銖)~(.銖),
   which is of the order one gram.
   --
 ==
