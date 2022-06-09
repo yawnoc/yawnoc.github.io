@@ -23,7 +23,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     #.romanisation.special-characters
     #backslash-continuations
 
-OrdinaryDictionaryReplacement: #.surround-navigation
+OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Sun Tz(uu)'s Computational Classic](/sun-tzu/)
 * %%surrounds-previous -->
