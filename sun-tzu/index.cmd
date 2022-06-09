@@ -41,6 +41,10 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 
 --
+Work in progress for a fully annotated translation
+of _{l=zh} Sunzi Suanjing_ into English.
+--
+--
 NOTE:
   an effort is currently underway to convert pages under `/sun-tzu/`
   from Conway-Markdown v3 (legacy) to v4.
