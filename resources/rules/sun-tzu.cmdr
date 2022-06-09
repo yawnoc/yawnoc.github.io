@@ -6,6 +6,7 @@ OrdinaryDictionaryReplacement: #.sun-tzu.header-links
 * !!pref --> [Pref.]("You are viewing Preface")
 * !pref --> [Pref.](/sun-tzu/preface/ "Preface")
 * !ii --> [II](/sun-tzu/ii/ "Volume~II")
+* !!i --> [I]("You are viewing Volume~I")
 * !i --> [I](/sun-tzu/i/ "Volume~I")
 - concluding_replacements:
   #.yawnoc.typography

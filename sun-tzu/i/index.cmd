@@ -1,110 +1,101 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》
-  %date-created 2019-06-09
-  %date-modified 2020-05-13
-  \resources:maths
-  %description
-    Links to an annotated English translation of Volume~I of Sunzi Suanjing, \
-    《孫子算經》, "\sun-tzu's Computational Classic".
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-09
+- concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
+    #.romanisation.special-characters
+    #backslash-continuations
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [Pref.] ["p" Preface]
-* [I](\- You are viewing Volume~I)
-* [II] ["ii" Volume~II]
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Sun Tz(uu)'s Computational Classic](/sun-tzu/)
+* %%surrounds-previous --> [<-- Pref.](/sun-tzu/preface/)
+* %%surrounds-current --> Vol.~I
+* %%surrounds-next --> [\P1 -->](1)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
-
-#
-  《孫子算經\.卷上》 \+
-  "\sun-tzu's Computational Classic: Volume~I"
-#
-
-{{{{|
-  \nav-up: \sun-tzu's Computational Classic : [""]
-  {{|
-    \nav-prev: Pref. : ["p"]
-    \nav-curr: Vol.~I
-    \nav-next: \P1 : ["i 1"]
-  |}}
-|}}}}
+%%%
 
 
-\noscript:maths
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !pref
+- !!i
+- !ii
+- !cite
+^^^^
+
+# .《孫子算經卷上》"(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I"
+
+%%noscript-equations
 
 
-[||||
+--
 Literally "Upper Volume".
-||||]
+--
 
 
-
-##{#translation-links}
-  Translation (links to paragraphs)
-##
-
-----
-The splitting of each volume into paragraphs is an entirely modern practice,
-and the headings I have allocated are **not** part of the original text.
-----
-
-====
-* [\P1. Units of length (or distance)] ["i 1"]
-* [\P2. Units of weight (or mass)] ["i 2"]
-* [\P3. Units of capacity] ["i 3"]
-* [\P4. Names of large numbers] ["i 4"]
-* [\P5. $\pi \approx 3$, $\sqrt{2} \approx 7/5$] ["i 5"]
-* [\P6. Densities of metals etc.] ["i 6"]
-* [\P7. Rod calculus: vertical \& horizontal forms] ["i 7"]
-* [\P8. Rod calculus: multiplication algorithm] ["i 8"]
-* [\P9. Rod calculus: division algorithm] ["i 9"]
-* [\P10. Volume conversion rates for grain \& rice] ["i 10"]
-* [\P11. Some equivalent fractions~(1)] ["i 11"]
-* [\P12. Some equivalent fractions~(2)] ["i 12"]
-* [\P13. Rod calculus multiplication: $81 \times 81$] ["i 13"]
-* [\P14. Rod calculus division: $6561 \div 9$] ["i 14"]
-* [\P15. Results of multiplication \& division: multiples of~9] ["i 15"]
-* [\P16. Results of multiplication \& division: multiples of~8] ["i 16"]
-* [\P17. Results of multiplication \& division: multiples of~7] ["i 17"]
-* [\P18. Results of multiplication \& division: multiples of~6] ["i 18"]
-* [\P19. Results of multiplication \& division: multiples of~5] ["i 19"]
-* [\P20. Results of multiplication \& division: multiples of~4] ["i 20"]
-* [\P21. Results of multiplication \& division: multiples of~3] ["i 21"]
-* [\P22. Results of multiplication \& division: multiples of~2] ["i 22"]
-* [
-    \P23. Results of multiplication \& division: multiples of~1,
-     and all multiples of~9 through~1 combined
-  ] ["i 23"]
-* [
-    \P24. Results of multiplication \& division: multiples of powers of 3
-  ] ["i 24"]
-====
+%%surrounds
 
 
+##{#contents} Contents of translation
 
-{{{{|
-  \nav-up: \sun-tzu's Computational Classic : [""]
-  {{|
-    \nav-prev: Pref. : ["p"]
-    \nav-curr: Vol.~I
-    \nav-next: \P1 : ["i 1"]
-  |}}
-|}}}}
+--
+The splitting into paragraphs
+is an entirely modern editorial decision,
+and the headings allocated are *not* part of the original text.
+--
+
+::::{-class}
+- [\P1. Units of length (or distance)](1)
+- [\P2. Units of weight (or mass)](2)
+- [\P3. Units of capacity](3)
+- [\P4. Names of large numbers](4)
+- [\P5. $\pi \approx 3$, $\sqrt{2} \approx 7/5$](5)
+- [\P6. Densities of metals etc.](6)
+- [\P7. Rod calculus: vertical \& horizontal forms](7)
+- [\P8. Rod calculus: multiplication algorithm](8)
+- [\P9. Rod calculus: division algorithm](9)
+- [\P10. Volume conversion rates for grain \& rice](10)
+- [\P11. Some equivalent fractions~(1)](11)
+- [\P12. Some equivalent fractions~(2)](12)
+- [\P13. Rod calculus multiplication: $81 \times 81$](13)
+- [\P14. Rod calculus division: $6561 \div 9$](14)
+- [\P15. Results of multiplication & division: multiples of~9](15)
+- [\P16. Results of multiplication & division: multiples of~8](16)
+- [\P17. Results of multiplication & division: multiples of~7](17)
+- [\P18. Results of multiplication & division: multiples of~6](18)
+- [\P19. Results of multiplication & division: multiples of~5](19)
+- [\P20. Results of multiplication & division: multiples of~4](20)
+- [\P21. Results of multiplication & division: multiples of~3](21)
+- [\P22. Results of multiplication & division: multiples of~2](22)
+- [\P23. Results of multiplication & division: multiples of~1,
+    and all multiples of~9 through~1 combined](23)
+- [\P24. Results of multiplication & division: multiples of powers of~3](24)
+::::
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~I"
-]
+%%surrounds
 
-%footer-element
+
+%%cite
+
+
+%%footer
