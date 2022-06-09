@@ -30,7 +30,7 @@ RegexDictionaryReplacement: #.translation.romanised-untranslated
 * \(
     (?P<romanisation> [^\n()]*? )
   [|]
-    (?P<chinese> [\S]+ )
+    (?P<chinese> [\S]+? )
   \)
     -->
   ::{.romanised-untranslated title=\g<chinese>} \g<romanisation>::
