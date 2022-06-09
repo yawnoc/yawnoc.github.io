@@ -760,6 +760,13 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
+##{#see-also} See also
+
+==
+- [.《孫子算經》"(Sun Tz(uu)|孫子)'s Computational Classic"](/sun-tzu/)
+==
+
+
 %%cite
 
 

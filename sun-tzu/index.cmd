@@ -189,6 +189,13 @@ Therefore I will be using the two terms interchangeably.
 --
 
 
+##{#see-also} See also
+
+==
+- [.《海島算經》 ".[The] Sea Island Computational Classic"](/lit/sea-island)
+==
+
+
 %%cite
 
 
