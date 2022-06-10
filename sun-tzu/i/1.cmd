@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P1"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-09
+* %date-modified --> 2022-06-10
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -43,6 +43,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 # .《孫子算經卷上》"(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \P1. Units of length (or distance)
+
+%%noscript-equations
 
 
 %%surrounds
