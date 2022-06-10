@@ -1,179 +1,198 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P2
-  %date-created 2019-06-09
-  %date-modified 2022-02-19
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P2"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P2
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-10
+- concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [I] ["i" Volume~I]
-*> [\P2](\- You are viewing \P2)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~I](./)
+* %%surrounds-previous --> [<-- \P1](1)
+* %%surrounds-current --> \P2
+* %%surrounds-next --> [\P3 -->](3)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+
+%%%
 
 
-#
-  《孫子算經\.卷上》 \+
-  "\sun-tzu's Computational Classic: Volume~I" \+
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !i
+-{.breadcrumbed} !!2
+- !cite
+^^^^
+
+# .《孫子算經卷上》"(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \P2. Units of weight (or mass)
-#
 
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P1 : ["i 1"]
-    \nav-curr: \P2
-    \nav-next: \P3 : ["i 3"]
-  |}}
-|}}}}
+%%noscript-equations
 
 
-\noscript:maths
+%%surrounds
 
-
-[||||
-||||]
-
-
-----
-This paragraph introduces __Chinese units of weight__
+--
+This paragraph introduces Chinese units of weight
 and gives the conversion rates between them.
-----
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[4], \b[146], \c[52059], \d[11]. \+
-\d-default
-----
+--
+Chinese source text: \a[4], \b[146], \c[52059], \d[11]. <br>
+%%version-d-default
+--
 
 <<
   稱之所起、起於黍。
-||
+\\
   .[Of] that which measuring weight beginneth from:
   beginneth .[it] from millet.
 >>
-====
-* 稱： measuring weight; \or weighing \+
-  稱、平聲、 \C [^ch']ing1 (\pm [_ts']ing1), \M ch(e-)ng \+
-  (But in modern Cantonese, read 去聲~[^ch']ing3 for 秤.)
+=={.translation-annotations}
+* .稱： measuring weight; \or weighing
+  --
+  .稱、平聲、 \C ch'ing1 (\pm ts'ing1), \M ch(e-)ng <br>
+  (but in modern Cantonese, read .去聲~ch'ing3 for .秤.)
+  --
 
-* 起： beginneth from; \lit ariseth from
+* .起： beginneth from; \lit ariseth from
 
-* 黍： millet \+
-  黍、音暑、 \C sh(u")2, \M sh(uv) \+
-  ((Shu | ~~黍~~))~(黍).
-====
+* .黍： millet
+  --
+  .黍、音暑、 \C sh(u")2, \M sh(uv)
+  --
+  --
+  (Shu|黍)~(.黍).
+  --
+==
 
 <<
-  十黍為一絫、 \+
-  十絫為一銖、 \+
-  二十四銖為一兩、 \+
-  十六兩為一斤、 \+
-  三十斤為一鈞、 \+
+  十黍為一絫、 <br>
+  十絫為一銖、 <br>
+  二十四銖為一兩、 <br>
+  十六兩為一斤、 <br>
+  三十斤為一鈞、 <br>
   四鈞為一石。
-||
-  Ten millets make one pile; \+
-  ten piles make one dram; \+
-  twenty-four drams make one tael; \+
-  sixteen taels make one catty; \+
-  thirty catties make one quarter; \+
+\\
+  Ten millets make one pile; <br>
+  ten piles make one dram; <br>
+  twenty-four drams make one tael; <br>
+  sixteen taels make one catty; <br>
+  thirty catties make one quarter; <br>
   four quarters make one stone.
 >>
-====
-* 絫： pile \+
-  絫、魯水切、 \C l\_(u")5, \M l(ev)i \+
-  ((Lei | ~~絫~~))~(絫).
+=={.translation-annotations}
+* .絫： pile
+  --
+  .絫、魯水切、 \C l\_(u")5, \M l(ev)i
+  --
+  --
+  (Lei|絫)~(.絫).
   Difficult to render because Chinese dictionaries
-  simply define it as ten ((shu | ~~黍~~))~(黍).
-  I have taken "pile" from the interchangeable 累, "to accumulate/pile/heap".
+  simply define it as ten (shu|黍)~(.黍).
+  I have taken "pile" from the interchangeable .累, "to accumulate/pile/heap".
+  --
 
-* 銖： dram \+
-  銖， \C ch(u")1, \M zh(u-) \+
-  ((Chu | ~~銖~~))~(銖), of the order two grams.
-  According to [Williams' '''Tonic Dictionary'''] [銖],
+* .銖： dram
+  --
+  .銖， \C ch(u")1, \M zh(u-)
+  --
+  --
+  (Chu|銖)~(.銖), of the order two grams.
+  According to [Williams' ''Tonic Dictionary''],
   "a small ancient silver coin",
   so I have chosen "dram" after the eponymous
-  [ancient Greek coin and weight] [dram],
+  [ancient Greek coin and weight],
   which is of similar magnitude.
-  
-  @@[銖]
-    https://archive.org/details/tonicdictionaryo00will/page/30/mode/1up
-  @@
-  @@[dram]
-    https://en.wikipedia.org/wiki/Dram_(unit)
-  @@
+  --
 
-* 兩： [tael] \+
-  ((Liang | ~~兩~~))~(兩).
+  [Williams' ''Tonic Dictionary'']:
+    https://archive.org/details/tonicdictionaryo00will/page/30/mode/1up
+  [ancient Greek coin and weight]:
+    https://en.wikipedia.org/wiki/Dram_(unit)
+
+* .兩： [tael]
+  --
+  (Liang|兩)~(.兩).
+  --
+  --
   One sixteenth of a catty,
   except in Mainland China where it has been metricised to a tenth,
-  thus ruining the phrase 半斤八兩, "half .[a] catty .[is] eight taels".
-  
-  @@[tael]
-    https://en.wikipedia.org/wiki/Tael
-  @@
+  thus ruining the phrase .半斤八兩, "half .[a] catty .[is] eight taels".
+  --
 
-* 斤： [catty] \+
-  ((Kin | ~~斤~~))~(斤).
+  [tael]: https://en.wikipedia.org/wiki/Tael
+
+* .斤： [catty]
+  --
+  (Kin|斤)~(.斤).
+  --
+  --
   Of the order one pound, or half a kilogram.
-  
-  @@[catty]
-    https://en.wikipedia.org/wiki/Catty
-  @@
+  --
 
-* 鈞： quarter \+
-  鈞、音均、 \C kwan1, \M j(u-)n \+
-  ((K(u")n | ~~鈞~~))~(鈞).
-  A quarter of the ((shih | ~~石~~))~(石) or "stone" below,
+  [catty]: https://en.wikipedia.org/wiki/Catty
+
+* .鈞： quarter
+  --
+  .鈞、音均、 \C kwan1, \M j(u-)n
+  --
+  --
+  (K(u")n|鈞)~(.鈞).
+  A quarter of the (shih|石)~(.石) or "stone" below,
   and of similar weight to the [imperial quarter] (28~pounds).
   Difficult to render otherwise
   since Chinese dictionaries simply define it as thirty catties.
-  
-  @@[imperial quarter]
-    https://en.wikipedia.org/wiki/Quarter_(unit)#Weight
-  @@
+  --
 
-* \c[52059] erroneously has 鉤 for 鈞.
+  [imperial quarter]: https://en.wikipedia.org/wiki/Quarter_(unit)#Weight
 
-* 石： stone \+
-  ((Shih | ~~石~~))~(石).
+* \c[52059] erroneously has .鉤 for .鈞.
+
+* .石： stone
+  --
+  (Shih|石)~(.石).
+  --
+  --
   This is a literal rendering.
-  The Chinese stone ((shih | ~~石~~))~(石) is of the order 120~pounds,
+  The Chinese stone (shih|石)~(.石) is of the order 120~pounds,
   making it closer to the [imperial hundredweight]
   than the *much* lighter imperial stone (14~pounds).
-  
-  @@[imperial hundredweight]
-    https://en.wikipedia.org/wiki/Hundredweight
-  @@
-====
+  --
+
+  [imperial hundredweight]: https://en.wikipedia.org/wiki/Hundredweight
+==
 
 
-##{#commentary}
-  Extended commentary
-##
+##{#commentary} Extended commentary
 
-----
+--
 I can't be bothered looking up a reputable source
-for the precise weight of a ((kin | ~~斤~~))~(斤) or catty
-when \sun-tzu's Computational Classic was first written,
+for the precise weight of a (kin|斤)~(.斤) or catty
+when Sun Tz(uu)'s Computational Classic was first written,
 but using 600~grams as an estimate,
 we have:
-----
+--
 $$
   \begin{alignedat}{3}
     1 \unit{millet~(黍)} &={} & \tfrac{1}{38400} & \unit{catties}
@@ -192,18 +211,16 @@ $$
       && \sim 72 \unit{kg}.
   \end{alignedat}
 $$
-
-----
-By the later part of the Ts'ing Dynasty,
-one ((kin | ~~斤~~))~(斤) or catty is 1⅓~pounds in Hong Kong,
-locally called a ((kan | ~~斤~~))~(斤).
+--
+By the later part of the (Ts'ing|清) Dynasty,
+one (kin|斤)~(.斤) or catty is 1⅓~pounds in Hong Kong,
+locally called a (kan|斤)~(.斤).
 As with length units,
-[Ordinance No.~22 of~1844 (PDF)] [ord 22 of 1844] of Hong Kong
+[Ordinance No.~22 of~1844 (PDF)] of Hong Kong
 gives the relevant conversions between the Chinese units themselves
 (here, candareen and mace are used rather than "piles" and "drams"):
-----
-
-||||{.centred-block}
+--
+||{.centred}
   ![
     Image of Ordinance Number 22 of 1844, British Hong Kong. \
     Weights. \
@@ -212,28 +229,16 @@ gives the relevant conversions between the Chinese units themselves
       Sixteen Taels or 兩 Leang, make one 斤 Kin, (Catty). \
       One hundred Catties or 斤 Kin, make one 担 Tam, (Picul). \
       One and one fifth Picul or 担 Tam, make one 石 Shik, (Stone). \
-  ](
-    ord-1844-no-22-weights.jpg
-  )
-||||
+  ](ord-1844-no-22-weights.jpg)
+||
 
-@@[ord 22 of 1844]
-  http://oelawhk.lib.hku.hk/archive/files/\
-    9c24f167a27b616a75db9691574eb925.pdf
-@@
-@@[ord 8 of 1885]
-  http://oelawhk.lib.hku.hk/archive/files/\
-    52fa22f83069cf6a385779d462a0f6e7.pdf
-@@
-
-----
+--
 And likewise they are only standardised
 with reference to English units forty years later,
-in [Ordinance No.~8 of~1885 (PDF)] [ord 8 of 1885]
+in [Ordinance No.~8 of~1885 (PDF)]
 (note the typo in the definition of candareen):
-----
-
-||||{.centred-block}
+--
+||{.centred}
   ![
     Image of Ordinance Number 8 of 1885, British Hong Kong. \
     Weights. \
@@ -242,34 +247,25 @@ in [Ordinance No.~8 of~1885 (PDF)] [ord 8 of 1885]
       One Leung (tael) equals one and one third oz. avoirdupois. \
       One Kan (catty) equals one and one third lbs. avoirdupois. \
       One Tam (picul) equals 133 and one third lbs. avoirdupois. \
-  ](
-    ord-1885-no-8-weights.jpg
-  )
-||||
+  ](ord-1885-no-8-weights.jpg)
+||
 
-----
-Eventually the ((kan | ~~斤~~))~(斤) or catty is given the
+--
+Eventually the (kan|斤)~(.斤) or catty is given the
 *almost* equivalent definition of 0.60478982~kg,
 used unto this day in Hong Kong street markets;
-see [Cap.~68 Weights and Measures Ordinance] [cap 68].
-----
+see [Cap.~68 Weights and Measures Ordinance].
+--
 
-@@[cap 68]
-  https://www.elegislation.gov.hk/hk/cap68
-@@
-
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P1 : ["i 1"]
-    \nav-curr: \P2
-    \nav-next: \P3 : ["i 3"]
-  |}}
-|}}}}
+[Ordinance No.~22 of~1844 (PDF)]: http://oelawhk.lib.hku.hk/archive/files/9c24f167a27b616a75db9691574eb925.pdf
+[Ordinance No.~8 of~1885 (PDF)]: http://oelawhk.lib.hku.hk/archive/files/52fa22f83069cf6a385779d462a0f6e7.pdf
+[Cap.~68 Weights and Measures Ordinance]: https://www.elegislation.gov.hk/hk/cap68
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~I \P2"
-]
+%%surrounds
 
-%footer-element
+
+%%cite
+
+
+%%footer
