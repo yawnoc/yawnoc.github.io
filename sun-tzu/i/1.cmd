@@ -20,7 +20,6 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
     #.romanisation.special-characters
-    #backslash-continuations
 
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
