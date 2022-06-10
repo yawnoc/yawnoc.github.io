@@ -23,7 +23,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
-* %%surrounds-up --> [^ Sun Tz(uu)'s Computational Classic](/sun-tzu/)
+* %%surrounds-up --> [^ Volume~I](./)
 * %%surrounds-previous --> [<-- Vol.~I](./)
 * %%surrounds-current --> \P1
 * %%surrounds-next --> [\P2 -->](2)
