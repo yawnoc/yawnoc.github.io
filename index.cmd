@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-06-10
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -99,7 +99,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
   ==
   - [.《序》 "Preface"](/sun-tzu/preface/)
   - [.《卷上》 "Volume~I"](/sun-tzu/i/)
-  - [.《卷中》 "Volume~II"](/sun-tzu/i/) (incomplete)
+  - [.《卷中》 "Volume~II"](/sun-tzu/ii/) (incomplete)
   - .《卷下》 "Volume~III" (haven't started)
   ==
 
