@@ -126,13 +126,13 @@ since it does not adequately pinpoint a specific material.
       Material
     ;
       (Sun Tz(uu)|孫子) value <br>
-      $\rho_\text{s} / (\unit{taels} \unit{inch}^{-3})$
+      $\rho_\text{s} / (\unit{tael} \unit{inch}^{-3})$
     ;
       Modern value <br>
       $\rho_\text{m} / (\unit{g} \unit{cm}^{-3})$
     ;
       $\dfrac{
-        \rho_\text{s} / (\unit{taels} \unit{inch}^{-3})
+        \rho_\text{s} / (\unit{tael} \unit{inch}^{-3})
       }{
         \rho_\text{m} / (\unit{g} \unit{cm}^{-3})
       }$
@@ -200,7 +200,7 @@ Discarding the outliers .銀~(silver) and .玉~(jade)
 and forcing a least squares fit through the origin, we get
 --
 $$
-  \frac{\rho_\text{s}}{\unit{taels} \unit{inch}^{-3}}
+  \frac{\rho_\text{s}}{\unit{tael} \unit{inch}^{-3}}
   = 0.834229 \cdot \frac{\rho_\text{m}}{\unit{g} \unit{cm}^{-3}}
 $$
 --

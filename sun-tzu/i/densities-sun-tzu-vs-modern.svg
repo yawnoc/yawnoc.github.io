@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-4 -18 26 22" width="480px" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+line, polyline {
+  stroke: black;
+  stroke-width: 0.21%; /* 1px/480px */
+}
+polyline {
+  fill: none;
+}
+text {
+  font-family: serif;
+  font-size: 1px;
+  text-anchor: middle;
+}
+.superscript, .subscript {
+  font-size: 0.8px;
+}
+.thick {
+  stroke-width: 0.42%; /* 2px/480px */
+}
+.variable {
+  font-style: italic;
+}
+</style>
+
+<defs>
+  <marker id="x-tick-coarse" viewBox="-0.1 0 0.2 0.4"
+    markerUnits="userSpaceOnUse"
+    refX="0" refY="0" markerWidth="0.2" markerHeight="0.4">
+    <line x1="0" y1="0" x2="0" y2="0.4"/>
+  </marker>
+  <marker id="x-tick-fine" viewBox="-0.1 0 0.2 0.25"
+    markerUnits="userSpaceOnUse"
+    refX="0" refY="0" markerWidth="0.2" markerHeight="0.25">
+    <line x1="0" y1="0" x2="0" y2="0.25"/>
+  </marker>
+  <marker id="y-tick-coarse" viewBox="-0.4 -0.1 0.4 0.2"
+    markerUnits="userSpaceOnUse"
+    refX="0" refY="0" markerWidth="0.4" markerHeight="0.2">
+    <line x1="-0.4" y1="0" x2="0" y2="0"/>
+  </marker>
+  <marker id="y-tick-fine" viewBox="-0.25 -0.1 0.25 0.2"
+    markerUnits="userSpaceOnUse"
+    refX="0" refY="0" markerWidth="0.25" markerHeight="0.2">
+    <line x1="-0.25" y1="0" x2="0" y2="0"/>
+  </marker>
+  <marker id="data-point" viewBox="-0.5 -0.5 1 1"
+    markerUnits="userSpaceOnUse"
+    refX="0" refY="0" markerWidth="1" markerHeight="1">
+    <line class="thick" x1="-0.3" y1="-0.3" x2="0.3" y2="0.3"/>
+    <line class="thick" x1="-0.3" y1="0.3" x2="0.3" y2="-0.3"/>
+  </marker>
+</defs>
+
+<!-- Horizontal axis -->
+<line x1="0" y1="0" x2="20.5" y2="0"/>
+<text x="11" y="0" dy="3em"><tspan class="variable">ρ</tspan><tspan dy="0.25em -0.25em" class="subscript">m​</tspan> / (g cm<tspan dy="-0.4em 0 0.4em" class="superscript">−3​</tspan>)</text>
+<polyline class="points" points="5,0 10,0 15,0 20,0"
+  marker-start="url(#x-tick-coarse)"
+  marker-mid="url(#x-tick-coarse)"
+  marker-end="url(#x-tick-coarse)"
+/>
+<text x="5" y="0" dy="1.5em">5</text>
+<text x="10" y="0" dy="1.5em">10</text>
+<text x="15" y="0" dy="1.5em">15</text>
+<text x="20" y="0" dy="1.5em">20</text>
+<polyline class="points" points="1,0 2,0 3,0 4,0 6,0 7,0 8,0 9,0 11,0 12,0 13,0 14,0 16,0 17,0 18,0 19,0"
+  marker-start="url(#x-tick-fine)"
+  marker-mid="url(#x-tick-fine)"
+  marker-end="url(#x-tick-fine)"
+/>
+
+<!-- Vertical axis -->
+<line x1="0" y1="0" x2="0" y2="-17.5"/>
+<text x="0" y="-8.5" dy="-3em" transform="rotate(-90 0 -8.5)"><tspan class="variable">ρ</tspan><tspan dy="0.25em -0.25em" class="subscript">s</tspan> / (tael inch<tspan dy="-0.4em 0 0.4em" class="superscript">−3​</tspan>)</text>
+<polyline class="points" points="0,-5 0,-10 0,-15"
+  marker-start="url(#y-tick-coarse)"
+  marker-mid="url(#y-tick-coarse)"
+  marker-end="url(#y-tick-coarse)"
+/>
+<text x="0" y="-5" dx="-1.2em" dy="0.33em">5</text>
+<text x="0" y="-10" dx="-1.4em" dy="0.33em">10</text>
+<text x="0" y="-15" dx="-1.4em" dy="0.33em">15</text>
+<polyline class="points" points="0,-1 0,-2 0,-3 0,-4 0,-6 0,-7 0,-8 0,-9 0,-11 0,-12 0,-13 0,-14 0,-16 0,-17"
+  marker-start="url(#y-tick-fine)"
+  marker-mid="url(#y-tick-fine)"
+  marker-end="url(#y-tick-fine)"
+/>
+
+<!-- Data -->
+<polyline class="points" points="19.29,-16" marker-end="url(#data-point)"/>
+  <text x="19.29" y="-16" dx="1em" dy="1.5em"><tspan lang="zh-Hant">金</tspan> Gold</text>
+<polyline class="points" points="10.5,-14" marker-end="url(#data-point)"/>
+  <text x="10.5" y="-14" dy="-0.6em"><tspan lang="zh-Hant">銀</tspan> Silver</text>
+<polyline class="points" points="3,-12" marker-end="url(#data-point)"/>
+  <text x="3" y="-12" dy="-0.7em"><tspan lang="zh-Hant">玉</tspan> Jade</text>
+<polyline class="points" points="8.79,-7.5" marker-end="url(#data-point)"/>
+  <text x="8.79" y="-7.5" dx="-1.5em" dy="-0.7em"><tspan lang="zh-Hant">銅</tspan> Copper</text>
+<polyline class="points" points="11.35,-9.5" marker-end="url(#data-point)"/>
+  <text x="11.35" y="-9.5" dx="-1.4em" dy="-0.6em"><tspan lang="zh-Hant">鉛</tspan> Lead</text>
+<polyline class="points" points="7.2,-6" marker-end="url(#data-point)"/>
+  <text x="7.2" y="-6" dx="2.2em" dy="1.5em"><tspan lang="zh-Hant">鐵</tspan> Cast iron</text>
+
+<!-- Fit (slope 0.834229) -->
+<line x1="0" y1="0" x2="20" y2="-16.68458"/>
+
+</svg>
