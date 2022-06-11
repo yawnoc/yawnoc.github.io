@@ -427,7 +427,7 @@ I have mapped the names of the vertices as follows:
 
 ||||{.centred}
   ![SVG reproduction of the Sea Island diagram in the original Chinese text.]\
-    {w=480}(sea-island-derivation-diagram-0-full.svg)
+    (sea-island-derivation-diagram-0-full.svg)
 ||||
 
 
@@ -437,7 +437,7 @@ I have mapped the names of the vertices as follows:
     ![Creating the diagram from scratch: \
       draw a vertical segment AB representing the sea island, \
       and draw an horizontal line out from B representing ground level.]\
-      {w=480}(sea-island-derivation-diagram-1-ab.svg)
+      (sea-island-derivation-diagram-1-ab.svg)
   ||
 
   <<
@@ -456,7 +456,7 @@ I have mapped the names of the vertices as follows:
   ||{.centred}
     ![Draw a segment CD representing the front post (with D at ground level), \
       then extend AC until it hits ground level at E.]\
-      {w=480}(sea-island-derivation-diagram-2-cd.svg)
+      (sea-island-derivation-diagram-2-cd.svg)
   ||
 
   <<
@@ -478,7 +478,7 @@ I have mapped the names of the vertices as follows:
   ||{.centred}
     ![Draw a segment FG representing the rear post (with G at ground level), \
       then extend AF until it hits ground level at H.]\
-      {w=480}(sea-island-derivation-diagram-3-fg.svg)
+      (sea-island-derivation-diagram-3-fg.svg)
   ||
 
   <<
@@ -499,7 +499,7 @@ I have mapped the names of the vertices as follows:
 
   ||{.centred}
     ![Extend FC to meet AB at O.]\
-      {w=480}(sea-island-derivation-diagram-4-with-gedb.svg)
+      (sea-island-derivation-diagram-4-with-gedb.svg)
   ||
 
   <<
@@ -520,7 +520,7 @@ I have mapped the names of the vertices as follows:
 
   ||{.centred}
     ![Construct FI such that it has the same magnitude and direction as CE.]\
-      {w=480}(sea-island-derivation-diagram-5-with-ce.svg)
+      (sea-island-derivation-diagram-5-with-ce.svg)
   ||
 
   <<
@@ -536,7 +536,7 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-6-fgh-shape-with.svg)
+    ![](sea-island-derivation-diagram-6-fgh-shape-with.svg)
   ||
 
   <<
@@ -555,7 +555,7 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-7-fgi-shape-with.svg)
+    ![](sea-island-derivation-diagram-7-fgi-shape-with.svg)
   ||
 
   <<
@@ -571,7 +571,7 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-8-fgh-shape-split.svg)
+    ![](sea-island-derivation-diagram-8-fgh-shape-split.svg)
   ||
 
   <<
@@ -616,7 +616,7 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-9-aof-shape-split.svg)
+    ![](sea-island-derivation-diagram-9-aof-shape-split.svg)
   ||
 
   <<
@@ -633,7 +633,7 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-10-using-small.svg)
+    ![](sea-island-derivation-diagram-10-using-small.svg)
   ||
 
   <<
@@ -662,7 +662,7 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-11-having-obtained.svg)
+    ![](sea-island-derivation-diagram-11-having-obtained.svg)
   ||
 
   <<
@@ -712,7 +712,7 @@ I have mapped the names of the vertices as follows:
 ||||{.group}
 
   ||{.centred}
-    ![]{w=480}(sea-island-derivation-diagram-12-small-major-cathetus.svg)
+    ![](sea-island-derivation-diagram-12-small-major-cathetus.svg)
   ||
 
   <<
