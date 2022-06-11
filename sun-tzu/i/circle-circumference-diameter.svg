@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.1 -1.5 2.2 2.6">
+
+<style>
+circle, line {
+  fill: none;
+  stroke: black;
+  vector-effect: non-scaling-stroke;
+}
+text {
+  font-family: serif;
+  font-size: 0.4px;
+  text-anchor: middle;
+}
+.variable {
+  font-style: italic;
+}
+</style>
+
+<circle r="1"/>
+<text x="0" y="-1" dy="-0.25em" class="variable">C</text>
+
+<line x1="-1" y1="0" x2="1" y2="0"/>
+<text x="0" y="0" dy="-0.25em" class="variable">d</text>
+
+</svg>

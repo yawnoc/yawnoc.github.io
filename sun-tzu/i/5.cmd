@@ -110,7 +110,7 @@ $$
 
 ||{.centred}
   ![Diagram of a circle of circumference C and diameter d.]\
-    (circle-circumference-diameter.svg)
+    {w=120}(circle-circumference-diameter.svg)
 ||
 
 --
