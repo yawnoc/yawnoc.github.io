@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     Conway's Romanisation for Cantonese, \
     with English approximations and a diagram of the nine tones.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-06-11
 * %styles -->
     .vertical-rtl {
       writing-mode: vertical-rl;
