@@ -129,7 +129,7 @@ Parentheticals are (half-column) inline annotations in the original text.
 
   ||{.centred}
     ![Diagram representing a sea island and two posts of equal height.]\
-      {w=480}(sea-island-problem-diagram-1-suppose-there-be.svg)
+      (sea-island-problem-diagram-1-suppose-there-be.svg)
   ||
 
   <<
@@ -172,7 +172,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     ![Diagram showing a backward walk from the front post, such that \
       the sea island's peak, the post's tip, and an eye at ground level \
       are collinear.]\
-      {w=480}(sea-island-problem-diagram-2-from-front-post.svg)
+      (sea-island-problem-diagram-2-from-front-post.svg)
   ||
 
   <<
@@ -199,7 +199,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     ![Diagram showing a backward walk from the rear post, such that \
       the sea island's peak, the post's tip, and an eye at ground level \
       are collinear.]\
-      {w=480}(sea-island-problem-diagram-3-from-rear-post.svg)
+      (sea-island-problem-diagram-3-from-rear-post.svg)
   ||
 
   <<
@@ -220,7 +220,7 @@ Parentheticals are (half-column) inline annotations in the original text.
   ||{.centred}
     ![Diagram showing the sought-after quantities: \
       the sea island's height and the distance from front post.]\
-      {w=480}(sea-island-problem-diagram-4-ask-island-height.svg)
+      (sea-island-problem-diagram-4-ask-island-height.svg)
   ||
 
   <<
