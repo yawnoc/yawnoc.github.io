@@ -1341,7 +1341,7 @@ and is **never** sounded as a consonant.
 
 
 ||||{.centred}
-  ![Pitch diagram of the nine tones of Cantonese.]{w=480}(tone-diagram.svg)
+  ![Pitch diagram of the nine tones of Cantonese.](tone-diagram.svg)
 ||||
 
 --
