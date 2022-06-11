@@ -131,7 +131,7 @@ $$
 
 ||{.centred}
   ![Diagram of a square of side length L and diagonal D.]\
-    (square-side-length-diagonal.svg)
+    {w=120}(square-side-length-diagonal.svg)
 ||
 
 
