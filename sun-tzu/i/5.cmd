@@ -110,7 +110,7 @@ $$
 
 ||{.centred}
   ![Diagram of a circle of circumference C and diameter d.]\
-    {w=120}(circle-circumference-diameter.svg)
+    (circle-circumference-diameter.svg)
 ||
 
 --
@@ -131,7 +131,7 @@ $$
 
 ||{.centred}
   ![Diagram of a square of side length L and diagonal D.]\
-    {w=120}(square-side-length-diagonal.svg)
+    (square-side-length-diagonal.svg)
 ||
 
 
