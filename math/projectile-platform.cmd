@@ -50,7 +50,7 @@ although more algebra is required to compute it.
 
 ||{.centred}
   ![Diagram for projectile motion from a raised platform.]\
-    {w=360}(projectile-motion-raised-platform.svg)
+    (projectile-motion-raised-platform.svg)
 ||
 
 --
