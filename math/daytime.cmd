@@ -416,7 +416,7 @@ meaning $\mathrm{atan2} (y, x)$
     azimuthal angle curly-phi, \
     base cos Y (adjacent to curly-phi), \
     and height cos tau sin Y (opposite curly-phi).]\
-    {w=320}(daytime-tilt-reduced-quantities.svg)
+    (daytime-tilt-reduced-quantities.svg)
 ||
 
 --
