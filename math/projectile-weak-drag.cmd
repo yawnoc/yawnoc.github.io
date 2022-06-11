@@ -75,7 +75,7 @@ for the optimal launch angle when air resistance is relatively weak.
 ||{.centred}
   ![Diagram for projectile motion with air resistance, \
     which causes the trajectory to be asymmetric instead of parabolic.]\
-    {w=360}(projectile-motion-air-resistance.svg)
+    (projectile-motion-air-resistance.svg)
 ||
 
 
@@ -521,7 +521,7 @@ Indeed the asymptotic expansion is very accurate for $B < 0.5$
 --
 ||{.centred}
   ![Graph of optimal launch angle (phi) versus the dimensionless group B.]\
-    {w=480}(projectile-weak-drag-phi-vs-b.svg)
+    (projectile-weak-drag-phi-vs-b.svg)
 ||
 --
 The true optimal launch angle is a decreasing function of $B$.
@@ -539,7 +539,7 @@ $\sqrt{B} = u / c$, the initial-to-terminal speed ratio:
 ||{.centred}
   ![Graph of optimal launch angle (phi) versus the \
     initial-to-terminal speed ratio (u divided by c).]\
-    {w=480}(projectile-weak-drag-phi-vs-u-on-c.svg)
+    (projectile-weak-drag-phi-vs-u-on-c.svg)
 ||
 
 
