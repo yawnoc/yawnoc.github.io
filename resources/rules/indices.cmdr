@@ -1,0 +1,4 @@
+RegexDictionaryReplacement: #.indices.superscripts
+- queue_position: BEFORE #inline-semantics
+* \^ (?P<index> [0-9]+ ) --> <sup>\g<index></sup>
+* \^ \{ (?P<index> [\s\S]*? ) \} --> <sup>\g<index></sup>
