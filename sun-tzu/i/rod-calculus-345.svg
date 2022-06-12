@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-0.5 -0.5 3 1" width="126px" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+line {
+  stroke: black;
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+</style>
+
+<!-- 3 -->
+<g>
+  <line x1="-0.1" y1="-0.25" x2="-0.1" y2="0.25"/>
+  <line x1="0" y1="-0.25" x2="0" y2="0.25"/>
+  <line x1="0.1" y1="-0.25" x2="0.1" y2="0.25"/>
+</g>
+
+<!-- 4 -->
+<g transform="translate(1 0)">
+  <line x1="-0.25" y1="-0.15" x2="0.25" y2="-0.15"/>
+  <line x1="-0.25" y1="-0.05" x2="0.25" y2="-0.05"/>
+  <line x1="-0.25" y1="0.05" x2="0.25" y2="0.05"/>
+  <line x1="-0.25" y1="0.15" x2="0.25" y2="0.15"/>
+</g>
+
+<!-- 5 -->
+<g transform="translate(2 0)">
+  <line x1="-0.2" y1="-0.25" x2="-0.2" y2="0.25"/>
+  <line x1="-0.1" y1="-0.25" x2="-0.1" y2="0.25"/>
+  <line x1="0" y1="-0.25" x2="0" y2="0.25"/>
+  <line x1="0.1" y1="-0.25" x2="0.1" y2="0.25"/>
+  <line x1="0.2" y1="-0.25" x2="0.2" y2="0.25"/>
+</g>
+
+</svg>
