@@ -122,6 +122,7 @@ img {
   align-self: center;
   max-width: 100%;
   height: auto;
+  vertical-align: middle;
 }
 .wide img {
   max-width: none;
