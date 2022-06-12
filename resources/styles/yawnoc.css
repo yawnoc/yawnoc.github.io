@@ -123,6 +123,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+.wide img {
+  max-width: none;
+}
 
 
 li {
