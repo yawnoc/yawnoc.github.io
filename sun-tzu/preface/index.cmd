@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the Preface to Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-08
+* %date-modified --> 2022-06-12
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -45,7 +45,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 
-# .《孫子算經序》"(Sun Tz(uu)|孫子)'s Computational Classic: Preface"
+# .《孫子算經序》 "(Sun Tz(uu)|孫子)'s Computational Classic: Preface"
 
 
 %%surrounds

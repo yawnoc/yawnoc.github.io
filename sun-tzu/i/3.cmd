@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P3"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P3
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-11
+* %date-modified --> 2022-06-12
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -43,7 +43,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 
-# .《孫子算經卷上》"(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
+# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \P3. Units of capacity
 
 %%noscript-equations
