@@ -187,4 +187,3 @@ from placing vertical forms next to each other.
 
 
 %%footer
---
