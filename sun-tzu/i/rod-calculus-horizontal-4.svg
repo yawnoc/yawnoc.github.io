@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-0.5 -0.5 1 1" width="42px" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+line {
+  stroke: black;
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+</style>
+
+<line x1="-0.25" y1="-0.15" x2="0.25" y2="-0.15"/>
+<line x1="-0.25" y1="-0.05" x2="0.25" y2="-0.05"/>
+<line x1="-0.25" y1="0.05" x2="0.25" y2="0.05"/>
+<line x1="-0.25" y1="0.15" x2="0.25" y2="0.15"/>
+
+</svg>
