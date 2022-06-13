@@ -159,20 +159,20 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 ==
 
 <<
-  故或步法十者置於十位，百者置於百位。
+  故或步法十者置於十位、百者置於百位。
 \\
   Therefore if .[we have] stepped .[the] divisor .[unto the]
   tens, put .[the result]
   in .[the] tens place;
-  .[if], .[unto the] hundreds,
+  .[if unto the] hundreds,
   put .[the result] in .[the] hundreds place.
 >>
 
 <<
-  （上位有空絕者，法退二位。）
+  （上位有空絕者、法退二位。）
 \\
-  (.[If among the] upper places there be .[an] empty,
-  disconnected one, .[the] divisor .[shall be] retreated two places.)
+  (.[Should the] upper places have .[an] empty severing one,
+  .[the] divisor .[is] retreated two places.)
 >>
 =={.translation-annotations}
 * This line I have bracketed for it is an inline annotation
@@ -193,19 +193,19 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 >>
 
 <<
-  實有餘者，以法命之，以法為母，實餘為子。
+  實有餘者、以法命之、以法為母、實餘為子。
 \\
-  .[If the] dividend hath .[a] remainder,
+  .[Should the] dividend have .[a] remainder,
   name it .[for a fraction] using .[the] divisor:
   use .[the] divisor as .[the] denominator,
   .[and the] dividend remainder as .[the] numerator.
 >>
 =={.translation-annotations}
-* .命： name; \or designate
+* .命： name
 
 * In other words, if you get a remainder $r$ after dividing by $d$,
   "name $r$ .[for a fraction] using $d$",
-  i.e.~form the fraction $\dfrac{r}{d}$.
+  i.e.~form the fraction $r/d$.
 ==
 
 

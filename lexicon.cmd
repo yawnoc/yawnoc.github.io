@@ -1651,6 +1651,7 @@ See also: [嬉戲]
 0 [子] U+5B50
 ==
 * child; son; daughter
+* numerator
 * master {:teacher:}; \met thou
 ==
 ==
@@ -2383,7 +2384,7 @@ See also: [性命]
 
 4 [或] U+6216
 ==
-* perhaps
+* perhaps; if
 * someone
 ==
 
@@ -3103,6 +3104,7 @@ See also: [改正]
 1 [母] U+6BCD
 ==
 * mother
+* denominator
 ==
 
 
@@ -3906,6 +3908,16 @@ See also: [規矩]
 2 [究] U+7A76
 ==
 * scrutinise
+==
+
+3 [空] U+7A7A
+[平聲]
+==
+* empty; void
+==
+[去聲]
+==
+* deplete
 ==
 
 7 [窗] U+7A97
