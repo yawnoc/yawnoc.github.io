@@ -11,106 +11,107 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/resources/styles/main.min.css">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 <script defer src="/resources/scripts/rendering.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin onerror="this.removeAttribute('integrity');this.removeAttribute('onerror');this.setAttribute('href','/resources/katex/katex.min.css')">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin onerror="let a=document.createElement('script');a.setAttribute('src','/resources/katex/katex.min.js');a.setAttribute('onload', 'renderMaths()');document.head.appendChild(a);
-this.remove()" onload="renderMaths()"></script>
-<title>"Sun Tzŭ's Computational Classic: Volume&nbsp;I" 《孫子算經・卷上》 ¶9 | Conway's site</title>
+<link rel="stylesheet" href="/resources/katex/katex.min.css">
+<script defer src="/resources/katex/katex.min.js" onload="renderMaths()"></script>
+<title>"Sun Tzŭ's Computational Classic: Volume I" 《孫子算經卷上》 ¶9 | Conway's site</title>
 </head>
 <body>
 <header>
 <nav>
-<ul>
-<li><a href="/" title="Home page">Home</a>
+<ul class="sideways">
+<li>
+<a href="/" title="Home page">Home</a>
 </li>
-<li><a href="#" title="Jump back to top">Top</a>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
 </li>
-<li><a href="/sun-tzu/" title="Sun Tzŭ's Computational Classic">Sun Tzŭ</a>
+<li>
+<a href="/sun-tzu/" title="Sun Tzŭ's Computational Classic">Sun Tzŭ</a>
 </li>
-<li class="breadcrumb"><a href="/sun-tzu/i/" title="Volume&nbsp;I">I</a>
+<li class="breadcrumbed">
+<a href="/sun-tzu/i/" title="Volume I">I</a>
 </li>
-<li class="breadcrumb"><a title="You are viewing ¶9">¶9</a>
+<li class="breadcrumbed">
+<a title="You are viewing ¶9">¶9</a>
 </li>
-<li><a href="#cite" title="Cite this page">Cite</a>
+<li>
+<a href="#cite" title="Cite this page">Cite</a>
 </li>
 </ul>
 </nav>
 </header>
-<h1><span lang="zh-Hant">《孫子算經・卷上》</span><br>
-"Sun Tzŭ's Computational Classic: Volume&nbsp;I"<br>
+<h1><span lang="zh-Hant">《孫子算經卷上》</span> "<span class="romanised-untranslated" title="孫子">Sun Tzŭ</span>'s Computational Classic: Volume I"<br>
 ¶9. Rod calculus: division algorithm</h1>
-<nav class="surrounds">
-<div class="up">
-<a href="/sun-tzu/i/">↑ Volume&nbsp;I</a>
-</div>
-<div class="adjacent">
-<div class="previous">
-<a href="/sun-tzu/i/8">← ¶8</a>
-</div>
-<div class="current">
-¶9
-</div>
-<div class="next">
-<a href="/sun-tzu/i/10">¶10 →</a>
-</div>
-</div>
-</nav>
 <noscript>
 <strong class="noscript">Enable JavaScript for equation rendering to work.</strong>
 </noscript>
-<div class="page-properties">
-Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/i/9.cmd">sun-tzu/i/9.cmd</a><br>
-First created: 2019-06-09<br>
-Last modified: 2020-05-13
+<nav class="surrounds">
+<div class="surrounds-up">
+<a href="./">↑ Volume I</a>
 </div>
+<div class="surrounds-neighbourhood">
+<div class="surrounds-previous">
+<a href="8">← ¶8</a>
+</div>
+<div class="surrounds-current">
+¶9
+</div>
+<div class="surrounds-next">
+<a href="10">¶10 →</a>
+</div>
+</div>
+</nav>
 <p>
-This paragraph describes the algorithm for <b>dividing two integers</b>
+This paragraph describes the algorithm for dividing two integers
 represented using rod numerals.
 For a brief description of rod numerals,
-see <a href="/sun-tzu/i/7#commentary">¶7 commentary</a>.
+see <a href="7#commentary">¶7 commentary</a>.
 </p>
-<h2 id="translation"><a class="permalink" href="#translation" aria-label="Permalink"></a>Translation</h2>
+<h2 id="translation"><a href="#translation" class="permalink" aria-label="Permalink"></a>Translation</h2>
 <p>
-Chinese source text: <a href="https://archive.org/details/02094034.cn/page/n8">Version&nbsp;A</a>, <a href="https://commons.wikimedia.org/w/index.php?title=File%3A%E6%96%87%E6%B7%B5%E9%96%A3%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8_0797%E5%86%8A.djvu&amp;page=147">Version&nbsp;B</a>, <a href="https://ctext.org/sunzi-suan-jing#n52065">Version&nbsp;C</a>, <a href="https://ctext.org/library.pl?if=en&amp;file=86926&amp;page=15">Version&nbsp;D</a>.<br>
-Unless noted otherwise, I follow the text from Version&nbsp;D, <span lang="zh-Hant">《知不足齋叢書》本</span>.
+Chinese source text: <a href="https://archive.org/details/02094034.cn/page/n8">Version A</a>, <a href="https://commons.wikimedia.org/w/index.php?title=File%3A文淵閣四庫全書_0797冊.djvu&amp;page=147">Version B</a>, <a href="https://ctext.org/sunzi-suan-jing#n52065">Version C</a>, <a href="https://ctext.org/library.pl?if=en&amp;file=86926&amp;page=15">Version D</a>.<br>
+Unless noted otherwise, I follow the text from Version D, <span lang="zh-Hant">《知不足齋叢書》本</span>.
 </p>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">凡除之法，與乘正異。</span><br>
-<span lang="zh-Hant">乘得在中央，除得在上方。</span>
+<div class="source-text" lang="zh-Hant">
+凡除之法，與乘正異。<br>
+乘得在中央，除得在上方。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 <span class="translator-supplied">[The]</span> method of all division, <span class="translator-supplied">[is]</span> directly opposite to multiplication.<br>
 <span class="translator-supplied">[The]</span> result of multiplication <span class="translator-supplied">[is put]</span> in <span class="translator-supplied">[the]</span> middle;
 <span class="translator-supplied">[the]</span> result of division, in <span class="translator-supplied">[the]</span> above.
 </div>
 </div>
-<ul>
-<li><span lang="zh-Hant">異：</span> opposite; <span class="alternative-marker">lit.</span> different
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">異：</span> opposite; <span class="alternative-marker" title="literally">lit.</span> different
 </li>
 </ul>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">假令六為法，百為實。</span>
+<div class="source-text" lang="zh-Hant">
+假令六為法，百為實。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 Suppose <span class="translator-supplied">[we]</span> make six be <span class="translator-supplied">[the]</span> divisor,
 <span class="translator-supplied">[and an]</span> hundred be <span class="translator-supplied">[the]</span> dividend.
 </div>
 </div>
-<ul>
-<li><span lang="zh-Hant">實</span> and <span lang="zh-Hant">法</span> are jargon terms for dividend and divisor:
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">實</span> and <span lang="zh-Hant">法</span> are jargon terms for dividend and divisor:
 <div class="js-maths">\frac{\text{實}}{\text{法}} = \frac{\textq{dividend}}{\textq{divisor}}.
 </div>
 </li>
 </ul>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">以六除百，當進之二等，令在正百下；</span><br>
-<span lang="zh-Hant">以六除一，則法多而實少，不可除，故當退就十位。</span>
+<div class="source-text" lang="zh-Hant">
+以六除百，當進之二等，令在正百下；<br>
+以六除一，則法多而實少，不可除，故當退就十位。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 <span class="translator-supplied">[To]</span> divide <span class="translator-supplied">[an]</span> hundred by six,
 <span class="translator-supplied">[we]</span> ought to advance it two ranks,
 making <span class="translator-supplied">[it]</span> be directly below <span class="translator-supplied">[the]</span> hundred;<br>
@@ -120,66 +121,75 @@ making <span class="translator-supplied">[it]</span> be directly below <span cla
 therefore <span class="translator-supplied">[we]</span> ought to retreat <span class="translator-supplied">[and]</span> assume <span class="translator-supplied">[the]</span> tens place.
 </div>
 </div>
-<ul>
-<li><span lang="zh-Hant">在正</span><br>
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">在正</span>
+<p>
 Like Cantonese <span lang="zh-Hant">喺正</span>, hai2 cheng3.
+</p>
 </li>
-<li><span lang="zh-Hant">不可除</span><br>
+<li>
+<span lang="zh-Hant">不可除</span>
+<p>
 The primary meaning of <span lang="zh-Hant">除</span>, here "divide", is "remove".
 Division is thought of as repeated removal of the divisor
 (in analogy to multiplication being repeated addition).
 Therefore <span lang="zh-Hant">則法多而實少，不可除</span> can be rendered
 "<span class="translator-supplied">[the]</span> divisor <span class="translator-supplied">[is]</span> more and <span class="translator-supplied">[the]</span> dividend less:
 <span class="translator-supplied">[it]</span> cannot <span class="translator-supplied">[be]</span> removed".
+</p>
 </li>
-<li><span lang="zh-Hant">進</span>, "advance", means move to the left,
+<li>
+<span lang="zh-Hant">進</span>, "advance", means move to the left,
 while <span lang="zh-Hant">退</span>, "retreat", means move to the right.
 Here the first step of the division <span class="js-maths">100 \div 6</span> is described,
 but a full example of the division algorithm does not appear
-until <a href="/sun-tzu/i/14">¶14</a>.
+until <a href="14">¶14</a>.
 Since it would be instructive to see the full algorithm,
-I provide an animation here (<a href="/sun-tzu/code/animations">link to source code</a>):
-<div class="centred-block">
+I provide an animation here (<a href="/sun-tzu/code/animations">crappy source code here</a>):
+<div class="centred">
 <img alt="Animation for Sun Tzŭ division: 100 divided by 6." src="/sun-tzu/code/divide-100-6.gif">
 </div>
 </li>
 </ul>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">以法除實，言一六而折百為四十，故可除。</span>
+<div class="source-text" lang="zh-Hant">
+以法除實，言一六而折百為四十，故可除。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 <span class="translator-supplied">[Now]</span> dividing <span class="translator-supplied">[the]</span> dividend by <span class="translator-supplied">[the]</span> divisor:
 one six <span class="translator-supplied">[is six]</span> and reduceth <span class="translator-supplied">[the]</span> hundred <span class="translator-supplied">[to]</span> become forty;
 therefore <span class="translator-supplied">[it]</span> can divide.
 </div>
 </div>
-<ul>
-<li><a href="https://ctext.org/sunzi-suan-jing#n52065">Version&nbsp;C</a> erroneously has <span lang="zh-Hant">四十七</span> for <span lang="zh-Hant">四十</span>.
+<ul class="translation-annotations">
+<li>
+<a href="https://ctext.org/sunzi-suan-jing#n52065">Version C</a> erroneously has <span lang="zh-Hant">四十七</span> for <span lang="zh-Hant">四十</span>.
 </li>
 </ul>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">若實多法少，自當百之，不當復退。</span>
+<div class="source-text" lang="zh-Hant">
+若實多法少，自當百之，不當復退。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 If <span class="translator-supplied">[the]</span> dividend <span class="translator-supplied">[be]</span> more <span class="translator-supplied">[and the]</span> divisor less,
 <span class="translator-supplied">[we]</span> naturally ought to centuple it,
 <span class="translator-supplied">[and]</span> ought not retreat back.
 </div>
 </div>
-<ul>
-<li>In other words, if a three-digit number is being divided
+<ul class="translation-annotations">
+<li>
+In other words, if a three-digit number is being divided
 by six and the first digit is greater than six,
 then keep the six advanced to the hundreds;
 don't retreat to the tens.
 </li>
 </ul>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">故或步法十者置於十位，百者置於百位。</span>
+<div class="source-text" lang="zh-Hant">
+故或步法十者置於十位，百者置於百位。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 Therefore if <span class="translator-supplied">[we have]</span> stepped <span class="translator-supplied">[the]</span> divisor <span class="translator-supplied">[unto the]</span>
 tens, put <span class="translator-supplied">[the result]</span>
 in <span class="translator-supplied">[the]</span> tens place;
@@ -188,79 +198,97 @@ put <span class="translator-supplied">[the result]</span> in <span class="transl
 </div>
 </div>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">（上位有空絕者，法退二位。）</span>
+<div class="source-text" lang="zh-Hant">
+（上位有空絕者，法退二位。）
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 (<span class="translator-supplied">[If among the]</span> upper places there be <span class="translator-supplied">[an]</span> empty,
 disconnected one, <span class="translator-supplied">[the]</span> divisor <span class="translator-supplied">[shall be]</span> retreated two places.)
 </div>
 </div>
-<ul>
-<li>This line I have bracketed for it is an inline annotation
-by <span class="romanisation" title="李淳風">Li Ch'un-fêng</span>&nbsp;<i>et&nbsp;al.</i>,
+<ul class="translation-annotations">
+<li>
+This line I have bracketed for it is an inline annotation
+by <span class="romanised-untranslated" title="李淳風">Li Ch'un-fêng</span> and others,
 written in two columns of smaller characters which take up
 half the width of the normal characters;
-see <a href="https://ctext.org/library.pl?if=en&amp;file=86926&amp;page=15">Version&nbsp;D</a>.
+see <a href="https://ctext.org/library.pl?if=en&amp;file=86926&amp;page=15">Version D</a>.
 </li>
-<li><a href="https://commons.wikimedia.org/w/index.php?title=File%3A%E6%96%87%E6%B7%B5%E9%96%A3%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8_0797%E5%86%8A.djvu&amp;page=147">Version&nbsp;B</a> has <span lang="zh-Hant">頭位</span> for <span lang="zh-Hant">上位</span>.
+<li>
+<a href="https://commons.wikimedia.org/w/index.php?title=File%3A文淵閣四庫全書_0797冊.djvu&amp;page=147">Version B</a> has <span lang="zh-Hant">頭位</span> for <span lang="zh-Hant">上位</span>.
 </li>
-<li><a href="https://archive.org/details/02094034.cn/page/n8">Version&nbsp;A</a> erroneously has <span lang="zh-Hant">二法</span> for <span lang="zh-Hant">二位</span>.
+<li>
+<a href="https://archive.org/details/02094034.cn/page/n8">Version A</a> erroneously has <span lang="zh-Hant">二法</span> for <span lang="zh-Hant">二位</span>.
 </li>
 </ul>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">餘法皆如乘時。</span>
+<div class="source-text" lang="zh-Hant">
+餘法皆如乘時。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 All <span class="translator-supplied">[the]</span> remainder of <span class="translator-supplied">[the]</span> method <span class="translator-supplied">[is]</span> as when multiplying.
 </div>
 </div>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">實有餘者，以法命之，以法為母，實餘為子。</span>
+<div class="source-text" lang="zh-Hant">
+實有餘者，以法命之，以法為母，實餘為子。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 <span class="translator-supplied">[If the]</span> dividend hath <span class="translator-supplied">[a]</span> remainder,
 name it <span class="translator-supplied">[for a fraction]</span> using <span class="translator-supplied">[the]</span> divisor:
 use <span class="translator-supplied">[the]</span> divisor as <span class="translator-supplied">[the]</span> denominator,
 <span class="translator-supplied">[and the]</span> dividend remainder as <span class="translator-supplied">[the]</span> numerator.
 </div>
 </div>
-<ul>
-<li><span lang="zh-Hant">命：</span> name; <span class="alternative-marker">or</span> designate
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">命：</span> name; <span class="alternative-marker">or</span> designate
 </li>
-<li>In other words, if you get a remainder <span class="js-maths">r</span> after dividing by <span class="js-maths">d</span>,
+<li>
+In other words, if you get a remainder <span class="js-maths">r</span> after dividing by <span class="js-maths">d</span>,
 "name <span class="js-maths">r</span> <span class="translator-supplied">[for a fraction]</span> using <span class="js-maths">d</span>",
-i.e.&nbsp;form the fraction <span class="js-maths">\dfrac{r}{d}</span>.
+i.e. form the fraction <span class="js-maths">\dfrac{r}{d}</span>.
 </li>
 </ul>
 <nav class="surrounds">
-<div class="up">
-<a href="/sun-tzu/i/">↑ Volume&nbsp;I</a>
+<div class="surrounds-up">
+<a href="./">↑ Volume I</a>
 </div>
-<div class="adjacent">
-<div class="previous">
-<a href="/sun-tzu/i/8">← ¶8</a>
+<div class="surrounds-neighbourhood">
+<div class="surrounds-previous">
+<a href="8">← ¶8</a>
 </div>
-<div class="current">
+<div class="surrounds-current">
 ¶9
 </div>
-<div class="next">
-<a href="/sun-tzu/i/10">¶10 →</a>
+<div class="surrounds-next">
+<a href="10">¶10 →</a>
 </div>
 </div>
 </nav>
-<h2 id="cite"><a class="permalink" href="#cite" aria-label="Permalink"></a>Cite this page</h2>
+<h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
 <p>
-Conway&nbsp;(2020).
-"Sun Tzŭ's Computational Classic: Volume&nbsp;I ¶9".
-&lt;https://yawnoc.github.io/sun-tzu/i/9&gt;
-Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
+Conway (2022).
+"Sun Tzŭ's Computational Classic: Volume I ¶9".
+&lt;<a href="https://yawnoc.github.io/sun-tzu/i/9">https://yawnoc.github.io/sun-tzu/i/9</a>&gt;
+Accessed <span class="js-date">yyyy-mm-dd</span>.
 </p>
-<script>document.addEventListener("DOMContentLoaded",function(){renderDate()})</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {renderDate()})
+</script>
 <footer>
-©&nbsp;2019–2020&nbsp;Conway.
+© 2019–2022 Conway.
+<ul>
+<li>
+First created: 2019-06-09
+</li>
+<li>
+Last modified: 2022-06-13
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/i/9.cmd"><code>sun-tzu/i/9.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.5.0">CMDv4.5.0</a>
+</li>
+</ul>
 </footer>
 </body>
 </html>
