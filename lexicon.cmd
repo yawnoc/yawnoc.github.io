@@ -2174,7 +2174,7 @@ See also: [何得]
 
 9 [復] U+5FA9
 ==
-* return; restore
+* return; restore; back
 * repeat; again; \met also
 ==
 
@@ -2435,6 +2435,12 @@ See also: [所在]
 ==
 * seize
 * [:unit:] grab
+==
+
+4 [折] U+6298
+==
+* snap; bend
+* reduce
 ==
 
 5 [拙] U+62D9
@@ -3271,7 +3277,7 @@ See also: [改正]
 ==
 * make
 * do
-* be
+* be; become
 ==
 --
 See also: [以為], [為政]
@@ -4293,7 +4299,7 @@ See also: [聯翩]
 
 0 [自] U+81EA
 ==
-* own; self
+* own; self; naturally
 * since; from
 ==
 

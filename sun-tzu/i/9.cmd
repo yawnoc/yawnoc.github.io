@@ -134,7 +134,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 ==
 
 <<
-  以法除實，言一六而折百為四十，故可除。
+  以法除實、言一六而折百為四十、故可除。
 \\
   .[Now] dividing .[the] dividend by .[the] divisor:
   one six .[is six] and reduceth .[the] hundred .[to] become forty;
@@ -145,11 +145,11 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 ==
 
 <<
-  若實多法少，自當百之，不當復退。
+  若實多法少、自當百之、不當復退。
 \\
   If .[the] dividend .[be] more .[and the] divisor less,
   .[we] naturally ought to centuple it,
-  .[and] ought not retreat back.
+  .[and] ought not to retreat back.
 >>
 =={.translation-annotations}
 * In other words, if a three-digit number is being divided
