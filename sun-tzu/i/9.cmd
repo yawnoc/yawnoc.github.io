@@ -65,8 +65,8 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 --
 
 <<
-  凡除之法，與乘正異。 <br>
-  乘得在中央，除得在上方。
+  凡除之法、與乘正異。 <br>
+  乘得在中央、除得在上方。
 \\
   .[The] method of all division, .[is] directly opposite to multiplication. <br>
   .[The] result of multiplication .[is put] in .[the] middle;

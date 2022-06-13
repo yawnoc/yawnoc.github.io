@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-06-13
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -253,6 +253,9 @@ Lookup by stroke count of radical:
 ==
 * [:non-verb:] up(ward); upper; above; superior
 ==
+--
+See also: [上方]
+--
 
 2 [下] U+4E0B
 ==
@@ -302,6 +305,9 @@ See also: [逝世]
 ==
 * centre; middle; midst
 * amidst; among
+==
+==
+* 中央： .[the] middle
 ==
 [去聲]
 ==
@@ -1520,6 +1526,14 @@ See also: [夫子], [農夫]
 * [:speech-assist:]
 ==
 
+2 [央] U+592E
+==
+* centre
+==
+--
+See also: [中央]
+--
+
 2 [失] U+5931
 ==
 * lose
@@ -2117,7 +2131,7 @@ See also: [從容]
 ==
 * obtain; get
 * satisfy; done
-* [:verb:] result (in)
+* result (in)
 * can
 ==
 --
@@ -2656,6 +2670,7 @@ See also: [掌握]
 * just; only then; at
 ==
 ==
+* 上方： .[the] above
 * 北方： .[the] north
 ==
 
@@ -3016,6 +3031,7 @@ See also: [蒞止]
 1 [正] U+6B63
 ==
 * right
+* directly
 ==
 --
 See also: [改正]
@@ -3534,7 +3550,7 @@ See also: [後生]
 
 6 [異] U+7570
 ==
-* different; strange
+* different; strange; \met opposite
 ==
 
 7 [畫] U+756B
@@ -4298,7 +4314,7 @@ See also: [聯翩]
 ==
 * give
 * and
-* with; as
+* with; as; to
 ==
 
 9 [興] U+8208
