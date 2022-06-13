@@ -77,7 +77,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 ==
 
 <<
-  假令六為法，百為實。
+  假令六為法、百為實。
 \\
   Suppose .[we] make six be .[the] divisor,
   .[and an] hundred be .[the] dividend.
@@ -90,8 +90,8 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 ==
 
 <<
-  以六除百，當進之二等，令在正百下； <br>
-  以六除一，則法多而實少，不可除，故當退就十位。
+  以六除百、當進之二等、令在正百下、 <br>
+  以六除一、則法多而實少、不可除、故當退就十位。
 \\
   .[To] divide .[an] hundred by six,
   .[we] ought to advance it two ranks,
@@ -102,17 +102,17 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   therefore .[we] ought to retreat .[and] assume .[the] tens place.
 >>
 =={.translation-annotations}
-* .在正
+* .在正： be directly
   --
   Like Cantonese .喺正, hai2 cheng3.
   --
 
-* .不可除
+* .不可除： cannot divide
   --
-  The primary meaning of .除, here "divide", is "remove".
+  The primary meaning of .除, here rendered "divide", is "remove".
   Division is thought of as repeated removal of the divisor
   (in analogy to multiplication being repeated addition).
-  Therefore .則法多而實少，不可除 can be rendered
+  Therefore .則法多而實少、不可除 can be rendered
   ".[the] divisor .[is] more and .[the] dividend less:
   .[it] cannot .[be] removed".
   --

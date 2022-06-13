@@ -1792,6 +1792,11 @@ See also: [從容]
 * especially
 ==
 
+9 [就] U+5C31
+==
+* assume
+==
+
 
 ### ⼫ (corpse) U+2F2B
 
@@ -5063,6 +5068,11 @@ See also: [遠近]
 7 [連] U+9023
 ==
 * connect
+==
+
+8 [進] U+9032
+==
+* advance
 ==
 
 9 [遂] U+9042
