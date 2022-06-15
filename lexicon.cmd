@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-13
+* %date-modified --> 2022-06-15
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -4047,6 +4047,11 @@ See also: [符驗]
 
 ### ⽶ (rice) U+2F76
 
+0 [米] U+7C73
+==
+* grain {:uncooked rice:}
+==
+
 6 [粟] U+7C9F
 ==
 * grain
@@ -4057,6 +4062,16 @@ See also: [符驗]
 * fine; refined
 * proficient
 * essence
+==
+
+15 [糲] U+7CF2
+==
+* coarse-grain
+==
+
+20 [糳] U+7CF3
+==
+* intricate-grain
 ==
 
 
@@ -5607,6 +5622,11 @@ See also: [鴻雁]
 [入聲]
 ==
 * eat; food
+==
+
+4 [飯] U+98EF
+==
+* rice {:cooked:}
 ==
 
 5 [飼] U+98FC

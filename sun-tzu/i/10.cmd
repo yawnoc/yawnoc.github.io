@@ -63,37 +63,37 @@ Chinese source text: \a[8], \b[147], \c[52066], \d[16]. <br>
 --
 
 <<
-  以粟求::{.colour-r}糲::|::{.colour-b}米::，\
-    三之，五而一。 <br>
-  以::{.colour-r}糲::|::{.colour-b}米::求粟，\
-    五之，三而一。 <br>
-  以::{.colour-r}糲::|::{.colour-b}米::求|::{.colour-v}飯::，\
-    五之，二而一。 <br>
-  以粟::{.colour-b}米::求::{.colour-r}糲::|::{.colour-v}飯::，\
-    六之，四而一。 <br>
-  以::{.colour-r}糲::|::{.colour-v}飯::求|::{.colour-r}糲::|::{.colour-b}米::，\
-    二之，五而一。 <br>
-  以::{.colour-g}糳::|::{.colour-b}米::求|::{.colour-v}飯::，\
-    八之，四而一。
+  以粟求::{.colour-r}糲::|::{.colour-b}米::、\
+    三之、五而一。 <br>
+  以::{.colour-r}糲::|::{.colour-b}米::求粟、\
+    五之、三而一。 <br>
+  以::{.colour-r}糲::|::{.colour-b}米::求|::{.colour-v}飯::、\
+    五之、二而一。 <br>
+  以粟::{.colour-b}米::求::{.colour-r}糲::|::{.colour-v}飯::、\
+    六之、四而一。 <br>
+  以::{.colour-r}糲::|::{.colour-v}飯::求|::{.colour-r}糲::|::{.colour-b}米::、\
+    二之、五而一。 <br>
+  以::{.colour-g}糳::|::{.colour-b}米::求|::{.colour-v}飯::、\
+    八之、四而一。
 \\
   Seeking ::{.colour-r} coarse:: |::{.colour-b} grain::
     with grain:
-    triple it, .[and take] five .[as] one. <br>
+    triple it, .[with] five .[being] one. <br>
   Seeking grain
     with ::{.colour-r} coarse:: |::{.colour-b} grain:::
-    quintuple it, .[and take] three .[as] one. <br>
+    quintuple it, .[with] three .[being] one. <br>
   Seeking ::{.colour-r} .[coarse]:: |::{.colour-v} rice::
     with ::{.colour-r} coarse:: |::{.colour-b} grain:::
-    quintuple it, .[and take] two .[as] one. <br>
+    quintuple it, .[with] two .[being] one. <br>
   Seeking ::{.colour-r} coarse:: |::{.colour-v} rice::
     with ::{.colour-b} grain:::
-    sextuple it, .[and take] four .[as] one. <br>
+    sextuple it, .[with] four .[being] one. <br>
   Seeking ::{.colour-r} coarse:: |::{.colour-b} grain::
     with ::{.colour-r} coarse:: |::{.colour-v} rice:::
-    double it, .[and take] five .[as] one. <br>
+    double it, .[with] five .[being] one. <br>
   Seeking ::{.colour-g} .[intricate]:: |::{.colour-v} rice::
     with ::{.colour-g} intricate:: |::{.colour-b} grain:::
-    octuple it, .[and take] four .[as] one.
+    octuple it, .[with] four .[being] one.
 >>
 =={.translation-annotations}
 * \a[8] erroneously has .米粟求糲米 for .以粟求糲米.
@@ -101,34 +101,34 @@ Chinese source text: \a[8], \b[147], \c[52066], \d[16]. <br>
 * .粟： grain
   --
   As opposed to 
-    ::{.colour-r l=zh-Hant}糲::, ::{.colour-r}"coarse grain"::, or
-    ::{.colour-g l=zh-Hant}糳::, ::{.colour-g}"intricate grain"::,
+    ::{.colour-r l=zh-Hant}糲::~::{.colour-r}"coarse-grain"::, or
+    ::{.colour-g l=zh-Hant}糳::~::{.colour-g}"intricate-grain"::,
   to follow.
   --
 
-* ::{l=zh-Hant} ::{.colour-r}糲::：米不精也；:: ::{.colour-r} coarse grain::
+* ::{l=zh-Hant} ::{.colour-r}糲::：:: ::{.colour-r} coarse(-grain)::
   --
-  .糲，力制切，音勵， \C lai6, \M l(i\)
+  .糲、力制切、音勵、 \C lai6, \M l(i\)
   --
 
 * ::{l=zh-Hant} 粟|::{.colour-b}米::：:: ::{.colour-b} grain::
   --
   This is not a nice paragraph to render into English (hence the colours).
   I am overloading the word "grain" with both
-  .粟, "grain" (in contrast to
-  ::{.colour-r l=zh-Hant}糲::, ::{.colour-r} "coarse grain"::, and
-  ::{.colour-g l=zh-Hant}糳::, ::{.colour-g} "intricate grain"::)
-  and ::{.colour-b l=zh-Hant}米::, ::{.colour-b} "grain"::,
+  .粟~"grain" (in contrast to
+  ::{.colour-r l=zh-Hant}糲::~::{.colour-r} "coarse-grain"::, and
+  ::{.colour-g l=zh-Hant}糳::~::{.colour-g} "intricate-grain"::)
+  and ::{.colour-b l=zh-Hant}米::~::{.colour-b} "grain"::,
   i.e.~::{.colour-b} "uncooked rice":: (in contrast to
-  ::{.colour-v l=zh-Hant}飯::, ::{.colour-v} "cooked rice"::,
+  ::{.colour-v l=zh-Hant}飯::~::{.colour-v} "cooked-rice"::,
   which I am just calling ::{.colour-v} "rice":: for brevity).
   --
 
 * \c[52066] erroneously has .绺 for .糳.
 
-* ::{l=zh-Hant} ::{.colour-g}糳::：精細米也；:: ::{.colour-g} intricate grain::
+* ::{l=zh-Hant} ::{.colour-g}糳::：:: ::{.colour-g} intricate(-grain)::
   --
-  .糳， \C tsok9 (\pm chok9), \M zu(o\)
+  .糳、 \C tsok9 (\pm chok9), \M zu(o\)
   --
 
 * These are volume conversion rates to be used when trading grain and rice;
