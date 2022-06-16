@@ -62,11 +62,11 @@ Chinese source text: \a[10], \b[148], \c[52068], \d[17]. <br>
 --
 
 <<
-  九分減一者，以二乘，十八除。 <br>
-  八分減一者，以二乘，十六除。 <br>
-  七分減一者，以二乘，十四除。 <br>
-  六分減一者，以二乘，十二除。 <br>
-  五分減一者，以二乘，十除。
+  九分減一者、以二乘、十八除。 <br>
+  八分減一者、以二乘、十六除。 <br>
+  七分減一者、以二乘、十四除。 <br>
+  六分減一者、以二乘、十二除。 <br>
+  五分減一者、以二乘、十除。
 \\
   Subtracting one of nine shares: 
     multiply by two, .[and] divide .[by] eighteen; <br>
