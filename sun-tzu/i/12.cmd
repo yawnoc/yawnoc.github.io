@@ -80,7 +80,7 @@ Chinese source text: \a[10], \b[148], \c[52068], \d[17]. <br>
     multiply by two, .[and] divide .[by] ten.
 >>
 =={.translation-annotations}
-* .分： shares; \or portions
+* .分： shares
   --
   In Chinese, the fraction $a/b$ is referred to
   as ::{l=zh-Hant} $b$ 分之 $a$::,

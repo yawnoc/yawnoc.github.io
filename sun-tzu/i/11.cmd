@@ -92,7 +92,7 @@ Chinese source text: \a[8], \b[148], \c[52067], \d[16]. <br>
     multiply by eighteen, .[and] divide .[by] twenty.
 >>
 =={.translation-annotations}
-* .分： shares; \or portions
+* .分： shares
   --
   In Chinese, the fraction $a/b$ is referred to
   as ::{l=zh-Hant} $b$ 分之 $a$::,
