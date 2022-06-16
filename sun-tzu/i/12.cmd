@@ -1,90 +1,93 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P12
-  %date-created 2019-06-09
-  %date-modified 2020-05-13
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P12"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P12
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-16
+- concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [I] ["i" Volume~I]
-*> [\P12](\- You are viewing \P12)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~I](./)
+* %%surrounds-previous --> [<-- \P11](11)
+* %%surrounds-current --> \P12
+* %%surrounds-next --> [\P13 -->](13)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+
+%%%
 
 
-#
-  《孫子算經\.卷上》 \+
-  "\sun-tzu's Computational Classic: Volume~I" \+
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !i
+-{.breadcrumbed} !!12
+- !cite
+^^^^
+
+# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \P12. Some equivalent fractions~(2)
-#
 
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P11 : ["i 11"]
-    \nav-curr: \P12
-    \nav-next: \P13 : ["i 13"]
-  |}}
-|}}}}
+%%noscript-equations
 
 
-\noscript:maths
+%%surrounds
 
-
-[||||
-||||]
-
-
-----
+--
 This paragraph gives some equivalent fractions.
-----
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[10], \b[148], \c[52068], \d[17]. \+
-\d-default
-----
+--
+Chinese source text: \a[10], \b[148], \c[52068], \d[17]. <br>
+%%version-d-default
+--
 
 <<
-  九分減一者，以二乘，十八除。 \+
-  八分減一者，以二乘，十六除。 \+
-  七分減一者，以二乘，十四除。 \+
-  六分減一者，以二乘，十二除。 \+
+  九分減一者，以二乘，十八除。 <br>
+  八分減一者，以二乘，十六除。 <br>
+  七分減一者，以二乘，十四除。 <br>
+  六分減一者，以二乘，十二除。 <br>
   五分減一者，以二乘，十除。
-||
+\\
   Subtracting one of nine shares: 
-    multiply by two, .[and] divide .[by] eighteen; \+
+    multiply by two, .[and] divide .[by] eighteen; <br>
   subtracting one of eight shares:
-    multiply by two, .[and] divide .[by] sixteen; \+
+    multiply by two, .[and] divide .[by] sixteen; <br>
   subtracting one of seven shares:
-    multiply by two, .[and] divide .[by] fourteen; \+
+    multiply by two, .[and] divide .[by] fourteen; <br>
   subtracting one of six shares:
-    multiply by two, .[and] divide .[by] twelve; \+
+    multiply by two, .[and] divide .[by] twelve; <br>
   subtracting one of five shares:
     multiply by two, .[and] divide .[by] ten.
 >>
-====
-* 分： shares; \or portions \+
-  In Chinese, the fraction $\dfrac{a}{b}$ is referred to
-  as <span lang="zh-Hant">$b$ ~~分之~~ $a$</span>,
+=={.translation-annotations}
+* .分： shares; \or portions
+  --
+  In Chinese, the fraction $a/b$ is referred to
+  as ::{l=zh-Hant} $b$ 分之 $a$::,
   literally "$a$ of $b$ shares".
+  --
 
-* Like the [previous paragraph (\P11)] ["i 11"],
+* Like the [previous paragraph (\P11)](11),
   I think this paragraph is saying
   $$
     \begin{aligned}
@@ -96,21 +99,13 @@ Chinese source text: \a[10], \b[148], \c[52068], \d[17]. \+
   $$
   and again I have no clue as to why this might be useful,
   and why it is phrased in terms of subtraction.
-====
+==
 
 
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P11 : ["i 11"]
-    \nav-curr: \P12
-    \nav-next: \P13 : ["i 13"]
-  |}}
-|}}}}
+%%surrounds
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~I \P12"
-]
+%%cite
 
-%footer-element
+
+%%footer
