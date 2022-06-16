@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-15
+* %date-modified --> 2022-06-16
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -3222,6 +3222,11 @@ See also: [改正]
 8 [淵] U+6DF5
 ==
 * deep (water)
+==
+
+9 [減] U+6E1B
+==
+* subtract
 ==
 
 9 [游] U+6E38

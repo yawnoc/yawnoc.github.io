@@ -62,15 +62,15 @@ Chinese source text: \a[8], \b[148], \c[52067], \d[16]. <br>
 --
 
 <<
-  十分減一者，以二乘，二十除。 <br>
-  減二者，以四乘，二十除。 <br>
-  減三者，以六乘，二十除。 <br>
-  減四者，以八乘，二十除。 <br>
-  減五者，以十乘，二十除。 <br>
-  減六者，以十二乘，二十除。 <br>
-  減七者，以十四乘，二十除。 <br>
-  減八者，以十六乘，二十除。 <br>
-  減九者，以十八乘，二十除。
+  十分減一者、以二乘、二十除。 <br>
+  減二者、以四乘、二十除。 <br>
+  減三者、以六乘、二十除。 <br>
+  減四者、以八乘、二十除。 <br>
+  減五者、以十乘、二十除。 <br>
+  減六者、以十二乘、二十除。 <br>
+  減七者、以十四乘、二十除。 <br>
+  減八者、以十六乘、二十除。 <br>
+  減九者、以十八乘、二十除。
 \\
   Subtracting one of ten shares:
     multiply by two, .[and] divide .[by] twenty; <br>
@@ -94,7 +94,7 @@ Chinese source text: \a[8], \b[148], \c[52067], \d[16]. <br>
 =={.translation-annotations}
 * .分： shares; \or portions
   --
-  In Chinese, the fraction $\dfrac{a}{b}$ is referred to
+  In Chinese, the fraction $a/b$ is referred to
   as ::{l=zh-Hant} $b$ 分之 $a$::,
   literally "$a$ of $b$ shares".
   --
