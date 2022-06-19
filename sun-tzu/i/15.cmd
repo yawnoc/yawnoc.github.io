@@ -64,13 +64,13 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 --
 
 <<
-  八九七十二，自相乘，得五千一百八十四。八人分之，人得六百四十八。
+  八九七十二、自相乘、得五千一百八十四。八人分之、人得六百四十八。
 \\
   Eight nines .[are] seventy-two,
   .[which], multiplied with itself,
   resulteth in five thousand, one hundred .[and] eighty-four.
-  .[With] eight men sharing it,
-  .[each] man receiveth six hundred .[and] forty-eight.
+  .[With] eight people sharing it,
+  .[each] person getteth six hundred .[and] forty-eight.
 >>
 =={.translation-annotations}
 * \a[12] erroneously has .得 for .人得.
@@ -78,48 +78,47 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 ==
 
 <<
-  七九六十三，自相乘，得三千九百六十九。七人分之，人得五百六十七。
+  七九六十三、自相乘、得三千九百六十九。七人分之、人得五百六十七。
 \\
   Seven nines .[are] sixty-three,
   .[which], multiplied with itself,
   resulteth in three thousand, nine hundred .[and] sixty-nine.
-  .[With] seven men sharing it,
-  .[each] man receiveth five hundred .[and] sixty-seven.
+  .[With] seven people sharing it,
+  .[each] person getteth five hundred .[and] sixty-seven.
 >>
 =={.translation-annotations}
 * \a[12] erroneously has .得 for .人得.
-
 * \c[52075] erroneously has .五百六十七五 for .五百六十七.
 ==
 
 <<
-  六九五十四，自相乘，得二千九百一十六。六人分之，人得四百八十六。
+  六九五十四、自相乘、得二千九百一十六。六人分之、人得四百八十六。
 \\
   Six nines .[are] fifty-four,
   .[which], multiplied with itself,
   resulteth in two thousand, nine hundred .[and] sixteen.
-  .[With] six men sharing it,
-  .[each] man receiveth four hundred .[and] eighty-six.
+  .[With] six people sharing it,
+  .[each] person getteth four hundred .[and] eighty-six.
 >>
 
 <<
-  五九四十五，自相乘，得二千二十五。五人分之，人得四百五。
+  五九四十五、自相乘、得二千二十五。五人分之、人得四百五。
 \\
   Five nines .[are] forty-five,
   .[which], multiplied with itself,
   resulteth in two thousand .[and] twenty-five.
-  .[With] five men sharing it,
-  .[each] man receiveth four hundred .[and] five.
+  .[With] five people sharing it,
+  .[each] person getteth four hundred .[and] five.
 >>
 
 <<
-  四九三十六，自相乘，得一千二百九十六。四人分之，人得三百二十四。
+  四九三十六、自相乘、得一千二百九十六。四人分之、人得三百二十四。
 \\
   Four nines .[are] thirty-six,
   .[which], multiplied with itself,
   resulteth in one thousand, two hundred .[and] ninety-six.
-  .[With] four men sharing it,
-  .[each] man receiveth three hundred .[and] twenty-four.
+  .[With] four people sharing it,
+  .[each] person getteth three hundred .[and] twenty-four.
 >>
 =={.translation-annotations}
 * **\a[12] is missing four whole pages after .一千二百九十六**,
@@ -133,43 +132,43 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 ==
 
 <<
-  三九二十七，自相乘，得七百二十九。三人分之，人得二百四十三。
+  三九二十七、自相乘、得七百二十九。三人分之、人得二百四十三。
 \\
   Three nines .[are] twenty-seven,
   .[which], multiplied with itself,
   resulteth in seven hundred .[and] twenty-nine.
-  .[With] three men sharing it,
-  .[each] man receiveth two hundred .[and] forty-three.
+  .[With] three people sharing it,
+  .[each] person getteth two hundred .[and] forty-three.
 >>
 
 <<
-  二九一十八，自相乘，得三百二十四。二人分之，人得一百六十二。
+  二九一十八、自相乘、得三百二十四。二人分之、人得一百六十二。
 \\
   Two nines .[are] eighteen,
   .[which], multiplied with itself,
   resulteth in three hundred .[and] twenty-four.
-  .[With] two men sharing it,
-  .[each] man receiveth one hundred .[and] sixty-two.
+  .[With] two people sharing it,
+  .[each] person getteth one hundred .[and] sixty-two.
 >>
 
 <<
-  一九如九，自相乘，得八十一。一人得八十一。
+  一九如九、自相乘、得八十一。一人得八十一。
 \\
   One nine .[is] as nine, .[which], multiplied with itself,
   resulteth in eighty-one.
-  One man receiveth eighty-one.
+  One person getteth eighty-one.
 >>
 
 <<
-  右九九一條，得四百五，自相乘，得一十六萬四千二十五。\
-  九人分之，人得一萬八千二百二十五。
+  右九九一條、得四百五、自相乘、得一十六萬四千二十五。\
+  九人分之、人得一萬八千二百二十五。
 \\
-  .[The] nine nines above .[in] one strand,
+  .[The] nine nines above .[as] one strand,
   result in four hundred .[and] five,
   .[which], multiplied with itself,
   resulteth in sixteen myriad, four thousand .[and] twenty-five.
-  .[With] nine men sharing it,
-  .[each] man receiveth
+  .[With] nine people sharing it,
+  .[each] person getteth
     one myriad, eight thousand, two hundred .[and] twenty-five.
 >>
 =={.translation-annotations}
@@ -184,7 +183,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 * \c[52081] erroneously has .二萬八千二百二十五 for .一萬八千二百二十五.
 
 * .條, "strand", is the classifier for problem/question.
-  I think .右九九一條, ".[the] nine nines above .[in] one strand", is saying
+  I think .右九九一條, ".[the] nine nines above .[as] one strand", is saying
   "considering $9 \times 9$ through $1 \times 9$ above,
   together in one single problem", i.e.
   $$
@@ -194,10 +193,9 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
       \quad 164025 \div 9 = 18225.
     \end{gathered}
   $$
-  Note that "nine nines above" includes $9 \times 9$ from [\P13](13),
-  which I feel deserves its own paragraph since it contains full working.
-  The source text has no paragraphing, only line breaks;
-  paragraphing is an entirely modern practice.
+  Note that "nine nines above" includes $9 \times 9$ from [\P13](13).
+  (The source text has no paragraphing, only strategically placed line breaks;
+  paragraphing is an entirely modern practice.)
 ==
 
 

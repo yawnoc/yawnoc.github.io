@@ -1219,7 +1219,7 @@ See also: [北方]
 
 2 [右] U+53F3
 ==
-* right
+* right; \met above
 ==
 
 3 [各] U+5404
@@ -2966,6 +2966,12 @@ See also: [有餘]
 5 [柏] U+67CF
 ==
 * cypress-tree
+==
+
+7 [條] U+689D
+==
+* strand
+* [:classifier:]
 ==
 
 8 [棄] U+68C4
