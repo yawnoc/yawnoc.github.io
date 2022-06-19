@@ -1,75 +1,76 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P13
-  %date-created 2019-06-09
-  %date-modified 2020-05-28
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P13"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P13
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-19
+- concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [I] ["i" Volume~I]
-*> [\P13](\- You are viewing \P13)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~I](./)
+* %%surrounds-previous --> [<-- \P12](12)
+* %%surrounds-current --> \P13
+* %%surrounds-next --> [\P14 -->](14)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+
+%%%
 
 
-#
-  《孫子算經\.卷上》 \+
-  "\sun-tzu's Computational Classic: Volume~I" \+
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !i
+-{.breadcrumbed} !!13
+- !cite
+^^^^
+
+# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \P13. Rod calculus multiplication: $81 \times 81$
-#
 
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P12 : ["i 12"]
-    \nav-curr: \P13
-    \nav-next: \P14 : ["i 14"]
-  |}}
-|}}}}
+%%noscript-equations
 
 
-\noscript:maths
+%%surrounds
 
-
-[||||
-||||]
-
-
-----
+--
 This paragraph gives a fully worked example
-of the __rod calculus multiplication__ algorithm described in [\P8] ["i 8"].
-----
+of the rod calculus multiplication algorithm described in [\P8](8).
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[10], \b[148], \c[52073], \d[17]. \+
-\d-default
-----
+--
+Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
+%%version-d-default
+--
 
 <<
-  九九八十一，自相乘，得幾何？ \+
+  九九八十一，自相乘，得幾何？ <br>
   答曰：六千五百六十一。
-||
+\\
   Nine nines .[are] eighty-one, .[which],
-  multiplied with itself, resulteth in how much? \+
+  multiplied with itself, resulteth in how much? <br>
   Answer saith: six thousand, five hundred .[and] sixty-one.
 >>
-====
+==
 * In modern notation:
   $$
     \begin{aligned}
@@ -77,21 +78,23 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. \+
       81 \times 81 &= 6561.
     \end{aligned}
   $$
-====
+==
 
 <<
   術曰：重置其位。
-||
+\\
   Method saith: put into .[a] stack .[the] places.
 >>
-====
-* 重置其位 \+
-  See [\P8] ["i 8"].
-====
+==
+* .重置其位
+  --
+  See [\P8](8).
+  --
+==
 
 <<
   以上八呼下八，八八六十四，即下六千四百於中位。
-||
+\\
   Calling .[the] lower eight with .[the] upper eight:
   eight eights .[are] sixty-four, that is,
   put down six thousand four hundred upon .[the] middle places.
@@ -99,7 +102,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. \+
 
 <<
   以上八呼下一，一八如八，即於中位下八十。
-||
+\\
   Calling .[the] lower one with .[the] upper eight:
   one eight .[is] as eight, that is,
   upon .[the] middle places, put down eighty.
@@ -107,17 +110,17 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. \+
 
 <<
   退下位一等，收上位八十。
-||
+\\
   Retreat .[the] lower places .[by] one rank, .[and]
   put away eighty .[the] upper place.
 >>
-====
-* \b[148] has 收上頭位 for 收上位.
-====
+==
+* \b[148] has .收上頭位 for .收上位.
+==
 
 <<
   以上位一呼下八，一八如八，即於中位下八十。
-||
+\\
   Calling .[the] lower eight with one .[the] upper place:
   one eight .[is] as eight, that is,
   upon .[the] middle places, put down eighty.
@@ -125,7 +128,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. \+
 
 <<
   以上一呼下一，一一如一，即於中位下一。
-||
+\\
   Calling .[the] lower one with .[the] upper one:
   one one .[is] as one, that is,
   upon .[the] middle places, put down one.
@@ -133,39 +136,28 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. \+
 
 <<
   上下位俱收，中位即得六千五百六十一。
-||
+\\
   .[The] upper .[and] lower places .[now] all put away,
   .[the] middle places do result in
   six thousand, five hundred .[and] sixty-one.
 >>
 
-====
-* In animated form ([link to source code]):
-  
-  ||||{.centred-block}
-    ![Animation for \sun-tzu multiplication: 81 multiplied by 81.](
-      /sun-tzu/code/multiply-81-81.gif
-    )
-  ||||
-  
-  @@[link to source code]
-    /sun-tzu/code/animations
-  @@
-====
+==
+* In animated form ([crappy source code here]):
+
+  ||{.centred}
+    ![Animation for Sun Tz(uu) multiplication: 81 multiplied by 81.]\
+      (/sun-tzu/code/multiply-81-81.gif)
+  ||
+
+  [crappy source code here]: /sun-tzu/code/animations
+==
 
 
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P12 : ["i 12"]
-    \nav-curr: \P13
-    \nav-next: \P14 : ["i 14"]
-  |}}
-|}}}}
+%%surrounds
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~I \P13"
-]
+%%cite
 
-%footer-element
+
+%%footer
