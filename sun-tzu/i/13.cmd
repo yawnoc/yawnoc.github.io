@@ -70,7 +70,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
   multiplied with itself, resulteth in how much? <br>
   Answer saith: six thousand, five hundred .[and] sixty-one.
 >>
-==
+=={.translation-annotations}
 * In modern notation:
   $$
     \begin{aligned}
@@ -85,7 +85,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
 \\
   Method saith: put layered .[the] places.
 >>
-==
+=={.translation-annotations}
 * See [\P8](8).
 ==
 
@@ -111,7 +111,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
   Retreat .[the] lower places .[by] one rank, .[and]
   take back eighty .[the] upper place.
 >>
-==
+=={.translation-annotations}
 * \b[148] has .收上頭位 for .收上位.
 ==
 
@@ -138,8 +138,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
   .[the] middle places do result in
   six thousand, five hundred .[and] sixty-one.
 >>
-
-==
+=={.translation-annotations}
 * In animated form ([crappy source code here]):
 
   ||{.centred}
