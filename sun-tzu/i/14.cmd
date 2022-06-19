@@ -88,7 +88,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
 >>
 
 <<
-  上位置七百，以上七呼下九，七九六十三，即除中位六千三百。
+  上位置七百、以上七呼下九、七九六十三、即除中位六千三百。
 \\
   .[In the] upper places put seven hundred,
   .[and] calling .[the] lower nine with .[the] upper seven:
@@ -100,10 +100,10 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
 ==
 
 <<
-  退下位一等，即上位置二十，以上二呼下九，二九十八，即除中位一百八十。
+  退下位一等、即上位置二十、以上二呼下九、二九十八、即除中位一百八十。
 \\
   Retreat .[the] lower place .[by] one rank,
-  then .[in the] upper places put twenty,
+  that is, .[in the] upper places put twenty,
   .[and] calling .[the] lower nine with .[the] upper two:
   two nines .[are] eighteen,
   that is, remove from .[the] middle places one hundred .[and] eighty.
@@ -113,31 +113,23 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
 ==
 
 <<
-  又更退下位一等，即上位更置九，即以上九呼下九，九九八十一，即除中位八十一。
+  又更退下位一等、即上位更置九、即以上九呼下九、九九八十一、即除中位八十一。
 \\
-  And retreat again .[the] lower place .[by] one rank,
-  then .[in the] upper places put further .[a] nine,
-  then calling .[the] lower nine with .[the] upper nine:
+  And retreat further .[the] lower place .[by] one rank,
+  that is, .[in the] upper places put further .[a] nine,
+  that is, call .[the] lower nine with .[the] upper nine:
   nine nines .[are] eighty-one,
   that is, remove from .[the] middle places eighty-one.
 >>
-=={.translation-annotations}
-* .更： again; also further
-  --
-  .更，去聲， \C kang3, \M g(e\)ng
-  --
-==
 
 <<
-  中位並盡，收下位。上位所得即人之所得。
+  中位並盡、收下位。上位所得、即人之所得。
 \\
-  .[The] middle places .[now] all exhausted, put away .[the] lower place.
-  That which resulteth .[in the] upper places is that received of .[each] man.
+  .[The] middle places altogether exhausted, take back .[the] lower place.
+  That which resulteth .[in the] upper places, is that gotten of .[each] person.
 >>
 =={.translation-annotations}
 * \c[52074] erroneously has .邬 for .並, both here and in .並準此 below.
-
-* .並：皆也； all
 
 * \b[148] has .頭位所得 for .上位所得.
 
@@ -152,10 +144,10 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
 ==
 
 <<
-  自八八六十四至一一如一，並準此。
+  自八八六十四至一一如一、並準此。
 \\
   From eight eights .[are] sixty-four unto one one .[is] as one:
-  all according to this.
+  together .[be they] standardised .[to] this.
 >>
 =={.translation-annotations}
 * I think this is saying that the same procedures as above

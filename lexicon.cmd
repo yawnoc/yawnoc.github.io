@@ -297,6 +297,11 @@ See also: [逝世]
 * \var [兩]
 ==
 
+7 [並] U+4E26
+==
+* together; altogether
+==
+
 
 ### ⼁ (line) U+2F01
 
@@ -1059,7 +1064,7 @@ See also: [北方]
 * assume {:a throne:}
 * though
 * immediately
-* that is; which is
+* that is; which is; is
 * {:auxiliary:} do
 ==
 
@@ -3059,6 +3064,11 @@ See also: [蒞止]
 --
 See also: [改正]
 --
+
+2 [此] U+6B64
+==
+* this
+==
 
 3 [步] U+6B65
 ==
