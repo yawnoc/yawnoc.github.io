@@ -1,87 +1,88 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P14
-  %date-created 2019-06-09
-  %date-modified 2020-07-19
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P14"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P14
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-19
+- concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [I] ["i" Volume~I]
-*> [\P14](\- You are viewing \P14)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~I](./)
+* %%surrounds-previous --> [<-- \P13](13)
+* %%surrounds-current --> \P14
+* %%surrounds-next --> [\P15 -->](15)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+
+%%%
 
 
-#
-  《孫子算經\.卷上》 \+
-  "\sun-tzu's Computational Classic: Volume~I" \+
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !i
+-{.breadcrumbed} !!14
+- !cite
+^^^^
+
+# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \P14. Rod calculus division: $6561 \div 9$
-#
 
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P13 : ["i 13"]
-    \nav-curr: \P14
-    \nav-next: \P15 : ["i 15"]
-  |}}
-|}}}}
+%%noscript-equations
 
 
-\noscript:maths
+%%surrounds
 
-
-[||||
-||||]
-
-
-----
+--
 This paragraph gives a fully worked example
-of the __rod calculus division__ algorithm described in [\P9] ["i 9"].
-----
+of the rod calculus division algorithm described in [\P9](9).
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[10], \b[148], \c[52074], \d[18]. \+
-\d-default
-----
+--
+Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
+%%version-d-default
+--
 
 <<
-  六千五百六十一，九人分之，問人得幾何？ \+
+  六千五百六十一，九人分之，問人得幾何？ <br>
   答曰：七百二十九。
-||
+\\
   Six thousand, five hundred .[and] sixty-one:
   .[with] nine men sharing it,
-  .[we] ask, how much receiveth .[each] man? \+
+  .[we] ask, how much receiveth .[each] man? <br>
   Answer saith: seven hundred .[and] twenty-nine.
 >>
-====
-* 人： (generic) man; \or person
+=={.translation-annotations}
+* .人： (generic) man; \or person
 
 * In modern notation:
   $$
     6561 \div 9 = 729.
   $$
-====
+==
 
 <<
   術曰：先置六千五百六十一於中位為實，下列九人為法。
-||
+\\
   Method saith:
   first put six thousand, five hundred .[and] sixty-one
   upon .[the] middle places as .[the] dividend,
@@ -90,76 +91,75 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. \+
 
 <<
   上位置七百，以上七呼下九，七九六十三，即除中位六千三百。
-||
+\\
   .[In the] upper places put seven hundred,
   .[and] calling .[the] lower nine with .[the] upper seven:
   seven nines .[are] sixty-three,
   that is, remove from .[the] middle places six thousand three hundred.
 >>
-====
-* \b[148] has 上頭位置七百 for 上位置七百.
-====
+=={.translation-annotations}
+* \b[148] has .上頭位置七百 for .上位置七百.
+==
 
 <<
   退下位一等，即上位置二十，以上二呼下九，二九十八，即除中位一百八十。
-||
+\\
   Retreat .[the] lower place .[by] one rank,
   then .[in the] upper places put twenty,
   .[and] calling .[the] lower nine with .[the] upper two:
   two nines .[are] eighteen,
   that is, remove from .[the] middle places one hundred .[and] eighty.
 >>
-====
-* \b[148] has 二九一十八 for 二九十八.
-====
+=={.translation-annotations}
+* \b[148] has .二九一十八 for .二九十八.
+==
 
 <<
   又更退下位一等，即上位更置九，即以上九呼下九，九九八十一，即除中位八十一。
-||
+\\
   And retreat again .[the] lower place .[by] one rank,
   then .[in the] upper places put further .[a] nine,
   then calling .[the] lower nine with .[the] upper nine:
   nine nines .[are] eighty-one,
   that is, remove from .[the] middle places eighty-one.
 >>
-====
-* 更： again; also further \+
-  更，去聲， \C kang3, \M g(e\)ng
-====
+=={.translation-annotations}
+* .更： again; also further
+  --
+  .更，去聲， \C kang3, \M g(e\)ng
+  --
+==
 
 <<
   中位並盡，收下位。上位所得即人之所得。
-||
+\\
   .[The] middle places .[now] all exhausted, put away .[the] lower place.
   That which resulteth .[in the] upper places is that received of .[each] man.
 >>
-====
-* \c[52074] erroneously has 邬 for 並, both here and in 並準此 below.
+=={.translation-annotations}
+* \c[52074] erroneously has .邬 for .並, both here and in .並準此 below.
 
-* 並：皆也； all
+* .並：皆也； all
 
-* \b[148] has 頭位所得 for 上位所得.
+* \b[148] has .頭位所得 for .上位所得.
 
-* In animated form ([link to source code]):
-  
-  ||||{.centred-block}
-    ![Animation for \sun-tzu division: 6561 divided by 9.](
-      /sun-tzu/code/divide-6561-9.gif
-    )
-  ||||
-  
-  @@[link to source code]
-    /sun-tzu/code/animations
-  @@
-====
+* In animated form ([crappy source code here]):
+
+  ||{.centred}
+    ![Animation for \sun-tzu division: 6561 divided by 9.]\
+      (/sun-tzu/code/divide-6561-9.gif)
+  ||
+
+  [crappy source code here]: /sun-tzu/code/animations
+==
 
 <<
   自八八六十四至一一如一，並準此。
-||
+\\
   From eight eights .[are] sixty-four unto one one .[is] as one:
   all according to this.
 >>
-====
+=={.translation-annotations}
 * I think this is saying that the same procedures as above
   are used to compute
   $$
@@ -174,21 +174,13 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. \+
     \end{alignedat}
   $$
   in the paragraphs to follow.
-====
+==
 
 
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P13 : ["i 13"]
-    \nav-curr: \P14
-    \nav-next: \P15 : ["i 15"]
-  |}}
-|}}}}
+%%surrounds
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~I \P14"
-]
+%%cite
 
-%footer-element
+
+%%footer
