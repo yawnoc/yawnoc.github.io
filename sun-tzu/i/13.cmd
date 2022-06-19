@@ -63,8 +63,8 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
 --
 
 <<
-  九九八十一，自相乘，得幾何？ <br>
-  答曰：六千五百六十一。
+  九九八十一、自相乘、得幾何。 <br>
+  答曰、六千五百六十一。
 \\
   Nine nines .[are] eighty-one, .[which],
   multiplied with itself, resulteth in how much? <br>
@@ -81,19 +81,16 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
 ==
 
 <<
-  術曰：重置其位。
+  術曰、重置其位。
 \\
-  Method saith: put into .[a] stack .[the] places.
+  Method saith: put layered .[the] places.
 >>
 ==
-* .重置其位
-  --
-  See [\P8](8).
-  --
+* See [\P8](8).
 ==
 
 <<
-  以上八呼下八，八八六十四，即下六千四百於中位。
+  以上八呼下八、八八六十四、即下六千四百於中位。
 \\
   Calling .[the] lower eight with .[the] upper eight:
   eight eights .[are] sixty-four, that is,
@@ -101,43 +98,43 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
 >>
 
 <<
-  以上八呼下一，一八如八，即於中位下八十。
+  以上八呼下一、一八如八、即於中位下八十。
 \\
   Calling .[the] lower one with .[the] upper eight:
   one eight .[is] as eight, that is,
-  upon .[the] middle places, put down eighty.
+  upon .[the] middle places put down eighty.
 >>
 
 <<
-  退下位一等，收上位八十。
+  退下位一等、收上位八十。
 \\
   Retreat .[the] lower places .[by] one rank, .[and]
-  put away eighty .[the] upper place.
+  take back eighty .[the] upper place.
 >>
 ==
 * \b[148] has .收上頭位 for .收上位.
 ==
 
 <<
-  以上位一呼下八，一八如八，即於中位下八十。
+  以上位一呼下八、一八如八、即於中位下八十。
 \\
   Calling .[the] lower eight with one .[the] upper place:
   one eight .[is] as eight, that is,
-  upon .[the] middle places, put down eighty.
+  upon .[the] middle places put down eighty.
 >>
 
 <<
-  以上一呼下一，一一如一，即於中位下一。
+  以上一呼下一、一一如一、即於中位下一。
 \\
   Calling .[the] lower one with .[the] upper one:
   one one .[is] as one, that is,
-  upon .[the] middle places, put down one.
+  upon .[the] middle places put down one.
 >>
 
 <<
-  上下位俱收，中位即得六千五百六十一。
+  上下位俱收、中位即得六千五百六十一。
 \\
-  .[The] upper .[and] lower places .[now] all put away,
+  .[The] upper .[and the] lower places .[now] all taken back,
   .[the] middle places do result in
   six thousand, five hundred .[and] sixty-one.
 >>

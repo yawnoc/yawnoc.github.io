@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-16
+* %date-modified --> 2022-06-19
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -259,7 +259,7 @@ See also: [上方]
 
 2 [下] U+4E0B
 ==
-* go down; alight
+* go down; alight; put down
 * down(ward); lower; below; under; inferior
 ==
 --
@@ -1285,6 +1285,11 @@ See also: [同式]
 5 [周] U+5468
 ==
 * cycle; circumference
+==
+
+5 [呼] U+547C
+==
+* call
 ==
 
 5 [命] U+547D
@@ -2540,6 +2545,12 @@ See also: [掌握]
 
 ### ⽁ (rap) U+2F41
 
+2 [收] U+6536
+==
+* gather; restrain
+* take back
+==
+
 3 [改] U+6539
 ==
 * reform
@@ -3723,6 +3734,9 @@ See also: [百萬]
 ==
 * (with) each other; mutual
 ==
+==
+* 自相： with itself
+==
 [去聲]
 ==
 * appearance; physiognomy
@@ -4334,6 +4348,9 @@ See also: [聯翩]
 * own; self; naturally
 * since; from
 ==
+--
+See also: [自相]
+--
 
 
 ### ⾄ (arrive) U+2F84
