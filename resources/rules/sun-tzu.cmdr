@@ -27,7 +27,7 @@ OrdinaryDictionaryReplacement: #.sun-tzu.surrounds-navigation-arrows
 
 
 OrdinaryDictionaryReplacement: #.sun-tzu.boilerplate
-- queue_position: BEFORE #.yawnoc.properties-override
+- queue_position: AFTER #comments
 * %%version-d-default -->
     Unless noted otherwise, I follow the text from Version~D, .《知不足齋叢書》本.
 * %%surrounds -->
@@ -47,6 +47,29 @@ OrdinaryDictionaryReplacement: #.sun-tzu.boilerplate
       </div>
     </div>
     </nav>
+* %%volume-i-multiplications-and-divisions -->
+    --
+    \P15 through \P22 give the results of multiplications and divisions
+    of the form
+    --
+    $$
+      \begin{aligned}
+        (m n) \times (m n) &= m^2 n^2 \\
+        (m^2 n^2) \div m &= m n^2,
+      \end{aligned}
+    $$
+    ----
+    along with the result of the division
+    ----
+    $$
+      \Bigl[ n \times n + (n - 1) \times n + \dots + 1 \times n \Bigr]^2
+        \div
+      n.
+    $$
+    ----
+    Since this gets rather repetitive and boring,
+    you may wish to [skip to \P23](23).
+    ----
 
 
 RegexDictionaryReplacement: #.sun-tzu.source-links
