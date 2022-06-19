@@ -63,17 +63,15 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
 --
 
 <<
-  六千五百六十一，九人分之，問人得幾何？ <br>
-  答曰：七百二十九。
+  六千五百六十一、九人分之、問人得幾何。 <br>
+  答曰、七百二十九。
 \\
   Six thousand, five hundred .[and] sixty-one:
-  .[with] nine men sharing it,
-  .[we] ask, how much receiveth .[each] man? <br>
+  .[with] nine people sharing it,
+  .[we] ask, how much getteth .[each] person? <br>
   Answer saith: seven hundred .[and] twenty-nine.
 >>
 =={.translation-annotations}
-* .人： (generic) man; \or person
-
 * In modern notation:
   $$
     6561 \div 9 = 729.
@@ -81,12 +79,12 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
 ==
 
 <<
-  術曰：先置六千五百六十一於中位為實，下列九人為法。
+  術曰、先置六千五百六十一於中位為實、下列九人為法。
 \\
   Method saith:
   first put six thousand, five hundred .[and] sixty-one
   upon .[the] middle places as .[the] dividend,
-  .[and] below display .[the] nine men as .[the] divisor.
+  .[and] below .[it] rank .[the] nine people as .[the] divisor.
 >>
 
 <<
