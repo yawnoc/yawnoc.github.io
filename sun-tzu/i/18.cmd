@@ -64,74 +64,74 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. <br>
 --
 
 <<
-  六六三十六，自相乘，得一千二百九十六。六人分之，人得二百一十六。
+  六六三十六、自相乘、得一千二百九十六。六人分之、人得二百一十六。
 \\
   Six sixes .[are] thirty-six,
   .[which], multiplied with itself,
   resulteth in one thousand, two hundred .[and] ninety-six.
-  .[With] six men sharing it,
-  .[each] man receiveth two hundred .[and] sixteen.
+  .[With] six people sharing it,
+  .[each] person getteth two hundred .[and] sixteen.
 >>
 
 <<
-  五六三十，自相乘，得九百。五人分之，人得一百八十。
+  五六三十、自相乘、得九百。五人分之、人得一百八十。
 \\
   Five sixes .[are] thirty,
   .[which], multiplied with itself,
   resulteth in nine hundred.
-  .[With] five men sharing it,
-  .[each] man receiveth one hundred .[and] eighty.
+  .[With] five people sharing it,
+  .[each] person getteth one hundred .[and] eighty.
 >>
 
 <<
-  四六二十四，自相乘，得五百七十六。四人分之，人得一百四十四。
+  四六二十四、自相乘、得五百七十六。四人分之、人得一百四十四。
 \\
   Four sixes .[are] twenty-four,
   .[which], multiplied with itself,
   resulteth in five hundred .[and] seventy-six.
-  .[With] four men sharing it,
-  .[each] man receiveth one hundred .[and] forty-four.
+  .[With] four people sharing it,
+  .[each] person getteth one hundred .[and] forty-four.
 >>
 
 <<
-  三六一十八，自相乘，得三百二十四。三人分之，人得一百八。
+  三六一十八、自相乘、得三百二十四。三人分之、人得一百八。
 \\
   Three sixes .[are] eighteen,
   .[which], multiplied with itself,
   resulteth in three hundred .[and] twenty-four.
-  .[With] three men sharing it,
-  .[each] man receiveth one hundred .[and] eight.
+  .[With] three people sharing it,
+  .[each] person getteth one hundred .[and] eight.
 >>
 
 <<
-  二六一十二，自相乘，得一百四十四。二人分之，人得七十二。
+  二六一十二、自相乘、得一百四十四。二人分之、人得七十二。
 \\
   Two sixes .[are] twelve,
   .[which], multiplied with itself,
   resulteth in one hundred .[and] forty-four.
-  .[With] two men sharing it,
-  .[each] man receiveth seventy-two.
+  .[With] two people sharing it,
+  .[each] person getteth seventy-two.
 >>
 
 <<
-  一六如六，自相乘，得三十六。一人得三十六。
+  一六如六、自相乘、得三十六。一人得三十六。
 \\
   One six .[is] as six,
   .[which], multiplied with itself,
   resulteth in thirty-six.
-  One man receiveth thirty-six.
+  One person getteth thirty-six.
 >>
 
 <<
-  右六六一條，得一百二十六，自相乘，得一萬五千八百七十六。\
-  六人分之，人得二千六百四十六。
+  右六六一條、得一百二十六、自相乘、得一萬五千八百七十六。\
+  六人分之、人得二千六百四十六。
 \\
-  .[The] six sixes above .[in] one strand,
+  .[The] six sixes above .[as] one strand,
   result in one hundred .[and] twenty-six,
   .[which], multiplied with itself,
   resulteth in one myriad, five thousand, eight hundred .[and] seventy-six.
-  .[With] six men sharing it,
-  .[each] man receiveth two thousand, six hundred .[and] forty-six.
+  .[With] six people sharing it,
+  .[each] person getteth two thousand, six hundred .[and] forty-six.
 >>
 =={.translation-annotations}
 * In modern notation:
