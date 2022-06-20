@@ -64,36 +64,37 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. <br>
 --
 
 <<
-  二二如四，自相乘，得一十六。二人分之，人得八。
+  二二如四、自相乘、得一十六。二人分之、人得八。
 \\
   Two twos .[are] as four,
   .[which], multiplied with itself,
   resulteth in sixteen.
-  .[With] two men sharing it,
-  .[each] man receiveth eight.
+  .[With] two people sharing it,
+  .[each] person getteth eight.
 >>
 
 <<
-  一二如二，自相乘，得四。一人得四。
+  一二如二、自相乘、得四。一人得四。
 \\
   One two .[is] as two,
   .[which], multiplied with itself,
   resulteth in four.
-  One man receiveth four.
+  One person getteth four.
 >>
 
 <<
-  右二二一條，得六，自相乘，得三十六。二人分之，人得十八。
+  右二二一條、得六、自相乘、得三十六。二人分之、人得十八。
 \\
-  .[The] two twos above .[in] one strand,
+  .[The] two twos above .[as] one strand,
   result in six,
   .[which], multiplied with itself,
   resulteth in thirty-six.
-  .[With] two men sharing it,
-  .[each] man receiveth eighteen.
+  .[With] two people sharing it,
+  .[each] person getteth eighteen.
 >>
 =={.translation-annotations}
 * \b[151] has .人得一十八 for .人得十八.
+
 * In modern notation:
   $$
     \begin{gathered}
