@@ -64,49 +64,49 @@ Chinese source text: \a[18], \b[151], \c[52112], \d[30]. <br>
 --
 
 <<
-  三三如九，自相乘，得八十一。三人分之，人得二十七。
+  三三如九、自相乘、得八十一。三人分之、人得二十七。
 \\
   Three threes .[are] as nine,
   .[which], multiplied with itself,
   resulteth in eighty-one.
-  .[With] three men sharing it,
-  .[each] man receiveth twenty-seven.
+  .[With] three people sharing it,
+  .[each] person getteth twenty-seven.
 >>
 =={.translation-annotations}
 * \a[18] erroneously has .得 for .人得.
 ==
 
 <<
-  二三如六，自相乘，得三十六。二人分之，人得一十八。
+  二三如六、自相乘、得三十六。二人分之、人得一十八。
 \\
   Two threes .[are] as six,
   .[which], multiplied with itself,
   resulteth in thirty-six.
-  .[With] two men sharing it,
-  .[each] man receiveth eighteen.
+  .[With] two people sharing it,
+  .[each] person getteth eighteen.
 >>
 =={.translation-annotations}
 * \a[18] erroneously has .得 for .人得.
 ==
 
 <<
-  一三如三，自相乘，得九。一人得九。
+  一三如三、自相乘、得九。一人得九。
 \\
   One three .[is] as three,
   .[which], multiplied with itself,
   resulteth in nine.
-  One man receiveth nine.
+  One person getteth nine.
 >>
 
 <<
-  右三三一條，得一十八，自相乘，得三百二十四。三人分之，人得一百八。
+  右三三一條、得一十八、自相乘、得三百二十四。三人分之、人得一百八。
 \\
-  .[The] three threes above .[in] one strand,
+  .[The] three threes above .[as] one strand,
   result in eighteen,
   .[which], multiplied with itself,
   resulteth in three hundred .[and] twenty-four.
-  .[With] three men sharing it,
-  .[each] man receiveth one hundred .[and] eight.
+  .[With] three people sharing it,
+  .[each] person getteth one hundred .[and] eight.
 >>
 =={.translation-annotations}
 * In modern notation:
