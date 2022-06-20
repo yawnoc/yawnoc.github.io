@@ -64,64 +64,64 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. <br>
 --
 
 <<
-  五五二十五，自相乘，得六百二十五。五人分之，人得一百二十五。
+  五五二十五、自相乘、得六百二十五。五人分之、人得一百二十五。
 \\
   Five fives .[are] twenty-five,
   .[which], multiplied with itself,
   resulteth in six hundred .[and] twenty-five.
-  .[With] five men sharing it,
-  .[each] man receiveth one hundred .[and] twenty-five.
+  .[With] five people sharing it,
+  .[each] person getteth one hundred .[and] twenty-five.
 >>
 
 <<
-  四五二十，自相乘，得四百。四人分之，人得一百。
+  四五二十、自相乘、得四百。四人分之、人得一百。
 \\
   Four fives .[are] twenty,
   .[which], multiplied with itself,
   resulteth in four hundred.
-  .[With] four men sharing it,
-  .[each] man receiveth one hundred.
+  .[With] four people sharing it,
+  .[each] person getteth one hundred.
 >>
 
 <<
-  三五一十五，自相乘，得二百二十五。三人分之，人得七十五。
+  三五一十五、自相乘、得二百二十五。三人分之、人得七十五。
 \\
   Three fives .[are] fifteen,
   .[which], multiplied with itself,
   resulteth in two hundred .[and] twenty-five.
-  .[With] three men sharing it,
-  .[each] man receiveth seventy-five.
+  .[With] three people sharing it,
+  .[each] person getteth seventy-five.
 >>
 
 <<
-  二五一十，自相乘，得一百。二人分之，人得五十。
+  二五一十、自相乘、得一百。二人分之、人得五十。
 \\
   Two fives .[are] ten,
   .[which], multiplied with itself,
   resulteth in one hundred.
-  .[With] two men sharing it,
-  .[each] man receiveth fifty.
+  .[With] two people sharing it,
+  .[each] person getteth fifty.
 >>
 
 <<
-  一五如五，自相乘，得二十五。一人得二十五。
+  一五如五、自相乘、得二十五。一人得二十五。
 \\
   One five .[is] as five,
   .[which], multiplied with itself,
   resulteth in twenty-five.
-  One man receiveth twenty-five.
+  One person getteth twenty-five.
 >>
 
 <<
-  右五五一條，得七十五，自相乘，得五千六百二十五。\
-  五人分之，人得一千一百二十五。
+  右五五一條、得七十五、自相乘、得五千六百二十五。\
+  五人分之、人得一千一百二十五。
 \\
-  .[The] five fives above .[in] one strand,
+  .[The] five fives above .[as] one strand,
   result in seventy-five,
   .[which], multiplied with itself,
   resulteth in five thousand, six hundred .[and] twenty-five.
-  .[With] five men sharing it,
-  .[each] man receiveth one thousand, one hundred .[and] twenty-five.
+  .[With] five people sharing it,
+  .[each] person getteth one thousand, one hundred .[and] twenty-five.
 >>
 =={.translation-annotations}
 * In modern notation:
