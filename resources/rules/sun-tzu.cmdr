@@ -58,18 +58,18 @@ OrdinaryDictionaryReplacement: #.sun-tzu.boilerplate
         (m^2 n^2) \div m &= m n^2,
       \end{aligned}
     $$
-    ----
+    --
     along with the result of the division
-    ----
+    --
     $$
       \Bigl[ n \times n + (n - 1) \times n + \dots + 1 \times n \Bigr]^2
         \div
       n.
     $$
-    ----
+    --
     Since this gets rather repetitive and boring,
     you may wish to [skip to \P23](23).
-    ----
+    --
 
 
 RegexDictionaryReplacement: #.sun-tzu.source-links
