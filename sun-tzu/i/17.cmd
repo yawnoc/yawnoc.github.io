@@ -67,87 +67,87 @@ Chinese source text: \b[149], \c[52090], \d[24].
 [resumes]: https://archive.org/details/02094034.cn/page/n14
 
 <<
-  七七四十九，自相乘，得二千四百一。七人分之，人得三百四十三。
+  七七四十九、自相乘、得二千四百一。七人分之、人得三百四十三。
 \\
   Seven sevens .[are] forty-nine,
   .[which], multiplied with itself,
   resulteth in two thousand, four hundred .[and] one.
-  .[With] seven men sharing it,
-  .[each] man receiveth three hundred .[and] forty-three.
+  .[With] seven people sharing it,
+  .[each] person getteth three hundred .[and] forty-three.
 >>
 
 <<
-  六七四十二，自相乘，得一千七百六十四。六人分之，人得二百九十四。
+  六七四十二、自相乘、得一千七百六十四。六人分之、人得二百九十四。
 \\
   Six sevens .[are] forty-two,
   .[which], multiplied with itself,
   resulteth in one thousand, seven hundred .[and] sixty-four.
-  .[With] six men sharing it,
-  .[each] man receiveth two hundred .[and] ninety-four.
+  .[With] six people sharing it,
+  .[each] person getteth two hundred .[and] ninety-four.
 >>
 
 <<
-  五七三十五，自相乘，得一千二百二十五。五人分之，人得二百四十五。
+  五七三十五、自相乘、得一千二百二十五。五人分之、人得二百四十五。
 \\
   Five sevens .[are] thirty-five,
   .[which], multiplied with itself,
   resulteth in one thousand, two hundred .[and] twenty-five.
-  .[With] five men sharing it,
-  .[each] man receiveth two hundred .[and] forty-five.
+  .[With] five people sharing it,
+  .[each] person getteth two hundred .[and] forty-five.
 >>
 
 <<
-  四七二十八，自相乘，得七百八十四。四人分之，人得一百九十六。
+  四七二十八、自相乘、得七百八十四。四人分之、人得一百九十六。
 \\
   Four sevens .[are] twenty-eight,
   .[which], multiplied with itself,
   resulteth in seven hundred .[and] eighty-four.
-  .[With] four men sharing it,
-  .[each] man receiveth one hundred .[and] ninety-six.
+  .[With] four people sharing it,
+  .[each] person getteth one hundred .[and] ninety-six.
 >>
 
 <<
-  三七二十一，自相乘，得四百四十一。三人分之，人得一百四十七。
+  三七二十一、自相乘、得四百四十一。三人分之、人得一百四十七。
 \\
   Three sevens .[are] twenty-one,
   .[which], multiplied with itself,
   resulteth in four hundred .[and] forty-one.
-  .[With] three men sharing it,
-  .[each] man receiveth one hundred .[and] forty-seven.
+  .[With] three people sharing it,
+  .[each] person getteth one hundred .[and] forty-seven.
 >>
 
 <<
-  二七十四，自相乘，得一百九十六。二人分之，人得九十八。
+  二七十四、自相乘、得一百九十六。二人分之、人得九十八。
 \\
   Two sevens .[are] fourteen,
   .[which], multiplied with itself,
   resulteth in one hundred .[and] ninety-six.
-  .[With] two men sharing it,
-  .[each] man receiveth ninety-eight.
+  .[With] two people sharing it,
+  .[each] person getteth ninety-eight.
 >>
 =={.translation-annotations}
 * \b[150] has .二七一十四 for .二七十四.
 ==
 
 <<
-  一七如七，自相乘，得四十九。一人得四十九。
+  一七如七、自相乘、得四十九。一人得四十九。
 \\
   One seven .[is] as seven,
   .[which], multiplied with itself,
   resulteth in forty-nine.
-  One man receiveth forty-nine.
+  One person getteth forty-nine.
 >>
 
 <<
-  右七七一條，得一百九十六，自相乘，得三萬八千四百一十六。\
-  七人分之，人得五千四百八十八。
+  右七七一條、得一百九十六、自相乘、得三萬八千四百一十六。\
+  七人分之、人得五千四百八十八。
 \\
-  .[The] seven sevens above .[in] one strand,
+  .[The] seven sevens above .[as] one strand,
   result in one hundred .[and] ninety-six,
   .[which], multiplied with itself,
   resulteth in three myriad, eight thousand, four hundred .[and] sixteen.
-  .[With] seven men sharing it,
-  .[each] man receiveth five thousand, four hundred .[and] eighty-eight.
+  .[With] seven people sharing it,
+  .[each] person getteth five thousand, four hundred .[and] eighty-eight.
 >>
 =={.translation-annotations}
 * In modern notation:
