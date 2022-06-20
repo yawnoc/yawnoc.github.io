@@ -64,97 +64,97 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
 --
 
 <<
-  八八六十四，自相乘，得四千九十六。八人分之，人得五百十二。
+  八八六十四、自相乘、得四千九十六。八人分之、人得五百十二。
 \\
   Eight eights .[are] sixty-four,
   .[which], multiplied with itself,
   resulteth in four thousand .[and] ninety-six.
-  .[With] eight men sharing it,
-  .[each] man receiveth five hundred .[and] twelve.
+  .[With] eight people sharing it,
+  .[each] person getteth five hundred .[and] twelve.
 >>
 =={.translation-annotations}
 * \b[149] has .五百一十二 for .五百十二.
 ==
 
 <<
-  七八五十六，自相乘，得三千一百三十六。七人分之，人得四百四十八。
+  七八五十六、自相乘、得三千一百三十六。七人分之、人得四百四十八。
 \\
   Seven eights .[are] fifty-six,
   .[which], multiplied with itself,
   resulteth in three thousand, one hundred .[and] thirty-six.
-  .[With] seven men sharing it,
-  .[each] man receiveth four hundred .[and] forty-eight.
+  .[With] seven people sharing it,
+  .[each] person getteth four hundred .[and] forty-eight.
 >>
 
 <<
-  六八四十八，自相乘，得二千三百四。六人分之，人得三百八十四。
+  六八四十八、自相乘、得二千三百四。六人分之、人得三百八十四。
 \\
   Six eights .[are] forty-eight,
   .[which], multiplied with itself,
   resulteth in two thousand, three hundred .[and] four.
-  .[With] six men sharing it,
-  .[each] man receiveth three hundred .[and] eighty-four.
+  .[With] six people sharing it,
+  .[each] person getteth three hundred .[and] eighty-four.
 >>
 
 <<
-  五八四十，自相乘，得一千六百。五人分之，人得三百二十。
+  五八四十、自相乘、得一千六百。五人分之、人得三百二十。
 \\
   Five eights .[are] forty,
   .[which], multiplied with itself,
   resulteth in one thousand six hundred.
-  .[With] five men sharing it,
-  .[each] man receiveth three hundred .[and] twenty.
+  .[With] five people sharing it,
+  .[each] person getteth three hundred .[and] twenty.
 >>
 
 <<
-  四八三十二，自相乘，得一千二十四。四人分之，人得二百五十六。
+  四八三十二、自相乘、得一千二十四。四人分之、人得二百五十六。
 \\
   Four eights .[are] thirty-two,
   .[which], multiplied with itself,
   resulteth in one thousand .[and] twenty-four.
-  .[With] four men sharing it,
-  .[each] man receiveth two hundred .[and] fifty-six.
+  .[With] four people sharing it,
+  .[each] person getteth two hundred .[and] fifty-six.
 >>
 
 <<
-  三八二十四，自相乘，得五百七十六。三人分之，人得一百九十二。
+  三八二十四、自相乘、得五百七十六。三人分之、人得一百九十二。
 \\
   Three eights .[are] twenty-four,
   .[which], multiplied with itself,
   resulteth in five hundred .[and] seventy-six.
-  .[With] three men sharing it,
-  .[each] man receiveth one hundred .[and] ninety-two.
+  .[With] three people sharing it,
+  .[each] person getteth one hundred .[and] ninety-two.
 >>
 
 <<
-  二八十六，自相乘，得二百五十六。二人分之，人得一百二十八。
+  二八十六、自相乘、得二百五十六。二人分之、人得一百二十八。
 \\
   Two eights .[are] sixteen,
   .[which], multiplied with itself,
   resulteth in two hundred .[and] fifty-six.
-  .[With] two men sharing it,
-  .[each] man receiveth one hundred .[and] twenty-eight.
+  .[With] two people sharing it,
+  .[each] person getteth one hundred .[and] twenty-eight.
 >>
 
 <<
-  一八如八，自相乘，得六十四。一人得六十四。
+  一八如八、自相乘、得六十四。一人得六十四。
 \\
   One eight .[is] as eight,
   .[which], multiplied with itself,
   resulteth in sixty-four.
-  One man receiveth sixty-four.
+  One person getteth sixty-four.
 >>
 
 <<
-  右八八一條，得二百八十八，自相乘，得八萬二千九百四十四。\
-  八人分之，人得一萬三百六十八。
+  右八八一條、得二百八十八、自相乘、得八萬二千九百四十四。\
+  八人分之、人得一萬三百六十八。
 \\
-  .[The] eight eights above .[in] one strand,
+  .[The] eight eights above .[as] one strand,
   result in two hundred .[and] eighty-eight,
   .[which], multiplied with itself,
   resulteth in eight myriad, two thousand, nine hundred .[and] forty-four.
-  .[With] eight men sharing it,
-  .[each] man receiveth one myriad, three hundred .[and] sixty-eight.
+  .[With] eight people sharing it,
+  .[each] person getteth one myriad, three hundred .[and] sixty-eight.
 >>
 =={.translation-annotations}
 * In modern notation:
