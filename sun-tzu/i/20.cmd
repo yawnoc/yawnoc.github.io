@@ -1,90 +1,71 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P20
-  %date-created 2019-06-09
-  %date-modified 2020-05-13
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P20"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P20
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-20
+- concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [I] ["i" Volume~I]
-*> [\P20](\- You are viewing \P20)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~I](./)
+* %%surrounds-previous --> [<-- \P19](19)
+* %%surrounds-current --> \P20
+* %%surrounds-next --> [\P21 -->](21)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
-
-#
-  《孫子算經\.卷上》 \+
-  "\sun-tzu's Computational Classic: Volume~I" \+
-  \P20. Results of multiplication \& division: multiples of~4
-#
-
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P19 : ["i 19"]
-    \nav-curr: \P20
-    \nav-next: \P21 : ["i 21"]
-  |}}
-|}}}}
+%%%
 
 
-\noscript:maths
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !i
+-{.breadcrumbed} !!20
+- !cite
+^^^^
+
+# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
+  \P20. Results of multiplication & division: multiples of~4
+
+%%noscript-equations
 
 
-[||||
-||||]
+%%surrounds
 
 
-----
-\P15 through \P22 give the results of multiplications and divisions
-of the form
-----
-$$
-  \begin{aligned}
-    (m n) \times (m n) &= m^2 n^2 \\
-    (m^2 n^2) \div m &= m n^2
-  \end{aligned}
-$$
-----
-along with the result of the division
-----
-$$
-  \Bigl[ n \times n + (n - 1) \times n + \dots + 1 \times n \Bigr] ^ 2
-    \div
-  n.
-$$
-----
-Since this gets rather repetitive and boring,
-you may wish to [skip to \P23] ["i 23"].
-----
-----
+%%volume-i-multiplications-and-divisions
+--
 This paragraph corresponds to $n = 4$.
-----
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[18], \b[151], \c[52108], \d[29]. \+
-\d-default
-----
+--
+Chinese source text: \a[18], \b[151], \c[52108], \d[29]. <br>
+%%version-d-default
+--
 
 <<
   四四一十六，自相乘，得二百五十六。四人分之，人得六十四。
-||
+\\
   Four fours .[are] sixteen,
   .[which], multiplied with itself,
   resulteth in two hundred .[and] fifty-six.
@@ -94,7 +75,7 @@ Chinese source text: \a[18], \b[151], \c[52108], \d[29]. \+
 
 <<
   三四一十二，自相乘，得一百四十四。三人分之，人得四十八。
-||
+\\
   Three fours .[are] twelve,
   .[which], multiplied with itself,
   resulteth in one hundred .[and] forty-four.
@@ -104,7 +85,7 @@ Chinese source text: \a[18], \b[151], \c[52108], \d[29]. \+
 
 <<
   二四如八，自相乘，得六十四。二人分之，人得三十二。
-||
+\\
   Two fours .[are] as eight,
   .[which], multiplied with itself,
   resulteth in sixty-four.
@@ -114,7 +95,7 @@ Chinese source text: \a[18], \b[151], \c[52108], \d[29]. \+
 
 <<
   一四如四，自相乘，得一十六。一人得一十六。
-||
+\\
   One four .[is] as four,
   .[which], multiplied with itself,
   resulteth in sixteen.
@@ -123,7 +104,7 @@ Chinese source text: \a[18], \b[151], \c[52108], \d[29]. \+
 
 <<
   右四四一條，得四十，自相乘，得一千六百。四人分之，人得四百。
-||
+\\
   .[The] four fours above .[in] one strand,
   result in forty,
   .[which], multiplied with itself,
@@ -131,7 +112,7 @@ Chinese source text: \a[18], \b[151], \c[52108], \d[29]. \+
   .[With] four men sharing it,
   .[each] man receiveth four hundred.
 >>
-====
+=={.translation-annotations}
 * In modern notation:
   $$
     \begin{gathered}
@@ -140,20 +121,13 @@ Chinese source text: \a[18], \b[151], \c[52108], \d[29]. \+
       \quad 1600 \div 4 = 400.
     \end{gathered}
   $$
-====
-
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P19 : ["i 19"]
-    \nav-curr: \P20
-    \nav-next: \P21 : ["i 21"]
-  |}}
-|}}}}
+==
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~I \P20"
-]
+%%surrounds
 
-%footer-element
+
+%%cite
+
+
+%%footer
