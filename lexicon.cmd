@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-19
+* %date-modified --> 2022-06-20
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -4195,6 +4195,11 @@ See also: [符驗]
 ==
 * set (loose)
 * indulge
+==
+
+11 [總] U+7E3D
+==
+* total
 ==
 
 

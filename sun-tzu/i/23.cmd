@@ -84,29 +84,29 @@ Chinese source text: \a[20], \b[151], \c[52117], \d[32]. <br>
 --
 
 <<
-  一一如一，自相乘，得一。一乘不長。
+  一一如一、自相乘、得一。一乘不長。
 \\
   One one .[is] as one, .[which], multiplied with itself, resulteth in one.
-  Multiplying .[by] one augmenteth not.
+  Multiplying .[by] one groweth not.
 >>
 =={.translation-annotations}
-* .長： augmenteth
+* .長： groweth
   --
-  .長，上聲， \C ch(oe)ng2, \M zh(av)ng
+  .長、上聲、 \C ch(oe)ng2, \M zh(av)ng
   --
 ==
 
 <<
-  右從九九至一一，總成一千一百五十五，自相乘，得一百三十三萬四千二十五。\
-  九人分之，人得一十四萬八千二百二十五。
+  右從九九至一一、總成一千一百五十五、自相乘、得一百三十三萬四千二十五。\
+  九人分之、人得一十四萬八千二百二十五。
 \\
-  From nine nines unto one one above:
+  From nine nines unto one one above,
   .[the] total becometh one thousand, one hundred .[and] fifty-five,
   .[which], multiplied with itself,
   resulteth in
     one hundred .[and] thirty-three myriad, four thousand .[and] twenty-five.
-  .[With] nine men sharing it,
-  .[each] man receiveth
+  .[With] nine people sharing it,
+  .[each] person getteth
     fourteen myriad, eight thousand, two hundred .[and] twenty-five.
 >>
 =={.translation-annotations}
