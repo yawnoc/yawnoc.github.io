@@ -1,90 +1,71 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P18
-  %date-created 2019-06-09
-  %date-modified 2020-05-13
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P18"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P18
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-20
+- concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [I] ["i" Volume~I]
-*> [\P18](\- You are viewing \P18)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~I](./)
+* %%surrounds-previous --> [<-- \P17](17)
+* %%surrounds-current --> \P18
+* %%surrounds-next --> [\P19 -->](19)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
-
-#
-  《孫子算經\.卷上》 \+
-  "\sun-tzu's Computational Classic: Volume~I" \+
-  \P18. Results of multiplication \& division: multiples of~6
-#
-
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P17 : ["i 17"]
-    \nav-curr: \P18
-    \nav-next: \P19 : ["i 19"]
-  |}}
-|}}}}
+%%%
 
 
-\noscript:maths
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !i
+-{.breadcrumbed} !!18
+- !cite
+^^^^
+
+# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
+  \P18. Results of multiplication & division: multiples of~6
+
+%%noscript-equations
 
 
-[||||
-||||]
+%%surrounds
 
 
-----
-\P15 through \P22 give the results of multiplications and divisions
-of the form
-----
-$$
-  \begin{aligned}
-    (m n) \times (m n) &= m^2 n^2 \\
-    (m^2 n^2) \div m &= m n^2
-  \end{aligned}
-$$
-----
-along with the result of the division
-----
-$$
-  \Bigl[ n \times n + (n - 1) \times n + \dots + 1 \times n \Bigr] ^ 2
-    \div
-  n.
-$$
-----
-Since this gets rather repetitive and boring,
-you may wish to [skip to \P23] ["i 23"].
-----
-----
+%%volume-i-multiplications-and-divisions
+--
 This paragraph corresponds to $n = 6$.
-----
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[14], \b[150], \c[52097], \d[26]. \+
-\d-default
-----
+--
+Chinese source text: \a[14], \b[150], \c[52097], \d[26]. <br>
+%%version-d-default
+--
 
 <<
   六六三十六，自相乘，得一千二百九十六。六人分之，人得二百一十六。
-||
+\\
   Six sixes .[are] thirty-six,
   .[which], multiplied with itself,
   resulteth in one thousand, two hundred .[and] ninety-six.
@@ -94,7 +75,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. \+
 
 <<
   五六三十，自相乘，得九百。五人分之，人得一百八十。
-||
+\\
   Five sixes .[are] thirty,
   .[which], multiplied with itself,
   resulteth in nine hundred.
@@ -104,7 +85,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. \+
 
 <<
   四六二十四，自相乘，得五百七十六。四人分之，人得一百四十四。
-||
+\\
   Four sixes .[are] twenty-four,
   .[which], multiplied with itself,
   resulteth in five hundred .[and] seventy-six.
@@ -114,7 +95,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. \+
 
 <<
   三六一十八，自相乘，得三百二十四。三人分之，人得一百八。
-||
+\\
   Three sixes .[are] eighteen,
   .[which], multiplied with itself,
   resulteth in three hundred .[and] twenty-four.
@@ -124,7 +105,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. \+
 
 <<
   二六一十二，自相乘，得一百四十四。二人分之，人得七十二。
-||
+\\
   Two sixes .[are] twelve,
   .[which], multiplied with itself,
   resulteth in one hundred .[and] forty-four.
@@ -134,7 +115,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. \+
 
 <<
   一六如六，自相乘，得三十六。一人得三十六。
-||
+\\
   One six .[is] as six,
   .[which], multiplied with itself,
   resulteth in thirty-six.
@@ -144,7 +125,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. \+
 <<
   右六六一條，得一百二十六，自相乘，得一萬五千八百七十六。\
   六人分之，人得二千六百四十六。
-||
+\\
   .[The] six sixes above .[in] one strand,
   result in one hundred .[and] twenty-six,
   .[which], multiplied with itself,
@@ -152,7 +133,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. \+
   .[With] six men sharing it,
   .[each] man receiveth two thousand, six hundred .[and] forty-six.
 >>
-====
+=={.translation-annotations}
 * In modern notation:
   $$
     \begin{gathered}
@@ -161,20 +142,13 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. \+
       \quad 15876 \div 6 = 2646.
     \end{gathered}
   $$
-====
-
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P17 : ["i 17"]
-    \nav-curr: \P18
-    \nav-next: \P19 : ["i 19"]
-  |}}
-|}}}}
+==
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~I \P18"
-]
+%%surrounds
 
-%footer-element
+
+%%cite
+
+
+%%footer
