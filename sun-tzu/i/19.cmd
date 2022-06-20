@@ -1,91 +1,71 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P19
-  %date-created 2019-06-09
-  %date-modified 2020-05-13
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P19"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P19
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-20
+- concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [I] ["i" Volume~I]
-*> [\P19](\- You are viewing \P19)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~I](./)
+* %%surrounds-previous --> [<-- \P18](18)
+* %%surrounds-current --> \P19
+* %%surrounds-next --> [\P20 -->](20)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
-
-#
-  《孫子算經\.卷上》 \+
-  "\sun-tzu's Computational Classic: Volume~I" \+
-  \P19. Results of multiplication \& division: multiples of~5
-#
-
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P18 : ["i 18"]
-    \nav-curr: \P19
-    \nav-next: \P20 : ["i 20"]
-  |}}
-|}}}}
+%%%
 
 
-\noscript:maths
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !i
+-{.breadcrumbed} !!19
+- !cite
+^^^^
+
+# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
+  \P19. Results of multiplication & division: multiples of~5
+
+%%noscript-equations
 
 
-[||||
-||||]
+%%surrounds
 
 
-----
-\P15 through \P22 give the results of multiplications and divisions
-of the form
-----
-$$
-  \begin{aligned}
-    (m n) \times (m n) &= m^2 n^2 \\
-    (m^2 n^2) \div m &= m n^2
-  \end{aligned}
-$$
-----
-along with the result of the division
-----
-$$
-  \Bigl[ n \times n + (n - 1) \times n + \dots + 1 \times n \Bigr] ^ 2
-    \div
-  n.
-$$
-----
-Since this gets rather repetitive and boring,
-you may wish to [skip to \P23] ["i 23"].
-----
-----
+%%volume-i-multiplications-and-divisions
+--
 This paragraph corresponds to $n = 5$.
-----
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[16], \b[150], \c[52103], \d[27]. \+
-\d-default
-----
-
+--
+Chinese source text: \a[16], \b[150], \c[52103], \d[27]. <br>
+%%version-d-default
+--
 
 <<
   五五二十五，自相乘，得六百二十五。五人分之，人得一百二十五。
-||
+\\
   Five fives .[are] twenty-five,
   .[which], multiplied with itself,
   resulteth in six hundred .[and] twenty-five.
@@ -95,7 +75,7 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. \+
 
 <<
   四五二十，自相乘，得四百。四人分之，人得一百。
-||
+\\
   Four fives .[are] twenty,
   .[which], multiplied with itself,
   resulteth in four hundred.
@@ -105,7 +85,7 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. \+
 
 <<
   三五一十五，自相乘，得二百二十五。三人分之，人得七十五。
-||
+\\
   Three fives .[are] fifteen,
   .[which], multiplied with itself,
   resulteth in two hundred .[and] twenty-five.
@@ -115,7 +95,7 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. \+
 
 <<
   二五一十，自相乘，得一百。二人分之，人得五十。
-||
+\\
   Two fives .[are] ten,
   .[which], multiplied with itself,
   resulteth in one hundred.
@@ -125,7 +105,7 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. \+
 
 <<
   一五如五，自相乘，得二十五。一人得二十五。
-||
+\\
   One five .[is] as five,
   .[which], multiplied with itself,
   resulteth in twenty-five.
@@ -135,7 +115,7 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. \+
 <<
   右五五一條，得七十五，自相乘，得五千六百二十五。\
   五人分之，人得一千一百二十五。
-||
+\\
   .[The] five fives above .[in] one strand,
   result in seventy-five,
   .[which], multiplied with itself,
@@ -143,7 +123,7 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. \+
   .[With] five men sharing it,
   .[each] man receiveth one thousand, one hundred .[and] twenty-five.
 >>
-====
+=={.translation-annotations}
 * In modern notation:
   $$
     \begin{gathered}
@@ -152,20 +132,13 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. \+
       \quad 5625 \div 5 = 1125.
     \end{gathered}
   $$
-====
-
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P18 : ["i 18"]
-    \nav-curr: \P19
-    \nav-next: \P20 : ["i 20"]
-  |}}
-|}}}}
+==
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~I \P19"
-]
+%%surrounds
 
-%footer-element
+
+%%cite
+
+
+%%footer
