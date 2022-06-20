@@ -1,90 +1,71 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~I" 《孫子算經\.卷上》 \P22
-  %date-created 2019-06-09
-  %date-modified 2020-05-13
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P22"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P22
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-20
+- concluding_replacements:
+    #.yawnoc.double-quotes-in-attributes
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [I] ["i" Volume~I]
-*> [\P22](\- You are viewing \P22)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~I](./)
+* %%surrounds-previous --> [<-- \P21](21)
+* %%surrounds-current --> \P22
+* %%surrounds-next --> [\P23 -->](23)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
-
-#
-  《孫子算經\.卷上》 \+
-  "\sun-tzu's Computational Classic: Volume~I" \+
-  \P22. Results of multiplication \& division: multiples of~2
-#
-
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P21 : ["i 21"]
-    \nav-curr: \P22
-    \nav-next: \P23 : ["i 23"]
-  |}}
-|}}}}
+%%%
 
 
-\noscript:maths
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !i
+-{.breadcrumbed} !!22
+- !cite
+^^^^
+
+# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
+  \P22. Results of multiplication & division: multiples of~2
+
+%%noscript-equations
 
 
-[||||
-||||]
+%%surrounds
 
 
-----
-\P15 through \P22 give the results of multiplications and divisions
-of the form
-----
-$$
-  \begin{aligned}
-    (m n) \times (m n) &= m^2 n^2 \\
-    (m^2 n^2) \div m &= m n^2
-  \end{aligned}
-$$
-----
-along with the result of the division
-----
-$$
-  \Bigl[ n \times n + (n - 1) \times n + \dots + 1 \times n \Bigr] ^ 2
-    \div
-  n.
-$$
-----
-Since this gets rather repetitive and boring,
-you may wish to [skip to \P23] ["i 23"].
-----
-----
+%%volume-i-multiplications-and-divisions
+--
 This paragraph corresponds to $n = 2$.
-----
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[20], \b[151], \c[52115], \d[31]. \+
-\d-default
-----
+--
+Chinese source text: \a[20], \b[151], \c[52115], \d[31]. <br>
+%%version-d-default
+--
 
 <<
   二二如四，自相乘，得一十六。二人分之，人得八。
-||
+\\
   Two twos .[are] as four,
   .[which], multiplied with itself,
   resulteth in sixteen.
@@ -94,7 +75,7 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. \+
 
 <<
   一二如二，自相乘，得四。一人得四。
-||
+\\
   One two .[is] as two,
   .[which], multiplied with itself,
   resulteth in four.
@@ -103,7 +84,7 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. \+
 
 <<
   右二二一條，得六，自相乘，得三十六。二人分之，人得十八。
-||
+\\
   .[The] two twos above .[in] one strand,
   result in six,
   .[which], multiplied with itself,
@@ -111,8 +92,8 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. \+
   .[With] two men sharing it,
   .[each] man receiveth eighteen.
 >>
-====
-* \b[151] has 人得一十八 for 人得十八.
+=={.translation-annotations}
+* \b[151] has .人得一十八 for .人得十八.
 * In modern notation:
   $$
     \begin{gathered}
@@ -121,20 +102,13 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. \+
       \quad 36 \div 2 = 18.
     \end{gathered}
   $$
-====
-
-{{{{|
-  \nav-up: Volume~I : ["i"]
-  {{|
-    \nav-prev: \P21 : ["i 21"]
-    \nav-curr: \P22
-    \nav-next: \P23 : ["i 23"]
-  |}}
-|}}}}
+==
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~I \P22"
-]
+%%surrounds
 
-%footer-element
+
+%%cite
+
+
+%%footer
