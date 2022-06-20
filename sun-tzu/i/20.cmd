@@ -64,53 +64,53 @@ Chinese source text: \a[18], \b[151], \c[52108], \d[29]. <br>
 --
 
 <<
-  四四一十六，自相乘，得二百五十六。四人分之，人得六十四。
+  四四一十六、自相乘、得二百五十六。四人分之、人得六十四。
 \\
   Four fours .[are] sixteen,
   .[which], multiplied with itself,
   resulteth in two hundred .[and] fifty-six.
-  .[With] four men sharing it,
-  .[each] man receiveth sixty-four.
+  .[With] four people sharing it,
+  .[each] person getteth sixty-four.
 >>
 
 <<
-  三四一十二，自相乘，得一百四十四。三人分之，人得四十八。
+  三四一十二、自相乘、得一百四十四。三人分之、人得四十八。
 \\
   Three fours .[are] twelve,
   .[which], multiplied with itself,
   resulteth in one hundred .[and] forty-four.
-  .[With] three men sharing it,
-  .[each] man receiveth forty-eight.
+  .[With] three people sharing it,
+  .[each] person getteth forty-eight.
 >>
 
 <<
-  二四如八，自相乘，得六十四。二人分之，人得三十二。
+  二四如八、自相乘、得六十四。二人分之、人得三十二。
 \\
   Two fours .[are] as eight,
   .[which], multiplied with itself,
   resulteth in sixty-four.
-  .[With] two men sharing it,
-  .[each] man receiveth thirty-two.
+  .[With] two people sharing it,
+  .[each] person getteth thirty-two.
 >>
 
 <<
-  一四如四，自相乘，得一十六。一人得一十六。
+  一四如四、自相乘、得一十六。一人得一十六。
 \\
   One four .[is] as four,
   .[which], multiplied with itself,
   resulteth in sixteen.
-  One man receiveth sixteen.
+  One person getteth sixteen.
 >>
 
 <<
-  右四四一條，得四十，自相乘，得一千六百。四人分之，人得四百。
+  右四四一條、得四十、自相乘、得一千六百。四人分之、人得四百。
 \\
-  .[The] four fours above .[in] one strand,
+  .[The] four fours above .[as] one strand,
   result in forty,
   .[which], multiplied with itself,
   resulteth in one thousand six hundred.
-  .[With] four men sharing it,
-  .[each] man receiveth four hundred.
+  .[With] four people sharing it,
+  .[each] person getteth four hundred.
 >>
 =={.translation-annotations}
 * In modern notation:
