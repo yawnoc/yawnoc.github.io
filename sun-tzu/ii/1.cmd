@@ -86,11 +86,6 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
   .[and] reducing them, .[we] are done.
 >>
 =={.translation-annotations}
-* .副置二位： put subsidiarily .[the] two places
-  --
-  Put down a second instance of the number twelve (which has two digits).
-  --
-
 * .以少減多、等數得六：
     subtract of .[the] greater by .[the] lesser;
     .[for the] equal number .[there] resulteth six
@@ -120,7 +115,7 @@ In my opinion, this paragraph's description
 of the subtraction-only Euclidean algorithm
 is rather lacking in clarity.
 In particular, there is no explicit instruction
-to *repeat* the subtraction *until* you get the equal quantity~6.
+to *repeat* the subtraction *until* you get the equal number~6.
 --
 --
 A much better description of .約分術, ".[the] Method of Reducing Fractions",
@@ -201,36 +196,37 @@ of (Sun Tz(uu)|孫子)'s Computational Classic:
 ==
 
 <<
-  可半者半之。
+  可半者、半之。
 \\
   Those which can .[be] halved: halve them.
 >>
 
 <<
-  不可半者，副置分母、子之數，以少減多，更相減損，求其等也。
+  不可半者、副置分母子之數、以少減多、更相減損、求其等也、以等數約之。
 \\
   Those which cannot .[be] halved:
-  put subsidiarily .[the] quantities of
-    .[the] denominator .[and the] numerator
-  of .[the] fraction.
-  Diminish .[the] greater by .[the] lesser, .[and]
-  further subtract .[them] from each other,
-  seeking their .[being] equal.
+  put subsidiarily .[the] numbers
+    .[that are the] denominator .[and the] numerator
+  of .[the] fraction;
+  subtract of .[the] greater by .[the] lesser, .[and]
+  further subtract from .[and] diminish .[them] each other,
+  seeking their .[being] equal,
+  .[and] reduce them using .[the] equal number.
 >>
 
 <<
-  以等數約之。
   （等數約之，即除也。其所以相減者，皆等數之重疊。故以等數約之。）
 \\
-  Reduce them using .[the] equal quantity.
-  (.[To] reduce them .[with the] equal quantity, is .[to] divide .[them].
-  Those of them which .[have been] mutually subtracted,
-  .[are] all repeated pilings of .[the] equal quantity.
-  Therefore .[we] use .[the] equal quantity .[to] reduce them.)
+  (.[To] reduce them .[with the] equal number, is .[to] divide .[them].
+  Those of them by which .[we have] mutually subtracted,
+  .[are] all layered stackings of .[the] equal number.
+  Therefore .[we] use .[the] equal number .[to] reduce them.)
 >>
 =={.translation-annotations}
-* .重疊： \lit repeated pilings; \or overlappings <br>
-  I think this means "multiples".
+* .重疊： layered stackings
+  --
+  I think this is what we would call "multiples".
+  --
 ==
 
 

@@ -2550,6 +2550,11 @@ See also: [掌握]
 * 掌握： grasp
 ==
 
+10 [損] U+640D
+==
+* loss; diminish
+==
+
 12 [撲] U+64B2
 ==
 * beat
@@ -3695,6 +3700,11 @@ See also: [後生]
 14 [疆] U+7586
 ==
 * bound
+==
+
+17 [疊] U+758A
+==
+* stack
 ==
 
 
