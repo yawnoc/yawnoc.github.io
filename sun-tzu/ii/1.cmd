@@ -63,7 +63,7 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
 
 <<
   今有一十八分之一十二。問約之得幾何。 <br>
-  答曰：三分之二。
+  答曰、三分之二。
 \\
   Suppose there be twelve eighteenths.
   .[We] ask, reducing it resulteth in how much? <br>
@@ -74,25 +74,26 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
 ==
 
 <<
-  術曰：置十八分在下，一十二分在上。\
-  副置二位，以少減多，等數得六為法，約之，即得。
+  術曰、置十八分在下、一十二分在上。\
+  副置二位、以少減多、等數得六為法、約之、即得。
 \\
   Method saith:
-  put .[the] eighteen shares below,
-  .[and the] twelve shares above.
+  put .[the] eighteen shares in .[the] below,
+  .[and the] twelve shares in .[the] above.
   Put subsidiarily .[the] two places,
-  .[and] diminish .[the] greater by .[the] lesser;
-  .[for the] equal quantity .[there] resulteth six as .[the] divisor,
+  .[and] subtract of .[the] greater by .[the] lesser;
+  .[for the] equal number .[there] resulteth six as .[the] divisor,
   .[and] reducing them, .[we] are done.
 >>
 =={.translation-annotations}
-* .副： subsidiarily
+* .副置二位： put subsidiarily .[the] two places
+  --
+  Put down a second instance of the number twelve (which has two digits).
+  --
 
-* .位： places
-
-* .以少減多，等數得六：
-    diminish .[the] greater by .[the] lesser;
-    .[for the] equal quantity .[there] resulteth six
+* .以少減多、等數得六：
+    subtract of .[the] greater by .[the] lesser;
+    .[for the] equal number .[there] resulteth six
   --
   Here we have the subtraction-only version of the Euclidean algorithm
   for greatest common divisor (GCD):

@@ -897,6 +897,11 @@ See also: [幾何]
 * strong; tough
 ==
 
+9 [副] U+526F
+==
+* subsidiary
+==
+
 
 ### ⼒ (power) U+2F12
 
@@ -1494,7 +1499,7 @@ See also: [詩士]
 3 [多] U+591A
 ==
 * much; many
-* more; excess
+* more; greater; excess
 ==
 
 
@@ -1781,7 +1786,7 @@ See also: [從容]
 [上聲]
 ==
 * few
-* less
+* less; lesser
 ==
 [去聲]
 ==
