@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P1"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-12
+* %date-modified --> 2022-06-22
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,17 +62,15 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
 --
 
 <<
-  今有一十八分之一十二。問約之得幾何？ <br>
+  今有一十八分之一十二。問約之得幾何。 <br>
   答曰：三分之二。
 \\
-  Now there be twelve eighteenths.
+  Suppose there be twelve eighteenths.
   .[We] ask, reducing it resulteth in how much? <br>
   Answer saith: two thirds.
 >>
 =={.translation-annotations}
-* .一十八分之一十二： twelve eighteenths;
-    \lit twelve of eighteen shares;
-    \or twelve of eighteen portions
+* .一十八分之一十二： twelve eighteenths; \lit twelve of eighteen shares
 ==
 
 <<

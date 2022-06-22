@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-20
+* %date-modified --> 2022-06-22
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -4116,6 +4116,13 @@ See also: [符驗]
 ==
 * law
 * annals
+==
+
+3 [約] U+7D04
+==
+* restrain
+* covenant
+* reduce
 ==
 
 4 [索] U+7D22
