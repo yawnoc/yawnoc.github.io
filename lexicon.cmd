@@ -339,7 +339,7 @@ See also: [逝世]
 
 1 [乃] U+4E43
 ==
-* thou; thy
+* thou
 * be
 * thus
 * [:speech-assist:]
@@ -734,6 +734,11 @@ See also: [幾何]
 * internal; inner
 ==
 
+4 [全] U+5168
+==
+* whole
+==
+
 6 [兩] U+5169
 ==
 * two
@@ -1114,13 +1119,16 @@ See also: [北方]
 ==
 * jagged; uneven
 ==
+==
+* 參差： uneven
+==
 [平聲] 音驂 c(a-)n
 ==
 * partake
 ==
 [平聲] 音三 s(a-)n
 ==
-* \int [三]: three
+* \int [三]
 ==
 
 
@@ -1904,6 +1912,23 @@ See also: [從容]
 * clever; skill
 ==
 
+7 [差] U+5DEE
+[平聲] 音叉 ch(a-)
+==
+* discrepancy; error
+==
+[平聲] 音釵 ch(a-)i
+==
+* messenger
+==
+[平聲] 音雌 c(i-)
+==
+* uneven
+==
+--
+See also: [參差]
+--
+
 
 ### ⼰ (oneself) U+2F30
 
@@ -2312,7 +2337,7 @@ See also: [性命]
 7 [悉] U+6089
 ==
 * know
-* all
+* all; completely
 ==
 
 7 [悟] U+609F
@@ -2481,6 +2506,13 @@ See also: [所在]
 * Ten
 ==
 
+6 [按] U+6309
+==
+* press
+* repress
+* inspect; note
+==
+
 8 [掌] U+638C
 ==
 * palm
@@ -2636,6 +2668,9 @@ See also: [掌握]
 * [:noun:] number
 * several
 ==
+==
+* 數量： number
+==
 [入聲]
 ==
 * repeated
@@ -2712,6 +2747,9 @@ See also: [掌握]
 * in; at; to; of; from
 * upon; unto
 ==
+--
+See also: [至於]
+--
 
 5 [施] U+65BD
 ==
@@ -2973,6 +3011,14 @@ See also: [有餘]
 * cypress-tree
 ==
 
+6 [案] U+6848
+==
+* desk
+* tray
+* case
+* \var [按]
+==
+
 7 [條] U+689D
 ==
 * strand
@@ -3215,6 +3261,11 @@ See also: [改正]
 * child
 ==
 
+5 [治] U+6CBB
+==
+* govern; administer; order
+==
+
 5 [泉] U+6CC9
 ==
 * spring; fountain
@@ -3395,6 +3446,12 @@ See also: [以為], [為政]
 
 ### ⽘ (double-x) U+2F58
 
+10 [爾] U+723E
+==
+* thou
+* [:speech-assist:]
+==
+
 
 ### ⽙ (half-tree-trunk) U+2F59
 
@@ -3570,6 +3627,11 @@ See also: [後生]
 
 
 ### ⽤ (use) U+2F64
+
+0 [用] U+7528
+==
+* use
+==
 
 
 ### ⽥ (field) U+2F65
@@ -4214,6 +4276,11 @@ See also: [符驗]
 * total
 ==
 
+11 [繁] U+7E41
+==
+* complicated
+==
+
 
 ### ⽸ (jar) U+2F78
 
@@ -4393,6 +4460,9 @@ See also: [自相]
 * arrive; reach; unto
 * most; extremity
 * solstice
+==
+==
+* 至於： as to
 ==
 
 
@@ -4781,6 +4851,7 @@ See also: [平行]
 4 [設] U+8A2D
 ==
 * establish
+* suppose
 ==
 
 5 [註] U+8A3B
@@ -5073,6 +5144,11 @@ See also: [平行]
 * H {:8th heavenly stem:}
 ==
 
+12 [辭] U+8FAD
+==
+* phrase; term
+==
+
 
 ### ⾠ (morning) U+2FA0
 
@@ -5322,6 +5398,9 @@ See also: [遠近]
 * measure; gauge {:metaphorically:}
 * amount; capacity
 ==
+--
+See also: [數量]
+--
 
 11 [釐] U+91D0
 ==
@@ -5522,6 +5601,11 @@ See also: [鴻雁]
 5 [雌] U+96CC
 ==
 * female; female-bird
+==
+
+9 [雖] U+96D6
+==
+* although
 ==
 
 11 [難] U+96E3

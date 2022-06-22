@@ -135,7 +135,6 @@ I think it is informative to include a translation of an excerpt here.
 The source text for this excerpt is from [.《四部叢刊初編》 (ctext.org library)],
 and the bracketed portions are
 inline two-column annotations by [(Liu Huei|劉徽)].
-The inserted punctuation is my own.
 --
 [simplifying 12/18]: https://ctext.org/nine-chapters/fang-tian#n51071
 [simplifying 49/91]: https://ctext.org/nine-chapters/fang-tian#n51073
@@ -149,65 +148,55 @@ of (Sun Tz(uu)|孫子)'s Computational Classic:
 --
 
 <<
-  今有十八分之十二。問約之得幾何？ <br>
-  答曰：三分之二。
+  今有十八分之十二。問約之得幾何。 <br>
+  答曰、三分之二。
 \\
-  Now there be twelve eighteenths.
+  Suppose there be twelve eighteenths.
   .[We] ask, reducing it resulteth in how much? <br>
   Answer saith: two thirds.
 >>
 
 <<
-  又有九十一分之四十九。問約之得幾何？ <br>
-  答曰：十三分之七。
+  又有九十一分之四十九。問約之得幾何。 <br>
+  答曰、十三分之七。
 \\
-  Also there be forty-nine ninety-firsts.
+  And there be forty-nine ninety-firsts.
   .[We] ask, reducing it resulteth in how much? <br>
   Answer saith: seven thirteenths.
 >>
 
 <<
   約分\
-    （按：約分者，物之數量不可悉全，必以分言之。分之為數，繁則難用。\
-    設有四分之二者。繁而言之，亦可為八分之四；約而言之，則二分之一也。\
-    雖則異辭，至於為數，亦同歸爾。\
-    法實相推，動有參差，故為術者，先治諸分。）\
-  術曰：
+    （按、約分者、物之數量不可悉全、必以分言之。分之為數、繁則難用。\
+    設有四分之二者、繁而言之、亦可為八分之四、約而言之、則二分之一也。\
+    雖則異辭、至於為數、亦同歸爾。\
+    法實相推、動有參差、故為術者、先治諸分。）\
+  術曰、
 \\
   .[The] Method of Reducing Fractions
     (Note: Reducing Fractions---
     .[when a] number of objects cannot .[be] completely whole,
-    .[we] must speak of them using fractions.
-    .[A] fraction being .[a] quantity, .[if] complicated,
-    .[is] difficult .[to] utilise.
-    Suppose there be two fourths.
-    Complicating .[it] in speaking of it, .[it] may also be four eighths;
-    reducing .[it] in speaking of it, one half.
+    .[we] must speak of them by fractions.
+    .[A] fraction being .[a] number,
+    .[when] complicated .[is] difficult .[to] use.
+    Suppose there be two fourths;
+    complicating .[it in] speaking of it, .[it] also can be four eighths;
+    reducing .[it in] speaking of it, one half.
     Although different .[in their] terms,
-    as to .[the] quantities .[they] are,
-    .[these do] return .[the] same .[value].
-    Divisors .[and] dividends .[in] calculation with each other,
-    have unevenness .[in their] motions;
-    therefore .[we] perform .[the] method,
+    as to .[their] being numbers,
+    .[they do] return .[the] same.
+    Divisors .[and] dividends .[in] deduction with each other,
+    .[their] movements have unevenness;
+    therefore .[we] do .[the] method,
     first administering it unto .[the] fractions.)
   saith:
 >>
 =={.translation-annotations}
-* .約： reducing; \or simplifying
-
-* .全： whole; \or intact
-
-* .動有參差： have unevenness .[in their] motions
+* .動有參差： movements have unevenness
   --
-  This is a literal rendering.
-  I think ((Liu Huei | ~~劉徽~~)) is trying to say that
+  Perhaps (Liu Huei|劉徽) is trying to say that
   different representations of fractions lead to inconsistencies,
   so first reduce them before doing any other calculations.
-  --
-
-* .諸
-  --
-  Contraction of .之於 (I think).
   --
 ==
 
