@@ -209,7 +209,7 @@ of (Sun Tz(uu)|孫子)'s Computational Classic:
     .[that are the] denominator .[and the] numerator
   of .[the] fraction;
   subtract of .[the] greater by .[the] lesser, .[and]
-  further subtract from .[and] diminish .[them] each other,
+  further subtract .[and] diminish of .[them] each other,
   seeking their .[being] equal,
   .[and] reduce them using .[the] equal number.
 >>
