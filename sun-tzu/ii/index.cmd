@@ -14,12 +14,16 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》
+* %description -->
+    An annotated English translation of Volume~II of Sunzi Suanjing, \
+    《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-06-22
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
     #.romanisation.special-characters
+    #backslash-continuations
 
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
