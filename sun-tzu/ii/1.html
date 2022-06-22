@@ -11,90 +11,90 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/resources/styles/main.min.css">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 <script defer src="/resources/scripts/rendering.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin onerror="this.removeAttribute('integrity');this.removeAttribute('onerror');this.setAttribute('href','/resources/katex/katex.min.css')">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin onerror="let a=document.createElement('script');a.setAttribute('src','/resources/katex/katex.min.js');a.setAttribute('onload', 'renderMaths()');document.head.appendChild(a);
-this.remove()" onload="renderMaths()"></script>
-<title>"Sun Tzŭ's Computational Classic: Volume&nbsp;II" 《孫子算經・卷中》 ¶1 | Conway's site</title>
+<link rel="stylesheet" href="/resources/katex/katex.min.css">
+<script defer src="/resources/katex/katex.min.js" onload="renderMaths()"></script>
+<title>"Sun Tzŭ's Computational Classic: Volume II" 《孫子算經卷中》 ¶1 | Conway's site</title>
 </head>
 <body>
 <header>
 <nav>
-<ul>
-<li><a href="/" title="Home page">Home</a>
+<ul class="sideways">
+<li>
+<a href="/" title="Home page">Home</a>
 </li>
-<li><a href="#" title="Jump back to top">Top</a>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
 </li>
-<li><a href="/sun-tzu/" title="Sun Tzŭ's Computational Classic">Sun Tzŭ</a>
+<li>
+<a href="/sun-tzu/" title="Sun Tzŭ's Computational Classic">Sun Tzŭ</a>
 </li>
-<li class="breadcrumb"><a href="/sun-tzu/ii/" title="Volume&nbsp;II">II</a>
+<li class="breadcrumbed">
+<a href="/sun-tzu/ii/" title="Volume II">II</a>
 </li>
-<li class="breadcrumb"><a title="You are viewing ¶1">¶1</a>
+<li class="breadcrumbed">
+<a title="You are viewing ¶1">¶1</a>
 </li>
-<li><a href="#cite" title="Cite this page">Cite</a>
+<li>
+<a href="#cite" title="Cite this page">Cite</a>
 </li>
 </ul>
 </nav>
 </header>
-<h1><span lang="zh-Hant">《孫子算經・卷中》</span><br>
-"Sun Tzŭ's Computational Classic: Volume&nbsp;II"<br>
+<h1><span lang="zh-Hant">《孫子算經卷中》</span> "<span class="romanised-untranslated" title="孫子">Sun Tzŭ</span>'s Computational Classic: Volume II"<br>
 ¶1. Reducing fractions</h1>
-<nav class="surrounds">
-<div class="up">
-<a href="/sun-tzu/ii/">↑ Volume&nbsp;II</a>
-</div>
-<div class="adjacent">
-<div class="previous">
-<a href="/sun-tzu/ii/">← Vol.&nbsp;II</a>
-</div>
-<div class="current">
-¶1
-</div>
-<div class="next">
-<a href="/sun-tzu/ii/2">¶2 →</a>
-</div>
-</div>
-</nav>
 <noscript>
 <strong class="noscript">Enable JavaScript for equation rendering to work.</strong>
 </noscript>
-<div class="page-properties">
-Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/ii/1.cmd">sun-tzu/ii/1.cmd</a><br>
-First created: 2019-06-09<br>
-Last modified: 2020-07-19
+<nav class="surrounds">
+<div class="surrounds-up">
+<a href="./">↑ Volume II</a>
 </div>
+<div class="surrounds-neighbourhood">
+<div class="surrounds-previous">
+<a href="./">← Vol. II</a>
+</div>
+<div class="surrounds-current">
+¶1
+</div>
+<div class="surrounds-next">
+<a href="2">¶2 →</a>
+</div>
+</div>
+</nav>
 <p>
 This paragraph gives a worked example of simplifying a fraction
-using the <b>subtraction-only</b> version of the <b>Euclidean algorithm</b>.
+using the subtraction-only version of the Euclidean algorithm.
 </p>
-<h2 id="translation"><a class="permalink" href="#translation" aria-label="Permalink"></a>Translation</h2>
+<h2 id="translation"><a href="#translation" class="permalink" aria-label="Permalink"></a>Translation</h2>
 <p>
-Chinese source text: <a href="https://archive.org/details/02094034.cn/page/n26">Version&nbsp;A</a>, <a href="https://commons.wikimedia.org/w/index.php?title=File%3A%E6%96%87%E6%B7%B5%E9%96%A3%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8_0797%E5%86%8A.djvu&amp;page=153">Version&nbsp;B</a>, <a href="https://ctext.org/sunzi-suan-jing#n52130">Version&nbsp;C</a>, <a href="https://ctext.org/library.pl?if=en&amp;file=86926&amp;page=39">Version&nbsp;D</a>.<br>
-Unless noted otherwise, I follow the text from Version&nbsp;D, <span lang="zh-Hant">《知不足齋叢書》本</span>.
+Chinese source text: <a href="https://archive.org/details/02094034.cn/page/n26">Version A</a>, <a href="https://commons.wikimedia.org/w/index.php?title=File%3A文淵閣四庫全書_0797冊.djvu&amp;page=153">Version B</a>, <a href="https://ctext.org/sunzi-suan-jing#n52130">Version C</a>, <a href="https://ctext.org/library.pl?if=en&amp;file=86926&amp;page=39">Version D</a>.<br>
+Unless noted otherwise, I follow the text from Version D, <span lang="zh-Hant">《知不足齋叢書》本</span>.
 </p>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">今有一十八分之一十二。問約之得幾何？</span><br>
-<span lang="zh-Hant">答曰：三分之二。</span>
+<div class="source-text" lang="zh-Hant">
+今有一十八分之一十二。問約之得幾何？<br>
+答曰：三分之二。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 Now there be twelve eighteenths.
 <span class="translator-supplied">[We]</span> ask, reducing it resulteth in how much?<br>
 Answer saith: two thirds.
 </div>
 </div>
-<ul>
-<li><span lang="zh-Hant">一十八分之一十二：</span> twelve eighteenths;
-<span class="alternative-marker">lit.</span> twelve of eighteen shares;
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">一十八分之一十二：</span> twelve eighteenths;
+<span class="alternative-marker" title="literally">lit.</span> twelve of eighteen shares;
 <span class="alternative-marker">or</span> twelve of eighteen portions
 </li>
 </ul>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">術曰：置十八分在下，一十二分在上。副置二位，以少減多，等數得六為法，約之，即得。</span>
+<div class="source-text" lang="zh-Hant">
+術曰：置十八分在下，一十二分在上。副置二位，以少減多，等數得六為法，約之，即得。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 Method saith:
 put <span class="translator-supplied">[the]</span> eighteen shares below,
 <span class="translator-supplied">[and the]</span> twelve shares above.
@@ -104,33 +104,40 @@ Put subsidiarily <span class="translator-supplied">[the]</span> two places,
 <span class="translator-supplied">[and]</span> reducing them, <span class="translator-supplied">[we]</span> are done.
 </div>
 </div>
-<ul>
-<li><span lang="zh-Hant">副：</span> subsidiarily
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">副：</span> subsidiarily
 </li>
-<li><span lang="zh-Hant">位：</span> places
+<li>
+<span lang="zh-Hant">位：</span> places
 </li>
-<li><span lang="zh-Hant">以少減多，等數得六：</span>
+<li>
+<span lang="zh-Hant">以少減多，等數得六：</span>
 diminish <span class="translator-supplied">[the]</span> greater by <span class="translator-supplied">[the]</span> lesser;
-<span class="translator-supplied">[for the]</span> equal quantity <span class="translator-supplied">[there]</span> resulteth six<br>
+<span class="translator-supplied">[for the]</span> equal quantity <span class="translator-supplied">[there]</span> resulteth six
+<p>
 Here we have the subtraction-only version of the Euclidean algorithm
 for greatest common divisor (GCD):
+</p>
 <div class="js-maths">\begin{aligned}
   18 - 12 &amp;= 6 \\
   12 - 6  &amp;= 6.
 \end{aligned}
 </div>
+<p>
 Therefore <span class="js-maths">\gcd (12, 18) = 6</span>, and we have
+</p>
 <div class="js-maths">\frac{12}{18} = \frac{12 \div 6}{18 \div 6} = \frac{2}{3}.
 </div>
 </li>
 </ul>
-<h2 id="commentary"><a class="permalink" href="#commentary" aria-label="Permalink"></a>Extended commentary</h2>
+<h2 id="commentary"><a href="#commentary" class="permalink" aria-label="Permalink"></a>Extended commentary</h2>
 <p>
 In my opinion, this paragraph's description
-of the <b>subtraction-only Euclidean algorithm</b>
+of the subtraction-only Euclidean algorithm
 is rather lacking in clarity.
 In particular, there is no explicit instruction
-to <strong>repeat</strong> the subtraction <strong>until</strong> you get the equal quantity&nbsp;6.
+to <em>repeat</em> the subtraction <em>until</em> you get the equal quantity 6.
 </p>
 <p>
 A much better description of <span lang="zh-Hant">約分術</span>, "<span class="translator-supplied">[the]</span> Method of Reducing Fractions",
@@ -142,43 +149,42 @@ as well as another, <a href="https://ctext.org/nine-chapters/fang-tian#n51073">s
 I think it is informative to include a translation of an excerpt here.
 </p>
 <p>
-The source text for this excerpt is from
-<a href="https://ctext.org/library.pl?if=en&amp;file=77747&amp;page=13"><span lang="zh-Hant">《四部叢刊初編》</span> (ctext.org library)</a>,
+The source text for this excerpt is from <a href="https://ctext.org/library.pl?if=en&amp;file=77747&amp;page=13"><span lang="zh-Hant">《四部叢刊初編》</span> (ctext.org library)</a>,
 and the bracketed portions are
-inline two-column annotations by <a href="https://en.wikipedia.org/wiki/Liu_Hui"><span class="romanisation" title="劉徽">Liu Huei</span></a>.
+inline two-column annotations by <a href="https://en.wikipedia.org/wiki/Liu_Hui"><span class="romanised-untranslated" title="劉徽">Liu Huei</span></a>.
 The inserted punctuation is my own.
 </p>
 <p>
-Note that this excerpt is <strong>not</strong> a part
-of Sun Tzŭ's Computational Classic:
+Note that this excerpt is <em>not</em> a part
+of <span class="romanised-untranslated" title="孫子">Sun Tzŭ</span>'s Computational Classic:
 </p>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">今有十八分之十二。問約之得幾何？</span><br>
-<span lang="zh-Hant">答曰：三分之二。</span>
+<div class="source-text" lang="zh-Hant">
+今有十八分之十二。問約之得幾何？<br>
+答曰：三分之二。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 Now there be twelve eighteenths.
 <span class="translator-supplied">[We]</span> ask, reducing it resulteth in how much?<br>
 Answer saith: two thirds.
 </div>
 </div>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">又有九十一分之四十九。問約之得幾何？</span><br>
-<span lang="zh-Hant">答曰：十三分之七。</span>
+<div class="source-text" lang="zh-Hant">
+又有九十一分之四十九。問約之得幾何？<br>
+答曰：十三分之七。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 Also there be forty-nine ninety-firsts.
 <span class="translator-supplied">[We]</span> ask, reducing it resulteth in how much?<br>
 Answer saith: seven thirteenths.
 </div>
 </div>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">約分（按：約分者，物之數量不可悉全，必以分言之。分之為數，繁則難用。設有四分之二者。繁而言之，亦可為八分之四；約而言之，則二分之一也。雖則異辭，至於為數，亦同歸爾。法實相推，動有參差，故為術者，先治諸分。）術曰：</span>
+<div class="source-text" lang="zh-Hant">
+約分（按：約分者，物之數量不可悉全，必以分言之。分之為數，繁則難用。設有四分之二者。繁而言之，亦可為八分之四；約而言之，則二分之一也。雖則異辭，至於為數，亦同歸爾。法實相推，動有參差，故為術者，先治諸分。）術曰：
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 <span class="translator-supplied">[The]</span> Method of Reducing Fractions
 (Note: Reducing Fractions—
 <span class="translator-supplied">[when a]</span> number of objects cannot <span class="translator-supplied">[be]</span> completely whole,
@@ -198,34 +204,42 @@ first administering it unto <span class="translator-supplied">[the]</span> fract
 saith:
 </div>
 </div>
-<ul>
-<li><span lang="zh-Hant">約：</span> reducing; <span class="alternative-marker">or</span> simplifying
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">約：</span> reducing; <span class="alternative-marker">or</span> simplifying
 </li>
-<li><span lang="zh-Hant">全：</span> whole; <span class="alternative-marker">or</span> intact
+<li>
+<span lang="zh-Hant">全：</span> whole; <span class="alternative-marker">or</span> intact
 </li>
-<li><span lang="zh-Hant">動有參差：</span> have unevenness <span class="translator-supplied">[in their]</span> motions<br>
+<li>
+<span lang="zh-Hant">動有參差：</span> have unevenness <span class="translator-supplied">[in their]</span> motions
+<p>
 This is a literal rendering.
-I think <span class="romanisation" title="劉徽">Liu Huei</span> is trying to say that
+I think ((Liu Huei |   劉徽  )) is trying to say that
 different representations of fractions lead to inconsistencies,
 so first reduce them before doing any other calculations.
+</p>
 </li>
-<li><span lang="zh-Hant">諸</span><br>
+<li>
+<span lang="zh-Hant">諸</span>
+<p>
 Contraction of <span lang="zh-Hant">之於</span> (I think).
+</p>
 </li>
 </ul>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">可半者半之。</span>
+<div class="source-text" lang="zh-Hant">
+可半者半之。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 Those which can <span class="translator-supplied">[be]</span> halved: halve them.
 </div>
 </div>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">不可半者，副置分母、子之數，以少減多，更相減損，求其等也。</span>
+<div class="source-text" lang="zh-Hant">
+不可半者，副置分母、子之數，以少減多，更相減損，求其等也。
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 Those which cannot <span class="translator-supplied">[be]</span> halved:
 put subsidiarily <span class="translator-supplied">[the]</span> quantities of
 <span class="translator-supplied">[the]</span> denominator <span class="translator-supplied">[and the]</span> numerator
@@ -236,11 +250,11 @@ seeking their <span class="translator-supplied">[being]</span> equal.
 </div>
 </div>
 <div class="translation parallel-text">
-<div class="chinese">
-<span lang="zh-Hant">以等數約之。</span>
-<span lang="zh-Hant">（等數約之，即除也。其所以相減者，皆等數之重疊。故以等數約之。）</span>
+<div class="source-text" lang="zh-Hant">
+以等數約之。
+（等數約之，即除也。其所以相減者，皆等數之重疊。故以等數約之。）
 </div>
-<div class="english">
+<div class="destination-text" lang="en">
 Reduce them using <span class="translator-supplied">[the]</span> equal quantity.
 (<span class="translator-supplied">[To]</span> reduce them <span class="translator-supplied">[with the]</span> equal quantity, is <span class="translator-supplied">[to]</span> divide <span class="translator-supplied">[them]</span>.
 Those of them which <span class="translator-supplied">[have been]</span> mutually subtracted,
@@ -248,37 +262,51 @@ Those of them which <span class="translator-supplied">[have been]</span> mutuall
 Therefore <span class="translator-supplied">[we]</span> use <span class="translator-supplied">[the]</span> equal quantity <span class="translator-supplied">[to]</span> reduce them.)
 </div>
 </div>
-<ul>
-<li><span lang="zh-Hant">重疊：</span> <span class="alternative-marker">lit.</span> repeated pilings; <span class="alternative-marker">or</span> overlappings<br>
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">重疊：</span> <span class="alternative-marker" title="literally">lit.</span> repeated pilings; <span class="alternative-marker">or</span> overlappings<br>
 I think this means "multiples".
 </li>
 </ul>
 <nav class="surrounds">
-<div class="up">
-<a href="/sun-tzu/ii/">↑ Volume&nbsp;II</a>
+<div class="surrounds-up">
+<a href="./">↑ Volume II</a>
 </div>
-<div class="adjacent">
-<div class="previous">
-<a href="/sun-tzu/ii/">← Vol.&nbsp;II</a>
+<div class="surrounds-neighbourhood">
+<div class="surrounds-previous">
+<a href="./">← Vol. II</a>
 </div>
-<div class="current">
+<div class="surrounds-current">
 ¶1
 </div>
-<div class="next">
-<a href="/sun-tzu/ii/2">¶2 →</a>
+<div class="surrounds-next">
+<a href="2">¶2 →</a>
 </div>
 </div>
 </nav>
-<h2 id="cite"><a class="permalink" href="#cite" aria-label="Permalink"></a>Cite this page</h2>
+<h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
 <p>
-Conway&nbsp;(2020).
-"Sun Tzŭ's Computational Classic: Volume&nbsp;II ¶1".
-&lt;https://yawnoc.github.io/sun-tzu/ii/1&gt;
-Accessed&nbsp;<span class="js-date">yyyy-mm-dd</span>.
+Conway (2022).
+"Sun Tzŭ's Computational Classic: Volume II ¶1".
+&lt;<a href="https://yawnoc.github.io/sun-tzu/ii/1">https://yawnoc.github.io/sun-tzu/ii/1</a>&gt;
+Accessed <span class="js-date">yyyy-mm-dd</span>.
 </p>
-<script>document.addEventListener("DOMContentLoaded",function(){renderDate()})</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {renderDate()})
+</script>
 <footer>
-©&nbsp;2019–2020&nbsp;Conway.
+© 2019–2022 Conway.
+<ul>
+<li>
+First created: 2019-06-09
+</li>
+<li>
+Last modified: 2022-06-12
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/ii/1.cmd"><code>sun-tzu/ii/1.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.5.0">CMDv4.5.0</a>
+</li>
+</ul>
 </footer>
 </body>
 </html>

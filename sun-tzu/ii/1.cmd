@@ -1,84 +1,84 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~II" 《孫子算經\.卷中》 \P1
-  %date-created 2019-06-09
-  %date-modified 2020-07-19
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P1"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P1
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-12
+- concluding_replacements:
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [II] ["ii" Volume~II]
-*> [\P1](\- You are viewing \P1)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~II](./)
+* %%surrounds-previous --> [<-- Vol.~II](./)
+* %%surrounds-current --> \P1
+* %%surrounds-next --> [\P2 -->](2)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+
+%%%
 
 
-#
-  《孫子算經\.卷中》 \+
-  "\sun-tzu's Computational Classic: Volume~II" \+
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !ii
+-{.breadcrumbed} !!1
+- !cite
+^^^^
+
+# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \P1. Reducing fractions
-#
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: Vol.~II : ["ii"]
-    \nav-curr: \P1
-    \nav-next: \P2 : ["ii 2"]
-  |}}
-|}}}}
+%%noscript-equations
 
 
-\noscript:maths
+%%surrounds
 
-
-[||||
-||||]
-
-
-----
+--
 This paragraph gives a worked example of simplifying a fraction
-using the __subtraction-only__ version of the __Euclidean algorithm__.
-----
+using the subtraction-only version of the Euclidean algorithm.
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[26], \b[153], \c[52130], \d[39]. \+
-\d-default
-----
+--
+Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
+%%version-d-default
+--
 
 <<
-  今有一十八分之一十二。問約之得幾何？ \+
+  今有一十八分之一十二。問約之得幾何？ <br>
   答曰：三分之二。
-||
+\\
   Now there be twelve eighteenths.
-  .[We] ask, reducing it resulteth in how much? \+
+  .[We] ask, reducing it resulteth in how much? <br>
   Answer saith: two thirds.
 >>
-====
-* 一十八分之一十二： twelve eighteenths;
+=={.translation-annotations}
+* .一十八分之一十二： twelve eighteenths;
     \lit twelve of eighteen shares;
     \or twelve of eighteen portions
-====
+==
 
 <<
   術曰：置十八分在下，一十二分在上。\
   副置二位，以少減多，等數得六為法，約之，即得。
-||
+\\
   Method saith:
   put .[the] eighteen shares below,
   .[and the] twelve shares above.
@@ -87,93 +87,83 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. \+
   .[for the] equal quantity .[there] resulteth six as .[the] divisor,
   .[and] reducing them, .[we] are done.
 >>
-====
-* 副： subsidiarily
+=={.translation-annotations}
+* .副： subsidiarily
 
-* 位： places
+* .位： places
 
-* 以少減多，等數得六：
+* .以少減多，等數得六：
     diminish .[the] greater by .[the] lesser;
-    .[for the] equal quantity .[there] resulteth six \+
+    .[for the] equal quantity .[there] resulteth six
+  --
   Here we have the subtraction-only version of the Euclidean algorithm
   for greatest common divisor (GCD):
+  --
   $$
     \begin{aligned}
       18 - 12 &= 6 \\
       12 - 6  &= 6.
     \end{aligned}
   $$
+  --
   Therefore $\gcd (12, 18) = 6$, and we have
+  --
   $$
     \frac{12}{18} = \frac{12 \div 6}{18 \div 6} = \frac{2}{3}.
   $$
-====
+==
 
 
-##{#commentary}
-  Extended commentary
-##
+##{#commentary} Extended commentary
 
-----
+--
 In my opinion, this paragraph's description
-of the __subtraction-only Euclidean algorithm__
+of the subtraction-only Euclidean algorithm
 is rather lacking in clarity.
 In particular, there is no explicit instruction
-to **repeat** the subtraction **until** you get the equal quantity~6.
-----
-
-----
-A much better description of 約分術, ".[the] Method of Reducing Fractions",
-is found in the separate text 《九章算術》,
+to *repeat* the subtraction *until* you get the equal quantity~6.
+--
+--
+A much better description of .約分術, ".[the] Method of Reducing Fractions",
+is found in the separate text .《九章算術》,
 "Nine Chapters .[on] Computational Methods",
-in the chapter 〈方田〉, 'Rectangular Fields',
+in the chapter .〈方田〉, 'Rectangular Fields',
 which has the same problem of [simplifying 12/18]
 as well as another, [simplifying 49/91].
 I think it is informative to include a translation of an excerpt here.
-----
-
-@@[simplifying 12/18]
-  https://ctext.org/nine-chapters/fang-tian#n51071
-@@
-@@[simplifying 49/91]
-  https://ctext.org/nine-chapters/fang-tian#n51073
-@@
-
-----
-The source text for this excerpt is from
-[《四部叢刊初編》 (ctext.org library)] [四部叢刊初編],
+--
+--
+The source text for this excerpt is from [.《四部叢刊初編》 (ctext.org library)],
 and the bracketed portions are
-inline two-column annotations by [((Liu Huei | ~~劉徽~~))] [劉徽].
+inline two-column annotations by [(Liu Huei|劉徽)].
 The inserted punctuation is my own.
-----
-
-@@[四部叢刊初編]
+--
+[simplifying 12/18]: https://ctext.org/nine-chapters/fang-tian#n51071
+[simplifying 49/91]: https://ctext.org/nine-chapters/fang-tian#n51073
+[.《四部叢刊初編》 (ctext.org library)]:
   https://ctext.org/library.pl?if=en&file=77747&page=13
-@@
-@@[劉徽]
-  https://en.wikipedia.org/wiki/Liu_Hui
-@@
+[(Liu Huei|劉徽)]: https://en.wikipedia.org/wiki/Liu_Hui
 
-----
-Note that this excerpt is **not** a part
-of \sun-tzu's Computational Classic:
-----
+--
+Note that this excerpt is *not* a part
+of (Sun Tz(uu)|孫子)'s Computational Classic:
+--
 
 <<
-  今有十八分之十二。問約之得幾何？ \+
+  今有十八分之十二。問約之得幾何？ <br>
   答曰：三分之二。
-||
+\\
   Now there be twelve eighteenths.
-  .[We] ask, reducing it resulteth in how much? \+
+  .[We] ask, reducing it resulteth in how much? <br>
   Answer saith: two thirds.
 >>
 
 <<
-  又有九十一分之四十九。問約之得幾何？ \+
+  又有九十一分之四十九。問約之得幾何？ <br>
   答曰：十三分之七。
-||
+\\
   Also there be forty-nine ninety-firsts.
-  .[We] ask, reducing it resulteth in how much? \+
+  .[We] ask, reducing it resulteth in how much? <br>
   Answer saith: seven thirteenths.
 >>
 
@@ -184,7 +174,7 @@ of \sun-tzu's Computational Classic:
     雖則異辭，至於為數，亦同歸爾。\
     法實相推，動有參差，故為術者，先治諸分。）\
   術曰：
-||
+\\
   .[The] Method of Reducing Fractions
     (Note: Reducing Fractions---
     .[when a] number of objects cannot .[be] completely whole,
@@ -203,30 +193,34 @@ of \sun-tzu's Computational Classic:
     first administering it unto .[the] fractions.)
   saith:
 >>
-====
-* 約： reducing; \or simplifying
+=={.translation-annotations}
+* .約： reducing; \or simplifying
 
-* 全： whole; \or intact
+* .全： whole; \or intact
 
-* 動有參差： have unevenness .[in their] motions \+
+* .動有參差： have unevenness .[in their] motions
+  --
   This is a literal rendering.
   I think ((Liu Huei | ~~劉徽~~)) is trying to say that
   different representations of fractions lead to inconsistencies,
   so first reduce them before doing any other calculations.
+  --
 
-* 諸 \+
-  Contraction of 之於 (I think).
-====
+* .諸
+  --
+  Contraction of .之於 (I think).
+  --
+==
 
 <<
   可半者半之。
-||
+\\
   Those which can .[be] halved: halve them.
 >>
 
 <<
   不可半者，副置分母、子之數，以少減多，更相減損，求其等也。
-||
+\\
   Those which cannot .[be] halved:
   put subsidiarily .[the] quantities of
     .[the] denominator .[and the] numerator
@@ -239,31 +233,23 @@ of \sun-tzu's Computational Classic:
 <<
   以等數約之。
   （等數約之，即除也。其所以相減者，皆等數之重疊。故以等數約之。）
-||
+\\
   Reduce them using .[the] equal quantity.
   (.[To] reduce them .[with the] equal quantity, is .[to] divide .[them].
   Those of them which .[have been] mutually subtracted,
   .[are] all repeated pilings of .[the] equal quantity.
   Therefore .[we] use .[the] equal quantity .[to] reduce them.)
 >>
-====
-* 重疊： \lit repeated pilings; \or overlappings \+
+=={.translation-annotations}
+* .重疊： \lit repeated pilings; \or overlappings <br>
   I think this means "multiples".
-====
+==
 
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: Vol.~II : ["ii"]
-    \nav-curr: \P1
-    \nav-next: \P2 : ["ii 2"]
-  |}}
-|}}}}
+%%surrounds
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~II \P1"
-]
+%%cite
 
-%footer-element
+
+%%footer
