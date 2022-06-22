@@ -18,7 +18,6 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-06-12
 - concluding_replacements:
-    #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
     #.romanisation.special-characters
 
