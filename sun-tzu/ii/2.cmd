@@ -61,28 +61,30 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. <br>
 --
 
 <<
-  今有三分之一、五分之二。問合之二得幾何？ <br>
-  答曰：一十五分之一十一。
+  今有三分之一、五分之二。問合之二得幾何。 <br>
+  答曰、一十五分之一十一。
 \\
-  Now there be one of three shares .[and] two of five shares.
+  Suppose there be one of three shares, .[and] two of five shares.
   .[We] ask, joining them two resulteth in how much? <br>
   Answer saith: eleven of fifteen shares.
 >>
 =={.translation-annotations}
-* \c[52133] has only 合之 for 合之二.
+* \c[52133] has only .合之 for .合之二.
 
-* \b[153] has 十一 for 一十一.
+* \b[153] has .十一 for .一十一.
 
 * ::{l=zh-Hant} $b$ 分之 $a$:::
-    \lit $a$ of $b$ shares <br>
+    \lit $a$ of $b$ shares
+  --
   I have rendered fractions literally, since there are references to
-  the numerator ::{l=zh-Hant} 「之 $a$」::, "$a$ of", and
-  the denominator ::{l=zh-Hant} 「$b$ 分」::, "$b$ shares",
+  the numerator "::{l=zh-Hant} 之 $a$::" ("$a$ of"), and
+  the denominator "::{l=zh-Hant} $b$ 分::" ("$b$ shares"),
   in the lines to follow.
+  --
 ==
 
 <<
-  術曰：置三分、五分在右方，之一、之二在左方。
+  術曰、置三分五分在右方、之一之二在左方。
 \\
   Method saith:
   put .[the] three shares .[and the] five shares on .[the] right;

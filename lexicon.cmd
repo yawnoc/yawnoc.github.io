@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-22
+* %date-modified --> 2022-06-23
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1234,6 +1234,9 @@ See also: [北方]
 ==
 * right; \met above
 ==
+--
+See also: [右方]
+--
 
 3 [各] U+5404
 ==
@@ -1415,7 +1418,7 @@ See also: [未嘗]
 3 [在] U+5728
 ==
 * be {:exist:}
-* in; into
+* in; into; on
 ==
 ==
 * 所在： whereabouts
@@ -1906,6 +1909,9 @@ See also: [從容]
 ==
 * left
 ==
+--
+See also: [左方]
+--
 
 2 [巧] U+5DE7
 ==
@@ -2745,6 +2751,8 @@ See also: [掌握]
 ==
 * 上方： .[the] above
 * 北方： .[the] north
+* 右方： .[the] right
+* 左方： .[the] left
 ==
 
 4 [於] U+65BC
