@@ -442,6 +442,11 @@ See also: [逝世]
 * \var [於]
 ==
 
+2 [互] U+4E92
+==
+* mutual
+==
+
 2 [五] U+4E94
 ==
 * five; fifth
@@ -2001,6 +2006,11 @@ See also: [參差]
 3 [年] U+5E74
 ==
 * year
+==
+
+5 [并] U+5E76
+==
+* combine
 ==
 
 5 [幸] U+5E78

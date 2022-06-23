@@ -92,14 +92,14 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. <br>
 >>
 
 <<
-  母互乘子，五分之二得六，三分之一得五，并之，得一十一為實。\
-  右方二母相乘，得一十五為法。
+  母互乘子、五分之二得六、三分之一得五、并之、得一十一為實。\
+  右方二母相乘、得一十五為法。
 \\
-  .[The] denominators .[are] mutually multiplied with .[the] numerators:
+  .[The] denominators .[being] mutually multiplied with .[the] numerators,
   .[for the] two of five shares .[there] resulteth six,
   .[and for the] one of three shares .[there] resulteth five;
   combining them, resulteth in eleven as .[the] dividend.
-  .[The] two denominators .[to the] right, multiplied with each other,
+  .[The] two denominators .[to the] right multiplied with each other,
   result in fifteen as .[the] divisor.
 >>
 =={.translation-annotations}
@@ -112,15 +112,17 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. <br>
 ==
 
 <<
-  不滿法，以法命之，即得。
+  不滿法、以法命之、即得。
 \\
-  .[The dividend] reacheth not .[the] divisor;
-  naming it .[for a fraction] using .[the] divisor, .[we] are done.
+  .[The dividend] reacheth not .[the] divisor,
+  .[and] naming it .[for a fraction] using .[the] divisor, .[we] are done.
 >>
 =={.translation-annotations}
-* 不滿法： .[The dividend] reacheth not .[the] divisor <br>
+* .不滿法： .[The dividend] reacheth not .[the] divisor
+  --
   This is saying that $11 < 15$, i.e.~the fraction $11/15$ is proper
   (so no further division is necessary).
+  --
 ==
 
 
