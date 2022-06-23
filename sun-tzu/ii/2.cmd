@@ -1,89 +1,89 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~II" 《孫子算經\.卷中》 \P2
-  %date-created 2019-06-09
-  %date-modified 2020-07-19
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P2"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P2
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-23
+- concluding_replacements:
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [II] ["ii" Volume~II]
-*> [\P2](\- You are viewing \P2)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~II](./)
+* %%surrounds-previous --> [<-- \P1](1)
+* %%surrounds-current --> \P2
+* %%surrounds-next --> [\P3 -->](3)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+
+%%%
 
 
-#
-  《孫子算經\.卷中》 \+
-  "\sun-tzu's Computational Classic: Volume~II" \+
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !ii
+-{.breadcrumbed} !!2
+- !cite
+^^^^
+
+# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \P2. Adding fractions
-#
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: \P1 : ["ii 1"]
-    \nav-curr: \P2
-    \nav-next: \P3 : ["ii 3"]
-  |}}
-|}}}}
+%%noscript-equations
 
 
-\noscript:maths
+%%surrounds
 
-
-[||||
-||||]
-
-
-----
+--
 This paragraph gives a worked example of adding fractions.
-----
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[26], \b[153], \c[52133], \d[39]. \+
-\d-default
-----
+--
+Chinese source text: \a[26], \b[153], \c[52133], \d[39]. <br>
+%%version-d-default
+--
 
 <<
-  今有三分之一、五分之二。問合之二得幾何？ \+
+  今有三分之一、五分之二。問合之二得幾何？ <br>
   答曰：一十五分之一十一。
-||
+\\
   Now there be one of three shares .[and] two of five shares.
-  .[We] ask, joining them two resulteth in how much? \+
+  .[We] ask, joining them two resulteth in how much? <br>
   Answer saith: eleven of fifteen shares.
 >>
-====
+=={.translation-annotations}
 * \c[52133] has only 合之 for 合之二.
 
 * \b[153] has 十一 for 一十一.
 
-* <span lang="zh-Hant">$b$ ~~分之~~ $a$</span>:
-    \lit $a$ of $b$ shares \+
+* ::{l=zh-Hant} $b$ 分之 $a$:::
+    \lit $a$ of $b$ shares <br>
   I have rendered fractions literally, since there are references to
-  the numerator <span lang="zh-Hant">~~「之~~ $a$~~」~~</span>, "$a$ of", and
-  the denominator <span lang="zh-Hant">~~「~~$b$ ~~分」~~</span>, "$b$ shares",
+  the numerator ::{l=zh-Hant} 「之 $a$」::, "$a$ of", and
+  the denominator ::{l=zh-Hant} 「$b$ 分」::, "$b$ shares",
   in the lines to follow.
-====
+==
 
 <<
   術曰：置三分、五分在右方，之一、之二在左方。
-||
+\\
   Method saith:
   put .[the] three shares .[and the] five shares on .[the] right;
   .[the] one of .[and the] two of, on .[the] left.
@@ -92,7 +92,7 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. \+
 <<
   母互乘子，五分之二得六，三分之一得五，并之，得一十一為實。\
   右方二母相乘，得一十五為法。
-||
+\\
   .[The] denominators .[are] mutually multiplied with .[the] numerators:
   .[for the] two of five shares .[there] resulteth six,
   .[and for the] one of three shares .[there] resulteth five;
@@ -100,40 +100,32 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. \+
   .[The] two denominators .[to the] right, multiplied with each other,
   result in fifteen as .[the] divisor.
 >>
-====
+=={.translation-annotations}
 * In modern notation:
   $$
     \frac{1}{3} + \frac{2}{5}
     = \frac{1 \times 5 + 2 \times 3}{3 \times 5}
     = \frac{11}{15}.
   $$
-====
+==
 
 <<
   不滿法，以法命之，即得。
-||
+\\
   .[The dividend] reacheth not .[the] divisor;
   naming it .[for a fraction] using .[the] divisor, .[we] are done.
 >>
-====
-* 不滿法： .[The dividend] reacheth not .[the] divisor \+
+=={.translation-annotations}
+* 不滿法： .[The dividend] reacheth not .[the] divisor <br>
   This is saying that $11 < 15$, i.e.~the fraction $11/15$ is proper
   (so no further division is necessary).
-====
+==
 
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: \P1 : ["ii 1"]
-    \nav-curr: \P2
-    \nav-next: \P3 : ["ii 3"]
-  |}}
-|}}}}
+%%surrounds
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~II \P2"
-]
+%%cite
 
-%footer-element
+
+%%footer
