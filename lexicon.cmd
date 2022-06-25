@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-23
+* %date-modified --> 2022-06-25
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -4968,8 +4968,8 @@ See also: [平行]
 9 [諸] U+8AF8
 ==
 * all .[the]; various
-* [:contraction:] [之]\/[於]
-* [:contraction:] [之]\/[乎]
+* [:contraction:] [之]|[於]
+* [:contraction:] [之]|[乎]
 ==
 
 9 [謂] U+8B02
