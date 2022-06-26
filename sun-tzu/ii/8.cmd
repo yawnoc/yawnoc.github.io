@@ -75,28 +75,28 @@ Chinese source text: \a[30], \b[154], \c[52151], \d[44]. <br>
 --
 
 <<
-  今有粟七斗九升。問為御米幾何？ <br>
-  答曰：三斗三升一合八勺。
+  今有粟七斗九升。問為御米幾何。 <br>
+  答曰、三斗三升一合八勺。
 \\
-  Now there be grain, seven pecks .[and] nine quarts.
+  Suppose there be grain, seven pecks .[and] nine quarts.
   .[We] ask, how much be .[this in] poppy seed? <br>
   Answer saith: three pecks, three quarts, one gill, .[and] eight ladles.
 >>
 =={.translation-annotations}
 * \c[52148] erroneously has .栗 for .粟.
 
-* .御米： poppy seed; \lit imperial grain; \or royal grain
+* .御米： poppy seed; \lit imperial grain
 ==
 
 <<
-  術曰：置七斗九升。\
-  以御米率二十一乘之，得一千六百五十九升為實。以粟率五十除之，即得。
+  術曰、置七斗九升。\
+  以御米率二十一乘之、得一千六百五十九升為實。以粟率五十除之、即得。
 \\
   Method saith: put .[down the] seven pecks .[and] nine quarts.
-  Multiplying it by .[the] poppy seed rate, twenty-one,
+  Multiplying it by .[the] poppy seed rate twenty-one,
   resulteth in one thousand, six hundred .[and] fifty-nine quarts
   as .[the] dividend.
-  Dividing it by .[the] grain rate, fifty, .[we] are done.
+  Dividing it by .[the] grain rate fifty, .[we] are done.
 >>
 =={.translation-annotations}
 * In modern notation:
