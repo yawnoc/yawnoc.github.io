@@ -83,7 +83,7 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
 
 * .粺： fine(-grain)
   --
-  .粺、 \C .《分韻撮要》 p'ei4, .《正韻》 paai6, \M b(a\)i
+  .粺、 \C .《分韻撮要》 p'ei4, .《正韻》薄邁切 paai6, \M b(a\)i
   --
 ==
 
