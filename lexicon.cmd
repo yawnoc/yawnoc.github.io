@@ -3332,6 +3332,11 @@ See also: [改正]
 * sea; ocean
 ==
 
+8 [深] U+6DF1
+==
+* deep
+==
+
 8 [淵] U+6DF5
 ==
 * deep (water)
@@ -4074,6 +4079,11 @@ See also: [規矩]
 [去聲]
 ==
 * deplete
+==
+
+7 [窖] U+7A96
+==
+* cellar
 ==
 
 7 [窗] U+7A97

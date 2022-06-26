@@ -53,7 +53,7 @@ This paragraph gives a worked example of computing
 the volume of a cylinder,
 and contains the first mention of
 the conversion between the capacity unit "barrel", (hu|斛)~(.斛),
-and the volume unit "cubic rule", (ch'ih|尺)~(.尺):
+and the volume unit "[cubic] rule", (ch'ih|尺)~(.尺):
 --
 $$
   1 \unit{barrel~(斛)} = 1.62 \unit{rules~(尺)}^3.
@@ -88,22 +88,22 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
 --
 
 <<
-  今有圓窖，下周二百八十六尺，深三丈六尺。問受粟幾何？
+  今有圓窖、下周二百八十六尺、深三丈六尺。問受粟幾何。
 \\
-  Now there be .[a] circular cellar,
+  Suppose there be .[a] circular cellar,
   of lower circumference two hundred .[and] eighty-six rules,
   .[and] depth three rods .[and] six rules.
   .[We] ask, how much grain beareth .[it]?
 >>
 =={.translation-annotations}
-* .窖：地藏也； cellar
+* .窖： cellar
   --
-  .窖，居效切， \C kaau3, \M ji(a\)o
+  .窖、居效切、 \C kaau3, \M ji(a\)o
   --
 ==
 
 <<
-  答曰：一十五萬一千四百七十四斛七升二十七分升之一十一。
+  答曰、一十五萬一千四百七十四斛七升二十七分升之一十一。
 \\
   Answer saith:
     fifteen myriad, one thousand, four hundred .[and] seventy-four barrels,
@@ -111,29 +111,29 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
 >>
 
 <<
-  術曰：置周二百八十六尺，自相乘，得八萬一千七百九十六尺。
+  術曰、置周二百八十六尺、自相乘、得八萬一千七百九十六尺。
 \\
   Method saith:
-  put .[down the] circumference, two hundred .[and] eighty-six rules,
+  put .[down the] circumference two hundred .[and] eighty-six rules,
   .[which], multiplied with itself,
   resulteth in
     eight myriad, one thousand, seven hundred .[and] ninety-six rules.
 >>
 
 <<
-  以深三丈六尺乘之，得二百九十四萬四千六百五十六尺。
+  以深三丈六尺乘之、得二百九十四萬四千六百五十六。
 \\
-  Multiplying it by .[the] depth, three rods .[and] six rules,
+  Multiplying it by .[the] depth three rods .[and] six rules,
   resulteth in
     two hundred .[and] ninety-four myriad,
-    four thousand, six hundred .[and] fifty-six rules.
+    four thousand, six hundred .[and] fifty-six.
 >>
 =={.translation-annotations}
 * \c[52157] has 尺 at the end of this sentence.
 ==
 
 <<
-  以一十二除之，得二十四萬五千三百八十八尺。
+  以一十二除之、得二十四萬五千三百八十八尺。
 \\
   Dividing it by twelve,
   resulteth in
@@ -142,7 +142,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
 >>
 
 <<
-  以斛法一尺六寸二分除之，即得。
+  以斛法一尺六寸二分除之、即得。
 \\
   Dividing it by .[the] barrel divisor,
     one rule, six inches, .[and] two tenths,
@@ -183,9 +183,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
 ==
 
 
-##{#commentary}
-  Extended commentary
-##
+##{#commentary} Extended commentary
 
 --
 The .斛法 "barrel divisor"
@@ -201,7 +199,7 @@ $$
   = 1.62 \unit{rules~(尺)}.
 $$
 --
-Now Chinese mathematics not have
+Now Chinese mathematics did not have
 a fully developed notion of dimensional analysis,
 so square units and cubic units were simply referred to as units.
 In the case of the barrel divisor,
