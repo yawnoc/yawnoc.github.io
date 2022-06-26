@@ -70,16 +70,16 @@ Chinese source text: \a[32], \b[154], \c[52154], \d[44]. <br>
 --
 
 <<
-  今有屋基，南北三丈，東西六丈，欲以甎砌之。凡積二尺，用甎五枚。問計幾何？
+  今有屋基、南北三丈、東西六丈、欲以甎砌之。凡積二尺、用甎五枚。問計幾何。
 \\
-  Now there be .[an] house foundation,
-  three rods north-.[to]-south, .[and] six rods east-.[to]-west,
-  .[and we] wish to build it with bricks.
+  Suppose there be .[an] house foundation,
+  three rods north--south, .[and] six rods east--west,
+  .[and we] wish to assemble it with bricks.
   Every two rules of area, useth five bricks.
   .[We] ask, how many amounteth .[this] to?
 >>
 =={.translation-annotations}
-* .南北： north-.[to]-south; \lit south-.[to]-north
+* .南北： north--south; \lit south--north
 
 * \c[52154] erroneously has ●~`U+25CF` for both instances of .甎.
 
@@ -90,17 +90,17 @@ Chinese source text: \a[32], \b[154], \c[52154], \d[44]. <br>
 ==
 
 <<
-  答曰：四千五百枚。
+  答曰、四千五百枚。
 \\
   Answer saith: four thousand five hundred .[bricks].
 >>
 
 <<
-  術曰：置東西六丈，以南北三丈乘之，得一千八百尺。\
-  以五乘之，得九千尺。以二除之，即得。
+  術曰、置東西六丈、以南北三丈乘之、得一千八百尺。\
+  以五乘之、得九千尺。以二除之、即得。
 \\
-  Method saith: put .[down the] six rods east-.[to]-west.
-  Multiplying it by .[the] three rods north-.[to]-south,
+  Method saith: put .[down the] six rods east--west;
+  multiplying it by .[the] three rods north--south,
   resulteth in one thousand eight hundred rules.
   Multiplying it by five, resulteth in nine thousand rules.
   Dividing it by two, .[we] are done.
@@ -108,7 +108,8 @@ Chinese source text: \a[32], \b[154], \c[52154], \d[44]. <br>
 =={.translation-annotations}
 * .九千尺： nine thousand rules
   --
-  This is area, but square units were simply referred to as units.
+  This is area,
+  but Literary Chinese does not distinguish square units from linear units.
   --
 
 * In modern notation, the number of bricks required to fill

@@ -3637,6 +3637,11 @@ See also: [以為], [為政]
 * tile; earthenware
 ==
 
+11 [甎] U+750E
+==
+* \var [磚]
+==
+
 
 ### ⽢ (sweet) U+2F62
 
@@ -3947,6 +3952,11 @@ See also: [規矩]
 * stone; rock
 ==
 
+4 [砌] U+780C
+==
+* assemble
+==
+
 5 [破] U+7834
 ==
 * break
@@ -3955,6 +3965,11 @@ See also: [規矩]
 8 [碌] U+788C
 ==
 * ordinary
+==
+
+11 [磚] U+78DA
+==
+* brick
 ==
 
 
@@ -4034,6 +4049,7 @@ See also: [規矩]
 11 [積] U+7A4D
 ==
 * accumulate
+* area; volume
 ==
 
 
