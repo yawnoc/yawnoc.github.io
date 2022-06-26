@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P3"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P3
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-23
+* %date-modified --> 2022-06-26
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,11 +61,11 @@ Chinese source text: \a[28], \b[153], \c[52136], \d[40]. <br>
 --
 
 <<
-  今有九分之八，減其五分之一。問餘幾何？ <br>
-  答曰：四十五分之三十一。
+  今有九分之八、減其五分之一。問餘幾何。 <br>
+  答曰、四十五分之三十一。
 \\
-  Now there be eight of nine shares,
-  .[and we] diminish of it one of five shares.
+  Suppose there be eight of nine shares,
+  .[and] subtract of it one of five shares.
   .[We] ask, how much remaineth? <br>
   Answer saith: thirty-one of forty-five shares.
 >>
@@ -81,20 +81,20 @@ Chinese source text: \a[28], \b[153], \c[52136], \d[40]. <br>
 ==
 
 <<
-  術曰：置九分、五分在右方，之八、之一在左方。
+  術曰、置九分五分在右方、之八之一在左方。
 \\
   Method saith: put .[the] nine shares .[and the] five shares on .[the] right;
   .[the] eight of .[and the] one of, on .[the] left.
 >>
 
 <<
-  母互乘子，五分之一得九，九分之八得四十，以少減多，餘三十一為實。\
-  母相乘得四十五為法。
+  母互乘子、五分之一得九、九分之八得四十、以少減多、餘三十一為實。\
+  母相乘、得四十五為法。
 \\
-  .[The] denominators .[are] mutually multiplied with .[the] numerators:
+  .[The] denominators .[being] mutually multiplied with .[the] numerators,
   .[for the] one of five shares .[there] resulteth nine,
   .[and for the] eight of nine shares .[there] resulteth forty;
-  diminishing .[the] greater by .[the] lesser,
+  subtracting of .[the] greater by .[the] lesser,
   .[there] remaineth thirty-one as .[the] dividend.
   .[The] denominators multiplied with each other,
   result in forty-five as .[the] divisor.
@@ -111,9 +111,9 @@ Chinese source text: \a[28], \b[153], \c[52136], \d[40]. <br>
 ==
 
 <<
-  不滿法，以法命之，即得。
+  不滿法、以法命之、即得。
 \\
-  .[The dividend] reacheth not .[the] divisor;
+  .[The dividend] reacheth not .[the] divisor, .[and]
   naming it .[for a fraction] using .[the] divisor, .[we] are done.
 >>
 

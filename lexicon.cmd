@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-25
+* %date-modified --> 2022-06-26
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -5808,7 +5808,7 @@ See also: [鴻雁]
 
 7 [餘] U+9918
 ==
-* remainder; excess; spare
+* remain; remainder; excess; spare
 ==
 ==
 * 有餘： in excess; with spare
