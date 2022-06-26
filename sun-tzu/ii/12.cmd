@@ -82,26 +82,26 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
 --
 
 <<
-  今有圓窖，周五丈四尺，深一丈八尺。問受粟幾何？
+  今有圓窖、周五丈四尺、深一丈八尺。問受粟幾何。
 \\
-  Now there be .[a] circular cellar,
+  Suppose there be .[a] circular cellar,
   of circumference five rods .[and] four rules,
   .[and] depth one rod .[and] eight rules.
   .[We] ask, how much grain beareth .[it]?
 >>
 
 <<
-  答曰：二千七百斛。
+  答曰、二千七百斛。
 \\
   Answer saith:
   two thousand seven hundred barrels.
 >>
 
 <<
-  術曰：先置周五丈四尺，自相乘，得二千九百一十六尺。
+  術曰、先置周五丈四尺、自相乘、得二千九百一十六尺。
 \\
   Method saith:
-  First put .[down the] circumference, five rods .[and] four rules,
+  first put .[down the] circumference five rods .[and] four rules,
   .[which], multiplied with itself,
   resulteth in two thousand, nine hundred .[and] sixteen rules.
 >>
@@ -110,22 +110,22 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
 ==
 
 <<
-  以深一丈八尺乘之，得五萬二千四百八十八尺。
+  以深一丈八尺乘之、得五萬二千四百八十八尺。
 \\
-  Multiplying it by .[the] depth, one rod .[and] eight rules,
+  Multiplying it by .[the] depth one rod .[and] eight rules,
   resulteth in
     five myriad, two thousand, four hundred .[and] eighty-eight rules.
 >>
 
 <<
-  以一十二除之，得四千三百七十四尺。
+  以一十二除之、得四千三百七十四尺。
 \\
   Dividing it by twelve,
   resulteth in four thousand, three hundred .[and] seventy-four rules.
 >>
 
 <<
-  以斛法一尺六寸二分除之，即得。
+  以斛法一尺六寸二分除之、即得。
 \\
   Dividing it by .[the] barrel divisor,
     one rule, six inches, .[and] two tenths,
