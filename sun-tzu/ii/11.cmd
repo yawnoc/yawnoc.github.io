@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  Volume of a rectangular prism~(1)
+  \P11. Volume of a rectangular prism~(1)
 
 %%noscript-equations
 
