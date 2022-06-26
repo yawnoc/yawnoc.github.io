@@ -2227,6 +2227,10 @@ See also: [何得]
 8 [御] U+5FA1
 ==
 * drive
+* imperial
+==
+==
+* 御米： poppy seed
 ==
 
 9 [復] U+5FA9
@@ -4181,10 +4185,18 @@ See also: [符驗]
 ==
 * grain {:uncooked rice:}
 ==
+--
+See also: [御米]
+--
 
 6 [粟] U+7C9F
 ==
 * grain
+==
+
+8 [粺] U+7CBA
+==
+* fine-grain
 ==
 
 8 [精] U+7CBE

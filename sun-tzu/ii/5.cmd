@@ -71,10 +71,10 @@ Chinese source text: \a[30], \b[153], \c[52142], \d[42]. <br>
 --
 
 <<
-  今有粟一斗。問為糲米幾何？ <br>
-  答曰：六升。
+  今有粟一斗。問為糲米幾何。 <br>
+  答曰、六升。
 \\
-  Now there be grain, one peck.
+  Suppose there be grain, one peck.
   .[We] ask, how much be .[this in] coarse grain? <br>
   Answer saith: six quarts.
 >>
@@ -83,14 +83,14 @@ Chinese source text: \a[30], \b[153], \c[52142], \d[42]. <br>
 ==
 
 <<
-  術曰：置粟一斗，十升。\
-  以糲米率三十乘之，得三百升為實。以粟率五十為法，除之，即得。
+  術曰、置粟一斗、十升。\
+  以糲米率三十乘之、得三百升為實。以粟率五十為法。除之、即得。
 \\
-  Method saith: put .[down the] grain, one peck, .[or] ten quarts.
-  Multiplying it by .[the] coarse grain rate, thirty,
+  Method saith: put .[down the] grain, one peck, .[even] ten quarts.
+  Multiplying it by .[the] coarse grain rate thirty,
   resulteth in three hundred quarts as .[the] dividend.
-  Use .[the] grain rate, fifty, as .[the] divisor,
-  .[and] dividing them, .[we] are done.
+  Use .[the] grain rate fifty as .[the] divisor.
+  Dividing them, .[we] are done.
 >>
 =={.translation-annotations}
 * In modern notation, with $V$ for volume and $r$ for rate:
@@ -111,9 +111,7 @@ Chinese source text: \a[30], \b[153], \c[52142], \d[42]. <br>
 ==
 
 
-##{#commentary}
-  Extended commentary
-##
+##{#commentary} Extended commentary
 
 --
 Here we have cross-multiplication.
@@ -127,8 +125,8 @@ I believe the rates~30 and~50 come from a separate text,
 the chapter [.〈粟米〉 'Grain'],
 of .《九章算術》 "Nine Chapters .[on] Computational Methods".
 In this text, cross-multiplication is called .今有術,
-the "Method of Now There Be",
-after the incipit "now there be" in all grain conversion problems.
+the "Suppose There Be method",
+after the incipit "Suppose there be" in all grain conversion problems.
 I think it is informative to include a translation of an excerpt here.
 --
 
@@ -144,40 +142,43 @@ Note that this excerpt is *not* a part of (Sun Tz(uu)|孫子)'s Computational Cl
   https://ctext.org/library.pl?if=en&file=77747&page=54
 
 <<
-  粟米之法：\
-  粟率五十；\
-  糲米三十；\
-  粺米二十七；\
-  糳米二十四；\
-  御米二十一；……
+  粟米之法、\
+  粟率五十、\
+  糲米三十、\
+  粺米二十七、\
+  糳米二十四、\
+  御米二十一、……
 \\
-  .[The] Method of Grain:
+  .[In the] Method of Grain:
   .[the] grain rate .[be] fifty;
   coarse grain, thirty;
   fine grain, twenty-seven;
   intricate grain, twenty-four;
   poppy seed, twenty-one; ...
 >>
+=={.translation-annotations}
+* 御米： poppy seed; \lit imperial grain
+==
 
 <<
-  今有術曰：以所有數乘所求率為實，以所有率為法，實如法而一。
+  今有術曰、以所有數乘所求率為實、以所有率為法、實如法而一。
 \\
-  .[The] Method of Now There Be saith:
-  use .[the] quantity of that there be
-    times .[the] rate of that sought
+  .[The] Suppose There Be method saith:
+  use .[the] number of That There Be
+    times .[the] rate of That Sought
     as .[the] dividend,
-  .[and] use .[the] rate of that there be
+  .[and] use .[the] rate of That There Be
     as .[the] divisor.
-  .[Take the] dividend, as .[if the] divisor .[were] one.
+  .[Take the] dividend, as .[per the] divisor .[being] one.
 >>
 =={.translation-annotations}
 * In modern notation, with $V$ for volume and $r$ for rate:
   $$
-    V(\text{sought}) =
+    V(\text{that sought}) =
       \frac{
-        V(\text{there be}) \cdot r(\text{sought})
+        V(\text{that there be}) \cdot r(\text{that sought})
       }{
-        r(\text{there be})
+        r(\text{that there be})
       }.
   $$
 ==
