@@ -1,58 +1,60 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~II" 《孫子算經\.卷中》 \P12
-  %date-created 2019-06-09
-  %date-modified 2020-07-19
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P12"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P12
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-26
+- concluding_replacements:
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [II] ["ii" Volume~II]
-*> [\P12](\- You are viewing \P12)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~II](./)
+* %%surrounds-previous --> [<-- \P11](11)
+* %%surrounds-current --> \P12
+* %%surrounds-next --> [\P13 -->](13)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+
+%%%
 
 
-#
-  《孫子算經\.卷中》 \+
-  "\sun-tzu's Computational Classic: Volume~II" \+
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !ii
+-{.breadcrumbed} !!12
+- !cite
+^^^^
+
+# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \P12. Volume of a cylinder~(2)
-#
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: \P11 : ["ii 11"]
-    \nav-curr: \P12
-    \nav-next: \P13 : ["ii 13"]
-  |}}
-|}}}}
+%%noscript-equations
 
 
-\noscript:maths
+%%surrounds
 
-
-[||||
-||||]
-
-
-----
+--
 This paragraph gives a worked example of computing
-the __volume of a cylinder__.
-----
-----
+the volume of a cylinder.
+--
+--
 The relevant unit conversions for length are
-----
+--
 $$
   \begin{aligned}
     1 \unit{rod~(丈)} &= 10 \unit{rules~(尺)} \\
@@ -60,34 +62,28 @@ $$
     1 \unit{inch~(寸)} &= 10 \unit{tenths~(分)}.
   \end{aligned}
 $$
-----
+--
 The conversion between capacity units and volume units is given by
-----
+--
 $$
   1 \unit{barrel~(斛)} = 1.62 \unit{rules~(尺)}^3.
 $$
-----
-See [Vol.~I \P1 (Units of length)] ["i 1"]
-and [Vol.~II \P10 Extended commentary (capacity--volume conversion)] [斛法].
-----
-
-@@[斛法]
-  /sun-tzu/ii/10#commentary
-@@
+--
+See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1)
+and [Vol.~II \P10 Extended commentary](/sun-tzu/ii/10#commentary).
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[34], \b[154], \c[52163], \d[47]. \+
-\d-default
-----
+--
+Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
+%%version-d-default
+--
 
 <<
   今有圓窖，周五丈四尺，深一丈八尺。問受粟幾何？
-||
+\\
   Now there be .[a] circular cellar,
   of circumference five rods .[and] four rules,
   .[and] depth one rod .[and] eight rules.
@@ -96,26 +92,26 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. \+
 
 <<
   答曰：二千七百斛。
-||
+\\
   Answer saith:
   two thousand seven hundred barrels.
 >>
 
 <<
   術曰：先置周五丈四尺，自相乘，得二千九百一十六尺。
-||
+\\
   Method saith:
   First put .[down the] circumference, five rods .[and] four rules,
   .[which], multiplied with itself,
   resulteth in two thousand, nine hundred .[and] sixteen rules.
 >>
-====
-* \a[34], \b[154], and \d[47] are erroneously missing 自 in 自相乘.
-====
+=={.translation-annotations}
+* \a[34], \b[154], and \d[47] are erroneously missing .自 in .自相乘.
+==
 
 <<
   以深一丈八尺乘之，得五萬二千四百八十八尺。
-||
+\\
   Multiplying it by .[the] depth, one rod .[and] eight rules,
   resulteth in
     five myriad, two thousand, four hundred .[and] eighty-eight rules.
@@ -123,24 +119,27 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. \+
 
 <<
   以一十二除之，得四千三百七十四尺。
-||
+\\
   Dividing it by twelve,
   resulteth in four thousand, three hundred .[and] seventy-four rules.
 >>
 
 <<
   以斛法一尺六寸二分除之，即得。
-||
+\\
   Dividing it by .[the] barrel divisor,
     one rule, six inches, .[and] two tenths,
   .[we] are done.
 >>
-====
-* 斛法： .[the] barrel divisor \+
+=={.translation-annotations}
+* .斛法： .[the] barrel divisor
+  --
   This is the conversion between the capacity unit "barrel",
-  ((hu | ~~斛~~))~(斛),
-  and the volume unit "cubic rule", ((ch'ih | ~~尺~~))~(尺);
-  see [\P10 Extended commentary] [斛法].
+    (hu|斛)~(.斛),
+  and the volume unit "cubic rule",
+    (ch'ih|尺)~(.尺);
+  see [\P10 Extended commentary](10#commentary).
+  --
 
 * In modern notation, the volume (or capacity) of a cylinder
   of circumference $C = 54 \unit{rules}$ and depth $H = 18 \unit{rules}$
@@ -158,22 +157,14 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. \+
     \end{aligned}
   $$
   Here $\pi \approx 3$ (so that $4\pi \approx 12$),
-  see [Vol.~I \P5] ["i 5"].
-====
+  see [Vol.~I \P5](/sun-tzu/i/5).
+==
 
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: \P11 : ["ii 11"]
-    \nav-curr: \P12
-    \nav-next: \P13 : ["ii 13"]
-  |}}
-|}}}}
+%%surrounds
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~II \P12"
-]
+%%cite
 
-%footer-element
+
+%%footer
