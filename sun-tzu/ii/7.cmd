@@ -71,25 +71,25 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
 --
 
 <<
-  今有粟四斗五升。問為糳米幾何？ <br>
-  答曰：二斗一升五分升之三。
+  今有粟四斗五升。問為糳米幾何。 <br>
+  答曰、二斗一升五分升之三。
 \\
-  Now there be grain, four pecks .[and] five quarts.
+  Suppose there be grain, four pecks .[and] five quarts.
   .[We] ask, how much be .[this in] intricate grain? <br>
   Answer saith:
     two pecks, one quart, .[and] three fifths of .[a] quart.
 >>
 =={.translation-annotations}
-\c[52148] erroneously has .槃 for .糳, both here and below.
+* \c[52148] erroneously has .槃 for .糳, both here and below.
 ==
 
 <<
-  術曰：置粟四十五升。以二約糳米率二十四，得一十二，乘之，得五百四十升為實。
+  術曰、置粟四十五升。以二約糳米率二十四、得一十二。乘之、得五百四十升為實。
 \\
   Method saith: put .[down the] grain, forty-five quarts.
-  Reducing .[the] intricate grain rate, twenty-four, by two,
-  resulteth in twelve;
-  multiplying them resulteth in five hundred .[and] forty quarts
+  Reducing .[the] intricate grain rate twenty-four by two,
+  resulteth in twelve.
+  Multiplying them, resulteth in five hundred .[and] forty quarts
   as .[the] dividend.
 >>
 =={.translation-annotations}
@@ -101,26 +101,27 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
 ==
 
 <<
-  以二約粟率五十，得二十五為法。
+  以二約粟率五十、得二十五為法。
 \\
-  Reducing .[the] grain rate, fifty, by two,
+  Reducing .[the] grain rate fifty by two,
   resulteth in twenty-five as .[the] divisor.
 >>
 
 <<
-  除之。不盡，以等數約之，而命分。
+  除之、不盡、以等數約之、而命分。
 \\
-  Divide them.
-  .[For the] remainder, reduce it by .[the] equal quantity,
-  and name .[the] fraction.
+  Dividing them, .[there be a] remainder;
+  reduce it by .[the] equal number,
+  and name .[it for a] fraction.
 >>
 =={.translation-annotations}
-* .不盡，以等數約之：
-  .[for the] remainder, reduce it by .[the] equal quantity
+* .不盡： .[there be a] remainder; \lit exhausteth not
+
+* .以等數約之： reduce it by .[the] equal number
   --
   The division $540 \div 25$ leaves remainder $15/25$.
-  Their "equal quantity" (see [\P1](1))
-  is $\gcd (15, 25) = 5$, so that the remainder is simplified to $3/5$.
+  Their "equal number" is $\gcd (15, 25) = 5$ (see [\P1](1)),
+  so that the remainder is reduced to $3/5$.
   --
 
 * In modern notation:
