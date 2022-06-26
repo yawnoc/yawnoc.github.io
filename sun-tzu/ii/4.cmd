@@ -62,12 +62,12 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
 --
 
 <<
-  今有三分之一、三分之二、四分之三。問減多益少，幾何而平？
+  今有三分之一、三分之二、四分之三。問減多益少、幾何而平。
 \\
-  Now there be one of three shares,
+  Suppose there be one of three shares,
   two of three shares, .[and] three of four shares.
-  .[We] ask, .[in] diminishing .[the] greater .[to] benefit .[the] lesser,
-  how much that .[they be] level?
+  .[We] ask, subtracting of .[the] greater .[to] benefit .[the] lesser,
+  how much .[that they be] level?
 >>
 =={.translation-annotations}
 * ::{l=zh-Hant} $b$ 分之 $a$:::
@@ -81,14 +81,14 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
 ==
 
 <<
-  答曰：減四分之三者::{.colour-r}二::，三分之二者::{.colour-v}一::，\
-  ::{.colour-g}并::以益三分之一，而各::{.colour-b}平於一十二分之七::。
+  答曰、減四分之三者::{.colour-r}二::、三分之二者::{.colour-v}一::、\
+  ::{.colour-g}并::以益三分之一、而各::{.colour-b}平於一十二分之七::。
 \\
   Answer saith:
-  that diminished of .[the] three of four shares, .[is] ::{.colour-r} two::;
+  that subtracted of .[the] three of four shares, .[is] ::{.colour-r} two::;
   that of .[the] two of three shares, ::{.colour-v} one::;
   ::{.colour-g} combined:: to benefit .[the] one of three shares,
-  that each .[be] ::{.colour-b} level at seven of twelve shares::.
+  with each .[being] ::{.colour-b} level at seven of twelve shares::.
 >>
 =={.translation-annotations}
 * In modern notation:
@@ -121,21 +121,21 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
 ==
 
 <<
-  術曰：置三分、三分、四分在右方，之一、之二、之三在左方。\
-  母互乘子，副并得六十三，置右為平實。
+  術曰、置三分三分四分在右方、之一之二之三在左方。\
+  母互乘子、副并得六十三、置右為平實。
 \\
   Method saith: put
-  .[the] three shares, .[the] three shares .[and the] four shares
+  .[the] three shares, .[the] three shares, .[and the] four shares
     on .[the] right;
-  .[the] one of, .[the] two of .[and the] three of, on .[the] left.
-  .[The] denominators, mutually multiplied with .[the] numerators,
+  .[the] one of, .[the] two of, .[and the] three of, on .[the] left.
+  .[The] denominators mutually multiplied with .[the] numerators,
   combined subsidiarily, result in sixty-three,
-  put to .[the] right as .[the] level dividend.
+  put .[unto the] right as .[the] level dividend.
 >>
 =={.translation-annotations}
-* \c[52139] erroneously has 母互乘于 for 母互乘子.
+* \c[52139] erroneously has .母互乘于 for .母互乘子.
 
-* 平實： level dividend
+* .平實： level dividend
   --
   $L = aBC + bCA + cAB = 63$.
   --
@@ -152,7 +152,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
 ==
 
 <<
-  母相乘，得三十六為法。
+  母相乘、得三十六為法。
 \\
   .[The] denominators multiplied with each other,
   result in thirty-six as .[the] divisor.
@@ -168,10 +168,10 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
   以列數三乘未并者及法。
 \\
   Multiply those not yet combined, and .[the] divisor,
-  by .[the] number of rows, three.
+  by .[the] number of rows three.
 >>
 =={.translation-annotations}
-* 未并者： those not yet combined
+* .未并者： those not yet combined
   --
   These are the individual terms $aBC$, $bCA$ and $cAB$,
   before they were combined subsidiarily to make the level dividend $L$.
@@ -188,17 +188,17 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
 ==
 
 <<
-  等數得九，約訖。
+  等數得九、約訖。
 \\
-  .[For their] equal quantity .[there] resulteth nine;
+  .[For their] equal number .[there] resulteth nine;
   finish reducing .[them].
 >>
 =={.translation-annotations}
-* 等數： equal quantity
+* .等數： equal number
   --
-  Greatest common divisor (GCD) is called an "equal quantity"
+  Greatest common divisor (GCD) is called an "equal number"
   because it is determined by repeated subtraction
-  until an equal quantity is obtained (see [\P1] ["ii 1"]).
+  until an equal quantity is obtained (see [\P1](1)).
   --
   --
   In the current example, we have
@@ -218,13 +218,12 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
 ==
 
 <<
-  減四分之三者二，減三分之二者一，并以益三分之一，各平於一十二分之七。
+  減四分之三者二、減三分之二者一、并以益三分之一、各平於一十二分之七。
 \\
-  That diminished of .[the] three of four shares,
-  .[is] two;
-  that diminished of .[the] two of three shares, one;
+  That subtracted of .[the] three of four shares, .[is] two;
+  that subtracted of .[the] two of three shares, one;
   combined to benefit .[the] one of three shares,
-  each level at seven of twelve shares.
+  each .[being] level at seven of twelve shares.
 >>
 
 
