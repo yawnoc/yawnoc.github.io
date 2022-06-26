@@ -92,17 +92,17 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
 --
 
 <<
-  今有方窖，廣四丈六尺，長五丈四尺，深三丈五尺。問受粟幾何？
+  今有方窖、廣四丈六尺、長五丈四尺、深三丈五尺。問受粟幾何。
 \\
-  Now there be .[a] rectangular cellar,
-  of width four rods .[and] six rules,
+  Suppose there be .[a] rectangular cellar,
+  of breadth four rods .[and] six rules,
   length five rods .[and] four rules,
   .[and] depth three rods .[and] five rules.
   .[We] ask, how much grain beareth .[it]?
 >>
 
 <<
-  答曰：五萬三千六百六十六斛六斗六升三分升之二。
+  答曰、五萬三千六百六十六斛六斗六升三分升之二。
 \\
   Answer saith:
     five myriad, three thousand, six hundred .[and] sixty-six barrels,
@@ -113,25 +113,25 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
 ==
 
 <<
-  術曰：置廣四丈六尺、長五丈四尺，相乘，得二千四百八十四尺。
+  術曰、置廣四丈六尺、長五丈四尺、相乘、得二千四百八十四尺。
 \\
   Method saith:
-  put .[down the] width, four rods .[and] six rules,
-  .[and the] length, five rods .[and] four rules,
+  put .[down the] breadth four rods .[and] six rules,
+  .[and the] length five rods .[and] four rules,
   .[which], multiplied with each other,
   result in two thousand, four hundred .[and] eighty-four rules.
 >>
 
 <<
-  以深三丈五尺乘之，得八萬六千九百四十尺。
+  以深三丈五尺乘之、得八萬六千九百四十尺。
 \\
-  Multiplying it by .[the] depth, three rods .[and] five rules,
+  Multiplying it by .[the] depth three rods .[and] five rules,
   resulteth in
     eight myriad, six thousand, nine hundred .[and] forty rules.
 >>
 
 <<
-  以斛法一尺六寸二分除之，即得。
+  以斛法一尺六寸二分除之、即得。
 \\
   Dividing it by .[the] barrel divisor,
     one rule, six inches, .[and] two tenths,
@@ -148,13 +148,13 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
   --
 
 * In modern notation, the volume (or capacity) of a rectangular prism of
-  width $W = 46 \unit{rules}$,
+  breadth $B = 46 \unit{rules}$,
   length $L = 54 \unit{rules}$, and
   depth $H = 35 \unit{rules}$ is
   $$
     \begin{aligned}
       V
-      &= W L H \\
+      &= B L H \\
       &=
         46 \unit{rules} \times 54 \unit{rules} \times 35 \unit{rules}
           \div
