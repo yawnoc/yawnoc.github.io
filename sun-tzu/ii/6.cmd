@@ -71,33 +71,36 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
 --
 
 <<
-  今有粟二斗一升。問為粺米幾何？ <br>
-  答曰：一斗一升五十分升之一十七。
+  今有粟二斗一升。問為粺米幾何。 <br>
+  答曰、一斗一升五十分升之一十七。
 \\
-  Now there be grain, two pecks .[and] one quart.
+  Suppose there be grain, two pecks .[and] one quart.
   .[We] ask, how much be .[this in] fine grain? <br>
   Answer saith: one peck, one quart, .[and] seventeen fiftieths of .[a] quart.
 >>
 =={.translation-annotations}
 * \c[52145] erroneously has .稗 for .粺, both here and below.
 
-* .粺： fine grain
+* .粺： fine(-grain)
   --
-  .粺， \C .《分韻撮要》 p'ei4, .《正韻》 paai6, \M b(a\)i
+  .粺、 \C .《分韻撮要》 p'ei4, .《正韻》 paai6, \M b(a\)i
   --
 ==
 
 <<
-  術曰：置粟二十一升。以粺米率二十七乘之，得五百六十七升為實。\
-  以粟率五十為法，除之。不盡，以法而命分。
+  術曰、置粟二十一升。以粺米率二十七乘之、得五百六十七升為實。\
+  以粟率五十為法。除之、不盡、以法而命分。
 \\
   Method saith: put .[down the] grain, twenty-one quarts.
-  Multiplying it by .[the] fine grain rate, twenty-seven,
+  Multiplying it by .[the] fine grain rate twenty-seven,
   resulteth in five hundred .[and] sixty-seven quarts as .[the] dividend.
-  Use .[the] grain rate, fifty, as .[the] divisor, .[and] divide them.
-  .[For the] remainder, use .[the] divisor to name .[the] fraction.
+  Use .[the] grain rate fifty as .[the] divisor.
+  Dividing them, .[there be a] remainder;
+  use .[the] divisor and name .[it for a] fraction.
 >>
 =={.translation-annotations}
+* .不盡： .[there be a] remainder; \lit exhausteth not
+
 * In modern notation:
   $$
     \begin{aligned}

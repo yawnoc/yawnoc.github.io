@@ -270,6 +270,9 @@ See also: [意下]
 ==
 * not
 ==
+--
+See also: [不盡]
+--
 
 4 [且] U+4E14
 ==
@@ -3824,6 +3827,9 @@ See also: [百萬]
 9 [盡] U+76E1
 ==
 * exhaust
+==
+==
+* 不盡： remainder
 ==
 
 
