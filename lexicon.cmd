@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-26
+* %date-modified --> 2022-06-27
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1579,7 +1579,7 @@ See also: [中央]
 5 [奇] U+5947
 [陰平]
 ==
-* odd {:opposite of even:}
+* odd {:opposite of even:}; remainder
 ==
 [陽平]
 ==

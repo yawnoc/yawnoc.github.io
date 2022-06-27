@@ -70,9 +70,9 @@ See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
 --
 
 <<
-  今有圓田，周三百步，徑一百步。問得田幾何？
+  今有圓田、周三百步、徑一百步。問得田幾何。
 \\
-  Now there be .[a] circular field,
+  Suppose there be .[a] circular field,
   of circumference three hundred paces,
   .[and] diameter one hundred paces.
   .[We] ask, how much field resulteth?
@@ -82,14 +82,14 @@ See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
 ==
 
 <<
-  答曰：三十一畝奇六十步。
+  答曰、三十一畝奇六十步。
 \\
-  Answer saith: thirty-one acres, remainder sixty paces.
+  Answer saith: thirty-one acres remainder sixty paces.
 >>
 =={.translation-annotations}
-* 奇： remainder
+* .奇： remainder
   --
-  奇，音羈， \C kei1, \M j(i-)
+  .奇、音羈、 \C kei1, \M j(i-)
   --
   --
   To convert area from square paces to acres, (mu|畝)~(.畝),
@@ -102,31 +102,31 @@ See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
 ==
 
 <<
-  術曰：先置周三百步，半之，得一百五十步。又置徑一百步，半之，得五十步。\
-  相乘，得七千五百步。
+  術曰、先置周三百步、半之、得一百五十步。又置徑一百步、半之、得五十步。\
+  相乘、得七千五百步。
 \\
   Method saith:
-  first put .[down the] circumference, three hundred paces;
+  first put .[down the] circumference three hundred paces;
   halving it, resulteth in one hundred .[and] fifty paces.
-  Also put .[down the] diameter, one hundred paces;
+  And put .[down the] diameter one hundred paces;
   halving it, resulteth in fifty paces.
-  .[These], multiplied with each other,
+  .[These] multiplied with each other,
   result in seven thousand five hundred paces.
 >>
 
 <<
-  以畝法二百四十步除之，即得。
+  以畝法二百四十步除之、即得。
 \\
-  Dividing it by .[the] acre divisor,
+  Dividing it by .[the] acre divisor
     two hundred .[and] forty paces,
   .[we] are done.
 >>
 
 <<
-  又術：周自相乘，得九萬步。以一十二除之，得七千五百步。
+  又術、周自相乘、得九萬步。以一十二除之、得七千五百步。
 \\
   Also .[a] method:
-  .[the] circumference, multiplied with itself, resulteth in nine myriad paces.
+  .[the] circumference multiplied with itself, resulteth in nine myriad paces.
   Dividing it by twelve, resulteth in seven thousand five hundred paces.
 >>
 =={.translation-annotations}
@@ -134,23 +134,23 @@ See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
 ==
 
 <<
-  以畝法除之，得畝數。
+  以畝法除之、得畝數。
 \\
   Dividing it by .[the] acre divisor,
   resulteth in .[the] number of acres.
 >>
 
 <<
-  又術：徑自乘，得一萬。以三乘之，得三萬步。四除之，得七千五百步。
+  又術、徑自乘、得一萬。以三乘之、得三萬步、四除之、得七千五百步。
 \\
   Also .[a] method:
-  .[the] diameter, multiplied .[with] itself, resulteth in one myriad.
-  Multiplying it by three, resulteth in three myriad paces.
-  Dividing it .[by] four, resulteth in seven thousand five hundred paces.
+  .[the] diameter multiplied .[with] itself, resulteth in one myriad.
+  Multiplying it by three, resulteth in three myriad paces,
+  .[and] dividing it .[by] four, resulteth in seven thousand five hundred paces.
 >>
 
 <<
-  以畝法除之，得畝數。
+  以畝法除之、得畝數。
 \\
   Dividing it by .[the] acre divisor, resulteth in .[the] number of acres.
 >>
