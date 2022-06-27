@@ -5800,6 +5800,11 @@ See also: [鴻雁]
 
 ### ⾴ (leaf) U+2FB4
 
+2 [頃] U+9803
+==
+* [:unit:] yardland
+==
+
 3 [順] U+9806
 ==
 * obey; conform
