@@ -71,11 +71,11 @@ Chinese source text: \a[36], \b[155], \c[52174], \d[49]. <br>
 --
 
 <<
-  今有木方三尺，欲方五寸作枕一枚。問得幾何？
+  今有木方三尺、欲方五寸作枕一枚。問得幾何。
 \\
-  Now there be .[a] wooden cube .[of edge] three rules,
-  .[and we] wish .[that each] cube .[of edge] five inches .[thereof be]
-  made into one pillow.
+  Suppose there be .[a] wooden cube .[of edge] three rules,
+  .[and we] wish .[that each] cube .[of edge] five inches .[thereof]
+  construct one pillow.
   .[We] ask, how many result?
 >>
 =={.translation-annotations}
@@ -88,25 +88,25 @@ Chinese source text: \a[36], \b[155], \c[52174], \d[49]. <br>
 ==
 
 <<
-  答曰：二百一十六枚。
+  答曰、二百一十六枚。
 \\
   Answer saith: two hundred .[and] sixteen .[pillows].
 >>
 
 <<
-  術曰：置方三尺，自相乘，得九尺。以高三尺乘之，得二十七尺。
+  術曰、置方三尺、自相乘、得九尺。以高三尺乘之、得二十七尺。
 \\
   Method saith:
-  put .[down the] cube's .[edge], three rules,
+  put .[down the] cube's .[edge] three rules,
   .[which], multiplied with itself, resulteth in nine rules.
-  Multiplying it by .[the] height, three rules,
+  Multiplying it by .[the] height three rules,
   resulteth in twenty-seven rules.
 >>
 
 <<
-  以一尺木八枕乘之，即得。
+  以一尺木八枕乘之、即得。
 \\
-  Multiplying it by eight pillows .[for each] one rule of wood,
+  Multiplying it by eight pillows of .[each] one rule of wood,
   .[we] are done.
 >>
 =={.translation-annotations}

@@ -3019,6 +3019,11 @@ See also: [有餘]
 * split
 ==
 
+4 [枕] U+6795
+==
+* pillow
+==
+
 4 [林] U+6797
 ==
 * forest
