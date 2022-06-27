@@ -71,19 +71,19 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
 --
 
 <<
-  今有索長五千七百九十四步，欲使作方。問幾何？ <br>
-  答曰：一千四百四十八步三尺。
+  今有索長五千七百九十四步、欲使作方。問幾何。 <br>
+  答曰、一千四百四十八步三尺。
 \\
-  Now there be rope,
+  Suppose there be rope
   of length five thousand, seven hundred .[and] ninety-four paces,
-  .[and we] wish to make .[it] be .[a] square.
+  .[and we] wish to make .[it] construct .[a] square.
   .[We] ask, how much .[be its edge]? <br>
   Answer saith:
     one thousand, four hundred .[and] forty-eight paces .[and] three rules.
 >>
 
 <<
-  術曰：置索長五千七百九十四步。以四除之，得一千四百四十八步，餘二步。
+  術曰、置索長五千七百九十四步。以四除之、得一千四百四十八步、餘二步。
 \\
   Method saith:
   put .[down the] rope's length,
@@ -94,7 +94,7 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
 >>
 
 <<
-  以六因之，得一丈二尺。以四除之，得三尺。
+  以六因之、得一丈二尺。以四除之、得三尺。
 \\
   Multiplying it by six, resulteth in one rod .[and] two rules.
   Dividing it by four, resulteth in three rules.
@@ -107,12 +107,12 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
 ==
 
 <<
-  通計，即得。
+  通計、即得。
 \\
-  Computing .[the] total, .[we] are done.
+  Calculating .[the] total, .[we] are done.
 >>
 =={.translation-annotations}
-* .通：總也； total
+* .通： total; \lit throughout
 
 * In modern notation, the side length of the square is
   $$

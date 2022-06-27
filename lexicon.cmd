@@ -582,7 +582,7 @@ See also: [幾何]
 [上聲]
 ==
 * make; cause
-* use; employ
+* employ
 * dispatch
 ==
 [去聲] [but [上聲] in Mandarin]
@@ -1402,6 +1402,7 @@ See also: [未嘗]
 ==
 * because (of)
 * therefore
+* multiply
 ==
 
 8 [國] U+570B
@@ -5300,7 +5301,7 @@ See also: [遠近]
 
 7 [通] U+901A
 ==
-* through; throughout
+* through; throughout; \met total
 ==
 
 7 [逝] U+901D
