@@ -65,7 +65,7 @@ See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
 ##{#translation} Translation
 
 --
-\a[34], \b[155], \c[52166], \d[48]. <br>
+Chinese source text: \a[34], \b[155], \c[52166], \d[48]. <br>
 %%version-d-default
 --
 
