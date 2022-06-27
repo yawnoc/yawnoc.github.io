@@ -1,78 +1,78 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~II" 《孫子算經\.卷中》 \P17
-  %date-created 2019-06-09
-  %date-modified 2020-07-19
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P17"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P17
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-27
+- concluding_replacements:
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [II] ["ii" Volume~II]
-*> [\P17](\- You are viewing \P17)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~II](./)
+* %%surrounds-previous --> [<-- \P16](16)
+* %%surrounds-current --> \P17
+* %%surrounds-next --> [\P18 -->](18)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+
+%%%
 
 
-#
-  《孫子算經\.卷中》 \+
-  "\sun-tzu's Computational Classic: Volume~II" \+
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !ii
+-{.breadcrumbed} !!17
+- !cite
+^^^^
+
+# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \P17. Volume of a trapezoidal prism
-#
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: \P16 : ["ii 16"]
-    \nav-curr: \P17
-    \nav-next: \P18 : ["ii 18"]
-  |}}
-|}}}}
+%%noscript-equations
 
 
-\noscript:maths
+%%surrounds
 
-
-[||||
-||||]
-
-
-----
+--
 This paragraph gives a worked example of computing
-the __volume of a trapezoidal prism__.
-----
-----
+the volume of a trapezoidal prism.
+--
+--
 The relevant unit conversion for length is
-----
+--
 $$
   1 \unit{rod~(丈)} = 10 \unit{rules~(尺)}.
 $$
-----
-See [Vol.~I \P1 (Units of length)] ["i 1"].
-----
+--
+See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[38], \b[155], \c[52180], \d[51]. \+
-\d-default
-----
+--
+Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
+%%version-d-default
+--
 
 <<
   今有隄，下廣五丈，上廣三丈，高二丈，長六十尺，欲以一千尺作一方。問計幾何？
-||
+\\
   Now there be .[an] embankment, of
     lower width five rods,
     upper width three rods,
@@ -81,49 +81,53 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. \+
   .[and we] wish to consider one thousand rules as one block.
   .[We] ask, how many amounteth .[this] to?
 >>
-====
-* 一千尺： one thousand rules \+
-  In modern language these are **cubic** rules.
-====
+=={.translation-annotations}
+* .一千尺： one thousand rules
+  --
+  In modern language these would be *cubic* rules.
+  --
+==
 
 <<
   答曰：四十八方。
-||
+\\
   Answer saith: forty-eight blocks.
 >>
 
 <<
   法曰：置隄上廣三丈、下廣五丈。并之，得八丈。半之，得四丈。
-||
+\\
   Method saith:
   put .[down the] embankment's upper width, three rods,
   .[and the] lower width, five rods.
   Combining them, resulteth in eight rods.
   Halving it, resulteth in four rods.
 >>
-====
-* 法： method \+
+=={.translation-annotations}
+* .法： method
+  --
   \b[155] and \c[52180] have the usual 術 for 法.
-====
+  --
+==
 
 <<
   以高二丈乘之，得八百尺。以長六十尺乘之，得四萬八千。
-||
+\\
   Multiplying it by .[the] height, two rods,
   resulteth in eight hundred rules.
   Multiplying it by .[the] length, sixty rules,
   resulteth in four myriad .[and] eight thousand.
 >>
-====
-* \b[155] has 以二丈 for 以高二丈.
-====
+=={.translation-annotations}
+* \b[155] has .以二丈 for .以高二丈.
+==
 
 <<
   以一千尺除之，即得。
-||
+\\
   Dividing it by one thousand rules, .[we] are done.
 >>
-====
+=={.translation-annotations}
 * In modern notation, the volume of a trapezoidal prism of
     upper width $A = 3 \unit{rods}$,
     lower width $B = 5 \unit{rods}$,
@@ -144,21 +148,13 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. \+
       &= 48 \unit{blocks}.
     \end{aligned}
   $$
-====
+==
 
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: \P16 : ["ii 16"]
-    \nav-curr: \P17
-    \nav-next: \P18 : ["ii 18"]
-  |}}
-|}}}}
+%%surrounds
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~II \P17"
-]
+%%cite
 
-%footer-element
+
+%%footer
