@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P9"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P9
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-13
+* %date-modified --> 2022-06-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -68,7 +68,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   乘得在中央、除得在上方。
 \\
   .[The] method of all division, .[is] directly opposite to multiplication. <br>
-  .[The] result of multiplication .[is put] in .[the] middle;
+  .[The] result of multiplication .[is put] in .[the] centre;
   .[the] result of division, in .[the] above.
 >>
 =={.translation-annotations}

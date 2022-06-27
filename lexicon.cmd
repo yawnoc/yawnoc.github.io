@@ -315,7 +315,7 @@ See also: [逝世]
 * amidst; among
 ==
 ==
-* 中央： .[the] middle
+* 中央： .[the] centre
 ==
 [去聲]
 ==
@@ -636,6 +636,11 @@ See also: [幾何]
 8 [俱] U+4FF1
 ==
 * all; \met both
+==
+
+8 [倍] U+500D
+==
+* double; times
 ==
 
 8 [倡] U+5021
@@ -3049,6 +3054,11 @@ See also: [有餘]
 * \var [按]
 ==
 
+6 [桑] U+6851
+==
+* mulberry-tree
+==
+
 7 [條] U+689D
 ==
 * strand
@@ -4886,6 +4896,11 @@ See also: [平行]
 
 
 ### ⾓ (horn) U+2F93
+
+0 [角] U+89D2
+==
+* horn; corner
+==
 
 
 ### ⾔ (speech) U+2F94

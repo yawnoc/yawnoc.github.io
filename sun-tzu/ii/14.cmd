@@ -74,20 +74,20 @@ See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
 --
 
 <<
-  今有方田，桑生中央。從角至桑一百四十七步。問為田幾何？
+  今有方田、桑生中央、從角至桑、一百四十七步。問為田幾何？
 \\
-  Now there be .[a] square field,
-  .[with a] mulberry tree growing .[in the] centre.
-  From .[a] corner unto .[the] mulberry tree:
+  Suppose there be .[a] square field,
+  .[a] mulberry-tree growing .[in the] centre,
+  .[and] from .[a] corner unto .[the] mulberry-tree,
     one hundred .[and] forty-seven paces.
   .[We] ask, how much field be .[this]?
 >>
 
 <<
-  答曰：一頃八十三畝奇一百八十步。
+  答曰、一頃八十三畝奇一百八十步。
 \\
   Answer saith:
-    one yardland .[and] eighty-three acres,
+    one yardland .[and] eighty-three acres
     remainder one hundred .[and] eighty paces.
 >>
 =={.translation-annotations}
@@ -106,18 +106,18 @@ See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
 ==
 
 <<
-  術曰：置角至桑一百四十七步，倍之，得二百九十四步。
+  術曰、置角至桑一百四十七步、倍之、得二百九十四步。
 \\
   Method saith:
   put .[down the] corner unto .[the] mulberry tree,
-    one hundred .[and] forty-seven paces.
-  Doubling it, resulteth in
+    .[even] one hundred .[and] forty-seven paces;
+  doubling it, resulteth in
     two hundred .[and] ninety-four paces.
 >>
 
 <<
-  以五乘之，得一千四百七十步。\
-  以七除之，得二百一十步，自相乘，得四萬四千一百步。
+  以五乘之、得一千四百七十步。\
+  以七除之、得二百一十步、自相乘、得四萬四千一百步。
 \\
   Multiplying it by five, resulteth in
     one thousand four hundred .[and] seventy paces.
@@ -127,7 +127,7 @@ See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
 >>
 
 <<
-  以二百四十步除之，即得。
+  以二百四十步除之、即得。
 \\
   Dividing it by two hundred .[and] forty paces, .[we] are done.
 >>
