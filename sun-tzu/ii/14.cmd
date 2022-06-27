@@ -1,81 +1,81 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/language.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
+< /resources/rules/sun-tzu.cmdr
 
-{+ /resources/syntax/chinese-lang.cmd +}
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
-{+ /resources/syntax/translations.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title
-    "\sun-tzu's Computational Classic: Volume~II" 《孫子算經\.卷中》 \P14
-  %date-created 2019-06-09
-  %date-modified 2020-07-19
-  \resources:maths
-%%
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P14"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P14
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-27
+- concluding_replacements:
+    #.yawnoc.typography
+    #.romanisation.special-characters
 
-[[====
-* \header-link:home
-* \header-link:top
-* \header-link:sun-tzu
-*> [II] ["ii" Volume~II]
-*> [\P14](\- You are viewing \P14)
-* \header-link:cite
-====]]
+OrdinaryDictionaryReplacement: #.surrounds-navigation
+- queue_position: AFTER #.yawnoc.properties-override
+* %%surrounds-up --> [^ Volume~II](./)
+* %%surrounds-previous --> [<-- \P13](13)
+* %%surrounds-current --> \P14
+* %%surrounds-next --> [\P15 -->](15)
+- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+
+%%%
 
 
-#
-  《孫子算經\.卷中》 \+
-  "\sun-tzu's Computational Classic: Volume~II" \+
+^^^^
+- !home
+- !top
+- !sun-tzu
+-{.breadcrumbed} !ii
+-{.breadcrumbed} !!14
+- !cite
+^^^^
+
+# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \P14. Area of a square of given circumradius
-#
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: \P13 : ["ii 13"]
-    \nav-curr: \P14
-    \nav-next: \P15 : ["ii 15"]
-  |}}
-|}}}}
+%%noscript-equations
 
 
-\noscript:maths
+%%surrounds
 
-
-[||||
-||||]
-
-
-----
+--
 This paragraph gives a worked example of computing
-the __area of square given its circumradius__.
-----
-----
+the area of a square given its circumradius.
+--
+--
 The relevant unit conversions for area and length are
-----
+--
 $$
   \begin{aligned}
     1 \unit{yardland~(頃)} &= 100 \unit{acres~(畝)} \\
     1 \unit{acre~(畝)} &= 240 \unit{paces~(步)}^2.
   \end{aligned}
 $$
-----
-See [Vol.~I \P1 (Units of length)] ["i 1"].
-----
+--
+See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
+--
 
 
-##{#translation}
-  Translation
-##
+##{#translation} Translation
 
-----
-Chinese source text: \a[36], \b[155], \c[52171], \d[49]. \+
-\d-default
-----
+--
+\a[36], \b[155], \c[52171], \d[49]. <br>
+%%version-d-default
+--
 
 <<
   今有方田，桑生中央。從角至桑一百四十七步。問為田幾何？
-||
+\\
   Now there be .[a] square field,
   .[with a] mulberry tree growing .[in the] centre.
   From .[a] corner unto .[the] mulberry tree:
@@ -85,32 +85,29 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. \+
 
 <<
   答曰：一頃八十三畝奇一百八十步。
-||
+\\
   Answer saith:
     one yardland .[and] eighty-three acres,
     remainder one hundred .[and] eighty paces.
 >>
-====
-* 頃： yardland \+
-  ((K'ing | ~~頃~~))~(頃), equal to 100~((mu | ~~畝~~))~(畝) or Chinese acres.
+=={.translation-annotations}
+* .頃： yardland
+  --
+  (K'ing|頃)~(.頃), equal to 100~(mu|畝)~(.畝) or Chinese acres.
   Difficult to render,
   and I have chosen "yardland" because it sounds more natural,
-  even though the [imperial oxgang] [oxgang]
-  (which is only half an [imperial yardland or virgate] [yardland])
+  even though the [imperial oxgang]
+  (which is only half an [imperial yardland or virgate])
   is closer in size.
-  
-  @@[oxgang]
-    https://en.wikipedia.org/wiki/Oxgang
-  @@
-  
-  @@[yardland]
-    https://en.wikipedia.org/wiki/Virgate
-  @@
-====
+  --
+
+  [imperial oxgang]: https://en.wikipedia.org/wiki/Oxgang
+  [imperial yardland or virgate]: https://en.wikipedia.org/wiki/Virgate
+==
 
 <<
   術曰：置角至桑一百四十七步，倍之，得二百九十四步。
-||
+\\
   Method saith:
   put .[down the] corner unto .[the] mulberry tree,
     one hundred .[and] forty-seven paces.
@@ -121,7 +118,7 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. \+
 <<
   以五乘之，得一千四百七十步。\
   以七除之，得二百一十步，自相乘，得四萬四千一百步。
-||
+\\
   Multiplying it by five, resulteth in
     one thousand four hundred .[and] seventy paces.
   Dividing it by seven, resulteth in two hundred .[and] ten paces,
@@ -131,10 +128,10 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. \+
 
 <<
   以二百四十步除之，即得。
-||
+\\
   Dividing it by two hundred .[and] forty paces, .[we] are done.
 >>
-====
+=={.translation-annotations}
 * In modern notation,
   the area of a square with circumradius (or semi-diagonal)
   $s = 147 \unit{paces}$ is
@@ -151,22 +148,14 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. \+
       &= 1 \unit{yardland} + 83 \unit{acres} + 180 \unit{paces}^2.
     \end{aligned}
   $$
-  Here $\sqrt{2} \approx 7/5$, see [Vol.~I \P5] ["i 5"].
-====
+  Here $\sqrt{2} \approx 7/5$, see [Vol.~I \P5](/sun-tzu/i/5).
+==
 
 
-{{{{|
-  \nav-up: Volume~II : ["ii"]
-  {{|
-    \nav-prev: \P13 : ["ii 13"]
-    \nav-curr: \P14
-    \nav-next: \P15 : ["ii 15"]
-  |}}
-|}}}}
+%%surrounds
 
 
-\cite-this-page[
-  "\sun-tzu's Computational Classic: Volume~II \P14"
-]
+%%cite
 
-%footer-element
+
+%%footer
