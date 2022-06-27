@@ -74,7 +74,7 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. <br>
 --
 
 <<
-  今有方田、桑生中央、從角至桑、一百四十七步。問為田幾何？
+  今有方田、桑生中央、從角至桑、一百四十七步。問為田幾何。
 \\
   Suppose there be .[a] square field,
   .[a] mulberry-tree growing .[in the] centre,
