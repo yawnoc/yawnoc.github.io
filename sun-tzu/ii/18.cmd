@@ -71,47 +71,47 @@ Chinese source text: \a[38], \b[155], \c[52183], \d[51]. <br>
 --
 
 <<
-  今有溝，廣十丈，深五丈，長二十丈，欲以千尺作一方。問得幾何？
+  今有溝、廣十丈、深五丈、長二十丈、欲以千尺作一方。問得幾何。
 \\
-  Now there be .[a] ditch, of
-    width ten rods,
+  Suppose there be .[a] ditch, of
+    breadth ten rods,
     depth five rods, .[and]
     length twenty rods,
-  .[and we] wish to consider .[a] thousand rules as one block.
+  .[and we] wish to use .[a] thousand rules doing one block.
   .[We] ask, how many result?
 >>
 
 <<
-  答曰：一千方。
+  答曰、一千方。
 \\
   Answer saith: one thousand blocks.
 >>
 
 <<
-  術曰：置廣一十丈。以深五丈乘之，得五千尺。又以長二十丈乘之，得一百萬尺。
+  術曰、置廣一十丈。以深五丈乘之、得五千尺。又以長二十丈乘之、得一百萬尺。
 \\
-  Method saith: put .[down the] width, ten rods.
-  Multiplying it by .[the] depth, five rods,
+  Method saith: put .[down the] breadth ten rods.
+  Multiplying it by .[the] depth five rods,
   resulteth in five thousand rules.
-  Also multiplying it by .[the] length, twenty rods,
+  And multiplying it by .[the] length twenty rods,
   resulteth in one hundred myriad rules.
 >>
 
 <<
-  以一千除之，即得。
+  以一千除之、即得。
 \\
   Dividing it by one thousand, .[we] are done.
 >>
 =={.translation-annotations}
 * In modern notation, the volume of a rectangular prism of
-    width $W = 10 \unit{rods}$,
+    breadth $B = 10 \unit{rods}$,
     depth $H = 5 \unit{rods}$, and
     length $L = 20 \unit{rods}$
   is
   $$
     \begin{aligned}
       V
-      &= W H L \\
+      &= B H L \\
       &=
         100 \unit{rules} \times 50 \unit{rules} \times 200 \unit{rules}
           \div
