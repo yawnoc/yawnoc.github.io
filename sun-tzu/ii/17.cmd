@@ -71,14 +71,14 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
 --
 
 <<
-  今有隄，下廣五丈，上廣三丈，高二丈，長六十尺，欲以一千尺作一方。問計幾何？
+  今有隄、下廣五丈、上廣三丈、高二丈、長六十尺、欲以一千尺作一方。問計幾何。
 \\
-  Now there be .[an] embankment, of
-    lower width five rods,
-    upper width three rods,
+  Suppose there be .[an] embankment, of
+    lower breadth five rods,
+    upper breadth three rods,
     height two rods, .[and]
     length sixty rules,
-  .[and we] wish to consider one thousand rules as one block.
+  .[and we] wish to use one thousand rules doing one block.
   .[We] ask, how many amounteth .[this] to?
 >>
 =={.translation-annotations}
@@ -89,19 +89,19 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
 ==
 
 <<
-  答曰：四十八方。
+  答曰、四十八方。
 \\
   Answer saith: forty-eight blocks.
 >>
 
 <<
-  法曰：置隄上廣三丈、下廣五丈。并之，得八丈。半之，得四丈。
+  法曰、置隄上廣三丈、下廣五丈、并之、得八丈、半之、得四丈。
 \\
   Method saith:
-  put .[down the] embankment's upper width, three rods,
-  .[and the] lower width, five rods.
-  Combining them, resulteth in eight rods.
-  Halving it, resulteth in four rods.
+  put .[down the] embankment's upper breadth three rods,
+  .[and] lower breadth five rods;
+  combining them, resulteth in eight rods,
+  .[and] halving it, resulteth in four rods.
 >>
 =={.translation-annotations}
 * .法： method
@@ -111,11 +111,11 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
 ==
 
 <<
-  以高二丈乘之，得八百尺。以長六十尺乘之，得四萬八千。
+  以高二丈乘之、得八百尺。以長六十尺乘之、得四萬八千。
 \\
-  Multiplying it by .[the] height, two rods,
+  Multiplying it by .[the] height two rods,
   resulteth in eight hundred rules.
-  Multiplying it by .[the] length, sixty rules,
+  Multiplying it by .[the] length sixty rules,
   resulteth in four myriad .[and] eight thousand.
 >>
 =={.translation-annotations}
@@ -123,14 +123,14 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
 ==
 
 <<
-  以一千尺除之，即得。
+  以一千尺除之、即得。
 \\
   Dividing it by one thousand rules, .[we] are done.
 >>
 =={.translation-annotations}
 * In modern notation, the volume of a trapezoidal prism of
-    upper width $A = 3 \unit{rods}$,
-    lower width $B = 5 \unit{rods}$,
+    upper breadth $A = 3 \unit{rods}$,
+    lower breadth $B = 5 \unit{rods}$,
     height $H = 2 \unit{rods}$, and
     length $L = 60 \unit{rules}$
   is
