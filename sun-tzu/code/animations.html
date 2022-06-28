@@ -12,56 +12,54 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/resources/styles/main.min.css">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
 <script defer src="/resources/scripts/rendering.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin onerror="this.removeAttribute('integrity');this.removeAttribute('onerror');this.setAttribute('href','/resources/katex/katex.min.css')">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin onerror="let a=document.createElement('script');a.setAttribute('src','/resources/katex/katex.min.js');a.setAttribute('onload', 'renderMaths()');document.head.appendChild(a);
-this.remove()" onload="renderMaths()"></script>
+<link rel="stylesheet" href="/resources/katex/katex.min.css">
+<script defer src="/resources/katex/katex.min.js" onload="renderMaths()"></script>
 <title>Sun Tzŭ multiplication &amp; division animations (Mathematica) | Conway's site</title>
 </head>
 <body>
 <header>
 <nav>
-<ul>
-<li><a href="/" title="Home page">Home</a>
+<ul class="sideways">
+<li>
+<a href="/" title="Home page">Home</a>
 </li>
-<li><a href="#" title="Jump back to top">Top</a>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
 </li>
-<li><a href="#multiplication" title="Multiplication">Multiplication</a>
+<li>
+<a href="#multiplication" title="Jump to Multiplication">Multiplication</a>
 </li>
-<li><a href="#division" title="Division">Division</a>
+<li>
+<a href="#division" title="Jump to Division">Division</a>
 </li>
 </ul>
 </nav>
 </header>
-<h1>Sun Tzŭ multiplication &amp; division animations (Mathematica)</h1>
+<h1><span class="romanised-untranslated" title="孫子">Sun Tzŭ</span> multiplication &amp; division animations (Mathematica)</h1>
 <noscript>
 <strong class="noscript">Enable JavaScript for equation rendering to work.</strong>
 </noscript>
-<div class="page-properties">
-Source: <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/code/animations.cmd">sun-tzu/code/animations.cmd</a><br>
-First created: 2019-05-26<br>
-Last modified: 2020-03-20
-</div>
 <p>
-<b>Code:</b>  <a href="https://github.com/yawnoc/sun-tzu-arithmetic">yawnoc/sun-tzu-arithmetic (GitHub)</a>
+See &lt;<a href="https://github.com/yawnoc/sun-tzu-arithmetic">https://github.com/yawnoc/sun-tzu-arithmetic</a>&gt;,
+which consists of crappy Mathematica code for the animations in my
+<a href="/sun-tzu/">translation of <span class="romanised-untranslated" title="孫子">Sun Tzŭ</span>'s Computational Classic</a>,
+in particular Vol. I <a href="/sun-tzu/i/8">¶8</a> &amp; <a href="/sun-tzu/i/13">¶13</a> (multiplcation)
+and <a href="/sun-tzu/i/9">¶9</a> &amp; <a href="/sun-tzu/i/14">¶14</a> (division).
 </p>
-<p>
-Mathematica code for the animations in my
-<a href="/sun-tzu/">translation of "Sun Tzŭ's Computational Classic"</a>;
-see Vol.&nbsp;I <a href="/sun-tzu/i/8">¶8</a> &amp;&nbsp;<a href="/sun-tzu/i/13">¶13</a> (multiplication)
-and <a href="/sun-tzu/i/9">¶9</a> &amp;&nbsp;<a href="/sun-tzu/i/14">¶14</a> (division).
-</p>
-<p>
-First change to the directory of <a href="https://github.com/yawnoc/sun-tzu-arithmetic/blob/master/SunTzu.wl"><code>SunTzu.wl</code></a>,
-then load the package
-</p>
-<pre><code>&lt;&lt; SunTzu`
-</code></pre>
-<p>
-and run the following:
-</p>
-<h2 id="multiplication"><a class="permalink" href="#multiplication" aria-label="Permalink"></a>Multiplication</h2>
+<ol>
+<li>
+Change to the directory of <a href="https://github.com/yawnoc/sun-tzu-arithmetic/blob/master/SunTzu.wl"><code>SunTzu.wl</code></a>.
+</li>
+<li>
+Load the package by running <code>&lt;&lt; SunTzu`</code>.
+</li>
+<li>
+Run the following:
+</li>
+</ol>
+<h2 id="multiplication"><a href="#multiplication" class="permalink" aria-label="Permalink"></a>Multiplication</h2>
 <pre><code>{
   {81, 81},
   {1989, 64},
@@ -70,8 +68,8 @@ and run the following:
 } /.
   {x_, y_} :&gt; MultiplyAnimation[x, y, Export -&gt; True]
 </code></pre>
-<div class="centred-block">
-<div class="overflowing">
+<div class="centred">
+<div class="wide">
 <table>
 <tr>
 <th><span class="js-maths">81 \times 81 = 6561</span></th>
@@ -88,7 +86,7 @@ and run the following:
 </table>
 </div>
 </div>
-<h2 id="division"><a class="permalink" href="#division" aria-label="Permalink"></a>Division</h2>
+<h2 id="division"><a href="#division" class="permalink" aria-label="Permalink"></a>Division</h2>
 <pre><code>{
   {100, 6},
   {1989, 64},
@@ -97,8 +95,8 @@ and run the following:
 } /.
   {x_, y_} :&gt; DivideAnimation[x, y, Export -&gt; True]
 </code></pre>
-<div class="centred-block">
-<div class="overflowing">
+<div class="centred">
+<div class="wide">
 <table>
 <tr>
 <th><span class="js-maths">100 \div 6 = 16 + \dfrac{4}{6}</span></th>
@@ -116,7 +114,18 @@ and run the following:
 </div>
 </div>
 <footer>
-©&nbsp;2019–2020&nbsp;Conway.
+© 2019–2022 Conway.
+<ul>
+<li>
+First created: 2019-06-09
+</li>
+<li>
+Last modified: 2022-06-27
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/code/animations.cmd"><code>sun-tzu/code/animations.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.5.0">CMDv4.5.0</a>
+</li>
+</ul>
 </footer>
 </body>
 </html>

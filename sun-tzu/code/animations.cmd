@@ -1,72 +1,75 @@
-{+ /resources/syntax/general.cmd +}
+< /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
+< /resources/rules/equations.cmdr
+< /resources/rules/translation.cmdr
+< /resources/rules/romanisation.cmdr
 
-{+ /resources/syntax/romanisations.cmd +}
-{+ /resources/syntax/sun-tzu.cmd +}
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
-%%
-  %title \sun-tzu multiplication \& division animations (Mathematica)
-  %date-created 2019-05-26
-  %date-modified 2020-03-20
-  \resources:maths
-  %description
+OrdinaryDictionaryReplacement: #.boilerplate-properties-override
+- queue_position: AFTER #.yawnoc.properties-override
+* %title --> Sun Tz(uu) multiplication & division animations (Mathematica)
+* %description -->
     Mathematica code generating animations for the \
-    Sunzi Suanjing multiplication \& division algorithms.
-%%
+    Sunzi Suanjing multiplication & division algorithms.
+* %date-created --> 2019-06-09
+* %date-modified --> 2022-06-27
+- concluding_replacements:
+    #backslash-continuations
+    #.yawnoc.typography
+    #.romanisation.special-characters
+    #escape-idle-html
 
-[[====
-* \header-link:home
-* \header-link:top
-* [Multiplication](#multiplication  Multiplication)
-* [Division](#division  Division)
-====]]
+RegexDictionaryReplacement: #.animation-images
+- queue_position: BEFORE #backslash-continuations
+* [!] \[ (?P<a> [0-9]+ ) [ ][*][ ] (?P<b> [0-9]+ ) \] -->
+    ![Animation for Sun Tz(uu) multiplication: \g<a> multiplied by \g<b>]\\
+      (/sun-tzu/code/multiply-\g<a>-\g<b>.gif)
+* [!] \[ (?P<a> [0-9]+ ) [ ][/][ ] (?P<b> [0-9]+ ) \] -->
+    ![Animation for Sun Tz(uu) division: \g<a> divided by \g<b>]\\
+      (/sun-tzu/code/divide-\g<a>-\g<b>.gif)
+- concluding_replacements:
+    #.romanisation.special-characters
 
-
-# %title #
-
-\noscript:maths
-
-[||||
-||||]
-
-
-----
-__Code:__  [yawnoc/sun-tzu-arithmetic (GitHub)][repo]
-----
-
-@@[repo]
-  https://github.com/yawnoc/sun-tzu-arithmetic
-@@
+%%%
 
 
-----
-Mathematica code for the animations in my
-[translation of "\sun-tzu's Computational Classic"] [""];
-see Vol.~I [\P8] ["i 8"] \&~[\P13] ["i 13"] (multiplication) 
-and [\P9] ["i 9"] \&~[\P14] ["i 14"] (division).
-----
+^^^^
+- !home
+- !top
+- [Multiplication](#multiplication "Jump to Multiplication")
+- [Division](#division "Jump to Division")
+^^^^
 
 
-@@[`SunTzu.wl`]
-  https://github.com/yawnoc/sun-tzu-arithmetic/blob/master/SunTzu.wl
-@@
+# (Sun Tz(uu)|孫子) multiplication & division animations (Mathematica)
 
-----
-First change to the directory of [`SunTzu.wl`],
-then load the package
-----
-``
-  << SunTzu`
-``
-----
-and run the following:
-----
+%%noscript-equations
+
+--
+See b<https://github.com/yawnoc/sun-tzu-arithmetic>,
+which consists of crappy Mathematica code for the animations in my
+[translation of (Sun Tz(uu)|孫子)'s Computational Classic],
+in particular Vol.~I [\P8] &~[\P13] (multiplcation)
+and [\P9] &~[\P14] (division).
+--
+++
+1. Change to the directory of [`SunTzu.wl`].
+2. Load the package by running ``<< SunTzu` ``.
+3. Run the following:
+++
+
+[translation of (Sun Tz(uu)|孫子)'s Computational Classic]: /sun-tzu/
+[\P8]: /sun-tzu/i/8
+[\P9]: /sun-tzu/i/9
+[\P13]: /sun-tzu/i/13
+[\P14]: /sun-tzu/i/14
+[`SunTzu.wl`]: https://github.com/yawnoc/sun-tzu-arithmetic/blob/master/SunTzu.wl
 
 
-
-##{#multiplication}
-  Multiplication
-##
-
+##{#multiplication} Multiplication
 
 ``
   {
@@ -78,61 +81,25 @@ and run the following:
     {x_, y_} :> MultiplyAnimation[x, y, Export -> True]
 ``
 
-||||||{.centred-block}
-||||{.overflowing}
+||||{.centred}
+||{.wide}
 ''''
-  ==
+  //
     ; $81 \times 81 = 6561$
     ; $1989 \times 64 = 127296$
     ; $1024 \times 1024 = 1048576$
     ; $246 \times 97531 = 23992626$
-  ==
-    , \multiplication-animation[81 * 81]
-    , \multiplication-animation[1989 * 64]
-    , \multiplication-animation[1024 * 1024]
-    , \multiplication-animation[246 * 97531]
+  //
+    , ![81 * 81]
+    , ![1989 * 64]
+    , ![1024 * 1024]
+    , ![246 * 97531]
 ''''
+||
 ||||
-||||||
 
 
-
-{%
-  \\multiplication[-]animation
-  \[
-      (?P<a> [0-9]+ )
-    [ ]
-      [*]
-    [ ]
-      (?P<b> [0-9]+ )
-  \]
-%
-  ![Animation for \\sun-tzu multiplication: \g<a> multiplied by \g<b>](
-    /sun-tzu/code/multiply-\g<a>-\g<b>.gif
-  )
-%}
-
-{%
-  \\division[-]animation
-  \[
-      (?P<a> [0-9]+ )
-    [ ]
-      [/]
-    [ ]
-      (?P<b> [0-9]+ )
-  \]
-%
-  ![Animation for \\sun-tzu division: \g<a> divided by \g<b>](
-    /sun-tzu/code/divide-\g<a>-\g<b>.gif
-  )
-%}
-
-
-
-##{#division}
-  Division
-##
-
+##{#division} Division
 
 ``
   {
@@ -144,21 +111,22 @@ and run the following:
     {x_, y_} :> DivideAnimation[x, y, Export -> True]
 ``
 
-||||||{.centred-block}
-||||{.overflowing}
+||||{.centred}
+||{.wide}
 ''''
-  ==
+  //
     ; $100 \div 6 = 16 + \dfrac{4}{6}$
     ; $1989 \div 64 = 31 + \dfrac{5}{64}$
     ; $6561 \div 9 = 729$
     ; $97531 \div 4 = 24382 + \dfrac{3}{4}$
-  ==
-    , \division-animation[100 / 6]
-    , \division-animation[1989 / 64]
-    , \division-animation[6561 / 9]
-    , \division-animation[97531 / 4]
+  //
+    , ![100 / 6]
+    , ![1989 / 64]
+    , ![6561 / 9]
+    , ![97531 / 4]
 ''''
+||
 ||||
-||||||
 
-%footer-element
+
+%%footer
