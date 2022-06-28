@@ -332,6 +332,9 @@ img.interview-guest, img.interview-host {
 .js-maths { /* noscript equations fallback */
   font-family: monospace;
 }
+.wide .js-maths {
+  white-space: pre;
+}
 div.js-maths {
   margin-top: 1em;
   margin-bottom: 1em;
