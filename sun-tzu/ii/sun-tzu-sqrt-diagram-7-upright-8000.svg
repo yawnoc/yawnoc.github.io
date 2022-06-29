@@ -26,6 +26,7 @@ text {
 }
 .subscript {
   font-size: 0.6px;
+  font-family: serif;
 }
 .variable {
   font-style: italic;
