@@ -24,7 +24,7 @@ text {
     refX="1" refY="0"
     markerUnits="userSpaceOnUse"
     markerWidth="1" markerHeight="0.35"
-    orient = "auto-start-reverse">
+    orient="auto-start-reverse">
     <path d="M 0, -0.3 L 0, 0.3 L 1, 0 z"/>
   </marker>
 </defs>
@@ -124,7 +124,7 @@ text {
 10,-3.29e-16
 "/>
 
-<line x1="0" y1="0" x2="1" y2="-2" marker-end = "url(#arrowhead)"/>
+<line x1="0" y1="0" x2="1" y2="-2" marker-end="url(#arrowhead)"/>
 <text x="1" y="-2" dx="-0.4em" dy="-0.3em" class="variable">u</text>
 <text x="0" y="0" dx="1.17em" dy="-0.5em" class="variable">ϕ</text>
 
