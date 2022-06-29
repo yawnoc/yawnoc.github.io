@@ -40,9 +40,11 @@ text {
 <text x="5" y="1">6</text>
 <text x="6" y="1">7</text>
 
-<text x="-3" y="2" class="colour-v"><tspan class="variable">s</tspan><tspan dy="0.25em" class="subscript">1</tspan></text>
-<text x="-1" y="2" class="colour-v" lang="zh-Hant">方法</text>
-<text x="2" y="2" class="colour-v">4</text>
+<g class="colour-v">
+  <text x="-3" y="2"><tspan class="variable">s</tspan><tspan dy="0.25em" class="subscript">1</tspan></text>
+  <text x="-1" y="2" lang="zh-Hant">方法</text>
+  <text x="2" y="2">4</text>
+</g>
 
 <text x="-3" y="3" class="variable">L</text>
 <text x="-1" y="3" lang="zh-Hant">下法</text>

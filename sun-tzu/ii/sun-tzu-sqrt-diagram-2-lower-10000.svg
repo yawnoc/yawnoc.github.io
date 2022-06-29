@@ -47,9 +47,11 @@ text {
 <text x="5" y="1">6</text>
 <text x="6" y="1">7</text>
 
-<text x="-3" y="2" class="variable colour-r">L</text>
-<text x="-1" y="2" class="colour-r" lang="zh-Hant">下法</text>
-<text x="2" y="2" class="colour-r">1</text>
+<g class="colour-r">
+  <text x="-3" y="2" class="variable">L</text>
+  <text x="-1" y="2" lang="zh-Hant">下法</text>
+  <text x="2" y="2">1</text>
+</g>
 <path d="M 6 2 m -0.1 -0.3 a 2 2 0 0 0 -1.7 0" class="step" marker-end="url(#arrowhead)"/>
 <path d="M 4 2 m -0.1 -0.3 a 2 2 0 0 0 -1.5 0" class="step" marker-end="url(#arrowhead)"/>
 

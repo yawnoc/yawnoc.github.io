@@ -24,14 +24,16 @@ text {
 }
 </style>
 
-<text x="-3" y="1" class="variable colour-b">d</text>
-<text x="-1" y="1" class="colour-b" lang="zh-Hant">實</text>
-<text x="1" y="1" class="colour-b">2</text>
-<text x="2" y="1" class="colour-b">3</text>
-<text x="3" y="1" class="colour-b">4</text>
-<text x="4" y="1" class="colour-b">5</text>
-<text x="5" y="1" class="colour-b">6</text>
-<text x="6" y="1" class="colour-b">7</text>
+<g class="colour-b">
+  <text x="-3" y="1" class="variable">d</text>
+  <text x="-1" y="1" lang="zh-Hant">實</text>
+  <text x="1" y="1">2</text>
+  <text x="2" y="1">3</text>
+  <text x="3" y="1">4</text>
+  <text x="4" y="1">5</text>
+  <text x="5" y="1">6</text>
+  <text x="6" y="1">7</text>
+</g>
 
 <rect x="-2.25" y="0" width="9" height="1.5" class="border"/>
 

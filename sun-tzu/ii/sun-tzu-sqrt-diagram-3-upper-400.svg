@@ -27,9 +27,11 @@ text {
 }
 </style>
 
-<text x="4" y="-1.4" class="colour-g"><tspan class="variable">a</tspan><tspan dy="0.25em" class="subscript">1</tspan></text>
-<text x="-1" y="0" class="colour-g" lang="zh-Hant">上商</text>
-<text x="4" y="0" class="colour-g">4</text>
+<g class="colour-g">
+  <text x="4" y="-1.4"><tspan class="variable">a</tspan><tspan dy="0.25em" class="subscript">1</tspan></text>
+  <text x="-1" y="0" lang="zh-Hant">上商</text>
+  <text x="4" y="0">4</text>
+</g>
 
 <text x="-3" y="1" class="variable">d</text>
 <text x="-1" y="1" lang="zh-Hant">實</text>
