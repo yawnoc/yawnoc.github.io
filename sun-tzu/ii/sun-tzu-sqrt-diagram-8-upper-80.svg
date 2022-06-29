@@ -28,17 +28,6 @@ text {
 }
 </style>
 
-<defs>
-  <marker
-    id="arrowhead" viewBox="0 -0.15 0.5 0.3"
-    refX="0.5" refY="0"
-    markerUnits="userSpaceOnUse"
-    markerWidth="0.5" markerHeight="0.15"
-    orient="auto-start-reverse">
-    <path d="M 0, -0.15 L 0, 0.15 L 0.5, 0 z"/>
-  </marker>
-</defs>
-
 <text x="4" y="-1.4"><tspan class="variable">a</tspan><tspan dy="0.25em" class="subscript">1</tspan></text>
 <text x="4" y="0">4</text>
 
