@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-4 -2.5 12 8" width="300px" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+path, rect {
+  stroke: black;
+  vector-effect: non-scaling-stroke;
+}
+text {
+  font-family: sans-serif;
+  font-size: 0.8px;
+  text-anchor: middle;
+}
+.border {
+  fill: none;
+  stroke: grey;
+}
+.colour-r {
+  fill: crimson;
+}
+.colour-v {
+  fill: darkviolet;
+}
+.step {
+  fill: none;
+}
+.subscript {
+  font-size: 0.6px;
+  font-family: serif;
+}
+.variable {
+  font-style: italic;
+  font-family: serif;
+}
+</style>
+
+<defs>
+  <marker
+    id="arrowhead" viewBox="0 -0.15 0.5 0.3"
+    refX="0.5" refY="0"
+    markerUnits="userSpaceOnUse"
+    markerWidth="0.5" markerHeight="0.15"
+    orient="auto-start-reverse">
+    <path d="M 0, -0.15 L 0, 0.15 L 0.5, 0 z"/>
+  </marker>
+</defs>
+
+<text x="4" y="-1.4"><tspan class="variable">a</tspan><tspan dy="0.25em" class="subscript">1</tspan></text>
+<text x="4" y="0">4</text>
+
+<text x="5" y="-1.4"><tspan class="variable">a</tspan><tspan dy="0.25em" class="subscript">2</tspan></text>
+<text x="-1" y="0" lang="zh-Hant">上商</text>
+<text x="5" y="0">8</text>
+
+<text x="-3" y="1" class="variable">d</text>
+<text x="-1" y="1" lang="zh-Hant">實</text>
+<text x="3" y="1">4</text>
+<text x="4" y="1">1</text>
+<text x="5" y="1">6</text>
+<text x="6" y="1">7</text>
+
+<g class="colour-v">
+  <text x="-3" y="2"><tspan class="variable">s</tspan><tspan dy="0.25em" class="subscript">1</tspan></text>
+  <text x="-1" y="2" lang="zh-Hant">方法</text>
+  <text x="4" y="2">8</text>
+</g>
+<path d="M 3 2 m -0.1 -0.3 a 1.5 2 0 0 1 0.7 0" class="step" marker-end="url(#arrowhead)"/>
+
+<g class="colour-v">
+  <text x="-3" y="3"><tspan class="variable">s</tspan><tspan dy="0.25em" class="subscript">2</tspan></text>
+  <text x="-1" y="3" lang="zh-Hant">廉法</text>
+  <text x="4" y="3">1</text>
+  <text x="5" y="3">6</text>
+</g>
+<path d="M 3 3 m -0.1 -0.3 a 1.5 2 0 0 1 0.7 0" class="step" marker-end="url(#arrowhead)"/>
+
+<g class="colour-r">
+  <text x="-3" y="4" class="variable">L</text>
+  <text x="-1" y="4" lang="zh-Hant">下法</text>
+  <text x="6" y="4">1</text>
+</g>
+<path d="M 4 4 m -0.1 -0.3 a 2 2 0 0 1 1.7 0" class="step" marker-end="url(#arrowhead)"/>
+
+<rect x="-2.25" y="-1" width="9" height="5.5" class="border"/>
+
+</svg>
