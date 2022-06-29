@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-4 -0.7 12 3" width="300px" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+rect {
+  stroke: black;
+  vector-effect: non-scaling-stroke;
+}
+text {
+  font-family: sans-serif;
+  font-size: 0.8px;
+  text-anchor: middle;
+}
+.border {
+  fill: none;
+  stroke: grey;
+}
+.colour-b {
+  fill: mediumblue;
+}
+.variable {
+  font-style: italic;
+  font-family: serif;
+}
+</style>
+
+<text x="-3" y="1" class="variable colour-b">d</text>
+<text x="-1" y="1" class="colour-b" lang="zh-Hant">實</text>
+<text x="1" y="1" class="colour-b">2</text>
+<text x="2" y="1" class="colour-b">3</text>
+<text x="3" y="1" class="colour-b">4</text>
+<text x="4" y="1" class="colour-b">5</text>
+<text x="5" y="1" class="colour-b">6</text>
+<text x="6" y="1" class="colour-b">7</text>
+
+<rect x="-2.25" y="0" width="9" height="1.5" class="border"/>
+
+</svg>
