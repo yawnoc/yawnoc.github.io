@@ -24,7 +24,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
 * %%surrounds-previous --> [<-- \P18](18)
-* %%surrounds-current --> \P10
+* %%surrounds-current --> \P19
 * %%surrounds-next --> [\P20 -->](20)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
