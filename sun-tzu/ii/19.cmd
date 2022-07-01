@@ -200,7 +200,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   .[its] name being ::{.colour-v} .[the] upright divisor::.
 >>
 ===={.translation-annotations}
-* .方法： upright divisor; \or square divisor
+* .方： upright; \or square
   --
   This is one of three named divisors whose names relate to integrity
   (or to geometry, depending on how you want to render it):
@@ -293,15 +293,15 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  ::{.colour-v}方法一退::，::{.colour-r}下法再退::。
+  ::{.colour-v}方法一退::、::{.colour-r}下法再退::。
 \\
   ::{.colour-v} .[The] upright divisor retreateth once::;
-  ::{.colour-r} .[the] lower divisor retreateth again::.
+  ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
 =={.translation-annotations}
 * \a[40] and \c[52186] are missing .方法 in .方法一退.
 
-* .再： again; \or twice
+* .再： twice; \lit again
 
 * In modern notation:
   $$
@@ -325,10 +325,10 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  復::{.colour-g}置上商八十::，以次前商。
+  復::{.colour-g}置上商八十::、以次前商。
 \\
   ::{.colour-g} Put:: again ::{.colour-g} .[for the] upper quotient eighty::,
-  to be next .[after the] quotient .[digit] before.
+  to .[be] next .[after the] former quotient.
 >>
 =={.translation-annotations}
 * The <span class="colour-g">__tens digit of the upper quotient__~(.上商)</span>
@@ -357,14 +357,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  副::{.colour-v}置八百::於方法之下，下法之上，名為::{.colour-v}廉法::。
+  副::{.colour-v}置八百::於方法之下、下法之上、名為::{.colour-v}廉法::。
 \\
   Subsidiarily ::{.colour-v} put eight hundred:: below .[the] upright divisor,
-  .[and] above .[the] lower divisor;
-  .[its] name be ::{.colour-v} .[the] incorrupt divisor::.
+  .[and] above .[the] lower divisor,
+  .[its] name being ::{.colour-v} .[the] incorrupt divisor::.
 >>
 =={.translation-annotations}
-* .廉： incorrupt
+* .廉法： incorrupt; \or side
 
 * The second straight divisor is the <span class="colour-v">__incorrupt divisor__~(.廉法)</span>
   $$
