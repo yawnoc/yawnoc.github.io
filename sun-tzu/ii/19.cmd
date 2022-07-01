@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P19"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P19
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-29
+* %date-modified --> 2022-07-01
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -68,16 +68,16 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 --
 
 <<
-  今有積二十三萬四千五百六十七步。問為方幾何？
+  今有積二十三萬四千五百六十七步。問為方幾何。
 \\
-  Now there be area,
+  Suppose there be area,
   twenty-three myriad, four thousand, five hundred .[and] sixty-seven paces.
-  .[We] ask, how much .[by edge] be .[this a] square?
+  .[We] ask, how much be .[this a] square .[of edge]?
 >>
 
 
 <<
-  答曰：四百八十四步九百六十八分步之三百一十一。
+  答曰、四百八十四步九百六十八分步之三百一十一。
 \\
   Answer saith:
     four hundred .[and] eighty-four paces
@@ -96,10 +96,10 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  術曰：::{.colour-b}置積::二十三萬四千五百六十七步為::{.colour-b}實::。
+  術曰、::{.colour-b}置積::二十三萬四千五百六十七步為::{.colour-b}實::。
 \\
-  Method saith: ::{.colour-b} put .[down the] area::,
-  twenty-three myriad, four thousand, five hundred .[and] sixty-seven paces,
+  Method saith: ::{.colour-b} put .[down the] area::
+  twenty-three myriad, four thousand, five hundred .[and] sixty-seven paces
   as ::{.colour-b} .[the] dividend::.
 >>
 =={.translation-annotations}
@@ -118,15 +118,15 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  次::{.colour-r}借一算為下法::。::{.colour-r}步之，超一位，至百而止::。
+  次::{.colour-r}借一算為下法::。::{.colour-r}步之、超一位、至百而止::。
 \\
   Next ::{.colour-r} borrow one rod .[to] be .[the] lower divisor::.
   ::{.colour-r}
     Step it .[forth], jumping over one place,
-    unto .[the] hundreds and stop::.
+    unto .[the] hundreds and halting::.
 >>
 =={.translation-annotations}
-* .超：跳也； jumping over; \or skipping
+* .超： leaping over
   --
   Taking double steps, so that 100 is in fact 10000.
   --

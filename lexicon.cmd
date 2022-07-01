@@ -643,6 +643,11 @@ See also: [幾何]
 * double; times
 ==
 
+8 [借] U+501F
+==
+* borrow; lend
+==
+
 8 [倡] U+5021
 ==
 * lead
@@ -3137,6 +3142,11 @@ See also: [有餘]
 
 ### ⽋ (lack) U+2F4B
 
+2 [次] U+6B21
+==
+* next
+==
+
 7 [欲] U+6B32
 ==
 * wish; desire
@@ -4226,9 +4236,15 @@ See also: [符驗]
 * strategy; scheme
 ==
 
+8 [筭] U+7B6D
+==
+* rod
+==
+
 8 [算] U+7B97
 ==
 * compute
+* \var [筭]
 ==
 
 
@@ -5147,6 +5163,11 @@ See also: [平行]
 3 [起] U+8D77
 ==
 * arise; \met begin
+==
+
+5 [超] U+8D85
+==
+* leap (over)
 ==
 
 
