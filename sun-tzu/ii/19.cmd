@@ -239,17 +239,10 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 <<
   ::{.colour-g}命上商四百::::{.colour-b}除實::。
 \\
-  ::{.colour-g} Name .[the] upper quotient's four hundred::,
+  ::{.colour-g} Name .[the] upper quotient's four hundred::
   ::{.colour-b} .[and] remove .[this] from .[the] dividend::.
 >>
 =={.translation-annotations}
-* .除： remove .[this] from
-  --
-  This is also the word for division.
-  Division is thought of as repeated removal of the divisor
-  (in analogy to multiplication being repeated addition).
-  --
-
 * As written, the text says $\colb{d} := \colb{d} - \colg{400^2}$,
   but for the purpose of understanding how this step fits in with the others,
   this is best written
@@ -276,7 +269,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  除訖，::{.colour-v}倍方法::。
+  除訖、::{.colour-v}倍方法::。
 \\
   .[The] removal finished, ::{.colour-v} double .[the] upright divisor::.
 >>
