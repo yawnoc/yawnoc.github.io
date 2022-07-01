@@ -389,11 +389,11 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  ::{.colour-v}方、廉各命::::{.colour-g}上商八十::，以::{.colour-b}除實::。
+  ::{.colour-v}方廉各命::::{.colour-g}上商八十::、以::{.colour-b}除實::。
 \\
   ::{.colour-v} Each of .[the] upright .[and the] incorrupt nameth::
   ::{.colour-g} .[the] upper quotient's eighty::,
-  to be ::{.colour-b} removed from .[the] dividend::.
+  to ::{.colour-b} remove from .[the] dividend::.
 >>
 =={.translation-annotations}
 * \a[40] and \c[52186] are missing .實.
@@ -423,7 +423,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  除訖，::{.colour-v}倍廉法::，上從方法。
+  除訖、::{.colour-v}倍廉法::、上從方法。
 \\
   .[The] removal finished, ::{.colour-v} double .[the] incorrupt divisor::,
   .[which] followeth .[the] upright divisor above.
@@ -451,17 +451,19 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  ::{.colour-v}方法一退::，::{.colour-r}下法再退::。
+  ::{.colour-v}方法一退::、::{.colour-r}下法再退::。
 \\
   ::{.colour-v} .[The] upright divisor retreateth once::;
-  ::{.colour-r} .[the] lower divisor retreateth again::.
+  ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
 =={.translation-annotations}
 * \a[40] erroneously has .一退方法 for .方法一退.
 
-* Presumably .上從方法 from the previous sentence tells us that
-  the incorrupt divisor~(.廉法) is to
-  "follow .[the] upright divisor~(.方法) above"
+* .再： twice; \lit again
+
+* .上從方法 from the previous sentence tells us that
+  the incorrupt divisor~(.廉法 $s_2$) is to
+  "follow .[the] upright divisor~(.方法 $s_1$) above"
   in its retreat.
 
 * In modern notation:
@@ -488,10 +490,10 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  復::{.colour-g}置上商四::，以次前。
+  復::{.colour-g}置上商四::、以次前。
 \\
   ::{.colour-g} Put:: again ::{.colour-g} .[for the] upper quotient four::,
-  to be next .[after the digit] before.
+  to .[be] next .[after the] former.
 >>
 =={.translation-annotations}
 * The <span class="colour-g">__ones digit of the upper quotient__~(.上商)</span>
@@ -522,17 +524,17 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  副::{.colour-v}置四::於方法之下，下法之上，名曰::{.colour-v}隅法::。
+  副::{.colour-v}置四::於方法之下、下法之上、名曰::{.colour-v}隅法::。
 \\
   Subsidiarily ::{.colour-v} put four:: below .[the] upright divisor,
-  .[and] above .[the] lower divisor;
-  .[its] name .[be] called ::{.colour-v} .[the] honest divisor::.
+  .[and] above .[the] lower divisor,
+  .[its] name .[being] called ::{.colour-v} .[the] moral divisor::.
 >>
 =={.translation-annotations}
-* .隅：廉也； honest
+* .隅： moral; \or corner
 
 * The third straight divisor is the
-  <span class="colour-v">__honest divisor__~(.隅法)</span>
+  <span class="colour-v">__moral divisor__~(.隅法)</span>
   $$
     \colv{s_3}
     := \colg{a_3} \colr{L}
@@ -556,11 +558,11 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  ::{.colour-v}方、廉、隅各命::::{.colour-g}上商四::，以::{.colour-b}除實::。
+  ::{.colour-v}方廉隅各命::::{.colour-g}上商四::、以::{.colour-b}除實::。
 \\
-  ::{.colour-v} Each of .[the] upright, .[the] incorrupt .[and the] honest nameth::
+  ::{.colour-v} Each of .[the] upright, .[the] incorrupt, .[and the] moral nameth::
   ::{.colour-g} .[the] upper quotient's four::,
-  to be ::{.colour-b} removed from .[the] dividend::.
+  to ::{.colour-b} remove from .[the] dividend::.
 >>
 =={.translation-annotations}
 * \a[40] is missing .以.
@@ -591,13 +593,13 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  除訖，::{.colour-v}倍隅法::，從方法。
+  除訖、::{.colour-v}倍隅法::、從方法。
 \\
-  .[The] removal finished, ::{.colour-v} double .[the] honest divisor::,
+  .[The] removal finished, ::{.colour-v} double .[the] moral divisor::,
   .[which] followeth .[the] upright divisor.
 >>
 =={.translation-annotations}
-* \a[40] is missing .倍隅法，從方法.
+* \a[40] is missing .倍隅法、從方法.
 
 * In modern notation:
   $$
@@ -620,13 +622,13 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  ::{.colour-g}上商得四百八十四::，\
-  ::{.colour-v}下法得九百六十八::，\
+  ::{.colour-g}上商得四百八十四::、\
+  ::{.colour-v}下法得九百六十八::、\
   ::{.colour-b}不盡三百一十一::。
 \\
   ::{.colour-g} .[The] upper quotient resulteth in four hundred .[and] eighty-four::,
   ::{.colour-v} .[and the] lower divisors result in nine hundred .[and] sixty-eight::,
-  ::{.colour-b} .[with] remainder three hundred .[and] eleven::.
+  ::{.colour-b} remainder three hundred .[and] eleven::.
 >>
 =={.translation-annotations}
 * .下法： lower divisors
@@ -634,9 +636,9 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   Confusingly, this refers not to the lower divisor~(.下法),
     currently $\colr{L = 1}$,
   but to the total of the three straight divisors,
-    upright ($\colv{s_1}$),
-    incorrupt ($\colv{s_2}$), and
-    honest ($\colv{s_3}$).
+    the upright ($\colv{s_1}$),
+    the incorrupt ($\colv{s_2}$), and
+    the moral ($\colv{s_3}$).
   --
 
 * In modern notation:
@@ -747,7 +749,7 @@ proceeds thus:
     The first three are named:
       $\colv{s_1}$ upright~(.方),
       $\colv{s_2}$ incorrupt~(.廉), and
-      $\colv{s_3}$ honest~(.隅).
+      $\colv{s_3}$ moral~(.隅).
 
   * Update the <span class="colour-b">dividend~(.實)</span>:
     $$
