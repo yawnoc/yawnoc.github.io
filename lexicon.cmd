@@ -1347,6 +1347,12 @@ See also: [同式]
 * [:speech-assist:]
 ==
 
+8 [商] U+5546
+==
+* merchant
+* quotient
+==
+
 8 [問] U+554F
 ==
 * [:verb:] ask; enquire; question
@@ -2084,6 +2090,12 @@ See also: [參差]
 [入聲]
 ==
 * measure (length)
+==
+
+10 [廉] U+5EC9
+==
+* incorrupt
+* side
 ==
 
 12 [廢] U+5EE2
@@ -5689,6 +5701,12 @@ See also: [世間]
 9 [隄] U+9684
 ==
 * \var [堤]
+==
+
+9 [隅] U+9685
+==
+* corner
+* moral
 ==
 
 13 [隨] U+96A8

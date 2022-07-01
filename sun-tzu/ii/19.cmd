@@ -193,25 +193,25 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 
 ||||{.group}
 <<
-  副::{.colour-v}置四萬::於實之下，下法之上，名為::{.colour-v}方法::。
+  副::{.colour-v}置四萬::於實之下、下法之上、名為::{.colour-v}方法::。
 \\
   Subsidiarily ::{.colour-v} put four myriad:: below .[the] dividend,
-  .[and] above .[the] lower divisor;
-  .[its] name be ::{.colour-v} .[the] upright divisor::.
+  .[and] above .[the] lower divisor,
+  .[its] name being ::{.colour-v} .[the] upright divisor::.
 >>
 ===={.translation-annotations}
-* .方： (morally) upright
+* .方法： upright divisor; \or square divisor
   --
-  .方法 is one of three named divisors whose names relate to integrity:
+  This is one of three named divisors whose names relate to integrity
+  (or to geometry, depending on how you want to render it):
   --
   ==
-  * .方法： upright divisor ($s_1$)
-  * .廉法： incorrupt divisor ($s_2$)
-  * .隅法： honest divisor ($s_3$)
+  * .方法： upright divisor (\or square divisor), $s_1$
+  * .廉法： incorrupt divisor (\or side divisor), $s_2$
+  * .隅法： moral divisor (\or corner divisor), $s_3$
   ==
   --
-  These shall henceforth be referred to as the __straight divisors__
-  (straight as in 'straight copper' vs 'bent copper').
+  These shall henceforth be referred to as the __straight divisors__.
   --
 
 * The first straight divisor is the
