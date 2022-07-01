@@ -68,14 +68,14 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 --
 
 <<
-  今有積三萬五千步。問為圓幾何？
+  今有積三萬五千步。問為圓幾何。
 \\
-  Now there be area, three myriad .[and] five thousand paces.
-  .[We] ask, how much .[by circumference] be .[this a] circle?
+  Suppose there be area, three myriad .[and] five thousand paces.
+  .[We] ask, how much be .[this a] circle .[of circumference]?
 >>
 
 <<
-  答曰：六百四十八步一千二百九十六分步之九十六。
+  答曰、六百四十八步一千二百九十六分步之九十六。
 \\
   Answer saith:
     six hundred .[and] forty-eight paces
@@ -85,11 +85,11 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 >>
 
 <<
-  術曰：置積三萬五千步。以一十二乘之，得四十二萬為::{.colour-b}實::。
+  術曰、置積三萬五千步、以一十二乘之、得四十二萬為::{.colour-b}實::。
 \\
   Method saith:
-  put .[down the] area, three myriad .[and] five thousand paces.
-  Multiplying it by twelve,
+  put .[down the] area, three myriad .[and] five thousand paces,
+  .[and] multiplying it by twelve,
   resulteth in forty-two myriad as ::{.colour-b} .[the] dividend::.
 >>
 =={.translation-annotations}
