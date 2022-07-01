@@ -548,9 +548,9 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
         the dividend 4167, \
         the upright divisor 800, \
         the incorrupt divisor 160, \
-        the honest divisor 4, and \
+        the moral divisor 4, and \
         the lower divisor 1.]\
-      (sun-tzu-sqrt-diagram-14-honest-4.svg)
+      (sun-tzu-sqrt-diagram-14-moral-4.svg)
   ||
 ==
 ||||
@@ -583,7 +583,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
         the dividend 311, \
         the upright divisor 800, \
         the incorrupt divisor 160, \
-        the honest divisor 4, and \
+        the moral divisor 4, and \
         the lower divisor 1.]\
       (sun-tzu-sqrt-diagram-15-dividend-311.svg)
   ||
@@ -612,9 +612,9 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
         the dividend 311, \
         the upright divisor 800, \
         the incorrupt divisor 160, \
-        the honest divisor 8, and \
+        the moral divisor 8, and \
         the lower divisor 1.]\
-      (sun-tzu-sqrt-diagram-16-honest-8.svg)
+      (sun-tzu-sqrt-diagram-16-moral-8.svg)
   ||
 ==
 ||||
@@ -658,7 +658,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
         the dividend 311, \
         the upright divisor 800, \
         the incorrupt divisor 160, \
-        the honest divisor 8, and \
+        the moral divisor 8, and \
         the lower divisor 1.]\
       (sun-tzu-sqrt-diagram-17-final.svg)
   ||
