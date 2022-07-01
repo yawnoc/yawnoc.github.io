@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Sunzi Suanjing, 《孫子算經》, \
     `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-05-04
-* %date-modified --> 2022-06-12
+* %date-modified --> 2022-07-01
 - concluding_replacements:
     #.romanisation.special-characters
     #.yawnoc.double-quotes-in-attributes
@@ -43,14 +43,6 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 --
 Work in progress for a fully annotated translation
 of _{l=zh} Sunzi Suanjing_ into English.
---
---
-NOTE:
-  an effort is currently underway to convert pages under `/sun-tzu/`
-  from Conway-Markdown v3 (legacy) to v4.
-  Pages that have already been converted will have the line
-  "Compiled from u`<var>CMD file</var>` with CMDv4.<var>x</var>.<var>y</var>"
-  in the footer.
 --
 
 
