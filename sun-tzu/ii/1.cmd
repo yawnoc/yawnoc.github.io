@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P1"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-22
+* %date-modified --> 2022-07-01
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -215,7 +215,7 @@ of (Sun Tz(uu)|孫子)'s Computational Classic:
 >>
 
 <<
-  （等數約之，即除也。其所以相減者，皆等數之重疊。故以等數約之。）
+  （等數約之、即除也。其所以相減者、皆等數之重疊。故以等數約之。）
 \\
   (.[To] reduce them .[with the] equal number, is .[to] divide .[them].
   Those of them by which .[we have] mutually subtracted,

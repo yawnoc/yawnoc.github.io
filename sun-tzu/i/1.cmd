@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P1"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-12
+* %date-modified --> 2022-07-01
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -85,7 +85,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
   has .忽、蜘蛛網也, "floss, .[a] spider's web".
   --
 
-* \c[52058] has .蠶所生，吐絲為忽.
+* \c[52058] has .蠶所生、吐絲為忽.
 ==
 
 <<

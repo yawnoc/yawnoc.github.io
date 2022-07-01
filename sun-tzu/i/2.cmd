@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P2"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P2
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-12
+* %date-modified --> 2022-07-01
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -114,7 +114,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. <br>
 
 * .銖： dram
   --
-  .銖， \C ch(u")1, \M zh(u-)
+  .銖、 \C ch(u")1, \M zh(u-)
   --
   --
   (Chu|銖)~(.銖), of the order two grams.
