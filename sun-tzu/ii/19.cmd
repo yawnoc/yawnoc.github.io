@@ -122,7 +122,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 \\
   Next ::{.colour-r} borrow one rod .[to] be .[the] lower divisor::.
   ::{.colour-r}
-    Step it .[forth], jumping over one place,
+    Step it .[forth], leaping over one place,
     unto .[the] hundreds and halting::.
 >>
 =={.translation-annotations}

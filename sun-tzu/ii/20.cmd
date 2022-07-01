@@ -117,7 +117,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 \\
   Next ::{.colour-r} borrow one rod .[to] be .[the] lower divisor::.
   ::{.colour-r}
-    Step it .[forth], jumping over one place,
+    Step it .[forth], leaping over one place,
     unto .[the] hundreds and stop::.
 >>
 
