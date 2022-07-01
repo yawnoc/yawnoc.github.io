@@ -172,74 +172,83 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 >>
 
 <<
-  副::{.colour-v}置四百::於方法之下，下法之上，名為::{.colour-v}廉法::。
+  副::{.colour-v}置四百::於方法之下、下法之上、名為::{.colour-v}廉法::。
 \\
   Subsidiarily ::{.colour-v} put four hundred:: below .[the] upright divisor,
-  .[and] above .[the] lower divisor;
-  .[its] name be ::{.colour-v} .[the] incorrupt divisor::.
->>
-
-<<
-  ::{.colour-v}方、廉各命::::{.colour-g}上商四十::，以::{.colour-b}除實::。
-\\
-  ::{.colour-v} Each of .[the] upright .[and the] incorrupt nameth::
-  ::{.colour-g} .[the] upper quotient's forty::,
-  to be ::{.colour-b} removed from .[the] dividend::.
+  .[and] above .[the] lower divisor,
+  .[its] name being ::{.colour-v} .[the] incorrupt divisor::.
 >>
 =={.translation-annotations}
-* \a[42] and \c[52189] are missing 四十 after 上商.
+* .廉法： incorrupt; \or side
 ==
 
 <<
-  除訖，::{.colour-v}倍廉法::，從方法。
+  ::{.colour-v}方廉各命::::{.colour-g}上商四十::、以::{.colour-b}除實::。
+\\
+  ::{.colour-v} Each of .[the] upright .[and the] incorrupt nameth::
+  ::{.colour-g} .[the] upper quotient's forty::,
+  to ::{.colour-b} remove from .[the] dividend::.
+>>
+=={.translation-annotations}
+* \a[42] and \c[52189] are missing .四十 after .上商.
+==
+
+<<
+  除訖、::{.colour-v}倍廉法::、從方法。
 \\
   .[The] removal finished, ::{.colour-v} double .[the] incorrupt divisor::,
   .[which] followeth .[the] upright divisor.
 >>
 
 <<
-  ::{.colour-v}方法一退::，::{.colour-r}下法再退::。
+  ::{.colour-v}方法一退::、::{.colour-r}下法再退::。
 \\
   ::{.colour-v} .[The] upright divisor retreateth once::;
-  ::{.colour-r} .[the] lower divisor retreateth again::.
+  ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
+=={.translation-annotations}
+* .再： twice; \lit again
+==
 
 <<
-  復::{.colour-g}置上商八::，次前商。
+  復::{.colour-g}置上商八::、次前商。
 \\
   ::{.colour-g} Put:: again ::{.colour-g} .[for the] upper quotient eight::,
-  next .[after the] quotient .[digit] before.
+  next .[after the] former quotient.
 >>
 
 <<
-  副::{.colour-v}置八::於方法之下，下法之上，名為::{.colour-v}隅法::。
+  副::{.colour-v}置八::於方法之下、下法之上、名為::{.colour-v}隅法::。
 \\
   Subsidiarily ::{.colour-v} put eight:: below .[the] upright divisor,
-  .[and] above .[the] lower divisor;
-  .[its] name be ::{.colour-v} .[the] honest divisor::.
+  .[and] above .[the] lower divisor,
+  .[its] name being ::{.colour-v} .[the] moral divisor::.
 >>
+=={.translation-annotations}
+* .隅： moral; \or corner
+==
 
 <<
-  ::{.colour-v}方、廉、隅各命::::{.colour-g}上商八::，以::{.colour-b}除實::。
+  ::{.colour-v}方廉隅各命::::{.colour-g}上商八::、以::{.colour-b}除實::。
 \\
-  ::{.colour-v} Each of .[the] upright, .[the] incorrupt .[and the] honest nameth::
+  ::{.colour-v} Each of .[the] upright, .[the] incorrupt, .[and the] moral nameth::
   ::{.colour-g} .[the] upper quotient's eight::,
-  to be ::{.colour-b} removed from .[the] dividend::.
+  to ::{.colour-b} remove from .[the] dividend::.
 >>
 =={.translation-annotations}
 * \c[52189] erroneously has .上前 for .上商八.
 ==
 
 <<
-  除訖，::{.colour-v}倍隅法::，從方法。
+  除訖、::{.colour-v}倍隅法::、從方法。
 \\
-  .[The] removal finished, ::{.colour-v} double .[the] honest divisor::,
+  .[The] removal finished, ::{.colour-v} double .[the] moral divisor::,
   .[which] followeth .[the] upright divisor.
 >>
 
 <<
-  ::{.colour-g}上商得六百四十八::，\
-  ::{.colour-v}下法得一千二百九十六::，\
+  ::{.colour-g}上商得六百四十八::、\
+  ::{.colour-v}下法得一千二百九十六::、\
   ::{.colour-b}不盡九十六::。
 \\
   ::{.colour-g}
@@ -247,11 +256,11 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   ::{.colour-v}
     .[and the] lower divisors result in
     one thousand, two hundred .[and] ninety-six::,
-  ::{.colour-b} .[with] remainder ninety-six::.
+  ::{.colour-b} remainder ninety-six::.
 >>
 =={.translation-annotations}
-* \a[42] is missing 得 after 上商,
-  and erroneously has 一千二百九十七 for 一千二百九十六 both here
+* \a[42] is missing .得 after .上商,
+  and erroneously has .一千二百九十七 for .一千二百九十六 both here
   and in the line to follow.
 ==
 
@@ -264,6 +273,14 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
       ::{.colour-v} one thousand, two hundred .[and] ninety-sixths::
     of .[a] pace.
 >>
+=={.translation-annotations}
+* Thus the algorithm gives
+  $$
+    \sqrt{420000 \unit{paces}^2}
+      \approx \colg{648} \tfrac{\colb{96}}{\colv{1296}} \unit{paces},
+  $$
+  which has relative error $6.5 \times 10^{-9}$.
+==
 
 
 %%surrounds
