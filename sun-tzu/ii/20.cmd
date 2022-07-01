@@ -113,12 +113,12 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 ==
 
 <<
-  次::{.colour-r}借一算為下法::。::{.colour-r}步之，超一位，至百而止::。
+  次::{.colour-r}借一算為下法::。::{.colour-r}步之、超一位、至百而止::。
 \\
   Next ::{.colour-r} borrow one rod .[to] be .[the] lower divisor::.
   ::{.colour-r}
     Step it .[forth], leaping over one place,
-    unto .[the] hundreds and stop::.
+    unto .[the] hundreds and halting::.
 >>
 
 <<
@@ -131,38 +131,44 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 ==
 
 <<
-  副::{.colour-v}置六萬::於實之下，下法之上，名為::{.colour-v}方法::。
+  副::{.colour-v}置六萬::於實之下、下法之上、名為::{.colour-v}方法::。
 \\
   Subsidiarily ::{.colour-v} put six myriad:: below .[the] dividend,
-  .[and] above .[the] lower divisor;
-  .[its] name be ::{.colour-v} .[the] upright divisor::.
+  .[and] above .[the] lower divisor,
+  .[its] name being ::{.colour-v} .[the] upright divisor::.
 >>
+=={.translation-annotations}
+* .方： upright; \or square
+==
 
 <<
   ::{.colour-g}命上商六百::::{.colour-b}除實::。
 \\
-  ::{.colour-g} Name .[the] upper quotient's six hundred::,
+  ::{.colour-g} Name .[the] upper quotient's six hundred::
   ::{.colour-b} .[and] remove .[this] from .[the] dividend::.
 >>
 
 <<
-  除訖，::{.colour-v}倍方法::。
+  除訖、::{.colour-v}倍方法::。
 \\
   .[The] removal finished, ::{.colour-v} double .[the] upright divisor::.
 >>
 
 <<
-  ::{.colour-v}方法一退::，::{.colour-r}下法再退::。
+  ::{.colour-v}方法一退::、::{.colour-r}下法再退::。
 \\
   ::{.colour-v} .[The] upright divisor retreateth once::;
-  ::{.colour-r} .[the] lower divisor retreateth again::.
+  ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
+=={.translation-annotations}
+* .再： twice; \lit again
+==
 
 <<
-  復::{.colour-g}置上商四十::，以次前商。
+  復::{.colour-g}置上商四十::、以次前商。
 \\
   ::{.colour-g} Put:: again ::{.colour-g} .[for the] upper quotient forty::,
-  to be next .[after the] quotient .[digit] before.
+  to .[be] next .[after the] former quotient.
 >>
 
 <<
