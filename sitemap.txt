@@ -1,6 +1,5 @@
 https://yawnoc.github.io/
 https://yawnoc.github.io/cantonese/conway-romanisation
-https://yawnoc.github.io/cantonese/tonic-dictionary
 https://yawnoc.github.io/code/chinese-font
 https://yawnoc.github.io/code/gitconfig
 https://yawnoc.github.io/code/metabox-np50hj
