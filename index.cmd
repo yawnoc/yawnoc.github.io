@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2022-06-11
+* %date-modified --> 2022-07-02
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -124,10 +124,14 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 
 ###{#code-apps} Apps
 
-==
+====
 - [Android Chinese keyboard: Stroke Input Method (.筆畫輸入法)]\
     (https://github.com/stroke-input/stroke-input-android)
-==
+  ==
+  - [Data set for the stroke input method]\
+      (https://github.com/stroke-input/stroke-input-data)
+  ==
+====
 
 
 ###{#code-web} Web development
