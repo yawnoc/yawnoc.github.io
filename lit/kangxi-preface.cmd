@@ -17,6 +17,10 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %date-created --> 2022-07-03
 * %date-modified --> 2022-07-03
 
+RegexDictionaryReplacement: #.sor-variants
+- queue_position: BEFORE #specified-images
+* \\(?P<number> [1-7]) --> ![](kangxi-preface-所-\g<number>.jpg)
+
 %%%
 
 
@@ -47,12 +51,14 @@ Though the text was composed by the emperor (K'ang-hi|康熙) himself,
 the actual characters of the preface pages
 are the brushwork of the scribe [(Ch'(e^)n Pang-yen|陳邦彥)],
 who has used unorthodox variant forms in his calligraphy.
-In some instances even the same character appears differently;
-for example .所 appears
-  thrice as .⿰戸斤,
-  once as .⿰户斤,
-  and thrice as the semi-cursive .⿱一⿰卪亇.
+In some cases the same character appears differently;
+for example .所 appears:
 --
+==
+- thrice as the orthodox .⿰戸斤 \1\2\5,
+- once as the common .⿰户斤 \3, and
+- thrice as the semi-cursive .⿱一⿰卪亇 \4\6\7.
+==
 --
 Although this is contrary to the spirit of the compilers
 of the rest of the dictionary
@@ -60,7 +66,7 @@ of the rest of the dictionary
 the calligraphic variation is indeed very aesthetically pleasing.
 --
 --
-I have attempted to map the variant characters
+I have attempted to map variant characters
 to their (visually) nearest code point in Unicode,
 but note that there are many instances in which this is not possible
 (because [Han unification] is plagued with inconsistency, in my opinion).
