@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-27
+* %date-modified --> 2022-07-xx
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -803,6 +803,14 @@ See also: [幾何]
 * if
 * [:conjunction:] or
 * [:speech-assist:]
+==
+
+6 [典] U+5178
+==
+* canon
+==
+==
+* 字典： dictionary
 ==
 
 7 [兹] U+5179
@@ -1719,9 +1727,12 @@ See also: [君子], [女子], [弟子], [獅子]
 
 3 [字] U+5B57
 ==
-* word
+* character
 * style(-name)
 ==
+--
+See also: [字典]
+--
 
 5 [孤] U+5B64
 ==
@@ -2075,6 +2086,12 @@ See also: [參差]
 
 
 ### ⼴ (dotted-cliff) U+2F34
+
+4 [序] U+5E8F
+==
+* order
+* preface
+==
 
 5 [庚] U+5E9A
 ==

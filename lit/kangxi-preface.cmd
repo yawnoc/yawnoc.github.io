@@ -10,8 +10,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"XXX"'
-* %title --> "XXX" 《御製康熙字典序》
+* %cite-title --> '"Imperially-Made Preface [unto the] K'ang-hi Dictionary"'
+* %title --> "Imperially-Made Preface [unto the] K'ang-hi Dictionary" 《御製康熙字典序》
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-xx
@@ -31,7 +31,8 @@ RegexDictionaryReplacement: #.sor-variants
 - !cite
 ^^^^
 
-# .《御製康熙字典序》 "XXX"
+# .《御製康熙字典序》
+  "Imperially-Made Preface .[unto the] (K'ang-hi|康熙) Dictionary"
 
 
 --
@@ -105,7 +106,13 @@ but concede that in most instances this will not be possible
 <<
   《御製康煕字典序》
 \\
+  "Imperially-Made Preface .[unto the] (K'ang-hi|康煕) Dictionary"
 >>
+=={.translation-annotations}
+* Note `U+7155 煕` rather than `U+7199 熙`.
+
+* .字典： dictionary; \lit character canon
+==
 
 <<
   易傳曰、上古結繩而治、後世聖人易之以書契、百官以治、萬民以察。
