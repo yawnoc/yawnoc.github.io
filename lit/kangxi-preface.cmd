@@ -14,8 +14,8 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> "XXX" 《御製康熙字典序》
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
-* %date-created --> 2022-07-03
-* %date-modified --> 2022-07-03
+* %date-created --> 2022-07-xx
+* %date-modified --> 2022-07-xx
 
 RegexDictionaryReplacement: #.sor-variants
 - queue_position: BEFORE #specified-images
