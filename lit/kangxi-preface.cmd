@@ -35,8 +35,35 @@ RegexDictionaryReplacement: #.sor-variants
 
 
 --
-XXX
+The [(K'ang-hi|康熙) Dictionary] is a most impressive work,
+which I consulted extensively whilst compiling
+the [stroke input data set] that is used in my [keyboard app].
 --
+--
+Commissioned by the [(K'ang-hi|康熙) Emperor]
+and completed five years later in 1716,
+the dictionary covers some 47k Chinese characters.
+Although I have found many inconsistencies within it
+with regards to stroke count,
+there are (to my knowledge) no instances of duplicate character listings.
+Which is impressive, given that the folks at Unicode
+managed to make at least two duplicates
+(`U+3588 㖈`/`U+439B 䎛` and `U+363D 㘽`/`U+39B3 㦳`)
+whilst compiling CJK Unified Ideographs Extension~A in the 1990s.
+--
+--
+(K'ang-hi|康熙)'s preface names the work .字典, "character canon",
+which ultimately became the modern Chinese term for dictionary.
+--
+
+[(K'ang-hi|康熙) Dictionary]:
+  https://en.wikipedia.org/wiki/Kangxi_Dictionary
+[stroke input data set]:
+  https://github.com/stroke-input/stroke-input-data
+[keyboard app]:
+  https://github.com/stroke-input/stroke-input-android
+[(K'ang-hi|康熙) Emperor]:
+  https://en.wikipedia.org/wiki/Kangxi_Emperor
 
 
 ##{#translation} Translation
@@ -47,7 +74,7 @@ The Chinese source text below is the
 with olden-style punctuation inserted by me.
 --
 --
-Though the text was composed by the emperor (K'ang-hi|康熙) himself,
+Though the preface text was composed by the emperor (K'ang-hi|康熙) himself,
 the actual characters of the preface pages
 are the brushwork of the scribe [(Ch'(e^)n Pang-yen|陳邦彥)],
 who has used unorthodox variant forms in his calligraphy.
