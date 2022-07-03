@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"XXX"'
-* %title --> "XXX" 《XXX》
+* %title --> "XXX" 《御製康熙字典序》
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-03
@@ -31,7 +31,7 @@ RegexDictionaryReplacement: #.sor-variants
 - !cite
 ^^^^
 
-# .《XXX》 "XXX"
+# .《御製康熙字典序》 "XXX"
 
 
 --
