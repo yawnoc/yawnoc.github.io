@@ -68,7 +68,7 @@ the calligraphic variation is indeed very aesthetically pleasing.
 --
 I have attempted to map variant characters
 to their (visually) nearest code point in Unicode,
-but note that there are many instances in which this is not possible
+but concede that in most instances this will not be possible
 (because [Han unification] is plagued with inconsistency, in my opinion).
 --
 
