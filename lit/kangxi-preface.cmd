@@ -42,6 +42,32 @@ The Chinese source text below is the
 [.同文書局 edition](https://kangxizidian.com/v1/index.php?page=1#gv),
 with olden-style punctuation inserted by me.
 --
+--
+Though the text was composed by the emperor (K'ang-hi|康熙) himself,
+the actual characters of the preface pages
+are the brushwork of the scribe [(Ch'(e^)n Pang-yen|陳邦彥)],
+who has used unorthodox variant forms in his calligraphy.
+In some instances even the same character appears differently;
+for example .所 appears
+  thrice as .⿰戸斤,
+  once as .⿰户斤,
+  and thrice as the semi-cursive .⿱一⿰卪亇.
+--
+--
+Although this is contrary to the spirit of the compilers
+of the rest of the dictionary
+(who endeavoured to present a consistent standard form for all characters),
+the calligraphic variation is indeed very aesthetically pleasing.
+--
+--
+I have attempted to map the variant characters
+to their (visually) nearest code point in Unicode,
+but note that there are many instances in which this is not possible
+(because [Han unification] is plagued with inconsistency, in my opinion).
+--
+
+[(Ch'(e^)n Pang-yen|陳邦彥)]: https://zh.wikipedia.org/wiki/陳邦彥_(清朝)
+[Han unification]: https://en.wikipedia.org/wiki/Han_unification
 
 <<
   《御製康煕字典序》
