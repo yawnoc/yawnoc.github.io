@@ -122,7 +122,9 @@ but concede that in most instances this will not be possible
   .[The] Commentary .[on the] Changes saith:
   .[In] upper antiquity .[they] knotted cord and .[were] governed;
   .[then the] sagely men of latter generations
-  exchanged it with written bond;
+  exchanged it with written bond,
+  with .[which the] hundred officials .[were] governed,
+  .[and] with .[which] the myriad people .[were] inspected.
 >>
 
 <<

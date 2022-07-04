@@ -1773,6 +1773,11 @@ See also: [字典]
 * ancestor
 ==
 
+5 [官] U+5B98
+==
+* official
+==
+
 6 [室] U+5BA4
 ==
 * house
@@ -3381,7 +3386,7 @@ See also: [改正]
 
 5 [治] U+6CBB
 ==
-* govern; administer; order
+* govern; administer
 ==
 
 5 [泉] U+6CC9
