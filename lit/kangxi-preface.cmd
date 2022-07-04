@@ -36,25 +36,27 @@ RegexDictionaryReplacement: #.sor-variants
 
 
 --
-The [(K'ang-hi|康熙) Dictionary] is a most impressive work,
-which I consulted extensively whilst compiling
-the [stroke input data set] that is used in my [keyboard app].
---
---
+The [(K'ang-hi|康熙) Dictionary] is an impressive work.
 Commissioned by the [(K'ang-hi|康熙) Emperor]
 and completed five years later in 1716,
-the dictionary covers some 47k Chinese characters.
-Although I have found many inconsistencies within it
+it covers some 47k Chinese characters.
+Its system of 214~radicals is still used even today in Unicode.
+--
+--
+I consulted the dictionary extensively whilst compiling
+the [stroke input data set] that is used in my [keyboard app].
+Although I found many inconsistencies within the dictionary
 with regards to stroke count,
 there are (to my knowledge) no instances of duplicate character listings.
-Which is impressive, given that the folks at Unicode
-managed to make at least two duplicates
-(`U+3588 㖈`/`U+439B 䎛` and `U+363D 㘽`/`U+39B3 㦳`)
-whilst compiling CJK Unified Ideographs Extension~A in the 1990s.
+This is impressive, given that the folks at Unicode
+managed to make at least two duplicate pairs
+whilst compiling CJK Unified Ideographs Extension~A in the 1990s
+(`U+3588`~.㖈 and `U+439B`~.䎛; `U+363D`~.㘽 and `U+39B3`~.㦳).
 --
 --
-(K'ang-hi|康熙)'s preface names the work .字典, "character canon",
+(K'ang-hi|康熙)'s preface names the work .字典 "character canon",
 which ultimately became the modern Chinese term for dictionary.
+
 --
 
 [(K'ang-hi|康熙) Dictionary]:
@@ -109,7 +111,7 @@ but concede that in most instances this will not be possible
   "Imperially-Made Preface .[unto the] (K'ang-hi|康煕) Dictionary"
 >>
 =={.translation-annotations}
-* Note `U+7155 煕` rather than `U+7199 熙`.
+* Here we have `U+7155`~.煕 rather than `U+7199`~.熙.
 
 * .字典： dictionary; \lit character canon
 ==
