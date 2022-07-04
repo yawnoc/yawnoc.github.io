@@ -40,7 +40,7 @@ The [(K'ang-hi|康熙) Dictionary] is an impressive work.
 Commissioned by the [(K'ang-hi|康熙) Emperor],
 and completed five years later in 1716,
 it covers some 47k Chinese characters.
-Its system of 214~radicals is used in Unicode today.
+Its system of 214~radicals is still used in Unicode today.
 --
 --
 I consulted the dictionary extensively whilst compiling
