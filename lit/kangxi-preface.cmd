@@ -37,10 +37,10 @@ RegexDictionaryReplacement: #.sor-variants
 
 --
 The [(K'ang-hi|康熙) Dictionary] is an impressive work.
-Commissioned by the [(K'ang-hi|康熙) Emperor]
+Commissioned by the [(K'ang-hi|康熙) Emperor],
 and completed five years later in 1716,
 it covers some 47k Chinese characters.
-Its system of 214~radicals is still used even today in Unicode.
+Its system of 214~radicals is used in Unicode today.
 --
 --
 I consulted the dictionary extensively whilst compiling
@@ -54,7 +54,7 @@ whilst compiling CJK Unified Ideographs Extension~A in the 1990s
 (`U+3588`~.㖈 and `U+439B`~.䎛; `U+363D`~.㘽 and `U+39B3`~.㦳).
 --
 --
-(K'ang-hi|康熙)'s preface names the work .字典 "character canon",
+(K'ang-hi|康熙)'s preface names the work .字典, "character canon",
 which ultimately became the modern Chinese term for dictionary.
 
 --
@@ -93,7 +93,7 @@ for example .所 appears:
 Although this is contrary to the spirit of the compilers
 of the rest of the dictionary
 (who endeavoured to present a consistent standard form for all characters),
-the calligraphic variation is indeed very aesthetically pleasing.
+the calligraphic variation is nevertheless aesthetically pleasing.
 --
 --
 I have attempted to map variant characters
