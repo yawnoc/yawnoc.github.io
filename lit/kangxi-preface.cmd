@@ -119,6 +119,10 @@ but concede that in most instances this will not be possible
 <<
   易傳曰、上古結繩而治、後世聖人易之以書契、百官以治、萬民以察。
 \\
+  .[The] Commentary .[on the] Changes saith:
+  .[In] upper antiquity .[they] knotted cord and .[were] governed;
+  .[then the] sagely men of latter generations
+  exchanged it with written bond;
 >>
 
 <<

@@ -682,6 +682,18 @@ See also: [幾何]
 * side
 ==
 
+11 [傳] U+50B3
+[平聲]
+==
+* transmit
+* summon
+==
+[去聲]
+==
+* chronicle
+* commentary
+==
+
 13 [僵] U+50F5
 ==
 * prostrate
@@ -1625,6 +1637,12 @@ See also: [中央]
 * 合奏： play .[in] ensemble
 ==
 
+6 [契] U+5951
+==
+* bond; deed
+* engrave
+==
+
 6 [奕] U+5955
 ==
 * \var [弈]
@@ -2224,7 +2242,7 @@ See also: [參差]
 6 [後] U+5F8C
 ==
 * rear; hind; behind
-* after
+* after; latter
 * afterbear
 ==
 ==
@@ -2858,6 +2876,16 @@ See also: [至於]
 * clear; clarity; illuminate
 * eyesight
 * next {:of dates:}
+==
+
+4 [易] U+6613
+[去聲]
+==
+* easy
+==
+[入聲]
+==
+* change; exchange
 ==
 
 4 [昔] U+6614
@@ -4342,6 +4370,11 @@ See also: [御米]
 * all
 ==
 
+6 [結] U+7D50
+==
+* knot
+==
+
 6 [絕] U+7D55
 ==
 * cut (off); sever
@@ -4417,6 +4450,11 @@ See also: [御米]
 11 [繁] U+7E41
 ==
 * complicated
+==
+
+13 [繩] U+7E69
+==
+* cord; string
 ==
 
 
