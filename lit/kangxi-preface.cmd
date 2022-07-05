@@ -127,11 +127,34 @@ but concede that in most instances this will not be possible
   with .[which the] hundred officials .[were] governed,
   .[and] with .[which] the myriad people .[were] inspected.
 >>
+=={.translation-annotations}
+* .易： .[the] Changes
+  --
+  Short for .易經, ".[the] Classic of Changes",
+  commonly known as the (I Ching|易經).
+  --
+==
 
 <<
   周官外史、掌達書名扵四方。
 \\
+  .[The] Outer Historians of .[the] Officials of (Chou|周),
+  .[were] in charge of conveying written glyphs unto .[the] four directions
+  .[of the earth].
 >>
+=={.translation-annotations}
+* .周官： .[the] Officials of (Chou|周)
+  --
+  A text on bureaucracy, also called .周禮, ".[the] Rites of (Chou|周)".
+  --
+
+* .扵
+  --
+  Variant of .於.
+  Written .⿰才仒 in the original text,
+  but your browser's font will probably show .扌仒 instead.
+  --
+==
 
 <<
   保氏養國子、敎以六書、而考文列於三重。

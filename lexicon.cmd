@@ -1265,7 +1265,7 @@ See also: [北方]
 
 2 [史] U+53F2
 ==
-* history; record
+* history; historian; record
 ==
 
 2 [右] U+53F3
@@ -1306,6 +1306,7 @@ See also: [同式]
 3 [名] U+540D
 ==
 * name
+* glyph
 ==
 
 3 [吐] U+5410
@@ -2563,6 +2564,11 @@ See also: [所在]
 * talent
 ==
 
+4 [扵] U+6275
+==
+* \var [於]
+==
+
 4 [抄] U+6284
 ==
 * seize
@@ -2607,6 +2613,7 @@ See also: [所在]
 8 [掌] U+638C
 ==
 * palm
+* in charge (of)
 ==
 --
 See also: [掌握]
@@ -5456,6 +5463,12 @@ See also: [遠近]
 9 [道] U+9053
 ==
 * way; Tao
+==
+
+9 [達] U+9054
+==
+* attain
+* convey
 ==
 
 10 [遙] U+9059
