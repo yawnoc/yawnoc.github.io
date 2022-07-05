@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-07-05
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -755,7 +755,7 @@ I have edited the punctuation to not be bizarre.
   .[and] (T'o|橐) .[hath] one .[by] one answered them.
   (T'o|橐) now wisheth to
   request instruction of .[my] master .[in] one saying,
-  .[to] teach (T'o|橐) with clarity,
+  .[to] teach (T'o|橐) clearly,
   .[and doth] wishfully ask .[that my master] do not forsake.
 >>
 =={.translation-annotations}

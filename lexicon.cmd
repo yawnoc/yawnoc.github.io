@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-06-27
+* %date-modified --> 2022-07-05
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -521,6 +521,7 @@ See also: [逝世]
 * reason; because (of)
 * thus
 * in
+* [:speech-assist:]
 ==
 ==
 * 以為： think; believe
