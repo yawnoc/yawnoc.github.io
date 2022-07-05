@@ -48,7 +48,8 @@ the [stroke input data set] that is used in my [keyboard app].
 Although I found many inconsistencies within the dictionary
 with regards to stroke count,
 there are (to my knowledge) no instances of duplicate character listings.
-This is impressive, given that the folks at Unicode
+This is impressive for an 18th-century work;
+by comparison, the folks at Unicode
 managed to make at least two duplicate pairs
 whilst compiling CJK Unified Ideographs Extension~A in the 1990s
 (`U+3588`~.㖈 and `U+439B`~.䎛; `U+363D`~.㘽 and `U+39B3`~.㦳).
