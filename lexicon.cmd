@@ -521,6 +521,7 @@ See also: [逝世]
 * reason; because (of)
 * thus
 * in
+* [:speech-assist:]
 ==
 ==
 * 以為： think; believe
@@ -621,6 +622,11 @@ See also: [幾何]
 ==
 * convenient; benefit
 * promptly
+==
+
+7 [保] U+4FDD
+==
+* secure
 ==
 
 7 [信] U+4FE1
@@ -1441,6 +1447,9 @@ See also: [未嘗]
 ==
 * nation; country; state
 ==
+==
+* 國子： noble children
+==
 
 10 [圓] U+5713
 ==
@@ -1741,7 +1750,7 @@ See also: [嬉戲]
 * 夫子： master
 ==
 --
-See also: [君子], [女子], [弟子], [獅子]
+See also: [君子], [國子], [女子], [弟子], [獅子]
 --
 
 3 [字] U+5B57
@@ -2996,7 +3005,7 @@ See also: [及時]
 
 6 [書] U+66F8
 ==
-* writing
+* writing; script
 * book; epistle
 ==
 --
@@ -3339,6 +3348,7 @@ See also: [改正]
 ==
 * clan
 * surname; \met Mr
+* [:suffix:]
 ==
 
 1 [民] U+6C11
@@ -5995,7 +6005,7 @@ See also: [鴻雁]
 
 6 [養] U+990A
 ==
-* provide (for); support
+* provide (for); support; raise
 ==
 
 7 [餘] U+9918

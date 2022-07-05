@@ -159,7 +159,12 @@ but concede that in most instances this will not be possible
 <<
   保氏養國子、敎以六書、而考文列於三重。
 \\
+  .[The] Securers raising .[the] noble children,
+  .[did] teach of .[the] Six Scripts,
 >>
+=={.translation-annotations}
+* .國子： noble children; \lit children of .[the] nation
+==
 
 <<
   盖以其為萬事百物之統紀、而足\*以助流政敎也。
