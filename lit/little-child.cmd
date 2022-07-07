@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-07-05
+* %date-modified --> 2022-07-07
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -467,7 +467,7 @@ I have edited the punctuation to not be bizarre.
   What horse hath no foal?
   What male hath no female?
   What female hath no male?
-  What be .[a] gentleman?
+  What be .[a] superior man?
   What be .[a] little man?
   What be not sufficient?
   What be in excess?
@@ -527,7 +527,7 @@ I have edited the punctuation to not be bizarre.
   The wooden horse hath no foal.
   The lone male hath no female.
   The lone female hath no male.
-  The worthy .[one] be .[a] gentleman.
+  The worthy .[one] be .[a] superior man.
   The foolish .[one] be .[a] little man.
   The winter day .[be] not sufficient.
   The summer day .[be] in excess.
