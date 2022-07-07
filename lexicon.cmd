@@ -2796,6 +2796,11 @@ See also: [掌握]
 
 ### ⽂ (script) U+2F42
 
+0 [文] U+6587
+==
+* text
+==
+
 
 ### ⽃ (dipper) U+2F43
 
