@@ -100,7 +100,7 @@ the calligraphic variation is nevertheless aesthetically pleasing.
 I have attempted to map variant characters
 to their (visually) nearest code point in Unicode,
 but concede that in most instances this will not be possible
-(because [Han unification] is plagued with inconsistency, in my opinion).
+(because [Han unification] is plagued with inconsistency).
 --
 
 [(Ch'(e^)n Pang-yen|陳邦彥)]: https://zh.wikipedia.org/wiki/陳邦彥_(清朝)
