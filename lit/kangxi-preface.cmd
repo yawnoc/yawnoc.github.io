@@ -170,9 +170,21 @@ but concede that in most instances this will not be possible
 ==
 
 <<
-  盖以其為萬事百物之統紀、而足\*以助流政敎也。
+  盖以其為萬事百物之統紀、而足以助流政敎也。
 \\
+  For .[they] thought of it as .[the] governing law of
+  .[the] myriad matters .[and the] hundred things,
+  and sufficient to assist .[the] spreading of .[the] teaching of governance.
 >>
+=={.translation-annotations}
+* .足
+  --
+  Written `U+20BC1`~.𠯁 in the original text,
+  but substituted with `U+8DB3`~.足 here due to poor font support.
+  --
+
+* .流： spreading; \lit flowing
+==
 
 <<
   古文篆隷随世逓變、至漢\*許氏始有說文、然重義而略於音、\

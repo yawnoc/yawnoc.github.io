@@ -969,6 +969,11 @@ See also: [幾何]
 * add; plus
 ==
 
+5 [助] U+52A9
+==
+* assist
+==
+
 7 [勉] U+52C9
 ==
 * strive
@@ -3432,6 +3437,11 @@ See also: [改正]
 * \var [註]
 ==
 
+6 [流] U+6D41
+==
+* flow; \met spread
+==
+
 6 [津] U+6D25
 ==
 * ford
@@ -3939,6 +3949,11 @@ See also: [百萬]
 * benefit
 ==
 
+6 [盖] U+76D6
+==
+* \var [蓋]
+==
+
 6 [盛] U+76DB
 [平聲]
 ==
@@ -4413,6 +4428,11 @@ See also: [御米]
 * [:unit:] pile
 ==
 
+6 [統] U+7D71
+==
+* govern; unite
+==
+
 6 [絲] U+7D72
 ==
 * silk; thread
@@ -4810,6 +4830,23 @@ See also: [自相]
 ==
 ==
 * 蒞止： attend
+==
+
+10 [蓋] U+84CB
+[去聲]
+==
+* cover
+* broadly
+* for; so
+* [:speech-assist:]
+==
+[陰入]
+==
+* (K(e^)|蓋) {:name:}
+==
+[陽入]
+==
+* \var [盍]
 ==
 
 11 [蔚] U+851A
