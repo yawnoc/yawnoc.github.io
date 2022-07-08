@@ -195,7 +195,7 @@ but concede that in most instances this will not be possible
   changed by degrees according unto .[the] generations,
   .[and only] unto (H(u")|許) of (Han|漢)
   was there first .[his] Explaining Glyphs,
-  
+  .[which did] esteem meaning but .[was] omissive in pronunciation;
 >>
 =={.translation-annotations}
 * .随： according unto; \lit following
@@ -214,6 +214,8 @@ but concede that in most instances this will not be possible
   Short for .說文解字, "Explaining Glyphs .[and] Interpreting Characters",
   an [ancient dictionary by (H(u") Sh(e^)n|許慎)].
   --
+
+* .略： omissive; \or neglectful
 ==
 [ancient dictionary by (H(u") Sh(e^)n|許慎)]:
   https://en.wikipedia.org/wiki/Shuowen_Jiezi

@@ -3825,6 +3825,13 @@ See also: [後生]
 * field
 ==
 
+6 [略] U+7565
+==
+* outline; rough
+* omit; neglect
+* plunder
+==
+
 6 [異] U+7570
 ==
 * different; strange; \met opposite
@@ -4536,6 +4543,7 @@ See also: [御米]
 7 [義] U+7FA9
 ==
 * righteousness
+* meaning
 ==
 
 
@@ -6019,6 +6027,11 @@ See also: [鴻雁]
 
 
 ### ⾳ (sound) U+2FB3
+
+0 [音] U+97F3
+==
+* sound; pronunciation
+==
 
 11 [響] U+97FF
 ==
