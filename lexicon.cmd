@@ -5065,6 +5065,21 @@ See also: [平行]
 * horn; corner
 ==
 
+6 [解] U+89E3
+[上聲]
+==
+* unfasten; unravel
+* interpret
+==
+[陰去]
+==
+* escort
+==
+[陽去]
+==
+* conclude
+==
+
 
 ### ⾔ (speech) U+2F94
 
