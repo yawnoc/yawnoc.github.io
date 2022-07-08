@@ -179,9 +179,10 @@ but concede that in most instances this will not be possible
 =={.translation-annotations}
 * .足
   --
-  Written `U+20BC1`~.𠯁 in the original text,
+  Written `U+20BC1`~.𠯁 ![][𠯁] in the original text,
   but substituted with `U+8DB3`~.足 here due to poor font support.
   --
+  [𠯁]: kangxi-preface-𠯁.jpg
 
 * .流： spreading; \lit flowing
 ==
