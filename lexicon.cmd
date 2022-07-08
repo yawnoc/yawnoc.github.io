@@ -2803,7 +2803,7 @@ See also: [掌握]
 
 0 [文] U+6587
 ==
-* text
+* text; glyph
 ==
 
 
@@ -4346,6 +4346,11 @@ See also: [符驗]
 * \var [筭]
 ==
 
+9 [篆] U+7BC6
+==
+* seal-script
+==
+
 
 ### ⽶ (rice) U+2F76
 
@@ -5456,6 +5461,11 @@ See also: [遠近]
 * defy; go against
 ==
 
+7 [逓] U+9013
+==
+* \var [遞]
+==
+
 7 [通] U+901A
 ==
 * through; throughout; \met total
@@ -5526,6 +5536,13 @@ See also: [遠近]
 10 [遙] U+9059
 ==
 * distant
+==
+
+10 [遞] U+905E
+==
+* (take) turns
+* deliver
+* by degrees
 ==
 
 10 [遠] U+9060
@@ -5834,13 +5851,29 @@ See also: [世間]
 * moral
 ==
 
+10 [随] U+968F
+==
+* \var [隨]
+==
+
 13 [隨] U+96A8
 ==
-* follow
+* follow; \met according unto
 ==
 
 
 ### ⾪ (slave) U+2FAA
+
+8 [隷] U+96B7
+==
+* \var [隸]
+==
+
+9 [隸] U+96B8
+==
+* slave
+* clerical-script
+==
 
 
 ### ⾫ (short-tailed-bird) U+2FAB

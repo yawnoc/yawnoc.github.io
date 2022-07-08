@@ -190,7 +190,18 @@ but concede that in most instances this will not be possible
   古文篆隷随世逓變、至漢\*許氏始有說文、然重義而略於音、\
   故世謂漢\*儒識文字而不識子母、江左之儒識四聲而不識七音。
 \\
+  .[The] olden glyphs of seal-script .[and] clerical-script
+  changed by degrees according unto .[the] generations,
 >>
+=={.translation-annotations}
+* .随： according unto; \lit following
+
+* .逓
+  --
+  Written with 8~residual strokes in the original text, rather than~7.
+  Variant of .遞.
+  --
+==
 
 <<
   七音之傳、肈自西域、以三十六字為母、従為四聲、横為七音、而後天下之聲、緫扵是焉。
