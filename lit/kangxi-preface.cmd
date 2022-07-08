@@ -198,9 +198,10 @@ but concede that in most instances this will not be possible
 
 * .逓
   --
-  Written with 8~residual strokes in the original text, rather than~7.
-  Variant of .遞.
+  Written with 8~residual strokes ![][逓] in the original text, rather than~7.
+  Variant of~.遞.
   --
+  [逓]: kangxi-preface-逓.jpg
 ==
 
 <<
