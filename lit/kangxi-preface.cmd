@@ -331,7 +331,28 @@ but concede that in most instances this will not be possible
     扵明則洪武正韻、\
   皆流通當世、衣被後學。
 \\
+  Since Explaining Glyphs .[and] afterward,
+  the good of .[the] character books, .[were]
+    in .[the] (Liang|鿄) .[Dynasty the] Jade Chapters,
+    in .[the] (T'ang|唐) .[the] Broadened Rimes,
+    in .[the] (Sung|宋) .[the] Collected Rimes,
+    in .[the] (Kin|金) .[the] Five Sounds' Collected Rimes,
+    in .[the] (Y(u")an|元) .[the] Rime Assembly,
+    .[and] in .[the] (Ming|明) .[the] (Hung-wu|洪武) Proper Rimes,
+  all spread throughout .[their] present generations,
+  .[and as] clothing .[and] blankets .[to] latter learning.
 >>
+=={.translation-annotations}
+* .萹
+  --
+  A vulgar abbreviation of .篇.
+  Written ![][萹] in the original text
+  with the component .扁 missing its first stroke.
+  --
+
+* .流： spread; \lit flowed
+==
+[萹]: kangxi-preface-萹.jpg
 
 <<
   其傳而未甚顯者、尚數十百家。

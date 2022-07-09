@@ -702,6 +702,11 @@ See also: [幾何]
 * side
 ==
 
+10 [㑹] U+3479
+==
+* \var [會]
+==
+
 10 [備] U+5099
 ==
 * prepare
@@ -3309,7 +3314,7 @@ See also: [蒞止]
 
 1 [正] U+6B63
 ==
-* right
+* right; proper
 * directly
 ==
 --
@@ -3936,6 +3941,7 @@ See also: [後生]
 * face
 * withstand
 * at; when
+* present
 * ought to
 ==
 [去聲]
@@ -4446,6 +4452,11 @@ See also: [符驗]
 * seal-script
 ==
 
+9 [篇] U+7BC7
+==
+* chapter
+==
+
 
 ### ⽶ (rice) U+2F76
 
@@ -4933,6 +4944,11 @@ See also: [自相]
 * contact; \met upon
 ==
 
+9 [萹] U+8439
+==
+* \var [篇]
+==
+
 10 [蒙] U+8499
 ==
 * cover
@@ -5072,6 +5088,17 @@ See also: [平行]
 ==
 * quilt
 * shroud
+==
+
+5 [被] U+88AB
+[上聲]
+==
+* blanket
+* cover
+==
+[去聲]
+==
+* by
 ==
 
 7 [裏] U+88CF
@@ -6033,6 +6060,11 @@ See also: [鴻雁]
 * hero; mighty
 ==
 
+4 [集] U+96C6
+==
+* collect
+==
+
 5 [雌] U+96CC
 ==
 * female; female-bird
@@ -6143,6 +6175,11 @@ See also: [鴻雁]
 0 [音] U+97F3
 ==
 * sound; pronunciation
+==
+
+10 [韻] U+97FB
+==
+* rime
 ==
 
 11 [響] U+97FF
