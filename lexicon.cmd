@@ -1281,7 +1281,7 @@ See also: [北方]
 
 2 [右] U+53F3
 ==
-* right; \met above
+* right; \met above; west
 ==
 --
 See also: [右方]
@@ -1750,6 +1750,7 @@ See also: [嬉戲]
 * child; son; daughter
 * numerator
 * master {:teacher:}; \met thou
+* initial
 ==
 ==
 * 夫子： master
@@ -1986,7 +1987,7 @@ See also: [從容]
 
 2 [左] U+5DE6
 ==
-* left
+* left; \met below; east
 ==
 --
 See also: [左方]
@@ -3332,6 +3333,7 @@ See also: [改正]
 ==
 * mother
 * denominator
+* final
 ==
 
 
