@@ -224,9 +224,9 @@ but concede that in most instances this will not be possible
 \\
   therefore .[the] world speaketh of the (Han|漢) scholar
   knowing .[his] glyphs .[and] characters
-  but not knowing .[his] initials .[and] finals,
+  but knowing not .[his] initials .[and] finals,
   .[and] the scholar of .[the] River's East knowing .[his] Four Tones
-  but not knowing .[his] Seven Sounds.
+  but knowing not .[his] Seven Sounds.
 >>
 =={.translation-annotations}
 * .左： East; \lit Left
