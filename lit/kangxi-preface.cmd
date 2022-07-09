@@ -161,7 +161,7 @@ but concede that in most instances this will not be possible
 \\
   .[The] Securers raising .[the] noble children,
   .[did] teach of .[the] Six Scripts,
-  and examine rowed text in three layers.
+  and .[did] examine rowed text in three layers.
 >>
 =={.translation-annotations}
 * .國子： noble children; \lit children of .[the] nation
