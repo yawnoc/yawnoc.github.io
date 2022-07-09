@@ -377,8 +377,24 @@ but concede that in most instances this will not be possible
   或音有數切而不備、
 \\
   perhaps .[the] characters that .[be] admitted
-    .[have] numerousness .[or] scarcity missing .[the] mark;
+    .[are] numerous .[or] scarce missing .[the] mark;
+  perhaps .[the] writings that .[be] drawn upon
+    .[are] excessive .[or] sparse without standard;
+  perhaps .[a] character have several meanings
+    but .[which are] not detailed;
+  .[or] perhaps .[a] pronunciation have several dissections
+    but .[which are] not provided:
 >>
+=={.translation-annotations}
+* .切： dissections
+  --
+  Short for .反切, "back-dissection".
+  This is the olden way of marking Chinese pronunciation using two characters;
+  you take the initial consonant of the first character
+  and the rime (final) of the second character.
+  See [Wikipedia](https://en.wikipedia.org/wiki/Fanqie).
+  --
+==
 
 <<
   曽無善兼美具、可奉為典常而不易者。

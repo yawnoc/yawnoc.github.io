@@ -934,6 +934,17 @@ See also: [幾何]
 * duty
 ==
 
+2 [切] U+5207
+[去聲]
+==
+* everything
+==
+[入聲]
+==
+* cut
+* dissect
+==
+
 4 [列] U+5217
 ==
 * row; rank
@@ -3602,6 +3613,12 @@ See also: [改正]
 * cross {:over water:}
 ==
 
+14 [濫] U+6FEB
+==
+* overflow
+* excessive
+==
+
 
 ### ⽕ (fire) U+2F55
 
@@ -5324,6 +5341,11 @@ See also: [平行]
 * 詩士： poet
 ==
 
+6 [詳] U+8A73
+==
+* detail
+==
+
 6 [誠] U+8AA0
 ==
 * honest; true
@@ -5520,6 +5542,11 @@ See also: [平行]
 6 [路] U+8DEF
 ==
 * road; path
+==
+
+7 [踈] U+8E08
+==
+* \var [疏]
 ==
 
 11 [蹤] U+8E64
