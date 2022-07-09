@@ -302,9 +302,24 @@ but concede that in most instances this will not be possible
 ==
 
 <<
-  此\*歴代相傳取音者所以不能較若畫一也。
+  此歴代相傳取音者所以不能較若畫一也。
 \\
+  This .[be] that by which .[the] taking of sounds
+  .[as] transmitted down through .[the] ages
+  .[hath been] unable .[to be] evident as .[the] stroke of one.
 >>
+=={.translation-annotations}
+* .此
+  --
+  Written semi-cursive ![][此] in the original text,
+  with .止 having its upper horizontal stroke vertical,
+  and also having its lower horizontal stroke
+  connected to the horizontal stroke of .匕.
+  --
+  [此]: kangxi-preface-此.jpg
+
+* .相傳： transmitted down; \lit mutually transmitted
+==
 
 <<
   自說文以後、字書善者、\

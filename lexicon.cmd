@@ -506,6 +506,15 @@ See also: [逝世]
 * immortal
 ==
 
+3 [代] U+4EE3
+==
+* replace
+* age
+==
+--
+See also: [歷代]
+--
+
 3 [令] U+4EE4
 ==
 * command; commandment
@@ -704,6 +713,9 @@ See also: [幾何]
 ==
 * transmit
 * summon
+==
+==
+* 相傳： \met transmitted down
 ==
 [去聲]
 ==
@@ -3320,9 +3332,17 @@ See also: [改正]
 * Jupiter
 ==
 
+10 [歴] U+6B74
+==
+* \var [歷]
+==
+
 12 [歷] U+6B77
 ==
 * endure
+==
+==
+* 歷代： through .[the] ages
 ==
 
 14 [歸] U+6B78
@@ -3904,6 +3924,7 @@ See also: [後生]
 [入聲]
 ==
 * [:verb:] draw; paint
+* stroke
 ==
 
 8 [當] U+7576
@@ -4064,6 +4085,9 @@ See also: [百萬]
 ==
 * 自相： with itself
 ==
+--
+See also: [相傳]
+--
 [去聲]
 ==
 * appearance; physiognomy
@@ -4861,6 +4885,7 @@ See also: [自相]
 ==
 [入聲]
 ==
+* thou
 * if
 * as
 ==
@@ -5458,6 +5483,7 @@ See also: [平行]
 [去聲]
 ==
 * compare
+* evident
 ==
 [入聲]
 ==
