@@ -357,6 +357,8 @@ but concede that in most instances this will not be possible
 <<
   其傳而未甚顯者、尚數十百家。
 \\
+  Those transmitted but not yet exceeding distinguished,
+  .[be] yet several tens .[or] hundreds of schools.
 >>
 
 <<
@@ -367,6 +369,10 @@ but concede that in most instances this will not be possible
     或音有數切而不備、\
   曽無善兼美具、可奉為典常而不易者。
 \\
+  .[In] undertaking their editings,
+  .[they] all self-speak of having not .[a] fine hair of regret,
+  but latter scholar's deductions .[and] discourses
+  .[are] always many .[in their] concurrences .[and] differences;
 >>
 
 <<

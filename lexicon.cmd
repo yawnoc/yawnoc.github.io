@@ -1336,7 +1336,7 @@ See also: [合奏]
 
 3 [同] U+540C
 ==
-* same
+* same; concur
 * together
 ==
 --
@@ -1837,6 +1837,8 @@ See also: [字典]
 7 [家] U+5BB6
 ==
 * family; house
+* school {:of thought:}
+* [:classifier:]
 ==
 
 7 [容] U+5BB9
@@ -2542,6 +2544,11 @@ See also: [性命]
 12 [憚] U+619A
 ==
 * fearful
+==
+
+13 [憾] U+61BE
+==
+* regret
 ==
 
 13 [應] U+61C9
@@ -3859,6 +3866,11 @@ See also: [以為], [為政]
 
 ### ⽢ (sweet) U+2F62
 
+4 [甚] U+751A
+==
+* exceeding
+==
+
 
 ### ⽣ (life) U+2F63
 
@@ -3936,7 +3948,7 @@ See also: [後生]
 [平聲]
 ==
 * suit
-* serve
+* serve; undertake
 * administer
 * face
 * withstand
@@ -4576,6 +4588,14 @@ See also: [御米]
 ==
 * cotton
 * unbroken
+==
+
+9 [編] U+7DE8
+==
+* compile; arrange
+==
+==
+* 編輯： edit
 ==
 
 9 [緫] U+7DEB
@@ -5529,6 +5549,12 @@ See also: [平行]
 * record
 ==
 
+7 [輒] U+8F12
+==
+* immediately; then
+* every; always
+==
+
 7 [輔] U+8F14
 ==
 * assist
@@ -5540,9 +5566,20 @@ See also: [平行]
 * [:verb:] make light
 ==
 
+8 [輙] U+8F19
+==
+* \var [輒]
+==
+
 8 [輪] U+8F2A
 ==
 * wheel
+==
+
+9 [輯] U+8F2F
+==
+* gather
+* compile
 ==
 
 9 [輸] U+8F38
@@ -6220,6 +6257,11 @@ See also: [鴻雁]
 * look back
 ==
 
+14 [顯] U+986F
+==
+* distinguish
+==
+
 
 ### ⾵ (wind) U+2FB5
 
@@ -6338,6 +6380,11 @@ See also: [鴻雁]
 
 
 ### ⾽ (hair) U+2FBD
+
+5 [髮] U+9AEE
+==
+* hair
+==
 
 
 ### ⾾ (fight) U+2FBE
