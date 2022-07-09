@@ -1145,6 +1145,7 @@ See also: [北方]
 8 [原] U+539F
 ==
 * original
+* plain
 ==
 
 
@@ -1981,6 +1982,11 @@ See also: [從容]
 
 
 ### ⼮ (river) U+2F2E
+
+0 [川] U+5DDD
+==
+* stream
+==
 
 
 ### ⼯ (work) U+2F2F
@@ -3484,6 +3490,16 @@ See also: [改正]
 * deep (water)
 ==
 
+8 [淺] U+6DFA
+==
+* shallow
+==
+
+8 [清] U+6E05
+==
+* clear; pure
+==
+
 9 [減] U+6E1B
 ==
 * subtract
@@ -3519,6 +3535,11 @@ See also: [改正]
 12 [澗] U+6F97
 ==
 * (mountain-)stream
+==
+
+13 [濁] U+6FC1
+==
+* murky
 ==
 
 14 [濕] U+6FD5
@@ -3677,6 +3698,16 @@ See also: [以為], [為政]
 5 [狐] U+72D0
 ==
 * fox
+==
+
+6 [狭] U+72ED
+==
+* \var [狹]
+==
+
+7 [狹] U+72F9
+==
+* narrow
 ==
 
 9 [猶] U+7336
@@ -5293,6 +5324,12 @@ See also: [平行]
 
 ### ⾗ (pig) U+2F97
 
+5 [象] U+8C61
+==
+* elephant
+* image; resemble
+==
+
 
 ### ⾘ (badger) U+2F98
 
@@ -5420,6 +5457,7 @@ See also: [平行]
 [去聲]
 ==
 * [:verb:] carry
+* record
 ==
 
 7 [輔] U+8F14
@@ -6212,6 +6250,11 @@ See also: [鴻雁]
 ==
 * high; height
 * tall
+==
+
+0 [髙] U+9AD9
+==
+* \var [高]
 ==
 
 

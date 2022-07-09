@@ -276,6 +276,13 @@ but concede that in most instances this will not be possible
 <<
   嘗考管子之書所載、五方之民、其聲之清濁髙下、各象其川原泉壤淺深廣狭而生。
 \\
+  .[I] once examined that recorded .[in the] Writings of Master~(Kuan|管),
+  .[that] the people of .[the] Five Places,
+  .[the] clearness .[and] murkiness
+  .[and the] highs .[and] downs of their sounds,
+  .[are] each begotten of .[a] resemblance .[unto the]
+  shallowness .[or] depth .[and] breadth .[or] narrowness
+  of their streams, plains, springs, .[and] soils.
 >>
 
 <<
