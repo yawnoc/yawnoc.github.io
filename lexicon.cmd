@@ -678,6 +678,11 @@ See also: [幾何]
 * rest
 ==
 
+9 [偏] U+504F
+==
+* bias; one-sided
+==
+
 9 [健] U+5065
 ==
 * robust; healthy
@@ -686,6 +691,12 @@ See also: [幾何]
 9 [側] U+5074
 ==
 * side
+==
+
+10 [備] U+5099
+==
+* prepare
+* provide
 ==
 
 11 [傳] U+50B3
@@ -926,7 +937,7 @@ See also: [幾何]
 ==
 * statute
 * emulate
-* then
+* then; thus
 * [:speech-assist:]
 ==
 
@@ -4111,6 +4122,11 @@ See also: [百萬]
 * arrow
 ==
 
+2 [矣] U+77E3
+==
+* [:speech-assist:]
+==
+
 3 [知] U+77E5
 [平聲]
 ==
@@ -6295,6 +6311,17 @@ See also: [鴻雁]
 0 [魚] U+9B5A
 ==
 * fish
+==
+
+6 [鮮] U+9BAE
+[平聲]
+==
+* fresh-fish; fresh-meat
+* fresh
+==
+[上聲]
+==
+* rare
 ==
 
 10 [鰥] U+9C25

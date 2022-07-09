@@ -288,7 +288,18 @@ but concede that in most instances this will not be possible
 <<
   故于五音、必有所偏得、則能全備七音者、鮮矣。
 \\
+  Therefore in .[the] Five Sounds,
+  there must be that gotten biasedly;
+  thus those able .[to] wholly provide of .[the] Seven Sounds,
+  .[are] rare.
 >>
+=={.translation-annotations}
+* .五音： Five Sounds
+  --
+  The Seven Sounds, but with .半舌~(half-tongue) and .半齒~(half-incisor)
+  lumped into their greater classes.
+  --
+==
 
 <<
   此\*歴代相傳取音者所以不能較若畫一也。
