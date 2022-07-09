@@ -367,7 +367,7 @@ but concede that in most instances this will not be possible
   .[In] undertaking their editings,
   .[they] all self-speak of having not .[a] fine hair of regret,
   but latter scholar's deductions .[and] discourses
-  .[are] always many .[in their] concurrences .[and] differences;
+  .[are] always many .[in their] concurrences .[and] differences:
 >>
 
 <<
@@ -376,6 +376,8 @@ but concede that in most instances this will not be possible
   或字有數義而不詳、\
   或音有數切而不備、
 \\
+  perhaps .[the] characters that .[be] admitted
+    .[have] numerousness .[or] scarcity missing .[the] mark;
 >>
 
 <<

@@ -321,6 +321,9 @@ See also: [逝世]
 ==
 * hit {:a target:}
 ==
+==
+* 失中： miss .[the] mark
+==
 
 
 ### ⼂ (dot) U+2F02
@@ -1666,6 +1669,9 @@ See also: [中央]
 * mis-
 * mistake
 ==
+--
+See also: [失中]
+--
 
 5 [奇] U+5947
 [陰平]
@@ -2759,6 +2765,7 @@ See also: [掌握]
 2 [收] U+6536
 ==
 * gather; restrain
+* admit
 * take back
 ==
 
@@ -4112,6 +4119,20 @@ See also: [相傳]
 * minister
 ==
 
+4 [省] U+7701
+[上聲] .耕韻 sh(e^)ng
+==
+* omit; abbreviate
+* scarce
+* province
+==
+[上聲] .清韻 x(iv)ng
+==
+* inspect
+* comprehend
+==
+
+
 4 [眉] U+7709
 ==
 * brow
@@ -4633,6 +4654,7 @@ See also: [御米]
 11 [繁] U+7E41
 ==
 * complicated
+* numerous
 ==
 
 13 [繩] U+7E69
