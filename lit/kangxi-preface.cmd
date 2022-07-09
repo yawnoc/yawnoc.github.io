@@ -188,19 +188,13 @@ but concede that in most instances this will not be possible
 ==
 
 <<
-  古文篆隷随世逓變、至漢許氏始有說文、然重義而略於音、\
-  故世謂漢儒識文字而不識子母、江左之儒識四聲而不識七音。
+  古文篆隷随世逓變、至漢許氏始有說文、然重義而略於音、
 \\
   .[The] olden glyphs of seal-script .[and] clerical-script
   changed by degrees according unto .[the] generations,
   .[and only] unto (H(u")|許) of (Han|漢)
   was there first .[his] Explaining Glyphs,
   .[which did] esteem meaning but .[was] omissive in pronunciation;
-  therefore .[the] world speaketh of the (Han|漢) scholar
-  knowing .[his] glyphs .[and] characters
-  but not knowing .[his] initials .[and] finals,
-  .[and] the scholar of .[the] River's East knowing .[his] Four Tones
-  but not knowing .[his] Seven Sounds.
 >>
 =={.translation-annotations}
 * .随： according unto; \lit following
@@ -221,7 +215,20 @@ but concede that in most instances this will not be possible
   --
 
 * .略： omissive; \or neglectful
+==
+[ancient dictionary by (H(u") Sh(e^)n|許慎)]:
+  https://en.wikipedia.org/wiki/Shuowen_Jiezi
 
+<<
+  故世謂漢儒識文字而不識子母、江左之儒識四聲而不識七音。
+\\
+  therefore .[the] world speaketh of the (Han|漢) scholar
+  knowing .[his] glyphs .[and] characters
+  but not knowing .[his] initials .[and] finals,
+  .[and] the scholar of .[the] River's East knowing .[his] Four Tones
+  but not knowing .[his] Seven Sounds.
+>>
+=={.translation-annotations}
 * .左： East; \lit Left
 
 * .四聲： Four Tones
@@ -236,8 +243,6 @@ but concede that in most instances this will not be possible
   .脣~(), .舌~(), .牙~(), .齒~(), .喉~(), .半舌~(), and .半齒~().
   --
 ==
-[ancient dictionary by (H(u") Sh(e^)n|許慎)]:
-  https://en.wikipedia.org/wiki/Shuowen_Jiezi
 [four tones of Middle Chinese]:
   https://en.wikipedia.org/wiki/Four_tones_(Middle_Chinese)
 
