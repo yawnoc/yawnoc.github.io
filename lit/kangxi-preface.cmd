@@ -225,8 +225,8 @@ but concede that in most instances this will not be possible
   therefore .[the] world speaketh of the (Han|漢) scholar
   knowing .[his] glyphs .[and] characters
   but knowing not .[his] initials .[and] finals,
-  .[and] the scholar of .[the] River's East knowing .[his] Four Tones
-  but knowing not .[his] Seven Sounds.
+  .[and] the scholar of .[the] River's East knowing .[the] Four Tones
+  but knowing not .[the] Seven Sounds.
 >>
 =={.translation-annotations}
 * .左： East; \lit Left
@@ -240,6 +240,7 @@ but concede that in most instances this will not be possible
 
 * .七音： Seven Sounds
   --
+  The seven classes of initial consonant:
   .脣~(lip), .舌~(tongue), .牙~(molar), .齒~(incisor),
   .喉~(throat), .半舌~(half-tongue), and .半齒~(half-incisor).
   --
@@ -250,7 +251,27 @@ but concede that in most instances this will not be possible
 <<
   七音之傳、肈自西域、以三十六字為母、従為四聲、横為七音、而後天下之聲、緫扵是焉。
 \\
+  .[The] transmission of .[the] Seven Sounds,
+  .[was] initiated from .[the] western domains,
+  with .[the] Thirty-Six Characters as .[the] initials,
+  .[the] vertical being .[the] Four Tones,
+  .[and the] horizontal being .[the] Seven Sounds,
+  and afterward .[all] sounds under Heaven,
+  .[were] aggregated in this.
 >>
+=={.translation-annotations}
+* .三十六字為母： Thirty-Six Characters as .[the] initials
+  --
+  There are thirty-six initial consonants
+  (each of which falls under one of the seven classes);
+  each consonant is represented by a character.
+  --
+
+* We have here a description of a [rime table],
+  with 4~rows (vertical axis) for the Four Tones
+  and 7~columns (horizontal axis) for the Seven Sounds.
+==
+[rime table]: https://en.wikipedia.org/wiki/Rime_table
 
 <<
   嘗考管子之書所載、五方之民、其聲之清濁髙下、各象其川原泉壤淺深廣狭而生。

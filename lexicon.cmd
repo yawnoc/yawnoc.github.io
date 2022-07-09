@@ -1501,6 +1501,11 @@ See also: [未嘗]
 * city
 ==
 
+8 [域] U+57DF
+==
+* domain
+==
+
 8 [基] U+57FA
 ==
 * foundation
@@ -2263,7 +2268,7 @@ See also: [參差]
 6 [後] U+5F8C
 ==
 * rear; hind; behind
-* after; latter
+* after(ward); latter
 * afterbear
 ==
 ==
@@ -2274,6 +2279,11 @@ See also: [參差]
 ==
 * path
 * diameter
+==
+
+6 [従] U+5F93
+==
+* \var [從]
 ==
 
 8 [得] U+5F97
@@ -3200,6 +3210,11 @@ See also: [有餘]
 * roof-beam
 ==
 
+11 [横] U+6A2A
+==
+* \var [橫]
+==
+
 12 [樹] U+6A39
 ==
 * tree
@@ -3333,7 +3348,7 @@ See also: [改正]
 ==
 * mother
 * denominator
-* final
+* final; initial
 ==
 
 
@@ -3529,7 +3544,7 @@ See also: [改正]
 ==
 * make
 * do
-* be; become
+* be; become; as
 ==
 --
 See also: [以為], [為政]
@@ -4481,6 +4496,11 @@ See also: [御米]
 * unbroken
 ==
 
+9 [緫] U+7DEB
+==
+* \var [總]
+==
+
 9 [緯] U+7DEF
 ==
 * woof; parallel
@@ -4505,7 +4525,7 @@ See also: [御米]
 
 11 [總] U+7E3D
 ==
-* total
+* total; aggregate
 ==
 
 11 [繁] U+7E41
@@ -4644,6 +4664,16 @@ See also: [聯翩]
 
 
 ### ⾀ (brush) U+2F80
+
+8 [肇] U+8087
+==
+* initiate
+==
+
+8 [肈] U+8088
+==
+* \var [肇]
+==
 
 
 ### ⾁ (meat) U+2F81
