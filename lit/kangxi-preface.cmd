@@ -240,7 +240,8 @@ but concede that in most instances this will not be possible
 
 * .七音： Seven Sounds
   --
-  .脣~(), .舌~(), .牙~(), .齒~(), .喉~(), .半舌~(), and .半齒~().
+  .脣~(lip), .舌~(tongue), .牙~(molar), .齒~(incisor),
+  .喉~(throat), .半舌~(half-tongue), and .半齒~(half-incisor).
   --
 ==
 [four tones of Middle Chinese]:
