@@ -268,7 +268,7 @@ See also: [意下]
 
 3 [不] U+4E0D
 ==
-* not
+* not; un-
 ==
 --
 See also: [不盡]
@@ -854,6 +854,12 @@ See also: [幾何]
 * [:speech-assist:]
 ==
 
+6 [具] U+5177
+==
+* tool
+* equip
+==
+
 6 [典] U+5178
 ==
 * canon
@@ -865,6 +871,12 @@ See also: [幾何]
 7 [兹] U+5179
 ==
 * \var [茲]
+==
+
+8 [兼] U+517C
+==
+* combine
+* simultaneously
 ==
 
 
@@ -1692,6 +1704,12 @@ See also: [失中]
 [陽平]
 ==
 * odd {:strange:}
+==
+
+5 [奉] U+5949
+==
+* offer
+* serve
 ==
 
 6 [奏] U+594F
@@ -3029,6 +3047,11 @@ See also: [及時]
 * dawn
 ==
 
+7 [曽] U+66FD
+==
+* \var [曾]
+==
+
 8 [景] U+666F
 ==
 * scenery
@@ -3091,6 +3114,16 @@ See also: [及時]
 --
 See also: [爰書]
 --
+
+8 [曾] U+66FE
+[陰平]
+==
+* great-
+==
+[陽平]
+==
+* once; ever
+==
 
 9 [會] U+6703
 ==

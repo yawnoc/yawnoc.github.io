@@ -367,7 +367,7 @@ but concede that in most instances this will not be possible
   .[In] undertaking their editings,
   .[they] all self-speak of having not .[a] fine hair of regret,
   but latter scholar's deductions .[and] discourses
-  .[are] always many .[in their] concurrences .[and] differences:
+  .[are] always many .[in their] concurrences .[and] differences.
 >>
 
 <<
@@ -376,14 +376,14 @@ but concede that in most instances this will not be possible
   或字有數義而不詳、\
   或音有數切而不備、
 \\
-  perhaps .[the] characters that .[be] admitted
+  Perhaps .[the] characters that .[be] admitted
     .[are] numerous .[or] scarce missing .[the] mark;
   perhaps .[the] writings that .[be] drawn upon
     .[are] excessive .[or] sparse without standard;
   perhaps .[a] character have several meanings
     but .[which are] not detailed;
-  .[or] perhaps .[a] pronunciation have several dissections
-    but .[which are] not provided:
+  perhaps .[a] pronunciation have several dissections
+    but .[which are] not provided.
 >>
 =={.translation-annotations}
 * .切： dissections
@@ -399,6 +399,10 @@ but concede that in most instances this will not be possible
 <<
   曽無善兼美具、可奉為典常而不易者。
 \\
+  There .[hath] never been .[one with]
+  goodness .[and] simultaneously beauty equipped,
+  .[even] that which can .[be] offered as .[a] canon-constant
+  and .[ever] unchanging.
 >>
 
 <<
