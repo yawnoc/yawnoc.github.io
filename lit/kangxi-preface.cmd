@@ -152,7 +152,7 @@ but concede that in most instances this will not be possible
   --
   Variant of .於.
   Written .⿰才仒 in the original text,
-  but your browser's font will probably show .扌仒 instead.
+  but your browser's font will probably show .⿰扌仒 instead.
   --
 ==
 
