@@ -362,17 +362,25 @@ but concede that in most instances this will not be possible
 >>
 
 <<
-  當其編輯、皆自謂毫髮無憾、而後儒推論輙多同異、\
-    或所收之字繁省失中、\
-    或所引之書濫踈無準、\
-    或字有數義而不詳、\
-    或音有數切而不備、\
-  曽無善兼美具、可奉為典常而不易者。
+  當其編輯、皆自謂毫髮無憾、而後儒推論輙多同異、
 \\
   .[In] undertaking their editings,
   .[they] all self-speak of having not .[a] fine hair of regret,
   but latter scholar's deductions .[and] discourses
   .[are] always many .[in their] concurrences .[and] differences;
+>>
+
+<<
+  或所收之字繁省失中、\
+  或所引之書濫踈無準、\
+  或字有數義而不詳、\
+  或音有數切而不備、
+\\
+>>
+
+<<
+  曽無善兼美具、可奉為典常而不易者。
+\\
 >>
 
 <<
