@@ -670,6 +670,11 @@ See also: [以來]
 * all; \met both
 ==
 
+8 [俾] U+4FFE
+==
+* make; that
+==
+
 8 [倍] U+500D
 ==
 * double; times
@@ -1392,6 +1397,11 @@ See also: [同式]
 ==
 * name
 * glyph
+==
+
+3 [吏] U+540F
+==
+* officer
 ==
 
 3 [吐] U+5410
@@ -2253,6 +2263,12 @@ See also: [參差]
 * G {:7th heavenly stem:}
 ==
 
+5 [府] U+5E9C
+==
+* office
+* treasury
+==
+
 6 [度] U+5EA6
 [去聲]
 ==
@@ -2722,6 +2738,11 @@ See also: [所在]
 * \var [於]
 ==
 
+4 [承] U+627F
+==
+* inherit; bear
+==
+
 4 [抄] U+6284
 ==
 * seize
@@ -3086,6 +3107,11 @@ See also: [至於]
 5 [春] U+6625
 ==
 * spring
+==
+
+5 [昭] U+662D
+==
+* illustrious; illuminate
 ==
 
 5 [是] U+662F
@@ -3693,6 +3719,11 @@ See also: [改正]
 9 [湖] U+6E56
 ==
 * lake
+==
+
+10 [源] U+6E90
+==
+* source
 ==
 
 10 [準] U+6E96
@@ -6029,6 +6060,11 @@ See also: [遠近]
 * go unto
 * suitable
 * just
+==
+
+12 [遵] U+9075
+==
+* adhere
 ==
 
 12 [遺] U+907A

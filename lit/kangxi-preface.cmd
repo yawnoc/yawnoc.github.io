@@ -529,6 +529,12 @@ but concede that in most instances this will not be possible
 <<
   扵以昭同文之治、俾承學稽古者、得以備知文字之源流、而官府吏民、亦有所遵守焉。
 \\
+  In illuminating .[the] governance of .[having the] same glyphs,
+  .[shall it] make the inheritor of learning .[and] the examiner of the olden,
+  get provided .[a] knowing of .[the] source .[and] flow
+  of glyphs .[and] characters,
+  and .[shall] the official, .[the] offices, the officer, .[and] the people,
+  also have that which .[to] adhere to .[and] keep.
 >>
 
 <<
