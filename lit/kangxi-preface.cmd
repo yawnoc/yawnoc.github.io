@@ -514,9 +514,17 @@ but concede that in most instances this will not be possible
 ==
 
 <<
-  凡五閱嵗\*、而其書始成、命曰字典。
+  凡五閱嵗、而其書始成、命曰字典。
 \\
+  .[A] total of five years passed,
+  and that book .[was] first completed,
+  .[and] named calling .[it a] Dictionary.
 >>
+==
+* .始： first; \lit began
+
+* .字典： Dictionary; \lit Character Canon
+==
 
 <<
   扵以昭同文之治、俾承學稽古者、得以備知文字之源流、而官府吏民、亦有所遵守焉。

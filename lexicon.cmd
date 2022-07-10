@@ -2075,6 +2075,11 @@ See also: [從容]
 * island
 ==
 
+9 [嵗] U+5D57
+==
+* \var [歲]
+==
+
 19 [巒] U+5DD2
 ==
 * pointed-hill; unbroken-hills
@@ -6251,6 +6256,12 @@ See also: [世間]
 ==
 * separate; partition
 * spy
+==
+
+7 [閱] U+95B1
+==
+* read
+* pass {:of time:}
 ==
 
 
