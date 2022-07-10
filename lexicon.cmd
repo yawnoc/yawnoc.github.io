@@ -190,6 +190,13 @@ Lookup by stroke count of radical:
   Non-literal renderings are marked \met ("metaphorically rendered").
 
 1.
+  Character entries are ordered by
+  ++{type=i}
+  1. radical, then
+  1. residual stroke count, then
+  1. presence in the Basic Multilingual Plane, then
+  1. code point.
+  ++
   Notes on stroke count:
   ==
   - Count 4~strokes (not~3) for the component .𠫓.
@@ -730,15 +737,15 @@ See also: [以來]
 * side
 ==
 
-10 [㑹] U+3479
-==
-* \var [會]
-==
-
 10 [備] U+5099
 ==
 * prepare
 * provide
+==
+
+10 [㑹] U+3479
+==
+* \var [會]
 ==
 
 11 [傳] U+50B3
