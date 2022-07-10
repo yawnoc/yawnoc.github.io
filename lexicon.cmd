@@ -1257,23 +1257,23 @@ See also: [北方]
 ==
 
 9 [參] U+53C3
-[平聲] 音森 sh(e-)n
+[平聲] .音森 sh(e-)n
 ==
 * .[the] Three {:constellation:}
 * ginseng
 ==
-[平聲] 音驂 c(e-)n
+[平聲] .音驂 c(e-)n
 ==
 * jagged; uneven
 ==
 ==
 * 參差： uneven
 ==
-[平聲] 音驂 c(a-)n
+[平聲] .音驂 c(a-)n
 ==
 * partake
 ==
-[平聲] 音三 s(a-)n
+[平聲] .音三 s(a-)n
 ==
 * \int [三]
 ==
@@ -2145,15 +2145,15 @@ See also: [左方]
 ==
 
 7 [差] U+5DEE
-[平聲] 音叉 ch(a-)
+[平聲] .音叉 ch(a-)
 ==
 * discrepancy; error
 ==
-[平聲] 音釵 ch(a-)i
+[平聲] .音釵 ch(a-)i
 ==
 * messenger
 ==
-[平聲] 音雌 c(i-)
+[平聲] .音雌 c(i-)
 ==
 * uneven
 ==
@@ -2448,25 +2448,25 @@ See also: [何得]
 --
 
 8 [從] U+5F9E
-[陰平] 音嵩 c(o-)ng
+[陰平] .音嵩 c(o-)ng
 ==
 * 從容： leisurely
 ==
-[陰平] 音蹤 z(o-)ng
+[陰平] .音蹤 z(o-)ng
 ==
 * \int [縱]: vertical [but [去聲] z(o\)ng in Mainlandia]
 * \int [蹤]
 ==
-[陽平] 音叢 c(o/)ng
+[陽平] .音叢 c(o/)ng
 ==
 * follow; pursue; obey
 * from
 ==
-[陰去] 音瘲 z(o\)ng
+[陰去] .音瘲 z(o\)ng
 ==
 * \int [縱]
 ==
-[陽去] 音頌 z(o\)ng
+[陽去] .音頌 z(o\)ng
 ==
 * paternal {:relative:}
 ==
@@ -3204,11 +3204,11 @@ See also: [及時]
 ==
 
 3 [更] U+66F4
-[平聲] 音庚
+[平聲] .音庚
 ==
 * change
 ==
-[平聲] 音耕
+[平聲] .音耕
 ==
 * [:noun:] watch; watch-hour
 ==
@@ -4361,17 +4361,17 @@ See also: [相傳]
 ### ⽭ (spear) U+2F6D
 
 4 [矜] U+77DC
-[陰平] 音京 j(i-)n
+[陰平] .音京 j(i-)n
 ==
 * pity
 * value; concern
 * reserved
 ==
-[陰平] 音關 gu(a-)n
+[陰平] .音關 gu(a-)n
 ==
 * \int [鰥]: widower
 ==
-[陽平] 音勤 q(i/)n
+[陽平] .音勤 q(i/)n
 ==
 * spear-handle
 ==
@@ -5325,7 +5325,7 @@ See also: [自相]
 ### ⾏ (walk-enclosure) U+2F8F
 
 0 [行] U+884C
-[平聲] 音蘅 x(i/)ng
+[平聲] .音蘅 x(i/)ng
 ==
 * walk; move
 * \met element
@@ -5333,11 +5333,11 @@ See also: [自相]
 --
 See also: [平行]
 --
-[平聲] 音航 h(a/)ng
+[平聲] .音航 h(a/)ng
 ==
 * column; file
 ==
-[去聲] 音幸 x(i\)ng [but [平聲] x(i/)ng in Mainlandia]
+[去聲] .音幸 x(i\)ng [but [平聲] x(i/)ng in Mainlandia]
 ==
 * [:noun:] conduct
 ==
@@ -5808,11 +5808,11 @@ See also: [平行]
 ### ⾞ (cart) U+2F9E
 
 0 [車] U+8ECA
-[平聲] 音居
+[平聲] .音居
 ==
 * chariot
 ==
-[平聲] 音硨
+[平聲] .音硨
 ==
 * cart
 ==
