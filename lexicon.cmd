@@ -3754,8 +3754,9 @@ See also: [以為], [為政]
 
 5 [爰] U+7230
 ==
-* then
+* therefore
 * change
+* [:speech-assist:]
 ==
 ==
 * 爰書： changed writing; \met prisoner's writing
@@ -4573,6 +4574,12 @@ See also: [符驗]
 * chapter
 ==
 
+14 [籍] U+7C4D
+==
+* book
+* register
+==
+
 
 ### ⽶ (rice) U+2F76
 
@@ -4984,6 +4991,11 @@ See also: [自相]
 * recommend
 * deed
 * entire
+==
+
+12 [舊] U+820A
+==
+* old
 ==
 
 

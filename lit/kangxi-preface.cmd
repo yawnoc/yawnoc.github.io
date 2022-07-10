@@ -450,6 +450,8 @@ but concede that in most instances this will not be possible
 <<
   爰命儒臣、悉取舊籍、次第排纂、切音觧義、一夲說文玉萹、兼\*用廣韻集韻韻㑹正韻。
 \\
+  Therefore commanded .[I the] scholars .[and the] ministers,
+  .[that they] take completely .[the] old books,
 >>
 
 <<
