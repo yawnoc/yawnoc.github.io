@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-07-07
+* %date-modified --> 2022-07-10
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -268,10 +268,10 @@ See also: [意下]
 
 3 [不] U+4E0D
 ==
-* not
+* not; un-
 ==
 --
-See also: [不盡]
+See also: [不盡], [莫不]
 --
 
 4 [且] U+4E14
@@ -320,6 +320,9 @@ See also: [逝世]
 [去聲]
 ==
 * hit {:a target:}
+==
+==
+* 失中： miss .[the] mark
 ==
 
 
@@ -395,6 +398,12 @@ See also: [逝世]
 
 
 ### ⼅ (hook) U+2F05
+
+1 [了] U+4E86
+==
+* finish
+* \var [瞭]
+==
 
 7 [事] U+4E8B
 ==
@@ -488,6 +497,9 @@ See also: [逝世]
 * {:generic:} man; human; person
 * another; others
 ==
+--
+See also: [詩人]
+--
 
 2 [仁] U+4EC1
 ==
@@ -505,6 +517,15 @@ See also: [逝世]
 ==
 * immortal
 ==
+
+3 [代] U+4EE3
+==
+* replace
+* age
+==
+--
+See also: [歷代]
+--
 
 3 [令] U+4EE4
 ==
@@ -524,6 +545,8 @@ See also: [逝世]
 * [:speech-assist:]
 ==
 ==
+* 以來： theresince
+* 以後： thereafter
 * 以為： think; believe
 ==
 --
@@ -595,10 +618,13 @@ See also: [幾何]
 ==
 * come
 ==
+--
+See also: [以來]
+--
 
 6 [依] U+4F9D
 ==
-* lean upon
+* lean upon; rely
 * according unto
 ==
 
@@ -624,6 +650,11 @@ See also: [幾何]
 * promptly
 ==
 
+7 [保] U+4FDD
+==
+* secure
+==
+
 7 [信] U+4FE1
 ==
 * trust; believe; trustworthy
@@ -637,6 +668,11 @@ See also: [幾何]
 8 [俱] U+4FF1
 ==
 * all; \met both
+==
+
+8 [俾] U+4FFE
+==
+* make; that
 ==
 
 8 [倍] U+500D
@@ -673,6 +709,11 @@ See also: [幾何]
 * rest
 ==
 
+9 [偏] U+504F
+==
+* bias; one-sided
+==
+
 9 [健] U+5065
 ==
 * robust; healthy
@@ -681,6 +722,32 @@ See also: [幾何]
 9 [側] U+5074
 ==
 * side
+==
+
+10 [㑹] U+3479
+==
+* \var [會]
+==
+
+10 [備] U+5099
+==
+* prepare
+* provide
+==
+
+11 [傳] U+50B3
+[平聲]
+==
+* transmit
+* summon
+==
+==
+* 相傳： \met transmitted down
+==
+[去聲]
+==
+* chronicle
+* commentary
 ==
 
 13 [僵] U+50F5
@@ -806,9 +873,29 @@ See also: [幾何]
 * [:speech-assist:]
 ==
 
+6 [具] U+5177
+==
+* tool
+* equip
+==
+
+6 [典] U+5178
+==
+* canon
+==
+==
+* 字典： dictionary
+==
+
 7 [兹] U+5179
 ==
 * \var [茲]
+==
+
+8 [兼] U+517C
+==
+* combine
+* simultaneously
 ==
 
 
@@ -878,6 +965,17 @@ See also: [幾何]
 * duty
 ==
 
+2 [切] U+5207
+[去聲]
+==
+* everything
+==
+[入聲]
+==
+* cut
+* dissect
+==
+
 4 [列] U+5217
 ==
 * row; rank
@@ -901,7 +999,7 @@ See also: [幾何]
 ==
 * statute
 * emulate
-* then
+* then; thus
 * [:speech-assist:]
 ==
 
@@ -942,6 +1040,11 @@ See also: [幾何]
 3 [加] U+52A0
 ==
 * add; plus
+==
+
+5 [助] U+52A9
+==
+* assist
 ==
 
 7 [勉] U+52C9
@@ -1102,6 +1205,11 @@ See also: [北方]
 * \var [卻]
 ==
 
+6 [卷] U+5377
+==
+* roll; \met book
+==
+
 7 [卻] U+537B
 ==
 * decline
@@ -1115,6 +1223,7 @@ See also: [北方]
 8 [原] U+539F
 ==
 * original
+* plain
 ==
 
 
@@ -1246,12 +1355,12 @@ See also: [北方]
 
 2 [史] U+53F2
 ==
-* history; record
+* history; historian; record
 ==
 
 2 [右] U+53F3
 ==
-* right; \met above
+* right; \met above; west
 ==
 --
 See also: [右方]
@@ -1277,7 +1386,7 @@ See also: [合奏]
 
 3 [同] U+540C
 ==
-* same
+* same; concur
 * together
 ==
 --
@@ -1287,6 +1396,12 @@ See also: [同式]
 3 [名] U+540D
 ==
 * name
+* glyph
+==
+
+3 [吏] U+540F
+==
+* officer
 ==
 
 3 [吐] U+5410
@@ -1421,6 +1536,9 @@ See also: [未嘗]
 ==
 * nation; country; state
 ==
+==
+* 國子： noble children
+==
 
 10 [圓] U+5713
 ==
@@ -1465,6 +1583,11 @@ See also: [未嘗]
 ==
 * fort; (city) wall
 * city
+==
+
+8 [域] U+57DF
+==
+* domain
 ==
 
 8 [基] U+57FA
@@ -1598,6 +1721,15 @@ See also: [中央]
 * mis-
 * mistake
 ==
+--
+See also: [失中]
+--
+
+2 [夲] U+5932
+==
+* haste
+* \var [本]
+==
 
 5 [奇] U+5947
 [陰平]
@@ -1609,6 +1741,12 @@ See also: [中央]
 * odd {:strange:}
 ==
 
+5 [奉] U+5949
+==
+* offer
+* serve
+==
+
 6 [奏] U+594F
 ==
 * report
@@ -1616,6 +1754,12 @@ See also: [中央]
 ==
 ==
 * 合奏： play .[in] ensemble
+==
+
+6 [契] U+5951
+==
+* bond; deed
+* engrave
 ==
 
 6 [奕] U+5955
@@ -1710,19 +1854,23 @@ See also: [嬉戲]
 * child; son; daughter
 * numerator
 * master {:teacher:}; \met thou
+* initial
 ==
 ==
 * 夫子： master
 ==
 --
-See also: [君子], [女子], [弟子], [獅子]
+See also: [君子], [國子], [女子], [弟子], [獅子]
 --
 
 3 [字] U+5B57
 ==
-* word
+* character
 * style(-name)
 ==
+--
+See also: [字典]
+--
 
 5 [孤] U+5B64
 ==
@@ -1740,9 +1888,24 @@ See also: [君子], [女子], [弟子], [獅子]
 
 ### ⼧ (roof) U+2F27
 
+3 [守] U+5B88
+[上聲]
+==
+* keep
+==
+[去聲] [but .上聲 in Mandarin]
+==
+* keeper
+==
+
 5 [宗] U+5B97
 ==
 * ancestor
+==
+
+5 [官] U+5B98
+==
+* official
 ==
 
 6 [室] U+5BA4
@@ -1754,6 +1917,8 @@ See also: [君子], [女子], [弟子], [獅子]
 7 [家] U+5BB6
 ==
 * family; house
+* school {:of thought:}
+* [:classifier:]
 ==
 
 7 [容] U+5BB9
@@ -1920,6 +2085,11 @@ See also: [從容]
 * island
 ==
 
+9 [嵗] U+5D57
+==
+* \var [歲]
+==
+
 19 [巒] U+5DD2
 ==
 * pointed-hill; unbroken-hills
@@ -1927,6 +2097,11 @@ See also: [從容]
 
 
 ### ⼮ (river) U+2F2E
+
+0 [川] U+5DDD
+==
+* stream
+==
 
 
 ### ⼯ (work) U+2F2F
@@ -1938,7 +2113,7 @@ See also: [從容]
 
 2 [左] U+5DE6
 ==
-* left
+* left; \met below; east
 ==
 --
 See also: [左方]
@@ -2077,9 +2252,21 @@ See also: [參差]
 
 ### ⼴ (dotted-cliff) U+2F34
 
+4 [序] U+5E8F
+==
+* order
+* preface
+==
+
 5 [庚] U+5E9A
 ==
 * G {:7th heavenly stem:}
+==
+
+5 [府] U+5E9C
+==
+* office
+* treasury
 ==
 
 6 [度] U+5EA6
@@ -2208,17 +2395,25 @@ See also: [參差]
 6 [後] U+5F8C
 ==
 * rear; hind; behind
-* after
+* after(ward); latter
 * afterbear
 ==
 ==
 * 後生： the young
 ==
+--
+See also: [以後]
+--
 
 7 [徑] U+5F91
 ==
 * path
 * diameter
+==
+
+6 [従] U+5F93
+==
+* \var [從]
 ==
 
 8 [得] U+5F97
@@ -2334,6 +2529,9 @@ See also: [何得]
 ==
 * must; surely
 ==
+--
+See also: [未必]
+--
 
 3 [志] U+5FD7
 ==
@@ -2348,6 +2546,12 @@ See also: [何得]
 4 [快] U+5FEB
 ==
 * pleasure
+==
+
+4 [念] U+5FF5
+==
+* think
+* recite
 ==
 
 4 [忽] U+5FFD
@@ -2445,6 +2649,11 @@ See also: [性命]
 * fearful
 ==
 
+13 [憾] U+61BE
+==
+* regret
+==
+
 13 [應] U+61C9
 [平聲]
 ==
@@ -2524,6 +2733,16 @@ See also: [所在]
 * talent
 ==
 
+4 [扵] U+6275
+==
+* \var [於]
+==
+
+4 [承] U+627F
+==
+* inherit; bear
+==
+
 4 [抄] U+6284
 ==
 * seize
@@ -2568,10 +2787,17 @@ See also: [所在]
 8 [掌] U+638C
 ==
 * palm
+* in charge (of)
 ==
 --
 See also: [掌握]
 --
+
+8 [排] U+6392
+==
+* arrange; line up
+* eject
+==
 
 8 [採] U+63A1
 ==
@@ -2635,7 +2861,9 @@ See also: [掌握]
 13 [據] U+64DA
 ==
 * possess
+* evidence
 * according unto
+* rely; cite
 ==
 
 
@@ -2647,6 +2875,7 @@ See also: [掌握]
 2 [收] U+6536
 ==
 * gather; restrain
+* admit
 * take back
 ==
 
@@ -2741,6 +2970,11 @@ See also: [掌握]
 
 ### ⽂ (script) U+2F42
 
+0 [文] U+6587
+==
+* text; glyph; literary
+==
+
 
 ### ⽃ (dipper) U+2F43
 
@@ -2815,6 +3049,12 @@ See also: [至於]
 * impart
 ==
 
+6 [旁] U+65C1
+==
+* side
+* wide
+==
+
 
 ### ⽆ (not) U+2F46
 
@@ -2844,6 +3084,16 @@ See also: [至於]
 * next {:of dates:}
 ==
 
+4 [易] U+6613
+[去聲]
+==
+* easy
+==
+[入聲]
+==
+* change; exchange
+==
+
 4 [昔] U+6614
 ==
 * aforetime
@@ -2857,6 +3107,11 @@ See also: [至於]
 5 [春] U+6625
 ==
 * spring
+==
+
+5 [昭] U+662D
+==
+* illustrious; illuminate
 ==
 
 5 [是] U+662F
@@ -2882,6 +3137,11 @@ See also: [及時]
 7 [晨] U+6668
 ==
 * dawn
+==
+
+7 [曽] U+66FD
+==
+* \var [曾]
 ==
 
 8 [景] U+666F
@@ -2940,16 +3200,27 @@ See also: [及時]
 
 6 [書] U+66F8
 ==
-* writing
+* writing; script
 * book; epistle
 ==
 --
 See also: [爰書]
 --
 
+8 [曾] U+66FE
+[陰平]
+==
+* great-
+==
+[陽平]
+==
+* once; ever
+==
+
 9 [會] U+6703
 ==
 * meet; assemble
+* comprehend
 ==
 
 
@@ -2972,6 +3243,12 @@ See also: [有餘]
 [去聲]
 ==
 * \int [又]: and
+==
+
+6 [朕] U+6715
+==
+* I
+* omen
 ==
 
 7 [朗] U+6717
@@ -3010,6 +3287,7 @@ See also: [有餘]
 ==
 ==
 * 未嘗： not ever
+* 未必： not necessarily
 ==
 
 1 [末] U+672B
@@ -3020,12 +3298,17 @@ See also: [有餘]
 1 [本] U+672C
 ==
 * base
-* version
+* version; copy
 ==
 
 2 [朽] U+673D
 ==
 * rot
+==
+
+3 [来] U+6765
+==
+* \var [來]
 ==
 
 4 [東] U+6771
@@ -3124,6 +3407,11 @@ See also: [有餘]
 * roof-beam
 ==
 
+11 [横] U+6A2A
+==
+* \var [橫]
+==
+
 12 [樹] U+6A39
 ==
 * tree
@@ -3157,7 +3445,8 @@ See also: [有餘]
 
 2 [次] U+6B21
 ==
-* next
+* next; second
+* sequence
 ==
 
 7 [欲] U+6B32
@@ -3189,7 +3478,7 @@ See also: [蒞止]
 
 1 [正] U+6B63
 ==
-* right
+* right; proper
 * directly
 ==
 --
@@ -3212,9 +3501,17 @@ See also: [改正]
 * Jupiter
 ==
 
+10 [歴] U+6B74
+==
+* \var [歷]
+==
+
 12 [歷] U+6B77
 ==
 * endure
+==
+==
+* 歷代： through .[the] ages
 ==
 
 14 [歸] U+6B78
@@ -3257,6 +3554,12 @@ See also: [改正]
 ==
 * mother
 * denominator
+* final; initial
+==
+
+3 [每] U+6BCF
+==
+* every
 ==
 
 
@@ -3283,6 +3586,7 @@ See also: [改正]
 ==
 * clan
 * surname; \met Mr
+* [:suffix:]
 ==
 
 1 [民] U+6C11
@@ -3337,7 +3641,7 @@ See also: [改正]
 
 5 [治] U+6CBB
 ==
-* govern; administer; order
+* govern; administer
 ==
 
 5 [泉] U+6CC9
@@ -3359,6 +3663,11 @@ See also: [改正]
 * shoot; strike
 * wager
 * \var [註]
+==
+
+6 [流] U+6D41
+==
+* flow; \met spread
 ==
 
 6 [津] U+6D25
@@ -3386,6 +3695,16 @@ See also: [改正]
 * deep (water)
 ==
 
+8 [淺] U+6DFA
+==
+* shallow
+==
+
+8 [清] U+6E05
+==
+* clear; pure
+==
+
 9 [減] U+6E1B
 ==
 * subtract
@@ -3400,6 +3719,11 @@ See also: [改正]
 9 [湖] U+6E56
 ==
 * lake
+==
+
+10 [源] U+6E90
+==
+* source
 ==
 
 10 [準] U+6E96
@@ -3423,6 +3747,11 @@ See also: [改正]
 * (mountain-)stream
 ==
 
+13 [濁] U+6FC1
+==
+* murky
+==
+
 14 [濕] U+6FD5
 ==
 * wet
@@ -3431,6 +3760,12 @@ See also: [改正]
 14 [濟] U+6FDF
 ==
 * cross {:over water:}
+==
+
+14 [濫] U+6FEB
+==
+* overflow
+* excessive
 ==
 
 
@@ -3446,7 +3781,7 @@ See also: [改正]
 ==
 * make
 * do
-* be; become
+* be; become; as
 ==
 --
 See also: [以為], [為政]
@@ -3502,8 +3837,9 @@ See also: [以為], [為政]
 
 5 [爰] U+7230
 ==
-* then
+* therefore
 * change
+* [:speech-assist:]
 ==
 ==
 * 爰書： changed writing; \met prisoner's writing
@@ -3579,6 +3915,16 @@ See also: [以為], [為政]
 5 [狐] U+72D0
 ==
 * fox
+==
+
+6 [狭] U+72ED
+==
+* \var [狹]
+==
+
+7 [狹] U+72F9
+==
+* narrow
 ==
 
 9 [猶] U+7336
@@ -3664,6 +4010,13 @@ See also: [以為], [為政]
 * [:verb:] king
 ==
 
+6 [班] U+73ED
+==
+* rank
+* recall
+* issue
+==
+
 7 [現] U+73FE
 ==
 * appear; manifest
@@ -3693,6 +4046,11 @@ See also: [以為], [為政]
 
 
 ### ⽢ (sweet) U+2F62
+
+4 [甚] U+751A
+==
+* exceeding
+==
 
 
 ### ⽣ (life) U+2F63
@@ -3744,6 +4102,13 @@ See also: [後生]
 * field
 ==
 
+6 [略] U+7565
+==
+* outline; rough
+* omit; neglect
+* plunder
+==
+
 6 [異] U+7570
 ==
 * different; strange; \met opposite
@@ -3757,17 +4122,19 @@ See also: [後生]
 [入聲]
 ==
 * [:verb:] draw; paint
+* stroke
 ==
 
 8 [當] U+7576
 [平聲]
 ==
 * suit
-* serve
+* serve; undertake
 * administer
 * face
 * withstand
 * at; when
+* present
 * ought to
 ==
 [去聲]
@@ -3868,6 +4235,11 @@ See also: [百萬]
 * benefit
 ==
 
+6 [盖] U+76D6
+==
+* \var [蓋]
+==
+
 6 [盛] U+76DB
 [平聲]
 ==
@@ -3912,10 +4284,26 @@ See also: [百萬]
 ==
 * 自相： with itself
 ==
+--
+See also: [相傳]
+--
 [去聲]
 ==
 * appearance; physiognomy
 * minister
+==
+
+4 [省] U+7701
+[上聲] .耕韻 sh(e^)ng
+==
+* omit; abbreviate
+* scarce
+* province
+==
+[上聲] .清韻 x(iv)ng
+==
+* inspect
+* comprehend
 ==
 
 4 [眉] U+7709
@@ -3936,6 +4324,11 @@ See also: [百萬]
 6 [眾] U+773E
 ==
 * multitude
+==
+
+12 [瞭] U+77AD
+==
+* clear
 ==
 
 12 [瞰] U+77B0
@@ -3968,6 +4361,11 @@ See also: [百萬]
 0 [矢] U+77E2
 ==
 * arrow
+==
+
+2 [矣] U+77E3
+==
+* [:speech-assist:]
 ==
 
 3 [知] U+77E5
@@ -4232,6 +4630,12 @@ See also: [規矩]
 See also: [符驗]
 --
 
+5 [第] U+7B2C
+==
+* order
+* [:ordinal-marker:]
+==
+
 6 [等] U+7B49
 ==
 * rank
@@ -4258,6 +4662,22 @@ See also: [符驗]
 ==
 * compute
 * \var [筭]
+==
+
+9 [篆] U+7BC6
+==
+* seal-script
+==
+
+9 [篇] U+7BC7
+==
+* chapter
+==
+
+14 [籍] U+7C4D
+==
+* book
+* register
 ==
 
 
@@ -4326,6 +4746,11 @@ See also: [御米]
 * all
 ==
 
+6 [結] U+7D50
+==
+* knot
+==
+
 6 [絕] U+7D55
 ==
 * cut (off); sever
@@ -4335,6 +4760,11 @@ See also: [御米]
 6 [絫] U+7D6B
 ==
 * [:unit:] pile
+==
+
+6 [統] U+7D71
+==
+* govern; unite
 ==
 
 6 [絲] U+7D72
@@ -4371,6 +4801,19 @@ See also: [御米]
 * unbroken
 ==
 
+9 [編] U+7DE8
+==
+* compile; arrange
+==
+==
+* 編輯： edit
+==
+
+9 [緫] U+7DEB
+==
+* \var [總]
+==
+
 9 [緯] U+7DEF
 ==
 * woof; parallel
@@ -4395,23 +4838,51 @@ See also: [御米]
 
 11 [總] U+7E3D
 ==
-* total
+* total; aggregate
 ==
 
 11 [繁] U+7E41
 ==
 * complicated
+* numerous
+==
+
+13 [繩] U+7E69
+==
+* cord; string
+==
+
+14 [纂] U+7E82
+==
+* compile
 ==
 
 
 ### ⽸ (jar) U+2F78
 
+4 [缺] U+7F3A
+==
+* deficient; gap
+==
+
 
 ### ⽹ (net) U+2F79
+
+3 [罔] U+7F54
+==
+* net
+* without
+* libel
+==
 
 8 [置] U+7F6E
 ==
 * put
+==
+
+14 [羅] U+7F85
+==
+* net
 ==
 
 
@@ -4430,6 +4901,7 @@ See also: [御米]
 7 [義] U+7FA9
 ==
 * righteousness
+* meaning
 ==
 
 
@@ -4453,7 +4925,7 @@ See also: [御米]
 
 4 [者] U+8005
 ==
-* {:generic:} he that; that which; those; one
+* {:generic:} he that; that which; those; one; -er
 * [:speech-assist:]
 ==
 
@@ -4529,6 +5001,16 @@ See also: [聯翩]
 
 ### ⾀ (brush) U+2F80
 
+8 [肇] U+8087
+==
+* initiate
+==
+
+8 [肈] U+8088
+==
+* \var [肇]
+==
+
 
 ### ⾁ (meat) U+2F81
 
@@ -4582,6 +5064,7 @@ See also: [自相]
 * arrive; reach; unto
 * most; extremity
 * solstice
+* as .[for]
 ==
 ==
 * 至於： as to
@@ -4619,6 +5102,11 @@ See also: [自相]
 * recommend
 * deed
 * entire
+==
+
+12 [舊] U+820A
+==
+* old
 ==
 
 
@@ -4668,6 +5156,7 @@ See also: [自相]
 ==
 [入聲]
 ==
+* thou
 * if
 * as
 ==
@@ -4697,6 +5186,9 @@ See also: [自相]
 ==
 * cannot; do not
 ==
+==
+* 莫不： \met do
+==
 
 8 [著] U+8457
 [去聲]
@@ -4715,6 +5207,11 @@ See also: [自相]
 * contact; \met upon
 ==
 
+9 [萹] U+8439
+==
+* \var [篇]
+==
+
 10 [蒙] U+8499
 ==
 * cover
@@ -4729,6 +5226,23 @@ See also: [自相]
 ==
 ==
 * 蒞止： attend
+==
+
+10 [蓋] U+84CB
+[去聲]
+==
+* cover
+* broadly
+* for; so
+* [:speech-assist:]
+==
+[陰入]
+==
+* (K(e^)|蓋) {:name:}
+==
+[陽入]
+==
+* \var [盍]
 ==
 
 11 [蔚] U+851A
@@ -4839,6 +5353,17 @@ See also: [平行]
 * shroud
 ==
 
+5 [被] U+88AB
+[上聲]
+==
+* blanket
+* cover
+==
+[去聲]
+==
+* by
+==
+
 7 [裏] U+88CF
 ==
 * undergarment
@@ -4898,6 +5423,7 @@ See also: [平行]
 [陰去]
 ==
 * see; meet
+* [:noun:] view
 ==
 [陽去]
 ==
@@ -4940,6 +5466,26 @@ See also: [平行]
 0 [角] U+89D2
 ==
 * horn; corner
+==
+
+6 [解] U+89E3
+[上聲]
+==
+* unfasten; unravel
+* interpret
+==
+[陰去]
+==
+* escort
+==
+[陽去]
+==
+* conclude
+==
+
+6 [觧] U+89E7
+==
+* \var [解]
 ==
 
 
@@ -5002,7 +5548,13 @@ See also: [平行]
 * poem; verse
 ==
 ==
+* 詩人： poet
 * 詩士： poet
+==
+
+6 [詳] U+8A73
+==
+* detail
 ==
 
 6 [誠] U+8AA0
@@ -5083,6 +5635,11 @@ See also: [平行]
 * careful; \met stricten
 ==
 
+12 [證] U+8B49
+==
+* attest
+==
+
 12 [識] U+8B58
 ==
 * know; knowledge
@@ -5114,6 +5671,12 @@ See also: [平行]
 
 
 ### ⾗ (pig) U+2F97
+
+5 [象] U+8C61
+==
+* elephant
+* image; resemble
+==
 
 
 ### ⾘ (badger) U+2F98
@@ -5161,6 +5724,11 @@ See also: [平行]
 * depend upon
 ==
 
+11 [賾] U+8CFE
+==
+* profound
+==
+
 
 ### ⾚ (red) U+2F9A
 
@@ -5197,6 +5765,11 @@ See also: [平行]
 * road; path
 ==
 
+7 [踈] U+8E08
+==
+* \var [疏]
+==
+
 11 [蹤] U+8E64
 ==
 * [:noun:] trace
@@ -5227,6 +5800,7 @@ See also: [平行]
 [去聲]
 ==
 * compare
+* evident
 ==
 [入聲]
 ==
@@ -5242,6 +5816,13 @@ See also: [平行]
 [去聲]
 ==
 * [:verb:] carry
+* record
+==
+
+7 [輒] U+8F12
+==
+* immediately; then
+* every; always
 ==
 
 7 [輔] U+8F14
@@ -5255,9 +5836,20 @@ See also: [平行]
 * [:verb:] make light
 ==
 
+8 [輙] U+8F19
+==
+* \var [輒]
+==
+
 8 [輪] U+8F2A
 ==
 * wheel
+==
+
+9 [輯] U+8F2F
+==
+* gather
+* compile
 ==
 
 9 [輸] U+8F38
@@ -5274,6 +5866,11 @@ See also: [平行]
 ==
 * pungent
 * H {:8th heavenly stem:}
+==
+
+9 [辨] U+8FA8
+==
+* distinguish; distinction
 ==
 
 12 [辭] U+8FAD
@@ -5328,6 +5925,11 @@ See also: [遠近]
 * alternate
 ==
 
+5 [述] U+8FF0
+==
+* relate
+==
+
 6 [退] U+9000
 ==
 * retreat
@@ -5336,6 +5938,11 @@ See also: [遠近]
 6 [逆] U+9006
 ==
 * defy; go against
+==
+
+7 [逓] U+9013
+==
+* \var [遞]
 ==
 
 7 [通] U+901A
@@ -5371,6 +5978,13 @@ See also: [遠近]
 * advance
 ==
 
+8 [逸] U+9038
+==
+* escape
+* lost
+* leisurely
+==
+
 9 [遂] U+9042
 ==
 * then
@@ -5399,9 +6013,22 @@ See also: [遠近]
 * way; Tao
 ==
 
+9 [達] U+9054
+==
+* attain
+* convey
+==
+
 10 [遙] U+9059
 ==
 * distant
+==
+
+10 [遞] U+905E
+==
+* (take) turns
+* deliver
+* by degrees
 ==
 
 10 [遠] U+9060
@@ -5435,6 +6062,17 @@ See also: [遠近]
 * just
 ==
 
+12 [遵] U+9075
+==
+* adhere
+==
+
+12 [遺] U+907A
+==
+* leave; abandon
+* omit
+==
+
 13 [避] U+907F
 ==
 * avoid
@@ -5458,6 +6096,11 @@ See also: [遠近]
 6 [郊] U+90CA
 ==
 * outskirt
+==
+
+8 [部] U+90E8
+==
+* section
 ==
 
 9 [鄉] U+9109
@@ -5636,6 +6279,11 @@ See also: [數量]
 * open
 ==
 
+4 [閏] U+958F
+==
+* leap {:intercalary:}
+==
+
 4 [間] U+9593
 [平聲]
 ==
@@ -5649,6 +6297,12 @@ See also: [世間]
 ==
 * separate; partition
 * spy
+==
+
+7 [閱] U+95B1
+==
+* read
+* pass {:of time:}
 ==
 
 
@@ -5710,13 +6364,29 @@ See also: [世間]
 * moral
 ==
 
+10 [随] U+968F
+==
+* \var [隨]
+==
+
 13 [隨] U+96A8
 ==
-* follow
+* follow; \met according unto
 ==
 
 
 ### ⾪ (slave) U+2FAA
+
+8 [隷] U+96B7
+==
+* \var [隸]
+==
+
+9 [隸] U+96B8
+==
+* slave
+* clerical-script
+==
 
 
 ### ⾫ (short-tailed-bird) U+2FAB
@@ -5739,6 +6409,11 @@ See also: [鴻雁]
 ==
 * male; male-bird
 * hero; mighty
+==
+
+4 [集] U+96C6
+==
+* collect
 ==
 
 5 [雌] U+96CC
@@ -5811,6 +6486,12 @@ See also: [鴻雁]
 * 是非： right .[and] wrong; quarrel
 ==
 
+11 [靡] U+9761
+==
+* extravagant
+* not
+==
+
 
 ## 9-stroke radicals
 
@@ -5847,6 +6528,16 @@ See also: [鴻雁]
 
 
 ### ⾳ (sound) U+2FB3
+
+0 [音] U+97F3
+==
+* sound; pronunciation
+==
+
+10 [韻] U+97FB
+==
+* rime
+==
 
 11 [響] U+97FF
 ==
@@ -5886,6 +6577,11 @@ See also: [鴻雁]
 * look back
 ==
 
+14 [顯] U+986F
+==
+* distinguish
+==
+
 
 ### ⾵ (wind) U+2FB5
 
@@ -5923,7 +6619,7 @@ See also: [鴻雁]
 
 6 [養] U+990A
 ==
-* provide (for); support
+* provide (for); support; raise
 ==
 
 7 [餘] U+9918
@@ -5988,6 +6684,12 @@ See also: [鴻雁]
 
 ### ⾻ (bone) U+2FBB
 
+13 [體] U+9AD4
+==
+* body; appendage
+* style
+==
+
 
 ### ⾼ (tall) U+2FBC
 
@@ -5997,8 +6699,18 @@ See also: [鴻雁]
 * tall
 ==
 
+0 [髙] U+9AD9
+==
+* \var [高]
+==
+
 
 ### ⾽ (hair) U+2FBD
+
+5 [髮] U+9AEE
+==
+* hair
+==
 
 
 ### ⾾ (fight) U+2FBE
@@ -6035,6 +6747,17 @@ See also: [鴻雁]
 0 [魚] U+9B5A
 ==
 * fish
+==
+
+6 [鮮] U+9BAE
+[平聲]
+==
+* fresh-fish; fresh-meat
+* fresh
+==
+[上聲]
+==
+* rare
 ==
 
 10 [鰥] U+9C25
