@@ -6279,6 +6279,11 @@ See also: [數量]
 * open
 ==
 
+4 [閏] U+958F
+==
+* leap {:intercalary:}
+==
+
 4 [間] U+9593
 [平聲]
 ==
