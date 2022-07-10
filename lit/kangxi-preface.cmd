@@ -463,6 +463,11 @@ but concede that in most instances this will not be possible
   --
   As written in the original text ![夲]. Used as a variant for~.本.
   --
+
+* .兼
+  --
+  Written ![兼-2] in the original text with bottom having 4~dots.
+  --
 ==
 
 <<
