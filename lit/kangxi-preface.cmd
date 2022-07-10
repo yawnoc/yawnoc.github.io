@@ -332,7 +332,7 @@ but concede that in most instances this will not be possible
     扵明則洪武正韻、\
   皆流通當世、衣被後學。
 \\
-  Since Explaining Glyphs .[and] afterward,
+  Since Explaining Glyphs .[and] thereafter,
   the good of .[the] character books, .[were]
     in .[the] (Liang|鿄) .[Dynasty the] Jade Chapters,
     in .[the] (T'ang|唐) .[the] Broadened Rimes,
@@ -482,7 +482,18 @@ but concede that in most instances this will not be possible
 <<
   至諸書引證未備者、則自經史百子以及漢晉唐宋元明以来詩人文士所述、莫不旁羅博證、使有依據。
 \\
+  .[And] as .[for] those not yet provided
+  .[among] all .[the] books drawn upon .[for] attestation,
+  then from .[the] Classics, .[the] Histories, .[and the] Hundred Masters,
+  and .[from] that related .[by the] poets .[and] literary scholars
+  of .[the dynasties] (Han|漢), (Tsin|晉),
+  (T'ang|唐), (Sung|宋), (Y(u")an|元), .[and] (Ming|明) .[and] theresince,
+  .[that they] do widen .[the] net .[and] broaden .[the] attestations .[taken],
+  making .[it] have reliance .[and] evidence.
 >>
+=={.translation-annotations}
+* .莫不： do; \lit do not not
+==
 
 <<
   然後古今形體之辨、方言聲氣之殊、部分班列、開卷了然、無一義之不詳、一音之不備矣。

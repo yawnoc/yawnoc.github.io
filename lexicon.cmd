@@ -271,7 +271,7 @@ See also: [意下]
 * not; un-
 ==
 --
-See also: [不盡]
+See also: [不盡], [莫不]
 --
 
 4 [且] U+4E14
@@ -491,6 +491,9 @@ See also: [逝世]
 * {:generic:} man; human; person
 * another; others
 ==
+--
+See also: [詩人]
+--
 
 2 [仁] U+4EC1
 ==
@@ -536,6 +539,8 @@ See also: [歷代]
 * [:speech-assist:]
 ==
 ==
+* 以來： theresince
+* 以後： thereafter
 * 以為： think; believe
 ==
 --
@@ -607,10 +612,13 @@ See also: [幾何]
 ==
 * come
 ==
+--
+See also: [以來]
+--
 
 6 [依] U+4F9D
 ==
-* lean upon
+* lean upon; rely
 * according unto
 ==
 
@@ -2361,6 +2369,9 @@ See also: [參差]
 ==
 * 後生： the young
 ==
+--
+See also: [以後]
+--
 
 7 [徑] U+5F91
 ==
@@ -2813,6 +2824,7 @@ See also: [掌握]
 13 [據] U+64DA
 ==
 * possess
+* evidence
 * according unto
 * rely; cite
 ==
@@ -2923,7 +2935,7 @@ See also: [掌握]
 
 0 [文] U+6587
 ==
-* text; glyph
+* text; glyph; literary
 ==
 
 
@@ -2998,6 +3010,12 @@ See also: [至於]
 5 [施] U+65BD
 ==
 * impart
+==
+
+6 [旁] U+65C1
+==
+* side
+* wide
 ==
 
 
@@ -3244,6 +3262,11 @@ See also: [有餘]
 2 [朽] U+673D
 ==
 * rot
+==
+
+3 [来] U+6765
+==
+* \var [來]
 ==
 
 4 [東] U+6771
@@ -4799,6 +4822,11 @@ See also: [御米]
 * put
 ==
 
+14 [羅] U+7F85
+==
+* net
+==
+
 
 ### ⽺ (sheep) U+2F7A
 
@@ -4978,6 +5006,7 @@ See also: [自相]
 * arrive; reach; unto
 * most; extremity
 * solstice
+* as .[for]
 ==
 ==
 * 至於： as to
@@ -5098,6 +5127,9 @@ See also: [自相]
 7 [莫] U+83AB
 ==
 * cannot; do not
+==
+==
+* 莫不： \met do
 ==
 
 8 [著] U+8457
@@ -5458,6 +5490,7 @@ See also: [平行]
 * poem; verse
 ==
 ==
+* 詩人： poet
 * 詩士： poet
 ==
 
@@ -5542,6 +5575,11 @@ See also: [平行]
 11 [謹] U+8B39
 ==
 * careful; \met stricten
+==
+
+12 [證] U+8B49
+==
+* attest
 ==
 
 12 [識] U+8B58
@@ -5822,6 +5860,11 @@ See also: [遠近]
 5 [迭] U+8FED
 ==
 * alternate
+==
+
+5 [述] U+8FF0
+==
+* relate
 ==
 
 6 [退] U+9000
