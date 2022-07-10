@@ -118,7 +118,7 @@ but concede that in most instances this will not be possible
 =={.translation-annotations}
 * Here we have `U+7155`~.煕 rather than `U+7199`~.熙.
 
-* .字典： dictionary; \lit character canon
+* .字典： Dictionary; \lit Character Canon
 ==
 
 <<
