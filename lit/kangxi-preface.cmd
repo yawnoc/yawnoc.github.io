@@ -498,7 +498,14 @@ but concede that in most instances this will not be possible
 <<
   然後古今形體之辨、方言聲氣之殊、部分班列、開卷了然、無一義之不詳、一音之不備矣。
 \\
+  .[Then] afterward .[the] distinction .[between]
+  olden .[and] current forms .[and] styles,
+  .[and the] disparity .[in] voice .[and] air
+  of .[the] speech of .[all] places,
 >>
+=={.translation-annotations}
+* .形： forms; \or shapes
+==
 
 <<
   凡五閱嵗\*、而其書始成、命曰字典。

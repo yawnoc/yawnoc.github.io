@@ -5810,6 +5810,11 @@ See also: [平行]
 * H {:8th heavenly stem:}
 ==
 
+9 [辨] U+8FA8
+==
+* distinguish; distinction
+==
+
 12 [辭] U+8FAD
 ==
 * phrase; term
@@ -6599,6 +6604,12 @@ See also: [鴻雁]
 
 
 ### ⾻ (bone) U+2FBB
+
+13 [體] U+9AD4
+==
+* body; appendage
+* style
+==
 
 
 ### ⾼ (tall) U+2FBC
