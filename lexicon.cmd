@@ -188,6 +188,12 @@ Lookup by stroke count of radical:
 
 1.
   Non-literal renderings are marked \met ("metaphorically rendered").
+
+1.
+  Notes on stroke count:
+  ==
+  - Count 4~strokes (not~3) for the component .𠫓.
+  ==
 ++++
 
 [Government-regulated .統讀-readings]:
@@ -3665,14 +3671,14 @@ See also: [改正]
 * \var [註]
 ==
 
-6 [流] U+6D41
-==
-* flow; \met spread
-==
-
 6 [津] U+6D25
 ==
 * ford
+==
+
+7 [流] U+6D41
+==
+* flow; \met spread
 ==
 
 7 [浮] U+6D6E
