@@ -17,10 +17,6 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %date-created --> 2022-07-xx
 * %date-modified --> 2022-07-xx
 
-RegexDictionaryReplacement: #.sor-variants
-- queue_position: BEFORE #specified-images
-* \\(?P<number> [1-7]) --> ![](kangxi-preface-所-\g<number>.jpg)
-
 RegexDictionaryReplacement: #.character-images
 - queue_position: BEFORE #specified-images
 * !\[ (?P<character_etc> \S (?: \-[0-9] )? ) \]
@@ -92,9 +88,9 @@ In some cases the same character appears differently;
 for example .所 appears:
 --
 ==
-- thrice as the orthodox .⿰戸斤 \1\2\5,
-- once as the common .⿰户斤 \3, and
-- thrice as the semi-cursive .⿱一⿰卪亇 \4\6\7.
+- thrice as the orthodox .⿰戸斤 ![所-1]![所-2]![所-5],
+- once as the common .⿰户斤 ![所-3], and
+- thrice as the semi-cursive .⿱一⿰卪亇 ![所-4]![所-6]![所-7].
 ==
 --
 Although this is contrary to the spirit of the compilers
@@ -185,10 +181,9 @@ but concede that in most instances this will not be possible
 =={.translation-annotations}
 * .足
   --
-  Written `U+20BC1`~.𠯁 ![][𠯁] in the original text,
+  Written `U+20BC1`~.𠯁 ![𠯁] in the original text,
   but substituted with `U+8DB3`~.足 here due to poor font support.
   --
-  [𠯁]: kangxi-preface-𠯁.jpg
 
 * .流： spreading; \lit flowing
 ==
@@ -207,10 +202,9 @@ but concede that in most instances this will not be possible
 
 * .逓
   --
-  Written with 8~residual strokes ![][逓] in the original text, rather than~7.
+  Written with 8~residual strokes ![逓] in the original text, rather than~7.
   Variant of~.遞.
   --
-  [逓]: kangxi-preface-逓.jpg
 
 * .始： first; \lit began
 
@@ -317,12 +311,11 @@ but concede that in most instances this will not be possible
 =={.translation-annotations}
 * .此
   --
-  Written semi-cursive ![][此] in the original text,
+  Written semi-cursive ![此] in the original text,
   with .止 having its upper horizontal stroke vertical,
   and also having its lower horizontal stroke
   connected to the horizontal stroke of .匕.
   --
-  [此]: kangxi-preface-此.jpg
 
 * .相傳： transmitted down; \lit mutually transmitted
 ==
@@ -352,13 +345,12 @@ but concede that in most instances this will not be possible
 * .萹
   --
   A vulgar abbreviation of .篇.
-  Written ![][萹] in the original text
+  Written ![萹] in the original text
   with the component .扁 missing its first stroke.
   --
 
 * .流： spread; \lit flowed
 ==
-[萹]: kangxi-preface-萹.jpg
 
 <<
   其傳而未甚顯者、尚數十百家。
