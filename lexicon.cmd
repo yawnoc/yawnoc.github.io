@@ -1853,6 +1853,16 @@ See also: [字典]
 
 ### ⼧ (roof) U+2F27
 
+3 [守] U+5B88
+[上聲]
+==
+* keep
+==
+[去聲] [but .上聲 in Mandarin]
+==
+* keeper
+==
+
 5 [宗] U+5B97
 ==
 * ancestor
@@ -2470,6 +2480,9 @@ See also: [何得]
 ==
 * must; surely
 ==
+--
+See also: [未必]
+--
 
 3 [志] U+5FD7
 ==
@@ -2484,6 +2497,12 @@ See also: [何得]
 4 [快] U+5FEB
 ==
 * pleasure
+==
+
+4 [念] U+5FF5
+==
+* think
+* recite
 ==
 
 4 [忽] U+5FFD
@@ -2783,6 +2802,7 @@ See also: [掌握]
 ==
 * possess
 * according unto
+* rely; cite
 ==
 
 
@@ -3128,6 +3148,7 @@ See also: [爰書]
 9 [會] U+6703
 ==
 * meet; assemble
+* comprehend
 ==
 
 
@@ -3150,6 +3171,12 @@ See also: [有餘]
 [去聲]
 ==
 * \int [又]: and
+==
+
+6 [朕] U+6715
+==
+* I
+* omen
 ==
 
 7 [朗] U+6717
@@ -3188,6 +3215,7 @@ See also: [有餘]
 ==
 ==
 * 未嘗： not ever
+* 未必： not necessarily
 ==
 
 1 [末] U+672B
@@ -3449,6 +3477,11 @@ See also: [改正]
 * mother
 * denominator
 * final; initial
+==
+
+3 [每] U+6BCF
+==
+* every
 ==
 
 
@@ -4715,8 +4748,20 @@ See also: [御米]
 
 ### ⽸ (jar) U+2F78
 
+4 [缺] U+7F3A
+==
+* deficient; gap
+==
+
 
 ### ⽹ (net) U+2F79
+
+3 [罔] U+7F54
+==
+* net
+* without
+* libel
+==
 
 8 [置] U+7F6E
 ==
@@ -4763,7 +4808,7 @@ See also: [御米]
 
 4 [者] U+8005
 ==
-* {:generic:} he that; that which; those; one
+* {:generic:} he that; that which; those; one; -er
 * [:speech-assist:]
 ==
 
@@ -5252,6 +5297,7 @@ See also: [平行]
 [陰去]
 ==
 * see; meet
+* [:noun:] view
 ==
 [陽去]
 ==
@@ -5539,6 +5585,11 @@ See also: [平行]
 9 [賴] U+8CF4
 ==
 * depend upon
+==
+
+11 [賾] U+8CFE
+==
+* profound
 ==
 
 

@@ -406,9 +406,46 @@ but concede that in most instances this will not be possible
 >>
 
 <<
-  朕每念經\*傳至博、音義繁賾\*、據一人之見、守一家之說、未必能\*㑹通罔欫\*也。
+  朕每念經傳至博、音義繁賾、據一人之見、守一家之說、未必能㑹通罔缺也。
 \\
+  Every .[time] I recite .[the] Classics .[and] Commentaries
+  unto broadness,
+  .[the] pronunciations .[and] meanings .[be] numerous .[and] profound:
+  relying .[only] upon .[the] views of one person,
+  .[and] keeping .[only the] explanations of one school,
+  .[is] not necessarily able .[to] comprehend through without gaps.
 >>
+=={.translation-annotations}
+* .朕： I
+  --
+  This is a royal "I".
+  It was difficult to resist rendering this as "We" or "This-Emperor".
+  --
+
+* .每
+  --
+  Written in the original text with top .亠 rather than .𠂉.
+  The same is true of the component .每 in both occurrences of .繁.
+  --
+
+* .經
+  --
+  Written with only 6~residual strokes in the original text,
+  rather than~7.
+  --
+
+* .賾
+  --
+  Written in the original text
+  with left component .⿰丿臣 rather than `U+268DE`~.𦣞.
+  --
+
+* .能
+  --
+  Written semi-cursive in the original text,
+  with right component similar to .长.
+  --
+==
 
 <<
   爰命儒臣、悉取舊籍、次第排纂、切音觧義、一夲說文玉萹、兼\*用廣韻集韻韻㑹正韻。
