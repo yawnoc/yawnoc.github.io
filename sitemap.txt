@@ -26,6 +26,7 @@ https://yawnoc.github.io/faq
 https://yawnoc.github.io/lexicon
 https://yawnoc.github.io/lit/fox-tiger
 https://yawnoc.github.io/lit/gunbai-poetry
+https://yawnoc.github.io/lit/kangxi-preface
 https://yawnoc.github.io/lit/lion-eating
 https://yawnoc.github.io/lit/lion-pavilion
 https://yawnoc.github.io/lit/little-child
