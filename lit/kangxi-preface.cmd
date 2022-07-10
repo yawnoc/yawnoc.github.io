@@ -152,9 +152,9 @@ but concede that in most instances this will not be possible
 
 * .扵
   --
-  Variant of .於.
-  Written .⿰才仒 in the original text,
-  but your browser's font will probably show .⿰扌仒 instead.
+  Variant of~.於.
+  Written~.⿰才仒 in the original text,
+  but your browser's font will probably show~.⿰扌仒 instead.
   --
 ==
 
@@ -314,7 +314,7 @@ but concede that in most instances this will not be possible
   Written semi-cursive ![此] in the original text,
   with .止 having its upper horizontal stroke vertical,
   and also having its lower horizontal stroke
-  connected to the horizontal stroke of .匕.
+  connected to the horizontal stroke of~.匕.
   --
 
 * .相傳： transmitted down; \lit mutually transmitted
@@ -344,9 +344,9 @@ but concede that in most instances this will not be possible
 =={.translation-annotations}
 * .萹
   --
-  A vulgar abbreviation of .篇.
+  A vulgar abbreviation of~.篇.
   Written ![萹] in the original text
-  with the component .扁 missing its first stroke.
+  with the component~.扁 missing its first stroke.
   --
 
 * .韻
@@ -428,8 +428,8 @@ but concede that in most instances this will not be possible
 
 * .每
   --
-  Written ![每] in the original text with top .亠 rather than .𠂉.
-  The same is true of the component .每 in both occurrences of .繁.
+  Written ![每] in the original text with top~.亠 rather than~.𠂉.
+  The same is true of the component~.每 in both occurrences of~.繁.
   --
 
 * .經
@@ -441,13 +441,13 @@ but concede that in most instances this will not be possible
 * .賾
   --
   Written ![賾] in the original text
-  with left component .⿰丿臣 rather than `U+268DE`~.𦣞.
+  with left component~.⿰丿臣 rather than `U+268DE`~.𦣞.
   --
 
 * .能
   --
   Written semi-cursive ![能] in the original text,
-  with right component similar to .长.
+  with right component similar to~.长.
   --
 ==
 
@@ -465,7 +465,7 @@ but concede that in most instances this will not be possible
 =={.translation-annotations}
 * .夲
   --
-  Used as a variant for .本.
+  Used as a variant for~.本.
   --
 ==
 
