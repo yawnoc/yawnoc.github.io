@@ -21,6 +21,12 @@ RegexDictionaryReplacement: #.sor-variants
 - queue_position: BEFORE #specified-images
 * \\(?P<number> [1-7]) --> ![](kangxi-preface-所-\g<number>.jpg)
 
+RegexDictionaryReplacement: #.character-images
+- queue_position: BEFORE #specified-images
+* !\[ (?P<character_etc> \S (?: \-[0-9] )? ) \]
+    -->
+  ![](kangxi-preface-\g<character_etc>.jpg)
+
 %%%
 
 
@@ -424,25 +430,25 @@ but concede that in most instances this will not be possible
 
 * .每
   --
-  Written in the original text with top .亠 rather than .𠂉.
+  Written ![每] in the original text with top .亠 rather than .𠂉.
   The same is true of the component .每 in both occurrences of .繁.
   --
 
 * .經
   --
-  Written with only 6~residual strokes in the original text,
+  Written ![經] with only 6~residual strokes in the original text,
   rather than~7.
   --
 
 * .賾
   --
-  Written in the original text
+  Written ![賾] in the original text
   with left component .⿰丿臣 rather than `U+268DE`~.𦣞.
   --
 
 * .能
   --
-  Written semi-cursive in the original text,
+  Written semi-cursive ![能] in the original text,
   with right component similar to .长.
   --
 ==
