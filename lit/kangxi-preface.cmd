@@ -84,6 +84,8 @@ Though the preface text was composed by the emperor (K'ang-hi|康熙) himself,
 the actual characters of the preface pages
 are the brushwork of the scribe [(Ch'(e^)n Pang-yen|陳邦彥)],
 who has used unorthodox variant forms in his calligraphy.
+He prefers the open-mouth~.厶 rather than the closed-mouth~.口,
+e.g. in~.國~![國], .說~![說], .韻~![韻], etc.
 In some cases the same character appears differently;
 for example .所 appears:
 --
@@ -347,12 +349,6 @@ but concede that in most instances this will not be possible
   A vulgar abbreviation of~.篇.
   Written ![萹] in the original text
   with the component~.扁 missing its first stroke.
-  --
-
-* .韻
-  --
-  Written ![韻] in the original text
-  with top-right the open~.厶 rather than the closed~.口.
   --
 
 * .流： spread; \lit flowed
