@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Record of [the] Lion's Pavilion, Victoria~Peak`, \
     the text on a plaque in the Lion's Pavilion, Victoria Peak, Hong Kong.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-07-10
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -208,7 +208,7 @@ The inserted olden-style punctuation is my own.
 <<
   洪磋景、福伯齡、先後任會長、與諸君子規畫其事、蒙當局撥地興工。
 \\
-  (Hung Tsor-king|洪磋景), .[and] (Fook Pak-ling|福伯齡),
+  (Hung Tsor\-king|洪磋景), .[and] (Fook Pak\-ling|福伯齡),
   served as Club Chairman .[one] after .[the] other,
   .[and] planned those matters with all .[the] gentlemen,
   .[and] received from .[the] local authority
@@ -222,17 +222,17 @@ The inserted olden-style punctuation is my own.
   而形制則前會長百强則師、任之不受酬。其建築布置諸費、凡共五十萬元。
 \\
   And .[of designing the] form .[and] structure,
-  .[the] former Club Chairman (Pak-keung|百强) .[the] architect
+  .[the] former Club Chairman (Pak\-keung|百强) .[the] architect
   served it not receiving payment.
   Its various construction .[and] furnishing costs,
   totalled altogether five hundred thousand dollars.
 >>
 =={.translation-annotations}
-* .百强： (Pak-keung|百强)
+* .百强： (Pak\-keung|百强)
   --
   The name of the architect.
   According to [a separate plaque]
-  his full name is (Chan Pak-keung|陳百强), .陳百强.
+  his full name is (Chan Pak\-keung|陳百强), .陳百强.
   I have no idea why he is referred to by first name only.
   Note that he shares the same full name with [Danny Chan] (1958--1993).
   --

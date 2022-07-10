@@ -106,7 +106,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ###{#lit-not-math} Not mathematics
 
 ==
-- [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K'ang-hi|康熙) Dictionary"]\
+- [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K'ang\-hi|康熙) Dictionary"]\
     (/lit/kangxi-preface)
 - ["The Need to Win"]\
     (/lit/need-to-win)

@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A discussion and translation of Chuang Tz(uu)'s alleged `archery` quote, \
     `When an archer is shooting for nothing, he has all his skill...`.
 * %date-created --> 2019-04-15
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-07-10
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -89,7 +89,7 @@ or "Understanding Life" in the "Outer Texts" of ''(Chuang Tz(uu)|莊子)'',
 a work traditionally credited to [(Chuang Tz(uu)|莊子)] the Taoist philosopher.
 One of the English translations of this which Merton read
 was of course that of the great James Legge;
-see passage~4, "(Yen Yuan|顏淵) asked (_K_ung-nî|仲尼)..." on
+see passage~4, "(Yen Yuan|顏淵) asked (_K_ung\-nî|仲尼)..." on
 [Page~15 of ''The Sacred Books Of China: The Texts Of Taoism, Part~II''][Legge Yen Yuan asked].
 As we shall discover below, whether the original text actually refers to archery
 depends on how you interpret the word .注, chu.
@@ -122,8 +122,8 @@ but with olden-style punctuation:
 <<
   顏淵問仲尼曰、吾嘗濟乎觴深之淵、津人操舟若神。
 \\
-  (Yen Y(u")an|顏淵) asked (Chung-ni|仲尼), saying,
-  I once crossed .[the] deep waters of (Shang-sh(e^)n|觴深),
+  (Yen Y(u")an|顏淵) asked (Chung\-ni|仲尼), saying,
+  I once crossed .[the] deep waters of (Shang\-sh(e^)n|觴深),
   .[and the] people of .[the] ford handled boats as gods.
 >>
 =={.translation-annotations}
@@ -133,7 +133,7 @@ but with olden-style punctuation:
   Also called (Yen Huei|顏回), .顏回.
   --
 
-* .仲尼： (Chung-ni|仲尼)
+* .仲尼： (Chung\-ni|仲尼)
   --
   The [style-name (or courtesy name)][字] of Confucius.
   --
@@ -176,7 +176,7 @@ but with olden-style punctuation:
 <<
   仲尼曰、善游者數能、忘水也。
 \\
-  (Chung-ni|仲尼) said,
+  (Chung\-ni|仲尼) said,
   .[Of] those good at swimming .[upon] repetition .[being] able:
   .[they] forget .[the] water.
 >>
@@ -234,10 +234,10 @@ but with olden-style punctuation:
   --
   =={.translation-annotations}
   * [《南華真經郭象註》]{l=zh-Hant}(https://ctext.org/library.pl?if=en&file=77894&page=11#box\(118,678,50,70\)),
-    "(Nan-hua|南華) True Classics: (Kuo Siang|郭象)'s annotations".
+    "(Nan\-hua|南華) True Classics: (Kuo Siang|郭象)'s annotations".
 
   * [《康熙字典》]{l=zh-Hant}(https://ctext.org/kangxi-zidian/85/5#n332753),
-    "(K'ang-hi|康熙)'s dictionary".
+    "(K'ang\-hi|康熙)'s dictionary".
     --
     Notably, the dictionary uses the line .以黃金注者㱪
     from our passage as the example for this meaning.
@@ -249,7 +249,7 @@ but with olden-style punctuation:
   --
   =={.translation-annotations}
   * [《南華真經註疏》]{l=zh-Hant}(https://ctext.org/library.pl?if=en&file=88939&page=20#box\(196,822,42,46\)),
-    "(Nan-hua|南華) True Classics annotations .[and] subcommentary".
+    "(Nan\-hua|南華) True Classics annotations .[and] subcommentary".
 
   * [《莊子注》]{l=zh-Hant}(https://ctext.org/library.pl?if=en&file=53877&page=10#box\(500,472,38,48\)),
     "(Chuang Tz(uu)|莊子) annotations" by (Kuo Siang|郭象).

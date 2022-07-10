@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P7"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P7
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-12
+* %date-modified --> 2022-07-10
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -87,14 +87,14 @@ Chinese source text: \a[6], \b[147], \c[52063], \d[14]. <br>
     Note: Myriads .[and] hundreds .[in the] original version
     .[was] erroneously written hundreds .[and] myriads.
     Now corrected according unto
-    [(Hia Hou-yang|夏侯陽)'s Computational Classic].
+    [(Hia Hou\-yang|夏侯陽)'s Computational Classic].
   >>
   In my opinion .萬百 vs~.百萬 is a minor issue,
   but I agree that .萬百 is the correct order,
   since we have .千十 preceding, rather than .十千.
   Thus I have .萬百 above.
   
-  [(Hia Hou-yang|夏侯陽)'s Computational Classic]:
+  [(Hia Hou\-yang|夏侯陽)'s Computational Classic]:
     https://archive.org/details/02094036.cn/page/n6
 ==
 

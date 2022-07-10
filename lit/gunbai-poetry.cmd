@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> %title
 * %title --> Poetry on a sumo umpire's fan
 * %date-created --> 2019-11-21
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-07-10
 
 %%%
 
@@ -69,7 +69,7 @@ has the lines ::{l=ja} 及時當勉励 歳月不待人:::
 
 --
 These lines are from [.《雜詩》, "Assorted Poems"][poems],
-by [(T'ao Y(u")an-ming|陶淵明)][tym].
+by [(T'ao Y(u")an\-ming|陶淵明)][tym].
 Kimura Yōdō never points the other side of the fan away from himself,
 but I would guess that that side bears the two lines before. All up:
 --

@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P9"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P9
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-27
+* %date-modified --> 2022-07-10
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -175,7 +175,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 >>
 =={.translation-annotations}
 * This line I have bracketed for it is an inline annotation
-  by (Li Ch'un-f(e^)ng|李淳風) and others,
+  by (Li Ch'un\-f(e^)ng|李淳風) and others,
   written in two columns of smaller characters which take up
   half the width of the normal characters;
   see \d[15].

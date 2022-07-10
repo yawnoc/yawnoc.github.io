@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the first problem in Haidao Suanjing, \
     《海島算經》, `The Sea Island Computational Classic`.
 * %date-created --> 2019-04-20
-* %date-modified --> 2022-06-11
+* %date-modified --> 2022-07-10
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #backslash-continuations
@@ -52,7 +52,7 @@ Derivations of the formulae we find in [.《海島算經細草圖說》],
 Written by [(Li Huang|李潢)],
 the rough working~(.草), diagrams~(.圖)
 and explanations~(.說) supplement the older (but at times erroneous)
-annotations of [(Li Ch'un-f(e^)ng|李淳風)].
+annotations of [(Li Ch'un\-f(e^)ng|李淳風)].
 It is in the explanations~(.說) that we find derivations of the formulae,
 not unlike high school geometry proofs.
 --
@@ -74,7 +74,7 @@ along with its corresponding derivation as found in .《海島算經細草圖說
   https://archive.org/details/02094033.cn/mode/1up
 [(Li Huang|李潢)]:
   https://zh.wikipedia.org/wiki/李潢
-[(Li Ch'un-f(e^)ng|李淳風)]:
+[(Li Ch'un\-f(e^)ng|李淳風)]:
   https://en.wikipedia.org/wiki/Li_Chunfeng
 
 

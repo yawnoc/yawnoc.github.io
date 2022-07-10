@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     of dividing China into 27 separate countries, \
     including the Republic of Hunan (湖南共和國).
 * %date-created --> 2019-09-24
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-07-10
 - concluding_replacements:
     #.yawnoc.typography
     #backslash-continuations
@@ -52,7 +52,7 @@ but the Chinese Communist Party really doesn't like separatism.
 "Who dares to even think about dividing the Motherland into two?" they ask.
 --
 --
-Well, as it turns out, none other than their beloved (Mao Ts(e^)-tung|毛澤東),
+Well, as it turns out, none other than their beloved (Mao Ts(e^)\-tung|毛澤東),
 in a 1920~essay for the newspaper ''(Ta Kung Pao|大公報)''.
 Actually (Mao|毛) went further and suggested dividing China up into 27~pieces,
 one of them being the "Republic of (Hunan|湖南)",
@@ -77,7 +77,7 @@ as the second appears to have many transcription errors:
 2. [marxists.org] ([archived version])
   --
   This is taken from the 1968 (Wuhan|武漢) Version of
-  ''Long Live (Mao Ts(e^)-tung|毛澤東) Thought''
+  ''Long Live (Mao Ts(e^)\-tung|毛澤東) Thought''
   (::{l=zh-Hans} 1968年武汉版《毛泽东思想万岁》::).
   --
 ++

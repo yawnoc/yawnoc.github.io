@@ -10,12 +10,13 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Imperially-Made Preface [unto the] K'ang-hi Dictionary"'
-* %title --> "Imperially-Made Preface [unto the] K'ang-hi Dictionary" 《御製康熙字典序》
+* %cite-title --> '"Imperially-Made Preface [unto the] K'ang\-hi Dictionary"'
+* %title --> "Imperially-Made Preface [unto the] K'ang\-hi Dictionary" 《御製康熙字典序》
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
 * %date-modified --> 2022-07-10
+- concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
 - queue_position: BEFORE #specified-images
@@ -34,12 +35,12 @@ RegexDictionaryReplacement: #.character-images
 ^^^^
 
 # .《御製康熙字典序》
-  "Imperially-Made Preface .[unto the] (K'ang-hi|康熙) Dictionary"
+  "Imperially-Made Preface .[unto the] (K'ang\-hi|康熙) Dictionary"
 
 
 --
-The [(K'ang-hi|康熙) Dictionary] is an impressive work.
-Commissioned by the [(K'ang-hi|康熙) Emperor],
+The [(K'ang\-hi|康熙) Dictionary] is an impressive work.
+Commissioned by the [(K'ang\-hi|康熙) Emperor],
 and completed five years later in 1716,
 it covers some 47k Chinese characters.
 Its system of 214~radicals is still used in Unicode today.
@@ -57,18 +58,18 @@ whilst compiling CJK Unified Ideographs Extension~A in the 1990s
 (`U+3588`~.㖈 and `U+439B`~.䎛; `U+363D`~.㘽 and `U+39B3`~.㦳).
 --
 --
-(K'ang-hi|康熙)'s preface names the work .字典, "character canon",
+(K'ang\-hi|康熙)'s preface names the work .字典, "character canon",
 which ultimately became the modern Chinese term for dictionary.
 
 --
 
-[(K'ang-hi|康熙) Dictionary]:
+[(K'ang\-hi|康熙) Dictionary]:
   https://en.wikipedia.org/wiki/Kangxi_Dictionary
 [stroke input data set]:
   https://github.com/stroke-input/stroke-input-data
 [keyboard app]:
   https://github.com/stroke-input/stroke-input-android
-[(K'ang-hi|康熙) Emperor]:
+[(K'ang\-hi|康熙) Emperor]:
   https://en.wikipedia.org/wiki/Kangxi_Emperor
 
 
@@ -80,9 +81,9 @@ The Chinese source text below is the
 with olden-style punctuation inserted by me.
 --
 --
-Though the preface text was composed by the emperor (K'ang-hi|康熙) himself,
+Though the preface text was composed by the emperor (K'ang\-hi|康熙) himself,
 the actual characters of the preface pages
-are the brushwork of the scribe [(Ch'(e^)n Pang-yen|陳邦彥)],
+are the brushwork of the scribe [(Ch'(e^)n Pang\-yen|陳邦彥)],
 who has used unorthodox variant forms in his calligraphy.
 He prefers the open-mouth~.厶 rather than the closed-mouth~.口,
 e.g. in~.國~![國], .說~![說], .韻~![韻], etc.
@@ -107,13 +108,13 @@ but concede that in most instances this will not be possible
 (because [Han unification] is plagued with inconsistency).
 --
 
-[(Ch'(e^)n Pang-yen|陳邦彥)]: https://zh.wikipedia.org/wiki/陳邦彥_(清朝)
+[(Ch'(e^)n Pang\-yen|陳邦彥)]: https://zh.wikipedia.org/wiki/陳邦彥_(清朝)
 [Han unification]: https://en.wikipedia.org/wiki/Han_unification
 
 <<
   《御製康煕字典序》
 \\
-  "Imperially-Made Preface .[unto the] (K'ang-hi|康煕) Dictionary"
+  "Imperially-Made Preface .[unto the] (K'ang\-hi|康煕) Dictionary"
 >>
 =={.translation-annotations}
 * Here we have `U+7155`~.煕 rather than `U+7199`~.熙.
@@ -339,7 +340,7 @@ but concede that in most instances this will not be possible
     in .[the] (Sung|宋) .[the] Collected Rimes,
     in .[the] (Kin|金) .[the] Five Sounds' Collected Rimes,
     in .[the] (Y(u")an|元) .[the] Rime Assembly,
-    .[and] in .[the] (Ming|明) .[the] (Hung-wu|洪武) Proper Rimes,
+    .[and] in .[the] (Ming|明) .[the] (Hung\-wu|洪武) Proper Rimes,
   all spread throughout .[their] present generations,
   .[and as] clothing .[and] blankets .[to] latter learning.
 >>
@@ -547,7 +548,7 @@ but concede that in most instances this will not be possible
   康熈五十五年閏三月十九日
 \\
   .[The] nineteenth day of .[the] leapt third month
-  of .[the] fifty-fifth year of (K'ang-hi|康熈)
+  of .[the] fifty-fifth year of (K'ang\-hi|康熈)
 >>
 =={.translation-annotations}
 * Here we have `U+7188`~.熈 rather than `U+7199`~.熙.

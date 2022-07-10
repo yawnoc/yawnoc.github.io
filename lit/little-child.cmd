@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-07-07
+* %date-modified --> 2022-07-10
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -96,7 +96,7 @@ I have edited the punctuation to not be bizarre.
   孔子、名丘、字仲尼、設敎於魯國之西。
 \\
   (Confucius|孔子), named (K'iu|丘),
-  .[and] styled (Chung-ni|仲尼),
+  .[and] styled (Chung\-ni|仲尼),
   established .[a] teaching in .[the] west of .[the] nation of (Lu|魯).
 >>
 =={.translation-annotations}
