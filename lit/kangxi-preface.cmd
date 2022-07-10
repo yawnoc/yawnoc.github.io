@@ -412,8 +412,7 @@ but concede that in most instances this will not be possible
 <<
   朕每念經傳至博、音義繁賾、據一人之見、守一家之說、未必能㑹通罔缺也。
 \\
-  Every .[time] I recite .[the] Classics .[and] Commentaries
-  unto broadness,
+  Every .[time] I recite .[the] Classics .[and] Commentaries unto broadening,
   .[the] pronunciations .[and] meanings .[be] numerous .[and] profound:
   relying .[only] upon .[the] views of one person,
   .[and] keeping .[only the] explanations of one school,
