@@ -349,6 +349,12 @@ but concede that in most instances this will not be possible
   with the component .扁 missing its first stroke.
   --
 
+* .韻
+  --
+  Written ![韻] in the original text
+  with top-right the open~.厶 rather than the closed~.口.
+  --
+
 * .流： spread; \lit flowed
 ==
 
