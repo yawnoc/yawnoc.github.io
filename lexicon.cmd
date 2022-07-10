@@ -61,7 +61,7 @@ RegexDictionaryReplacement: #.character-headings
   "
     ####{#\g<character>}
       <sup class="redisual-stroke-count">\g<stroke_count></sup>
-      .\g<character>
+      ::{.lexicon-character l=zh-Hant} \g<character>::
       <code>\g<code_point></code>
     [\g<character>]{l=zh-Hant}: #\g<character>
   "
