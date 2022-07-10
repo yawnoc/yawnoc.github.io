@@ -399,6 +399,12 @@ See also: [逝世]
 
 ### ⼅ (hook) U+2F05
 
+1 [了] U+4E86
+==
+* finish
+* \var [瞭]
+==
+
 7 [事] U+4E8B
 ==
 * thing; matter
@@ -1192,6 +1198,11 @@ See also: [北方]
 5 [却] U+5374
 ==
 * \var [卻]
+==
+
+6 [卷] U+5377
+==
+* roll; \met book
 ==
 
 7 [卻] U+537B
@@ -3963,6 +3974,13 @@ See also: [以為], [為政]
 * [:verb:] king
 ==
 
+6 [班] U+73ED
+==
+* rank
+* recall
+* issue
+==
+
 7 [現] U+73FE
 ==
 * appear; manifest
@@ -4252,7 +4270,6 @@ See also: [相傳]
 * comprehend
 ==
 
-
 4 [眉] U+7709
 ==
 * brow
@@ -4271,6 +4288,11 @@ See also: [相傳]
 6 [眾] U+773E
 ==
 * multitude
+==
+
+12 [瞭] U+77AD
+==
+* clear
 ==
 
 12 [瞰] U+77B0
@@ -6033,6 +6055,11 @@ See also: [遠近]
 6 [郊] U+90CA
 ==
 * outskirt
+==
+
+8 [部] U+90E8
+==
+* section
 ==
 
 9 [鄉] U+9109

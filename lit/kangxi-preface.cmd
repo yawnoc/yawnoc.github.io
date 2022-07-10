@@ -502,9 +502,15 @@ but concede that in most instances this will not be possible
   olden .[and] current forms .[and] styles,
   .[and the] disparity .[in] voice .[and] air
   of .[the] speech of .[all] places,
+  .[shall by] sections .[be] split into ranked rows,
+  .[and on] opening .[the] book .[be immediately] clear,
+  having not one meaning not detailed,
+  .[nor] one pronunciation not provided.
 >>
 =={.translation-annotations}
 * .形： forms; \or shapes
+
+* .卷： book; \lit roll
 ==
 
 <<
