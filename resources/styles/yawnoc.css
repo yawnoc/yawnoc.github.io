@@ -289,6 +289,17 @@ footer > ul {
   vertical-align: middle;
 }
 
+.lexicon-tone {
+  background: #222;
+  color: white;
+  padding: 0.13em 0.2em;
+}
+
+.lexicon-tone-heading {
+  font-size: 1em;
+  margin-bottom: 0;
+}
+
 
 .important {
   font-size: medium;

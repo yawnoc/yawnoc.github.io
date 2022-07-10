@@ -73,13 +73,13 @@ RegexDictionaryReplacement: #.tone-headings
   (?P<pronunciation> (?: [ ][^\n]+ )? )
   $
     -->
-  ##### [\g<tone>] \g<pronunciation>
+  #####{.lexicon-tone-heading} [\g<tone>] \g<pronunciation>
 
 RegexDictionaryReplacement: #.tones
 - queue_position: AFTER #.tone-headings
 * \[ (?P<tone> [陰陽平上去入聲]{2} ) \]
     -->
-  __{.tone l=zh-Hant} \g<tone>__
+  ::{.lexicon-tone l=zh-Hant} \g<tone>::
 
 RegexDictionaryReplacement: #.phrase-entries
 - queue_position: BEFORE #unordered-lists
@@ -169,11 +169,11 @@ Lookup by stroke count of radical:
 1.
   **This lexicon is not a dictionary.**
   The listings of meanings, [:parts of speech:],
-  and ::{.tone} tones::
+  and ::{.lexicon-tone} tones::
   are not complete, nor could they ever be.
 
 1.
-  Tone listings by ::{.tone l=zh-Hant} 陰陽平上去入::
+  Tone listings by ::{.lexicon-tone l=zh-Hant} 陰陽平上去入::
   are based on the classical tone classes,
   which generally accord with modern Cantonese.
   When they do not make sense in modern Mandarin,
