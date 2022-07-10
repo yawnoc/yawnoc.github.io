@@ -249,6 +249,7 @@ Lookup by stroke count of radical:
 [平聲]
 ==
 * three; third
+* [:verb:] triple
 ==
 [去聲]
 ==
@@ -402,6 +403,7 @@ See also: [逝世]
 1 [九] U+4E5D
 ==
 * nine; ninth
+* [:verb:] nonuple
 ==
 
 2 [也] U+4E5F
@@ -460,6 +462,7 @@ See also: [逝世]
 0 [二] U+4E8C
 ==
 * two; second
+* [:verb:] double
 ==
 
 1 [于] U+4E8E
@@ -850,11 +853,13 @@ See also: [以來]
 0 [八] U+516B
 ==
 * eight; eighth
+* [:verb:] octuple
 ==
 
 2 [六] U+516D
 ==
 * six; sixth
+* [:verb:] sextuple
 ==
 
 4 [共] U+5171
@@ -1168,6 +1173,7 @@ See also: [北方]
 0 [十] U+5341
 ==
 * ten; tenth
+* [:verb:] decuple
 ==
 
 1 [千] U+5343
@@ -1536,6 +1542,7 @@ See also: [未嘗]
 2 [四] U+56DB
 ==
 * four; fourth
+* [:verb:] quadruple
 ==
 
 3 [因] U+56E0
@@ -4210,6 +4217,7 @@ See also: [白金]
 1 [百] U+767E
 ==
 * hundred
+* [:verb:] centuple
 ==
 --
 See also: [百萬]
