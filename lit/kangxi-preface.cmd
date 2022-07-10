@@ -446,11 +446,22 @@ but concede that in most instances this will not be possible
 ==
 
 <<
-  爰命儒臣、悉取舊籍、次第排纂、切音觧義、一夲說文玉萹、兼\*用廣韻集韻韻㑹正韻。
+  爰命儒臣、悉取舊籍、次第排纂、切音觧義、一夲說文玉萹、兼用廣韻集韻韻㑹正韻。
 \\
   Therefore commanded .[I the] scholars .[and the] ministers,
   .[that they] take completely .[the] old books,
+  .[and by] sequence .[and] order arrange .[and] compile,
+  dissecting pronunciations .[and] interpreting meanings,
+  .[with] one copy of Explaining Glyphs .[and the] Jade Chapters,
+  .[and] simultaneously using .[the] Broadened Rimes, .[the] Collected Rimes,
+  .[the] Rime Assembly, .[and the] Proper Rimes.
 >>
+=={.translation-annotations}
+* .夲
+  --
+  Used as a variant for .本.
+  --
+==
 
 <<
   其餘字書、一音一義之可採者、靡有遺逸\*。

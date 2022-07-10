@@ -1696,6 +1696,12 @@ See also: [中央]
 See also: [失中]
 --
 
+2 [夲] U+5932
+==
+* haste
+* \var [本]
+==
+
 5 [奇] U+5947
 [陰平]
 ==
@@ -2739,6 +2745,12 @@ See also: [所在]
 See also: [掌握]
 --
 
+8 [排] U+6392
+==
+* arrange; line up
+* eject
+==
+
 8 [採] U+63A1
 ==
 * pick; acquire
@@ -3226,7 +3238,7 @@ See also: [有餘]
 1 [本] U+672C
 ==
 * base
-* version
+* version; copy
 ==
 
 2 [朽] U+673D
@@ -3368,7 +3380,8 @@ See also: [有餘]
 
 2 [次] U+6B21
 ==
-* next
+* next; second
+* sequence
 ==
 
 7 [欲] U+6B32
@@ -4536,6 +4549,12 @@ See also: [規矩]
 See also: [符驗]
 --
 
+5 [第] U+7B2C
+==
+* order
+* [:ordinal-marker:]
+==
+
 6 [等] U+7B49
 ==
 * rank
@@ -4750,6 +4769,11 @@ See also: [御米]
 13 [繩] U+7E69
 ==
 * cord; string
+==
+
+14 [纂] U+7E82
+==
+* compile
 ==
 
 
@@ -5367,6 +5391,11 @@ See also: [平行]
 [陽去]
 ==
 * conclude
+==
+
+6 [觧] U+89E7
+==
+* \var [解]
 ==
 
 
