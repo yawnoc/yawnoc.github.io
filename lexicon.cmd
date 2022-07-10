@@ -5872,6 +5872,13 @@ See also: [遠近]
 * advance
 ==
 
+8 [逸] U+9038
+==
+* escape
+* lost
+* leisurely
+==
+
 9 [遂] U+9042
 ==
 * then
@@ -5947,6 +5954,12 @@ See also: [遠近]
 * go unto
 * suitable
 * just
+==
+
+12 [遺] U+907A
+==
+* leave; abandon
+* omit
 ==
 
 13 [避] U+907F
@@ -6344,6 +6357,12 @@ See also: [鴻雁]
 ==
 ==
 * 是非： right .[and] wrong; quarrel
+==
+
+11 [靡] U+9761
+==
+* extravagant
+* not
 ==
 
 

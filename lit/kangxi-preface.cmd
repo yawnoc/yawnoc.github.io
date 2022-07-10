@@ -464,14 +464,24 @@ but concede that in most instances this will not be possible
 =={.translation-annotations}
 * .夲
   --
-  Used as a variant for~.本.
+  As written in the original text ![夲]. Used as a variant for~.本.
   --
 ==
 
 <<
-  其餘字書、一音一義之可採者、靡有遺逸\*。
+  其餘字書、一音一義之可採者、靡有遺逸。
 \\
+  .[And in the] remaining character books,
+  those which can .[be] picked
+  of .[each] one pronunciation .[and each] one meaning,
+  .[that] not .[ought] be there omitted .[or] lost.
 >>
+=={.translation-annotations}
+* .逸
+  --
+  Written ![逸] with an undotted rabbit in the original text.
+  --
+==
 
 <<
   至諸書引證未備者、則自經史百子以及漢晉唐宋元明以来詩人文士所述、莫不旁羅博證、使有依據。
