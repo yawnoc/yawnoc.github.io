@@ -134,8 +134,8 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
             \div
           \frac{240 \unit{paces}^2}{\unit{acre}}
             \\[\tallspace]
-        &=
-          252 \unit{acres} + 225 \unit{paces}^2.
+        &= 252 \unit{acres} + 225 \unit{paces}^2 \\
+        &= 2 \unit{yardlands} + 52 \unit{acres} + 225 \unit{paces}^2.
     \end{aligned}
   $$
   Note that the incline of the field is an unrealistically steep
