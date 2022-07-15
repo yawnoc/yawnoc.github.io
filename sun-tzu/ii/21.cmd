@@ -80,6 +80,16 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
   .[and] diameter three hundred .[and] eighty paces.
   .[We] ask, how much field be .[this]?
 >>
+=={.translation-annotations}
+* \a[44] and \c[52192] have the interchangeable .丘 for .邱.
+
+* The "mound field" referred to appears to be
+  a raised field in the shape of a cone.
+  Here the "diameter" is not that of the base,
+  but rather twice the slant height.
+  (Indeed the circumference is less than three times the "diameter",
+  noting that $\pi \approx 3$ as per [Vol.~I \P5](/sun-tzu/i/5).)
+==
 
 <<
   答曰、二頃五十二畝二百二十五步。
@@ -98,12 +108,41 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
   .[The] two places multiplied with each other,
   result in six myriad, seven hundred .[and] five paces.
 >>
+=={.translation-annotations}
+* \a[44], \c[52192], and \d[56] are missing .得 after .二位相乘.
+==
 
 <<
   以畝法除之、即得。
 \\
   Dividing it by .[the] acre divisor, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  the lateral surface area of a cone
+  with circumference $C = 639 \unit{paces}$
+  and twice-slant-height $D = 380 \unit{paces}$
+  is
+  $$
+    \begin{aligned}
+      A
+        &= \frac{C}{2} \cdot \frac{D}{2} \\[\tallspace]
+        &=
+          \frac{639 \unit{paces}}{2}
+            \cdot
+          \frac{380 \unit{paces}}{2}
+            \div
+          \frac{240 \unit{paces}^2}{\unit{acre}}
+            \\[\tallspace]
+        &=
+          252 \unit{acres} + 225 \unit{paces}^2.
+    \end{aligned}
+  $$
+  Note that the incline of the field is an unrealistically steep
+  $$
+    \cos^{-1} \frac{C / (2 \pi)}{D / 2} = 58\degree.
+  $$
+==
 
 
 %%surrounds
