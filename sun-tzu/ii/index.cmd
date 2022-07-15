@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~II of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-22
+* %date-modified --> 2022-07-15
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -88,6 +88,7 @@ and the headings allocated are *not* part of the original text.
 - [\P18. Volume of a rectangular prism~(2)](18)
 - [\P19. Rod calculus square root: $\sqrt{234567}$](19)
 - [\P20. Rod calculus square root: $\sqrt{420000}$](20)
+- [\P21. Lateral surface area of a cone](21)
 ::::
 
 ||{.marker}
