@@ -84,16 +84,25 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
 <<
   答曰、二頃五十二畝二百二十五步。
 \\
+  Answer saith: two yardlands, fifty-two acres,
+  .[and] two hundred .[and] twenty-five paces.
 >>
 
 <<
-  術曰、半周、得三百一十九步五分。半徑、得一百九十步。二位相乘、得六萬七百五步。
+  術曰、半周、得三百一十九步五分、半徑、得一百九十步。二位相乘、得六萬七百五步。
 \\
+  Method saith: halving .[the] circumference,
+  resulteth in three hundred .[and] nineteen paces .[and] five tenths,
+  .[and] halving .[the] diameter,
+  resulteth in one hundred .[and] ninety paces.
+  .[The] two places multiplied with each other,
+  result in six myriad, seven hundred .[and] five paces.
 >>
 
 <<
   以畝法除之、即得。
 \\
+  Dividing it by .[the] acre divisor, .[we] are done.
 >>
 
 
