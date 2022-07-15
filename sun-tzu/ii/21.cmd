@@ -75,6 +75,10 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
 <<
   今有邱田、周六百三十九步、徑三百八十步。問為田幾何。
 \\
+  Suppose there be .[a] mound field,
+  of circumference six hundred .[and] thirty-nine paces,
+  .[and] diameter three hundred .[and] eighty paces.
+  .[We] ask, how much field be .[this]?
 >>
 
 <<
