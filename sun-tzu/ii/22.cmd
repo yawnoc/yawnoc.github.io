@@ -70,9 +70,20 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
 --
 
 <<
-  今有築城、上廣二丈、下廣五丈四尺、高三丈八尺、長五千五百五十尺。\
+  今有築城、上廣二丈、下廣五丈四尺、高三丈八尺、長五千五百五十尺。
+\\
+  Suppose there be .[a] building of .[a] wall,
+  of upper breadth two rods,
+  lower breadth five rods .[and] four rules,
+  height three rods .[and] eight rules,
+  .[and] length five thousand, five hundred .[and] fifty rules.
+>>
+
+<<
   秋程人功三百尺。問須功幾何。
 \\
+  .[The] autumn quota .[for a] person's output .[is] three hundred rules.
+  .[We] ask, how many .[people's] output .[be] needed?
 >>
 
 <<

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-07-15
+* %date-modified --> 2022-07-16
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -4493,6 +4493,12 @@ See also: [規矩]
 * haystack
 ==
 
+7 [程] U+7A0B
+==
+* measure; quota
+* journey
+==
+
 9 [種] U+7A2E
 [上聲]
 ==
@@ -4698,6 +4704,11 @@ See also: [符驗]
 9 [篇] U+7BC7
 ==
 * chapter
+==
+
+10 [築] U+7BC9
+==
+* build
 ==
 
 14 [籍] U+7C4D
@@ -6590,7 +6601,7 @@ See also: [鴻雁]
 
 3 [須] U+9808
 ==
-* must
+* must; need
 ==
 
 7 [頭] U+982D
