@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P17"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P17
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-27
+* %date-modified --> 2022-07-16
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P17. Volume of a trapezoidal prism
+  \P17. Volume of a trapezoidal prism~(1)
 
 %%noscript-equations
 

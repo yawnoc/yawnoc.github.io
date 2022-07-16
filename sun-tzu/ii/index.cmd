@@ -84,7 +84,7 @@ and the headings allocated are *not* part of the original text.
 - [\P14. Area of a square of given circumradius](14)
 - [\P15. Dividing a cube into smaller cubes](15)
 - [\P16. Side length of a square of given perimeter](16)
-- [\P17. Volume of a trapezoidal prism](17)
+- [\P17. Volume of a trapezoidal prism~(1)](17)
 - [\P18. Volume of a rectangular prism~(2)](18)
 - [\P19. Rod calculus square root: $\sqrt{234567}$](19)
 - [\P20. Rod calculus square root: $\sqrt{420000}$](20)
