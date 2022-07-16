@@ -89,21 +89,32 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
 <<
   答曰、二萬六千一十一功。
 \\
+  Answer saith: two myriad, six thousand .[and] eleven .[people's] output.
 >>
 
 <<
   術曰、并上下廣、得七十四尺、半之、得三十七尺。
 \\
+  Method saith: combining .[the] upper .[and] lower breadths,
+  resulteth in seventy-four rules,
+  .[and] halving it, resulteth in thirty-seven rules.
 >>
 
 <<
   以高乘之、得一千四百六尺。又以長乘之、得積七百八十萬三千三百尺。
 \\
+  Multiplying it by .[the] height,
+  resulteth in one thousand, four hundred .[and] six rules.
+  And multiplying it by .[the] length,
+  resulteth in volume seven hundred .[and] eighty myriad,
+  three thousand .[and] three hundred rules.
 >>
 
 <<
   以秋程人功三百尺除之、即得。
 \\
+  Dividing it by .[the] autumn quota .[for a] person's output,
+  three hundred rules, .[we] are done.
 >>
 
 
