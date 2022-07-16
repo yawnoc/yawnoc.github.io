@@ -85,6 +85,14 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
   .[The] autumn quota .[for a] person's output .[is] three hundred rules.
   .[We] ask, how many .[people's] output .[be] needed?
 >>
+=={.translation-annotations}
+* .三百尺： three hundred rules
+  --
+  In modern language these would be *cubic* rules.
+  --
+
+* \a[44] has .湏 for .須.
+==
 
 <<
   答曰、二萬六千一十一功。
@@ -116,6 +124,28 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
   Dividing it by .[the] autumn quota .[for a] person's output,
   three hundred rules, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation, the effort required to build a trapezoidal prism of
+    upper breadth $A = 20 \unit{rules}$,
+    lower breadth $B = 54 \unit{rules}$,
+    height $H = 38 \unit{rules}$, and
+    length $L = 5550 \unit{rules}$,
+  at rate $R = 300 \unit{rules}^3 / \unit{person}$, is
+  $$
+    \begin{aligned}
+      W
+      &= \frac{A + B}{2} \cdot H L \div R \\[\tallspace]
+      &=
+        \frac{20 \unit{rules} + 54 \unit{rules}}{2}
+          \times
+        38 \unit{rules} \times 5550 \unit{rules}
+          \div
+        \frac{300 \unit{rules}^3}{\unit{person}}
+          \\[\tallspace]
+      &= 26011 \unit{people}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
