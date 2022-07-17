@@ -102,7 +102,18 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
 <<
   答曰、三萬二千六百四十五人、不盡六十九尺六寸。
 \\
+  Answer saith:
+    three myriad, two thousand, six hundred .[and] forty-five people,
+    remainder sixty-nine rules .[and] six inches.
 >>
+=={.translation-annotations}
+* \b[157] has .功 "output" instead of .人 "people".
+
+* The remainder $69 \unit{rules} + 6 \unit{inches}$
+  is actually a volume, $69.6 \unit{rules}^3$.
+  Classical Chinese mathematics did not have
+  a proper concept of dimensional analysis.
+==
 
 <<
   術曰、置里數、以三百步乘之、內零步、六之、得五萬二千八百二十四尺。
