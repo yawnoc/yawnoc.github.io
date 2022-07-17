@@ -118,7 +118,36 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
 <<
   術曰、置里數、以三百步乘之、內零步、六之、得五萬二千八百二十四尺。
 \\
+  Method saith:
+  put .[down the] number of miles,
+  .[and] multiply it by three hundred paces;
+  admitting .[the] residual paces, .[and] sextupling it,
+  resulteth in five myriad, two thousand, eight hundred .[and] twenty-four rules.
 >>
+=={.translation-annotations}
+* .內
+  --
+  Used for .納.
+  --
+
+* Here we have a unit conversion of the canal length,
+  $$
+    \begin{aligned}
+      L
+        &= 29 \unit{miles} + 104 \unit{paces} \\
+        &=
+          \left(
+            29 \unit{miles} \cdot \frac{300 \unit{paces}}{\unit{mile}}
+            + 104 \unit{paces}
+          \right)
+            \cdot
+          \frac{6 \unit{rules}}{\unit{pace}}
+            \\[\tallspace]
+        &=
+          52824 \unit{rules}.
+    \end{aligned}
+  $$
+==
 
 <<
   并上下廣、得二丈六寸、半之、以深乘之、得一百八十五尺四寸。

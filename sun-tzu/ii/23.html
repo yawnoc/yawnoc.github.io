@@ -142,8 +142,39 @@ a proper concept of dimensional analysis.
 術曰、置里數、以三百步乘之、內零步、六之、得五萬二千八百二十四尺。
 </div>
 <div class="destination-text" lang="en">
+Method saith:
+put <span class="translator-supplied">[down the]</span> number of miles,
+<span class="translator-supplied">[and]</span> multiply it by three hundred paces;
+admitting <span class="translator-supplied">[the]</span> residual paces, <span class="translator-supplied">[and]</span> sextupling it,
+resulteth in five myriad, two thousand, eight hundred <span class="translator-supplied">[and]</span> twenty-four rules.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">內</span>
+<p>
+Used for <span lang="zh-Hant">納</span>.
+</p>
+</li>
+<li>
+Here we have a unit conversion of the canal length,
+<div class="js-maths">\begin{aligned}
+  L
+    &amp;= 29 \unit{miles} + 104 \unit{paces} \\
+    &amp;=
+      \left(
+        29 \unit{miles} \cdot \frac{300 \unit{paces}}{\unit{mile}}
+        + 104 \unit{paces}
+      \right)
+        \cdot
+      \frac{6 \unit{rules}}{\unit{pace}}
+        \\[\tallspace]
+    &amp;=
+      52824 \unit{rules}.
+\end{aligned}
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 并上下廣、得二丈六寸、半之、以深乘之、得一百八十五尺四寸。

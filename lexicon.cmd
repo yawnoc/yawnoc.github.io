@@ -832,8 +832,13 @@ See also: [以來]
 ==
 
 2 [內] U+5167
+[去聲]
 ==
 * internal; inner
+==
+[入聲]
+==
+* \int [納]
 ==
 
 4 [全] U+5168
@@ -4781,6 +4786,12 @@ See also: [御米]
 * reduce
 ==
 
+4 [納] U+7D0D
+==
+* admit
+* pay
+==
+
 4 [索] U+7D22
 ==
 * rope
@@ -6505,6 +6516,7 @@ See also: [鴻雁]
 5 [零] U+96F6
 ==
 * drizzle; scatter
+* residual
 ==
 
 5 [雷] U+96F7
