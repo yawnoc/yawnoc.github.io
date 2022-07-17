@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-07-16
+* %date-modified --> 2022-07-17
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -3221,7 +3221,7 @@ See also: [及時]
 6 [書] U+66F8
 ==
 * writing; script
-* book; epistle
+* book
 ==
 --
 See also: [爰書]
