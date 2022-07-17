@@ -152,16 +152,25 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
 <<
   并上下廣、得二丈六寸、半之、以深乘之、得一百八十五尺四寸。
 \\
+  Combining .[the] upper .[and] lower breadths,
+  resulteth in two rods .[and] six inches;
+  halving it, .[and] multiplying it by .[the] depth,
+  resulteth in one hundred .[and] eighty-five rules .[and] four inches.
 >>
 
 <<
   以長乘、得九百七十九萬三千五百六十九尺六寸。
 \\
+  Multiplying by .[the] length, resulteth in
+    nine hundred .[and] seventy-nine myriad,
+    three thousand, five hundred .[and] sixty-nine rules
+    .[and] six inches.
 >>
 
 <<
   以人功三百尺除之、即得。
 \\
+  Dividing it by .[a] person's output three hundred rules, .[we] are done.
 >>
 
 
