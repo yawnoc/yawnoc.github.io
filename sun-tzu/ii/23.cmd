@@ -77,12 +77,27 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
 <<
   今有穿渠、長二十九里一百四步、上廣一丈二尺六寸、下廣八尺、深一丈八尺。
 \\
+  Suppose there be .[a] boring of .[a] canal,
+  of length twenty-nine miles .[and] one hundred .[and] four paces,
+  upper breadth one rod, two rules, .[and] six inches,
+  lower breadth eight rules,
+  .[and] depth one rod .[and] eight rules.
 >>
 
 <<
   秋程人功三百尺。問須功幾何。
 \\
+  .[The] autumn quota .[for a] person's output .[is] three hundred rules.
+  .[We] ask, how many .[people's] output .[be] needed?
 >>
+=={.translation-annotations}
+* .三百尺： three hundred rules
+  --
+  In modern language these would be *cubic* rules.
+  --
+
+* \a[44] has .湏 for .須.
+==
 
 <<
   答曰、三萬二千六百四十五人、不盡六十九尺六寸。

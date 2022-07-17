@@ -3730,6 +3730,11 @@ See also: [改正]
 * subtract
 ==
 
+9 [渠] U+6E20
+==
+* canal
+==
+
 9 [游] U+6E38
 ==
 * swim
@@ -4553,6 +4558,11 @@ See also: [規矩]
 [去聲]
 ==
 * deplete
+==
+
+4 [穿] U+7A7F
+==
+* bore
 ==
 
 7 [窖] U+7A96
