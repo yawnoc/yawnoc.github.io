@@ -172,6 +172,30 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
 \\
   Dividing it by .[a] person's output three hundred rules, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation, the effort required to excavate a trapezoidal prism of
+    upper breadth $A = 12.6 \unit{rules}$,
+    lower breadth $B = 8 \unit{rules}$,
+    depth $H = 18 \unit{rules}$, and
+    length $L = 52824 \unit{rules}$,
+  at rate $R = 300 \unit{rules}^3 / \unit{person}$, is
+  $$
+    \begin{aligned}
+      W
+      &= \frac{A + B}{2} \cdot H L \div R \\[\tallspace]
+      &=
+        \frac{12.6 \unit{rules} + 8 \unit{rules}}{2}
+          \times
+        18 \unit{rules} \times 52824 \unit{rules}
+          \div
+        \frac{300 \unit{rules}^3}{\unit{person}}
+          \\[\tallspace]
+      &=
+        32645 \unit{people}
+          + 69.6 \unit{rules}^3 \div \frac{300 \unit{rules}^3}{\unit{person}}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
