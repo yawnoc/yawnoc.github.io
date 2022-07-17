@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~II of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-16
+* %date-modified --> 2022-07-17
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -90,6 +90,7 @@ and the headings allocated are *not* part of the original text.
 - [\P20. Rod calculus square root: $\sqrt{420000}$](20)
 - [\P21. Lateral surface area of a cone](21)
 - [\P22. Volume of a trapezoidal prism~(2)](22)
+- [\P23. Volume of a trapezoidal prism~(3)](23)
 ::::
 
 ||{.marker}
