@@ -85,6 +85,9 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 <<
   答曰、二分、人得錢二十二、三分、人得錢三十三、四分、人得錢四十四。
 \\
+  Answer saith: .[for] two shares, .[each] person getteth coins twenty-two;
+  .[for] three shares, .[each] person getteth coins thirty-three;
+  .[for] four shares, .[each] person getteth coins forty-four.
 >>
 
 <<
