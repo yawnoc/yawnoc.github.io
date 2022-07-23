@@ -147,11 +147,19 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 <<
   以法六百三十各除之、上位得一千七百八十二、中位得二千三百七十六、下位得二千七百七十二。
 \\
+  Dividing them each by .[the] divisor six hundred .[and] thirty:
+    .[the] upper place resulteth in
+      one thousand, seven hundred .[and] eighty-two;
+    .[the] middle place resulteth in
+      two thousand, three hundred .[and] seventy-six;
+    .[the] lower place resulteth in
+      two thousand, seven hundred .[and] seventy-two.
 >>
 
 <<
   各以人數除之、即得。
 \\
+  Each dividing it by .[its] number of people, .[we] are done.
 >>
 
 
