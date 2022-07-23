@@ -76,7 +76,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
   .[for] sixty-three people, .[each] person .[is] given four shares.
 >>
 =={.translation-annotations}
-* This "nine shares" mentioned earlier comes from straight addition
+* The "nine shares" mentioned earlier comes from straight addition
   of the "two shares", "three shares", and "four shares" here.
   Such an addition does not make sense,
   given that there are different numbers of people
