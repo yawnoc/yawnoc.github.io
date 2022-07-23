@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~II of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-17
+* %date-modified --> 2022-07-23
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -91,6 +91,7 @@ and the headings allocated are *not* part of the original text.
 - [\P21. Lateral surface area of a cone](21)
 - [\P22. Volume of a trapezoidal prism~(2)](22)
 - [\P23. Volume of a trapezoidal prism~(3)](23)
+- [\P24. Weighted proportions](24)
 ::::
 
 ||{.marker}
