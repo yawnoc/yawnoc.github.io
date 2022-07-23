@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     of dividing China into 27 separate countries, \
     including the Republic of Hunan (湖南共和國).
 * %date-created --> 2019-09-24
-* %date-modified --> 2022-07-10
+* %date-modified --> 2022-07-23
 - concluding_replacements:
     #.yawnoc.typography
     #backslash-continuations
@@ -174,7 +174,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
 <<
   這種議論的流毒，擴充帝國主義，壓抑自國的小弱民族，
 \\
-  .[The] spreading poison of this type of discourse,
+  .[The] spreading poison of this kind of discourse,
   expands imperialism,
   .[and] oppresses .[the] weaker peoples of .[one's] own nation;
 >>
