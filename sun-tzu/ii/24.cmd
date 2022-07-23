@@ -75,12 +75,36 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
   .[for] seventy-two people, .[each] person .[is] given three shares;
   .[for] sixty-three people, .[each] person .[is] given four shares.
 >>
+=={.translation-annotations}
+* This "nine shares" mentioned earlier comes from straight addition
+  of the "two shares", "three shares", and "four shares" here.
+  Such an addition does not make sense,
+  given that there are different numbers of people
+  for the three share sizes.
+==
 
 <<
   問三種各得幾何。
 \\
   .[We] ask, how much getteth each of .[the] three kinds?
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \frac{(2, 3, 4) \times 6930}{81 \times 2 + 72 \times 3 + 63 \times 4}
+      = (22, 33, 44).
+  $$
+  As we shall see below,
+  (Sun Tz(uu)|孫子) does the problem in a more roundabout way, computing
+  $$
+    \frac{
+      (81 \times 2, 72 \times 3, 63 \times 4) \times 6930
+    }{
+      81 \times 2 + 72 \times 3 + 63 \times 4
+    }
+      \div (81, 72, 63).
+  $$
+==
 
 <<
   答曰、二分、人得錢二十二、三分、人得錢三十三、四分、人得錢四十四。
@@ -108,6 +132,9 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
   .[the] lower place, multiplying it by four,
     resulteth in two hundred .[and] fifty-two.
 >>
+=={.translation-annotations}
+* \b[157] has .頭位 for .上位, both here and below.
+==
 
 <<
   副并三位、得六百三十為法。
@@ -140,9 +167,13 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
   and multiplying .[the] lower place by two hundred .[and] fifty-two,
     resulteth in
       one hundred .[and] seventy-four myriad,
-      six thousand, three hundred .[and] sixty;
+      six thousand, three hundred .[and] sixty:
   each being .[a] dividend.
 >>
+=={.translation-annotations}
+* \c[52201] erroneously has .乘之四 for .乘之.
+* \b[157] has .二百一十六 for .二百十六.
+==
 
 <<
   以法六百三十各除之、上位得一千七百八十二、中位得二千三百七十六、下位得二千七百七十二。
