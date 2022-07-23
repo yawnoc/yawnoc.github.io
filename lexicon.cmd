@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-07-17
+* %date-modified --> 2022-07-23
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -6296,6 +6296,11 @@ See also: [數量]
 6 [銖] U+9296
 ==
 * [:unit:] dram
+==
+
+8 [錢] U+9322
+==
+* coin
 ==
 
 13 [鐵] U+9435

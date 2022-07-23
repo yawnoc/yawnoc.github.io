@@ -63,6 +63,9 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 <<
   今有錢六千九百三十、欲令二百一十六人作九分分之。
 \\
+  Suppose there be coins six thousand, nine hundred .[and] thirty,
+  .[and we] wish to make two hundred .[and] sixteen people
+  construct nine shares .[to] share them.
 >>
 
 <<
