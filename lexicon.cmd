@@ -268,7 +268,7 @@ Lookup by stroke count of radical:
 * [:non-verb:] up(ward); upper; above; superior
 ==
 --
-See also: [上方]
+See also: [上方], [在上]
 --
 
 2 [下] U+4E0B
@@ -277,7 +277,7 @@ See also: [上方]
 * down(ward); lower; below; under; inferior
 ==
 --
-See also: [意下]
+See also: [在下], [意下]
 --
 
 3 [不] U+4E0D
@@ -1590,6 +1590,8 @@ See also: [未嘗]
 * in; into; on
 ==
 ==
+* 在上： above
+* 在下： below
 * 所在： whereabouts
 ==
 
