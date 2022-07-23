@@ -93,6 +93,9 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 <<
   術曰、先置八十一人於上、七十二人次之、六十三人在下。
 \\
+  Method saith: first put .[the] eighty-one people above,
+  .[the] seventy-two people next .[after] it,
+  .[and the] sixty-three people below.
 >>
 
 <<
