@@ -400,7 +400,7 @@ but concede that in most instances this will not be possible
 <<
   曽無善兼美具、可奉為典常而不易者。
 \\
-  Never .[hath] there been .[one with]
+  Never .[hath] there been .[one of]
   goodness .[and] simultaneously beauty equipped,
   .[even] that which can .[be] offered as .[a] canon-constant
   and .[ever] unchanging.
