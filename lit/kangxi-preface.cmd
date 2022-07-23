@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2022-07-10
+* %date-modified --> 2022-07-23
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -400,7 +400,7 @@ but concede that in most instances this will not be possible
 <<
   曽無善兼美具、可奉為典常而不易者。
 \\
-  There .[hath] never been .[one with]
+  Never .[hath] there been .[one with]
   goodness .[and] simultaneously beauty equipped,
   .[even] that which can .[be] offered as .[a] canon-constant
   and .[ever] unchanging.
