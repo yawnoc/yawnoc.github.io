@@ -71,11 +71,15 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 <<
   八十一人、人與二分、七十二人、人與三分、六十三人、人與四分。
 \\
+  .[For] eighty-one people, .[each] person .[is] given two shares;
+  .[for] seventy-two people, .[each] person .[is] given three shares;
+  .[for] sixty-three people, .[each] person .[is] given four shares.
 >>
 
 <<
   問三種各得幾何。
 \\
+  .[We] ask, how much getteth each of .[the] three kinds?
 >>
 
 <<
