@@ -119,6 +119,8 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 <<
   又置錢六千九百三十為三位。
 \\
+  And put .[down the] coins six thousand, nine hundred .[and] thirty
+  as three places.
 >>
 
 <<
@@ -127,6 +129,19 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
   又以二百五十二乘下位、得一百七十四萬六千三百六十、\
   各為實。
 \\
+  .[The] upper place, multiplying it by one hundred .[and] sixty-two,
+    resulteth in
+      one hundred .[and] twelve myriad,
+      two thousand, six hundred .[and] sixty;
+  and multiplying .[the] middle place by two hundred .[and] sixteen,
+    resulteth in
+      one hundred .[and] forty-nine myriad,
+      six thousand, eight hundred .[and] eighty;
+  and multiplying .[the] lower place by two hundred .[and] fifty-two,
+    resulteth in
+      one hundred .[and] seventy-four myriad,
+      six thousand, three hundred .[and] sixty;
+  each being .[a] dividend.
 >>
 
 <<
