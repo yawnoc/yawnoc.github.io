@@ -101,11 +101,19 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 <<
   上位以二乘之、得一百六十二、次位以三乘之、得二百一十六、下位以四乘之、得二百五十二。
 \\
+  .[The] upper place, multiplying it by two,
+    resulteth in one hundred .[and] sixty-two;
+  .[the] next place, multiplying it by three,
+    resulteth in two hundred .[and] sixteen;
+  .[the] lower place, multiplying it by four,
+    resulteth in two hundred .[and] fifty-two.
 >>
 
 <<
   副并三位、得六百三十為法。
 \\
+  Subsidiarily combining .[the] three places,
+  resulteth in six hundred .[and] thirty as .[the] divisor.
 >>
 
 <<
