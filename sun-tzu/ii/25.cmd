@@ -80,13 +80,20 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
 >>
 
 <<
-  術曰、先置人數、別加三顆於下、次六顆、次九顆、次一十二顆、上十五顆。
+  術曰、先置人數別加三顆於下、次六顆、次九顆、次一十二顆、上十五顆。
 \\
+  Method saith: first put .[the] number of people
+  .[and the] distinctional addition of three .[tangerines] below;
+  next, six .[tangerines];
+  next, nine .[tangerines];
+  next, twelve .[tangerines];
+  .[and] above, fifteen .[tangerines].
 >>
 
 <<
   副并之、得四十五。
 \\
+  Subsidiarily combining them, resulteth in forty-five.
 >>
 
 <<
