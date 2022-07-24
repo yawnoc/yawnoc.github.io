@@ -62,6 +62,7 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
 <<
   今有甲乙丙三人持錢。
 \\
+  Suppose there be three people A, B, .[and] C holding coins.
 >>
 
 <<
