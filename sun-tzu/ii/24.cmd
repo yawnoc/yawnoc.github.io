@@ -11,8 +11,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P24"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P24
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S24"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S24
 * %date-created --> 2022-07-23
 * %date-modified --> 2022-07-24
 - concluding_replacements:
@@ -22,9 +22,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P23](23)
-* %%surrounds-current --> \P24
-* %%surrounds-next --> [\P25 -->](25)
+* %%surrounds-previous --> [<-- \S23](23)
+* %%surrounds-current --> \S24
+* %%surrounds-next --> [\S25 -->](25)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P24. Weighted proportions
+  \S24. Weighted proportions
 
 %%noscript-equations
 
@@ -48,7 +48,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of
+This section gives a worked example of
 dividing a given quantity into weighted proportions.
 --
 

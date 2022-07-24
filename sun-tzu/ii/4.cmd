@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P4"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P4
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S4"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S4
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-26
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P3](3)
-* %%surrounds-current --> \P4
-* %%surrounds-next --> [\P5 -->](5)
+* %%surrounds-previous --> [<-- \S3](3)
+* %%surrounds-current --> \S4
+* %%surrounds-next --> [\S5 -->](5)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P4. Redistributing fractions for equality
+  \S4. Redistributing fractions for equality
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of
+This section gives a worked example of
 redistributing three fractions for equality.
 --
 
@@ -198,7 +198,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
   --
   Greatest common divisor (GCD) is called an "equal number"
   because it is determined by repeated subtraction
-  until an equal quantity is obtained (see [\P1](1)).
+  until an equal quantity is obtained (see [\S1](1)).
   --
   --
   In the current example, we have

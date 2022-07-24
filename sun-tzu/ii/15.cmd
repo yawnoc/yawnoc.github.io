@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P15"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P15
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S15"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S15
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-27
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P14](14)
-* %%surrounds-current --> \P15
-* %%surrounds-next --> [\P16 -->](16)
+* %%surrounds-previous --> [<-- \S14](14)
+* %%surrounds-current --> \S15
+* %%surrounds-next --> [\S16 -->](16)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P15. Dividing a cube into smaller cubes
+  \S15. Dividing a cube into smaller cubes
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing
+This section gives a worked example of computing
 the number of smaller cubes which make up a bigger cube.
 --
 --
@@ -59,7 +59,7 @@ $$
   1 \unit{rule~(尺)} = 10 \unit{inches~(寸)}.
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
 --
 
 

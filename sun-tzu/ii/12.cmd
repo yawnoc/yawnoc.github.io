@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P12"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P12
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S12"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S12
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-26
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P11](11)
-* %%surrounds-current --> \P12
-* %%surrounds-next --> [\P13 -->](13)
+* %%surrounds-previous --> [<-- \S11](11)
+* %%surrounds-current --> \S12
+* %%surrounds-next --> [\S13 -->](13)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P12. Volume of a cylinder~(2)
+  \S12. Volume of a cylinder~(2)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing
+This section gives a worked example of computing
 the volume of a cylinder.
 --
 --
@@ -69,8 +69,8 @@ $$
   1 \unit{barrel~(斛)} = 1.62 \unit{rules~(尺)}^3.
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1)
-and [Vol.~II \P10 Extended commentary](/sun-tzu/ii/10#commentary).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1)
+and [Vol.~II \S10 Extended commentary](/sun-tzu/ii/10#commentary).
 --
 
 
@@ -138,7 +138,7 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
     (hu|斛)~(.斛),
   and the volume unit "cubic rule",
     (ch'ih|尺)~(.尺);
-  see [\P10 Extended commentary](10#commentary).
+  see [\S10 Extended commentary](10#commentary).
   --
 
 * In modern notation, the volume (or capacity) of a cylinder
@@ -157,7 +157,7 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
     \end{aligned}
   $$
   Here $\pi \approx 3$ (so that $4\pi \approx 12$),
-  see [Vol.~I \P5](/sun-tzu/i/5).
+  see [Vol.~I \S5](/sun-tzu/i/5).
 ==
 
 

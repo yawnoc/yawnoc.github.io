@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P14"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P14
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S14"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S14
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-27
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P13](13)
-* %%surrounds-current --> \P14
-* %%surrounds-next --> [\P15 -->](15)
+* %%surrounds-previous --> [<-- \S13](13)
+* %%surrounds-current --> \S14
+* %%surrounds-next --> [\S15 -->](15)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P14. Area of a square of given circumradius
+  \S14. Area of a square of given circumradius
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing
+This section gives a worked example of computing
 the area of a square given its circumradius.
 --
 --
@@ -62,7 +62,7 @@ $$
   \end{aligned}
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
 --
 
 
@@ -148,7 +148,7 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. <br>
       &= 1 \unit{yardland} + 83 \unit{acres} + 180 \unit{paces}^2.
     \end{aligned}
   $$
-  Here $\sqrt{2} \approx 7/5$, see [Vol.~I \P5](/sun-tzu/i/5).
+  Here $\sqrt{2} \approx 7/5$, see [Vol.~I \S5](/sun-tzu/i/5).
 ==
 
 

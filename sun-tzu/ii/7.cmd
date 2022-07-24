@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P7"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P7
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S7"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S7
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-26
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P6](6)
-* %%surrounds-current --> \P7
-* %%surrounds-next --> [\P8 -->](8)
+* %%surrounds-previous --> [<-- \S6](6)
+* %%surrounds-current --> \S7
+* %%surrounds-next --> [\S8 -->](8)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P7. Volume conversions for grain~(3)
+  \S7. Volume conversions for grain~(3)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of a volume conversion for trading grain
+This section gives a worked example of a volume conversion for trading grain
 using cross-multiplication.
 --
 --
@@ -59,7 +59,7 @@ $$
   1 \unit{peck~(斗)} = 10 \unit{quarts~(升)}.
 $$
 --
-See [Vol.~I \P3 (Units of capacity)](/sun-tzu/i/3).
+See [Vol.~I \S3 (Units of capacity)](/sun-tzu/i/3).
 --
 
 
@@ -120,7 +120,7 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
 * .以等數約之： reduce it by .[the] equal number
   --
   The division $540 \div 25$ leaves remainder $15/25$.
-  Their "equal number" is $\gcd (15, 25) = 5$ (see [\P1](1)),
+  Their "equal number" is $\gcd (15, 25) = 5$ (see [\S1](1)),
   so that the remainder is reduced to $3/5$.
   --
 
@@ -142,7 +142,7 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
   The rates 24~for intricate grain and 50~for (regular) grain
   appear to come from
   .《九章算術粟米》, "Nine Chapters .[on] Computational Methods: Grain".
-  See [\P5 commentary](5#commentary).
+  See [\S5 commentary](5#commentary).
 ==
 
 

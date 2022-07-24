@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P9"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P9
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S9"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S9
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-26
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P8](8)
-* %%surrounds-current --> \P9
-* %%surrounds-next --> [\P10 -->](10)
+* %%surrounds-previous --> [<-- \S8](8)
+* %%surrounds-current --> \S9
+* %%surrounds-next --> [\S10 -->](10)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P9. Area of a rectangle
+  \S9. Area of a rectangle
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing the area of a rectangle.
+This section gives a worked example of computing the area of a rectangle.
 --
 --
 The relevant unit conversion for length is
@@ -58,7 +58,7 @@ $$
   1 \unit{rod~(丈)} = 10 \unit{rules~(尺)}.
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
 --
 
 

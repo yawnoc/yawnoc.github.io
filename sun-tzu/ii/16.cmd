@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P16"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P16
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S16"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S16
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-27
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P15](15)
-* %%surrounds-current --> \P16
-* %%surrounds-next --> [\P17 -->](17)
+* %%surrounds-previous --> [<-- \S15](15)
+* %%surrounds-current --> \S16
+* %%surrounds-next --> [\S17 -->](17)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P16. Side length of a square of given perimeter
+  \S16. Side length of a square of given perimeter
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing
+This section gives a worked example of computing
 the side length of a square given its perimeter.
 --
 --
@@ -59,7 +59,7 @@ $$
   1 \unit{pace~(步)} = 6 \unit{rules~(尺)}.
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
 --
 
 

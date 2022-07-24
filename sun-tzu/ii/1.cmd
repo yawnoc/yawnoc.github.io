@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P1"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P1
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S1"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-01
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -24,8 +24,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
 * %%surrounds-previous --> [<-- Vol.~II](./)
-* %%surrounds-current --> \P1
-* %%surrounds-next --> [\P2 -->](2)
+* %%surrounds-current --> \S1
+* %%surrounds-next --> [\S2 -->](2)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P1. Reducing fractions
+  \S1. Reducing fractions
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of simplifying a fraction
+This section gives a worked example of simplifying a fraction
 using the subtraction-only version of the Euclidean algorithm.
 --
 
@@ -111,7 +111,7 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
 ##{#commentary} Extended commentary
 
 --
-In my opinion, this paragraph's description
+In my opinion, this section's description
 of the subtraction-only Euclidean algorithm
 is rather lacking in clarity.
 In particular, there is no explicit instruction

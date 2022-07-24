@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P6"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P6
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S6"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S6
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-26
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P5](5)
-* %%surrounds-current --> \P6
-* %%surrounds-next --> [\P7 -->](7)
+* %%surrounds-previous --> [<-- \S5](5)
+* %%surrounds-current --> \S6
+* %%surrounds-next --> [\S7 -->](7)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P6. Volume conversions for grain~(2)
+  \S6. Volume conversions for grain~(2)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of a volume conversion for trading grain
+This section gives a worked example of a volume conversion for trading grain
 using cross-multiplication.
 --
 --
@@ -59,7 +59,7 @@ $$
   1 \unit{peck~(斗)} = 10 \unit{quarts~(升)}.
 $$
 --
-See [Vol.~I \P3 (Units of capacity)](/sun-tzu/i/3).
+See [Vol.~I \S3 (Units of capacity)](/sun-tzu/i/3).
 --
 
 
@@ -118,7 +118,7 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
   $$
   The rates 27~for fine grain and 50~for (regular) grain appear to come from
   .《九章算術粟米》, "Nine Chapters .[on] Computational Methods: Grain".
-  See [\P5 commentary](5#commentary).
+  See [\S5 commentary](5#commentary).
 ==
 
 
