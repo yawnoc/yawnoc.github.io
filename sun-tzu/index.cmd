@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Sunzi Suanjing, 《孫子算經》, \
     `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-05-04
-* %date-modified --> 2022-07-01
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.romanisation.special-characters
     #.yawnoc.double-quotes-in-attributes
@@ -114,9 +114,10 @@ The punctuation is olden-style .句讀
 based on the modern punctuation in [Version~C][c].
 --
 --
-The historic versions, [A], [B], and~[D], have no paragraphing
-beyond some strategically placed line breaks.
-The splitting of each volume into paragraphs
+The historic versions, [A], [B], and~[D], have no sectioning
+beyond strategic line breaks and indentation,
+usually for .答曰 "answer saith" and .術曰 "method saith".
+The splitting of each volume into numbered sections
 is an entirely modern editorial decision,
 and I have only done it to have smaller HTML pages (which load faster)
 and to make it easier to refer to specific parts of the text.
