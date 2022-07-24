@@ -93,6 +93,7 @@ and the headings allocated are *not* part of the original text.
 - [\S23. Volume of a trapezoidal prism~(3)](23)
 - [\S24. Weighted proportions](24)
 - [\S25. Solving a linear equation](25)
+- [\S26. A system of linear equations](26)
 ::::
 
 ||{.marker}
