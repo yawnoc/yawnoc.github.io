@@ -62,6 +62,10 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
 <<
   今有五等諸侯、共分橘子六十顆、人別加三顆。問五人各得幾何。
 \\
+  Suppose there be .[the] five ranks of all .[the] marquesses,
+  together sharing tangerines sixty,
+  .[and for each] person's distinction .[there be] added three .[unto his share].
+  .[We] ask, how many getteth each of .[the] five people?
 >>
 
 <<

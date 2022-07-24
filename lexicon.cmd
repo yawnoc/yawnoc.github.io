@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-07-23
+* %date-modified --> 2022-07-24
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -3445,6 +3445,11 @@ See also: [有餘]
 * establish
 ==
 
+12 [橘] U+6A58
+==
+* tangerine
+==
+
 12 [橫] U+6A6B
 [平聲]
 ==
@@ -6642,6 +6647,11 @@ See also: [鴻雁]
 7 [頸] U+9838
 ==
 * neck
+==
+
+8 [顆] U+9846
+==
+* [:classifier:]
 ==
 
 12 [顧] U+9867
