@@ -72,6 +72,12 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
   .[If] each take .[the] coins that .[my] lords hold
   .[and] halve .[them] to benefit my coins, .[they] become ninety.
 >>
+=={.translation-annotations}
+* .語： tell
+  --
+  .語、去聲、 \C y(u")6, \M y(u\)
+  --
+==
 
 <<
   乙復語甲丙、各將公等所持錢半以益我錢、成七十。
@@ -94,6 +100,28 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
 \\
   .[We] ask, how many coins each carried .[the] three people originally?
 >>
+=={.translation-annotations}
+* \b[158] has .若干 for .幾何.
+
+* In modern notation, we have the system of linear equations
+  $$
+    \begin{aligned}
+      a + \frac{b + c}{2} &= T_A \\[\tallspace]
+      b + \frac{c + a}{2} &= T_B \\[\tallspace]
+      c + \frac{a + b}{2} &= T_C,
+    \end{aligned}
+  $$
+  where $T_A = 90$, $T_B = 70$, and $T_C = 56$.
+  The text to follow gives the solution as
+  $$
+    \begin{aligned}
+      a &= \frac{3T_A}{2} - \frac{T_B}{2} - \frac{T_C}{2} = 72 \\[\tallspace]
+      b &= \frac{3T_B}{2} - \frac{T_C}{2} - \frac{T_A}{2} = 32 \\[\tallspace]
+      c &= \frac{3T_C}{2} - \frac{T_A}{2} - \frac{T_B}{2} = 4,
+    \end{aligned}
+  $$
+  but there is no derivation of this (which is rather unsatisfactory).
+==
 
 <<
   答曰、甲七十二、乙三十二、丙四。
