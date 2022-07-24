@@ -89,12 +89,26 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
   next, twelve .[tangerines];
   above, fifteen .[tangerines].
 >>
+=={.translation-annotations}
+* In modern notation, with $n$ denoting the baseline number of tangerines,
+  we have $(n+3, n+6, n+9, n+12, n+15)$ tangerines for the five people;
+  therefore
+  $$
+    5n + (3 + 6 + 9 + 12 + 15) = 60.
+  $$
+==
 
 <<
   副并之、得四十五。
 \\
   Subsidiarily combining them, resulteth in forty-five.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    5n + 45 = 60.
+  $$
+==
 
 <<
   以減六十顆、餘、人數除之、人得三顆。
@@ -103,6 +117,15 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
   .[the] remainder, dividing it .[by the] number of people,
   .[each] person getteth three .[tangerines].
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+      5n &= 60 - 45 = 15 \\
+      n &= 15 \div 5 = 3.
+    \end{aligned}
+  $$
+==
 
 <<
   各加不并者、\
@@ -119,6 +142,10 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
     next .[there] resulteth nine as .[the] master's share;
     below .[there] resulteth six as .[the] male's share.
 >>
+=={.translation-annotations}
+* In modern notation, the five people get
+  $(n+15, n+12, n+9, n+6, n+3) = (18, 15, 12, 9, 6)$ tangerines.
+==
 
 
 %%surrounds
