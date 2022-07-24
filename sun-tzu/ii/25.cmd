@@ -71,6 +71,12 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
 <<
   答曰、公一十八顆、侯一十五顆、伯一十二顆、子九顆、男六顆。
 \\
+  Answer saith:
+    .[the] lord eighteen .[tangerines],
+    .[the] marquess fifteen .[tangerines],
+    .[the] elder twelve .[tangerines],
+    .[the] master nine .[tangerines],
+    .[and the] male six .[tangerines].
 >>
 
 <<

@@ -581,6 +581,11 @@ See also: [何以], [可以]
 * do not
 ==
 
+5 [伯] U+4F2F
+==
+* elder
+==
+
 5 [位] U+4F4D
 ==
 * place
@@ -859,6 +864,12 @@ See also: [以來]
 ==
 * eight; eighth
 * [:verb:] octuple
+==
+
+2 [公] U+516C
+==
+* public; commons
+* lord
 ==
 
 2 [六] U+516D
@@ -1882,6 +1893,7 @@ See also: [嬉戲]
 * numerator
 * master {:teacher:}; \met thou
 * initial
+* [:suffix:]
 ==
 ==
 * 夫子： master
@@ -4124,6 +4136,11 @@ See also: [後生]
 ==
 * armour
 * A {:1st heavenly stem:}
+==
+
+2 [男] U+7537
+==
+* male
 ==
 
 4 [畎] U+754E
