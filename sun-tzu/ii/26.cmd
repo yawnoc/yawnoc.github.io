@@ -76,16 +76,23 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
 <<
   乙復語甲丙、各將公等所持錢半以益我錢、成七十。
 \\
+  B again telleth A .[and] C,
+  .[If] each take .[the] coins that .[my] lords hold
+  .[and] halve .[them] to benefit my coins, .[they] become seventy.
 >>
 
 <<
   丙復語甲乙、各將公等所持錢半以益我錢、成五十六。
 \\
+  C again telleth A .[and] B,
+  .[If] each take .[the] coins that .[my] lords hold
+  .[and] halve .[them] to benefit my coins, .[they] become fifty-six.
 >>
 
 <<
   問三人元持錢各幾何。
 \\
+  .[We] ask, how many coins each carried .[the] three people originally?
 >>
 
 <<
