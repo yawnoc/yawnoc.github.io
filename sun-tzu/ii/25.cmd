@@ -87,7 +87,7 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
   next, six .[tangerines];
   next, nine .[tangerines];
   next, twelve .[tangerines];
-  .[and] above, fifteen .[tangerines].
+  above, fifteen .[tangerines].
 >>
 
 <<
@@ -99,6 +99,9 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
 <<
   以減六十顆、餘、人數除之、人得三顆。
 \\
+  Subtract of .[the] sixty .[tangerines] by .[this]:
+  .[the] remainder, dividing it .[by the] number of people,
+  .[each] person getteth three .[tangerines].
 >>
 
 <<
@@ -109,6 +112,12 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
     次得九為子分、\
     下得六為男分。
 \\
+  Adding unto each of those not combined:
+    above .[there] resulteth eighteen as .[the] lord's share;
+    next .[there] resulteth fifteen as .[the] marquess's share;
+    next .[there] resulteth twelve as .[the] elder's share;
+    next .[there] resulteth nine as .[the] master's share;
+    below .[there] resulteth six as .[the] male's share.
 >>
 
 
