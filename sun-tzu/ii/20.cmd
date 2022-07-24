@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P20"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P20
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S20"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S20
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-15
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P19](19)
-* %%surrounds-current --> \P20
-* %%surrounds-next --> [\P21 -->](21)
+* %%surrounds-previous --> [<-- \S19](19)
+* %%surrounds-current --> \S20
+* %%surrounds-next --> [\S21 -->](21)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P20. Rod calculus square root: $\sqrt{420000}$
+  \S20. Rod calculus square root: $\sqrt{420000}$
 
 %%noscript-equations
 
@@ -49,13 +49,13 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example
+This section gives a worked example
 of the rod calculus square root algorithm.
 --
 --
 For a fully annotated and diagrammed walkthrough
 of (Sun Tz(uu)|孫子)'s square root algorithm,
-see the [previous paragraph (\P19)](19),
+see the [previous section (\S19)](19),
 whose level of detail I will not be repeating here.
 --
 
@@ -97,7 +97,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 
 * In modern notation,
   but taking $\pi \approx 3$ (so that $4\pi \approx 12$)
-  as per [Vol.~I \P5](/sun-tzu/i/5),
+  as per [Vol.~I \S5](/sun-tzu/i/5),
   the circumference of a circle of area $A = 35000 \unit{paces}^2$ is
   $$
     \begin{aligned}
@@ -105,10 +105,10 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
         &= \sqrt{420000} \unit{paces}.
     \end{aligned}
   $$
-  The balance of this paragraph involves extracting the square root of~420000.
+  The balance of this section involves extracting the square root of~420000.
   For a fully annotated and diagrammed walkthrough
   of (Sun Tz(uu)|孫子)'s square root algorithm,
-  see the [previous paragraph (\P19)](19),
+  see the [previous section (\S19)](19),
   whose level of detail I will not be repeating here.
 ==
 

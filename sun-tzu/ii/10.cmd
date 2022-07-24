@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P10"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P10
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S10"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S10
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-26
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P9](9)
-* %%surrounds-current --> \P10
-* %%surrounds-next --> [\P11 -->](11)
+* %%surrounds-previous --> [<-- \S9](9)
+* %%surrounds-current --> \S10
+* %%surrounds-next --> [\S11 -->](11)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P10. Volume of a cylinder~(1)
+  \S10. Volume of a cylinder~(1)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing
+This section gives a worked example of computing
 the volume of a cylinder,
 and contains the first mention of
 the conversion between the capacity unit "barrel", (hu|斛)~(.斛),
@@ -75,8 +75,8 @@ $$
   1 \unit{barrel~(斛)} = 100 \unit{quarts~(升)}.
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1)
-and [Vol.~I \P3 (Units of capacity)](/sun-tzu/i/3).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1)
+and [Vol.~I \S3 (Units of capacity)](/sun-tzu/i/3).
 --
 
 
@@ -179,7 +179,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
   \end{aligned}
   $$
   Here $\pi \approx 3$ (so that $4\pi \approx 12$),
-  see [Vol.~I \P5](/sun-tzu/i/5).
+  see [Vol.~I \S5](/sun-tzu/i/5).
 ==
 
 

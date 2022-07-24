@@ -12,8 +12,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P7"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P7
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S7"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S7
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-07-24
 - concluding_replacements:
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P6](6)
-* %%surrounds-current --> \P7
-* %%surrounds-next --> [\P8 -->](8)
+* %%surrounds-previous --> [<-- \S6](6)
+* %%surrounds-current --> \S7
+* %%surrounds-next --> [\S8 -->](8)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,13 +41,13 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P7. Rod calculus: vertical & horizontal forms
+  \S7. Rod calculus: vertical & horizontal forms
 
 
 %%surrounds
 
 --
-This paragraph hints at the way in which numerals are displayed
+This section hints at the way in which numerals are displayed
 in [rod calculus],
 a means of doing arithmetic computations using counting rods
 (eventually replaced by the [Chinese abacus]).
@@ -102,7 +102,7 @@ Chinese source text: \a[6], \b[147], \c[52063], \d[14]. <br>
 ##{#commentary} Extended commentary
 
 --
-Since this paragraph is hardly a self-contained explanation of rod calculus,
+Since this section is hardly a self-contained explanation of rod calculus,
 I give a brief introduction here.
 --
 --

@@ -11,10 +11,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P23"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P23
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S23"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S23
 * %date-created --> 2022-07-17
-* %date-modified --> 2022-07-23
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -22,9 +22,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P22](22)
-* %%surrounds-current --> \P23
-* %%surrounds-next --> [\P24 -->](24)
+* %%surrounds-previous --> [<-- \S22](22)
+* %%surrounds-current --> \S23
+* %%surrounds-next --> [\S24 -->](24)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P23. Volume of a trapezoidal prism~(3)
+  \S23. Volume of a trapezoidal prism~(3)
 
 %%noscript-equations
 
@@ -48,7 +48,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing
+This section gives a worked example of computing
 the volume of a trapezoidal prism.
 --
 --
@@ -63,7 +63,7 @@ $$
   \end{aligned}
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
 --
 
 

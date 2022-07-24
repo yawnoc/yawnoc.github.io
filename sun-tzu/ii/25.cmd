@@ -11,8 +11,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P25"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P25
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S25"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S25
 * %date-created --> 2022-07-24
 * %date-modified --> 2022-07-24
 - concluding_replacements:
@@ -22,8 +22,8 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P24](24)
-* %%surrounds-current --> \P25
+* %%surrounds-previous --> [<-- \S24](24)
+* %%surrounds-current --> \S25
 * %%surrounds-next -->
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P25. Solving a linear equation
+  \S25. Solving a linear equation
 
 %%noscript-equations
 
@@ -48,7 +48,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of solving a linear equation.
+This section gives a worked example of solving a linear equation.
 --
 
 

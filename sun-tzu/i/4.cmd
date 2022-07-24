@@ -13,10 +13,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P4"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P4
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S4"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S4
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-12
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -24,9 +24,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P3](3)
-* %%surrounds-current --> \P4
-* %%surrounds-next --> [\P5 -->](5)
+* %%surrounds-previous --> [<-- \S3](3)
+* %%surrounds-current --> \S4
+* %%surrounds-next --> [\S5 -->](5)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -42,7 +42,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P4. Names of large numbers
+  \S4. Names of large numbers
 
 %%noscript-equations
 
@@ -50,8 +50,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph introduces a 'long scale' for named powers of ten.
-Note that the [previous paragraph (\P3)](3) uses a 'short scale'.
+This section introduces a 'long scale' for named powers of ten.
+Note that the [previous section (\S3)](3) uses a 'short scale'.
 --
 
 
@@ -113,7 +113,7 @@ $$
 \end{aligned}
 $$
 --
-Recall that in the [previous paragraph (\P3)](3),
+Recall that in the [previous section (\S3)](3),
 we had a 'short scale' where the named quantities
 only went up by a factor of 10.
 --
@@ -130,8 +130,8 @@ In summary:
   //
     ; Quantity
     ; Rendering
-    ; [\P3](3)
-    ; [\P4](4)
+    ; [\S3](3)
+    ; [\S4](4)
     ; Modern
 |:
   //

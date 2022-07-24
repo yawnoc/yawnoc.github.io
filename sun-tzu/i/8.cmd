@@ -11,10 +11,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P8"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P8
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S8"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S8
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-12
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -22,9 +22,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P7](7)
-* %%surrounds-current --> \P8
-* %%surrounds-next --> [\P9 -->](9)
+* %%surrounds-previous --> [<-- \S7](7)
+* %%surrounds-current --> \S8
+* %%surrounds-next --> [\S9 -->](9)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -40,16 +40,16 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P8. Rod calculus: multiplication algorithm
+  \S8. Rod calculus: multiplication algorithm
 
 
 %%surrounds
 
 --
-This paragraph describes the algorithm for multiplying two integers
+This section describes the algorithm for multiplying two integers
 represented using rod numerals.
 For a brief description of rod numerals,
-see [\P7 commentary](7#commentary).
+see [\S7 commentary](7#commentary).
 --
 
 
@@ -83,7 +83,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
 >>
 =={.translation-annotations}
 * \b[147] has .頭位 for .上位,
-  both here and in many of the paragraphs to follow.
+  both here and in many of the sections to follow.
 
 * After putting the numbers into two separate rows,
   the text tells us to "step" (i.e.~shift to the left) the lower number
@@ -139,7 +139,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
   .訖、居迄切、 \C kat7, \M q(i\)
   --
 
-* A concrete example of the algorithm does not appear until [\P13](13),
+* A concrete example of the algorithm does not appear until [\S13](13),
   so I will provide my own.
   Here is an animation ([crappy source code here])
   showing the multiplication 1989 × 64 = 127296,

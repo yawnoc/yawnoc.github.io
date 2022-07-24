@@ -11,10 +11,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P21"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P21
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S21"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S21
 * %date-created --> 2022-07-15
-* %date-modified --> 2022-07-16
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -22,9 +22,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P20](20)
-* %%surrounds-current --> \P21
-* %%surrounds-next --> [\P22 -->](22)
+* %%surrounds-previous --> [<-- \S20](20)
+* %%surrounds-current --> \S21
+* %%surrounds-next --> [\S22 -->](22)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P21. Lateral surface area of a cone
+  \S21. Lateral surface area of a cone
 
 %%noscript-equations
 
@@ -48,7 +48,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing
+This section gives a worked example of computing
 the lateral surface area of a cone.
 --
 --
@@ -61,7 +61,7 @@ $$
   \end{aligned}
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
 --
 
 
@@ -88,7 +88,7 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
   Here the "diameter" is not that of the base,
   but rather twice the slant height.
   (Indeed the circumference is less than three times the "diameter",
-  noting that $\pi \approx 3$ as per [Vol.~I \P5](/sun-tzu/i/5).)
+  noting that $\pi \approx 3$ as per [Vol.~I \S5](/sun-tzu/i/5).)
 ==
 
 <<

@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P5"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P5
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S5"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S5
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-26
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P4](4)
-* %%surrounds-current --> \P5
-* %%surrounds-next --> [\P6 -->](6)
+* %%surrounds-previous --> [<-- \S4](4)
+* %%surrounds-current --> \S5
+* %%surrounds-next --> [\S6 -->](6)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P5. Volume conversions for grain~(1)
+  \S5. Volume conversions for grain~(1)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of a volume conversion for trading grain
+This section gives a worked example of a volume conversion for trading grain
 using cross-multiplication.
 --
 --
@@ -59,7 +59,7 @@ $$
   1 \unit{peck~(斗)} = 10 \unit{quarts~(升)}.
 $$
 --
-See [Vol.~I \P3 (Units of capacity)](/sun-tzu/i/3).
+See [Vol.~I \S3 (Units of capacity)](/sun-tzu/i/3).
 --
 
 
@@ -115,7 +115,7 @@ Chinese source text: \a[30], \b[153], \c[52142], \d[42]. <br>
 
 --
 Here we have cross-multiplication.
-[Vol.~I \P10](/sun-tzu/i/10) already gave
+[Vol.~I \S10](/sun-tzu/i/10) already gave
 a grain-to-coarse-grain conversion rate of $3/5$,
 so it appears strange that here (Sun Tz(uu)|孫子) uses $30/50$.
 --

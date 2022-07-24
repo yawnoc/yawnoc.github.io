@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P9"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P9
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S9"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S9
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-10
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P8](8)
-* %%surrounds-current --> \P9
-* %%surrounds-next --> [\P10 -->](10)
+* %%surrounds-previous --> [<-- \S8](8)
+* %%surrounds-current --> \S9
+* %%surrounds-next --> [\S10 -->](10)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P9. Rod calculus: division algorithm
+  \S9. Rod calculus: division algorithm
 
 %%noscript-equations
 
@@ -49,10 +49,10 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph describes the algorithm for dividing two integers
+This section describes the algorithm for dividing two integers
 represented using rod numerals.
 For a brief description of rod numerals,
-see [\P7 commentary](7#commentary).
+see [\S7 commentary](7#commentary).
 --
 
 
@@ -120,7 +120,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   while .退, "retreat", means move to the right.
   Here the first step of the division $100 \div 6$ is described,
   but a full example of the division algorithm does not appear
-  until [\P14](14).
+  until [\S14](14).
   Since it would be instructive to see the full algorithm,
   I provide an animation here ([crappy source code here]):
 

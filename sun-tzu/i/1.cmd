@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P1"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P1
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S1"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-01
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -24,8 +24,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
 * %%surrounds-previous --> [<-- Vol.~I](./)
-* %%surrounds-current --> \P1
-* %%surrounds-next --> [\P2 -->](2)
+* %%surrounds-current --> \S1
+* %%surrounds-next --> [\S2 -->](2)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P1. Units of length (or distance)
+  \S1. Units of length (or distance)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph introduces Chinese units of length
+This section introduces Chinese units of length
 and gives the conversion rates between them.
 --
 

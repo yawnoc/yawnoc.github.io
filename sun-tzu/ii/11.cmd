@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P11"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P11
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S11"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S11
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-26
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P10](10)
-* %%surrounds-current --> \P11
-* %%surrounds-next --> [\P12 -->](12)
+* %%surrounds-previous --> [<-- \S10](10)
+* %%surrounds-current --> \S11
+* %%surrounds-next --> [\S12 -->](12)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P11. Volume of a rectangular prism~(1)
+  \S11. Volume of a rectangular prism~(1)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing
+This section gives a worked example of computing
 the volume of a rectangular prism.
 --
 --
@@ -78,9 +78,9 @@ $$
   1 \unit{barrel~(斛)} = 1.62 \unit{rules~(尺)}^3.
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1),
-[Vol.~I \P3 (Units of capacity)](/sun-tzu/i/3),
-and [Vol.~II \P10 Extended commentary](/sun-tzu/ii/10#commentary).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1),
+[Vol.~I \S3 (Units of capacity)](/sun-tzu/i/3),
+and [Vol.~II \S10 Extended commentary](/sun-tzu/ii/10#commentary).
 --
 
 
@@ -144,7 +144,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
     (hu|斛)~(.斛),
   and the volume unit "cubic rule",
     (ch'ih|尺)~(.尺);
-  see [\P10 Extended commentary](10#commentary).
+  see [\S10 Extended commentary](10#commentary).
   --
 
 * In modern notation, the volume (or capacity) of a rectangular prism of

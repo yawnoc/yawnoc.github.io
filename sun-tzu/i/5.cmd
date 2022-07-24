@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P5"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P5
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S5"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S5
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-15
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P4](4)
-* %%surrounds-current --> \P5
-* %%surrounds-next --> [\P6 -->](6)
+* %%surrounds-previous --> [<-- \S4](4)
+* %%surrounds-current --> \S5
+* %%surrounds-next --> [\S6 -->](6)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P5. $\pi \approx 3$, $\sqrt{2} \approx 7/5$
+  \S5. $\pi \approx 3$, $\sqrt{2} \approx 7/5$
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives the approximate values of $3$ for $\pi$
+This section gives the approximate values of $3$ for $\pi$
 and $7/5$ for $\sqrt{2}$.
 --
 

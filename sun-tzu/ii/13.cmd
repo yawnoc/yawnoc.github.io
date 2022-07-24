@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \P13"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \P13
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S13"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S13
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-27
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~II](./)
-* %%surrounds-previous --> [<-- \P12](12)
-* %%surrounds-current --> \P13
-* %%surrounds-next --> [\P14 -->](14)
+* %%surrounds-previous --> [<-- \S12](12)
+* %%surrounds-current --> \S13
+* %%surrounds-next --> [\S14 -->](14)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \P13. Area of a circle
+  \S13. Area of a circle
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a worked example of computing the area of a circle.
+This section gives a worked example of computing the area of a circle.
 --
 --
 The relevant unit conversion between area and length is
@@ -58,7 +58,7 @@ $$
   1 \unit{acre~(畝)} = 240 \unit{paces~(步)}^2.
 $$
 --
-See [Vol.~I \P1 (Units of length)](/sun-tzu/i/1).
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
 --
 
 
@@ -78,7 +78,7 @@ Chinese source text: \a[34], \b[155], \c[52166], \d[48]. <br>
   .[We] ask, how much field resulteth?
 >>
 ==
-* Here $\pi \approx 3$, see [Vol.~I \P5](/sun-tzu/i/5).
+* Here $\pi \approx 3$, see [Vol.~I \S5](/sun-tzu/i/5).
 ==
 
 <<
@@ -162,7 +162,7 @@ Chinese source text: \a[34], \b[155], \c[52166], \d[48]. <br>
     \approx \frac{C^2}{12}
     \approx \frac{3d^2}{4}.
   $$
-  Here $\pi \approx 3$, see [Vol.~I \P5](/sun-tzu/i/5).
+  Here $\pi \approx 3$, see [Vol.~I \S5](/sun-tzu/i/5).
 ==
 
 

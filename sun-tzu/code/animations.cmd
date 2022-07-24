@@ -52,8 +52,8 @@ RegexDictionaryReplacement: #.animation-images
 See b<https://github.com/yawnoc/sun-tzu-arithmetic>,
 which consists of crappy Mathematica code for the animations in my
 [translation of (Sun Tz(uu)|孫子)'s Computational Classic],
-in particular Vol.~I [\P8] &~[\P13] (multiplcation)
-and [\P9] &~[\P14] (division).
+in particular Vol.~I [\S8] &~[\S13] (multiplcation)
+and [\S9] &~[\S14] (division).
 --
 ++
 1. Change to the directory of [`SunTzu.wl`].
@@ -62,10 +62,10 @@ and [\P9] &~[\P14] (division).
 ++
 
 [translation of (Sun Tz(uu)|孫子)'s Computational Classic]: /sun-tzu/
-[\P8]: /sun-tzu/i/8
-[\P9]: /sun-tzu/i/9
-[\P13]: /sun-tzu/i/13
-[\P14]: /sun-tzu/i/14
+[\S8]: /sun-tzu/i/8
+[\S9]: /sun-tzu/i/9
+[\S13]: /sun-tzu/i/13
+[\S14]: /sun-tzu/i/14
 [`SunTzu.wl`]: https://github.com/yawnoc/sun-tzu-arithmetic/blob/master/SunTzu.wl
 
 

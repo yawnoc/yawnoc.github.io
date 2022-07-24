@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P14"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P14
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S14"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S14
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-19
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P13](13)
-* %%surrounds-current --> \P14
-* %%surrounds-next --> [\P15 -->](15)
+* %%surrounds-previous --> [<-- \S13](13)
+* %%surrounds-current --> \S14
+* %%surrounds-next --> [\S15 -->](15)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P14. Rod calculus division: $6561 \div 9$
+  \S14. Rod calculus division: $6561 \div 9$
 
 %%noscript-equations
 
@@ -49,8 +49,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a fully worked example
-of the rod calculus division algorithm described in [\P9](9).
+This section gives a fully worked example
+of the rod calculus division algorithm described in [\S9](9).
 --
 
 
@@ -162,7 +162,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
         & & & \text{etc.}
     \end{alignedat}
   $$
-  in the paragraphs to follow.
+  in the sections to follow.
 ==
 
 
