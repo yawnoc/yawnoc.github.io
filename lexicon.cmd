@@ -4580,7 +4580,7 @@ See also: [規矩]
 11 [積] U+7A4D
 ==
 * accumulate
-* area; volume
+* product; area; volume
 ==
 
 

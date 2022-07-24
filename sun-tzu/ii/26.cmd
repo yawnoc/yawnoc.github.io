@@ -98,31 +98,47 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
 <<
   答曰、甲七十二、乙三十二、丙四。
 \\
+  Answer saith: A seventy-two; B thirty-two; C four.
 >>
 
 <<
   術曰、先置三人所語為位。
 \\
+  Method saith: first put .[down] that told .[by the] three people as places.
 >>
 
 <<
   以三乘之、各為積、甲得二百七十、乙得二百一十、丙得一百六十八。
 \\
+  Multiplying them by three, each becometh .[a] product:
+  A resulteth in two hundred .[and] seventy;
+  B resulteth in two hundred .[and] ten;
+  C resulteth in one hundred .[and] sixty-eight.
 >>
 
 <<
   各半之、甲得一百三十五、乙得一百五、丙得八十四。
 \\
+  Halving them each:
+    A resulteth in one hundred .[and] thirty-five;
+    B resulteth in one hundred .[and] five;
+    C resulteth in eighty-four.
 >>
 
 <<
   又置甲九十、乙七十、丙五十六、各半之。
 \\
+  And put .[down] A's ninety, B's seventy, .[and] C's fifty-six,
+  .[and] halve them each.
 >>
 
 <<
   以甲乙減丙、以甲丙減乙、以乙丙減甲、即各得元數。
 \\
+  Subtracting of C by A .[and] B,
+  subtracting of B by A .[and] C,
+  .[and] subtracting of A by B .[and] C,
+  doth each result in .[its] original number.
 >>
 
 
