@@ -2008,6 +2008,18 @@ See also: [從容]
 * inch
 ==
 
+5 [將] U+5C07
+[平聲]
+==
+* take
+* undertake
+* about to
+==
+[去聲]
+==
+* general
+==
+
 8 [專] U+5C08
 ==
 * exclusive; sole
@@ -4718,6 +4730,7 @@ See also: [符驗]
 * rank
 * equal
 * wait
+* [:plural-suffix:]
 ==
 
 6 [答] U+7B54
@@ -5653,6 +5666,17 @@ See also: [平行]
 7 [誓] U+8A93
 ==
 * swear; (take) oath
+==
+
+7 [語] U+8A9E
+[上聲]
+==
+* say; saying
+* lect
+==
+[去聲]
+==
+* tell
 ==
 
 7 [說] U+8AAA

@@ -68,6 +68,9 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
 <<
   甲語乙丙、各將公等所持錢半以益我錢、成九十。
 \\
+  A telleth B .[and] C,
+  .[If] each take .[the] coins that .[my] lords hold
+  .[and] halve .[them] to benefit my coins, .[they] become ninety.
 >>
 
 <<
