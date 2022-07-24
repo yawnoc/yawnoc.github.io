@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P12"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P12
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S12"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S12
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-16
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P11](11)
-* %%surrounds-current --> \P12
-* %%surrounds-next --> [\P13 -->](13)
+* %%surrounds-previous --> [<-- \S11](11)
+* %%surrounds-current --> \S12
+* %%surrounds-next --> [\S13 -->](13)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P12. Some equivalent fractions~(2)
+  \S12. Some equivalent fractions~(2)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives some equivalent fractions.
+This section gives some equivalent fractions.
 --
 
 
@@ -86,8 +86,8 @@ Chinese source text: \a[10], \b[148], \c[52068], \d[17]. <br>
   literally "$a$ of $b$ shares".
   --
 
-* Like the [previous paragraph (\P11)](11),
-  I think this paragraph is saying
+* Like the [previous section (\S11)](11),
+  I think this is saying
   $$
     \begin{aligned}
       -\frac{1}{9} &= -\frac{2}{18} \\[\tallspace]

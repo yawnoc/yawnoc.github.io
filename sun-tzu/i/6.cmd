@@ -13,10 +13,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P6"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P6
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S6"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S6
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-12
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -24,9 +24,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P5](5)
-* %%surrounds-current --> \P6
-* %%surrounds-next --> [\P7 -->](7)
+* %%surrounds-previous --> [<-- \S5](5)
+* %%surrounds-current --> \S6
+* %%surrounds-next --> [\S7 -->](7)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -42,7 +42,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P6. Densities of metals etc.
+  \S6. Densities of metals etc.
 
 %%noscript-equations
 
@@ -50,7 +50,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives the densities of some precious & base metals,
+This section gives the densities of some precious & base metals,
 along with those of jade and an unspecific "stone/rock".
 --
 

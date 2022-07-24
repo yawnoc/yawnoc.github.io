@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P13"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P13
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S13"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S13
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-19
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P12](12)
-* %%surrounds-current --> \P13
-* %%surrounds-next --> [\P14 -->](14)
+* %%surrounds-previous --> [<-- \S12](12)
+* %%surrounds-current --> \S13
+* %%surrounds-next --> [\S14 -->](14)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P13. Rod calculus multiplication: $81 \times 81$
+  \S13. Rod calculus multiplication: $81 \times 81$
 
 %%noscript-equations
 
@@ -49,8 +49,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives a fully worked example
-of the rod calculus multiplication algorithm described in [\P8](8).
+This section gives a fully worked example
+of the rod calculus multiplication algorithm described in [\S8](8).
 --
 
 
@@ -85,7 +85,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
   Method saith: put layered .[the] places.
 >>
 =={.translation-annotations}
-* See [\P8](8).
+* See [\S8](8).
 ==
 
 <<

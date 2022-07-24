@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P24"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P24
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S24"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S24
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-20
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,8 +23,8 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P23](23)
-* %%surrounds-current --> \P24
+* %%surrounds-previous --> [<-- \S23](23)
+* %%surrounds-current --> \S24
 * %%surrounds-next --> [Vol.~II -->](/sun-tzu/ii/)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P24. Results of multiplication & division: multiples of powers of~3
+  \S24. Results of multiplication & division: multiples of powers of~3
 
 %%noscript-equations
 
@@ -50,7 +50,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 
 --
-This paragraph gives the results of multiplications and divisions
+This section gives the results of multiplications and divisions
 of the form
 --
 $$

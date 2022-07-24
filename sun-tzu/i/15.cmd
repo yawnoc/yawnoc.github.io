@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P15"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P15
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S15"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S15
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-19
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P14](14)
-* %%surrounds-current --> \P15
-* %%surrounds-next --> [\P16 -->](16)
+* %%surrounds-previous --> [<-- \S14](14)
+* %%surrounds-current --> \S15
+* %%surrounds-next --> [\S16 -->](16)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P15. Results of multiplication & division: multiples of~9
+  \S15. Results of multiplication & division: multiples of~9
 
 %%noscript-equations
 
@@ -51,7 +51,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 %%volume-i-multiplications-and-divisions
 --
-This paragraph corresponds to $n = 9$.
+This section corresponds to $n = 9$.
 --
 
 
@@ -122,7 +122,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 =={.translation-annotations}
 * **\a[12] is missing four whole pages after .一千二百九十六**,
   from .四人分之 in the line above
-  until .四人分之 after .四七二十八 in [\P17](17).
+  until .四人分之 after .四七二十八 in [\S17](17).
   These missing pages correspond to pages~[21] through~[24] in Version~D,
   which up to this point has the same page breaks as Version~A.
 
@@ -192,9 +192,8 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
       \quad 164025 \div 9 = 18225.
     \end{gathered}
   $$
-  Note that "nine nines above" includes $9 \times 9$ from [\P13](13).
-  (The source text has no paragraphing, only strategically placed line breaks;
-  paragraphing is an entirely modern practice.)
+  Note that "nine nines above" includes $9 \times 9$ from [\S13](13).
+  (The source text has no sectioning, only strategically placed line breaks.)
 ==
 
 

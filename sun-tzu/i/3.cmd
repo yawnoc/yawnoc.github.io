@@ -13,10 +13,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P3"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P3
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S3"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S3
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-12
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -24,9 +24,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P2](2)
-* %%surrounds-current --> \P3
-* %%surrounds-next --> [\P4 -->](4)
+* %%surrounds-previous --> [<-- \S2](2)
+* %%surrounds-current --> \S3
+* %%surrounds-next --> [\S4 -->](4)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -43,7 +43,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P3. Units of capacity
+  \S3. Units of capacity
 
 %%noscript-equations
 
@@ -52,10 +52,10 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 
 --
-This paragraph introduces Chinese units of capacity
+This section introduces Chinese units of capacity
 and gives the conversion rates between them.
 A 'short scale' is used for named powers of ten.
-Note that the [next paragraph (\P4)](4) uses a 'long scale'.
+Note that the [next section (\S4)](4) uses a 'long scale'.
 --
 
 
@@ -324,7 +324,7 @@ $$
 $$
 
 --
-In [Volume~II \P10](/sun-tzu/ii/10),
+In [Volume~II \S10](/sun-tzu/ii/10),
 the conversion between
 the capacity unit "barrel", (hu|斛)~(.斛),
 and the volume unit "cubic rule", (ch'ih|尺)~(.尺),
@@ -389,7 +389,7 @@ $$
 $$
 
 --
-However, the [next paragraph (\P4)](4) uses a 'long scale'
+However, the [next section (\S4)](4) uses a 'long scale'
 where the named quantities go up by a factor of 10^8.
 --
 

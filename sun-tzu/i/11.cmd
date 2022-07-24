@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P11"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P11
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S11"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S11
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-16
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P10](10)
-* %%surrounds-current --> \P11
-* %%surrounds-next --> [\P12 -->](12)
+* %%surrounds-previous --> [<-- \S10](10)
+* %%surrounds-current --> \S11
+* %%surrounds-next --> [\S12 -->](12)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P11. Some equivalent fractions~(1)
+  \S11. Some equivalent fractions~(1)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This paragraph gives some equivalent fractions.
+This section gives some equivalent fractions.
 --
 
 
@@ -98,7 +98,7 @@ Chinese source text: \a[8], \b[148], \c[52067], \d[16]. <br>
   literally "$a$ of $b$ shares".
   --
 
-* I think this paragraph is saying
+* I think this is saying
   $$
     \begin{aligned}
       -\frac{1}{10} &= -\frac{2}{20} \\[\tallspace]
@@ -109,7 +109,7 @@ Chinese source text: \a[8], \b[148], \c[52067], \d[16]. <br>
   $$
   but I have no clue as to why this might be useful,
   and why it is phrased in terms of subtraction.
-  Ditto for the [next paragraph (\P12)](12).
+  Ditto for the [next section (\S12)](12).
 ==
 
 

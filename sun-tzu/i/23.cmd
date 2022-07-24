@@ -12,10 +12,10 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \P23"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \P23
+* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S23"'
+* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S23
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-20
+* %date-modified --> 2022-07-24
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -23,9 +23,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
 * %%surrounds-up --> [^ Volume~I](./)
-* %%surrounds-previous --> [<-- \P22](22)
-* %%surrounds-current --> \P23
-* %%surrounds-next --> [\P24 -->](24)
+* %%surrounds-previous --> [<-- \S22](22)
+* %%surrounds-current --> \S23
+* %%surrounds-next --> [\S24 -->](24)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \P23. Results of multiplication & division: multiples of~1,
+  \S23. Results of multiplication & division: multiples of~1,
     and all multiples of~9 through~1 combined
 
 %%noscript-equations
@@ -51,7 +51,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 
 --
-\P15 through \P22 gave the results of multiplications and divisions
+\S15 through \S22 gave the results of multiplications and divisions
 of the form
 --
 $$
@@ -69,7 +69,7 @@ $$
   n.
 $$
 --
-This paragraph gives the multiplication corresponding to $m = n = 1$,
+This section gives the multiplication corresponding to $m = n = 1$,
 before giving the sum of all single-digit products of the form $m \times n$,
 the result of which is used in its own example of multiplication and division.
 --
