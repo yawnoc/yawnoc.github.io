@@ -172,13 +172,9 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 
 ==
 - [Stuff I can't remember](/code/remember)
-- Links to ping the sitemap: [Google][ping-google], [Bing][ping-bing]
+- [Ping the sitemap (Google)]\
+    (https://www.google.com/ping?sitemap=https://yawnoc.github.io/sitemap.txt)
 ==
-
-[ping-google]:
-  https://www.google.com/ping?sitemap=https://yawnoc.github.io/sitemap.txt
-[ping-bing]:
-  https://www.bing.com/ping?sitemap=https://yawnoc.github.io/sitemap.txt
 
 
 ##{#me-elsewhere} Me elsewhere
