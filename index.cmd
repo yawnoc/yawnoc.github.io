@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2022-07-25
+* %date-modified --> 2022-07-26
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -171,7 +171,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ###{#code-misc} Miscellaneous
 
 ==
-- [Stuff I can't remember](/code/remember)
+- [Stuff I can never remember](/code/remember)
 - [Ping the sitemap (Google)]\
     (https://www.google.com/ping?sitemap=https://yawnoc.github.io/sitemap.txt)
 ==

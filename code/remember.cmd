@@ -6,9 +6,9 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %title --> Stuff I can't remember
+* %title --> Stuff I can never remember
 * %date-created --> 2021-04-26
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-07-26
 
 %%%
 
