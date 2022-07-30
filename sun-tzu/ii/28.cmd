@@ -85,7 +85,7 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
 >>
 
 <<
-  術曰、先置人得六匹於右上、盈六匹於右下、後置人得七匹於左上，不足七匹於左下。
+  術曰、先置人得六匹於右上、盈六匹於右下、後置人得七匹於左上、不足七匹於左下。
 \\
   Method saith:
     first put .[each] person getting six lengths upon .[the] upper right,
@@ -97,11 +97,14 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
 <<
   維乘之、所得、并之、為絹。
 \\
+  .[In] linkage multiply them;
+  .[of] those resulted in, combining them, maketh .[the] strong-silk.
 >>
 
 <<
   并下盈不足、為人。
 \\
+  Combining .[the] excess .[and the] not sufficient below, maketh .[the] people.
 >>
 
 

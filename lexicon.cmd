@@ -4915,6 +4915,12 @@ See also: [御米]
 * green
 ==
 
+8 [維] U+7DAD
+==
+* link
+* [:speech-assist:]
+==
+
 8 [綱] U+7DB1
 ==
 * principle
