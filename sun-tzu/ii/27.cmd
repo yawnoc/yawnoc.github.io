@@ -51,6 +51,15 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 This section gives a worked example of
 portioning a quantity into terms that form a (finite) geometric sequence.
 --
+--
+The relevant unit conversion for length is
+--
+$$
+  1 \unit{rule~(尺)} = 10 \unit{inches~(寸)}.
+$$
+--
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
+--
 
 
 ##{#translation} Translation
