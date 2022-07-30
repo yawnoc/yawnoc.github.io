@@ -1015,6 +1015,11 @@ See also: [以來]
 * row; rank
 ==
 
+5 [初] U+521D
+==
+* initial
+==
+
 5 [別] U+5225
 ==
 * distinguish; distinction

@@ -86,21 +86,38 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
     次日織一尺二寸三十一分寸之二十八、
     次日織二尺五寸三十一分寸之二十五。
 \\
+  Answer saith:
+    .[the] initial day .[she] weaveth
+      one inch .[and] nineteen thirty-firsts of .[an] inch;
+    .[the] next day .[she] weaveth
+      three inches .[and] seven thirty-firsts of .[an] inch;
+    .[the] next day .[she] weaveth
+      six inches .[and] fourteen thirty-firsts of .[an] inch;
+    .[the] next day .[she] weaveth
+      one rule, two inches, .[and] twenty-eight thirty-firsts of .[an] inch;
+    .[the] next day .[she] weaveth
+      two rules, five inches, .[and] twenty-five thirty-firsts of .[an] inch.
 >>
 
 <<
   術曰、各置列衰、副并、得三十一為法。
 \\
+  Method saith: put each .[into a] row of waning,
+  .[which], combined subsidiarily, resulteth in thirty-one as .[the] divisor.
 >>
 
 <<
   以五尺乘未并者、各自為實。
 \\
+  Multiplying those not yet combined by five rules,
+  each .[on its] own be .[a] dividend.
 >>
 
 <<
   實如法而一、即得。
 \\
+  .[Taking the] dividends as .[per the] divisor .[being] one,
+  .[we] are done.
 >>
 
 
