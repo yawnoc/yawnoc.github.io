@@ -98,10 +98,6 @@ and the headings allocated are *not* part of the original text.
 - [\S28. Two-point method of false position](28)
 ::::
 
-||{.marker}
-(Incomplete; work in progress.)
-||
-
 
 %%surrounds
 

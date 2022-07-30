@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Sunzi Suanjing, 《孫子算經》, \
     `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-05-04
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-07-30
 - concluding_replacements:
     #.romanisation.special-characters
     #.yawnoc.double-quotes-in-attributes
@@ -51,7 +51,7 @@ of _{l=zh} Sunzi Suanjing_ into English.
 ::::{-class}
 - [.《序》 "Preface"](/sun-tzu/preface/)
 - [.《卷上》 "Volume~I"](/sun-tzu/i/)
-- [.《卷中》 "Volume~II"](/sun-tzu/ii/) (incomplete)
+- [.《卷中》 "Volume~II"](/sun-tzu/ii/)
 - .《卷下》 "Volume~III" (haven't started)
 ::::
 
