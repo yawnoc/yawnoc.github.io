@@ -5458,6 +5458,11 @@ See also: [平行]
 * pillar; post
 ==
 
+4 [衰] U+8870
+==
+* wane
+==
+
 4 [衾] U+887E
 ==
 * quilt
