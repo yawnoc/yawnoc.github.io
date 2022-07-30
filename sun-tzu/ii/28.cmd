@@ -59,6 +59,44 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
 %%version-d-default
 --
 
+<<
+  今有人盜庫絹、不知所失幾何。但聞草中分絹、人得六匹、盈六匹、人得七匹、不足七匹。
+\\
+  Suppose there be people .[having] stolen warehoused strong-silk,
+  .[and we] know not how much that lost .[be].
+  But .[we] hear .[a] sharing of .[the] strong-silk amidst .[the] grass:
+  .[each] person getting six lengths,
+  .[be there] excess six lengths;
+  .[each] person getting seven lengths,
+  .[be there] not sufficient seven lengths.
+>>
+
+<<
+  問人絹各幾何。
+\\
+  .[We] ask, how much each .[be the] people .[and the] strong-silk?
+>>
+
+<<
+  答曰、賊一十三人、絹八十四匹。
+\\
+>>
+
+<<
+  術曰、先置人得六匹於右上、盈六匹於右下、後置人得七匹於左上，不足七匹於左下。
+\\
+>>
+
+<<
+  維乘之、所得、并之、為絹。
+\\
+>>
+
+<<
+  并下盈不足、為人。
+\\
+>>
+
 
 ||{.marker .end}
 END of Volume~II

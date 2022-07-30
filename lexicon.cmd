@@ -586,6 +586,11 @@ See also: [何以], [可以]
 * elder
 ==
 
+5 [但] U+4F46
+==
+* but
+==
+
 5 [位] U+4F4D
 ==
 * place
@@ -2334,6 +2339,11 @@ See also: [參差]
 [入聲]
 ==
 * measure (length)
+==
+
+7 [庫] U+5EAB
+==
+* warehouse
 ==
 
 10 [廉] U+5EC9
@@ -4332,6 +4342,11 @@ See also: [百萬]
 * flourishing; vigorous
 ==
 
+7 [盜] U+76DC
+==
+* steal
+==
+
 9 [盡] U+76E1
 ==
 * exhaust
@@ -4881,6 +4896,11 @@ See also: [御米]
 6 [絶] U+7D76
 ==
 * \var [絕]
+==
+
+7 [絹]
+==
+* strong-silk
 ==
 
 7 [經] U+7D93
