@@ -43,7 +43,7 @@
 </nav>
 </header>
 <h1><span lang="zh-Hant">《孫子算經卷中》</span> "<span class="romanised-untranslated" title="孫子">Sun Tzŭ</span>'s Computational Classic: Volume II"<br>
-§27. Geometric portioning</h1>
+§27. Weighted sharing</h1>
 <noscript>
 <strong class="noscript">Enable JavaScript for equation rendering to work.</strong>
 </noscript>
@@ -64,7 +64,7 @@
 </nav>
 <p>
 This section gives a worked example of
-portioning a quantity into terms that form a (finite) geometric sequence.
+dividing a quantity into weighted portions.
 </p>
 <p>
 The relevant unit conversion for length is
@@ -90,6 +90,17 @@ Suppose there be <span class="translator-supplied">[a]</span> lady good at weavi
 <span class="translator-supplied">[We]</span> ask, how much weaveth <span class="translator-supplied">[she each]</span> day?
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+<a href="https://ctext.org/sunzi-suan-jing#n52210">Version C</a> erroneously has <span lang="zh-Hant">扣</span> before <span lang="zh-Hant">問</span>.
+</li>
+<li>
+In modern notation, the problem is to determine the lengths
+<span class="js-maths">L</span>, <span class="js-maths">2L</span>, <span class="js-maths">2^2 L</span>, <span class="js-maths">2^3 L</span>, <span class="js-maths">2^4 L</span> such that
+<div class="js-maths">L + 2L + 2^2 L + 2^3 L + 2^4 L = 5 \unit{rules} = 50 \unit{inches}.
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 答曰、初日織一寸三十一分寸之一十九、次日織三寸三十一分寸之七、次日織六寸三十一分寸之一十四、
@@ -110,6 +121,11 @@ one rule, two inches, <span class="translator-supplied">[and]</span> twenty-eigh
 two rules, five inches, <span class="translator-supplied">[and]</span> twenty-five thirty-firsts of <span class="translator-supplied">[an]</span> inch.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+<a href="https://archive.org/details/02094034.cn/page/n52">Version A</a> is missing <span lang="zh-Hant">寸</span> in <span lang="zh-Hant">三十一分寸之二十八</span>.
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 術曰、各置列衰、副并、得三十一為法。
@@ -119,6 +135,18 @@ Method saith: put each <span class="translator-supplied">[into a]</span> row of 
 <span class="translator-supplied">[which]</span>, combined subsidiarily, resulteth in thirty-one as <span class="translator-supplied">[the]</span> divisor.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">列衰：</span> row of waning
+<p>
+The weights <span class="js-maths">(1, 2, 2^2, 2^3, 2^4)</span>, which sum to <span class="js-maths">31</span>.
+See the chapter <a href="https://ctext.org/nine-chapters/shuai-fen"><span lang="zh-Hant">〈衰分〉</span> 'Waned sharing'</a>,
+of <span lang="zh-Hant">《九章算術》</span> "Nine Chapters <span class="translator-supplied">[on]</span> Computational Methods".
+So called because the weights are usually listed in descending order
+(which is opposite to what we have here).
+</p>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 以五尺乘未并者、各自為實。
@@ -137,6 +165,25 @@ each <span class="translator-supplied">[on its]</span> own be <span class="trans
 <span class="translator-supplied">[we]</span> are done.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+In modern notation,
+<div class="js-maths">\begin{aligned}
+  (L, 2L, 2^2 L, 2^3 L, 2^4 L)
+    &amp;= \frac{(1, 2, 2^2, 2^3, 2^4) \cdot 50 \unit{inches}}{31} \\[\tallspace]
+    &amp;=
+      \left(
+        1 \tfrac{19}{31},
+        3 \tfrac{7}{31},
+        6 \tfrac{14}{31},
+        12 \tfrac{28}{31},
+        25 \tfrac{25}{31}
+      \right)
+      \unit{inches}.
+\end{aligned}
+</div>
+</li>
+</ul>
 <nav class="surrounds">
 <div class="surrounds-up">
 <a href="./">↑ Volume II</a>

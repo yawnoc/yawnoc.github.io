@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \S27. Geometric portioning
+  \S27. Weighted sharing
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 --
 This section gives a worked example of
-portioning a quantity into terms that form a (finite) geometric sequence.
+dividing a quantity into weighted portions.
 --
 --
 The relevant unit conversion for length is
@@ -77,6 +77,15 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
   .[and in] five days weaving through five rules.
   .[We] ask, how much weaveth .[she each] day?
 >>
+=={.translation-annotations}
+* \c[52210] erroneously has .扣 before .問.
+
+* In modern notation, the problem is to determine the lengths
+  $L$, $2L$, $2^2 L$, $2^3 L$, $2^4 L$ such that
+  $$
+    L + 2L + 2^2 L + 2^3 L + 2^4 L = 5 \unit{rules} = 50 \unit{inches}.
+  $$
+==
 
 <<
   答曰、\
@@ -98,6 +107,9 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
     .[the] next day .[she] weaveth
       two rules, five inches, .[and] twenty-five thirty-firsts of .[an] inch.
 >>
+=={.translation-annotations}
+* \a[52] is missing .寸 in .三十一分寸之二十八.
+==
 
 <<
   術曰、各置列衰、副并、得三十一為法。
@@ -105,6 +117,17 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
   Method saith: put each .[into a] row of waning,
   .[which], combined subsidiarily, resulteth in thirty-one as .[the] divisor.
 >>
+=={.translation-annotations}
+* .列衰： row of waning
+  --
+  The weights $(1, 2, 2^2, 2^3, 2^4)$, which sum to $31$.
+  See the chapter [.〈衰分〉 'Waned sharing'],
+  of .《九章算術》 "Nine Chapters .[on] Computational Methods".
+  So called because the weights are usually listed in descending order
+  (which is opposite to what we have here).
+  --
+==
+[.〈衰分〉 'Waned sharing']: https://ctext.org/nine-chapters/shuai-fen
 
 <<
   以五尺乘未并者、各自為實。
@@ -119,6 +142,24 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
   .[Taking the] dividends as .[per the] divisor .[being] one,
   .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+      (L, 2L, 2^2 L, 2^3 L, 2^4 L)
+        &= \frac{(1, 2, 2^2, 2^3, 2^4) \cdot 50 \unit{inches}}{31} \\[\tallspace]
+        &=
+          \left(
+            1 \tfrac{19}{31},
+            3 \tfrac{7}{31},
+            6 \tfrac{14}{31},
+            12 \tfrac{28}{31},
+            25 \tfrac{25}{31}
+          \right)
+          \unit{inches}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
