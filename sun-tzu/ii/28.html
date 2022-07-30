@@ -63,7 +63,8 @@
 </div>
 </nav>
 <p>
-This section gives a worked example of the two-point method of false position.
+This section gives a worked example of the two-point method of false position
+for a system of linear equations in two variables.
 </p>
 <h2 id="translation"><a href="#translation" class="permalink" aria-label="Permalink"></a>Translation</h2>
 <p>
@@ -92,6 +93,26 @@ But <span class="translator-supplied">[we]</span> hear <span class="translator-s
 <span class="translator-supplied">[We]</span> ask, how much each <span class="translator-supplied">[be the]</span> people <span class="translator-supplied">[and the]</span> strong-silk?
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+<a href="https://archive.org/details/02094034.cn/page/n52">Version A</a> and <a href="https://ctext.org/library.pl?if=en&amp;file=86926&amp;page=65">Version D</a> have <span lang="zh-Hant">得幾何</span>.
+I have taken <span lang="zh-Hant">各幾何</span> per <a href="https://commons.wikimedia.org/w/index.php?title=File%3A文淵閣四庫全書_0797冊.djvu&amp;page=158">Version B</a> and <a href="https://ctext.org/sunzi-suan-jing#n52213">Version C</a>.
+</li>
+<li>
+In modern notation,
+suppose the length of strong-silk is <span class="js-maths">l</span>, stolen by <span class="js-maths">p</span> people,
+with surplus <span class="js-maths">Y_\mathrm{s} = 6 \unit{lengths}</span>
+if each person takes <span class="js-maths">X_\mathrm{s} = 6 \unit{lengths}</span>,
+and deficit <span class="js-maths">Y_\mathrm{d} = 7 \unit{lengths}</span>
+if each person takes <span class="js-maths">X_\mathrm{d} = 7 \unit{lengths}</span>.
+Then
+<div class="js-maths">\begin{aligned}
+  l - p X_\mathrm{s} &amp;= +Y_\mathrm{s} \\
+  l - p X_\mathrm{d} &amp;= -Y_\mathrm{d}.
+\end{aligned}
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 答曰、賊一十三人、絹八十四匹。
@@ -122,6 +143,49 @@ first put <span class="translator-supplied">[each]</span> person getting six len
 <span class="translator-supplied">[of]</span> those resulted in, combining them, maketh <span class="translator-supplied">[the]</span> strong-silk.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+Having formed the matrix
+<div class="js-maths">\begin{pmatrix}
+  X_\mathrm{d} &amp; X_\mathrm{s} \\
+  Y_\mathrm{d} &amp; Y_\mathrm{s}
+\end{pmatrix},
+</div>
+we are told to form the products
+<span class="js-maths">X_\mathrm{s} Y_\mathrm{d}</span> and <span class="js-maths">X_\mathrm{d} Y_\mathrm{s}</span>,
+and add them together to obtain <span class="js-maths">l</span>.
+This does not make dimensional sense; area cannot equal length.
+The modern equivalent is to apply Cramer's rule to the system above,
+which yields
+<div class="js-maths">l =
+    \frac{
+      \begin{vmatrix}
+        +Y_\mathrm{s} &amp; -X_\mathrm{s} \\
+        -Y_\mathrm{d} &amp; -X_\mathrm{d}
+      \end{vmatrix}
+    }{
+      \begin{vmatrix}
+        1 &amp; -X_\mathrm{s} \\
+        1 &amp; -X_\mathrm{d}
+      \end{vmatrix}
+    }
+  =
+    \frac{
+      X_\mathrm{s} Y_\mathrm{d} + X_\mathrm{d} Y_\mathrm{s}
+    }{
+      X_\mathrm{d} - X_\mathrm{s}
+    }
+  =
+    \frac{6 \times 7 + 7 \times 6}{7 - 6}
+    \frac{\unit{lengths}^2}{\unit{lengths}}.
+</div>
+We see that <span class="romanised-untranslated" title="孫子">Sun Tzŭ</span>'s prescription only works
+because the denominator is <span class="js-maths">X_\mathrm{d} - X_\mathrm{s}
+  = 7 \unit{lengths} - 6 \unit{lengths} = 1 \unit{length}</span>,
+so the division by <span class="js-maths">X_\mathrm{d} - X_\mathrm{s}</span> can be omitted
+if all computations are done in units of <span class="js-maths">\unit{length~(匹)}</span>.
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 并下盈不足、為人。
@@ -130,6 +194,39 @@ first put <span class="translator-supplied">[each]</span> person getting six len
 Combining <span class="translator-supplied">[the]</span> excess <span class="translator-supplied">[and the]</span> not sufficient below, maketh <span class="translator-supplied">[the]</span> people.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+We are told that the sum <span class="js-maths">Y_\mathrm{s} + Y_\mathrm{d}</span>
+forms the number of people.
+Again this does not make dimensional sense,
+and it only works because <span class="js-maths">X_\mathrm{d} - X_\mathrm{s}
+  = 7 \unit{lengths} - 6 \unit{lengths} = 1 \unit{length}</span>.
+Indeed Cramer's rule gives
+<div class="js-maths">p =
+    \frac{
+      \begin{vmatrix}
+        1 &amp; +Y_\mathrm{s} \\
+        1 &amp; -Y_\mathrm{d}
+      \end{vmatrix}
+    }{
+      \begin{vmatrix}
+        1 &amp; -X_\mathrm{s} \\
+        1 &amp; -X_\mathrm{d}
+      \end{vmatrix}
+    }
+  =
+    \frac{
+      Y_\mathrm{s} + Y_\mathrm{d}
+    }{
+      X_\mathrm{d} - X_\mathrm{s}
+    }
+  =
+    \frac{6 + 7}{7 - 6}
+    \frac{\unit{lengths}}{\unit{lengths}}
+</div>
+for the number of people.
+</li>
+</ul>
 <div class="marker end">
 END of Volume II
 </div>

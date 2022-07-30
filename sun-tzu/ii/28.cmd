@@ -48,7 +48,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This section gives a worked example of the two-point method of false position.
+This section gives a worked example of the two-point method of false position
+for a system of linear equations in two variables.
 --
 
 
@@ -76,6 +77,24 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
 \\
   .[We] ask, how much each .[be the] people .[and the] strong-silk?
 >>
+=={.translation-annotations}
+* \a[52] and \d[65] have .得幾何.
+  I have taken .各幾何 per \b[158] and \c[52213].
+
+* In modern notation,
+  suppose the length of strong-silk is $l$, stolen by $p$ people,
+  with surplus $Y_\mathrm{s} = 6 \unit{lengths}$
+    if each person takes $X_\mathrm{s} = 6 \unit{lengths}$,
+  and deficit $Y_\mathrm{d} = 7 \unit{lengths}$
+    if each person takes $X_\mathrm{d} = 7 \unit{lengths}$.
+  Then
+  $$
+    \begin{aligned}
+      l - p X_\mathrm{s} &= +Y_\mathrm{s} \\
+      l - p X_\mathrm{d} &= -Y_\mathrm{d}.
+    \end{aligned}
+  $$
+==
 
 <<
   答曰、賊一十三人、絹八十四匹。
@@ -100,12 +119,87 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
   .[In] linkage multiply them;
   .[of] those resulted in, combining them, maketh .[the] strong-silk.
 >>
+=={.translation-annotations}
+* Having formed the matrix
+  $$
+    \begin{pmatrix}
+      X_\mathrm{d} & X_\mathrm{s} \\
+      Y_\mathrm{d} & Y_\mathrm{s}
+    \end{pmatrix},
+  $$
+  we are told to form the products
+  $X_\mathrm{s} Y_\mathrm{d}$ and $X_\mathrm{d} Y_\mathrm{s}$,
+  and add them together to obtain $l$.
+  This does not make dimensional sense; area cannot equal length.
+  The modern equivalent is to apply Cramer's rule to the system above,
+  which yields
+  $$
+    l =
+        \frac{
+          \begin{vmatrix}
+            +Y_\mathrm{s} & -X_\mathrm{s} \\
+            -Y_\mathrm{d} & -X_\mathrm{d}
+          \end{vmatrix}
+        }{
+          \begin{vmatrix}
+            1 & -X_\mathrm{s} \\
+            1 & -X_\mathrm{d}
+          \end{vmatrix}
+        }
+      =
+        \frac{
+          X_\mathrm{s} Y_\mathrm{d} + X_\mathrm{d} Y_\mathrm{s}
+        }{
+          X_\mathrm{d} - X_\mathrm{s}
+        }
+      =
+        \frac{6 \times 7 + 7 \times 6}{7 - 6}
+        \frac{\unit{lengths}^2}{\unit{lengths}}.
+  $$
+  We see that (Sun Tz(uu)|孫子)'s prescription only works
+  because the denominator is $X_\mathrm{d} - X_\mathrm{s}
+  = 7 \unit{lengths} - 6 \unit{lengths} = 1 \unit{length}$,
+  so the division by $X_\mathrm{d} - X_\mathrm{s}$ can be omitted
+  if all computations are done in units of $\unit{length~(匹)}$.
+==
 
 <<
   并下盈不足、為人。
 \\
   Combining .[the] excess .[and the] not sufficient below, maketh .[the] people.
 >>
+=={.translation-annotations}
+* We are told that the sum $Y_\mathrm{s} + Y_\mathrm{d}$
+  forms the number of people.
+  Again this does not make dimensional sense,
+  and it only works because $X_\mathrm{d} - X_\mathrm{s}
+  = 7 \unit{lengths} - 6 \unit{lengths} = 1 \unit{length}$.
+  Indeed Cramer's rule gives
+  $$
+    p =
+        \frac{
+          \begin{vmatrix}
+            1 & +Y_\mathrm{s} \\
+            1 & -Y_\mathrm{d}
+          \end{vmatrix}
+        }{
+          \begin{vmatrix}
+            1 & -X_\mathrm{s} \\
+            1 & -X_\mathrm{d}
+          \end{vmatrix}
+        }
+      =
+        \frac{
+          Y_\mathrm{s} + Y_\mathrm{d}
+        }{
+          X_\mathrm{d} - X_\mathrm{s}
+        }
+      =
+        \frac{6 + 7}{7 - 6}
+        \frac{\unit{lengths}}{\unit{lengths}}
+  $$
+  for the number of people.
+==
 
 
 ||{.marker .end}
