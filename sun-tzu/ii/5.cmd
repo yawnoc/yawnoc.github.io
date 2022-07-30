@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S5"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S5
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-07-30
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -169,7 +169,7 @@ Note that this excerpt is *not* a part of (Sun Tz(uu)|孫子)'s Computational Cl
     as .[the] dividend,
   .[and] use .[the] rate of That There Be
     as .[the] divisor.
-  .[Take the] dividend, as .[per the] divisor .[being] one.
+  .[Take the] dividend as .[per the] divisor .[being] one.
 >>
 =={.translation-annotations}
 * In modern notation, with $V$ for volume and $r$ for rate:
