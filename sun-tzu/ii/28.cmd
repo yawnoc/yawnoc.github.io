@@ -80,11 +80,18 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
 <<
   答曰、賊一十三人、絹八十四匹。
 \\
+  Answer saith: .[the] thieves .[be] thirteen people,
+  .[and the] strong-silk eighty-four lengths.
 >>
 
 <<
   術曰、先置人得六匹於右上、盈六匹於右下、後置人得七匹於左上，不足七匹於左下。
 \\
+  Method saith:
+    first put .[each] person getting six lengths upon .[the] upper right,
+    .[and the] excess six lengths upon .[the] lower right;
+    .[and] afterward put .[each] person getting seven lengths upon .[the] upper left,
+    .[and the] not sufficient seven lengths upon .[the] lower left.
 >>
 
 <<
