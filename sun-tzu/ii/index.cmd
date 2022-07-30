@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~II of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-07-30
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -94,6 +94,7 @@ and the headings allocated are *not* part of the original text.
 - [\S24. Weighted proportions](24)
 - [\S25. Solving a linear equation](25)
 - [\S26. A system of linear equations](26)
+- [\S27. Weighted sharing](27)
 ::::
 
 ||{.marker}
