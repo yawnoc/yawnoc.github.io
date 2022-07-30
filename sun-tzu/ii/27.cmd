@@ -63,6 +63,10 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
 <<
   今有女子善織、日自倍、五日織通五尺。問日織幾何。
 \\
+  Suppose there be .[a] lady good at weaving,
+  .[each] day self-doubling .[her output],
+  .[and in] five days weaving through five rules.
+  .[We] ask, how much weaveth .[she each] day?
 >>
 
 <<

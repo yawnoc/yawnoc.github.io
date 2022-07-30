@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-07-30
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -4946,6 +4946,11 @@ See also: [御米]
 ==
 * complicated
 * numerous
+==
+
+12 [織] U+7E54
+==
+* weave
 ==
 
 13 [繩] U+7E69
