@@ -4278,7 +4278,7 @@ See also: [後生]
 
 4 [癸] U+7678
 ==
-* J {:10th heavenly stem:}
+* K {:10th heavenly stem:}
 ==
 
 7 [登] U+767B
