@@ -107,6 +107,16 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
     辛一百六十八斛、\
     壬二百六十斛。
 \\
+  Answer saith:
+    A twenty-eight barrels;
+    B thirty-six barrels .[and] eight pecks;
+    C forty-five barrels .[and] six pecks;
+    D fifty-four barrels .[and] four pecks;
+    E sixty-three barrels .[and] two pecks;
+    F sixty-four barrels;
+    G eighty barrels;
+    H one hundred .[and] sixty-eight barrels;
+    I two hundred .[and] sixty barrels.
 >>
 
 <<
