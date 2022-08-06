@@ -53,7 +53,7 @@ of _{l=zh} Sunzi Suanjing_ into English.
 - [.《序》 "Preface"](/sun-tzu/preface/)
 - [.《卷上》 "Volume~I"](/sun-tzu/i/)
 - [.《卷中》 "Volume~II"](/sun-tzu/ii/)
-- .《卷下》 "Volume~III" (haven't started)
+- [.《卷下》 "Volume~III"](/sun-tzu/iii/) (incomplete)
 ::::
 
 
