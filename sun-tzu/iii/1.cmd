@@ -213,7 +213,7 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
 >>
 
 <<
-  辛出二百一十斛、以四乘之，得八百四十斛、以五除之、得一百六十八斛。
+  辛出二百一十斛、以四乘之、得八百四十斛、以五除之、得一百六十八斛。
 \\
   H supplieth two hundred .[and] ten barrels;
   multiplying it by four, resulteth in eight hundred .[and] forty barrels;
