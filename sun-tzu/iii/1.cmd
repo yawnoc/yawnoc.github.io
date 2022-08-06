@@ -51,6 +51,15 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 --
 This section gives a worked example of discounting quantities by a rate.
 --
+--
+The relevant unit conversion for capacity is
+--
+$$
+  1 \unit{barrel~(斛)} = 10 \unit{pecks~(斗)}.
+$$
+--
+See [Vol.~I \S3 (Units of capacity)](/sun-tzu/i/3).
+--
 
 
 ##{#translation} Translation
@@ -66,6 +75,9 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
   Suppose there be nine families A, B, C, D, E, F, G, H, .[and] I
   together contributing land-tax.
 >>
+=={.translation-annotations}
+* \c[52217] erroneously has .翰 for .輸, both here and below.
+==
 
 <<
   甲出三十五斛、乙出四十六斛、丙出五十七斛、丁出六十八斛、戊出七十九斛、\
@@ -81,8 +93,10 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
   H supplieth two hundred .[and] ten barrels;
   I supplieth three hundred .[and] twenty-five barrels.
 >>
-==
+=={.translation-annotations}
 * .出： supplieth; \or sendeth forth
+
+* \a[54] is missing .六 in .乙出四十六斛.
 ==
 
 <<
@@ -94,6 +108,17 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
   two hundred barrels externally.
   .[We] ask, how much of each family?
 >>
+==
+* The wording of the question is vague.
+  While it appears to ask for
+  the amount reduced from each contribution,
+  the actual intent was to ask for
+  the amount that *remains* after each reduction.
+  Which involves multiplying each quantity by
+  $$
+    1 - \frac{200 \unit{barrels}}{1000 \unit{barrels}} = \frac{4}{5}.
+  $$
+==
 
 <<
   答曰、\
@@ -118,6 +143,12 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
     H one hundred .[and] sixty-eight barrels;
     I two hundred .[and] sixty barrels.
 >>
+=={.translation-annotations}
+* \c[52217] has .蚪 for .斗, both here and below
+  (save two occurrences where it erroneously has .斟).
+
+* \a[54] is missing .六斗 in .丙四十五斛六斗.
+==
 
 <<
   術曰、置甲出三十五斛、以四乘之、得一百四十斛、以五除之、得二十八斛。
@@ -150,6 +181,9 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
   multiplying it by four, resulteth in two hundred .[and] seventy-two barrels;
   dividing it by five, resulteth in fifty-four barrels .[and] four pecks.
 >>
+=={.translation-annotations}
+* \c[52217] erroneously has .斟 for .斗.
+==
 
 <<
   戊出七十九斛、以四乘之、得三百一十六斛、以五除之、得六十三斛二斗。
@@ -158,6 +192,9 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
   multiplying it by four, resulteth in three hundred .[and] sixteen barrels;
   dividing it by five, resulteth in sixty-three barrels .[and] two pecks.
 >>
+=={.translation-annotations}
+* \c[52217] erroneously has .斟 for .斗.
+==
 
 <<
   己出八十斛、以四乘之、得三百二十斛、以五除之、得六十四斛。
