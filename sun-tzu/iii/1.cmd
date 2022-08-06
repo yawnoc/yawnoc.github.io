@@ -63,17 +63,36 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
 <<
   今有甲乙丙丁戊己庚辛壬九家共輸租。
 \\
+  Suppose there be nine families A, B, C, D, E, F, G, H, .[and] I
+  together contributing land-tax.
 >>
 
 <<
   甲出三十五斛、乙出四十六斛、丙出五十七斛、丁出六十八斛、戊出七十九斛、\
   己出八十斛、庚出一百斛、辛出二百一十斛、壬出三百二十五斛。
 \\
+  A supplieth thirty-five barrels;
+  B supplieth forty-six barrels;
+  C supplieth fifty-seven barrels;
+  D supplieth sixty-eight barrels;
+  E supplieth seventy-nine barrels;
+  F supplieth eighty barrels;
+  G supplieth one hundred barrels;
+  H supplieth two hundred .[and] ten barrels;
+  I supplieth three hundred .[and] twenty-five barrels.
 >>
+==
+* .出： supplieth; \or sendeth forth
+==
 
 <<
   凡九家共輸租一千斛、僦運直折二百斛外。問家各幾何。
 \\
+  .[In] total .[the] nine families together
+  contribute land-tax one thousand barrels,
+  .[and] renting of transport .[is the] worth reduced
+  two hundred barrels externally.
+  .[We] ask, how much of each family?
 >>
 
 <<

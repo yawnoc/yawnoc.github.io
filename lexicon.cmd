@@ -722,6 +722,11 @@ See also: [以來]
 * kind
 ==
 
+8 [值] U+503C
+==
+* worth
+==
+
 9 [假] U+5047
 [上聲]
 ==
@@ -774,6 +779,11 @@ See also: [以來]
 ==
 * chronicle
 * commentary
+==
+
+12 [僦] U+50E6
+==
+* rent
 ==
 
 13 [僵] U+50F5
@@ -984,6 +994,7 @@ See also: [以來]
 * (go) out; exit
 * send forth
 * emerge
+* supply
 ==
 
 
@@ -4367,6 +4378,7 @@ See also: [百萬]
 3 [直] U+76F4
 ==
 * straight; \met aligned
+* \int [值]
 ==
 
 4 [盼] U+76FC
@@ -4558,6 +4570,11 @@ See also: [規矩]
 4 [秋] U+79CB
 ==
 * autumn
+==
+
+5 [租] U+79DF
+==
+* land-tax
 ==
 
 5 [秭] U+79ED
@@ -6151,7 +6168,7 @@ See also: [遠近]
 
 9 [運] U+904B
 ==
-* move
+* move; transport
 * revolve
 ==
 
