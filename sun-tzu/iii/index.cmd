@@ -29,7 +29,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 * %%surrounds-up --> [^ Sun Tz(uu)'s Computational Classic](/sun-tzu/)
 * %%surrounds-previous --> [<-- Vol.~II \S28](/sun-tzu/ii/28)
 * %%surrounds-current --> Vol.~III
-* %%surrounds-next -->
+* %%surrounds-next --> [\S1 -->](1)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
@@ -66,6 +66,7 @@ and the headings allocated are *not* part of the original text.
 --
 
 ::::{-class}
+- [\S1. Discounting by a rate](1)
 ::::
 
 ||{.marker}
