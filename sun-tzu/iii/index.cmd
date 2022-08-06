@@ -50,7 +50,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 
 --
-Literally "Lower Volume".
+Literally "Volume Lower".
 --
 
 

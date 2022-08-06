@@ -53,7 +53,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 
 --
-Literally "Middle Volume".
+Literally "Volume Middle".
 --
 
 

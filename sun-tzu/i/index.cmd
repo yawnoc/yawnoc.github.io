@@ -53,7 +53,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 
 --
-Literally "Upper Volume".
+Literally "Volume Upper".
 --
 
 
