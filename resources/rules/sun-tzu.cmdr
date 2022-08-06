@@ -5,6 +5,8 @@ OrdinaryDictionaryReplacement: #.sun-tzu.header-links-ordinary
 * !sun-tzu --> [Sun Tz(uu)](/sun-tzu/ "Sun Tz(uu)'s Computational Classic")
 * !!pref --> [Pref.]("You are viewing Preface")
 * !pref --> [Pref.](/sun-tzu/preface/ "Preface")
+* !!iii --> [III]("You are viewing Volume~III")
+* !iii --> [III](/sun-tzu/iii/ "Volume~III")
 * !!ii --> [II]("You are viewing Volume~II")
 * !ii --> [II](/sun-tzu/ii/ "Volume~II")
 * !!i --> [I]("You are viewing Volume~I")
