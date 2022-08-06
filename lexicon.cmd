@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-07-30
+* %date-modified --> 2022-08-06
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1253,6 +1253,7 @@ See also: [北方]
 6 [卷] U+5377
 ==
 * roll; \met book
+* volume
 ==
 
 7 [卻] U+537B
