@@ -51,6 +51,26 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 --
  This section gives a worked example of computing the volume of a cone.
 --
+--
+The relevant unit conversions for length are
+--
+$$
+  \begin{aligned}
+    1 \unit{rod~(丈)} &= 10 \unit{rules~(尺)} \\
+    1 \unit{rule~(尺)} &= 10 \unit{inches~(寸)} \\
+    1 \unit{inch~(寸)} &= 10 \unit{tenths~(分)}.
+  \end{aligned}
+$$
+--
+The conversion between capacity units and volume units is given by
+--
+$$
+  1 \unit{barrel~(斛)} = 1.62 \unit{rules~(尺)}^3.
+$$
+--
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1)
+and [Vol.~II \S10 Extended commentary](/sun-tzu/ii/10#commentary).
+--
 
 
 ##{#translation} Translation
@@ -103,6 +123,34 @@ Chinese source text: \a[58], \b[159], \c[52223], \d[70]. <br>
   one rule, six inches, .[and] two tenths,
   .[we] are done.
 >>
+=={.translation-annotations}
+* .斛法： .[the] barrel divisor
+  --
+  This is the conversion between the capacity unit "barrel",
+    (hu|斛)~(.斛),
+  and the volume unit "cubic rule",
+    (ch'ih|尺)~(.尺);
+  see [Vol.~II \S10 Extended commentary](/sun-tzu/ii/10#commentary).
+  --
+
+* In modern notation, the volume (or capacity) of a cone
+  of circumference $C = 36 \unit{rules}$ and depth $H = 4.5 \unit{rules}$
+  is
+  $$
+    \begin{aligned}
+      V
+      &\approx \frac{C^2 H}{36} \\[\tallspace]
+      &=
+        \frac{(36 \unit{rules})^2 \cdot (4.5 \unit{rules})}{36}
+          \div
+        \frac{1.62 \unit{rules}^3}{\unit{barrel}}
+          \\[\tallspace]
+      &= 100 \unit{barrels}.
+    \end{aligned}
+  $$
+  Here $\pi \approx 3$ (so that $12\pi \approx 36$),
+  see [Vol.~I \S5](/sun-tzu/i/5).
+==
 
 
 %%surrounds
