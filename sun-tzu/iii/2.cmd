@@ -63,16 +63,24 @@ Chinese source text: \a[58], \b[159], \c[52220], \d[70]. <br>
 <<
   今有丁一千五百萬、出兵四十萬。問幾丁科一兵。
 \\
+  Suppose there be males one thousand five hundred myriad,
+  .[wherewith to] send forth soldiers forty myriad.
+  .[We] ask, .[from] how many males levy .[we] one soldier?
 >>
 
 <<
   答曰、三十七丁五分。
 \\
+  Answer saith: thirty-seven males .[and] five tenths.
 >>
 
 <<
   術曰、置丁一千五百萬為實、以兵四十萬為法。實如法、即得。
 \\
+  Method saith: put .[down the] males
+  one thousand five hundred myriad as .[the] dividend,
+  .[and] use .[the] soldiers forty myriad as .[the] divisor.
+  .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
 
 
