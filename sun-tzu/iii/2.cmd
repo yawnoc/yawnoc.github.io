@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷下》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
-  \S2. A division problem
+  \S2. Division determining a rate
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This section gives a word problem involving division.
+This section gives a word problem where division is used to determine a rate.
 --
 
 
@@ -82,6 +82,17 @@ Chinese source text: \a[58], \b[159], \c[52220], \d[70]. <br>
   .[and] use .[the] soldiers forty myriad as .[the] divisor.
   .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \frac{
+      1500 \times 10^4 \unit{males}
+    }{
+      40 \times 10^4 \unit{soldiers}
+    }
+      = \frac{37.5 \unit{males}}{\unit{soldier}}.
+  $$
+==
 
 
 %%surrounds
