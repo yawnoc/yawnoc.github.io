@@ -69,6 +69,10 @@ Chinese source text: \a[60], \b[160], \c[52229], \d[72]. <br>
   .[even a] square of nineteen ways.
   .[We] ask, how many chess-pieces useth .[it]?
 >>
+==
+* \a[60] has .碁 (of stone) for the second occurrence of .棊, "chess-piece".
+* \c[52229] erroneously has .諪 for both occurrences of .棊.
+==
 
 <<
   答曰、三百六十一。
@@ -82,6 +86,9 @@ Chinese source text: \a[60], \b[160], \c[52229], \d[72]. <br>
   Method saith: put .[down the] nineteen ways;
   multiplying it with itself, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation, $19 \times 19 = 361$.
+==
 
 
 %%surrounds
