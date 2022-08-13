@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷下》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
-  \S4. Multiplication determining a total
+  \S4. Multiplication determining a total~(1)
 
 %%noscript-equations
 
