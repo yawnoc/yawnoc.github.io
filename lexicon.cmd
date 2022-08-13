@@ -2106,6 +2106,14 @@ See also: [從容]
 * ruler; rule
 ==
 
+4 [局] U+5C40
+==
+* confine
+* (chess)board
+* game
+* [:classifier:]
+==
+
 5 [居] U+5C45
 ==
 * dwell; abide
@@ -3468,6 +3476,11 @@ See also: [有餘]
 8 [棄] U+68C4
 ==
 * forsake; discard
+==
+
+8 [棊] U+68CA
+==
+* \var [棋]
 ==
 
 8 [棋] U+68CB

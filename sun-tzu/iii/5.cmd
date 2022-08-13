@@ -65,16 +65,22 @@ Chinese source text: \a[60], \b[160], \c[52229], \d[72]. <br>
 <<
   今有棊局、方一十九道。問用棊幾何。
 \\
+  Suppose there be .[a] chess board,
+  .[even a] square of nineteen ways.
+  .[We] ask, how many chess-pieces useth .[it]?
 >>
 
 <<
   答曰、三百六十一。
 \\
+  Answer saith: three hundred .[and] sixty-one.
 >>
 
 <<
   術曰、置一十九道、自相乘之、即得。
 \\
+  Method saith: put .[down the] nineteen ways;
+  multiplying it with itself, .[we] are done.
 >>
 
 
