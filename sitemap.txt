@@ -83,6 +83,8 @@ https://yawnoc.github.io/sun-tzu/ii/23
 https://yawnoc.github.io/sun-tzu/ii/24
 https://yawnoc.github.io/sun-tzu/ii/25
 https://yawnoc.github.io/sun-tzu/ii/26
+https://yawnoc.github.io/sun-tzu/ii/27
+https://yawnoc.github.io/sun-tzu/ii/28
 https://yawnoc.github.io/sun-tzu/ii/3
 https://yawnoc.github.io/sun-tzu/ii/4
 https://yawnoc.github.io/sun-tzu/ii/5
@@ -90,4 +92,10 @@ https://yawnoc.github.io/sun-tzu/ii/6
 https://yawnoc.github.io/sun-tzu/ii/7
 https://yawnoc.github.io/sun-tzu/ii/8
 https://yawnoc.github.io/sun-tzu/ii/9
+https://yawnoc.github.io/sun-tzu/iii/
+https://yawnoc.github.io/sun-tzu/iii/1
+https://yawnoc.github.io/sun-tzu/iii/2
+https://yawnoc.github.io/sun-tzu/iii/3
+https://yawnoc.github.io/sun-tzu/iii/4
+https://yawnoc.github.io/sun-tzu/iii/5
 https://yawnoc.github.io/sun-tzu/preface/
