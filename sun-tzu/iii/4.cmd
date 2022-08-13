@@ -83,6 +83,13 @@ Chinese source text: \a[58], \b[159], \c[52226], \d[71]. <br>
   multiplying it by .[the] sixty-three characters,
   .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    29 \unit{chapters} \times \frac{63 \unit{characters}}{\unit{chapter}}
+    = 1827 \unit{characters}.
+  $$
+==
 
 
 %%surrounds
