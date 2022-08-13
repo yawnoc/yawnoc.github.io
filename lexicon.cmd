@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-08-07
+* %date-modified --> 2022-08-13
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -614,6 +614,11 @@ See also: [何以], [可以]
 --
 See also: [幾何]
 --
+
+5 [佛] U+4F5B
+==
+* buddha
+==
 
 5 [作] U+4F5C
 ==
@@ -4690,6 +4695,11 @@ See also: [規矩]
 4 [竒] U+7AD2
 ==
 * \var [奇]
+==
+
+6 [章] U+7AE0
+==
+* chapter
 ==
 
 9 [端] U+7AEF

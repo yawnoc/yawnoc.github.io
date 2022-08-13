@@ -64,16 +64,24 @@ Chinese source text: \a[58], \b[159], \c[52226], \d[71]. <br>
 <<
   今有佛書、凡二十九章、章六十三字。問字幾何。
 \\
+  Suppose there be .[a] Buddhist book,
+  totalling twenty-nine chapters,
+  .[each] chapter sixty-three characters.
+  .[We] ask, how many characters .[be there]?
 >>
 
 <<
   答曰、一千八百二十七。
 \\
+  Answer saith: one thousand, eight hundred .[and] twenty-seven.
 >>
 
 <<
   術曰、置二十九章、以六十三字乘之、即得。
 \\
+  Method saith: put .[down the] twenty-nine chapters;
+  multiplying it by .[the] sixty-three characters,
+  .[we] are done.
 >>
 
 
