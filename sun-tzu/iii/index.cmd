@@ -71,7 +71,7 @@ and the headings allocated are *not* part of the original text.
 - [\S3. Volume of a cone](3)
 - [\S4. Multiplication determining a total~(1)](4)
 - [\S5. Multiplication determining a total~(2)](5)
-- [\S6. Division utilising a rate](6)
+- [\S6. Division utilising a rate~(1)](6)
 - [\S7. Division utilising a rate~(2)](7)
 ::::
 
