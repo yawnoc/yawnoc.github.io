@@ -76,6 +76,12 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
   Answer saith: one thousand, nine hundred .[and] seventy-five chariots
   remainder twelve barrels.
 >>
+=={.translation-annotations}
+* .乘： chariot
+  --
+  .乘、去聲、 \C shing6 (\pm sing6), \M sh(e\)ng
+  --
+==
 
 <<
   術曰、置租九萬八千七百六十二斛為實、以一車所載五十斛為法。
@@ -86,12 +92,23 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
   .[and] use that carried of one chariot, .[even] fifty barrels,
   as .[the] divisor.
 >>
+=={.translation-annotations}
+* \a[60] and \d[72] are missing .二 in .六十二斛.
+==
 
 <<
   實如法、即得。
 \\
   .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \frac{98762 \unit{barrels}}{50 \unit{barrels} / {\unit{chariot}}}
+    = 1975 \unit{chariots}
+      + \frac{12 \unit{barrels}}{50 \unit{barrels} / {\unit{chariot}}}.
+  $$
+==
 
 
 %%surrounds
