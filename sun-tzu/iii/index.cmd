@@ -72,6 +72,7 @@ and the headings allocated are *not* part of the original text.
 - [\S4. Multiplication determining a total~(1)](4)
 - [\S5. Multiplication determining a total~(2)](5)
 - [\S6. Division utilising a rate](6)
+- [\S7. Division utilising a rate~(2)](7)
 ::::
 
 ||{.marker}
