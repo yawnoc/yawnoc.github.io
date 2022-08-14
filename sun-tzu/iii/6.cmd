@@ -64,21 +64,33 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
 <<
   今有租九萬八千七百六十二斛、欲以一車載五十斛。問用車幾何。
 \\
+  Suppose there be land-tax
+  nine myriad, eight thousand, seven hundred .[and] sixty-two barrels,
+  .[and we] wish to use one chariot .[to] carry fifty barrels.
+  .[We] ask, how many chariots useth .[it]?
 >>
 
 <<
   答曰、一千九百七十五乘奇一十二斛。
 \\
+  Answer saith: one thousand, nine hundred .[and] seventy-five chariots
+  remainder twelve barrels.
 >>
 
 <<
   術曰、置租九萬八千七百六十二斛為實、以一車所載五十斛為法。
 \\
+  Method saith: put .[down the] land-tax
+  nine myriad, eight thousand, seven hundred .[and] sixty-two barrels
+  as .[the] dividend,
+  .[and] use that carried of one chariot, .[even] fifty barrels,
+  as .[the] divisor.
 >>
 
 <<
   實如法、即得。
 \\
+  .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
 
 
