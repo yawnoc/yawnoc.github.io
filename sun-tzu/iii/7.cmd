@@ -86,6 +86,14 @@ Chinese source text: \a[60], \b[160], \c[52235], \d[73]. <br>
   .[and] use twenty-five as .[the] divisor.
   .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \frac{98766 \unit{males}}{25 \unit{males} / {\unit{soldier}}}
+    = 3950 \unit{soldiers}
+      + \frac{16 \unit{males}}{25 \unit{males} / {\unit{soldier}}}.
+  $$
+==
 
 
 %%surrounds
