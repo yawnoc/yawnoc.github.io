@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2022-08-06
+* %date-modified --> 2022-08-14
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -65,7 +65,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 - [Conway's Romanisation for Cantonese](/cantonese/conway-romanisation)
 - [FAQ](/faq)
 - [A cynic's 7.30 (and other programs)](/cynics-730/)
-- [Mao on separatism: 27 Chinas](/mao-on-separatism)
+- [Mao on separatism: 27~Chinas](/mao-on-separatism)
 - [Crowded Xiangqi](/crowded-xiangqi)
 ==
 
