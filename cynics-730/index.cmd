@@ -8,7 +8,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> A cynic's 7.30 (and other programs)
 * %date-created --> 2019-08-30
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-08-18
 
 %%%
 
@@ -38,6 +38,11 @@ it's supposed to be in a thought bubble.
 ##{#2022} 2022
 
 ==
+- __16~August 2022:__
+
+  [Former prime minister John Howard speaks to 7.30]\
+    (2022/ferguson-howard-morrison)
+
 - __23~May 2022:__
 
   """"{.interview}
