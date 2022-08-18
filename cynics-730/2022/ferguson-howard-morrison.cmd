@@ -214,7 +214,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
   is that he should act on the advice of his ministers
   --
   --{.interview-guest .thought}
-  _(Morrison, Morrison, Morrison, Morrison, and Morrison)._
+  _(Morrison, Morrison, Morrison, Morrison, and Morrison)_.
   --
 
   ![Sarah Ferguson:]
@@ -251,7 +251,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
   that I have been got on this program under false pretences
   --
   --{.interview-guest .thought}
-  _except right now~😈._
+  _except right now~😈_.
   --
 
   ![Sarah Ferguson:]
@@ -276,7 +276,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
   and I can give context to the questions that you're asking
   --
   --{.interview-guest .thought}
-  _which are starting to irritate me ever so slightly._
+  _which are starting to irritate me ever so slightly_.
   --
 
   --{.interview-host}
