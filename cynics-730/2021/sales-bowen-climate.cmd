@@ -7,9 +7,9 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %title --> A cynic's 7.30: Chris Bowen on climate change & jobs (2 Feb 2021)
+* %title --> A cynic's 7.30: Chris Bowen on climate change & jobs (2~Feb 2021)
 * %date-created --> 2021-02-03
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-08-18
 - concluding_replacements:
     #escape-idle-html
     #.yawnoc.typography

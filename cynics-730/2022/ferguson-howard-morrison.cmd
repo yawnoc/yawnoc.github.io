@@ -3,7 +3,7 @@
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %title --> A cynic's 7.30: Howard on Morrison (16 Aug 2022)
+* %title --> A cynic's 7.30: Howard on Morrison (16~Aug 2022)
 * %date-created --> 2022-08-18
 * %date-modified --> 2022-08-18
 - concluding_replacements:
