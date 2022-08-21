@@ -8,14 +8,13 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
-* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S5"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S5
 * %date-created --> 2022-08-13
-* %date-modified --> 2022-08-14
+* %date-modified --> 2022-08-21
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
