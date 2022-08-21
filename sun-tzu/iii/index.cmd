@@ -66,7 +66,7 @@ and the headings allocated are *not* part of the original text.
 
 ::::{-class}
 - [\S1. Discounting by a rate](1)
-- [\S2. Division determining a rate](2)
+- [\S2. Division determining a rate~(1)](2)
 - [\S3. Volume of a cone](3)
 - [\S4. Multiplication determining a total~(1)](4)
 - [\S5. Multiplication determining a total~(2)](5)

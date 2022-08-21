@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷下》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
-  \S2. Division determining a rate
+  \S2. Division determining a rate~(1)
 
 %%noscript-equations
 
