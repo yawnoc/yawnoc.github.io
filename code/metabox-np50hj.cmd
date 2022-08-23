@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> %title
 * %title --> Debian on Metabox Alpha-S NP50HJ
 * %date-created --> 2021-12-23
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-08-27
 
 %%%
 
@@ -164,6 +164,7 @@ $ sudo apt install \
     lightdm \
     locate \
     tlp \
+    curl \
     p7zip-full \
     git \
     python3-pip python3-gi-cairo \
