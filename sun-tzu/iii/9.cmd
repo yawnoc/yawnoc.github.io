@@ -99,6 +99,28 @@ Chinese source text: \a[62], \c[52241], \d[74].
 \\
   Dividing it by sixteen, .[we] are done.
 >>
+=={.translation-annotations}
+* The awkward presentation is due to one catty~(.斤) being sixteen taels~(.兩).
+  In modern notation, each household contributes
+  $$
+    \begin{aligned}
+      2 \unit{catties} + 8 \unit{taels}
+      &= (2 \times 16 + 8) \unit{taels} \\
+      &= 40 \unit{taels} \\
+      &= 10 \times 4 \unit{taels},
+    \end{aligned}
+  $$
+  and hence the total amount is
+  $$
+    36454 \unit{households}
+      \times
+    \frac{10 \times 4 \unit{taels}}{\unit{household}}
+      \div
+    \frac{16 \unit{taels}}{\unit{catty}}
+      =
+    91135 \unit{catties}.
+  $$
+==
 
 
 %%surrounds
