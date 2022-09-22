@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> %title
 * %title --> Debian on Metabox Alpha-S NP50HJ
 * %date-created --> 2021-12-23
-* %date-modified --> 2022-08-27
+* %date-modified --> 2022-09-22
 
 %%%
 
@@ -182,6 +182,7 @@ $ sudo apt install \
     adb \
     fontforge \
     lilypond \
+    vlc vlc-plugin-fluidsynth \
     texlive-full \
       ipe pdftoipe \
     fonts-noto-cjk \
