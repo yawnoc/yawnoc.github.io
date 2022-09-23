@@ -51,6 +51,15 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 This section gives a word problem
 where multiplication is used to determine a total.
 --
+--
+The relevant unit conversion for weight is
+--
+$$
+  1 \unit{catty~(斤)} = 16 \unit{taels~(兩)}.
+$$
+--
+See [Vol.~I \S2 (Units of weight)](/sun-tzu/i/2).
+--
 
 
 ##{#translation} Translation
@@ -100,7 +109,7 @@ Chinese source text: \a[62], \c[52241], \d[74].
   Dividing it by sixteen, .[we] are done.
 >>
 =={.translation-annotations}
-* The awkward presentation is due to one catty~(.斤) being sixteen taels~(.兩).
+* The awkward presentation is due to 1~catty~(.斤) being 16~taels~(.兩).
   In modern notation, each household contributes
   $$
     \begin{aligned}
