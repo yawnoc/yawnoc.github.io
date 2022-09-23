@@ -52,6 +52,15 @@ This section gives a word problem
 where division is used to determine a rate.
 Specifically, it is the [previous problem (\S9)](9) in reverse.
 --
+--
+The relevant unit conversion for weight is
+--
+$$
+  1 \unit{catty~(斤)} = 16 \unit{taels~(兩)}.
+$$
+--
+See [Vol.~I \S2 (Units of weight)](/sun-tzu/i/2).
+--
 
 
 ##{#translation} Translation
@@ -107,6 +116,23 @@ Chinese source text: \a[62], \b[160], \c[52244], \d[74]. <br>
 \\
   Dividing it by .[the] households, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+      \frac{91135 \unit{catties}}{36454 \unit{households}}
+      &=
+        \frac{2 \unit{catties}}{\unit{household}}
+          +
+        \frac{18227 \unit{catties}}{36454 \unit{households}}
+          \times
+        \frac{16 \unit{taels}}{\unit{catty}}
+          \\[\tallspace]
+      &=
+        \frac{2 \unit{catties} + 8 \unit{taels}}{\unit{household}}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
