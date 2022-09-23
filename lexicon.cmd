@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-09-18
+* %date-modified --> 2022-09-23
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -4924,6 +4924,11 @@ See also: [御米]
 ==
 * cut (off); sever
 * absolute
+==
+
+6 [給] U+7D66
+==
+* provide
 ==
 
 6 [絫] U+7D6B
