@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2022-07-23
+* %date-modified --> 2022-10-12
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -409,7 +409,7 @@ but concede that in most instances this will not be possible
 <<
   朕每念經傳至博、音義繁賾、據一人之見、守一家之說、未必能㑹通罔缺也。
 \\
-  Every .[time] I recite .[the] Classics .[and] Commentaries unto broadening,
+  Every .[time] I recite .[the] Classics .[and] Commentaries most broad,
   .[the] pronunciations .[and] meanings .[be] numerous .[and] profound:
   relying .[only] upon .[the] views of one person,
   .[and] keeping .[only the] explanations of one school,
