@@ -524,7 +524,7 @@ but concede that in most instances this will not be possible
 \\
   .[A] total of five years passed,
   and that book .[was] first completed,
-  .[and] named calling .[it a] Dictionary.
+  .[and] named calling .[it] Dictionary.
 >>
 ==
 * .始： first; \lit began
