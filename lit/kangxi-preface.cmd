@@ -413,7 +413,7 @@ but concede that in most instances this will not be possible
   .[the] pronunciations .[and] meanings .[be] numerous .[and] profound:
   relying .[only] upon .[the] views of one person,
   .[and] keeping .[only the] explanations of one school,
-  .[I am] not necessarily able .[to] comprehend through without gaps.
+  .[am I] not necessarily able .[to] comprehend through without gaps.
 >>
 =={.translation-annotations}
 * .朕： I
