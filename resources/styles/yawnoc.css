@@ -87,11 +87,6 @@ body > header {
 }
 
 
-i > em {
-  text-decoration: underline;
-}
-
-
 h1 {
   font-size: 1.7rem;
   margin: 0.75em auto;
@@ -313,6 +308,10 @@ footer > ul {
   display: flow-root;
   margin: 0.5em auto 1em;
   max-width: 32rem;
+}
+.interview em {
+  font-style: inherit;
+  text-decoration: underline;
 }
 
 
