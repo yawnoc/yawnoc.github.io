@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~I of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-08-06
+* %date-modified --> 2022-11-05
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -78,7 +78,7 @@ and the headings allocated are *not* part of the original text.
 - [\S7. Rod calculus: vertical & horizontal forms](7)
 - [\S8. Rod calculus: multiplication algorithm](8)
 - [\S9. Rod calculus: division algorithm](9)
-- [\S10. Volume conversion rates for grain & rice](10)
+- [\S10. Volume exchange rates for grain & rice](10)
 - [\S11. Some equivalent fractions~(1)](11)
 - [\S12. Some equivalent fractions~(2)](12)
 - [\S13. Rod calculus multiplication: $81 \times 81$](13)

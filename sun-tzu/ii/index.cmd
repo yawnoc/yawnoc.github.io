@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~II of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-08-06
+* %date-modified --> 2022-11-05
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -73,10 +73,10 @@ and the headings allocated are *not* part of the original text.
 - [\S2. Adding fractions](2)
 - [\S3. Subtracting fractions](3)
 - [\S4. Redistributing fractions for equality](4)
-- [\S5. Volume conversions for grain~(1)](5)
-- [\S6. Volume conversions for grain~(2)](6)
-- [\S7. Volume conversions for grain~(3)](7)
-- [\S8. Volume conversions for grain~(4)](8)
+- [\S5. Volume exchange of grain~(1)](5)
+- [\S6. Volume exchange of grain~(2)](6)
+- [\S7. Volume exchange of grain~(3)](7)
+- [\S8. Volume exchange of grain~(4)](8)
 - [\S9. Area of a rectangle](9)
 - [\S10. Volume of a cylinder~(1)](10)
 - [\S11. Volume of a rectangular prism~(1)](11)

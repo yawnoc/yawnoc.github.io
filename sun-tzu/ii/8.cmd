@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S8"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S8
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-11-05
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \S8. Volume conversions for grain~(4)
+  \S8. Volume exchange of grain~(4)
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This section gives a worked example of a volume conversion for trading grain
+This section gives a worked example of volume exchange for trading grain
 using cross-multiplication.
 --
 --

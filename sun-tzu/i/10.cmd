@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S10"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S10
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-11-05
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
-  \S10. Volume conversion rates for grain & rice
+  \S10. Volume exchange rates for grain & rice
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This section gives conversion rates
+This section gives exchange rates
 for trading various types of grain and rice.
 --
 
@@ -130,7 +130,7 @@ Chinese source text: \a[8], \b[147], \c[52066], \d[16]. <br>
   .糳、 \C tsok9 (\pm chok9), \M zu(o\)
   --
 
-* These are volume conversion rates to be used when trading grain and rice;
+* These are volume exchange rates to be used when trading grain and rice;
   I'm not sure why $6/4$ and $8/4$ haven't been simplified.
   In modern notation:
   $$
