@@ -81,6 +81,9 @@ Chinese source text: \a[62], \b[160], \c[52247], \d[75]. <br>
   Every nine pecks of grain, .[is] exchanged for one barrel of beans.
   .[We] ask, how much .[in] beans amounteth .[this] to?
 >>
+=={.translation-annotations}
+* \c[52247] has .蚪 for both .斗, and erroneously has .栗 for the second .粟.
+==
 
 <<
   答曰、四千四百四十四斛四斗。
@@ -88,6 +91,9 @@ Chinese source text: \a[62], \b[160], \c[52247], \d[75]. <br>
   Answer saith:
   four thousand, four hundred .[and] forty-four barrels .[and] four pecks.
 >>
+=={.translation-annotations}
+* \c[52247] has .斟 for .斗.
+==
 
 <<
   術曰、置粟三千九百九十九斛九斗六升為實、以九斗為法。實如法、即得。
@@ -99,6 +105,43 @@ Chinese source text: \a[62], \b[160], \c[52247], \d[75]. <br>
   .[and] use .[the] nine pecks as .[the] divisor.
   .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation:
+  $$
+    \frac{
+      V(\text{grain})
+    }{
+      V(\text{beans})
+    }
+      =
+    \frac{
+      9 \unit{pecks}
+    }{
+      1 \unit{barrel}
+    },
+  $$
+  hence
+  $$
+    \begin{aligned}
+      V(\text{beans})
+      &=
+        \frac{
+          V(\text{grain})
+        }{
+          9 \unit{pecks} / {\unit{barrel}}
+        }
+          \\[\tallspace]
+      &=
+        \frac{
+          3999.96 \unit{barrels}
+        }{
+          9 \unit{pecks} / {\unit{barrel}}
+        }
+          \\[\tallspace]
+      &= 4444.4 \unit{barrels}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
