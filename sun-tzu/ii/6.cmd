@@ -74,7 +74,7 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
   今有粟二斗一升。問為粺米幾何。 <br>
   答曰、一斗一升五十分升之一十七。
 \\
-  Suppose there be grain, two pecks .[and] one quart.
+  Suppose there be grain two pecks .[and] one quart.
   .[We] ask, how much be .[this in] fine grain? <br>
   Answer saith: one peck, one quart, .[and] seventeen fiftieths of .[a] quart.
 >>
@@ -91,7 +91,7 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
   術曰、置粟二十一升。以粺米率二十七乘之、得五百六十七升為實。\
   以粟率五十為法。除之、不盡、以法而命分。
 \\
-  Method saith: put .[down the] grain, twenty-one quarts.
+  Method saith: put .[down the] grain twenty-one quarts.
   Multiplying it by .[the] fine grain rate twenty-seven,
   resulteth in five hundred .[and] sixty-seven quarts as .[the] dividend.
   Use .[the] grain rate fifty as .[the] divisor.

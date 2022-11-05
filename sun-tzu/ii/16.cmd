@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S16"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S16
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-11-05
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -86,7 +86,7 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
   術曰、置索長五千七百九十四步。以四除之、得一千四百四十八步、餘二步。
 \\
   Method saith:
-  put .[down the] rope's length,
+  put .[down the] rope's length
     five thousand, seven hundred .[and] ninety-four paces.
   Dividing it by four, resulteth in
     one thousand, four hundred .[and] forty-eight paces,

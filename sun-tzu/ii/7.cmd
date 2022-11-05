@@ -74,7 +74,7 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
   今有粟四斗五升。問為糳米幾何。 <br>
   答曰、二斗一升五分升之三。
 \\
-  Suppose there be grain, four pecks .[and] five quarts.
+  Suppose there be grain four pecks .[and] five quarts.
   .[We] ask, how much be .[this in] intricate grain? <br>
   Answer saith:
     two pecks, one quart, .[and] three fifths of .[a] quart.
@@ -86,7 +86,7 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
 <<
   術曰、置粟四十五升。以二約糳米率二十四、得一十二。乘之、得五百四十升為實。
 \\
-  Method saith: put .[down the] grain, forty-five quarts.
+  Method saith: put .[down the] grain forty-five quarts.
   Reducing .[the] intricate grain rate twenty-four by two,
   resulteth in twelve.
   Multiplying them, resulteth in five hundred .[and] forty quarts

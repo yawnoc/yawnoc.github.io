@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S20"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S20
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-11-05
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -70,7 +70,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 <<
   今有積三萬五千步。問為圓幾何。
 \\
-  Suppose there be area, three myriad .[and] five thousand paces.
+  Suppose there be area three myriad .[and] five thousand paces.
   .[We] ask, how much be .[this a] circle .[of circumference]?
 >>
 
@@ -88,7 +88,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   術曰、置積三萬五千步、以一十二乘之、得四十二萬為::{.colour-b}實::。
 \\
   Method saith:
-  put .[down the] area, three myriad .[and] five thousand paces,
+  put .[down the] area three myriad .[and] five thousand paces,
   .[and] multiplying it by twelve,
   resulteth in forty-two myriad as ::{.colour-b} .[the] dividend::.
 >>

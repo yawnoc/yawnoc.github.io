@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S19"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S19
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-11-05
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -70,7 +70,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 <<
   今有積二十三萬四千五百六十七步。問為方幾何。
 \\
-  Suppose there be area,
+  Suppose there be area
   twenty-three myriad, four thousand, five hundred .[and] sixty-seven paces.
   .[We] ask, how much be .[this a] square .[of edge]?
 >>

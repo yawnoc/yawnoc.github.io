@@ -78,7 +78,7 @@ Chinese source text: \a[30], \b[154], \c[52151], \d[44]. <br>
   今有粟七斗九升。問為御米幾何。 <br>
   答曰、三斗三升一合八勺。
 \\
-  Suppose there be grain, seven pecks .[and] nine quarts.
+  Suppose there be grain seven pecks .[and] nine quarts.
   .[We] ask, how much be .[this in] poppy seed? <br>
   Answer saith: three pecks, three quarts, one gill, .[and] eight ladles.
 >>
