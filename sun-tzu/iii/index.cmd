@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~III of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2022-08-06
-* %date-modified --> 2022-09-23
+* %date-modified --> 2022-11-05
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -75,6 +75,7 @@ and the headings allocated are *not* part of the original text.
 - [\S8. Division determining a rate~(2)](8)
 - [\S9. Multiplication determining a total~(3)](9)
 - [\S10. Division determining a rate~(3)](10)
+- [\S11. Volume exchange of grain~(5)](11)
 ::::
 
 ||{.marker}
