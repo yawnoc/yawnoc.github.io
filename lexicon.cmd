@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-09-23
+* %date-modified --> 2022-11-05
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -5869,6 +5869,11 @@ See also: [平行]
 
 
 ### ⾖ (bean) U+2F96
+
+0 [豆] U+8C46
+==
+* bean
+==
 
 3 [豈] U+8C48
 ==
