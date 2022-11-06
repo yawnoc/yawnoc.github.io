@@ -21,7 +21,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A simple mathematical model for the sun's path through the sky \
     and the amount of daytime at different times of the year.
 * %date-created --> 2019-07-12
-* %date-modified --> 2022-06-11
+* %date-modified --> 2022-11-06
 * %styles -->
     .timeanddate {
       background: #cef8ce;
@@ -92,7 +92,7 @@ In roughly decreasing order of accuracy (according to my gut):
   The size of the observer is negligible compared to the size of the earth.
 
 2.
-  The difference between a [tropical year (or solar year)] [tropical year]
+  The difference between a [tropical year (or solar year)][tropical year]
   and a [sidereal year] is negligible,
   i.e.~Earth's [axial precession] is negligible.
 
