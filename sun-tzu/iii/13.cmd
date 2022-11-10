@@ -115,6 +115,22 @@ Chinese source text: \a[64], \b[160], \c[52253], \d[76]. <br>
 \\
   And multiplying it by nine, is .[it the] expense of nine years.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+    &
+      369980.7 \unit{barrels}
+        \times \frac{3 \unit{quarts} / {\unit{barrel}}}{\unit{yr}}
+        \times (1 \unit{yr}, 9 \unit{yr})
+        \\[\tallspace]
+    &=
+      (11099.421 \unit{barrels}, 99894.789 \unit{barrels}).
+    \end{aligned}
+  $$
+  Note that the nine-year expense is not compounded,
+  but computed directly from the principal value.
+==
 
 
 %%surrounds
