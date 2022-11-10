@@ -74,16 +74,25 @@ Chinese source text: \a[64], \b[160], \c[52250], \d[76]. <br>
 <<
   今有粟二千三百七十四斛、斛加三升。問共粟幾何。
 \\
+  Suppose there be grain
+  two thousand, three hundred .[and] seventy-four barrels,
+  .[and for each] barrel .[we] add three quarts.
+  .[We] ask, how much grain .[be there] altogether?
 >>
 
 <<
   答曰、二千四百四十五斛二斗二升。
 \\
+  Answer saith: two thousand, four hundred .[and] forty-five barrels,
+  two pecks, .[and] two quarts.
 >>
 
 <<
   術曰、置粟二千三百七十四斛、以一斛三升乘之、即得。
 \\
+  Method saith: put .[down the] grain
+  two thousand, three hundred .[and] seventy-four barrels;
+  multiplying it by one barrel .[and] three quarts, .[we] are done.
 >>
 
 
