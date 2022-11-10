@@ -706,6 +706,11 @@ See also: [以來]
 * make; that
 ==
 
+8 [倉] U+5009
+==
+* granary
+==
+
 8 [倍] U+500D
 ==
 * double; times
@@ -5137,6 +5142,11 @@ See also: [而已]
 4 [耕] U+8015
 ==
 * plough
+==
+
+4 [耗] U+8017
+==
+* expend
 ==
 
 

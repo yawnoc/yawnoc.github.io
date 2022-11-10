@@ -75,26 +75,45 @@ Chinese source text: \a[64], \b[160], \c[52253], \d[76]. <br>
 <<
   今有粟三十六萬九千九百八十斛七斗、在倉九年、年斛耗三升。
 \\
+  Suppose there be grain
+  thirty-six myriad, nine thousand, nine hundred .[and] eighty barrels
+  .[and] seven pecks,
+  .[stored] in .[a] granary nine years,
+  .[and each] year .[for each] barrel .[there be] expended three quarts.
 >>
 
 <<
   問一年九年各耗幾何。
 \\
+  .[We] ask, how much .[be] expended .[for] each of one year .[and] nine years?
 >>
 
 <<
   答曰、一年耗一萬一千九十九斛四斗二升一合、九年耗九萬九千八百九十四斛七斗八升九合。
 \\
+  Answer saith:
+  .[for] one year .[there be] expended
+    one myriad, one thousand .[and] ninety-nine barrels,
+    four pecks, two quarts, .[and] one gill;
+  .[and for] nine years .[there be] expended
+    nine myriad, nine thousand, eight hundred .[and] ninety-four barrels,
+    seven pecks, eight quarts, .[and] nine gills.
 >>
 
 <<
   術曰、置三十六萬九千九百八十斛七斗、以三升乘之、得一年之耗。
 \\
+  Method saith: put .[down the]
+  thirty-six myriad, nine thousand, nine hundred .[and] eighty barrels
+  .[and] seven pecks;
+  multiplying it by .[the] three quarts,
+  resulteth in .[the] expense of one year.
 >>
 
 <<
   又以九乘之、即九年之耗。
 \\
+  And multiplying it by nine, is .[it the] expense of nine years.
 >>
 
 
