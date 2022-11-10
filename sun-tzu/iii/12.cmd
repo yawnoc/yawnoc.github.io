@@ -94,6 +94,13 @@ Chinese source text: \a[64], \b[160], \c[52250], \d[76]. <br>
   two thousand, three hundred .[and] seventy-four barrels;
   multiplying it by one barrel .[and] three quarts, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    2374 \unit{barrels} \times \frac{1.03 \unit{barrels}}{\unit{barrel}}
+      = 2445.22 \unit{barrels}.
+  $$
+==
 
 
 %%surrounds
