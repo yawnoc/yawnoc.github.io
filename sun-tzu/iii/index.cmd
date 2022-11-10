@@ -77,6 +77,7 @@ and the headings allocated are *not* part of the original text.
 - [\S10. Division determining a rate~(3)](10)
 - [\S11. Volume exchange of grain~(5)](11)
 - [\S12. Marking up by a rate](12)
+- [\S13. Discounting by a rate~(2)](13)
 ::::
 
 ||{.marker}
