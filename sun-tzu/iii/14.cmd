@@ -96,6 +96,24 @@ Chinese source text: \a[64], \b[161], \c[52256], \d[77]. <br>
   Dividing it by .[the] loaned silk fifty-seven catties,
   .[there be a] remainder; reducing it, .[we] are done.
 >>
+=={.translation-annotations}
+* \a[64] is missing .七 in .五十七斤.
+
+* \c[52256] erroneously has ⑤~`U+2464` after .除之.
+
+* In modern notation,
+  $$
+    \frac{
+      16 \unit{catties} \times 16 \unit{taels} / {\unit{catty}}
+    }{
+      57 \unit{catties}
+    }
+      =
+    \frac{4 \frac{28}{57} \unit{taels}}{\unit{catty}}.
+  $$
+  The fraction $28/57$ is already irreducible,
+  so the instruction .約之 "reduce it" is actually superfluous.
+==
 
 
 %%surrounds
