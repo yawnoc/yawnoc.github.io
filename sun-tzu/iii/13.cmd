@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S13"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S13
 * %date-created --> 2022-11-10
-* %date-modified --> 2022-11-10
+* %date-modified --> 2022-11-12
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -24,7 +24,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 * %%surrounds-up --> [^ Volume~III](./)
 * %%surrounds-previous --> [<-- \S12](12)
 * %%surrounds-current --> \S13
-* %%surrounds-next -->
+* %%surrounds-next --> [\S14 -->](14)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
