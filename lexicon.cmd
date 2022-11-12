@@ -910,7 +910,7 @@ See also: [以來]
 ==
 [去聲]
 ==
-* together; share; altogether
+* (al)together
 ==
 
 5 [兵] U+5175
@@ -3604,7 +3604,7 @@ See also: [改正]
 
 3 [步] U+6B65
 ==
-* step; pace
+* step; pace; \met afoot
 ==
 
 9 [歲] U+6B72
