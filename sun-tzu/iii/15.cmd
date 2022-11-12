@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷下》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
-  \S15. A system of linear equations~(2)
+  \S15. Two-point method of false position~(2)
 
 %%noscript-equations
 
@@ -48,7 +48,10 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This section gives a worked example of solving a system of linear equations.
+This section gives a worked example of the two-point method of false position
+for a system of linear equations in two variables.
+See [Vol.~II \S28](/sun-tzu/ii/28)
+for a more detailed discussion of the method.
 --
 
 
