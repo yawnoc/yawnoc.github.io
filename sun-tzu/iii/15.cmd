@@ -69,6 +69,15 @@ Chinese source text: \a[66], \b[161], \c[52259], \d[78]. <br>
 >>
 =={.translation-annotations}
 * .步： afoot; \lit step
+
+* In modern notation, suppose there are $p$ people and $c$ chariots.
+  Then
+  $$
+    \begin{aligned}
+      p &= 3(c - 2) \\
+      p &= 2c + 9.
+    \end{aligned}
+  $$
 ==
 
 <<
@@ -85,6 +94,29 @@ Chinese source text: \a[66], \b[161], \c[52259], \d[78]. <br>
   adding those afoot, .[even the] nine people,
   resulteth in chariots fifteen.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    c = 3 \times 2 + 9 = 15.
+  $$
+
+* \a[66], \b[161], and \d[78] all erroneously have .置二人 for .置二車;
+  the latter is correct because the $2$ arises
+  not from the two people per chariot, but from the two chariots empty.
+  This is more easily seen if we write the computation dimensionally:
+  $$
+    \frac{
+      3 \unit{people} / {\unit{chariot}}
+        \times
+      (2 \unit{chariots})
+        +
+      9 \unit{people}
+    }{
+      (3 - 2) \unit{people} / {\unit{chariot}}
+    }
+      = 15 \unit{chariots}.
+  $$
+==
 
 <<
   欲知人者、以二乘車、加九人、即得。
@@ -94,6 +126,14 @@ Chinese source text: \a[66], \b[161], \c[52259], \d[78]. <br>
   .[and] adding .[the] nine people,
   .[we] are done.
 >>
+==
+* In modern notation,
+  $$
+    p = 2 \times 15 + 9 = 39.
+  $$
+
+* \d[78] erroneously has .加九十 for .加九人.
+==
 
 
 %%surrounds
