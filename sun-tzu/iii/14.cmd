@@ -71,21 +71,30 @@ Chinese source text: \a[64], \b[161], \c[52256], \d[77]. <br>
 <<
   今有貸與人絲五十七斤、限歲出息一十六斤。問斤息幾何。
 \\
+  Suppose there be .[a] loan giving .[a] person silk fifty-seven catties,
+  .[with] limit of .[a] year .[to] supply .[the] interest of sixteen catties.
+  .[We] ask, how much .[be each] catty's interest?
 >>
 
 <<
   答曰、四兩五十七分兩之二十八。
 \\
+  Answer saith: four taels .[and] twenty-eight fifty-sevenths of .[a] tael.
 >>
 
 <<
   術曰、列限息絲一十六斤、以一十六兩乘之、得二百五十六兩。
 \\
+  Method saith: rank .[the] limit's interest of silk, .[even] sixteen catties;
+  multiplying it by sixteen taels,
+  resulteth in two hundred .[and] fifty-six taels.
 >>
 
 <<
   以貸絲五十七斤除之、不盡、約之、即得。
 \\
+  Dividing it by .[the] loaned silk fifty-seven catties,
+  .[there be a] remainder; reducing it, .[we] are done.
 >>
 
 

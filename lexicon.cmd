@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-11-10
+* %date-modified --> 2022-11-12
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -2684,6 +2684,7 @@ See also: [性命]
 6 [息] U+606F
 ==
 * rest
+* interest
 ==
 
 7 [悉] U+6089
@@ -5923,6 +5924,11 @@ See also: [平行]
 * noble
 ==
 
+8 [貸] U+8CB8
+==
+* loan
+==
+
 8 [賞] U+8CDE
 ==
 * reward
@@ -6549,6 +6555,11 @@ See also: [世間]
 ==
 * fall
 * send down
+==
+
+6 [限] U+9650
+==
+* limit
 ==
 
 6 [陔] U+9654
