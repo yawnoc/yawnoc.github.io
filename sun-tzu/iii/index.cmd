@@ -79,6 +79,7 @@ and the headings allocated are *not* part of the original text.
 - [\S12. Marking up by a rate](12)
 - [\S13. Discounting by a rate~(2)](13)
 - [\S14. Division determining a rate~(4)](14)
+- [\S15. Two-point method of false position~(2)](15)
 ::::
 
 ||{.marker}
