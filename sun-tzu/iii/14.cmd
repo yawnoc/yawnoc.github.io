@@ -24,7 +24,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 * %%surrounds-up --> [^ Volume~III](./)
 * %%surrounds-previous --> [<-- \S13](13)
 * %%surrounds-current --> \S14
-* %%surrounds-next -->
+* %%surrounds-next --> [\S15 -->](15)
 - concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
 
 %%%
