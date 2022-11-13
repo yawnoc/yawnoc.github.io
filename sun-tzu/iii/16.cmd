@@ -117,6 +117,27 @@ Chinese source text: \a[66], \b[161], \c[52262], \d[79]. <br>
   .[and of] that resulted in, again dividing it by .[the] divisor,
   .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+      \frac{
+        128940.903 \unit{barrels}
+      }{
+        3.57 \unit{barrels} / {\unit{length}}
+      }
+      &=
+        36117 \unit{lengths}
+          +
+        \frac{3.213 \unit{lengths}}{3.57}
+          \times
+        \frac{40 \unit{rules}}{\unit{length}}
+        \\[\tallspace]
+      &=
+        36117 \unit{lengths} + 36 \unit{rules}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
