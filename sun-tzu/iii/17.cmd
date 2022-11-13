@@ -105,6 +105,8 @@ Chinese source text: \a[68], \b[161], \c[52265], \d[80]. <br>
   Dividing it by thirteen, .[we] are done.
 >>
 =={.translation-annotations}
+* \b[161] has .十二 for .一十二.
+
 * In modern notation, supposing that the guests be $n$ people, we have
   $$
     65 = \frac{n}{2} + \frac{n}{3} + \frac{n}{4} = \frac{13n}{12},
