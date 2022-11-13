@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-11-12
+* %date-modified --> 2022-11-13
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -4957,7 +4957,7 @@ See also: [御米]
 * \var [絕]
 ==
 
-7 [絹]
+7 [絹] U+7D79
 ==
 * strong-silk
 ==
@@ -5922,6 +5922,11 @@ See also: [平行]
 ==
 * value
 * noble
+==
+
+5 [買] U+8CB7
+==
+* buy
 ==
 
 8 [貸] U+8CB8

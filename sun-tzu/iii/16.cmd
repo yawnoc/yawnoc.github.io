@@ -82,21 +82,40 @@ Chinese source text: \a[66], \b[161], \c[52262], \d[79]. <br>
 <<
   今有粟一十二萬八千九百四十斛九斗三合、出與人買絹、一匹直粟三斛五斗七升。問絹幾何。
 \\
+  Suppose there be grain
+  twelve myriad, eight thousand, nine hundred .[and] forty barrels,
+  nine pecks, .[and] three gills,
+  supplied to .[a] person .[to] buy strong-silk,
+  .[each] one length .[thereof] worth grain
+  three barrels, five pecks, .[and] seven quarts.
+  .[We] ask, how much strong-silk .[be bought]?
 >>
 
 <<
   答曰、三萬六千一百一十七匹三丈六尺。
 \\
+  Answer saith:
+  three myriad, six thousand, one hundred .[and] seventeen lengths,
+  three rods, .[and] six rules.
 >>
 
 <<
   術曰、置粟一十二萬八千九百四十斛九斗三合為實、以三斛五斗七升為法。
 \\
+  Method saith: put .[down the] grain
+  twelve myriad, eight thousand, nine hundred .[and] forty barrels,
+  nine pecks, .[and] three gills as .[the] dividend,
+  .[and] use .[the] three barrels, five pecks, .[and] seven quarts
+  as .[the] divisor.
 >>
 
 <<
   除之、得匹、餘、四十之、所得又以法除之、即得。
 \\
+  Dividing them, resulteth in .[the] lengths;
+  .[the] remainder, quadragintuple it,
+  .[and of] that resulted in, again dividing it by .[the] divisor,
+  .[we] are done.
 >>
 
 
