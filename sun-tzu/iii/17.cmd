@@ -82,7 +82,7 @@ Chinese source text: \a[68], \b[161], \c[52265], \d[80]. <br>
 =={.translation-annotations}
 * \c[52265] erroneously has .用聣 for .用桮.
 
-* .不知客幾何： "know .[we] not how many guests .[there be]"
+* .不知客幾何： know .[we] not how many guests .[there be]
   --
   The quotation marks in \c[52265] mark this as spoken by the woman.
   Personally I disagree, and think that .不知客幾何 is spoken by the narrator.
