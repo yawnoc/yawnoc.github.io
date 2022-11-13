@@ -265,7 +265,7 @@ Lookup by stroke count of radical:
 ==
 [去聲]
 ==
-* [:non-verb:] up(ward); upper; above; superior
+* [:non-verb:] up(ward); upper; upon; above; superior
 ==
 --
 See also: [上方], [在上]
@@ -514,7 +514,7 @@ See also: [逝世]
 * another; others
 ==
 --
-See also: [詩人]
+See also: [婦人], [詩人]
 --
 
 2 [仁] U+4EC1
@@ -1907,6 +1907,9 @@ See also: [何如], [如何], [譬如]
 ==
 * woman; wife
 ==
+==
+* 婦人： woman
+==
 
 12 [嬉] U+5B09
 ==
@@ -1977,6 +1980,11 @@ See also: [字典]
 5 [官] U+5B98
 ==
 * official
+==
+
+6 [客] U+5BA2
+==
+* guest
 ==
 
 6 [室] U+5BA4
@@ -3473,6 +3481,11 @@ See also: [有餘]
 * mulberry-tree
 ==
 
+7 [桮] U+686E
+==
+* cup
+==
+
 7 [條] U+689D
 ==
 * strand
@@ -3749,6 +3762,11 @@ See also: [改正]
 ==
 * soar
 * child
+==
+
+5 [河] U+6CB3
+==
+* river
 ==
 
 5 [治] U+6CBB
@@ -5100,6 +5118,11 @@ See also: [御米]
 * meaning
 ==
 
+13 [羹] U+7FB9
+==
+* soup
+==
+
 
 ### ⽻ (feather) U+2F7B
 
@@ -5214,6 +5237,11 @@ See also: [聯翩]
 
 
 ### ⾁ (meat) U+2F81
+
+0 [肉] U+8089
+==
+* flesh
+==
 
 4 [股] U+80A1
 ==
@@ -7005,7 +7033,7 @@ See also: [鴻雁]
 6 [鮮] U+9BAE
 [平聲]
 ==
-* fresh-fish; fresh-meat
+* fresh-fish; fresh-flesh
 * fresh
 ==
 [上聲]

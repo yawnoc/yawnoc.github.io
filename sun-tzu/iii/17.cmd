@@ -62,21 +62,36 @@ Chinese source text: \a[68], \b[161], \c[52265], \d[80]. <br>
 <<
   今有婦人河上蕩桮、津吏問曰、桮何以多。婦人曰、家有客。
 \\
+  Suppose there be .[a] woman washing cups upon .[the] river,
+  .[and the] officer of .[the] ford asketh, saying,
+  Why .[so] many cups?
+  .[And the] woman saith, .[Mine] house hath guests.
 >>
 
 <<
   津吏曰、客幾何。婦人曰、二人共飯、三人共羹、四人共肉、凡用桮六十五。不知客幾何。
 \\
+  .[And the] officer of .[the] ford saith, How many guests .[be there]?
+  .[And the] woman saith,
+    Two people together .[for] rice,
+    three people together .[for] soup,
+    .[and] four people together .[for] flesh,
+  .[in] total use cups sixty-five.
+  Know .[we] not how many guests .[there be]?
 >>
 
 <<
   答曰、六十人。
 \\
+  Answer saith: sixty people.
 >>
 
 <<
   術曰、置六十五桮、以一十二乘之、得七百八十。以十三除之、即得。
 \\
+  Method saith: put .[down the] sixty-five cups;
+  multiplying it by twelve, resulteth in seven hundred .[and] eighty.
+  Dividing it by thirteen, .[we] are done.
 >>
 
 
