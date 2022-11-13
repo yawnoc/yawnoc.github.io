@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S25"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S25
 * %date-created --> 2022-07-24
-* %date-modified --> 2022-07-24
+* %date-modified --> 2022-11-13
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \S25. Solving a linear equation
+  \S25. Solving a linear equation~(1)
 
 %%noscript-equations
 

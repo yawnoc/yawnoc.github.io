@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~II of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-11-12
+* %date-modified --> 2022-11-13
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -93,7 +93,7 @@ and the headings allocated are *not* part of the original text.
 - [\S22. Volume of a trapezoidal prism~(2)](22)
 - [\S23. Volume of a trapezoidal prism~(3)](23)
 - [\S24. Weighted proportions](24)
-- [\S25. Solving a linear equation](25)
+- [\S25. Solving a linear equation~(1)](25)
 - [\S26. A system of linear equations](26)
 - [\S27. Weighted sharing](27)
 - [\S28. Two-point method of false position~(1)](28)
