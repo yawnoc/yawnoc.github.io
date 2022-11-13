@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Sunzi Suanjing, 《孫子算經》, \
     `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-05-04
-* %date-modified --> 2022-08-06
+* %date-modified --> 2022-11-13
 - concluding_replacements:
     #.romanisation.special-characters
     #.yawnoc.double-quotes-in-attributes
@@ -173,6 +173,9 @@ The following variant substitutions have been made:
   //
     , 幷
     , 并
+  //
+    , 羮
+    , 羹
 ''''
 ||
 ||||
