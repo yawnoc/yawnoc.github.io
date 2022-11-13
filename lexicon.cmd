@@ -316,7 +316,7 @@ See also: [逝世]
 
 7 [並] U+4E26
 ==
-* together; altogether
+* (al)together
 ==
 
 
