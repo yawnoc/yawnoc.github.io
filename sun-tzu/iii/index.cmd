@@ -81,6 +81,7 @@ and the headings allocated are *not* part of the original text.
 - [\S14. Division determining a rate~(4)](14)
 - [\S15. Two-point method of false position~(2)](15)
 - [\S16. Division utilising a rate~(3)](16)
+- [\S17. Solving a linear equation~(2)](17)
 ::::
 
 ||{.marker}
