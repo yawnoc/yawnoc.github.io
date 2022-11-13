@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An English translation of the original text for 《狐假虎威》, \
     `[The] Fox Feigneth [the] Tiger's Authority`.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-07-10
+* %date-modified --> 2022-11-13
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -111,7 +111,7 @@ but with olden-style punctuation:
 \\
   .[But] (Kiang I|江一) replied, saying,
     .[A] tiger sought .[the] hundred beasts .[to] then eat them,
-    .[and] obtained .[a] fox.
+    .[and] gat .[a] fox.
 >>
 =={.translation-annotations}
 * .江一： (Kiang I|江一)

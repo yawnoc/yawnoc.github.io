@@ -2514,7 +2514,7 @@ See also: [以後]
 
 8 [得] U+5F97
 ==
-* obtain; get
+* get
 * satisfy; done
 * result (in)
 * can

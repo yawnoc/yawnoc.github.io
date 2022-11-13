@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-07-10
+* %date-modified --> 2022-11-13
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -688,9 +688,9 @@ I have edited the punctuation to not be bizarre.
   .[In] human life, losing .[one's] wife,
   .[is] like the cart losing .[its] wheel.
   .[The] wheel lost, make again,
-  .[and] surely obtain .[a] new .[one] thereof.
+  .[and] surely get .[a] new .[one] thereof.
   .[The] wife .[having] died, seek anew,
-  .[and] also obtain .[a] new .[one] thereof.
+  .[and] also get .[a] new .[one] thereof.
 >>
 =={.translation-annotations}
 * .無： losing; \lit without

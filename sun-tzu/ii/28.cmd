@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S28"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S28
 * %date-created --> 2022-07-30
-* %date-modified --> 2022-11-12
+* %date-modified --> 2022-11-13
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -117,7 +117,7 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
   維乘之、所得、并之、為絹。
 \\
   .[In] linkage multiply them;
-  .[of] those resulted in, combining them, maketh .[the] strong-silk.
+  .[of] those which result, combining them, maketh .[the] strong-silk.
 >>
 =={.translation-annotations}
 * Having formed the matrix

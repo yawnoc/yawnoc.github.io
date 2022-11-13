@@ -114,7 +114,7 @@ Chinese source text: \a[66], \b[161], \c[52262], \d[79]. <br>
 \\
   Dividing them, resulteth in .[the] lengths;
   .[the] remainder, quadragintuple it,
-  .[and of] that resulted in, again dividing it by .[the] divisor,
+  .[and of] that which resulteth, again dividing it by .[the] divisor,
   .[we] are done.
 >>
 =={.translation-annotations}

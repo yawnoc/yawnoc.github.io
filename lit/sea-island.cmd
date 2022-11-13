@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the first problem in Haidao Suanjing, \
     《海島算經》, `The Sea Island Computational Classic`.
 * %date-created --> 2019-04-20
-* %date-modified --> 2022-07-10
+* %date-modified --> 2022-11-13
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #backslash-continuations
@@ -278,7 +278,7 @@ Parentheticals are (half-column) inline annotations in the original text.
   times .[the] ::{.colour-g} posts' separation:: as .[the] dividend,
   .[and the] ::{.colour-b} mutual excess:: as .[the] divisor,
   .[and] divide them.
-  That obtained added to .[the] ::{.colour-r} posts' height::,
+  That which resulteth added to .[the] ::{.colour-r} posts' height::,
   doth result in .[the] island's height.
 >>
 =={.translation-annotations}
@@ -669,9 +669,9 @@ I have mapped the names of the vertices as follows:
     既得::{.colour-v}甲辰::、加::{.colour-r}表高辰乙::（即::{.colour-r}丙丁::）、\
     得甲乙、爲島高。
   \\
-    Having obtained ::{.colour-v} $AO$::,
+    Having gotten ::{.colour-v} $AO$::,
     add ::{.colour-r} .[the] post height $OB$:: (which is ::{.colour-r} $CD$::),
-    .[to] obtain $AB$, .[which] be .[the] height of .[the] island.
+    .[to] get $AB$, .[which] be .[the] height of .[the] island.
   >>
   =={.translation-annotations}
   * In modern notation,
@@ -726,7 +726,7 @@ I have mapped the names of the vertices as follows:
     ::{.colour-g} .[the] great major-cathetus chariot-beam $FC$:: compared unto
     ::{.colour-v} .[the] split major-cathetus $CO$::
     (which is ::{.colour-v} $DB$::),
-    .[and we] obtain
+    resulting in
     ::{.colour-v} .[the] distance .[that the] island .[is] separated
     from .[the] front post::.
   >>
