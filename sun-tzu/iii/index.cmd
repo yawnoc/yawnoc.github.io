@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~III of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2022-08-06
-* %date-modified --> 2022-11-12
+* %date-modified --> 2022-11-13
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -80,6 +80,7 @@ and the headings allocated are *not* part of the original text.
 - [\S13. Discounting by a rate~(2)](13)
 - [\S14. Division determining a rate~(4)](14)
 - [\S15. Two-point method of false position~(2)](15)
+- [\S16. Division utilising a rate~(3)](16)
 ::::
 
 ||{.marker}
