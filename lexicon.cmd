@@ -4386,6 +4386,11 @@ See also: [百萬]
 * benefit
 ==
 
+5 [盍] U+76CD
+==
+* why not
+==
+
 6 [盖] U+76D6
 ==
 * \var [蓋]
