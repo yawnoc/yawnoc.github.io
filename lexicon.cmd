@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-11-13
+* %date-modified --> 2022-11-18
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -2132,6 +2132,11 @@ See also: [從容]
 * dwell; abide
 ==
 
+5 [屈] U+5C48
+==
+* bend
+==
+
 6 [屋] U+5C4B
 ==
 * house
@@ -3388,7 +3393,7 @@ See also: [有餘]
 0 [木] U+6728
 ==
 * tree
-* wood; timber
+* wood
 ==
 
 1 [未] U+672A
@@ -4542,6 +4547,9 @@ See also: [規矩]
 ==
 * short; shortness; shortcoming
 ==
+--
+See also: [長短]
+--
 
 
 ### ⽯ (stone) U+2F6F
@@ -6431,7 +6439,7 @@ See also: [遠近]
 5 [量] U+91CF
 [平聲]
 ==
-* measure (capacity) {:physically:}
+* measure (capacity); gauge {:physically:}
 ==
 [去聲]
 ==
@@ -6518,6 +6526,9 @@ See also: [數量]
 ==
 * long; length; \met strength
 * everlasting
+==
+==
+* 長短： length
 ==
 [上聲]
 ==

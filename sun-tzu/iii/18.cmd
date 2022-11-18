@@ -50,6 +50,18 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 --
 This section gives the solution to a specific system of linear equations.
 --
+--
+The relevant unit conversions for length are
+--
+$$
+  \begin{aligned}
+    1 \unit{rod~(丈)} &= 10 \unit{rules~(尺)} \\
+    1 \unit{rule~(尺)} &= 10 \unit{inches~(寸)}.
+  \end{aligned}
+$$
+--
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
+--
 
 
 ##{#translation} Translation
@@ -62,16 +74,46 @@ Chinese source text: \a[68], \b[161], \c[52268], \d[80]. <br>
 <<
   今有木不知長短。引繩度之、餘繩四尺五寸、屈繩量之、不足一尺。問木長幾何。
 \\
+  Suppose there be wood .[we] know not .[the] length of.
+  Drawing .[a] cord .[and] measuring it,
+  .[is there] excess cord four rules .[and] five inches;
+  .[but] bending .[the] cord .[and] gauging it,
+  .[is it] one rule not sufficient.
+  .[We] ask, how much .[be the] length of .[the] wood?
 >>
+=={.translation-annotations}
+* .度： measuring
+  --
+  .度、入聲、 \C tok9, \M du(o\) (\gr du(o/))
+  --
+
+* .餘： .[is there] excess; \or .[there] remaineth
+
+* .屈： bending
+  --
+  Specifically bending in half.
+  --
+
+* .量： gauging
+  --
+  .量、平聲、 \C l(oe)ng4, \M li(a/)ng
+  --
+==
 
 <<
   答曰、六尺五寸。
 \\
+  Answer saith: six rules .[and] five inches.
 >>
 
 <<
   術曰、置餘繩四尺五寸、加不足一尺、共五尺五寸。倍之、得一丈一尺。減餘四尺五寸、即得。
 \\
+  Method saith: put .[down the] excess cord four rules .[and] five inches,
+  .[and] add .[the] one rule not sufficient,
+  altogether five rules .[and] five inches.
+  Doubling it, resulteth in one rod .[and] one rule.
+  Subtracting .[the] excess four rules .[and] five inches, .[we] are done.
 >>
 
 
