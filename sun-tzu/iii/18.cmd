@@ -98,6 +98,17 @@ Chinese source text: \a[68], \b[161], \c[52268], \d[80]. <br>
   --
   .量、平聲、 \C l(oe)ng4, \M li(a/)ng
   --
+
+* \b[161] is missing .木長 before .幾何.
+
+* In modern notation, we have the system
+  $$
+    \begin{aligned}
+      c &= w + 4.5 \unit{rules} \\
+      c/2 &= w - 1 \unit{rule}
+    \end{aligned}
+  $$
+  in $c$ the length of the cord and $w$ the length of the wood.
 ==
 
 <<
@@ -115,6 +126,17 @@ Chinese source text: \a[68], \b[161], \c[52268], \d[80]. <br>
   Doubling it, resulteth in one rod .[and] one rule.
   Subtracting .[the] excess four rules .[and] five inches, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation, this result is arrived at
+  by first doubling both equations and taking the difference, giving
+  $$
+    c = 2 \times (4.5 \unit{rules} + 1 \unit{rule}) = 11 \unit{rules},
+  $$
+  and then substituting into the first equation to get
+  $$
+    w = c - 4.5 \unit{rules} = 6.5 \unit{rules}.
+  $$
+==
 
 
 %%surrounds
