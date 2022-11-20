@@ -1395,6 +1395,11 @@ See also: [北方]
 
 ### ⼝ (mouth) U+2F1D
 
+0 [口] U+53E3
+==
+* mouth; \met population
+==
+
 2 [古] U+53E4
 ==
 * olden; antiquity

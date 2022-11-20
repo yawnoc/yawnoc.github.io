@@ -72,26 +72,42 @@ Chinese source text: \a[72], \b[162], \c[52283], \d[84]. <br>
 <<
   今有六萬口、上口三萬人、日食九升、中口二萬人、日食七升、下口一萬人、日食五升。
 \\
+  Suppose there be .[a] population of six myriad:
+  .[an] upper population .[being] three myriad people,
+    .[each] day eating nine quarts;
+  .[a] middle population, two myriad people,
+    .[each] day eating seven quarts;
+  .[and a] lower population, one myriad people,
+    .[each] day eating five quarts.
 >>
+=={.translation-annotations}
+* 口： population; \lit mouths
+==
 
 <<
   問上中下口共食幾何。
 \\
+  .[We] ask, how much altogether eat
+  .[the] upper, middle, .[and] lower populations?
 >>
 
 <<
   答曰、四千六百斛。
 \\
+  Answer saith: four thousand six hundred barrels.
 >>
 
 <<
   術曰、各置口數、以日食之數乘之。
 \\
+  Method saith: put .[down] each population's number,
+  .[and] multiply it by .[the] number eaten .[each] day.
 >>
 
 <<
   所得、并之、即得。
 \\
+  .[Of] those which result, combining them, .[we] are done.
 >>
 
 
