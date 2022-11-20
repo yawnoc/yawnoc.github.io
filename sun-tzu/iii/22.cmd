@@ -96,6 +96,18 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
   .[the] quails one thousand eight hundred myriad,
   .[and the] birdies one square-myriad .[and] eight thousand myriad.
 >>
+=={.translation-annotations}
+* **The number of birdies~(.鷃) is incorrect
+  in all four versions of the source text,
+  and I have faithfully reproduced this error here.**
+  --
+  The correct number is eighteen square-myriad (.十八億).
+  Indeed, whilst a rule~(.尺) is $10$ times an inch~(.寸),
+  .尺有鶉 and .寸有鷃 specify *area* densities,
+  so the number of birdies should be a $10^2 = 100$ times the number of quails.
+  This is why dimensional analysis is important.
+  --
+==
 
 <<
   術曰、置長一千步、以廣五百步乘之、得五十萬步。
@@ -104,6 +116,16 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
   multiplying it by .[the] breadth five hundred paces,
   resulteth in fifty myriad paces.
 >>
+=={.translation-annotations}
+* In modern notation, the area of the land is
+  $$
+    \begin{aligned}
+      A
+      &= 1000 \unit{paces} \times 500 \unit{paces} \\
+      &= 50 \times 10^4 \unit{paces}^2.
+    \end{aligned}
+  $$
+==
 
 <<
   以三十六乘之、得一千八百萬尺、即得鶉數。
@@ -112,6 +134,23 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
   resulteth in one thousand eight hundred myriad rules,
   which is resulting in .[the] number of quails.
 >>
+=={.translation-annotations}
+* Here, the text correctly performs a unit conversion
+  between square paces and square rules:
+  $$
+    \begin{aligned}
+      A
+        &=
+          50 \times 10^4 \unit{paces}^2
+            \times
+          \roundbr{\frac{6 \unit{rules}}{\unit{pace}}}^2 \\[\tallspace]
+        &=
+          50 \times 10^4 \times 36 \unit{rules}^2 \\
+        &=
+          1800 \times 10^4 \unit{rules}^2.
+    \end{aligned}
+  $$
+==
 
 <<
   上十之、即得鷃數。
@@ -119,6 +158,16 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
   Decupling it upward, doth result in .[the] number of birdies.
 >>
 =={.translation-annotations}
+* Here, the text incorrectly uses a value of $10$
+  for the ratio between birdie density and quail density.
+  The correct ratio is $100$, because
+  $$
+    \frac{1 / {\unit{inch}}^2}{1 / {\unit{rule}}^2}
+    = \roundbr{\frac{\unit{rule}}{\unit{inch}}}^2
+    = 10^2
+    = 100.
+  $$
+
 * \c[52280] erroneously has .赉 for .鶉.
 ==
 

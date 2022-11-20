@@ -113,6 +113,20 @@ Answer saith:
 <span class="translator-supplied">[and the]</span> birdies one square-myriad <span class="translator-supplied">[and]</span> eight thousand myriad.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+<strong>The number of birdies (<span lang="zh-Hant">鷃</span>) is incorrect
+in all four versions of the source text,
+and I have faithfully reproduced this error here.</strong>
+<p>
+The correct number is eighteen square-myriad (<span lang="zh-Hant">十八億</span>).
+Indeed, whilst a rule (<span lang="zh-Hant">尺</span>) is <span class="js-maths">10</span> times an inch (<span lang="zh-Hant">寸</span>),
+<span lang="zh-Hant">尺有鶉</span> and <span lang="zh-Hant">寸有鷃</span> specify <em>area</em> densities,
+so the number of birdies should be a <span class="js-maths">10^2 = 100</span> times the number of quails.
+This is why dimensional analysis is important.
+</p>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 術曰、置長一千步、以廣五百步乘之、得五十萬步。
@@ -123,6 +137,17 @@ multiplying it by <span class="translator-supplied">[the]</span> breadth five hu
 resulteth in fifty myriad paces.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+In modern notation, the area of the land is
+<div class="js-maths">\begin{aligned}
+  A
+  &amp;= 1000 \unit{paces} \times 500 \unit{paces} \\
+  &amp;= 50 \times 10^4 \unit{paces}^2.
+\end{aligned}
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 以三十六乘之、得一千八百萬尺、即得鶉數。
@@ -133,6 +158,24 @@ resulteth in one thousand eight hundred myriad rules,
 which is resulting in <span class="translator-supplied">[the]</span> number of quails.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+Here, the text correctly performs a unit conversion
+between square paces and square rules:
+<div class="js-maths">\begin{aligned}
+  A
+    &amp;=
+      50 \times 10^4 \unit{paces}^2
+        \times
+      \roundbr{\frac{6 \unit{rules}}{\unit{pace}}}^2 \\[\tallspace]
+    &amp;=
+      50 \times 10^4 \times 36 \unit{rules}^2 \\
+    &amp;=
+      1800 \times 10^4 \unit{rules}^2.
+\end{aligned}
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 上十之、即得鷃數。
@@ -142,6 +185,16 @@ Decupling it upward, doth result in <span class="translator-supplied">[the]</spa
 </div>
 </div>
 <ul class="translation-annotations">
+<li>
+Here, the text incorrectly uses a value of <span class="js-maths">10</span>
+for the ratio between birdie density and quail density.
+The correct ratio is <span class="js-maths">100</span>, because
+<div class="js-maths">\frac{1 / {\unit{inch}}^2}{1 / {\unit{rule}}^2}
+= \roundbr{\frac{\unit{rule}}{\unit{inch}}}^2
+= 10^2
+= 100.
+</div>
+</li>
 <li>
 <a href="https://ctext.org/sunzi-suan-jing#n52280">Version C</a> erroneously has <span lang="zh-Hant">赉</span> for <span lang="zh-Hant">鶉</span>.
 </li>
