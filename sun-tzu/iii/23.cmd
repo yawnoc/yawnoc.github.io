@@ -109,6 +109,23 @@ Chinese source text: \a[72], \b[162], \c[52283], \d[84]. <br>
 \\
   .[Of] those which result, combining them, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+      &
+        30000 \times \frac{9 \unit{quarts}}{\unit{day}}
+        + 20000 \times \frac{7 \unit{quarts}}{\unit{day}}
+        + 10000 \times \frac{5 \unit{quarts}}{\unit{day}}
+          \\[\tallspace]
+      &=
+        \frac{460000 \unit{quarts}}{\unit{day}}
+          \\[\tallspace]
+      &=
+        \frac{4600 \unit{barrels}}{\unit{day}}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
