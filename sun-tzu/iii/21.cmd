@@ -72,6 +72,41 @@ Chinese source text: \a[70], \b[162], \c[52277], \d[82]. <br>
 %%version-d-default
 --
 
+<<
+  今有錦一匹、直錢一萬八千。問丈尺寸各直幾何。
+\\
+  Suppose there be brocade one length,
+  worth coins one myriad .[and] eight thousand.
+  .[We] ask, how much .[be each] rod, .[each] rule, .[and each] inch
+  each worth?
+>>
+
+<<
+  答曰、丈四千五百錢、尺四百五十錢、寸四十五錢。
+\\
+  Answer saith:
+  .[each] rod four thousand five hundred coins,
+  .[each] rule four hundred .[and] fifty coins,
+  .[and each] inch forty-five coins.
+>>
+
+<<
+  術曰、置錢一萬八千、以四除之、得一丈之直。
+\\
+  Method saith: put .[down the] coins one myriad .[and] eight thousand;
+  dividing it by four, resulteth in .[the] worth of .[each] one rod.
+>>
+=={.translation-annotations}
+* \c[52277] erroneously has .得尺寸之直 before .得一丈之直.
+==
+
+<<
+  一退再退、得尺寸之直。
+\\
+  Retreating once .[and] retreating again,
+  resulteth in .[the] worth of .[each] rule .[and each] inch.
+>>
+
 
 %%surrounds
 
