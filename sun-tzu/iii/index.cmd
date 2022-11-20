@@ -87,6 +87,7 @@ and the headings allocated are *not* part of the original text.
 - [\S20. Unit conversion~(1)](20)
 - [\S21. Unit conversion~(2)](21)
 - [\S22. Unit conversion~(3)](22)
+- [\S23. Multiplication determining a total~(4)](23)
 ::::
 
 ||{.marker}
