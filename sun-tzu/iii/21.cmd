@@ -106,6 +106,18 @@ Chinese source text: \a[70], \b[162], \c[52277], \d[82]. <br>
   Retreating once .[and] retreating again,
   resulteth in .[the] worth of .[each] rule .[and each] inch.
 >>
+==
+* In modern notation,
+  $$
+    \begin{aligned}
+      \frac{18000 \unit{coins}}{1 \unit{length}}
+      &= \frac{18000 \unit{coins}}{4 \unit{rods}} \\[\tallspace]
+      &= 4500 \unit{coins} / {\unit{rod}} \\
+      &= 450 \unit{coins} / {\unit{rule}} \\
+      &= 45 \unit{coins} / {\unit{inch}}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
