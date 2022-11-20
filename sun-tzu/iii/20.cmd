@@ -87,6 +87,16 @@ Chinese source text: \a[70], \b[161], \c[52274], \d[82]. <br>
   Method saith: put .[down the] coins ten myriad;
   dividing it by sixteen taels, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+      \frac{100000 \unit{coins}}{1 \unit{catty}}
+      &= \frac{100000 \unit{coins}}{16 \unit{taels}} \\[\tallspace]
+      &= \frac{6250 \unit{coins}}{\unit{tael}}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
