@@ -106,7 +106,7 @@ Chinese source text: \a[70], \b[162], \c[52277], \d[82]. <br>
   Retreating once .[and] retreating again,
   resulteth in .[the] worth of .[each] rule .[and each] inch.
 >>
-==
+=={.translation-annotations}
 * In modern notation,
   $$
     \begin{aligned}
