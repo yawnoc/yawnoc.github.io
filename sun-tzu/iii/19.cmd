@@ -49,7 +49,19 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 --
 This section gives a worked example of solving a linear equation.
-(More accurately, it inverts a sequence of multiplications.)
+(More accurately, it inverts a sequence of discounts.)
+--
+--
+The relevant unit conversions for capacity are
+--
+$$
+  \begin{aligned}
+    1 \unit{barrel~(斛)} &= 10 \unit{pecks~(斗)} \\
+    1 \unit{peck~(斗)} &= 10 \unit{quarts~(升)}.
+  \end{aligned}
+$$
+--
+See [Vol.~I \S3 (Units of capacity)](/sun-tzu/i/3).
 --
 
 
@@ -75,6 +87,17 @@ Chinese source text: \a[68], \b[161], \c[52271], \d[81]. <br>
   .[there] remaineth grain one peck .[and] five quarts.
   .[We] ask, how much .[be the] original grain?
 >>
+=={.translation-annotations}
+* In modern notation, we seek $V$ such that
+  $$
+    V
+      \cdot
+      \roundbr{1 - \frac{1}{2}}
+      \roundbr{1 - \frac{1}{3}}
+      \roundbr{1 - \frac{1}{4}}
+    = 1.5 \unit{pecks}.
+  $$
+==
 
 <<
   答曰、六斗。
@@ -96,6 +119,17 @@ Chinese source text: \a[68], \b[161], \c[52271], \d[81]. <br>
   Multiplying it by four, resulteth in one barrel .[and] eight pecks.
   Dividing it by three, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+      V
+        &= 1.5 \unit{pecks} \times \frac{6}{2} \times \frac{4}{3}
+          \\[\tallspace]
+        &= 6 \unit{pecks}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
