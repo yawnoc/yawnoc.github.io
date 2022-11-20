@@ -70,6 +70,10 @@ $$
     1 \unit{quart~(升)} &= 10 \unit{gills~(合)}.
   \end{aligned}
 $$
+--
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1)
+and [Vol.~I \S3 (Units of capacity)](/sun-tzu/i/3).
+--
 
 
 ##{#translation} Translation
