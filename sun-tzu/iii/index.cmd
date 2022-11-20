@@ -86,6 +86,7 @@ and the headings allocated are *not* part of the original text.
 - [\S19. Solving a linear equation~(3)](19)
 - [\S20. Unit conversion~(1)](20)
 - [\S21. Unit conversion~(2)](21)
+- [\S22. Unit conversion~(3)](22)
 ::::
 
 ||{.marker}
