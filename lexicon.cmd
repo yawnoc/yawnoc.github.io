@@ -6917,7 +6917,7 @@ See also: [鴻雁]
 ==
 [入聲]
 ==
-* eat; food
+* eat
 ==
 
 4 [飯] U+98EF
