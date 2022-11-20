@@ -63,26 +63,38 @@ Chinese source text: \a[68], \b[161], \c[52271], \d[81]. <br>
 <<
   今有器中米、不知其數。
 \\
+  Suppose there be grain amidst .[a] vessel, .[and we] know not its number.
 >>
 
 <<
   前人取半、中人三分取一、後人四分取一、餘米一斗五升。問本米幾何。
 \\
+  .[The] former person taking .[an] half,
+  .[the] middle person taking one of three shares,
+  .[and the] latter person taking one of four shares,
+  .[there] remaineth grain one peck .[and] five quarts.
+  .[We] ask, how much .[be the] original grain?
 >>
 
 <<
   答曰、六斗。
 \\
+  Answer saith: six pecks.
 >>
 
 <<
   術曰、置餘米一斗五升、以六乘之、得九斗。以二除之、得四斗五升。
 \\
+  Method saith: put .[down the] remaining grain one peck .[and] five quarts;
+  multiplying it by six, resulteth in nine pecks.
+  Dividing it by two, resulteth in four pecks .[and] five quarts.
 >>
 
 <<
   以四乘之、得一斛八斗。以三除之、即得。
 \\
+  Multiplying it by four, resulteth in one barrel .[and] eight pecks.
+  Dividing it by three, .[we] are done.
 >>
 
 

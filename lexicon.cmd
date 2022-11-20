@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-11-18
+* %date-modified --> 2022-11-20
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1568,6 +1568,12 @@ See also: [學問]
 --
 See also: [未嘗]
 --
+
+13 [器] U+5668
+==
+* vessel
+* device
+==
 
 15 [嚮] U+56AE
 [上聲]
@@ -3412,7 +3418,7 @@ See also: [有餘]
 
 1 [本] U+672C
 ==
-* base
+* base; original
 * version; copy
 ==
 
