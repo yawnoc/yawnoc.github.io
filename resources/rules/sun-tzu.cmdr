@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.sun-tzu.header-links-ordinary
 
 RegexDictionaryReplacement: #.sun-tzu.header-links-regex
 - queue_position: BEFORE #backslash-escapes
-* [!][!](?P<number> [0-9]+ ) --> [\\P\g<number>]("You are viewing \\P\g<number>")
+* [!][!](?P<number> [0-9]+ ) --> [\\S\g<number>]("You are viewing \\S\g<number>")
 - concluding_replacements:
   #.yawnoc.typography
 
@@ -52,7 +52,7 @@ OrdinaryDictionaryReplacement: #.sun-tzu.boilerplate
     </nav>
 * %%volume-i-multiplications-and-divisions -->
     --
-    \P15 through \P22 give the results of multiplications and divisions
+    \S15 through \S22 give the results of multiplications and divisions
     of the form
     --
     $$
@@ -71,7 +71,7 @@ OrdinaryDictionaryReplacement: #.sun-tzu.boilerplate
     $$
     --
     Since this gets rather repetitive and boring,
-    you may wish to [skip to \P23](23).
+    you may wish to [skip to \S23](23).
     --
 
 
