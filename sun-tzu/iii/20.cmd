@@ -71,16 +71,21 @@ Chinese source text: \a[70], \b[161], \c[52274], \d[82]. <br>
 <<
   今有黃金一斤、直錢一十萬。問兩直幾何。
 \\
+  Suppose there be gold one catty, worth coins ten myriad.
+  .[We] ask, how much .[be each] tael worth?
 >>
 
 <<
   答曰、六千二百五十錢。
 \\
+  Answer saith: six thousand, two hundred .[and] fifty coins.
 >>
 
 <<
   術曰、置錢一十萬、以一十六兩除之、即得。
 \\
+  Method saith: put .[down the] coins ten myriad;
+  dividing it by sixteen taels, .[we] are done.
 >>
 
 
