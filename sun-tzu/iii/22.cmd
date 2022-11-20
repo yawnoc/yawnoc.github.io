@@ -74,26 +74,49 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
 <<
   今有地、長一千步、廣五百步、尺有鶉、寸有鷃。問鶉鷃各幾何。
 \\
+  Suppose there be land,
+  of length one thousand paces,
+  .[and] breadth five hundred paces,
+  .[each] rule having .[a] quail,
+  .[and each] inch having .[a] birdie.
+  .[We] ask, how many each .[be the] quails .[and the] birdies?
 >>
+=={.translation-annotations}
+* .鷃： birdie; \or quail
+  --
+  .鶉 and .鷃 are both types of quail;
+  .鷃 has been rendered "birdie" to avoid duplication.
+  --
+==
 
 <<
   答曰、鶉一千八百萬、鷃一億八千萬。
 \\
+  Answer saith:
+  .[the] quails one thousand eight hundred myriad,
+  .[and the] birdies one square-myriad .[and] eight thousand myriad.
 >>
 
 <<
   術曰、置長一千步、以廣五百步乘之、得五十萬步。
 \\
+  Method saith: put .[down the] length one thousand paces;
+  multiplying it by .[the] breadth five hundred paces,
+  resulteth in fifty myriad paces.
 >>
 
 <<
   以三十六乘之、得一千八百萬尺、即得鶉數。
 \\
+  Multiplying it by thirty-six,
+  resulteth in one thousand eight hundred myriad rules,
+  which is resulting in .[the] number of quails.
 >>
 
 <<
   上十之、即得鷃數。
 \\
+  Decupling it upward, doth result in .[the] number of birdies.
 >>
 =={.translation-annotations}
 * \c[52280] erroneously has .赉 for .鶉.

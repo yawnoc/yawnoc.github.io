@@ -7109,6 +7109,16 @@ See also: [鴻雁]
 * goose
 ==
 
+8 [鶉] U+9D89
+==
+* quail
+==
+
+10 [鷃] U+9DC3
+==
+* quail; birdie
+==
+
 
 ### ⿄ (salt) U+2FC4
 
