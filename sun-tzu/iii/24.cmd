@@ -106,12 +106,20 @@ Chinese source text: \a[72], \b[162], \c[52286], \d[84]. <br>
       &= 81,
     \end{aligned}
   $$
-  since each successive layer has eight fewer objects.
+  since each successive layer has eight fewer objects,
+  with a single object in the centre of the bundle.
+
+  ||{.centred}
+    ![Diagram showing layers of 32, 24, 16, 8, and 1 objects outside-in, \
+      forming a 9 by 9 square grid with 81 objects altogether.]\
+      (square-grid-81-objects.svg)
+  ||
 
 * Under an optimistic reading of .至盡虛加一,
   we only add one if the remainder becomes zero.
   This covers the case where the total number of objects is even
-  (in which case the last remainder is $4$).
+  (in which case the last remainder is $4$,
+  and there is no object in the centre of the bundle).
 ==
 
 
