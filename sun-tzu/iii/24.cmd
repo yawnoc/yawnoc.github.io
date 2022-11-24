@@ -67,6 +67,14 @@ Chinese source text: \a[72], \b[162], \c[52286], \d[84]. <br>
   once around .[the] outer perimeter there being thirty-two .[objects].
   .[We] ask, how much .[be the] area?
 >>
+=={.translation-annotations}
+* .匝： around
+  --
+  .匝、子答切、 \C tsaap8, \M z(a-)
+  --
+
+* .積： area; \or accumulation
+==
 
 <<
   答曰、八十一枚。
@@ -83,6 +91,28 @@ Chinese source text: \a[72], \b[162], \c[52286], \d[84]. <br>
   unto .[its being] exhausted hollow .[then] adding one,
   .[we] are done.
 >>
+=={.translation-annotations}
+* \b[162] has .左位 for .上位 and .右位 for .下位.
+
+* In modern notation, the total number of objects is
+  $$
+    \begin{aligned}
+      & \phantom{+} 32 \\
+      & + (32 - 8) \\
+      & + (32 - 2 \times 8) \\
+      & + (32 - 3 \times 8) \\
+      & + (32 - 4 \times 8) \\
+      & + 1 \\
+      &= 81,
+    \end{aligned}
+  $$
+  since each successive layer has eight fewer objects.
+
+* Under an optimistic reading of .至盡虛加一,
+  we only add one if the remainder becomes zero.
+  This covers the case where the total number of objects is even
+  (in which case the last remainder is $4$).
+==
 
 
 %%surrounds
