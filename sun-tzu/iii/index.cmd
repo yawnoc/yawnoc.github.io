@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~III of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2022-08-06
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-24
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -88,6 +88,7 @@ and the headings allocated are *not* part of the original text.
 - [\S21. Unit conversion~(2)](21)
 - [\S22. Unit conversion~(3)](22)
 - [\S23. Multiplication determining a total~(4)](23)
+- [\S24. Discrete area of a square grid of given perimeter](24)
 ::::
 
 ||{.marker}
