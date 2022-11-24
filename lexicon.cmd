@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-24
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1205,6 +1205,11 @@ See also: [北方]
 
 ### ⼕ (right-open-box) U+2F15
 
+3 [匝] U+531D
+==
+* around
+==
+
 
 ### ⼖ (hiding-enclosure) U+2F16
 
@@ -1511,7 +1516,8 @@ See also: [同式]
 
 5 [周] U+5468
 ==
-* cycle; circumference
+* cycle
+* circumference; perimeter
 ==
 
 5 [呼] U+547C
@@ -3432,6 +3438,11 @@ See also: [有餘]
 * rot
 ==
 
+3 [束] U+675F
+==
+* bundle
+==
+
 3 [来] U+6765
 ==
 * \var [來]
@@ -3460,6 +3471,11 @@ See also: [有餘]
 4 [林] U+6797
 ==
 * forest
+==
+
+4 [枚] U+679A
+==
+* [:classifier:]
 ==
 
 4 [果] U+679C
@@ -5525,6 +5541,11 @@ See also: [自相]
 2 [虎] U+864E
 ==
 * tiger
+==
+
+6 [虛] U+865B
+==
+* hollow
 ==
 
 7 [號] U+865F

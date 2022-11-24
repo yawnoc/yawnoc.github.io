@@ -63,16 +63,25 @@ Chinese source text: \a[72], \b[162], \c[52286], \d[84]. <br>
 <<
   今有方物一束、外周一匝有三十二枚。問積幾何。
 \\
+  Suppose there be square objects .[in] one bundle,
+  once around .[the] outer perimeter there being thirty-two .[objects].
+  .[We] ask, how much .[be the] area?
 >>
 
 <<
   答曰、八十一枚。
 \\
+  Answer saith: eighty-one .[objects].
 >>
 
 <<
   術曰、重置二位。上位減八、餘加下位、至盡虛加一、即得。
 \\
+  Method saith: put layered two places.
+  Subtracting eight of .[the] upper place,
+  .[and] adding .[the] remainder to .[the] lower place,
+  unto .[its being] exhausted hollow .[then] adding one,
+  .[we] are done.
 >>
 
 
