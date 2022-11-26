@@ -4648,6 +4648,11 @@ See also: [長短]
 
 ### ⽱ (track) U+2F71
 
+8 [禽] U+79BD
+==
+* fowl
+==
+
 8 [萬] U+842C
 ==
 * myriad
