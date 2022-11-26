@@ -59,6 +59,40 @@ Chinese source text: \a[74], \b[162], \c[52295], \d[87]. <br>
 %%version-d-default
 --
 
+<<
+  今有獸六首四足、禽四首二足。上有七十六首、下有四十六足。
+\\
+>>
+
+<<
+  問禽獸各幾何。
+\\
+>>
+=={.translation-annotations}
+* \c[52295] erroneously has .篱 for .禽.
+==
+
+<<
+  答曰、八獸、七禽。
+\\
+>>
+
+<<
+  術曰、倍足以減首、餘、半之、即獸。
+\\
+>>
+=={.translation-annotations}
+* \c[52295] erroneously has .之即禽 before .即獸.
+==
+
+<<
+  以四乘獸、減足、餘、半之、即禽。
+\\
+>>
+=={.translation-annotations}
+* \c[52295] is erroneously missing .之即禽.
+==
+
 
 %%surrounds
 
