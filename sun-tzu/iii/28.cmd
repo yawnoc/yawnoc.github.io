@@ -63,41 +63,67 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 <<
   今有甲乙二人持錢、各不知數。
 \\
+  Suppose there be two people A .[and] B holding coins,
+  each of .[which we] know not .[the] number of.
 >>
 
 <<
   甲得乙中半、可滿四十八、乙得甲太半、亦滿四十八。
 \\
+  A getting B's half, indeed reacheth forty-eight;
+  B getting A's two thirds, also reacheth forty-eight.
 >>
+=={.translation-annotations}
+* .中半： half; \lit middle half
+
+* .可： indeed; \lit can
+
+* .太半： two thirds; \lit grand half
+==
 
 <<
   問甲乙二人元持錢各幾何。
 \\
+  .[We] ask, how many coins each held .[the] two people A .[and] B originally?
 >>
 
 <<
   答曰、甲持錢三十六、乙持錢二十四。
 \\
+  Answer saith: A held coins thirty-six; B held coins twenty-four.
 >>
 
 <<
   術曰、如方程求之。
 \\
+  Method saith: seek them according unto the rectangular system.
 >>
 
 <<
   置二甲一乙錢九十六於右方、置二甲三乙錢一百四十四於左方。
 \\
+  Put two~A, one~B, .[and] coins ninety-six
+  upon .[the] right,
+  .[and] put two~A, three~B, .[and] coins one hundred .[and] forty-four
+  upon .[the] left.
 >>
 
 <<
   以右方二乘左方、上得四、中得六、下得二百八十八錢。
 \\
+  Multiplying .[the] left by .[the] right's two:
+  above .[there] resulteth four,
+  .[in the] middle .[there] resulteth six,
+  .[and] below .[there] resulteth two hundred .[and] eighty-eight coins.
 >>
 
 <<
   以左方二乘右方、上得四、中得二、下得一百九十二。
 \\
+  Multiplying .[the] right by .[the] left's two:
+  above .[there] resulteth four,
+  .[in the] middle .[there] resulteth two,
+  .[and] below .[there] resulteth one hundred .[and] ninety-two.
 >>
 =={.translation-annotations}
 * \a[74] and \c[52298] are missing this sentence entirely.
@@ -108,21 +134,32 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 <<
   以右行再減左行、左上空、中餘四乙為法、下餘九十六錢為實。
 \\
+  Again subtracting of .[the] left column by .[the] right column:
+  .[the] upper left .[becometh] empty,
+  .[in the] middle .[there] remaineth four~B as .[the] divisor,
+  .[and] below .[there] remaineth ninety-six coins as .[the] dividend.
 >>
 
 <<
   上法下實、得二十四錢為乙錢。
 \\
+  .[The] upper divisor .[and the] lower dividend,
+  result in twenty-four coins as B's coins.
 >>
 
 <<
   以減右下九十六、餘七十二為實、以右上二甲為法。
 \\
+  With .[which], subtracting of .[the] lower right's ninety-six,
+  .[there] remaineth seventy-two as .[the] dividend;
+  .[and] use .[the] upper right's two~A as .[the] divisor.
 >>
 
 <<
   上法下實、得三十六為甲錢也。
 \\
+  .[The] upper divisor .[and the] lower dividend,
+  result in thirty-six as A's coins.
 >>
 
 

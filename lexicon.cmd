@@ -331,6 +331,9 @@ See also: [逝世]
 ==
 * 中央： .[the] centre
 ==
+--
+See also: [中半]
+--
 [去聲]
 ==
 * hit {:a target:}
@@ -1248,6 +1251,10 @@ See also: [北方]
 ==
 * half
 ==
+==
+* 中半： half
+* 太半： two thirds
+==
 
 7 [南] U+5357
 ==
@@ -1428,7 +1435,7 @@ See also: [北方]
 
 2 [可] U+53EF
 ==
-* can
+* can; \met indeed
 * ought to
 ==
 ==
@@ -1780,7 +1787,7 @@ See also: [天生]
 * grand
 ==
 --
-See also: [太平]
+See also: [太半], [太平]
 --
 
 1 [夫] U+592B
@@ -4688,6 +4695,7 @@ See also: [長短]
 
 7 [程] U+7A0B
 ==
+* system
 * measure; quota
 * journey
 ==
