@@ -4660,14 +4660,6 @@ See also: [長短]
 * fowl
 ==
 
-8 [萬] U+842C
-==
-* myriad
-==
-==
-* 百萬： million
-==
-
 
 ### ⽲ (grain) U+2F72
 
@@ -5502,6 +5494,14 @@ See also: [自相]
 [陽入]
 ==
 * contact; \met upon
+==
+
+9 [萬] U+842C
+==
+* myriad
+==
+==
+* 百萬： million
 ==
 
 9 [萹] U+8439
