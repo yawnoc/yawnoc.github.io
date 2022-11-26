@@ -91,6 +91,7 @@ and the headings allocated are *not* part of the original text.
 - [\S24. Discrete area of a square grid of given perimeter](24)
 - [\S25. Utilising similar triangles](25)
 - [\S26. Chinese remainder theorem](26)
+- [\S27. A system of linear equations~(3)](27)
 ::::
 
 ||{.marker}
