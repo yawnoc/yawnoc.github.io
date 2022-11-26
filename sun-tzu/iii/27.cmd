@@ -67,6 +67,9 @@ Chinese source text: \a[74], \b[162], \c[52295], \d[87]. <br>
   Above be there seventy-six heads;
   below be there forty-six feet.
 >>
+=={.translation-annotations}
+* \b[162] erroneously has .禽二首 for .禽四首.
+==
 
 <<
   問禽獸各幾何。
@@ -75,6 +78,15 @@ Chinese source text: \a[74], \b[162], \c[52295], \d[87]. <br>
 >>
 =={.translation-annotations}
 * \c[52295] erroneously has .篱 for .禽.
+
+* In modern notation, we have the system
+  $$
+    \begin{aligned}
+      6b + 4f &= 76 && \text{(heads)} \\
+      4b + 2f &= 46 && \text{(feet)}
+    \end{aligned}
+  $$
+  in $b$ the number of beasts and $f$ the number of fowls.
 ==
 
 <<
@@ -92,6 +104,15 @@ Chinese source text: \a[74], \b[162], \c[52295], \d[87]. <br>
 >>
 =={.translation-annotations}
 * \c[52295] erroneously has .之即禽 before .即獸.
+
+* In modern notation,
+  $$
+    \begin{aligned}
+      \frac{2 (4b + 2f) - (6b + 4f)}{2} &= \frac{2 \times 46 - 76}{2}
+        \\[\tallspace]
+      b &= 8.
+    \end{aligned}
+  $$
 ==
 
 <<
@@ -102,6 +123,11 @@ Chinese source text: \a[74], \b[162], \c[52295], \d[87]. <br>
 >>
 =={.translation-annotations}
 * \c[52295] is erroneously missing .之即禽.
+
+* In modern notation, the feet equation rearranges to give
+  $$
+    f = \frac{46 - 4b}{2} = \frac{46 - 4 \times 8}{2} = 7.
+  $$
 ==
 
 
