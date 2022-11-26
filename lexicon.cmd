@@ -1089,6 +1089,11 @@ See also: [以來]
 * subsidiary
 ==
 
+10 [剩] U+5269
+==
+* remain
+==
+
 
 ### ⼒ (power) U+2F12
 
@@ -6037,6 +6042,11 @@ See also: [平行]
 9 [賴] U+8CF4
 ==
 * depend upon
+==
+
+10 [賸] U+8CF8
+==
+* \int [剩]
 ==
 
 11 [賾] U+8CFE
