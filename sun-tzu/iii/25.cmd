@@ -51,6 +51,18 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 This section gives a word problem where similarity of triangles is used
 to determine an unknown length.
 --
+--
+The relevant unit conversions for length are
+--
+$$
+  \begin{aligned}
+    1 \unit{rod~(丈)} &= 10 \unit{rules~(尺)} \\
+    1 \unit{rule~(尺)} &= 10 \unit{inches~(寸)}.
+  \end{aligned}
+$$
+--
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
+--
 
 
 ##{#translation} Translation
@@ -97,12 +109,65 @@ Chinese source text: \a[72], \b[162], \c[52289], \d[85]. <br>
   .[and] decupling it upward,
   resulteth in twenty-two rods .[and] five rules.
 >>
+=={.translation-annotations}
+* .二十二丈五尺： twenty-two rods .[and] five rules
+  --
+  This quantity is actually an area.
+  Writing $s$ for shadow and $l$ for length, this area is
+  --
+  $$
+    \begin{aligned}
+      s(\text{pole}) \cdot l(\text{post})
+      &=
+        1.5 \unit{rods}
+          \times
+        1.5 \unit{rules}
+          \times
+        \frac{10 \unit{inches}}{\unit{rule}}
+          \\[\tallspace]
+      &=
+        22.5 \unit{rod} \unit{inches}.
+    \end{aligned}
+  $$
+  --
+  .上十之 "decupling it upward" is, in modern notation,
+  the multiplication by $10 \unit{inches} / {\unit{rule}}$,
+  which converts rules to inches.
+  --
+  --
+  The area needs to be in $\unit{rod} \unit{inches}$
+  because it is to be divided by the post's shadow,
+  which is given in inches.
+  But since Chinese mathematics had no notion of dimensional analysis,
+  $\unit{rod} \unit{inches}$ were simply referred to as $\unit{rods}$.
+  --
+==
 
 <<
   以表影五寸除之、即得。
 \\
   Dividing it by .[the] post's shadow five inches, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+      l(\text{pole})
+      &=
+        \frac{
+          s(\text{pole}) \cdot l(\text{post})
+        }{
+          s(\text{post})
+        }
+        \\[\tallspace]
+      &=
+        \frac{22.5 \unit{rod} \unit{inches}}{5 \unit{inches}}
+        \\[\tallspace]
+      &=
+        4.5 \unit{rods}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
