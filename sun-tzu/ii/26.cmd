@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S26"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S26
 * %date-created --> 2022-07-24
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-26
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -98,7 +98,7 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
 <<
   問三人元持錢各幾何。
 \\
-  .[We] ask, how many coins each carried .[the] three people originally?
+  .[We] ask, how many coins each held .[the] three people originally?
 >>
 =={.translation-annotations}
 * \b[158] has .若干 for .幾何.
