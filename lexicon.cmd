@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-11-24
+* %date-modified --> 2022-11-26
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -2498,6 +2498,11 @@ See also: [參差]
 * brilliance
 ==
 
+12 [影] U+5F71
+==
+* shadow
+==
+
 
 ### ⼻ (step) U+2F3B
 
@@ -4831,6 +4836,11 @@ See also: [長短]
 3 [竽] U+7AFD
 ==
 * (y(u")|竽) {:free reed instrument:}
+==
+
+3 [竿] U+7AFF
+==
+* (bamboo-)pole
 ==
 
 4 [笑] U+7B11

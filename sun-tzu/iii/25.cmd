@@ -61,28 +61,47 @@ Chinese source text: \a[72], \b[162], \c[52289], \d[85]. <br>
 --
 
 <<
-  今有竿不知長短、度其影、得一丈五尺。別立一表、長一尺五寸、影得五寸。
+  今有竿不知長短。度其影、得一丈五尺。別立一表、長一尺五寸、影得五寸。
 \\
+  Suppose there be .[a] pole .[we] know not .[the] length of.
+  Measuring its shadow, resulteth in one rod .[and] five rules.
+  Separately erecting one post, of length one rule .[and] five inches,
+  .[its] shadow resulteth in five inches.
 >>
+=={.translation-annotations}
+* .度： measuring
+  --
+  .度、入聲、 \C tok9, \M du(o\) (\gr du(o/))
+  --
+
+* .表： post; \or pillar
+==
 
 <<
   問竿長幾何。
 \\
+  .[We] ask, how much .[be the] pole's length?
 >>
 
 <<
   答曰、四丈五尺。
 \\
+  Answer saith: four rods .[and] five rules.
 >>
 
 <<
   術曰、置竿影一丈五尺、以表長一尺五寸乘之、上十之、得二十二丈五尺。
 \\
+  Method saith: put .[down the] pole's shadow one rod .[and] five rules;
+  multiplying it by .[the] post's length one rule .[and] five inches,
+  .[and] decupling it upward,
+  resulteth in twenty-two rods .[and] five rules.
 >>
 
 <<
   以表影五寸除之、即得。
 \\
+  Dividing it by .[the] post's shadow five inches, .[we] are done.
 >>
 
 
