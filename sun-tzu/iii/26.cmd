@@ -60,12 +60,19 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
 --
 
 <<
-  今有物不知其數。三三數之賸二、五五數之賸三、七七數之賸二。問物幾何。
+  今有物不知其數。\
+  ::{.colour-b}三三數之::::{.colour-r}賸二::、\
+  ::{.colour-b}五五數之::::{.colour-r}賸三::、\
+  ::{.colour-b}七七數之::::{.colour-r}賸二::。\
+  問物幾何。
 \\
   Suppose there be objects .[we] know not .[the] number thereof.
-  Numbering them three .[by] three .[there] remain two;
-  numbering them five .[by] five .[there] remain three;
-  numbering them seven .[by] seven .[there] remain two.
+  ::{.colour-b} Numbering them three .[by] three::
+    ::{.colour-r} .[there] remain two::;
+  ::{.colour-b} numbering them five .[by] five::
+    ::{.colour-r} .[there] remain three::;
+  ::{.colour-b} numbering them seven .[by] seven::
+    ::{.colour-r} .[there] remain two::.
   .[We] ask, how many .[be the] objects?
 >>
 =={.translation-annotations}
@@ -77,9 +84,9 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
 * In modern notation, we have the simultaneous congruences
   $$
     \begin{aligned}
-      x &\equiv 2 \pmod{3} \\
-      x &\equiv 3 \pmod{5} \\
-      x &\equiv 2 \pmod{7}
+      x &\equiv \colr{2} \colb{\pmod{3}} \\
+      x &\equiv \colr{3} \colb{\pmod{5}} \\
+      x &\equiv \colr{2} \colb{\pmod{7}}
     \end{aligned}
   $$
   in $x$ the number of objects.
@@ -92,14 +99,20 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
 >>
 
 <<
-  術曰、三三數之賸二、置一百四十、五五數之賸三、置六十三、七七數之賸二、置三十。
+  術曰、\
+    ::{.colour-b}三三數之::::{.colour-r}賸二::、置一百四十、\
+    ::{.colour-b}五五數之::::{.colour-r}賸三::、置六十三、\
+    ::{.colour-b}七七數之::::{.colour-r}賸二::、置三十。
 \\
   Method saith:
-  .[for the] numbering them three .[by] three .[there] remaining two,
+  .[for the] ::{.colour-b} numbering them three .[by] three::
+    ::{.colour-r} .[there] remaining two::,
     put .[down] one hundred .[and] forty;
-  .[for the] numbering them five .[by] five .[there] remaining three,
+  .[for the] ::{.colour-b} numbering them five .[by] five::
+    ::{.colour-r} .[there] remaining three::,
     put .[down] sixty-three;
-  .[for the] numbering them seven .[by] seven .[there] remaining two,
+  .[for the] ::{.colour-b} numbering them seven .[by] seven::
+    ::{.colour-r} .[there] remaining two::,
     put .[down] thirty.
 >>
 
@@ -116,15 +129,21 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
 >>
 
 <<
-  凡三三數之賸一、則置七十、五五數之賸一、則置二十一、七七數之賸一、則置十五。
+  凡\
+  ::{.colour-b}三三數之::::{.colour-g}賸一::、則置::{.colour-v}七十::、\
+  ::{.colour-b}五五數之::::{.colour-g}賸一::、則置::{.colour-v}二十一::、\
+  ::{.colour-b}七七數之::::{.colour-g}賸一::、則置::{.colour-v}十五::。
 \\
   .[For] every
-  numbering them three .[by] three .[there] remaining one,
-    put .[down] seventy;
-  numbering them five .[by] five .[there] remaining one,
-    put .[down] twenty-one;
-  numbering them seven .[by] seven .[there] remaining one,
-    put .[down] fifteen.
+  ::{.colour-b} numbering them three .[by] three::
+    ::{.colour-g} .[there] remaining one::,
+    put .[down] ::{.colour-v} seventy::;
+  ::{.colour-b} numbering them five .[by] five::
+    ::{.colour-g} .[there] remaining one::,
+    put .[down] ::{.colour-v} twenty-one::;
+  ::{.colour-b} numbering them seven .[by] seven::
+    ::{.colour-g} .[there] remaining one::,
+    put .[down] ::{.colour-v} fifteen::.
 >>
 
 <<
@@ -138,30 +157,40 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
 * Under modern appraisal,
   the text does not present the Chinese remainder theorem
   in a particularly satisfactory manner;
-  the quantities $70$, $21$, and $15$ are offered up with no explanation.
+  the quantities $\colv{70}$, $\colv{21}$, and $\colv{15}$
+  are offered up with no explanation.
 
-* From modern number theory, since $3$, $5$, and $7$ are pairwise coprime,
-  the solution in $x$ is unique modulo $3 \times 5 \times 7 = 105$.
+* From modern number theory,
+  since $\colb{3}$, $\colb{5}$, and $\colb{7}$ are pairwise coprime,
+  the solution in $x$ is unique modulo $\colb{3 \times 5 \times 7} = 105$.
   Seeking integers $\nu_3$, $\nu_5$, and $\nu_7$ such that
   $$
     \begin{aligned}
-      \nu_3 \cdot 5 \cdot 7 &\equiv 1 \pmod{3} \\
-      \nu_5 \cdot 3 \cdot 7 &\equiv 1 \pmod{5} \\
-      \nu_7 \cdot 3 \cdot 5 &\equiv 1 \pmod{7},
+      \nu_3 \cdot 5 \cdot 7 &\equiv \colg{1} \colb{\pmod{3}} \\
+      \nu_5 \cdot 3 \cdot 7 &\equiv \colg{1} \colb{\pmod{5}} \\
+      \nu_7 \cdot 3 \cdot 5 &\equiv \colg{1} \colb{\pmod{7}},
     \end{aligned}
   $$
   we get
   $$
     \begin{aligned}
-      \nu_3 \cdot 5 \cdot 7 &= 70 \\
-      \nu_5 \cdot 3 \cdot 7 &= 21 \\
-      \nu_7 \cdot 3 \cdot 5 &= 15,
+      \nu_3 \cdot 5 \cdot 7 &= \colv{70} \\
+      \nu_5 \cdot 3 \cdot 7 &= \colv{21} \\
+      \nu_7 \cdot 3 \cdot 5 &= \colv{15},
     \end{aligned}
   $$
   and therefore
   $$
     \begin{aligned}
-    x &\equiv 2 (70) + 3 (21) + 2 (15) \\
+    x
+      &\equiv
+        \colr{2} (\colv{70})
+          +
+        \colr{3} (\colv{21})
+          +
+        \colr{2} (\colv{15})
+          \\
+      &= 140 + 63 + 30 \\
       &= 233 \\
       &\equiv 23 \pmod{105}.
     \end{aligned}
