@@ -48,7 +48,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 --
-This section gives a word problem where similarity of triangles is used
+This section gives a word problem where similar triangles are used
 to determine an unknown length.
 --
 --
