@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷下》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
-  \S28. Row reduction
+  \S28. Gaussian elimination
 
 %%noscript-equations
 
@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 --
 This section gives a worked example of solving a system of linear equations
-by row reduction (commonly called Gaussian elimination).
+by Gaussian elimination.
 --
 
 
@@ -86,6 +86,16 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 \\
   .[We] ask, how many coins each held .[the] two people A .[and] B originally?
 >>
+=={.translation-annotations}
+* In modern notation, we have the system
+  $$
+    \begin{aligned}
+      a + \frac{b}{2} &= 48 \\[\tallspace]
+      b + \frac{2a}{3} &= 48
+    \end{aligned}
+  $$
+  in $a$ and $b$ the number of coins held by each person.
+==
 
 <<
   答曰、甲持錢三十六、乙持錢二十四。
@@ -98,6 +108,13 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 \\
   Method saith: seek them according unto the rectangular system.
 >>
+=={.translation-annotations}
+* .方程： rectangular system
+  --
+  This is the classical name for Gaussian elimination;
+  today it is the term used to translate English "equation".
+  --
+==
 
 <<
   置二甲一乙錢九十六於右方、置二甲三乙錢一百四十四於左方。
@@ -107,6 +124,29 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[and] put two~A, three~B, .[and] coins one hundred .[and] forty-four
   upon .[the] left.
 >>
+=={.translation-annotations}
+* Unwritten in the text is the doubling and tripling of the two equations
+  to obtain a system with integer coefficients,
+  $$
+    \begin{aligned}
+      2a + 1b &= 96 \\
+      2a + 3b &= 144.
+    \end{aligned}
+  $$
+  Classical Chinese is written top-to-bottom, right-to-left,
+  so the Gaussian elimination actually has the equations laid out in columns
+  (with elementary *column* operations rather than *row* operations):
+  $$
+    \begin{matrix}
+      2a & 2a \\
+      3b & 1b \\
+      \hline
+      144 & 96.
+    \end{matrix}
+  $$
+  While it is modern practice to include only the coefficients,
+  I have retained $a$ and $b$ in the augmented matrix for readability.
+==
 
 <<
   以右方二乘左方、上得四、中得六、下得二百八十八錢。
@@ -116,6 +156,21 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[in the] middle .[there] resulteth six,
   .[and] below .[there] resulteth two hundred .[and] eighty-eight coins.
 >>
+=={.translation-annotations}
+* In modern notation, double the left column to get
+  $$
+    \begin{matrix}
+      4a & 2a \\
+      6b & 1b \\
+      \hline
+      288 & 96.
+    \end{matrix}
+  $$
+  This step and the next are redundant,
+  as both equations already had the same coefficient for $a$.
+  Nevertheless, it demonstrates that it was known
+  how to deal with the case of unequal coefficients.
+==
 
 <<
   以左方二乘右方、上得四、中得二、下得一百九十二。
@@ -129,6 +184,16 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 * \a[74] and \c[52298] are missing this sentence entirely.
 
 * \b[162] erroneously has .九十六 for .一百九十二.
+
+* In modern notation, double the right column to get
+  $$
+    \begin{matrix}
+      4a & 4a \\
+      6b & 2b \\
+      \hline
+      288 & 192.
+    \end{matrix}
+  $$
 ==
 
 <<
@@ -139,6 +204,17 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[in the] middle .[there] remaineth four~B as .[the] divisor,
   .[and] below .[there] remaineth ninety-six coins as .[the] dividend.
 >>
+=={.translation-annotations}
+* In modern notation, this gives
+  $$
+    \begin{matrix}
+         & 4a \\
+      4b & 2b \\
+      \hline
+      96 & 192.
+    \end{matrix}
+  $$
+==
 
 <<
   上法下實、得二十四錢為乙錢。
@@ -146,6 +222,17 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[The] upper divisor .[and the] lower dividend,
   result in twenty-four coins as B's coins.
 >>
+=={.translation-annotations}
+* In modern notation, divide the left column by $4$ to get
+  $$
+    \begin{matrix}
+         & 4a \\
+      1b & 2b \\
+      \hline
+      24 & 192.
+    \end{matrix}
+  $$
+==
 
 <<
   以減右下九十六、餘七十二為實、以右上二甲為法。
@@ -154,6 +241,26 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[there] remaineth seventy-two as .[the] dividend;
   .[and] use .[the] upper right's two~A as .[the] divisor.
 >>
+=={.translation-annotations}
+* Here the text reverts the right column to before it was doubled,
+  $$
+    \begin{matrix}
+         & 2a \\
+      1b & 1b \\
+      \hline
+      24 & 96,
+    \end{matrix}
+  $$
+  then does the subtraction to obtain
+  $$
+    \begin{matrix}
+         & 2a \\
+      1b &    \\
+      \hline
+      24 & 72.
+    \end{matrix}
+  $$
+==
 
 <<
   上法下實、得三十六為甲錢也。
@@ -161,6 +268,17 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[The] upper divisor .[and the] lower dividend,
   result in thirty-six as A's coins.
 >>
+=={.translation-annotations}
+* In modern notation, divide the right column by $2$ to get
+  $$
+    \begin{matrix}
+         & 1a \\
+      1b &    \\
+      \hline
+      24 & 36.
+    \end{matrix}
+  $$
+==
 
 
 %%surrounds
