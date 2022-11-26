@@ -90,6 +90,7 @@ and the headings allocated are *not* part of the original text.
 - [\S23. Multiplication determining a total~(4)](23)
 - [\S24. Discrete area of a square grid of given perimeter](24)
 - [\S25. Utilising similar triangles](25)
+- [\S26. Chinese remainder theorem](26)
 ::::
 
 ||{.marker}
