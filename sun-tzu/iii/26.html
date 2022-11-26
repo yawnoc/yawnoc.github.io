@@ -89,6 +89,16 @@ numbering them seven <span class="translator-supplied">[by]</span> seven <span c
 <span lang="zh-Hant">數、上聲、</span> <a href="/cantonese/conway-romanisation" title="Conway's Romanisation for Cantonese">Cantonese</a>: shou2 (<a href="/cantonese/conway-romanisation#ts-vs-ch">post-merger</a>: sou2), Mandarin: shǔ
 </p>
 </li>
+<li>
+In modern notation, we have the simultaneous congruences
+<div class="js-maths">\begin{aligned}
+  x &amp;\equiv 2 \pmod{3} \\
+  x &amp;\equiv 3 \pmod{5} \\
+  x &amp;\equiv 2 \pmod{7}
+\end{aligned}
+</div>
+in <span class="js-maths">x</span> the number of objects.
+</li>
 </ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
@@ -152,6 +162,39 @@ subtracting of it by one hundred <span class="translator-supplied">[and]</span> 
 <span class="translator-supplied">[we]</span> are done.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+Under modern appraisal,
+the text does not present the Chinese remainder theorem
+in a particularly satisfactory manner;
+the quantities <span class="js-maths">70</span>, <span class="js-maths">21</span>, and <span class="js-maths">15</span> are offered up with no explanation.
+</li>
+<li>
+From modern number theory, since <span class="js-maths">3</span>, <span class="js-maths">5</span>, and <span class="js-maths">7</span> are pairwise coprime,
+the solution in <span class="js-maths">x</span> is unique modulo <span class="js-maths">3 \times 5 \times 7 = 105</span>.
+Seeking integers <span class="js-maths">\nu_3</span>, <span class="js-maths">\nu_5</span>, and <span class="js-maths">\nu_7</span> such that
+<div class="js-maths">\begin{aligned}
+  \nu_3 \cdot 5 \cdot 7 &amp;\equiv 1 \pmod{3} \\
+  \nu_5 \cdot 3 \cdot 7 &amp;\equiv 1 \pmod{5} \\
+  \nu_7 \cdot 3 \cdot 5 &amp;\equiv 1 \pmod{7},
+\end{aligned}
+</div>
+we get
+<div class="js-maths">\begin{aligned}
+  \nu_3 \cdot 5 \cdot 7 &amp;= 70 \\
+  \nu_5 \cdot 3 \cdot 7 &amp;= 21 \\
+  \nu_7 \cdot 3 \cdot 5 &amp;= 15,
+\end{aligned}
+</div>
+and therefore
+<div class="js-maths">\begin{aligned}
+x &amp;\equiv 2 (70) + 3 (21) + 2 (15) \\
+  &amp;= 233 \\
+  &amp;\equiv 23 \pmod{105}.
+\end{aligned}
+</div>
+</li>
+</ul>
 <nav class="surrounds">
 <div class="surrounds-up">
 <a href="./">↑ Volume III</a>

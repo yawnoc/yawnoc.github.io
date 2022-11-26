@@ -73,6 +73,16 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
   --
   .數、上聲、 \C shou2 (\pm sou2), \M sh(uv)
   --
+
+* In modern notation, we have the simultaneous congruences
+  $$
+    \begin{aligned}
+      x &\equiv 2 \pmod{3} \\
+      x &\equiv 3 \pmod{5} \\
+      x &\equiv 2 \pmod{7}
+    \end{aligned}
+  $$
+  in $x$ the number of objects.
 ==
 
 <<
@@ -124,6 +134,39 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
   subtracting of it by one hundred .[and] five,
   .[we] are done.
 >>
+=={.translation-annotations}
+* Under modern appraisal,
+  the text does not present the Chinese remainder theorem
+  in a particularly satisfactory manner;
+  the quantities $70$, $21$, and $15$ are offered up with no explanation.
+
+* From modern number theory, since $3$, $5$, and $7$ are pairwise coprime,
+  the solution in $x$ is unique modulo $3 \times 5 \times 7 = 105$.
+  Seeking integers $\nu_3$, $\nu_5$, and $\nu_7$ such that
+  $$
+    \begin{aligned}
+      \nu_3 \cdot 5 \cdot 7 &\equiv 1 \pmod{3} \\
+      \nu_5 \cdot 3 \cdot 7 &\equiv 1 \pmod{5} \\
+      \nu_7 \cdot 3 \cdot 5 &\equiv 1 \pmod{7},
+    \end{aligned}
+  $$
+  we get
+  $$
+    \begin{aligned}
+      \nu_3 \cdot 5 \cdot 7 &= 70 \\
+      \nu_5 \cdot 3 \cdot 7 &= 21 \\
+      \nu_7 \cdot 3 \cdot 5 &= 15,
+    \end{aligned}
+  $$
+  and therefore
+  $$
+    \begin{aligned}
+    x &\equiv 2 (70) + 3 (21) + 2 (15) \\
+      &= 233 \\
+      &\equiv 23 \pmod{105}.
+    \end{aligned}
+  $$
+==
 
 
 %%surrounds
