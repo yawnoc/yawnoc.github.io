@@ -118,6 +118,12 @@ Chinese source text: \a[76], \b[163], \c[52304], \d[89]. <br>
   Successively doubling it, doth result in
   .[the] number that .[the] mother's .[and] father's owners recompense.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \frac{(1, 2, 4) \times 1001}{1 + 2 + 4} = (143, 286, 572).
+  $$
+==
 
 
 %%surrounds
