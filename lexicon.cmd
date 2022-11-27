@@ -4943,6 +4943,11 @@ See also: [符驗]
 * register
 ==
 
+16 [籠] U+7C60
+==
+* cage
+==
+
 
 ### ⽶ (rice) U+2F76
 
@@ -6802,6 +6807,11 @@ See also: [鴻雁]
 4 [集] U+96C6
 ==
 * collect
+==
+
+5 [雉] U+96C9
+==
+* pheasant
 ==
 
 5 [雌] U+96CC
