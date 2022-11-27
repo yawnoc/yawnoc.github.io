@@ -51,6 +51,19 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 This section gives a word problem
 where division by a rate is used to determine an amount.
 --
+--
+The relevant unit conversions for length are
+--
+$$
+  \begin{aligned}
+    1 \unit{mile~(里)} &= 300 \unit{paces~(步)} \\
+    1 \unit{pace~(步)} &= 6 \unit{rules~(尺)} \\
+    1 \unit{rule~(尺)} &= 10 \unit{inches~(寸)}.
+  \end{aligned}
+$$
+--
+See [Vol.~I \S1 (Units of length)](/sun-tzu/i/1).
+--
 
 
 ##{#translation} Translation
@@ -81,6 +94,13 @@ Chinese source text: \a[80], \b[163], \c[52311], \d[92]. <br>
   multiplying it by three hundred paces,
   resulteth in two thousand seven hundred paces.
 >>
+=={.translation-annotations}
+* In modern notation, this is a conversion from miles to paces:
+  $$
+    9 \unit{miles} \times \frac{300 \unit{paces}}{\unit{mile}}
+    = 2700 \unit{paces}.
+  $$
+==
 
 <<
   又以六尺乘之、得一萬六千二百尺。
@@ -88,18 +108,39 @@ Chinese source text: \a[80], \b[163], \c[52311], \d[92]. <br>
   And multiplying it by six rules,
   resulteth in one myriad, six thousand .[and] two hundred rules.
 >>
+=={.translation-annotations}
+* Next we a conversion from paces to rules:
+  $$
+    2700 \unit{paces} \times \frac{6 \unit{rules}}{\unit{pace}}
+    = 16200 \unit{rules}.
+  $$
+==
 
 <<
   上十之、得一十六萬二千寸。
 \\
   Decupling it upward, resulteth in sixteen myriad .[and] two thousand inches.
 >>
+=={.translation-annotations}
+* Then we a conversion from rules to inches:
+  $$
+    16200 \unit{rules} \times \frac{10 \unit{inches}}{\unit{rule}}
+    = 162000 \unit{inches}.
+  $$
+==
 
 <<
   以魚三寸除之、即得。
 \\
   Dividing it by .[each] fish's three inches, .[we] are done.
 >>
+=={.translation-annotations}
+* Finally we have the division determining the number of fish:
+  $$
+    \frac{162000 \unit{inches}}{3 \unit{inches} / {\unit{fish}}}
+    = 54000 \unit{fish}.
+  $$
+==
 
 
 %%surrounds
