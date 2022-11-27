@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S23"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S23
 * %date-created --> 2022-07-17
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -125,7 +125,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
   resulteth in five myriad, two thousand, eight hundred .[and] twenty-four rules.
 >>
 =={.translation-annotations}
-* .內
+* .內： admitting
   --
   Used for .納.
   --
