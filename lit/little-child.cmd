@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-11-13
+* %date-modified --> 2022-11-27
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -639,7 +639,7 @@ I have edited the punctuation to not be bizarre.
   The fog ariseth from .[the] ground.
   Heaven .[and] Earth .[are] separated from each other,
   in excess of .[a] thousand thousand .[and a] myriad myriad miles.
-  East, west, south, .[and] north, all have adherence.
+  East, west, south, .[and] north, all have but .[an] adherence.
 >>
 =={.translation-annotations}
 * .蒼梧： (Ts'ang Wu|蒼梧)

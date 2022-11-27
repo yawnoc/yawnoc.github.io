@@ -2306,7 +2306,7 @@ See also: [參差]
 * [:speech-assist:]
 ==
 ==
-* 而已： only; is all
+* 而已： but {:only:}
 ==
 
 
