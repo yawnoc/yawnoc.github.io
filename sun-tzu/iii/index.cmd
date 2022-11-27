@@ -94,6 +94,7 @@ and the headings allocated are *not* part of the original text.
 - [\S27. A system of linear equations~(3)](27)
 - [\S28. Gaussian elimination](28)
 - [\S29. Two-point method of false position~(3)](29)
+- [\S30. Weighted sharing~(3)](30)
 ::::
 
 ||{.marker}
