@@ -76,31 +76,44 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
 <<
   今有長安洛陽、相去九百里。
 \\
+  Suppose there be (Ch'ang-an|長安) .[and] (Lo-yang|洛陽),
+  separated from each other .[by] nine hundred miles.
 >>
 
 <<
   車輪一匝一丈八尺、欲自洛陽至長安。問輪匝幾何。
 \\
+  Once around .[a] chariot wheel .[be] one rod .[and] eight rules,
+  .[and we] wish to .[go] from (Lo-yang|洛陽) unto (Ch'ang-an|長安).
+  .[We] ask, how many .[times goeth the] wheel around?
 >>
 
 <<
   答曰、九萬匝。
 \\
+  Answer saith: nine myriad .[times] around.
 >>
 
 <<
   術曰、置九百里、以三百步乘之、得二十七萬步。
 \\
+  Method saith: put .[down the] nine hundred miles;
+  multiplying it by three hundred paces,
+  resulteth in twenty-seven myriad paces.
 >>
 
 <<
   又以六尺乘之、得一百六十二萬尺。
 \\
+  And multiplying it by six rules,
+  resulteth in one hundred .[and] sixty-two myriad rules.
 >>
 
 <<
   以車輪一丈八尺為法。除之、即得。
 \\
+  Use .[the] chariot wheel's one rod .[and] eight rules as .[the] divisor.
+  Dividing them, .[we] are done.
 >>
 
 
