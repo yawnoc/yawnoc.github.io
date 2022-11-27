@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S27"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S27
 * %date-created --> 2022-07-30
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
-  \S27. Weighted sharing
+  \S27. Weighted sharing~(2)
 
 %%noscript-equations
 
