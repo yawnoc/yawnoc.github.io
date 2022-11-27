@@ -7185,6 +7185,11 @@ See also: [鴻雁]
 
 ### ⿅ (deer) U+2FC5
 
+0 [鹿] U+9E7F
+==
+* deer
+==
+
 
 ### ⿆ (wheat) U+2FC6
 

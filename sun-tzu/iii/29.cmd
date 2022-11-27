@@ -63,21 +63,36 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 <<
   今有百鹿入城。家取一鹿、不盡、又三家共一鹿、適盡。問城中家幾何。
 \\
+  Suppose there be .[an] hundred deer entering .[a] city.
+  .[Each] family taking one deer, .[there be a] remainder;
+  .[each] three families together again .[taking] one deer,
+  just exhausteth .[them].
+  .[We] ask, how many .[be the] families admist [the] city?
 >>
+=={.translation-annotations}
+* .不盡： .[there be a] remainder; \lit exhausteth not
+==
 
 <<
   答曰、七十五家。
 \\
+  Answer saith: seventy-five families.
 >>
 
 <<
   術曰、以盈不足取之。
 \\
+  Method saith:
+  take it by .[the method of] the excess .[and] the not sufficient.
 >>
 
 <<
   假令七十二家、鹿盈四。令之九十家、鹿不足二十。
 \\
+  Supposing .[we] make .[there be] seventy-two families,
+  .[the] deer excess .[be] four.
+  Making them ninety families,
+  .[be the] deer twenty not sufficient.
 >>
 =={.translation-annotations}
 * \a[76] erroneously has .鹿盡四 for .鹿盈四.
@@ -87,11 +102,18 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 <<
   置七十二於右上、盈四於右下。置九十於左上、不足二十於左下。
 \\
+  Put seventy-two upon .[the] upper right,
+  .[and the] excess four upon .[the] lower right.
+  Put ninety upon .[the] upper left,
+  .[and the] twenty not sufficient upon .[the] lower left.
 >>
 
 <<
   維乘之、所得、并為實。并盈不足為法。
 \\
+  .[In] linkage multiply them; .[of] those which result,
+  combine .[them] as .[the] dividend.
+  Combine .[the] excess .[and the] not sufficient as .[the] divisor.
 >>
 =={.translation-annotations}
 * \a[76] and \c[52301] erroneously have .為維乘 for .維乘.
@@ -101,6 +123,7 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 <<
   除之、即得。
 \\
+  Dividing them, .[we] are done.
 >>
 
 
