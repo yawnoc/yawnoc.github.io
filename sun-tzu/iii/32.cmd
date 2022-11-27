@@ -63,31 +63,42 @@ Chinese source text: \a[80], \b[163], \c[52311], \d[92]. <br>
 <<
   今有九里渠、三寸魚、頭頭相次。問魚得幾何。
 \\
+  Suppose there be .[a] nine-mile canal,
+  .[and] three-inch fishes, head .[to] head next .[after] each other.
+  .[We] ask, how many fishes result?
 >>
 
 <<
   答曰、五萬四千。
 \\
+  Answer saith: five myriad .[and] four thousand.
 >>
 
 <<
   術曰、置九里、以三百步乘之、得二千七百步。
 \\
+  Method saith: put .[down the] nine miles;
+  multiplying it by three hundred paces,
+  resulteth in two thousand seven hundred paces.
 >>
 
 <<
   又以六尺乘之、得一萬六千二百尺。
 \\
+  And multiplying it by six rules,
+  resulteth in one myriad, six thousand .[and] two hundred rules.
 >>
 
 <<
   上十之、得一十六萬二千寸。
 \\
+  Decupling it upward, resulteth in sixteen myriad .[and] two thousand inches.
 >>
 
 <<
   以魚三寸除之、即得。
 \\
+  Dividing it by .[each] fish's three inches, .[we] are done.
 >>
 
 
