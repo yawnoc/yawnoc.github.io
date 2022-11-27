@@ -101,6 +101,13 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
   multiplying it by three hundred paces,
   resulteth in twenty-seven myriad paces.
 >>
+=={.translation-annotations}
+* In modern notation, this is a conversion from miles to paces:
+  $$
+    900 \unit{miles} \times \frac{300 \unit{paces}}{\unit{mile}}
+    = 270000 \unit{paces}.
+  $$
+==
 
 <<
   又以六尺乘之、得一百六十二萬尺。
@@ -108,6 +115,13 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
   And multiplying it by six rules,
   resulteth in one hundred .[and] sixty-two myriad rules.
 >>
+=={.translation-annotations}
+* Next we a conversion from paces to rules:
+  $$
+    270000 \unit{paces} \times \frac{6 \unit{rules}}{\unit{pace}}
+    = 1620000 \unit{rules}.
+  $$
+==
 
 <<
   以車輪一丈八尺為法。除之、即得。
@@ -115,6 +129,13 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
   Use .[the] chariot wheel's one rod .[and] eight rules as .[the] divisor.
   Dividing them, .[we] are done.
 >>
+=={.translation-annotations}
+* Finally we have the division determining the number of turns:
+  $$
+    \frac{1620000 \unit{rules}}{18 \unit{rules} / {\unit{turn}}}
+    = 90000 \unit{turns}.
+  $$
+==
 
 
 %%surrounds
