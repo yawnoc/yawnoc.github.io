@@ -77,8 +77,8 @@ Chinese source text: \a[70], \b[162], \c[52277], \d[82]. <br>
 \\
   Suppose there be brocade one length,
   worth coins one myriad .[and] eight thousand.
-  .[We] ask, how much .[be each] rod, .[each] rule, .[and each] inch
-  each worth?
+  .[We] ask, how much .[be] each of .[each] rod, .[each] rule, .[and each] inch
+  worth?
 >>
 
 <<
