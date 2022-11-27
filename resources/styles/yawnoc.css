@@ -409,6 +409,13 @@ h2 > .permalink {
 }
 
 
+.redisual-stroke-count {
+  display: inline-block;
+  min-width: 1.5em;
+  text-align: right;
+}
+
+
 .romanised-untranslated {
   text-decoration: underline 0.1em dotted;
 }
