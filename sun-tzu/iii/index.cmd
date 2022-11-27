@@ -98,6 +98,7 @@ and the headings allocated are *not* part of the original text.
 - [\S31. A system of linear equations~(4)](31)
 - [\S32. Division utilising a rate~(4)](32)
 - [\S33. Division utilising a rate~(5)](33)
+- [\S34. Powers of~9](34)
 ::::
 
 ||{.marker}
