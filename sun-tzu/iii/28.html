@@ -168,12 +168,14 @@ to obtain a system with integer coefficients,
 Classical Chinese is written top-to-bottom, right-to-left,
 so the Gaussian elimination actually has the equations laid out in columns
 (with elementary <em>column</em> operations rather than <em>row</em> operations):
-<div class="js-maths">\begin{matrix}
-  2a &amp; 2a \\
-  3b &amp; 1b \\
-  \hline
-  144 &amp; 96.
-\end{matrix}
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+    2a &amp; 2a \\
+    3b &amp; 1b \\
+    \hline
+    144 &amp; 96
+  \end{array}
+}.
 </div>
 While it is modern practice to include only the coefficients,
 I have retained <span class="js-maths">a</span> and <span class="js-maths">b</span> in the augmented matrix for readability.
@@ -193,12 +195,14 @@ above <span class="translator-supplied">[there]</span> resulteth four,
 <ul class="translation-annotations">
 <li>
 In modern notation, double the left column to get
-<div class="js-maths">\begin{matrix}
-  4a &amp; 2a \\
-  6b &amp; 1b \\
-  \hline
-  288 &amp; 96.
-\end{matrix}
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+    4a &amp; 2a \\
+    6b &amp; 1b \\
+    \hline
+    288 &amp; 96
+  \end{array}
+}.
 </div>
 This step and the next are redundant,
 as both equations already had the same coefficient for <span class="js-maths">a</span>.
@@ -226,12 +230,14 @@ above <span class="translator-supplied">[there]</span> resulteth four,
 </li>
 <li>
 In modern notation, double the right column to get
-<div class="js-maths">\begin{matrix}
-  4a &amp; 4a \\
-  6b &amp; 2b \\
-  \hline
-  288 &amp; 192.
-\end{matrix}
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+    4a &amp; 4a \\
+    6b &amp; 2b \\
+    \hline
+    288 &amp; 192
+  \end{array}
+}.
 </div>
 </li>
 </ul>
@@ -249,12 +255,14 @@ Again subtracting of <span class="translator-supplied">[the]</span> left column 
 <ul class="translation-annotations">
 <li>
 In modern notation, this gives
-<div class="js-maths">\begin{matrix}
-     &amp; 4a \\
-  4b &amp; 2b \\
-  \hline
-  96 &amp; 192.
-\end{matrix}
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+       &amp; 4a \\
+    4b &amp; 2b \\
+    \hline
+    96 &amp; 192
+  \end{array}
+}.
 </div>
 </li>
 </ul>
@@ -270,12 +278,14 @@ result in twenty-four coins as B's coins.
 <ul class="translation-annotations">
 <li>
 In modern notation, divide the left column by <span class="js-maths">4</span> to get
-<div class="js-maths">\begin{matrix}
-     &amp; 4a \\
-  1b &amp; 2b \\
-  \hline
-  24 &amp; 192.
-\end{matrix}
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+       &amp; 4a \\
+    1b &amp; 2b \\
+    \hline
+    24 &amp; 192
+  \end{array}
+}.
 </div>
 </li>
 </ul>
@@ -292,20 +302,24 @@ With <span class="translator-supplied">[which]</span>, subtracting of <span clas
 <ul class="translation-annotations">
 <li>
 Here the text reverts the right column to before it was doubled,
-<div class="js-maths">\begin{matrix}
-     &amp; 2a \\
-  1b &amp; 1b \\
-  \hline
-  24 &amp; 96,
-\end{matrix}
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+       &amp; 2a \\
+    1b &amp; 1b \\
+    \hline
+    24 &amp; 96
+  \end{array}
+},
 </div>
 then does the subtraction to obtain
-<div class="js-maths">\begin{matrix}
-     &amp; 2a \\
-  1b &amp;    \\
-  \hline
-  24 &amp; 72.
-\end{matrix}
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+       &amp; 2a \\
+    1b &amp;    \\
+    \hline
+    24 &amp; 72.
+  \end{array}
+}.
 </div>
 </li>
 </ul>
@@ -321,12 +335,14 @@ result in thirty-six as A's coins.
 <ul class="translation-annotations">
 <li>
 In modern notation, divide the right column by <span class="js-maths">2</span> to get
-<div class="js-maths">\begin{matrix}
-     &amp; 1a \\
-  1b &amp;    \\
-  \hline
-  24 &amp; 36.
-\end{matrix}
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+       &amp; 1a \\
+    1b &amp;    \\
+    \hline
+    24 &amp; 36
+  \end{array}
+}.
 </div>
 </li>
 </ul>

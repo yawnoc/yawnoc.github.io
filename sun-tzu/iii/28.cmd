@@ -137,12 +137,14 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   so the Gaussian elimination actually has the equations laid out in columns
   (with elementary *column* operations rather than *row* operations):
   $$
-    \begin{matrix}
-      2a & 2a \\
-      3b & 1b \\
-      \hline
-      144 & 96.
-    \end{matrix}
+    \roundbr{
+      \begin{array}{cc}
+        2a & 2a \\
+        3b & 1b \\
+        \hline
+        144 & 96
+      \end{array}
+    }.
   $$
   While it is modern practice to include only the coefficients,
   I have retained $a$ and $b$ in the augmented matrix for readability.
@@ -159,12 +161,14 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 =={.translation-annotations}
 * In modern notation, double the left column to get
   $$
-    \begin{matrix}
-      4a & 2a \\
-      6b & 1b \\
-      \hline
-      288 & 96.
-    \end{matrix}
+    \roundbr{
+      \begin{array}{cc}
+        4a & 2a \\
+        6b & 1b \\
+        \hline
+        288 & 96
+      \end{array}
+    }.
   $$
   This step and the next are redundant,
   as both equations already had the same coefficient for $a$.
@@ -187,12 +191,14 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 
 * In modern notation, double the right column to get
   $$
-    \begin{matrix}
-      4a & 4a \\
-      6b & 2b \\
-      \hline
-      288 & 192.
-    \end{matrix}
+    \roundbr{
+      \begin{array}{cc}
+        4a & 4a \\
+        6b & 2b \\
+        \hline
+        288 & 192
+      \end{array}
+    }.
   $$
 ==
 
@@ -207,12 +213,14 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 =={.translation-annotations}
 * In modern notation, this gives
   $$
-    \begin{matrix}
-         & 4a \\
-      4b & 2b \\
-      \hline
-      96 & 192.
-    \end{matrix}
+    \roundbr{
+      \begin{array}{cc}
+           & 4a \\
+        4b & 2b \\
+        \hline
+        96 & 192
+      \end{array}
+    }.
   $$
 ==
 
@@ -225,12 +233,14 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 =={.translation-annotations}
 * In modern notation, divide the left column by $4$ to get
   $$
-    \begin{matrix}
-         & 4a \\
-      1b & 2b \\
-      \hline
-      24 & 192.
-    \end{matrix}
+    \roundbr{
+      \begin{array}{cc}
+           & 4a \\
+        1b & 2b \\
+        \hline
+        24 & 192
+      \end{array}
+    }.
   $$
 ==
 
@@ -244,21 +254,25 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 =={.translation-annotations}
 * Here the text reverts the right column to before it was doubled,
   $$
-    \begin{matrix}
-         & 2a \\
-      1b & 1b \\
-      \hline
-      24 & 96,
-    \end{matrix}
+    \roundbr{
+      \begin{array}{cc}
+           & 2a \\
+        1b & 1b \\
+        \hline
+        24 & 96
+      \end{array}
+    },
   $$
   then does the subtraction to obtain
   $$
-    \begin{matrix}
-         & 2a \\
-      1b &    \\
-      \hline
-      24 & 72.
-    \end{matrix}
+    \roundbr{
+      \begin{array}{cc}
+           & 2a \\
+        1b &    \\
+        \hline
+        24 & 72.
+      \end{array}
+    }.
   $$
 ==
 
@@ -271,12 +285,14 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 =={.translation-annotations}
 * In modern notation, divide the right column by $2$ to get
   $$
-    \begin{matrix}
-         & 1a \\
-      1b &    \\
-      \hline
-      24 & 36.
-    \end{matrix}
+    \roundbr{
+      \begin{array}{cc}
+           & 1a \\
+        1b &    \\
+        \hline
+        24 & 36
+      \end{array}
+    }.
   $$
 ==
 
