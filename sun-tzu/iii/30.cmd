@@ -60,6 +60,38 @@ Chinese source text: \a[76], \b[163], \c[52304], \d[89]. <br>
 %%version-d-default
 --
 
+<<
+  今有三雞共啄粟一千一粒。雛啄一、母啄二、翁啄四、主責本粟。三雞主各償幾何。
+\\
+>>
+=={.translation-annotations}
+* \c[52304] erroneously has .母啄粟 for .母啄二.
+* \c[52304] is erroneously missing .翁啄四 and .主責本粟.
+==
+
+<<
+  答曰、雞雛主一百四十三、雞母主二百八十六、雞翁主五百七十二。
+\\
+>>
+=={.translation-annotations}
+* \c[52304] erroneously has .翁啄四 and .主責本 extra after this sentence.
+==
+
+<<
+  術曰、置粟一千一粒為實、副并三雞所啄粟七粒為法。
+\\
+>>
+
+<<
+  除之、得一百四十三粒、為雞雛主所償之數。
+\\
+>>
+
+<<
+  遞倍之、即得母翁主所償之數。
+\\
+>>
+
 
 %%surrounds
 
