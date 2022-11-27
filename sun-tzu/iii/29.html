@@ -87,6 +87,15 @@ just exhausteth <span class="translator-supplied">[them]</span>.
 <li>
 <span lang="zh-Hant">不盡：</span> <span class="translator-supplied">[there be a]</span> remainder; <span class="alternative-marker" title="literally">lit.</span> exhausteth not
 </li>
+<li>
+<a href="https://archive.org/details/02094034.cn/page/n76">Version A</a> erroneously has <span lang="zh-Hant">城下中</span> for <span lang="zh-Hant">城中</span>.
+</li>
+<li>
+In modern notation, we seek <span class="js-maths">x</span> the number of families
+such that
+<div class="js-maths">f(x) = x + \frac{x}{3} = 100.
+</div>
+</li>
 </ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
@@ -123,6 +132,37 @@ Making them ninety families,
 <li>
 <a href="https://commons.wikimedia.org/w/index.php?title=File%3A文淵閣四庫全書_0797冊.djvu&amp;page=163">Version B</a> and <a href="https://ctext.org/sunzi-suan-jing#n52301">Version C</a> erroneously have <span lang="zh-Hant">鹿不盡四</span> for <span lang="zh-Hant">鹿盈四</span>.
 </li>
+<li>
+In modern notation,
+for surplus input <span class="js-maths">X_\mathrm{s} = 72</span>
+and deficit input <span class="js-maths">X_\mathrm{d} = 90</span>,
+we have output surplus and deficit
+<div class="js-maths">\begin{aligned}
+  Y_\mathrm{s}
+    &amp;= 100 - f(X_\mathrm{s})
+    = 100 - \roundbr{72 + \frac{72}{3}}
+    = +4
+      \\[\tallspace]
+  -Y_\mathrm{d}
+    &amp;= 100 - f(X_\mathrm{d})
+    = 100 - \roundbr{90 + \frac{90}{3}}
+    = -20.
+\end{aligned}
+</div>
+Since <span class="js-maths">0 = 100 - f(x)</span>, and <span class="js-maths">f</span> is affine, we have
+<div class="js-maths">\frac{x - X_\mathrm{s}}{Y_\mathrm{s}}
+  =
+\frac{X_\mathrm{d} - x}{Y_\mathrm{d}}.
+</div>
+Therefore
+<div class="js-maths">x =
+  \frac{
+    X_\mathrm{d} Y_\mathrm{s} + X_\mathrm{s} Y_\mathrm{d}
+  }{
+    Y_\mathrm{s} + Y_\mathrm{d}
+  }.
+</div>
+</li>
 </ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
@@ -135,6 +175,23 @@ Put ninety upon <span class="translator-supplied">[the]</span> upper left,
 <span class="translator-supplied">[and the]</span> twenty not sufficient upon <span class="translator-supplied">[the]</span> lower left.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+In modern notation, the matrix
+<div class="js-maths">\begin{pmatrix}
+  X_\mathrm{d} &amp; X_\mathrm{s} \\
+  -Y_\mathrm{d} &amp; +Y_\mathrm{s}
+\end{pmatrix}
+  =
+\begin{pmatrix}
+  90 &amp; 72 \\
+  -20 &amp; +4
+\end{pmatrix}
+</div>
+has determinant <span class="js-maths">X_\mathrm{d} Y_\mathrm{s} + X_\mathrm{s} Y_\mathrm{d}</span>
+which is the numerator of the expression for <span class="js-maths">x</span>.
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 維乘之、所得、并為實。并盈不足為法。
@@ -161,6 +218,26 @@ Combine <span class="translator-supplied">[the]</span> excess <span class="trans
 Dividing them, <span class="translator-supplied">[we]</span> are done.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+In modern notation,
+<div class="js-maths">x =
+    \frac{
+      X_\mathrm{d} Y_\mathrm{s} + X_\mathrm{s} Y_\mathrm{d}
+    }{
+      Y_\mathrm{s} + Y_\mathrm{d}
+    }
+  =
+    \frac{
+      90 \times 4 + 72 \times 20
+    }{
+      4 + 20
+    }
+  =
+    75.
+</div>
+</li>
+</ul>
 <nav class="surrounds">
 <div class="surrounds-up">
 <a href="./">↑ Volume III</a>

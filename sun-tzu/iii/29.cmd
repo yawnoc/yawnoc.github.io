@@ -71,6 +71,14 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 >>
 =={.translation-annotations}
 * .不盡： .[there be a] remainder; \lit exhausteth not
+
+* \a[76] erroneously has .城下中 for .城中.
+
+* In modern notation, we seek $x$ the number of families
+  such that
+  $$
+    f(x) = x + \frac{x}{3} = 100.
+  $$
 ==
 
 <<
@@ -96,7 +104,41 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 >>
 =={.translation-annotations}
 * \a[76] erroneously has .鹿盡四 for .鹿盈四.
+
 * \b[163] and \c[52301] erroneously have .鹿不盡四 for .鹿盈四.
+
+* In modern notation,
+  for surplus input $X_\mathrm{s} = 72$
+  and deficit input $X_\mathrm{d} = 90$,
+  we have output surplus and deficit
+  $$
+    \begin{aligned}
+      Y_\mathrm{s}
+        &= 100 - f(X_\mathrm{s})
+        = 100 - \roundbr{72 + \frac{72}{3}}
+        = +4
+          \\[\tallspace]
+      -Y_\mathrm{d}
+        &= 100 - f(X_\mathrm{d})
+        = 100 - \roundbr{90 + \frac{90}{3}}
+        = -20.
+    \end{aligned}
+  $$
+  Since $0 = 100 - f(x)$, and $f$ is affine, we have
+  $$
+    \frac{x - X_\mathrm{s}}{Y_\mathrm{s}}
+      =
+    \frac{X_\mathrm{d} - x}{Y_\mathrm{d}}.
+  $$
+  Therefore
+  $$
+    x =
+      \frac{
+        X_\mathrm{d} Y_\mathrm{s} + X_\mathrm{s} Y_\mathrm{d}
+      }{
+        Y_\mathrm{s} + Y_\mathrm{d}
+      }.
+  $$
 ==
 
 <<
@@ -107,6 +149,22 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
   Put ninety upon .[the] upper left,
   .[and the] twenty not sufficient upon .[the] lower left.
 >>
+=={.translation-annotations}
+* In modern notation, the matrix
+  $$
+    \begin{pmatrix}
+      X_\mathrm{d} & X_\mathrm{s} \\
+      -Y_\mathrm{d} & +Y_\mathrm{s}
+    \end{pmatrix}
+      =
+    \begin{pmatrix}
+      90 & 72 \\
+      -20 & +4
+    \end{pmatrix}
+  $$
+  has determinant $X_\mathrm{d} Y_\mathrm{s} + X_\mathrm{s} Y_\mathrm{d}$
+  which is the numerator of the expression for $x$.
+==
 
 <<
   維乘之、所得、并為實。并盈不足為法。
@@ -125,6 +183,25 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 \\
   Dividing them, .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    x =
+        \frac{
+          X_\mathrm{d} Y_\mathrm{s} + X_\mathrm{s} Y_\mathrm{d}
+        }{
+          Y_\mathrm{s} + Y_\mathrm{d}
+        }
+      =
+        \frac{
+          90 \times 4 + 72 \times 20
+        }{
+          4 + 20
+        }
+      =
+        75.
+  $$
+==
 
 
 %%surrounds
