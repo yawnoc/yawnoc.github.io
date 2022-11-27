@@ -85,6 +85,15 @@ below be there ninety-four feet.
 <li>
 <a href="https://ctext.org/sunzi-suan-jing#n52307">Version C</a> is erroneously missing <span lang="zh-Hant">有</span> in <span lang="zh-Hant">下有</span>.
 </li>
+<li>
+In modern notation, we have the system
+<div class="js-maths">\begin{aligned}
+   p +  r &amp;= 35 &amp;&amp; \text{(heads)} \\
+  2p + 4r &amp;= 94 &amp;&amp; \text{(feet)}
+\end{aligned}
+</div>
+in <span class="js-maths">p</span> the number of pheasants and <span class="js-maths">r</span> the number of rabbits.
+</li>
 </ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
@@ -105,6 +114,27 @@ put above <span class="translator-supplied">[the]</span> thirty-five heads,
 Halving <span class="translator-supplied">[the]</span> feet, resulteth in forty-seven.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+In modern notation, we begin with the augmented matrix
+<div class="js-maths">\roundbr{
+  \begin{array}{cc|c}
+     p &amp;  r &amp; 35 \\
+    2p &amp; 4r &amp; 94
+  \end{array}
+},
+</div>
+where we have written <span class="js-maths">p</span> and <span class="js-maths">r</span> explicitly for readability.
+Upon halving the bottom row (for feet) we obtain
+<div class="js-maths">\roundbr{
+  \begin{array}{cc|c}
+    p &amp;  r &amp; 35 \\
+    p &amp; 2r &amp; 47
+  \end{array}
+}.
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 以少減多、再命之、
@@ -126,6 +156,28 @@ Subtracting of [the] greater by [the] lesser,
 <span class="translator-supplied">[we]</span> are done.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+The first subtraction <span class="js-maths">47 - 35 = 12</span> determines the number of rabbits:
+<div class="js-maths">\roundbr{
+  \begin{array}{cc|c}
+    p &amp; r &amp; 35 \\
+      &amp; r &amp; 12
+  \end{array}
+}.
+</div>
+</li>
+<li>
+The second subtraction <span class="js-maths">35 - 12 = 23</span> determines the number of pheasants:
+<div class="js-maths">\roundbr{
+  \begin{array}{cc|c}
+    p &amp;   &amp; 23 \\
+      &amp; r &amp; 12
+  \end{array}
+}.
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 又術曰、上置頭、下置足。半其足、以頭除足、以足除頭、即得。
@@ -139,6 +191,12 @@ removing from <span class="translator-supplied">[the]</span> feet by <span class
 <span class="translator-supplied">[we]</span> are done.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+This is a restatement of the above method,
+but without going into the details of the individual digits being subtracted.
+</li>
+</ul>
 <nav class="surrounds">
 <div class="surrounds-up">
 <a href="./">↑ Volume III</a>

@@ -69,6 +69,15 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
 >>
 =={.translation-annotations}
 * \c[52307] is erroneously missing .有 in .下有.
+
+* In modern notation, we have the system
+  $$
+    \begin{aligned}
+       p +  r &= 35 && \text{(heads)} \\
+      2p + 4r &= 94 && \text{(feet)}
+    \end{aligned}
+  $$
+  in $p$ the number of pheasants and $r$ the number of rabbits.
 ==
 
 <<
@@ -85,6 +94,27 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
   .[and] put below .[the] ninety-four feet.
   Halving .[the] feet, resulteth in forty-seven.
 >>
+=={.translation-annotations}
+* In modern notation, we begin with the augmented matrix
+  $$
+    \roundbr{
+      \begin{array}{cc|c}
+         p &  r & 35 \\
+        2p & 4r & 94
+      \end{array}
+    },
+  $$
+  where we have written $p$ and $r$ explicitly for readability.
+  Upon halving the bottom row (for feet) we obtain
+  $$
+    \roundbr{
+      \begin{array}{cc|c}
+        p &  r & 35 \\
+        p & 2r & 47
+      \end{array}
+    }.
+  $$
+==
 
 <<
   以少減多、再命之、
@@ -102,6 +132,27 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
   .[and for] there being two below removing two above:
   .[we] are done.
 >>
+=={.translation-annotations}
+* The first subtraction $47 - 35 = 12$ determines the number of rabbits:
+  $$
+    \roundbr{
+      \begin{array}{cc|c}
+        p & r & 35 \\
+          & r & 12
+      \end{array}
+    }.
+  $$
+
+* The second subtraction $35 - 12 = 23$ determines the number of pheasants:
+  $$
+    \roundbr{
+      \begin{array}{cc|c}
+        p &   & 23 \\
+          & r & 12
+      \end{array}
+    }.
+  $$
+==
 
 <<
   又術曰、上置頭、下置足。半其足、以頭除足、以足除頭、即得。
@@ -113,6 +164,10 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
   .[and] removing from .[the] heads by .[the] feet,
   .[we] are done.
 >>
+=={.translation-annotations}
+* This is a restatement of the above method,
+  but without going into the details of the individual digits being subtracted.
+==
 
 
 %%surrounds
