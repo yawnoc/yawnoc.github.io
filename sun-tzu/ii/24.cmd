@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 --
 This section gives a worked example of
-dividing a given quantity into weighted proportions.
+dividing a given quantity into weighted portions.
 --
 
 

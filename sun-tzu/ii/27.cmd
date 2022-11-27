@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 --
 This section gives a worked example of
-dividing a quantity into weighted portions.
+dividing a given quantity into weighted portions.
 --
 --
 The relevant unit conversion for length is
