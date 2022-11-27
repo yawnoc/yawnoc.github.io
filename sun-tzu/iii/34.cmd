@@ -62,11 +62,21 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
 <<
   今有出門望見九隄、隄有九木、木有九枝、枝有九巢、巢有九禽、禽有九雛、雛有九毛、毛有九色。
 \\
+  Suppose there be .[a] going out .[the] entrance,
+  looking .[and] seeing nine embankments,
+  .[each] embankment having nine trees,
+  .[each] tree having nine branches,
+  .[each] branch having nine nests,
+  .[each] nest having nine fowls,
+  .[each] fowl having nine chicks,
+  .[each] chick having nine feathers,
+  .[each] feather having nine colours.
 >>
 
 <<
   問各幾何。
 \\
+  .[We] ask, how many .[be] each?
 >>
 
 <<
@@ -79,41 +89,62 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
     毛四百七十八萬二千九百六十九、\
     色四千三百四萬六千七百二十一。
 \\
+  Answer saith:
+    .[the] trees eighty-one;
+    .[the] branches seven hundred .[and] twenty-nine;
+    .[the] nests six thousand, five hundred .[and] sixty-one;
+    .[the] fowls five myriad, nine thousand .[and] forty-nine;
+    .[the] chicks
+      fifty-three myriad, one thousand, four hundred .[and] forty-one;
+    .[the] feathers
+      four hundred .[and] seventy-eight myriad,
+      two thousand, nine hundred .[and] sixty-nine;
+    .[the] colours
+      four thousand, three hundred .[and] four myriad,
+      six thousand, seven hundred .[and] twenty-one.
 >>
 
 <<
   術曰、置九隄、以九乘之、得木之數。
 \\
+  Method saith: put .[down the] nine embankments;
+  multiplying it by nine, resulteth in .[the] number of trees.
 >>
 
 <<
   又以九乘之、得枝之數。
 \\
+  Again multiplying it by nine, resulteth in .[the] number of branches.
 >>
 
 <<
   又以九乘之、得巢之數。
 \\
+  Again multiplying it by nine, resulteth in .[the] number of nests.
 >>
 
 <<
   又以九乘之、得禽之數。
 \\
+  Again multiplying it by nine, resulteth in .[the] number of fowls.
 >>
 
 <<
   又以九乘之、得雛之數。
 \\
+  Again multiplying it by nine, resulteth in .[the] number of chicks.
 >>
 
 <<
   又以九乘之、得毛之敷。
 \\
+  Again multiplying it by nine, resulteth in .[the] number of feathers.
 >>
 
 <<
   又以九乘之、得色之數。
 \\
+  Again multiplying it by nine, resulteth in .[the] number of colours.
 >>
 
 

@@ -2252,6 +2252,11 @@ See also: [從容]
 * stream
 ==
 
+8 [巢] U+5DE2
+==
+* nest
+==
+
 
 ### ⼯ (work) U+2F2F
 
@@ -3762,6 +3767,11 @@ See also: [改正]
 
 
 ### ⽑ (fur) U+2F51
+
+0 [毛] U+6BDB
+==
+* hair; fur; feather
+==
 
 7 [毫] U+6BEB
 ==
