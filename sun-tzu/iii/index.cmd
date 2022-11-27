@@ -97,6 +97,7 @@ and the headings allocated are *not* part of the original text.
 - [\S30. Weighted sharing~(3)](30)
 - [\S31. A system of linear equations~(4)](31)
 - [\S32. Division utilising a rate~(4)](32)
+- [\S33. Division utilising a rate~(5)](33)
 ::::
 
 ||{.marker}
