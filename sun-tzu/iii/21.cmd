@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S21"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S21
 * %date-created --> 2022-11-20
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -107,6 +107,8 @@ Chinese source text: \a[70], \b[162], \c[52277], \d[82]. <br>
   resulteth in .[the] worth of .[each] rule .[and each] inch.
 >>
 =={.translation-annotations}
+* .再： again; \or twice
+
 * In modern notation,
   $$
     \begin{aligned}

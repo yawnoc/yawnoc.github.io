@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S19"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S19
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -301,7 +301,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 =={.translation-annotations}
 * \a[40] and \c[52186] are missing .方法 in .方法一退.
 
-* .再： twice; \lit again
+* .再： twice; \or again
 
 * In modern notation:
   $$
@@ -459,7 +459,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 =={.translation-annotations}
 * \a[40] erroneously has .一退方法 for .方法一退.
 
-* .再： twice; \lit again
+* .再： twice; \or again
 
 * .上從方法 from the previous sentence tells us that
   the incorrupt divisor~(.廉法 $s_2$) is to

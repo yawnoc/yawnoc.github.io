@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S20"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S20
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -161,7 +161,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
 =={.translation-annotations}
-* .再： twice; \lit again
+* .再： twice; \or again
 ==
 
 <<
@@ -207,7 +207,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
 =={.translation-annotations}
-* .再： twice; \lit again
+* .再： twice; \or again
 ==
 
 <<
