@@ -103,6 +103,20 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
       four thousand, three hundred .[and] four myriad,
       six thousand, seven hundred .[and] twenty-one.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \begin{aligned}
+      9^2 &= 81 && \text{(trees)} \\
+      9^3 &= 729 && \text{(branches)} \\
+      9^4 &= 6561 && \text{(nests)} \\
+      9^5 &= 59049 && \text{(fowls)} \\
+      9^6 &= 531441 && \text{(chicks)} \\
+      9^7 &= 4782969 && \text{(feathers)} \\
+      9^8 &= 43046721 && \text{(colours)}.
+    \end{aligned}
+  $$
+==
 
 <<
   術曰、置九隄、以九乘之、得木之數。
