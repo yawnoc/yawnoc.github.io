@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~III of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2022-08-06
-* %date-modified --> 2022-11-26
+* %date-modified --> 2022-11-27
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -93,6 +93,7 @@ and the headings allocated are *not* part of the original text.
 - [\S26. Chinese remainder theorem](26)
 - [\S27. A system of linear equations~(3)](27)
 - [\S28. Gaussian elimination](28)
+- [\S29. Two-point method of false position~(3)](29)
 ::::
 
 ||{.marker}
