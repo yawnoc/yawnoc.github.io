@@ -96,6 +96,7 @@ and the headings allocated are *not* part of the original text.
 - [\S29. Two-point method of false position~(3)](29)
 - [\S30. Weighted sharing~(3)](30)
 - [\S31. A system of linear equations~(4)](31)
+- [\S32. Division utilising a rate~(4)](32)
 ::::
 
 ||{.marker}
