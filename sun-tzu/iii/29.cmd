@@ -60,6 +60,49 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 %%version-d-default
 --
 
+<<
+  今有百鹿入城。家取一鹿、不盡、又三家共一鹿、適盡。問城中家幾何。
+\\
+>>
+
+<<
+  答曰、七十五家。
+\\
+>>
+
+<<
+  術曰、以盈不足取之。
+\\
+>>
+
+<<
+  假令七十二家、鹿盈四。令之九十家、鹿不足二十。
+\\
+>>
+=={.translation-annotations}
+* \a[76] erroneously has .鹿盡四 for .鹿盈四.
+* \b[163] and \c[52301] erroneously have .鹿不盡四 for .鹿盈四.
+==
+
+<<
+  置七十二於右上、盈四於右下。置九十於左上、不足二十於左下。
+\\
+>>
+
+<<
+  維乘之、所得、并為實。并盈不足為法。
+\\
+>>
+=={.translation-annotations}
+* \a[76] and \c[52301] erroneously have .為維乘 for .維乘.
+* \c[52301] erroneously has .凹 after .維乘之.
+==
+
+<<
+  除之、即得。
+\\
+>>
+
 
 %%surrounds
 
