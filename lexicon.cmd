@@ -353,7 +353,7 @@ See also: [中半]
 4 [主] U+4E3B
 ==
 * main
-* host; lord
+* host; lord; owner
 * govern
 ==
 
@@ -794,6 +794,11 @@ See also: [以來]
 * commentary
 ==
 
+11 [債] U+50B5
+==
+* debt
+==
+
 12 [僦] U+50E6
 ==
 * rent
@@ -813,6 +818,11 @@ See also: [以來]
 14 [儒] U+5112
 ==
 * scholar; Confucian
+==
+
+15 [償] U+511F
+==
+* recompense
 ==
 
 
@@ -1552,6 +1562,11 @@ See also: [同式]
 6 [哉] U+54C9
 ==
 * [:speech-assist:]
+==
+
+8 [啄] U+5544
+==
+* peck
 ==
 
 8 [商] U+5546
@@ -4939,6 +4954,11 @@ See also: [符驗]
 See also: [御米]
 --
 
+5 [粒] U+7C92
+==
+* [:classifier:] granule
+==
+
 6 [粟] U+7C9F
 ==
 * grain
@@ -5186,6 +5206,11 @@ See also: [御米]
 
 
 ### ⽻ (feather) U+2F7B
+
+4 [翁] U+7FC1
+==
+* old-man; \met father
+==
 
 9 [翩] U+7FE9
 ==
@@ -6018,6 +6043,7 @@ See also: [平行]
 * rebuke
 * blame
 * responsibility
+* \int [債]
 ==
 
 5 [貴] U+8CB4
@@ -6365,7 +6391,7 @@ See also: [遠近]
 
 10 [遞] U+905E
 ==
-* (take) turns
+* (take) turns; successively
 * deliver
 * by degrees
 ==
@@ -6786,6 +6812,16 @@ See also: [鴻雁]
 9 [雖] U+96D6
 ==
 * although
+==
+
+10 [雛] U+96DB
+==
+* chick
+==
+
+10 [雞] U+96DE
+==
+* chicken
 ==
 
 11 [難] U+96E3
