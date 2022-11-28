@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S4"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S4
 * %date-created --> 2022-08-13
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-28
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -66,7 +66,7 @@ Chinese source text: \a[58], \b[159], \c[52226], \d[71]. <br>
   Suppose there be .[a] Buddhist book,
   totalling twenty-nine chapters,
   .[each] chapter sixty-three characters.
-  .[We] ask, how many characters .[be there]?
+  .[We] ask, how many .[be the] characters?
 >>
 
 <<

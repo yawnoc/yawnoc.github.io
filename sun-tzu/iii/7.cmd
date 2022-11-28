@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S7"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S7
 * %date-created --> 2022-08-14
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-28
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -66,7 +66,7 @@ Chinese source text: \a[60], \b[160], \c[52235], \d[73]. <br>
   Suppose there be males
   nine myriad, eight thousand, seven hundred .[and] sixty-six,
   .[and] every twenty-five males .[we] send forth one soldier.
-  .[We] ask, how many soldiers .[be there]?
+  .[We] ask, how many .[be the] soldiers?
 >>
 
 <<

@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S12"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S12
 * %date-created --> 2022-11-10
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-28
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -77,7 +77,7 @@ Chinese source text: \a[64], \b[160], \c[52250], \d[76]. <br>
   Suppose there be grain
   two thousand, three hundred .[and] seventy-four barrels,
   .[and for each] barrel .[we] add three quarts.
-  .[We] ask, how much grain .[be there] altogether?
+  .[We] ask, how much .[be the] grain altogether?
 >>
 
 <<

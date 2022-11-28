@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S3"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S3
 * %date-created --> 2022-08-07
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-28
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -85,7 +85,7 @@ Chinese source text: \a[58], \b[159], \c[52223], \d[70]. <br>
   Suppose there be gathered grain .[on] level ground,
   of lower circumference three rods .[and] six rules,
   .[and] height four rules .[and] five inches.
-  .[We] ask, how much grain .[be there]?
+  .[We] ask, how much .[be the] grain?
 >>
 
 <<
