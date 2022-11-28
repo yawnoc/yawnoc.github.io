@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S34"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S34
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-11-27
+* %date-modified --> 2022-11-28
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -150,10 +150,13 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
 >>
 
 <<
-  又以九乘之、得毛之敷。
+  又以九乘之、得毛之數。
 \\
   Again multiplying it by nine, resulteth in .[the] number of feathers.
 >>
+=={.translation-annotations}
+* \c[52317] erroneously has .敷 for .數.
+==
 
 <<
   又以九乘之、得色之數。
