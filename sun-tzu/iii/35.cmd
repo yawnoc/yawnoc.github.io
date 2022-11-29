@@ -86,6 +86,18 @@ Chinese source text: \a[82], \b[164], \c[52320], \d[95]. <br>
   upon .[the] right,
   .[and for] each, rank one rod upon .[the] left.
 >>
+=={.translation-annotations}
+* In modern notation, form the matrix
+  $$
+    \roundbr{
+      \begin{array}{cc}
+        1 & 5 \\
+        1 & 4 \\
+        1 & 3
+      \end{array}
+    }.
+  $$
+==
 
 <<
   維乘之、各得所到數、長女十二到、中女十五到、少女二十到。
@@ -96,6 +108,30 @@ Chinese source text: \a[82], \b[164], \c[52320], \d[95]. <br>
   .[the] middle daughter fifteen arrivals,
   .[and the] younger daughter twenty arrivals.
 >>
+=={.translation-annotations}
+* .維乘之： .[in] linkage multiplying them
+  --
+  This appears to mean taking each of the ones,
+  and multipying it with the non-ones in the other two rows:
+  --
+  $$
+    \roundbr{
+      \begin{array}{cc}
+        1 \times 4 \times 3 & 5 \\
+        1 \times 5 \times 3 & 4 \\
+        1 \times 5 \times 4 & 3
+      \end{array}
+    }
+      =
+    \roundbr{
+      \begin{array}{cc}
+        12 & 5 \\
+        15 & 4 \\
+        20 & 3
+      \end{array}
+    }.
+  $$
+==
 
 <<
   又各以歸日乘到數、即得。
@@ -103,6 +139,30 @@ Chinese source text: \a[82], \b[164], \c[52320], \d[95]. <br>
   And each multiplying .[the] number of arrivals by .[the] days of return,
   .[we] are done.
 >>
+=={.translation-annotations}
+* In modern notation,
+  $$
+    \roundbr{
+      \begin{array}{c}
+        12 \times 5 \\
+        15 \times 4 \\
+        20 \times 3
+      \end{array}
+    }
+      =
+    \roundbr{
+      \begin{array}{c}
+        60 \\
+        60 \\
+        60
+      \end{array}
+    }.
+  $$
+  **This algorithm does not in general give the lowest common multiple.**
+  It merely gives the product of the three numbers,
+  which happens to coincide with the lowest common multiple
+  when the three numbers are pairwise coprime.
+==
 
 
 %%surrounds

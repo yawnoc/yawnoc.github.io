@@ -104,6 +104,19 @@ upon <span class="translator-supplied">[the]</span> right,
 <span class="translator-supplied">[and for]</span> each, rank one rod upon <span class="translator-supplied">[the]</span> left.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+In modern notation, form the matrix
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+    1 &amp; 5 \\
+    1 &amp; 4 \\
+    1 &amp; 3
+  \end{array}
+}.
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 維乘之、各得所到數、長女十二到、中女十五到、少女二十到。
@@ -116,6 +129,31 @@ each resulteth in <span class="translator-supplied">[the]</span> number of that 
 <span class="translator-supplied">[and the]</span> younger daughter twenty arrivals.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">維乘之：</span> <span class="translator-supplied">[in]</span> linkage multiplying them
+<p>
+This appears to mean taking each of the ones,
+and multipying it with the non-ones in the other two rows:
+</p>
+<div class="js-maths">\roundbr{
+  \begin{array}{cc}
+    1 \times 4 \times 3 &amp; 5 \\
+    1 \times 5 \times 3 &amp; 4 \\
+    1 \times 5 \times 4 &amp; 3
+  \end{array}
+}
+  =
+\roundbr{
+  \begin{array}{cc}
+    12 &amp; 5 \\
+    15 &amp; 4 \\
+    20 &amp; 3
+  \end{array}
+}.
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 又各以歸日乘到數、即得。
@@ -125,6 +163,31 @@ And each multiplying <span class="translator-supplied">[the]</span> number of ar
 <span class="translator-supplied">[we]</span> are done.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+In modern notation,
+<div class="js-maths">\roundbr{
+  \begin{array}{c}
+    12 \times 5 \\
+    15 \times 4 \\
+    20 \times 3
+  \end{array}
+}
+  =
+\roundbr{
+  \begin{array}{c}
+    60 \\
+    60 \\
+    60
+  \end{array}
+}.
+</div>
+<strong>This algorithm does not in general give the lowest common multiple.</strong>
+It merely gives the product of the three numbers,
+which happens to coincide with the lowest common multiple
+when the three numbers are pairwise coprime.
+</li>
+</ul>
 <nav class="surrounds">
 <div class="surrounds-up">
 <a href="./">↑ Volume III</a>
