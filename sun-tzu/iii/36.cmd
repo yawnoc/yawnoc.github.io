@@ -174,6 +174,7 @@ with olden-style punctuation added by me:
 <<
   〈孕推男女法〉
 \\
+  '.[The] Method of Pregnant Deduction of Male .[or] Female'
 >>
 
 <<
@@ -187,36 +188,97 @@ with olden-style punctuation added by me:
   ||
   ||||
 \\
+  .[The] song .[saith]:
+  ||||{.centred}
+  ||
+    Forty-nine .[the] number plus .[the] months of pregnancy, <br>
+    Subtracting of .[it the] current years .[is] definitely without doubt. <br>
+    One removed unto nine, .[the] number of excess, <br>
+    Encountering .[a] pair is .[it] a daughter,
+      .[a] single .[she] beareth .[a] son.
+  ||
+  ||||
 >>
+=={.translation-annotations}
+* .孕月： months of pregnancy; \or month of pregnancy
+  --
+  This is even more ambiguous than the text in
+  (Sun Tz(uu)|孫子)'s Computational Classic,
+  as "month of pregnancy" could arguably mean the month of conception.
+  --
+==
 
 <<
   今有孕婦、行年二十八歲、八月有孕。問所生男女。
 \\
+  Suppose there be .[a] pregnant woman,
+  .[her] current years twenty-eight years,
+  eighth months being pregnant.
+  .[We] ask, .[is] that .[she shall] bear male .[or] female?
 >>
+===={.translation-annotations}
+* .八月有孕：
+    eighth months being pregnant;
+    \or .[in the] eighth month become pregnant
+  --
+  I think both renderings are defensible:
+  --
+  ==
+  - the first because of the phrase .十月懷胎,
+    in which .十月 is the duration "ten months"
+    (not ".[in the] tenth month"),
+    and
+  - the second because .有, at least to my ears,
+    has the connotation of *becoming* pregnant.
+  ==
+====
 
 <<
   答曰、生男。
 \\
+  Answer saith: .[she shall] bear .[a] male.
 >>
 
 <<
   法曰、置四十九、加孕月八、共五十七、減年二十八、餘二十九。
 \\
+  Method saith:
+  put .[down] forty-nine,
+  .[and] add .[the] months of pregnancy eight,
+  altogether fifty-seven,
+  .[and] subtract .[her] years twenty-eight,
+  remainder twenty-nine.
 >>
+=={.translation-annotations}
+* .孕月： months of pregnancy; \or month of pregnancy
+==
 
 <<
   減天除一、地除二、人除三、四時除四、五行除五、六律除六、七星除七、不盡、奇為男、偶為女也。
 \\
+  Subtracting Heaven removing one,
+  Earth removing two,
+  Man removing three,
+  .[the] Four Seasons removing four,
+  .[the] Five Elements removing five,
+  .[the] Six Pitches removing six,
+  .[and the] Seven Stars removing seven,
+  .[there be a] remainder:
+  odd be .[it a] male, .[and] even be .[it a] female.
 >>
 
 <<
   （一三五七九者、奇、二四六八十、皆偶。）
 \\
+  (One, three, five, seven, .[and] nine, .[are] odd;
+  two, four, six, eight, .[and] ten, all even.)
 >>
 
 <<
   如數多、再以八風除八。
 \\
+  If .[the] number .[be yet] more,
+  again with .[the] Eight Winds remove eight.
 >>
 
 

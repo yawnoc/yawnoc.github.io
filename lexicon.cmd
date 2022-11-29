@@ -768,6 +768,13 @@ See also: [以來]
 * side
 ==
 
+9 [偶] U+5076
+==
+* partner
+* even {:opposite of odd:}
+* idol
+==
+
 10 [備] U+5099
 ==
 * prepare
@@ -1922,6 +1929,7 @@ See also: [失中]
 ==
 * as; like
 * according unto
+* if
 ==
 --
 See also: [何如], [如何], [譬如]
@@ -2035,6 +2043,11 @@ See also: [字典]
 5 [官] U+5B98
 ==
 * official
+==
+
+5 [定] U+5B9A
+==
+* stable; decide; definite
 ==
 
 6 [客] U+5BA2
@@ -3679,6 +3692,11 @@ See also: [有餘]
 * bully
 ==
 
+10 [歌] U+6B4C
+==
+* song
+==
+
 11 [歎] U+6B4E
 ==
 * sigh
@@ -4409,6 +4427,11 @@ See also: [後生]
 [去聲] [but [平聲] in Mainlandia]
 ==
 * subcommentary
+==
+
+9 [疑] U+7591
+==
+* doubt; suspect
 ==
 
 
@@ -5300,7 +5323,7 @@ See also: [而已]
 
 9 [耦] U+8026
 ==
-* pair
+* partner
 * even {:opposite of odd:}
 ==
 
