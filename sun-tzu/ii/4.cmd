@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S4"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S4
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-11-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -142,12 +142,14 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
 
 * Altogether:
   $$
-    \begin{alignedat}{3.5}
-      a &= 1 \qquad & A &= 3 \qquad & aBC &= 12 \\
-      b &= 2 \qquad & B &= 3 \qquad & bCA &= 24 \\
-      c &= 3 \qquad & C &= 4 \qquad & cAB &= 27 \\ \hline
-        &           &   &           &   L &= 63.
-    \end{alignedat}
+    \roundbr{
+      \begin{alignedat}{3.5}
+        a &= 1 \qquad & A &= 3 \qquad & aBC &= 12 \\
+        b &= 2 \qquad & B &= 3 \qquad & bCA &= 24 \\
+        c &= 3 \qquad & C &= 4 \qquad & cAB &= 27 \\ \hline
+          &           &   &           &   L &= 63
+      \end{alignedat}
+    }.
   $$
 ==
 
