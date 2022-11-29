@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-11-27
+* %date-modified --> 2022-11-30
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -924,7 +924,7 @@ I have edited the punctuation to not be bizarre.
   ||||
 \\
   Verse saith:
-  ||||{.centred-block}
+  ||||{.centred}
   ||
     Do not bully the intelligent child young .[in] years, <br>
     .[Which] broadly hath fine talent .[and] wisdom surpassing others. <br>
