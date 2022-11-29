@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-11-27
+* %date-modified --> 2022-11-29
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1065,6 +1065,11 @@ See also: [以來]
 * distinguish; distinction
 * other; different
 * separate
+==
+
+6 [到] U+5230
+==
+* arrive
 ==
 
 6 [制] U+5236

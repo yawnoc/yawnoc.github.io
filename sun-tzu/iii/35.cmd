@@ -60,28 +60,48 @@ Chinese source text: \a[82], \b[164], \c[52320], \d[95]. <br>
 --
 
 <<
-  今有三女、長女五日一歸、中女四日一歸、少女三日一歸。問三女幾何日相會？
+  今有三女、長女五日一歸、中女四日一歸、少女三日一歸。問三女幾何日相會。
 \\
+  Suppose there be three daughters:
+  .[the] elder daughter .[every] five days returneth once,
+  .[the] middle daughter .[every] four days returneth once,
+  .[and the] younger daughter .[every] three days returneth once.
+  .[We] ask, .[every] how many days meet .[the] three daughters with each other?
 >>
 
 <<
   答曰、六十日。
 \\
+  Answer saith: .[every] sixty days.
 >>
 
 <<
   術曰、置長女五日中女四日少女三日於右方、各列一算於左方。
 \\
+  Method saith:
+  put
+    .[the] elder daughter's five days,
+    .[the] middle daughter's four days,
+    .[and the] younger daughter's three days
+  upon .[the] right,
+  .[and for] each, rank one rod upon .[the] left.
 >>
 
 <<
   維乘之、各得所到數、長女十二到、中女十五到、少女二十到。
 \\
+  .[In] linkage multiplying them,
+  each resulteth in .[the] number of that arrived:
+  .[the] elder daughter twelve arrivals,
+  .[the] middle daughter fifteen arrivals,
+  .[and the] younger daughter twenty arrivals.
 >>
 
 <<
   又各以歸日乘到數、即得。
 \\
+  And each multiplying .[the] number of arrivals by .[the] days of return,
+  .[we] are done.
 >>
 
 
