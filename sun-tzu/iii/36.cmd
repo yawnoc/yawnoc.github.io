@@ -13,8 +13,8 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S36"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S36
-* %date-created --> 2022-11-29
-* %date-modified --> 2022-11-29
+* %date-created --> 2022-11-30
+* %date-modified --> 2022-11-30
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
