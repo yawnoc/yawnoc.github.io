@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Sunzi Suanjing, 《孫子算經》, \
     `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-05-04
-* %date-modified --> 2022-11-24
+* %date-modified --> 2022-11-30
 - concluding_replacements:
     #.romanisation.special-characters
     #.yawnoc.double-quotes-in-attributes
@@ -42,7 +42,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 
 --
-Work in progress for a fully annotated translation
+A fully annotated translation
 of _{l=zh} Sunzi Suanjing_ into English.
 --
 
@@ -53,7 +53,7 @@ of _{l=zh} Sunzi Suanjing_ into English.
 - [.《序》 "Preface"](/sun-tzu/preface/)
 - [.《卷上》 "Volume~I"](/sun-tzu/i/)
 - [.《卷中》 "Volume~II"](/sun-tzu/ii/)
-- [.《卷下》 "Volume~III"](/sun-tzu/iii/) (incomplete)
+- [.《卷下》 "Volume~III"](/sun-tzu/iii/)
 ::::
 
 
@@ -77,12 +77,17 @@ but I have *not* read that translation,
 and probably never will because it is behind a paywall.
 --
 --
-As of 23 November 2019,
-I have finished a [manuscript] for the entire translation.
-These are PDF scans of my handwritten translation scribblings,
-and do not contain edits and corrections I have made since they were scanned.
-It will probably take until the end of~<s>2020</s> 2022
-to fully revise and type all of it up in web (HTML) format here.
+As of 23~November 2019,
+I finished a [manuscript] for the entire translation.
+Those were PDF scans of my handwritten translation scribblings,
+which do not contain edits and corrections I have made since.
+--
+--
+As of 30~November 2022,
+I have finally typed up the translation in web (HTML) format here,
+after heavy revision of the 2019 manuscript.
+It took three and a half years not to actually type it up,
+but to be motivated enough to resume and persevere after taking breaks.
 --
 
 ["(Sun Tz(uu)|孫子)'s Computational Classic"]:
