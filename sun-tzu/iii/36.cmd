@@ -148,6 +148,81 @@ Chinese source text: \a[84], \b[164], \c[52323], \d[96]. <br>
 ==
 
 
+##{#commentary} Extended commentary
+
+
+###{#ambiguity} Ambiguity
+
+--
+We saw the ambiguity that exists with .難九月,
+which can be interpreted countwise ("difficulty nine months")
+or ordinally ("difficulty .[in the] ninth month").
+--
+--
+I have been able to find another text
+that gives this sex-determination algorithm,
+but which introduces yet more ambiguity
+by possibly referring to the month of conception
+rather than the duration of pregnancy.
+Behold, the following extract from .《古今圖書集成》,
+"Olden .[and] Current Diagrammed Books Collection",
+the Chinese text from [ctext.org Library],
+with olden-style punctuation added by me:
+--
+[ctext.org Library]: https://ctext.org/library.pl?if=en&file=91421&page=106
+
+<<
+  〈孕推男女法〉
+\\
+>>
+
+<<
+  歌、
+  ||||{.centred}
+  ||
+    四十九數加孕月、 <br>
+    減行年歲定無疑。 <br>
+    一除至九多餘數、 <br>
+    逢雙是女隻生兒。
+  ||
+  ||||
+\\
+>>
+
+<<
+  今有孕婦、行年二十八歲、八月有孕。問所生男女。
+\\
+>>
+
+<<
+  答曰、生男。
+\\
+>>
+
+<<
+  法曰、置四十九、加孕月八、共五十七、減年二十八、餘二十九。
+\\
+>>
+
+<<
+  減天除一、地除二、人除三、四時除四、五行除五、六律除六、七星除七、不盡、奇為男、偶為女也。
+\\
+>>
+
+<<
+  （一三五七九者、奇、二四六八十、皆偶。）
+\\
+>>
+
+<<
+  如數多、再以八風除八。
+\\
+>>
+
+
+###{#table} Lookup table
+
+
 ||{.marker .end}
 END of Volume~III
 ||
