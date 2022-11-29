@@ -192,7 +192,8 @@ with olden-style punctuation added by me:
   ||||{.centred}
   ||
     Forty-nine .[the] number plus .[the] months of pregnancy, <br>
-    Subtracting of .[it the] current years .[is] definitely without doubt. <br>
+    Subtracting of .[it the] current years
+      .[is it] definitely without doubt. <br>
     One removed unto nine, .[the] number of excess, <br>
     Encountering .[a] pair is .[it] a daughter,
       .[a] single .[she] beareth .[a] son.
