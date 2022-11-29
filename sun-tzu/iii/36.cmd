@@ -97,12 +97,12 @@ Chinese source text: \a[84], \b[164], \c[52323], \d[96]. <br>
 >>
 
 <<
-  術曰、置四十九、加難月、減行年。
+  術曰、置四十九、加::{.colour-r}難月::、減::{.colour-v}行年::。
 \\
   Method saith:
   put .[down] forty-nine,
-  add .[the] months of difficulty,
-  .[and] subtract .[her] current years.
+  add ::{.colour-r} .[the] months of difficulty::,
+  .[and] subtract .[her] ::{.colour-v} current years::.
 >>
 =={.translation-annotations}
 * .難月： months of difficulty; \or month of difficulty
@@ -242,13 +242,13 @@ with olden-style punctuation added by me:
 >>
 
 <<
-  法曰、置四十九、加孕月八、共五十七、減年二十八、餘二十九。
+  法曰、置四十九、加::{.colour-r}孕月八::、共五十七、減::{.colour-v} 年二十八::、餘二十九。
 \\
   Method saith:
   put .[down] forty-nine,
-  .[and] add .[the] months of pregnancy eight,
+  .[and] add ::{.colour-r} .[the] months of pregnancy eight::,
   altogether fifty-seven,
-  .[and] subtract .[her] years twenty-eight,
+  .[and] subtract .[her] ::{.colour-v} years twenty-eight::,
   remainder twenty-nine.
 >>
 =={.translation-annotations}
