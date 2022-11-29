@@ -100,7 +100,7 @@ and the headings allocated are *not* part of the original text.
 - [\S33. Division utilising a rate~(5)](33)
 - [\S34. Powers of~9](34)
 - [\S35. Lowest common multiple](35)
-- [\S36. Determination of the sex of an unborn baby](36)
+- [\S36. Determining the sex of an unborn baby](36)
 ::::
 
 
