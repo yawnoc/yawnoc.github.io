@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~III of Sunzi Suanjing, \
     《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2022-08-06
-* %date-modified --> 2022-11-27
+* %date-modified --> 2022-11-29
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -99,6 +99,7 @@ and the headings allocated are *not* part of the original text.
 - [\S32. Division utilising a rate~(4)](32)
 - [\S33. Division utilising a rate~(5)](33)
 - [\S34. Powers of~9](34)
+- [\S35. Lowest common multiple](35)
 ::::
 
 ||{.marker}
