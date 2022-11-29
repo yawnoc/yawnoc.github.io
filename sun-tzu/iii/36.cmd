@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《孫子算經卷下》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
-  \S36. Determination of sex of an unborn baby
+  \S36. Determination of the sex of an unborn baby
 
 %%noscript-equations
 
