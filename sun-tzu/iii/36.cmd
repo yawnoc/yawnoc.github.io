@@ -181,8 +181,8 @@ with olden-style punctuation added by me:
   歌、
   ||||{.centred}
   ||
-    四十九數加孕月、 <br>
-    減行年歲定無疑。 <br>
+    四十九數加::{.colour-r}孕月::、 <br>
+    減::{.colour-v}行年歲::定無疑。 <br>
     一除至九多餘數、 <br>
     逢雙是女隻生兒。
   ||
@@ -191,8 +191,9 @@ with olden-style punctuation added by me:
   .[The] song .[saith]:
   ||||{.centred}
   ||
-    Forty-nine .[the] number plus .[the] months of pregnancy, <br>
-    Subtracting of .[it the] current years
+    Forty-nine .[the] number
+      plus ::{.colour-r} .[the] months of pregnancy::, <br>
+    Subtracting of .[it her] ::{.colour-v} current years::
       .[is it] definitely without doubt. <br>
     One removed unto nine, .[the] number of excess, <br>
     Encountering .[a] pair is .[it] a daughter,
@@ -210,11 +211,11 @@ with olden-style punctuation added by me:
 ==
 
 <<
-  今有孕婦、行年二十八歲、八月有孕。問所生男女。
+  今有孕婦、::{.colour-v}行年二十八歲::、::{.colour-r}八月有孕::。問所生男女。
 \\
   Suppose there be .[a] pregnant woman,
-  .[her] current years twenty-eight years,
-  eighth months being pregnant.
+  .[her] ::{.colour-v} current years twenty-eight years::,
+  ::{.colour-r} eighth months being pregnant::.
   .[We] ask, .[is] that .[she shall] bear male .[or] female?
 >>
 ===={.translation-annotations}
