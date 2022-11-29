@@ -1987,6 +1987,11 @@ See also: [嬉戲]
 See also: [君子], [國子], [女子], [弟子], [獅子]
 --
 
+2 [孕] U+5B55
+==
+* pregnant
+==
+
 3 [字] U+5B57
 ==
 * character
@@ -2257,6 +2262,11 @@ See also: [從容]
 * stream
 ==
 
+3 [州] U+5DDE
+==
+* province
+==
+
 8 [巢] U+5DE2
 ==
 * nest
@@ -2366,6 +2376,9 @@ See also: [參差]
 3 [年] U+5E74
 ==
 * year
+==
+==
+* 行年： current years
 ==
 
 5 [并] U+5E76
@@ -2559,6 +2572,12 @@ See also: [參差]
 6 [待] U+5F85
 ==
 * await
+==
+
+6 [律] U+5F8B
+==
+* statute
+* pitch {:music:}
 ==
 
 6 [後] U+5F8C
@@ -5279,6 +5298,12 @@ See also: [而已]
 * expend
 ==
 
+9 [耦] U+8026
+==
+* pair
+* even {:opposite of odd:}
+==
+
 
 ### ⽿ (ear) U+2F7F
 
@@ -5658,7 +5683,7 @@ See also: [自相]
 * \met element
 ==
 --
-See also: [平行]
+See also: [平行], [行年]
 --
 [平聲] .音航 h(a/)ng
 ==

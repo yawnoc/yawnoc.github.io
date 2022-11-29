@@ -78,16 +78,46 @@ Unless noted otherwise, I follow the text from Version D, <span lang="zh-Hant">
 </p>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
-今有孕婦、行年二十九、難九月。未知所生。
+今有孕婦、<span class="colour-v">行年二十九</span>、<span class="colour-r">難九月</span>。未知所生。
 </div>
 <div class="destination-text" lang="en">
+Suppose there be <span class="translator-supplied">[a]</span> pregnant woman,
+<span class="translator-supplied">[her]</span> <span class="colour-v">current years twenty-nine</span>,
+<span class="translator-supplied">[with]</span> <span class="colour-r">difficulty nine months</span>.
+Know <span class="translator-supplied">[we]</span> not yet that <span class="translator-supplied">[she shall]</span> bear?
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">行年：</span> current years; <span class="alternative-marker" title="literally">lit.</span> moving years
+</li>
+<li>
+<span lang="zh-Hant">難九月：</span> difficulty nine months; <span class="alternative-marker">or</span> difficulty <span class="translator-supplied">[in the]</span> ninth month
+<p>
+There is ambiguity here in whether "nine" is:
+</p>
+<ol type="a">
+<li>
+a count
+(the woman gives birth after being pregnant for nine months);
+</li>
+<li>
+an ordinal relative to conception
+(the woman gives birth in the ninth month of her pregnancy); or
+</li>
+<li>
+an ordinal relative to the new year
+(the woman gives birth in the ninth month of the Chinese calendar).
+</li>
+</ol>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 答曰、生男。
 </div>
 <div class="destination-text" lang="en">
+Answer saith: <span class="translator-supplied">[she shall]</span> bear <span class="translator-supplied">[a]</span> male.
 </div>
 </div>
 <div class="translation parallel-text">
@@ -95,22 +125,62 @@ Unless noted otherwise, I follow the text from Version D, <span lang="zh-Hant">
 術曰、置四十九、加難月、減行年。
 </div>
 <div class="destination-text" lang="en">
+Method saith:
+put <span class="translator-supplied">[down]</span> forty-nine,
+add <span class="translator-supplied">[the]</span> months of difficulty,
+<span class="translator-supplied">[and]</span> subtract <span class="translator-supplied">[her]</span> current years.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+<span lang="zh-Hant">難月：</span> months of difficulty; <span class="alternative-marker">or</span> month of difficulty
+</li>
+<li>
+For the given inputs, we get
+<div class="js-maths">49 + \colr{9} - \colv{29} = 29.
+</div>
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 所餘、以天除一、地除二、人除三、四時除四、五行除五、六律除六、七星除七、八風除八、九州除九。
 </div>
 <div class="destination-text" lang="en">
+<span class="translator-supplied">[Of]</span> that which remaineth:
+with Heaven remove one,
+Earth remove two,
+Man remove three,
+<span class="translator-supplied">[the]</span> Four Seasons remove four,
+<span class="translator-supplied">[the]</span> Five Elements remove five,
+<span class="translator-supplied">[the]</span> Six Pitches remove six,
+<span class="translator-supplied">[the]</span> Seven Stars remove seven,
+<span class="translator-supplied">[the]</span> Eight Winds remove eight,
+<span class="translator-supplied">[and the]</span> Nine Provinces remove nine.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+We compute
+<div class="js-maths">29 - 1 - 2 - 3 - 4 - 5 - 6 - 7 = 1,
+</div>
+where we have stopped before <span class="js-maths">8</span> to avoid the result going negative.
+</li>
+</ul>
 <div class="translation parallel-text">
 <div class="source-text" lang="zh-Hant">
 其不盡者、奇則為男、耦則為女。
 </div>
 <div class="destination-text" lang="en">
+<span class="translator-supplied">[The]</span> remainder thereof,
+odd be <span class="translator-supplied">[it a]</span> male, <span class="translator-supplied">[and]</span> even be <span class="translator-supplied">[it a]</span> female.
 </div>
 </div>
+<ul class="translation-annotations">
+<li>
+Since the remainder <span class="js-maths">1</span> is odd, it's a boy.
+As is to be expected, for a text with patriarchal authorship.
+</li>
+</ul>
 <div class="marker end">
 END of Volume III
 </div>
