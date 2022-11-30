@@ -54,7 +54,7 @@ which allegedly determines the sex of an unborn baby.
 --
 --
 It is quite a shame that three volumes of serious mathematical text
-should be concluded thus.
+should conclude thus.
 --
 
 
@@ -133,7 +133,7 @@ Chinese source text: \a[84], \b[164], \c[52323], \d[96]. <br>
   $$
     29 - 1 - 2 - 3 - 4 - 5 - 6 - 7 = 1,
   $$
-  where we have stopped before $8$ to avoid the result going negative.
+  where we have stopped before $8$ to avoid the result becoming non-positive.
 ==
 
 <<
@@ -144,7 +144,7 @@ Chinese source text: \a[84], \b[164], \c[52323], \d[96]. <br>
 >>
 =={.translation-annotations}
 * Since the remainder $1$ is odd, it's a boy.
-  As is to be expected, for a text with patriarchal authorship.
+  Which is to be expected, for a text with patriarchal authorship.
 ==
 
 
@@ -164,7 +164,7 @@ that gives this sex-determination algorithm,
 but which introduces yet more ambiguity
 by possibly referring to the month of conception
 rather than the duration of pregnancy.
-Behold, the following extract from .《古今圖書集成》,
+The following extract is from .《古今圖書集成》,
 "Olden .[and] Current Diagrammed Books Collection",
 the Chinese text from [ctext.org Library],
 with olden-style punctuation added by me:
