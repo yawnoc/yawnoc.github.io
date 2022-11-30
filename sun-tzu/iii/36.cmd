@@ -196,7 +196,7 @@ with olden-style punctuation added by me:
     Subtracting of .[it her] ::{.colour-v} current years::
       .[is it] definitely without doubt. <br>
     One removed unto nine, .[the] number of excess, <br>
-    Encountering .[a] pair is .[it] a daughter,
+    Encountering .[a] double is .[it] a daughter,
       .[a] single .[she] beareth .[a] son.
   ||
   ||||

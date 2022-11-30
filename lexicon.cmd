@@ -864,7 +864,7 @@ See also: [以來]
 
 6 [兒] U+5152
 ==
-* child
+* child; \met son
 ==
 
 6 [兔] U+5154
@@ -1793,6 +1793,9 @@ See also: [詩士]
 * much; many
 * more; greater; excess
 ==
+--
+See also: [多餘]
+--
 
 
 ### ⼤ (big) U+2F24
@@ -6887,6 +6890,11 @@ See also: [鴻雁]
 * although
 ==
 
+10 [雙] U+96D9
+==
+* double; pair
+==
+
 10 [雛] U+96DB
 ==
 * chick
@@ -7104,6 +7112,7 @@ See also: [鴻雁]
 * remain; remainder; excess; spare
 ==
 ==
+* 多餘： excess
 * 有餘： in excess; with spare
 ==
 
