@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic"'
 * %title --> "Sun Tz(uu)'s Computational Classic" 《孫子算經》
 * %description -->
-    An annotated English translation of Sunzi Suanjing, 《孫子算經》, \
+    A fully annotated English translation of Sunzi Suanjing, 《孫子算經》, \
     `Sun Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-05-04
 * %date-modified --> 2022-11-30
@@ -43,7 +43,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 --
 A fully annotated translation
-of _{l=zh} Sunzi Suanjing_ into English.
+of the entire _{l=zh} Sunzi Suanjing_ into English.
 --
 
 
