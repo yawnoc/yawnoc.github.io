@@ -159,6 +159,7 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
   in a particularly satisfactory manner;
   the quantities $\colv{70}$, $\colv{21}$, and $\colv{15}$
   are offered up with no explanation.
+  Neither is there any proof or convincing argument.
 
 * From modern number theory,
   since $\colb{3}$, $\colb{5}$, and $\colb{7}$ are pairwise coprime,
