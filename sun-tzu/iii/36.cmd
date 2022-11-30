@@ -290,6 +290,2095 @@ with olden-style punctuation added by me:
 (TODO)
 --
 
+||||||{.centred}
+||||{.wide}
+''
+//
+  ;{r=2 .colour-v} Years
+  ;{c=12 .colour-r} Month or Months
+//
+  ;{.colour-r} 1
+  ;{.colour-r} 2
+  ;{.colour-r} 3
+  ;{.colour-r} 4
+  ;{.colour-r} 5
+  ;{.colour-r} 6
+  ;{.colour-r} 7
+  ;{.colour-r} 8
+  ;{.colour-r} 9
+  ;{.colour-r} 10
+  ;{.colour-r} 11
+  ;{.colour-r} 12
+//
+  ;{.colour-v} 16
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 9"}9:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 17
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 18
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 19
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 20
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 21
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 22
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 23
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 24
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 8"}(−8):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 25
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 8"}8:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 26
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 27
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 28
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 29
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 30
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 31
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 32
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 7"}(−7):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 33
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 7"}7:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 34
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 35
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 36
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 37
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 38
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 39
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 6"}(−6):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 40
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 6"}6:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 41
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 42
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 43
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 44
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 45
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 5"}(−5):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 46
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 5"}5:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 47
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 48
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 49
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 50
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 4"}(−4):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 51
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 4"}4:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 52
+  , ?
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 53
+  , ?
+  , ?
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 54
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 3"}(−3):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 55
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 3"}3:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 56
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 57
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+  ,{.male}
+    ::{title="last subtrahend 2"}(−2):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 58
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.female}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 2"}2:: <br>
+    ::{title="female"}F::
+//
+  ;{.colour-v} 59
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+  ,{.male}
+    ::{title="last subtrahend 1"}(−1):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 60
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  ,{.male}
+    ::{title="last subtrahend 0"}(−0):: <br>
+    ::{title="remainder 1"}1:: <br>
+    ::{title="male"}M::
+//
+  ;{.colour-v} 61
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+  , ?
+''
+||||
+||||||
+
 
 ||{.marker .end}
 END of Volume~III
