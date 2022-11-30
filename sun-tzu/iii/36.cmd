@@ -300,8 +300,68 @@ with olden-style punctuation added by me:
 ###{#table} Lookup table
 
 --
-(TODO)
+Suppose for a moment
+that we ignore [the mechanism which determines sex in humans][XY],
+along with any real-world exceptions to a single baby of definite sex
+(such as boy-girl twins, chromosomal syndromes, etc.).
+Let us also ignore the fact that there are too many women of the same age
+in existence, who, after a full term, will give birth within the same month,
+for this numerological algorithm to work (because statistics).
+Then what?
 --
+--
+Well, if you can...
+--
+++++
+1.
+  Decide on whether the algorithm's ::{.colour-v} "years":: should be
+  ++{type=a}
+  1. the age of mum-to-be in solar years, or
+  1. the age of mum-to-be according to [East Asian age reckoning],
+  ++
+  and whether it should be
+  ++{type=a}
+  1. her age at the time of conception, or
+  1. her age at the time of baby's birth;
+  ++
+
+1.
+  Decide on whether the algorithm's ::{.colour-r} "month" or "months"::
+  should be
+  ++{type=a}
+  1. the gestation period in lunar months,
+  1. the Chinese calendar month of conception, or
+  1. the Chinese calendar month of baby's birth;
+  ++
+  and
+
+1.
+  Decide on whether to observe modern time zones or local solar time
+  (if using the Chinese calendar in any of the earlier steps);
+++++
+--
+... then you are ready to consult the table below.
+In each cell:
+--
+==
+- The bracketed number indicates the last subtraction performed as part of the
+  "Heaven remove one, Earth remove two, etc." subtraction sequence,
+  which stops before the result becomes non-positive.
+
+- The unbracketed positive number is the remainder
+  at the end of the subtraction sequence.
+
+- The final M/F is the sex determination based on the parity of the remainder.
+==
+--
+Note that when mum-to-be is in her fifties or higher,
+the algorithm starts to break because $49 + \text{months} - \text{years}$
+is already non-positive (cells containing a question mark).
+Which is just as well, since median menopausal age is around fifty years.
+--
+
+[XY]: https://en.wikipedia.org/wiki/XY_sex-determination_system
+[East Asian age reckoning]: https://en.wikipedia.org/wiki/East_Asian_age_reckoning
 
 ||||||{.centred}
 ||||{.wide}
