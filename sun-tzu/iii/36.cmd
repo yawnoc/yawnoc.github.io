@@ -15,6 +15,19 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S36
 * %date-created --> 2022-11-30
 * %date-modified --> 2022-11-30
+* %styles -->
+    td {
+      text-align: center;
+    }
+    th {
+      background: none;
+    }
+    .female {
+      background: #FFCECE;
+    }
+    .male {
+      background: #CEFFFF;
+    }
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
