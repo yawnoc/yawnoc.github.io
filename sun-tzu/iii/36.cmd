@@ -49,7 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 --
 And now for something completely different:
-this section gives a numerological algorithm
+this final section gives a numerological algorithm
 which allegedly determines the sex of an unborn baby.
 --
 --
