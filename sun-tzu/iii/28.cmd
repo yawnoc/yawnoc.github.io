@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S28"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S28
 * %date-created --> 2022-11-26
-* %date-modified --> 2022-11-27
+* %date-modified --> 2022-12-01
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -109,7 +109,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   Method saith: seek them according unto the rectangular system.
 >>
 =={.translation-annotations}
-* .方程： rectangular system
+* .方程： the rectangular system
   --
   This is the classical name for Gaussian elimination;
   today it is the term used to translate English "equation".
