@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S26"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S26
 * %date-created --> 2022-11-26
-* %date-modified --> 2022-11-26
+* %date-modified --> 2022-12-01
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -156,10 +156,13 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
 =={.translation-annotations}
 * Under modern appraisal,
   the text does not present the Chinese remainder theorem
+  (or rather, an instance of its application)
   in a particularly satisfactory manner;
   the quantities $\colv{70}$, $\colv{21}$, and $\colv{15}$
   are offered up with no explanation.
-  Neither is there any proof or convincing argument.
+  Neither is there any convincing argument
+  of why those quantities should be combined in the way they are combined,
+  nor any explanation of where the modulus $105$ comes from.
 
 * From modern number theory,
   since $\colb{3}$, $\colb{5}$, and $\colb{7}$ are pairwise coprime,
