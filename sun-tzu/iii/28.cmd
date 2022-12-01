@@ -205,7 +205,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 <<
   以右行再減左行、左上空、中餘四乙為法、下餘九十六錢為實。
 \\
-  Again subtracting of .[the] left column by .[the] right column:
+  Furthermore subtracting of .[the] left column by .[the] right column:
   .[the] upper left .[becometh] empty,
   .[in the] middle .[there] remaineth four~B as .[the] divisor,
   .[and] below .[there] remaineth ninety-six coins as .[the] dividend.
