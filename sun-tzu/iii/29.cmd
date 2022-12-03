@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S29"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S29
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-11-27
+* %date-modified --> 2022-12-03
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -97,15 +97,17 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 <<
   假令七十二家、鹿盈四。令之九十家、鹿不足二十。
 \\
-  Supposing .[we] make .[there be] seventy-two families,
+  Supposing that .[there be] seventy-two families,
   .[the] deer excess .[be] four.
-  Making them ninety families,
+  Supposing them ninety families,
   .[be the] deer twenty not sufficient.
 >>
 =={.translation-annotations}
 * \a[76] erroneously has .鹿盡四 for .鹿盈四.
 
 * \b[163] and \c[52301] erroneously have .鹿不盡四 for .鹿盈四.
+
+* .令之： supposing them: \lit making them
 
 * In modern notation,
   for surplus input $X_\mathrm{s} = 72$

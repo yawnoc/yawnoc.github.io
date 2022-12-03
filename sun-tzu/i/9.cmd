@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S9"'
 * %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S9
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-11-20
+* %date-modified --> 2022-12-03
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -78,7 +78,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 <<
   假令六為法、百為實。
 \\
-  Suppose .[we] make six be .[the] divisor,
+  Suppose that six be .[the] divisor,
   .[and an] hundred be .[the] dividend.
 >>
 =={.translation-annotations}

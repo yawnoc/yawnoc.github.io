@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-01
+* %date-modified --> 2022-12-03
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -549,9 +549,12 @@ See also: [歷代]
 3 [令] U+4EE4
 ==
 * command; commandment
-* make
+* make; \met suppose
 * goodly
 ==
+--
+See also: [假令]
+--
 
 3 [以] U+4EE5
 ==
@@ -747,6 +750,9 @@ See also: [以來]
 * feign
 * borrow
 * suppose; if
+==
+==
+* 假令： suppose that
 ==
 [去聲]
 ==
