@@ -76,6 +76,17 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   .[To] learn and constantly practise it:
   .[is] not .[this] pleasing?
 >>
+=={.translation-annotations}
+* .子： .[the] Master
+  --
+  Confucius.
+  --
+
+* .說： pleasing
+  --
+  Used for .悅.
+  --
+==
 
 <<
   有朋自遠方來、不亦樂乎。
