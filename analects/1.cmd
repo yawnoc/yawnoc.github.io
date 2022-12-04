@@ -24,8 +24,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 * %%surrounds-up --> [^ .[The] Analects](./)
 * %%surrounds-previous -->
 * %%surrounds-current --> Chapter~1
-* %%surrounds-next --> [Ch.~2 -->](2)
-- concluding_replacements: #.surrounds.navigation-arrows
+* %%surrounds-next --> <## [Ch.~2 -->](2) ##>
+- concluding_replacements: #.surrounds.navigation-arrows #comments
 
 %%%
 
