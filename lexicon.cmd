@@ -497,6 +497,11 @@ See also: [中半]
 
 ### ⼇ (lid) U+2F07
 
+4 [交] U+4EA4
+==
+* intercourse; intersect
+==
+
 4 [亦] U+4EA6
 ==
 * also
@@ -1394,6 +1399,14 @@ See also: [北方]
 ==
 ==
 * 及時： in good time
+==
+
+2 [友] U+53CB
+==
+* friend
+==
+==
+* 朋友： friend
 ==
 
 6 [取] U+53D6
@@ -2763,6 +2776,11 @@ See also: [未必]
 * forget
 ==
 
+4 [忠] U+5FE0
+==
+* loyal
+==
+
 4 [快] U+5FEB
 ==
 * pleasure
@@ -3485,6 +3503,9 @@ See also: [有餘]
 ==
 * peer
 ==
+--
+See also: [朋友]
+--
 
 6 [朕] U+6715
 ==
@@ -6087,6 +6108,12 @@ See also: [平行], [行年]
 * all .[the]; various
 * [:contraction:] [之]|[於]
 * [:contraction:] [之]|[乎]
+==
+
+9 [謀] U+8B00
+==
+* scheme
+* seek
 ==
 
 9 [謂] U+8B02

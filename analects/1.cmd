@@ -172,7 +172,25 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   曾子曰、吾日三省吾身、為人謀而不忠乎、與朋友交而不信乎、傳不習乎。
 \\
+  Master~(Ts(e^)ng|曾) saith,
+  I .[each] day triply inspect my person:
+  .[in] seeking for others .[have I been] unloyal?
+  .[in] intercourse with friends .[have I been] untrustworthy?
+  .[have I learning] transmitted .[unto me] not practised?
 >>
+=={.translation-annotations}
+* .為： for
+  --
+  .為、去聲、 \C wai6, \M w(e\)i
+  --
+
+* .朋友： friends; \lit peer-friends
+
+* .傳： rare
+  --
+  .傳、平聲、 \C ch'(u")n4, \M chu(a/)n
+  --
+==
 
 
 ||{.marker}
