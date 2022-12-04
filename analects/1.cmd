@@ -46,6 +46,11 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 ##{#translation} Translation
 
+--
+Chinese source text: \ctext[Xue Er][xue-er] <br>
+Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
+--
+
 <<
   〈學而第一〉
 \\

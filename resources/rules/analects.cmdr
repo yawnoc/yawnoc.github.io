@@ -10,3 +10,15 @@ RegexDictionaryReplacement: #.analects.header-links-regex
     [Ch.~\g<number>]("You are viewing Chapter~\g<number>")
 - concluding_replacements:
   #.yawnoc.typography
+
+
+RegexDictionaryReplacement: #.analects.source-links
+- queue_position: BEFORE #specified-links
+* \\ctext \[ (?P<pinyin> [a-zA-Z ]+ ) \] \[ (?P<slug> [a-z-]+ ) \] -->
+    [Chinese Text Project (\g<pinyin>)](https://ctext.org/analects/\g<slug>)
+* \\comm \[ (?P<slug> [a-z-]+ ) \] -->
+    [.論語注疏](https://ctext.org/lunyu-zhushu/\g<slug>)
+* \\coll \[ (?P<slug> [a-z-]+ ) \] -->
+    [.論語集注](https://ctext.org/si-shu-zhang-ju-ji-zhu/\g<slug>)
+* \\legge \[ (?P<page> [0-9]+ ) \] -->
+    [Legge](https://archive.org/details/chineseclassicsw0001unse/page/n\g<page>/mode/1up?view=theater)
