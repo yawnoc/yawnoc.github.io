@@ -109,17 +109,46 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   有子曰、其為人也孝弟、而好犯上者、鮮矣。
 \\
+  Master (Yu|有) saith,
+  He being .[a] man filial .[and] younger-brotherly,
+  yet one fond of offending against .[his] superiors,
+  .[is] rare.
 >>
+=={.translation-annotations}
+* .有子： Master (Yu|有)
+  --
+  [A disciple of Confucius.][子若]
+  --
+  [子若]: https://en.wikipedia.org/wiki/Disciples_of_Confucius#You_Ruo_(Ziruo)
+
+* .鮮： rare
+  --
+  .鮮、上聲、 \C seen2, \M xi(av)n
+  --
+==
 
 <<
   不好犯上、而好作亂者、未之有也。
 \\
+  Not fond of offending against .[his] superiors,
+  yet one fond of making disorder,
+  there .[is] yet to be such.
 >>
 
 <<
   君子務本、本立而道生、孝弟也者、其為仁之本與。
 \\
+  The superior man endeavoureth of .[the] base,
+  .[the] base established, then .[the virtuous] way begotten;
+  filiality .[and] younger-brotherliness,
+  .[are not they the] base of doing of .[virtuous] humanity?
 >>
+=={.translation-annotations}
+*
+  --
+  .與、平聲、 \C y(u")4, \M y(u/)
+  --
+==
 
 
 ||{.marker}

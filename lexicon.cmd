@@ -373,7 +373,7 @@ See also: [中半]
 ==
 * go
 * this
-* {:generic:} him; it
+* {:generic:} him; it; such
 * of
 * [:speech-assist:]
 ==
@@ -412,6 +412,11 @@ See also: [中半]
 2 [也] U+4E5F
 ==
 * [:speech-assist:]
+==
+
+12 [亂] U+4E82
+==
+* disorder
 ==
 
 
@@ -629,7 +634,7 @@ See also: [幾何]
 5 [作] U+4F5C
 ==
 * arise
-* construct; do
+* construct; do; make
 * compose
 * write
 ==
@@ -2017,6 +2022,11 @@ See also: [君子], [國子], [女子], [弟子], [獅子]
 --
 See also: [字典]
 --
+
+4 [孝] U+5B5D
+==
+* filial
+==
 
 5 [孤] U+5B64
 ==
@@ -4197,6 +4207,11 @@ See also: [以為], [為政]
 
 
 ### ⽝ (dog) U+2F5D
+
+2 [犯] U+72AF
+==
+* offend against
+==
 
 5 [狐] U+72D0
 ==
