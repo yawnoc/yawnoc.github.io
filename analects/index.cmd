@@ -34,9 +34,9 @@ Work in progress for an English translation the Confucian ''Analects''.
 
 ##{#contents} Contents of translation
 
-;;;;{-class}
-1. [Chapter~1. .〈學而〉 '.[To] Learn And'](1)
-;;;;
+::::{-class}
+- [Chapter~1. .〈學而〉 '.[To] Learn And'](1)
+::::
 
 ||{.marker}
 (Incomplete; work in progress.)

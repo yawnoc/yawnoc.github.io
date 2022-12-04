@@ -66,20 +66,6 @@ FixedDelimitersReplacement: #.yawnoc.non-header-navigation-unordered-lists
     #.yawnoc.navigation-wrap
 
 
-FixedDelimitersReplacement: #.yawnoc.non-header-navigation-ordered-lists
-- queue_position: BEFORE #inline-code
-- syntax_type: BLOCK
-- opening_delimiter: ;;;;
-- attribute_specifications: .sideways
-- content_replacements:
-    #ordered-list-items
-    #prepend-newline
-- closing_delimiter: ;;;;
-- tag_name: ol
-- concluding_replacements:
-    #.yawnoc.navigation-wrap
-
-
 OrdinaryDictionaryReplacement: #.yawnoc.header-links
 - queue_position: BEFORE #specified-links
 * !!home --> [Home]("You are viewing the home page")
