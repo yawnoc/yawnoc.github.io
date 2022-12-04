@@ -111,13 +111,13 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   有子曰、其為人也孝弟、而好犯上者、鮮矣。
 \\
-  Master (Yu|有) saith,
+  Master~(Yu|有) saith,
   He being .[a] man filial .[and] younger-brotherly,
   yet one fond of offending against .[his] superiors,
   .[is] rare.
 >>
 =={.translation-annotations}
-* .有子： Master (Yu|有)
+* .有子： Master~(Yu|有)
   --
   [A disciple of Confucius.][子若]
   --
