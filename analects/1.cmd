@@ -47,6 +47,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 1
 - 2
 - 3
+- 4
 ::::
 
 ||{.marker}
@@ -164,6 +165,14 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 =={.translation-annotations}
 * .言： words; \lit speech
 ==
+
+
+### 4
+
+<<
+  曾子曰、吾日三省吾身、為人謀而不忠乎、與朋友交而不信乎、傳不習乎。
+\\
+>>
 
 
 ||{.marker}
