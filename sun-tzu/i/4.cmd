@@ -5,6 +5,7 @@
 < /resources/rules/translation.cmdr
 < /resources/rules/romanisation.cmdr
 < /resources/rules/sun-tzu.cmdr
+< /resources/rules/surrounds.cmdr
 < /resources/rules/indices.cmdr
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
@@ -27,7 +28,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 * %%surrounds-previous --> [<-- \S3](3)
 * %%surrounds-current --> \S4
 * %%surrounds-next --> [\S5 -->](5)
-- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+- concluding_replacements: #.surrounds.navigation-arrows
 
 %%%
 

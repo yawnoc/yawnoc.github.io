@@ -23,33 +23,10 @@ RegexDictionaryReplacement: #.sun-tzu.header-links-regex
   #.yawnoc.typography
 
 
-OrdinaryDictionaryReplacement: #.sun-tzu.surrounds-navigation-arrows
-* ^ ---> ↑
-* <-- ---> ←
-* --> ---> →
-
-
 OrdinaryDictionaryReplacement: #.sun-tzu.boilerplate
 - queue_position: AFTER #comments
 * %%version-d-default -->
     Unless noted otherwise, I follow the text from Version~D, .《知不足齋叢書》本.
-* %%surrounds -->
-    <nav class="surrounds">
-    <div class="surrounds-up">
-      %%surrounds-up
-    </div>
-    <div class="surrounds-neighbourhood">
-      <div class="surrounds-previous">
-        %%surrounds-previous
-      </div>
-      <div class="surrounds-current">
-        %%surrounds-current
-      </div>
-      <div class="surrounds-next">
-        %%surrounds-next
-      </div>
-    </div>
-    </nav>
 * %%volume-i-multiplications-and-divisions -->
     --
     \S15 through \S22 give the results of multiplications and divisions

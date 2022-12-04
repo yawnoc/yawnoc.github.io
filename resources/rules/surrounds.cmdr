@@ -1,0 +1,25 @@
+OrdinaryDictionaryReplacement: #.surrounds.navigation-arrows
+* ^ ---> ↑
+* <-- ---> ←
+* --> ---> →
+
+
+OrdinaryDictionaryReplacement: #.surrounds.navigation
+- queue_position: AFTER #comments
+* %%surrounds -->
+    <nav class="surrounds">
+    <div class="surrounds-up">
+      %%surrounds-up
+    </div>
+    <div class="surrounds-neighbourhood">
+      <div class="surrounds-previous">
+        %%surrounds-previous
+      </div>
+      <div class="surrounds-current">
+        %%surrounds-current
+      </div>
+      <div class="surrounds-next">
+        %%surrounds-next
+      </div>
+    </div>
+    </nav>

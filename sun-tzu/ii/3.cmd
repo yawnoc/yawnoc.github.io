@@ -5,6 +5,7 @@
 < /resources/rules/translation.cmdr
 < /resources/rules/romanisation.cmdr
 < /resources/rules/sun-tzu.cmdr
+< /resources/rules/surrounds.cmdr
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
@@ -26,7 +27,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 * %%surrounds-previous --> [<-- \S2](2)
 * %%surrounds-current --> \S3
 * %%surrounds-next --> [\S4 -->](4)
-- concluding_replacements: #.sun-tzu.surrounds-navigation-arrows
+- concluding_replacements: #.surrounds.navigation-arrows
 
 %%%
 
