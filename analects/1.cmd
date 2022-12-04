@@ -157,7 +157,13 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子曰、巧言令色、鮮矣仁。
 \\
+  .[The] Master saith,
+  Clever words .[and a] goodly countenance,
+  .[are] rarely of .[virtuous] humanity.
 >>
+=={.translation-annotations}
+* .言： words; \lit speech
+==
 
 
 ||{.marker}

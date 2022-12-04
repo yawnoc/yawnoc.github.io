@@ -5575,7 +5575,7 @@ See also: [自相]
 ==
 * colour; hue
 * countenance
-* (female) beauty
+* (feminine-)beauty
 ==
 
 
