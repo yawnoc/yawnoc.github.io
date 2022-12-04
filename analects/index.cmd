@@ -35,7 +35,7 @@ Work in progress for an English translation the Confucian ''Analects''.
 ##{#contents} Contents of translation
 
 ;;;;{-class}
-1. [.《學而》 ".[To] Learn And"](1)
+1. [.《學而第一》 ".[To] Learn And, .[the] First"](1)
 ;;;;
 
 ||{.marker}
