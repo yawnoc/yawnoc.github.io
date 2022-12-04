@@ -46,6 +46,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ::::{-class}
 - 1
 - 2
+- 3
 ::::
 
 ||{.marker}
@@ -149,6 +150,14 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   .與、平聲、 \C y(u")4, \M y(u/)
   --
 ==
+
+
+### 3
+
+<<
+  子曰、巧言令色、鮮矣仁。
+\\
+>>
 
 
 ||{.marker}
