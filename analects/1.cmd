@@ -72,16 +72,23 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子曰、學而時習之、不亦說乎。
 \\
+  .[The] Master saith,
+  .[To] learn and constantly practise it:
+  .[is] not .[this] pleasing?
 >>
 
 <<
   有朋自遠方來、不亦樂乎。
 \\
+  There being .[a] peer from .[a] far place come:
+  .[is] not .[this a] joy?
 >>
 
 <<
   人不知而不慍、不亦君子乎。
 \\
+  Others knowing .[him] not, yet .[being he] not angry:
+  .[is] not .[this a] superior man?
 >>
 
 

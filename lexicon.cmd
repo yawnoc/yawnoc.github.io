@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-03
+* %date-modified --> 2022-12-04
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -2801,6 +2801,11 @@ See also: [性命]
 * interest
 ==
 
+7 [悅] U+6085
+==
+* pleased
+==
+
 7 [悉] U+6089
 ==
 * know
@@ -2853,6 +2858,11 @@ See also: [性命]
 ==
 * kind
 * affectionate; \met mother
+==
+
+10 [慍] U+614D
+==
+* angry
 ==
 
 12 [憚] U+619A
@@ -3461,6 +3471,11 @@ See also: [有餘]
 * \int [又]: and
 ==
 
+4 [朋] U+670B
+==
+* peer
+==
+
 6 [朕] U+6715
 ==
 * I
@@ -3636,6 +3651,16 @@ See also: [有餘]
 9 [楹] U+6979
 ==
 * column
+==
+
+11 [樂] U+6A02
+[入聲] .音岳 yu(e\)
+==
+* music
+==
+[入聲] .音洛 lu(o\)
+==
+* joy
 ==
 
 11 [樑] U+6A11
@@ -5283,6 +5308,11 @@ See also: [御米]
 * old-man; \met father
 ==
 
+5 [習] U+7FD2
+==
+* practise
+==
+
 9 [翩] U+7FE9
 ==
 * fly rapidly
@@ -5310,7 +5340,7 @@ See also: [御米]
 
 0 [而] U+800C
 ==
-* and; with; but; then
+* and; with; but; yet; then
 * [:speech-assist:]
 ==
 --
@@ -5999,7 +6029,7 @@ See also: [平行], [行年]
 ==
 [陽入]
 ==
-* \var 悅
+* \int [悅]
 ==
 
 7 [説] U+8AAC
