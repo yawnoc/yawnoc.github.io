@@ -47,7 +47,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ##{#translation} Translation
 
 --
-Chinese source text: \ctext[Xue Er][xue-er] <br>
+The Chinese source text is from \ctext[Xue Er][xue-er],
+but with olden-style punctuation. <br>
 Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 --
 
