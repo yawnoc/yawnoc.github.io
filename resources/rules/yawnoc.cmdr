@@ -52,7 +52,7 @@ FixedDelimitersReplacement: #.yawnoc.header-navigation-list
     #.yawnoc.header-wrap
 
 
-FixedDelimitersReplacement: #.yawnoc.non-header-navigation-lists
+FixedDelimitersReplacement: #.yawnoc.non-header-navigation-unordered-lists
 - queue_position: BEFORE #inline-code
 - syntax_type: BLOCK
 - opening_delimiter: ::::
@@ -62,6 +62,20 @@ FixedDelimitersReplacement: #.yawnoc.non-header-navigation-lists
     #prepend-newline
 - closing_delimiter: ::::
 - tag_name: ul
+- concluding_replacements:
+    #.yawnoc.navigation-wrap
+
+
+FixedDelimitersReplacement: #.yawnoc.non-header-navigation-ordered-lists
+- queue_position: BEFORE #inline-code
+- syntax_type: BLOCK
+- opening_delimiter: ;;;;
+- attribute_specifications: .sideways
+- content_replacements:
+    #ordered-list-items
+    #prepend-newline
+- closing_delimiter: ;;;;
+- tag_name: ol
 - concluding_replacements:
     #.yawnoc.navigation-wrap
 
