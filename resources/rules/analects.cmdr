@@ -12,6 +12,11 @@ RegexDictionaryReplacement: #.analects.header-links-regex
   #.yawnoc.typography
 
 
+RegexDictionaryReplacement: #.analects.saying-item-links
+- queue_position: BEFORE #unordered-lists
+* ^[-] [ ] (?P<number> [0-9]+ ) --> - [Saying~\g<number>](#\g<number>)
+
+
 RegexDictionaryReplacement: #.analects.saying-headings
 - queue_position: BEFORE #.yawnoc.heading-permalinks
 * ^[#]{3} [ ] (?P<number> [0-9]+ ) --> ###{#\g<number>} Saying~\g<number>

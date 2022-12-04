@@ -44,7 +44,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 ::::{-class}
-- [Saying~1](#1)
+- 1
 ::::
 
 ||{.marker}
