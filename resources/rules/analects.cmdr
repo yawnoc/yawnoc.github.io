@@ -1,0 +1,12 @@
+OrdinaryDictionaryReplacement: #.analects.header-links-ordinary
+- queue_position: BEFORE #backslash-escapes
+* !!analects --> [Analects]("You are viewing the Analects")
+* !analects --> [Analects](/analects/ "[The] Analects")
+
+
+RegexDictionaryReplacement: #.analects.header-links-regex
+- queue_position: BEFORE #backslash-escapes
+* [!][!](?P<number> [0-9]+ ) -->
+    [Ch.~\g<number>]("You are viewing Chapter~\g<number>")
+- concluding_replacements:
+  #.yawnoc.typography

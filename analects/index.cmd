@@ -2,6 +2,7 @@
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
 < /resources/rules/romanisation.cmdr
+< /resources/rules/analects.cmdr
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
@@ -18,7 +19,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 ^^^^
 - !home
 - !top
-<## TODO: - !!analects ##>
+- !!analects
 - !cite
 ^^^^
 
