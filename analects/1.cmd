@@ -186,7 +186,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 
 * .朋友： friends; \lit peer-friends
 
-* .傳： rare
+* .傳： transmitted
   --
   .傳、平聲、 \C ch'(u")n4, \M chu(a/)n
   --
