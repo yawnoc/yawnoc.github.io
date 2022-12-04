@@ -7,7 +7,7 @@
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"[The] Analects: [To] Learn And, [the] First"'
+* %cite-title --> '"[The] Analects: Chapter~1"'
 * %title --> "[The] Analects: [To] Learn And, [the] First" 《論語學而第一》
 * %description -->
     An annotated English translation of Chapter~1 of the Confucian Analects, \
@@ -37,14 +37,20 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《論語學而第一》
-  ".[The] Analects: .[To] Learn And, .[the] First"
+# .《論語》 ".[The] Analects" <br>
+  Chapter~1. .〈學而〉 '.[To] Learn And'
 
 
 %%surrounds
 
 
 ##{#translation} Translation
+
+<<
+  〈學而第一〉
+\\
+  '.[To] Learn And, .[the] First'
+>>
 
 ||{.marker}
 (Incomplete; work in progress.)
