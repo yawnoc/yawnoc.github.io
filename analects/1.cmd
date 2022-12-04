@@ -45,6 +45,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 ::::{-class}
 - 1
+- 2
 ::::
 
 ||{.marker}
@@ -100,6 +101,24 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 \\
   Others knowing .[him] not, yet .[being he] not angry:
   .[is] not .[this a] superior man?
+>>
+
+
+### 2
+
+<<
+  有子曰、其為人也孝弟、而好犯上者、鮮矣。
+\\
+>>
+
+<<
+  不好犯上、而好作亂者、未之有也。
+\\
+>>
+
+<<
+  君子務本、本立而道生、孝弟也者、其為仁之本與。
+\\
 >>
 
 
