@@ -35,7 +35,7 @@ a[href^="http"]:not(
   background-size: 0.6em;
   padding-right: 0.67em;
 }
-nav li > a {
+nav > ul > li > a {
   font-weight: bold;
 }
 
@@ -130,7 +130,7 @@ li {
 footer > ul > li {
   margin-bottom: 0;
 }
-nav li {
+nav > ul > li {
   margin: 0.33em 0.66em;
 }
 
