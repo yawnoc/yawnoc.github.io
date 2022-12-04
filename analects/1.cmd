@@ -143,7 +143,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   The superior man endeavoureth of .[the] base,
   .[the] base established, then .[the virtuous] way begotten;
   filiality .[and] younger-brotherliness,
-  .[are not they the] base of doing of .[virtuous] humanity?
+  .[are not they the] base of doing .[virtuous] humanity?
 >>
 =={.translation-annotations}
 *
