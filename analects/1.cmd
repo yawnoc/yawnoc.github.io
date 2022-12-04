@@ -43,6 +43,14 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 %%surrounds
 
+::::{-class}
+- [Saying~1](#1)
+::::
+
+||{.marker}
+(Incomplete; work in progress.)
+||
+
 
 ##{#translation} Translation
 
@@ -57,6 +65,25 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 \\
   '.[To] Learn And, .[the] First'
 >>
+
+
+### 1
+
+<<
+  子曰、學而時習之、不亦說乎。
+\\
+>>
+
+<<
+  有朋自遠方來、不亦樂乎。
+\\
+>>
+
+<<
+  人不知而不慍、不亦君子乎。
+\\
+>>
+
 
 ||{.marker}
 (Incomplete; work in progress.)

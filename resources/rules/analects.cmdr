@@ -12,6 +12,11 @@ RegexDictionaryReplacement: #.analects.header-links-regex
   #.yawnoc.typography
 
 
+RegexDictionaryReplacement: #.analects.saying-headings
+- queue_position: BEFORE #.yawnoc.heading-permalinks
+* ^[#]{3} [ ] (?P<number> [0-9]+ ) --> ###{#\g<number>} Saying~\g<number>
+
+
 RegexDictionaryReplacement: #.analects.source-links
 - queue_position: BEFORE #specified-links
 * \\ctext \[ (?P<pinyin> [a-zA-Z ]+ ) \] \[ (?P<slug> [a-z-]+ ) \] -->
