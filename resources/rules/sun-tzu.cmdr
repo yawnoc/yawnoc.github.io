@@ -58,7 +58,7 @@ RegexDictionaryReplacement: #.sun-tzu.source-links
     [Version~A](https://archive.org/details/02094034.cn/page/n\g<page>)
 * \\b \[ (?P<page> [0-9]+ ) \] -->
     [Version~B](https://commons.wikimedia.org/w/index.php?title=File%3A文淵閣四庫全書_0797冊.djvu&page=\g<page>)
-* \\c \[ (?P<page> [0-9]+ ) \] -->
-    [Version~C](https://ctext.org/sunzi-suan-jing#n\g<page>)
+* \\c \[ (?P<number> [0-9]+ ) \] -->
+    [Version~C](https://ctext.org/sunzi-suan-jing#n\g<number>)
 * \\d \[ (?P<page> [0-9]+ ) \] -->
     [Version~D](https://ctext.org/library.pl?if=en&file=86926&page=\g<page>)
