@@ -12,8 +12,8 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     《學而》 (Xue Er).
-* %date-created --> 2019-06-09
-* %date-modified --> 2022-08-06
+* %date-created --> 2022-12-04
+* %date-modified --> 2022-12-04
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
