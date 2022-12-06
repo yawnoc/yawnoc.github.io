@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-11-30
+* %date-modified --> 2022-12-06
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -773,8 +773,8 @@ I have edited the punctuation to not be bizarre.
   小兒曰、鵝鴨何以能浮、鴻雁何以能鳴、松柏何以冬青。
 \\
   .[The] little child said,
-  Why .[be] the goose .[and] the duck able to float?
-  Why .[be] the swan-goose able to sound?
+  Why .[be] the goose .[and] the duck able .[to] float?
+  Why .[be] the swan-goose able .[to] sound?
   Why .[be] the pine-tree .[and] the cypress-tree evergreen?
 >>
 =={.translation-annotations}
@@ -785,9 +785,9 @@ I have edited the punctuation to not be bizarre.
   孔子答曰、鵝鴨能浮、皆因足方、鴻雁能鳴、皆因頸長、松柏冬青、皆因心堅。
 \\
   (Confucius|孔子) answered, saying,
-  The goose .[and] the duck .[be] able to float,
+  The goose .[and] the duck .[be] able .[to] float,
   all because .[their] feet .[are] square.
-  The swan-goose .[be] able to sound,
+  The swan-goose .[be] able .[to] sound,
   all because .[its] neck .[is] long.
   The pine-tree .[and] the cypress-tree .[be] evergreen,
   all because .[their] cores .[are] firm.
@@ -801,9 +801,9 @@ I have edited the punctuation to not be bizarre.
 \\
   .[The] little child answered, saying,
   Not so.
-  Fishes .[and] turtles .[be] able to float,
+  Fishes .[and] turtles .[be] able .[to] float,
   .[and] how .[have they] all feet square?
-  The toad .[be] able to sound,
+  The toad .[be] able .[to] sound,
   .[and] how because of .[a] neck long?
   The green bamboo .[be] evergreen,
   .[and] how because of .[a] core firm?
