@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the first problem in Haidao Suanjing, \
     《海島算經》, `The Sea Island Computational Classic`.
 * %date-created --> 2019-04-20
-* %date-modified --> 2022-11-13
+* %date-modified --> 2022-12-06
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #backslash-continuations
@@ -763,7 +763,7 @@ I have mapped the names of the vertices as follows:
 ##{#see-also} See also
 
 ==
-- [.《孫子算經》"(Sun Tz(uu)|孫子)'s Computational Classic"](/sun-tzu/)
+- [.《孫子算經》"(Sun~Tz(uu)|孫子)'s Computational Classic"](/sun-tzu/)
 ==
 
 

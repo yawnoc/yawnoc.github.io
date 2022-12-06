@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2022-12-04
+* %date-modified --> 2022-12-06
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -91,7 +91,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ###{#lit-math} Mathematics
 
 ====
-- [.《孫子算經》 <br> "(Sun Tz(uu)|孫子)'s Computational Classic"](/sun-tzu/)
+- [.《孫子算經》 <br> "(Sun~Tz(uu)|孫子)'s Computational Classic"](/sun-tzu/)
   ==
   - [.《序》 "Preface"](/sun-tzu/preface/)
   - [.《卷上》 "Volume~I"](/sun-tzu/i/)

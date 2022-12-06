@@ -11,13 +11,13 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic"'
-* %title --> "Sun Tz(uu)'s Computational Classic" 《孫子算經》
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic"'
+* %title --> "Sun~Tz(uu)'s Computational Classic" 《孫子算經》
 * %description -->
     A fully annotated English translation of Sunzi Suanjing, 《孫子算經》, \
-    `Sun Tz(uu)'s Computational Classic`.
+    `Sun~Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-05-04
-* %date-modified --> 2022-11-30
+* %date-modified --> 2022-12-06
 - concluding_replacements:
     #.romanisation.special-characters
     #.yawnoc.double-quotes-in-attributes
@@ -38,7 +38,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 ^^^^
 
 
-# .《孫子算經》 "(Sun Tz(uu)|孫子)'s Computational Classic"
+# .《孫子算經》 "(Sun~Tz(uu)|孫子)'s Computational Classic"
 
 
 --
@@ -60,17 +60,17 @@ of the entire _{l=zh} Sunzi Suanjing_ into English.
 ##{#conways-preface} Conway's Preface
 
 --
-.《孫子算經》, ["(Sun Tz(uu)|孫子)'s Computational Classic"],
+.《孫子算經》, ["(Sun~Tz(uu)|孫子)'s Computational Classic"],
 like the [Sea Island Computational Classic],
 is one of the [ten canon classics] of Chinese mathematics.
 Probably written in the 3rd to 5th centuries AD,
-the reputed author (Sun Tz(uu)|孫子), or "Master~(Sun|孫)",
+the reputed author (Sun~Tz(uu)|孫子), or "Master~(Sun|孫)",
 is not the same one who wrote ''The Art of War''
 (even though the characters are the same, .孫子).
 --
 --
 In late April~2019, I set myself the task of translating
-the entire "(Sun Tz(uu)|孫子)'s Computational Classic" into English.
+the entire "(Sun~Tz(uu)|孫子)'s Computational Classic" into English.
 Apparently this has been done before by Ang &~Lam
 (see [''Fleeting Footsteps'']),
 but I have *not* read that translation,
@@ -90,7 +90,7 @@ It took three and a half years not to actually type it up,
 but to be motivated enough to resume and persevere after taking breaks.
 --
 
-["(Sun Tz(uu)|孫子)'s Computational Classic"]:
+["(Sun~Tz(uu)|孫子)'s Computational Classic"]:
   https://en.wikipedia.org/wiki/Sunzi_Suanjing
 [Sea Island Computational Classic]:
   /lit/sea-island
