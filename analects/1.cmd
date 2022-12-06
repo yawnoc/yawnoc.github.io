@@ -50,6 +50,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 4
 - 5
 - 6
+- 7
 ::::
 
 ||{.marker}
@@ -239,6 +240,19 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 =={.translation-annotations}
 * .文： texts; \or the literary
 ==
+
+
+### 7
+
+<<
+  子夏曰、賢賢易色、事父母、能竭其力、事君、能致其身、與朋友交、言而有信、
+\\
+>>
+
+<<
+  雖曰未學、吾必謂之學矣。
+\\
+>>
 
 
 ||{.marker}
