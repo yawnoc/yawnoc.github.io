@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-04
+* %date-modified --> 2022-12-06
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -392,6 +392,7 @@ See also: [中半]
 [去聲]
 ==
 * chariot
+* four
 ==
 
 
@@ -2172,6 +2173,11 @@ See also: [從容]
 * face
 ==
 
+13 [導] U+5C0E
+==
+* steer
+==
+
 
 ### ⼩ (small) U+2F29
 
@@ -2882,6 +2888,11 @@ See also: [性命]
 * foolish
 ==
 
+9 [愛] U+611B
+==
+* love
+==
+
 10 [慈] U+6148
 ==
 * kind
@@ -3196,6 +3207,11 @@ See also: [掌握]
 [去聲]
 ==
 * [:verb:] scatter
+==
+
+9 [敬] U+656C
+==
+* respect
 ==
 
 11 [數] U+6578
@@ -4395,6 +4411,7 @@ See also: [後生]
 0 [用] U+7528
 ==
 * use
+* expense
 ==
 
 
@@ -5036,6 +5053,12 @@ See also: [符驗]
 6 [策] U+7B56
 ==
 * strategy; scheme
+==
+
+7 [節] U+7BC0
+==
+* restrain
+* segment
 ==
 
 8 [筭] U+7B6D
@@ -6525,6 +6548,7 @@ See also: [遠近]
 9 [道] U+9053
 ==
 * way; Tao
+* \int [導]
 ==
 
 9 [達] U+9054

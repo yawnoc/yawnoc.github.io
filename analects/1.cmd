@@ -199,7 +199,18 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子曰、道千乘之國、敬事而信、節用而愛人、使民以時。
 \\
+  .[The] Master saith,
+  Steering .[a] nation of .[a] thousand chariots:
+  respect matters and .[be] trustworthy;
+  restrain expense and love .[the] people;
+  .[and] employ the people according unto .[the] seasons.
 >>
+=={.translation-annotations}
+* .乘： chariot
+  --
+  .乘、去聲、 \C shing6 (\pm sing6), \M sh(e\)ng
+  --
+==
 
 
 ||{.marker}
