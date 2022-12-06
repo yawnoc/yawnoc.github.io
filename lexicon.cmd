@@ -3941,6 +3941,11 @@ See also: [改正]
 * request; beseech
 ==
 
+3 [汎] U+6C4E
+==
+* \var [泛]
+==
+
 3 [汝] U+6C5D
 ==
 * thou
@@ -3983,6 +3988,11 @@ See also: [改正]
 * method
 * emulate
 * divisor
+==
+
+5 [泛] U+6CDB
+==
+* flood
 ==
 
 5 [注] U+6CE8
@@ -5801,6 +5811,7 @@ See also: [自相]
 [平聲] .音蘅 x(i/)ng
 ==
 * walk; move
+* perform
 * \met element
 ==
 --
@@ -6149,6 +6160,7 @@ See also: [平行], [行年]
 11 [謹] U+8B39
 ==
 * careful; \met stricten
+* earnest
 ==
 
 12 [證] U+8B49

@@ -219,12 +219,26 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子曰、弟子入則孝、出則弟、謹而信、汎愛眾、而親仁。
 \\
+  .[The] Master saith,
+  the younger-brother child .[when] in .[shall be] filial,
+  .[and when] out .[shall be] younger-brotherly,
+  .[and shall be] earnest and trustworthy,
+  floodingly loving .[the] multitudes,
+  and close .[unto them of virtuous] humanity.
 >>
+=={.translation-annotations}
+* .謹： earnest; \or careful
+==
 
 <<
   行有餘力、則以學文。
 \\
+  Performing .[these] have .[he] remaining strength,
+  then with .[it shall he] learn of texts.
 >>
+=={.translation-annotations}
+* .文： texts; \or the literary
+==
 
 
 ||{.marker}
