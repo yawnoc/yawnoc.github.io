@@ -49,6 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 3
 - 4
 - 5
+- 6
 ::::
 
 ||{.marker}
@@ -211,6 +212,19 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   .乘、去聲、 \C shing6 (\pm sing6), \M sh(e\)ng
   --
 ==
+
+
+### 6
+
+<<
+  子曰、弟子入則孝、出則弟、謹而信、汎愛眾、而親仁。
+\\
+>>
+
+<<
+  行有餘力、則以學文。
+\\
+>>
 
 
 ||{.marker}
