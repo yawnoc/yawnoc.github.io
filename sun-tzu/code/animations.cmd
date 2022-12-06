@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     Mathematica code generating animations for the \
     Sunzi Suanjing multiplication & division algorithms.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-06-27
+* %date-modified --> 2022-12-06
 - concluding_replacements:
     #backslash-continuations
     #.yawnoc.typography

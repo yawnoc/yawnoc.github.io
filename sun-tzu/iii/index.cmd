@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Volume~III of Sunzi Suanjing, \
     《孫子算經》, `Sun~Tz(uu)'s Computational Classic`.
 * %date-created --> 2022-08-06
-* %date-modified --> 2022-11-30
+* %date-modified --> 2022-12-06
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
