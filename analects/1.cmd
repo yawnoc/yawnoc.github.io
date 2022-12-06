@@ -247,11 +247,34 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子夏曰、賢賢易色、事父母、能竭其力、事君、能致其身、與朋友交、言而有信、
 \\
+  (Tz(uu)\-hia|子夏) saith,
+  Worthying worthiness .[in] change .[from] feminine-beauty;
+  .[in] serving father .[and] mother, able .[to] exert fully his strength;
+  .[in] serving .[his] ruler, able .[to] set forth his person;
+  .[and in] intercourse with friends, speaking with trustworthiness:
 >>
+=={.translation-annotations}
+* .子夏： (Tz(uu)\-hia|子夏)
+  --
+  [(Pu Shang|卜商), a disciple of Confucius.][子夏]
+  --
+  [子夏]: https://en.wikipedia.org/wiki/Bu_Shang
+
+* .易： change
+  --
+  .易、入聲、 \C yik9, \M y(i\)
+  --
+
+* .朋友： friends; \lit peer-friends
+
+* .而有： with; \lit with having
+==
 
 <<
   雖曰未學、吾必謂之學矣。
 \\
+  although .[he is] called not yet learned,
+  I must speak of him .[as] learned.
 >>
 
 

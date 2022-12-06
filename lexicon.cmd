@@ -4964,6 +4964,11 @@ See also: [長短]
 * chapter
 ==
 
+9 [竭] U+7AED
+==
+* exert fully
+==
+
 9 [端] U+7AEF
 ==
 * beginning; end
@@ -5559,6 +5564,11 @@ See also: [自相]
 ==
 ==
 * 至於： as to
+==
+
+3 [致] U+81F4
+==
+* set forth
 ==
 
 
