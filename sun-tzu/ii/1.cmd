@@ -13,8 +13,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S1"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S1
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S1"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S1
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-20
 - concluding_replacements:
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
+# .《孫子算經卷中》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \S1. Reducing fractions
 
 %%noscript-equations
@@ -140,7 +140,7 @@ inline two-column annotations by [(Liu Huei|劉徽)].
 
 --
 Note that this excerpt is *not* a part
-of (Sun Tz(uu)|孫子)'s Computational Classic:
+of (Sun~Tz(uu)|孫子)'s Computational Classic:
 --
 
 <<

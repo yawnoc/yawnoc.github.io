@@ -13,8 +13,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S1"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S1
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S1"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S1
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-20
 - concluding_replacements:
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
+# .《孫子算經卷上》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \S1. Units of length (or distance)
 
 %%noscript-equations
@@ -256,7 +256,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 --
 I can't be bothered looking up a reputable source
 for the precise length of a (ch'ih|尺)~(.尺) or rule
-when (Sun Tz(uu)|孫子)'s Computational Classic was first written,
+when (Sun~Tz(uu)|孫子)'s Computational Classic was first written,
 but using 0.3~metres as an estimate,
 we have:
 --

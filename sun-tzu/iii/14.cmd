@@ -12,8 +12,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S14"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S14
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S14"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S14
 * %date-created --> 2022-11-12
 * %date-modified --> 2022-11-27
 - concluding_replacements:
@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷下》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
+# .《孫子算經卷下》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
   \S14. Division determining a rate~(4)
 
 %%noscript-equations

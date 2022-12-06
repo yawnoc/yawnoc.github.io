@@ -13,8 +13,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S5"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S5
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S5"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S5
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-20
 - concluding_replacements:
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
+# .《孫子算經卷中》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \S5. Volume exchange of grain~(1)
 
 %%noscript-equations
@@ -118,7 +118,7 @@ Chinese source text: \a[30], \b[153], \c[52142], \d[42]. <br>
 Here we have cross-multiplication.
 [Vol.~I \S10](/sun-tzu/i/10) already gave
 a grain-to-coarse-grain exchange rate of $3/5$,
-so it appears strange that here (Sun Tz(uu)|孫子) uses $30/50$.
+so it appears strange that here (Sun~Tz(uu)|孫子) uses $30/50$.
 --
 
 --
@@ -136,7 +136,7 @@ I think it is informative to include a translation of an excerpt here.
 --
 The source text for this excerpt is from
 [.《四部叢刊初編》 (ctext.org library)].
-Note that this excerpt is *not* a part of (Sun Tz(uu)|孫子)'s Computational Classic: 
+Note that this excerpt is *not* a part of (Sun~Tz(uu)|孫子)'s Computational Classic: 
 --
 
 [.《四部叢刊初編》 (ctext.org library)]:

@@ -13,8 +13,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S19"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S19
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S19"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S19
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-27
 - concluding_replacements:
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
+# .《孫子算經卷中》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \S19. Rod calculus square root: $\sqrt{234567}$
 
 %%noscript-equations
@@ -55,7 +55,7 @@ of the rod calculus square root algorithm.
 --
 --
 In my opinion this is by far the most sophisticated piece of mathematics
-in the entirety of (Sun Tz(uu)|孫子)'s Computational Classic,
+in the entirety of (Sun~Tz(uu)|孫子)'s Computational Classic,
 which is why I have provided a fully annotated and diagrammed walkthrough,
 along with a pseudocode summary in the [Extended commentary](#commentary).
 --
@@ -695,7 +695,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 ###{#pseudocode} Pseudocode
 
 --
-In modern notation, (Sun Tz(uu)|孫子)'s algorithm
+In modern notation, (Sun~Tz(uu)|孫子)'s algorithm
 for computing the square root of the positive integer $x$
 proceeds thus:
 --

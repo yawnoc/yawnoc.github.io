@@ -12,8 +12,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S28"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S28
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S28"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S28
 * %date-created --> 2022-07-30
 * %date-modified --> 2022-11-20
 - concluding_replacements:
@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
+# .《孫子算經卷中》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \S28. Two-point method of false position~(1)
 
 %%noscript-equations
@@ -157,7 +157,7 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
         \frac{6 \times 7 + 7 \times 6}{7 - 6}
         \frac{\unit{lengths}^2}{\unit{lengths}}.
   $$
-  We see that (Sun Tz(uu)|孫子)'s prescription only works
+  We see that (Sun~Tz(uu)|孫子)'s prescription only works
   because the denominator is $X_\mathrm{d} - X_\mathrm{s}
   = 7 \unit{lengths} - 6 \unit{lengths} = 1 \unit{length}$,
   so the division by $X_\mathrm{d} - X_\mathrm{s}$ can be omitted

@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %title --> Sun Tz(uu) multiplication & division animations (Mathematica)
+* %title --> Sun~Tz(uu) multiplication & division animations (Mathematica)
 * %description -->
     Mathematica code generating animations for the \
     Sunzi Suanjing multiplication & division algorithms.
@@ -44,14 +44,14 @@ RegexDictionaryReplacement: #.animation-images
 ^^^^
 
 
-# (Sun Tz(uu)|孫子) multiplication & division animations (Mathematica)
+# (Sun~Tz(uu)|孫子) multiplication & division animations (Mathematica)
 
 %%noscript-equations
 
 --
 See b<https://github.com/yawnoc/sun-tzu-arithmetic>,
 which consists of crappy Mathematica code for the animations in my
-[translation of (Sun Tz(uu)|孫子)'s Computational Classic],
+[translation of (Sun~Tz(uu)|孫子)'s Computational Classic],
 in particular Vol.~I [\S8] &~[\S13] (multiplcation)
 and [\S9] &~[\S14] (division).
 --
@@ -61,7 +61,7 @@ and [\S9] &~[\S14] (division).
 3. Run the following:
 ++
 
-[translation of (Sun Tz(uu)|孫子)'s Computational Classic]: /sun-tzu/
+[translation of (Sun~Tz(uu)|孫子)'s Computational Classic]: /sun-tzu/
 [\S8]: /sun-tzu/i/8
 [\S9]: /sun-tzu/i/9
 [\S13]: /sun-tzu/i/13

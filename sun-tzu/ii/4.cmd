@@ -13,8 +13,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S4"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S4
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S4"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S4
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-30
 - concluding_replacements:
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
+# .《孫子算經卷中》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \S4. Redistributing fractions for equality
 
 %%noscript-equations
@@ -100,7 +100,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
     = \colb{\frac{7}{12}}.
   $$
 
-* To see why (Sun Tz(uu)|孫子)'s algorithm works,
+* To see why (Sun~Tz(uu)|孫子)'s algorithm works,
   it is helpful to first work through the problem once ourselves.
   More generally, consider redistributing the fractions
   $a/A$, $b/B$ and $c/C$ for equality.
@@ -118,7 +118,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
     = \frac{L - (3 aBC, 3 bCA, 3 cAB)}{3 ABC}
   $$
   respectively.
-  Of course (Sun Tz(uu)|孫子) did not have the luxury of modern mathematical notation:
+  Of course (Sun~Tz(uu)|孫子) did not have the luxury of modern mathematical notation:
 ==
 
 <<

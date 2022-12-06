@@ -14,8 +14,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S3"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S3
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S3"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S3
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-20
 - concluding_replacements:
@@ -43,7 +43,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 
-# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
+# .《孫子算經卷上》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \S3. Units of capacity
 
 %%noscript-equations
@@ -305,7 +305,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
 --
 I can't be bothered looking up a reputable source
 for the precise volume of a (sh(e^)ng|升)~(.升)
-when (Sun Tz(uu)|孫子)'s Computational Classic was first written,
+when (Sun~Tz(uu)|孫子)'s Computational Classic was first written,
 but using 1~litre as an estimate,
 we have:
 --

@@ -13,8 +13,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S2"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S2
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S2"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S2
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-20
 - concluding_replacements:
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
+# .《孫子算經卷上》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \S2. Units of weight (or mass)
 
 %%noscript-equations
@@ -189,7 +189,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. <br>
 --
 I can't be bothered looking up a reputable source
 for the precise weight of a (kin|斤)~(.斤) or catty
-when (Sun Tz(uu)|孫子)'s Computational Classic was first written,
+when (Sun~Tz(uu)|孫子)'s Computational Classic was first written,
 but using 600~grams as an estimate,
 we have:
 --

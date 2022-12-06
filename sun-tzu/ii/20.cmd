@@ -13,8 +13,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S20"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S20
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S20"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S20
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-27
 - concluding_replacements:
@@ -41,7 +41,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
+# .《孫子算經卷中》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \S20. Rod calculus square root: $\sqrt{420000}$
 
 %%noscript-equations
@@ -55,7 +55,7 @@ of the rod calculus square root algorithm.
 --
 --
 For a fully annotated and diagrammed walkthrough
-of (Sun Tz(uu)|孫子)'s square root algorithm,
+of (Sun~Tz(uu)|孫子)'s square root algorithm,
 see the [previous section (\S19)](19),
 whose level of detail I will not be repeating here.
 --
@@ -108,7 +108,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   $$
   The balance of this section involves extracting the square root of~420000.
   For a fully annotated and diagrammed walkthrough
-  of (Sun Tz(uu)|孫子)'s square root algorithm,
+  of (Sun~Tz(uu)|孫子)'s square root algorithm,
   see the [previous section (\S19)](19),
   whose level of detail I will not be repeating here.
 ==

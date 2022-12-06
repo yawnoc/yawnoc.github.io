@@ -14,8 +14,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I \S6"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S6
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S6"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S6
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-20
 - concluding_replacements:
@@ -42,7 +42,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
+# .《孫子算經卷上》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~I" <br>
   \S6. Densities of metals etc.
 
 %%noscript-equations
@@ -125,7 +125,7 @@ since it does not adequately pinpoint a specific material.
     ;
       Material
     ;
-      (Sun Tz(uu)|孫子) value <br>
+      (Sun~Tz(uu)|孫子) value <br>
       $\rho_\text{s} / (\unit{tael} \unit{inch}^{-3})$
     ;
       Modern value <br>
@@ -183,7 +183,7 @@ since it does not adequately pinpoint a specific material.
 
 --
 Apart from silver and jade, the densities appear to fit quite well,
-so (Sun Tz(uu)|孫子) either fluked the measurements for gold, copper, lead, and iron
+so (Sun~Tz(uu)|孫子) either fluked the measurements for gold, copper, lead, and iron
 or he was actually a decent experimentalist but buggered up
 the measurements for silver and jade.
 Or maybe he only had access to *very* impure silver and jade:
@@ -207,11 +207,11 @@ $$
 with R^2~=~0.999915; the slope has standard error~0.004453.
 --
 --
-Assuming that (Sun Tz(uu)|孫子)'s $\rho_\text{s}$ and toady's $\rho_\text{m}$
+Assuming that (Sun~Tz(uu)|孫子)'s $\rho_\text{s}$ and toady's $\rho_\text{m}$
 are referring to the same material,
 we *should* have that $\rho_\text{s} = \rho_\text{m}$.
 Therefore we obtain the following experimental conversion relation
-between (Sun Tz(uu)|孫子) and modern density units:
+between (Sun~Tz(uu)|孫子) and modern density units:
 --
 $$
   1 \unit{tael} \unit{inch}^{-3} = (1.1987 \pm 0.0064) \unit{g} \unit{cm}^{-3}.

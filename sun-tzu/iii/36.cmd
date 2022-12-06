@@ -12,8 +12,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~III \S36"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S36
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S36"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S36
 * %date-created --> 2022-11-30
 * %date-modified --> 2022-12-01
 * %styles -->
@@ -53,7 +53,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷下》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
+# .《孫子算經卷下》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~III" <br>
   \S36. Determining the sex of an unborn baby
 
 %%noscript-equations
@@ -219,7 +219,7 @@ with olden-style punctuation added by me:
 * .孕月： months of pregnancy; \or month of pregnancy
   --
   This is even more ambiguous than the text in
-  (Sun Tz(uu)|孫子)'s Computational Classic,
+  (Sun~Tz(uu)|孫子)'s Computational Classic,
   as "month of pregnancy" could arguably mean the month of conception.
   --
 ==

@@ -12,8 +12,8 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~II \S24"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S24
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S24"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S24
 * %date-created --> 2022-07-23
 * %date-modified --> 2022-11-27
 - concluding_replacements:
@@ -40,7 +40,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷中》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
+# .《孫子算經卷中》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~II" <br>
   \S24. Weighted sharing~(1)
 
 %%noscript-equations
@@ -96,7 +96,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
       = (22, 33, 44).
   $$
   As we shall see below,
-  (Sun Tz(uu)|孫子) does the problem in a more roundabout way, computing
+  (Sun~Tz(uu)|孫子) does the problem in a more roundabout way, computing
   $$
     \frac{
       (81 \times 2, 72 \times 3, 63 \times 4) \times 6930

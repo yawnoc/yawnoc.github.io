@@ -12,21 +12,22 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Preface"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Preface" 《孫子算經序》
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Preface"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Preface" 《孫子算經序》
 * %description -->
     An annotated English translation of the Preface to Sunzi Suanjing, \
-    《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
+    《孫子算經》, `Sun~Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-08-06
 - concluding_replacements:
+    #.yawnoc.typography
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
     #backslash-continuations
 
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
-* %%surrounds-up --> [^ Sun Tz(uu)'s Computational Classic](/sun-tzu/)
+* %%surrounds-up --> [^ Sun~Tz(uu)'s Computational Classic](/sun-tzu/)
 * %%surrounds-previous -->
 * %%surrounds-current --> Pref.
 * %%surrounds-next --> [Vol.~I -->](/sun-tzu/i/)
@@ -47,14 +48,14 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 
-# .《孫子算經序》 "(Sun Tz(uu)|孫子)'s Computational Classic: Preface"
+# .《孫子算經序》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Preface"
 
 
 %%surrounds
 
 
 --
-In the preface, (Sun Tz(uu)|孫子) tells us that
+In the preface, (Sun~Tz(uu)|孫子) tells us that
 mathematics governs absolutely everything,
 and allows us to do even magical things
 like "acquire .[the] whereabouts of gods .[and] earth-spirits".
@@ -73,7 +74,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
 <<
   孫子曰、夫算者、
 \\
-  (Sun Tz(uu)|孫子) saith: Computation,
+  (Sun~Tz(uu)|孫子) saith: Computation,
 >>
 
 <<

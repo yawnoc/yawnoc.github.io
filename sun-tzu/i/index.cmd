@@ -13,11 +13,11 @@ OrdinaryDictionaryReplacement: #.footer-properties-override
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
-* %cite-title --> '"Sun Tz(uu)'s Computational Classic: Volume~I"'
-* %title --> "Sun Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》
+* %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I"'
+* %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》
 * %description -->
     An annotated English translation of Volume~I of Sunzi Suanjing, \
-    《孫子算經》, `Sun Tz(uu)'s Computational Classic`.
+    《孫子算經》, `Sun~Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
 * %date-modified --> 2022-11-05
 - concluding_replacements:
@@ -28,7 +28,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 OrdinaryDictionaryReplacement: #.surrounds-navigation
 - queue_position: AFTER #.yawnoc.properties-override
-* %%surrounds-up --> [^ Sun Tz(uu)'s Computational Classic](/sun-tzu/)
+* %%surrounds-up --> [^ Sun~Tz(uu)'s Computational Classic](/sun-tzu/)
 * %%surrounds-previous --> [<-- Pref.](/sun-tzu/preface/)
 * %%surrounds-current --> Vol.~I
 * %%surrounds-next --> [\S1 -->](1)
@@ -48,7 +48,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - !cite
 ^^^^
 
-# .《孫子算經卷上》 "(Sun Tz(uu)|孫子)'s Computational Classic: Volume~I"
+# .《孫子算經卷上》 "(Sun~Tz(uu)|孫子)'s Computational Classic: Volume~I"
 
 %%noscript-equations
 
