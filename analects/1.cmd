@@ -13,7 +13,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     《學而》 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-04
+* %date-modified --> 2022-12-06
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -48,6 +48,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 2
 - 3
 - 4
+- 5
 ::::
 
 ||{.marker}
@@ -191,6 +192,14 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   .傳、平聲、 \C ch'(u")n4, \M chu(a/)n
   --
 ==
+
+
+### 5
+
+<<
+  子曰、道千乘之國、敬事而信、節用而愛人、使民以時。
+\\
+>>
 
 
 ||{.marker}
