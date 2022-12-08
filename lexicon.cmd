@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-08
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -354,7 +354,7 @@ See also: [中半]
 ==
 * main
 * host; lord; owner
-* govern
+* govern; keep unto
 ==
 
 
@@ -1682,6 +1682,11 @@ See also: [未嘗]
 * multiply
 ==
 
+5 [固] U+56FA
+==
+* solid
+==
+
 8 [國] U+570B
 ==
 * nation; country; state
@@ -2906,7 +2911,7 @@ See also: [性命]
 
 12 [憚] U+619A
 ==
-* fearful
+* fear
 ==
 
 13 [憾] U+61BE
@@ -6564,7 +6569,7 @@ See also: [遠近]
 ==
 * pass; surpass; \met carry
 * excessive
-* mistake
+* mistake; err
 ==
 
 9 [道] U+9053
@@ -6724,7 +6729,7 @@ See also: [遠近]
 ==
 [去聲]
 ==
-* important
+* important; grave
 * [:verb:] esteem
 ==
 

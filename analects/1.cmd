@@ -284,21 +284,27 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子曰、君子不重則不威、學則不固。
 \\
+  .[The] Master saith,
+  the superior man not grave .[shall] not .[be] mighty,
+  .[his] learning not solid.
 >>
 
 <<
   主忠信。
 \\
+  .[He] keepeth unto loyalty .[and] trustworthiness.
 >>
 
 <<
   無友不如己者。
 \\
+  .[He] hath not friends not as himself.
 >>
 
 <<
   過則勿憚改。
 \\
+  Erring, .[he] doth not fear reform.
 >>
 
 
