@@ -13,7 +13,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     《學而》 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-08
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -51,6 +51,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 5
 - 6
 - 7
+- 8
 ::::
 
 ||{.marker}
@@ -275,6 +276,29 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 \\
   although .[he is] called not yet learned,
   I must speak of him .[as] learned.
+>>
+
+
+### 8
+
+<<
+  子曰、君子不重則不威、學則不固。
+\\
+>>
+
+<<
+  主忠信。
+\\
+>>
+
+<<
+  無友不如己者。
+\\
+>>
+
+<<
+  過則勿憚改。
+\\
 >>
 
 
