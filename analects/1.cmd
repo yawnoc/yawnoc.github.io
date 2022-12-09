@@ -314,7 +314,13 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   曾子曰、慎終追遠、民德歸厚矣。
 \\
+  Master~(Ts(e^)ng|曾) saith,
+  Taking care .[in the rites of] the ended .[and] chasing the far-.[departed],
+  .[shall] the people's virtue return unto greatness.
 >>
+=={.translation-annotations}
+* .厚： greatness; \lit thickness; \or favour
+==
 
 
 ||{.marker}

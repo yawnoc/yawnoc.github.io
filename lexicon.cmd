@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-08
+* %date-modified --> 2022-12-09
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1343,6 +1343,12 @@ See also: [北方]
 
 
 ### ⼚ (cliff) U+2F1A
+
+7 [厚] U+539A
+==
+* thick; \met great
+* favour
+==
 
 8 [原] U+539F
 ==
@@ -2907,6 +2913,11 @@ See also: [性命]
 10 [慍] U+614D
 ==
 * angry
+==
+
+10 [慎] U+614E
+==
+* take care {:in doing something:}
 ==
 
 12 [憚] U+619A
@@ -5775,6 +5786,12 @@ See also: [自相]
 * 蕩蕩： vast
 ==
 
+13 [薄] U+8584
+==
+* thin; meagre
+* contemn
+==
+
 15 [藝] U+85DD
 ==
 * art
@@ -6492,6 +6509,11 @@ See also: [遠近]
 5 [述] U+8FF0
 ==
 * relate
+==
+
+6 [追] U+8FFD
+==
+* chase
 ==
 
 6 [退] U+9000
