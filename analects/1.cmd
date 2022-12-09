@@ -52,6 +52,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 6
 - 7
 - 8
+- 9
 ::::
 
 ||{.marker}
@@ -305,6 +306,14 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   過則勿憚改。
 \\
   Erring, .[he] doth not fear reform.
+>>
+
+
+### 9
+
+<<
+  曾子曰、慎終追遠、民德歸厚矣。
+\\
 >>
 
 
