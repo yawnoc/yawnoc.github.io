@@ -124,9 +124,9 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 =={.translation-annotations}
 * .有子： Master~(Yu|有)
   --
-  [A disciple of Confucius.][子若]
+  [(Yu Jo|有若), styled (Tz(uu) Jo|子若), a disciple of Confucius.][有若]
   --
-  [子若]: https://en.wikipedia.org/wiki/Disciples_of_Confucius#You_Ruo_(Ziruo)
+  [有若]: https://en.wikipedia.org/wiki/Disciples_of_Confucius#You_Ruo_(Ziruo)
 
 * .鮮： rare
   --
@@ -184,6 +184,12 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   .[have I learning] transmitted .[unto me] not practised?
 >>
 =={.translation-annotations}
+* .曾子： Master~(Ts(e^)ng|曾)
+  --
+  [(Ts(e^)ng Sh(e^)n|曾參), a disciple of Confucius.][曾子]
+  --
+  [曾子]: https://en.wikipedia.org/wiki/Zengzi
+
 * .為： for
   --
   .為、去聲、 \C wai6, \M w(e\)i
@@ -258,7 +264,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 =={.translation-annotations}
 * .子夏： (Tz(uu)\-hia|子夏)
   --
-  [(Pu Shang|卜商), a disciple of Confucius.][子夏]
+  [(Pu Shang|卜商), styled (Tz(uu)\-hia|子夏), a disciple of Confucius.][子夏]
   --
   [子夏]: https://en.wikipedia.org/wiki/Bu_Shang
 
