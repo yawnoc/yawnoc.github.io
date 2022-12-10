@@ -386,7 +386,18 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子曰、父在、觀其志、父沒、觀其行、三年無改於父之道、可謂孝矣。
 \\
+  .[The] Master saith,
+  .[When his] father .[yet] is, observe his will;
+  .[his] father ended, observe his conduct:
+  three years without altering from .[the] way of .[his] father,
+  can .[he be] called filial.
 >>
+=={.translation-annotations}
+* .行： conduct
+  --
+  .行、去聲、 \C hang6, \M x(i\)ng (\gr x(i/)ng)
+  --
+==
 
 
 ||{.marker}

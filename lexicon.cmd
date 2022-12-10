@@ -3178,7 +3178,7 @@ See also: [掌握]
 
 3 [改] U+6539
 ==
-* reform
+* alter; reform
 ==
 ==
 * 改正： [:verb:] correct
@@ -3991,6 +3991,7 @@ See also: [改正]
 4 [沒] U+6C92
 ==
 * submerge
+* end
 ==
 
 4 [沖] U+6C96
