@@ -54,6 +54,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 7
 - 8
 - 9
+- 10
 ::::
 
 ||{.marker}
@@ -328,6 +329,24 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 =={.translation-annotations}
 * .厚： greatness; \lit thickness; \or favour
 ==
+
+
+### 10
+
+<<
+  子禽問於子貢曰、夫子至於是邦也、必聞其政、求之與、抑與之與。
+\\
+>>
+
+<<
+  子貢曰、夫子溫良恭儉讓以得之。
+\\
+>>
+
+<<
+  夫子之求之也、其諸異乎人之求之與。
+\\
+>>
 
 
 ||{.marker}
