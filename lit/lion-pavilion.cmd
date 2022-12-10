@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Record of [the] Lion's Pavilion, Victoria~Peak`, \
     the text on a plaque in the Lion's Pavilion, Victoria Peak, Hong Kong.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-07-10
+* %date-modified --> 2022-12-10
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -163,7 +163,7 @@ The inserted olden-style punctuation is my own.
   山中復有竒花異草可以觀賞、幽泉怪石可以遊遨。
 \\
   Amidst .[the] mount there are also odd flowers .[and] strange grasses
-  .[they] can see .[and] appreciate,
+  .[they] can observe .[and] appreciate,
   .[and] secluded springs .[and] strange rocks
   .[they] can tour .[and] roam.
 >>

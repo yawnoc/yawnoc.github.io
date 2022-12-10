@@ -6025,7 +6025,7 @@ See also: [平行], [行年]
 
 18 [觀] U+89C0
 ==
-* observe; see
+* observe
 ==
 
 
