@@ -55,6 +55,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 8
 - 9
 - 10
+- 11
 ::::
 
 ||{.marker}
@@ -377,6 +378,14 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 \\
   .[Our] master's seeking them,
   .[is not this] different unto others' seeking them?
+>>
+
+
+### 11
+
+<<
+  子曰、父在、觀其志、父沒、觀其行、三年無改於父之道、可謂孝矣。
+\\
 >>
 
 
