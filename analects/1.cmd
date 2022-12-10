@@ -1,4 +1,5 @@
 < /resources/rules/yawnoc.cmdr
+< /resources/rules/rendering.cmdr
 < /resources/rules/language.cmdr
 < /resources/rules/translation.cmdr
 < /resources/rules/romanisation.cmdr
@@ -13,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     《學而》 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-09
+* %date-modified --> 2022-12-10
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
