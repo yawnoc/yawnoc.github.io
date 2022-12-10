@@ -336,16 +336,47 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子禽問於子貢曰、夫子至於是邦也、必聞其政、求之與、抑與之與。
 \\
+  (Tz(uu)\-k'in|子禽) asked of (Tz(uu)\-kung|子貢), saying,
+  .[Our] master arriveth in these countries,
+  .[and doth] surely hear of their governances:
+  seeketh .[he] them? or .[be he] given them?
 >>
+=={.translation-annotations}
+* .子禽： (Tz(uu)\-k'in|子禽)
+  --
+  (Ch'(e^)n K'ang|陳亢), styled (Tz(uu)\-k'in|子禽), a disciple of Confucius.
+  --
+
+* .子貢： (Tz(uu)\-kung|子貢)
+  --
+  [(Tuan\-mu Ts'ih|端木賜), styled (Tz(uu)\-kung|子貢), a disciple of Confucius.][子貢]
+  --
+  [子貢]: https://en.wikipedia.org/wiki/Duanmu_Ci
+
+* .與、平聲、 \C y(u")4, \M y(u/)
+  --
+  The occurrences of .與 directly after .之 are speech-assist.
+  --
+
+* .與之： given them
+  --
+  .與、.上聲、 \C y(u")5, \M y(uv)
+  --
+==
 
 <<
   子貢曰、夫子溫良恭儉讓以得之。
 \\
+  (Tz(uu)\-kung|子貢) saith,
+  .[Our] master .[is] warm, decent, deferential, frugal, .[and] yielding,
+  by .[which he] getteth them.
 >>
 
 <<
   夫子之求之也、其諸異乎人之求之與。
 \\
+  .[Our] master's seeking them,
+  .[is not this] different unto others' seeking them?
 >>
 
 

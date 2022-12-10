@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-09
+* %date-modified --> 2022-12-10
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -837,6 +837,11 @@ See also: [以來]
 13 [億] U+5104
 ==
 * square-myriad
+==
+
+13 [儉] U+5109
+==
+* frugal
 ==
 
 14 [儒] U+5112
@@ -2840,6 +2845,11 @@ See also: [性命]
 * affection
 ==
 
+6 [恭] U+606D
+==
+* deferential
+==
+
 6 [息] U+606F
 ==
 * rest
@@ -3023,6 +3033,12 @@ See also: [所在]
 ==
 * seize
 * [:unit:] grab
+==
+
+4 [抑] U+6291
+==
+* suppress
+* or
 ==
 
 4 [折] U+6298
@@ -4096,6 +4112,11 @@ See also: [改正]
 * ditch
 ==
 
+10 [溫] U+6EAB
+==
+* warm
+==
+
 11 [滿] U+6EFF
 ==
 * full; reach
@@ -4486,7 +4507,7 @@ See also: [後生]
 
 6 [異] U+7570
 ==
-* different; strange; \met opposite
+* different (unto); strange; \met opposite (to)
 ==
 
 7 [畫] U+756B
@@ -5648,6 +5669,11 @@ See also: [自相]
 
 ### ⾉ (stopping) U+2F89
 
+1 [良] U+826F
+==
+* decent
+==
+
 
 ### ⾊ (color) U+2F8A
 
@@ -6174,6 +6200,7 @@ See also: [平行], [行年]
 * all .[the]; various
 * [:contraction:] [之]|[於]
 * [:contraction:] [之]|[乎]
+* [:speech-assist:]
 ==
 
 9 [謀] U+8B00
@@ -6216,6 +6243,11 @@ See also: [平行], [行年]
 16 [變] U+8B8A
 ==
 * change
+==
+
+17 [讓] U+8B93
+==
+* yield
 ==
 
 
@@ -6672,6 +6704,11 @@ See also: [遠近]
 
 
 ### ⾢ (city) U+2FA2
+
+4 [邦] U+90A6
+==
+* country
+==
 
 4 [邪] U+90AA
 ==
