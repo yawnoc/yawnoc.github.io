@@ -259,7 +259,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   子夏曰、賢賢易色、事父母、能竭其力、事君、能致其身、與朋友交、言而有信、
 \\
   (Tz(uu)\-hia|子夏) saith,
-  Worthying worthiness .[in] change .[from] feminine-beauty;
+  Worthying worthiness .[in a] change .[from] feminine-beauty;
   .[in] serving father .[and] mother, able .[to] exert fully his strength;
   .[in] serving .[his] ruler, able .[to] set forth his person;
   .[and in] intercourse with friends, speaking with trustworthiness:
