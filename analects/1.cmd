@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     《學而》 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-10
+* %date-modified --> 2022-12-11
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -149,7 +149,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   君子務本、本立而道生、孝弟也者、其為仁之本與。
 \\
   The superior man endeavoureth of .[the] base,
-  .[the] base established, then .[the virtuous] way begotten;
+  .[the] base established, then .[the] way .[of virtue is] begotten;
   filiality .[and] younger-brotherliness,
   .[are not they the] base of doing .[virtuous] humanity?
 >>
