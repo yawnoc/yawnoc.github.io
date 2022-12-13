@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     《學而》 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-11
+* %date-modified --> 2022-12-13
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -56,6 +56,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 9
 - 10
 - 11
+- 12
 ::::
 
 ||{.marker}
@@ -398,6 +399,24 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   .行、去聲、 \C hang6, \M x(i\)ng (\gr x(i/)ng)
   --
 ==
+
+
+### 12
+
+<<
+  有子曰、禮之用、和為貴。
+\\
+>>
+
+<<
+  先王之道、斯為美、小大由之。
+\\
+>>
+
+<<
+  有所不行、知和而和、不以禮節之、亦不可行也。
+\\
+>>
 
 
 ||{.marker}
