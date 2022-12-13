@@ -455,7 +455,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   因不失其親、亦可宗也。
 \\
   .[Those] depended upon, losing not their closeness,
-  .[even they] can also .[be regarded] mentors.
+  can also .[be regarded] mentors.
 >>
 
 
