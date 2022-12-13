@@ -58,6 +58,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 11
 - 12
 - 13
+- 14
 ::::
 
 ||{.marker}
@@ -455,6 +456,14 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 \\
   .[Those] depended upon, losing not their closeness,
   .[even they] can also .[be regarded] mentors.
+>>
+
+
+### 14
+
+<<
+  子曰、君子食無求飽、居無求安、敏於事而慎於言、就有道而正焉、可謂好學也已。
+\\
 >>
 
 
