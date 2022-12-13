@@ -433,16 +433,28 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   有子曰、信近於義、言可復也。
 \\
+  Master~(Yu|有) saith,
+  Trustworthiness kept near unto righteousness,
+  words can .[be] fulfilled.
 >>
+=={.translation-annotations}
+* .言： words; \lit speech
+
+* .復： fulfilled; \lit restored
+==
 
 <<
   恭近於禮、遠恥辱也。
 \\
+  Deference kept near unto propriety,
+  .[one] keepeth far from shame .[and] disgrace.
 >>
 
 <<
   因不失其親、亦可宗也。
 \\
+  .[Those] depended upon, losing not their closeness,
+  .[even they] can also .[be regarded] mentors.
 >>
 
 

@@ -1698,7 +1698,7 @@ See also: [未嘗]
 
 3 [因] U+56E0
 ==
-* because (of)
+* because (of); depend upon
 * therefore
 * multiply
 ==
@@ -2097,6 +2097,7 @@ See also: [字典]
 5 [宗] U+5B97
 ==
 * ancestor
+* mentor
 ==
 
 5 [官] U+5B98
@@ -2727,7 +2728,7 @@ See also: [何得]
 
 9 [復] U+5FA9
 ==
-* return; restore; back
+* return; restore; back; \met fulfil
 * repeat; again; \met also
 ==
 
@@ -2847,6 +2848,11 @@ See also: [性命]
 6 [恃] U+6043
 ==
 * rely upon
+==
+
+6 [恥] U+6065
+==
+* shame
 ==
 
 6 [恩] U+6069
