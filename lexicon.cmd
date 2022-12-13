@@ -2094,6 +2094,12 @@ See also: [字典]
 * keeper
 ==
 
+3 [安] U+5B89
+==
+* (at) ease
+* how
+==
+
 5 [宗] U+5B97
 ==
 * ancestor
@@ -2242,6 +2248,7 @@ See also: [從容]
 9 [就] U+5C31
 ==
 * assume
+* nigh
 ==
 
 
@@ -3219,6 +3226,11 @@ See also: [掌握]
 7 [敎] U+654E
 ==
 * \var [教]
+==
+
+7 [敏] U+654F
+==
+* astute
 ==
 
 7 [敗] U+6557
@@ -7313,6 +7325,11 @@ See also: [鴻雁]
 5 [飼] U+98FC
 ==
 * feed
+==
+
+5 [飽] U+98FD
+==
+* sated
 ==
 
 6 [養] U+990A
