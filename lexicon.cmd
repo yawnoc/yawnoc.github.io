@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-10
+* %date-modified --> 2022-12-13
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1605,6 +1605,16 @@ See also: [同式]
 ==
 ==
 * 性命： life
+==
+
+5 [和] U+548C
+[平聲]
+==
+* harmony
+==
+[去聲]
+==
+* harmonise; echo
 ==
 
 6 [哉] U+54C9
@@ -4458,7 +4468,7 @@ See also: [後生]
 
 0 [用] U+7528
 ==
-* use
+* use; apply
 * expense
 ==
 
@@ -4468,6 +4478,13 @@ See also: [後生]
 0 [田] U+7530
 ==
 * field
+==
+
+0 [由] U+7531
+==
+* follow
+* pass
+* realise
 ==
 
 0 [甲] U+7532
@@ -5871,6 +5888,7 @@ See also: [自相]
 ==
 * walk; move
 * perform
+* work {:succeed:}
 * \met element
 ==
 --

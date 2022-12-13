@@ -406,16 +406,24 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   有子曰、禮之用、和為貴。
 \\
+  Master~(Yu|有) saith,
+  .[In the] application of propriety, harmony be valued.
 >>
 
 <<
   先王之道、斯為美、小大由之。
 \\
+  .[In the] way of .[the] former kings, this be beauty,
+  .[and both] small .[and] great .[do] follow it.
 >>
 
 <<
   有所不行、知和而和、不以禮節之、亦不可行也。
 \\
+  There be that .[for which it] worketh not;
+  knowing harmony and .[doing] harmony,
+  .[but] not restraining it with propriety,
+  also cannot work.
 >>
 
 
