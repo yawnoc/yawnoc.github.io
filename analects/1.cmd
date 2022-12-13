@@ -57,6 +57,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 10
 - 11
 - 12
+- 13
 ::::
 
 ||{.marker}
@@ -424,6 +425,24 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   knowing harmony and .[doing] harmony,
   .[but] not restraining it with propriety,
   also cannot work.
+>>
+
+
+### 13
+
+<<
+  有子曰、信近於義、言可復也。
+\\
+>>
+
+<<
+  恭近於禮、遠恥辱也。
+\\
+>>
+
+<<
+  因不失其親、亦可宗也。
+\\
 >>
 
 
