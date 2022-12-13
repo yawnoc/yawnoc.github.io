@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-13
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -813,7 +813,7 @@ I have edited the punctuation to not be bizarre.
   小兒又問曰、天上零零有幾星。
 \\
   .[The] little child asked again, saying,
-  How many stars be there scattered .[in the] heavens above?
+  How many stars be there scattered .[in the] heaven above?
 >>
 =={.translation-annotations}
 * .零零： scattered
@@ -827,7 +827,7 @@ I have edited the punctuation to not be bizarre.
 \\
   (Confucius|孔子) answered, saying,
   .[I am] just come to ask of .[the] earth;
-  why must .[we] talk of .[the] heavens?
+  why must .[we] talk of .[the] heaven?
 >>
 
 <<
@@ -848,7 +848,7 @@ I have edited the punctuation to not be bizarre.
 \\
   (Confucius|孔子) said,
   And .[do] discourse matters before .[our very] eyes;
-  why must .[we] talk of .[the] heavens
+  why must .[we] talk of .[the] heaven
     .[and] speak of .[the] earth?
 >>
 
