@@ -550,10 +550,10 @@ but concede that in most instances this will not be possible
 >>
 
 <<
-  康熈五十五年閏三月十九日
+  康熈五十五年閏三月十九日。
 \\
   .[The] nineteenth day of .[the] leapt third month
-  of .[the] fifty-fifth year of (K'ang\-hi|康熈)
+  of .[the] fifty-fifth year of (K'ang\-hi|康熈).
 >>
 =={.translation-annotations}
 * Here we have `U+7188`~.熈 rather than `U+7199`~.熙.
