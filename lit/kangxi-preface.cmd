@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2022-10-12
+* %date-modified --> 2022-12-14
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -540,7 +540,7 @@ but concede that in most instances this will not be possible
   get provided .[a] knowing of .[the] source .[and] flow
   of glyphs .[and] characters,
   and .[shall] the official, .[the] offices, the officer, .[and] the people,
-  also have that which .[to] adhere to .[and] keep.
+  also have that .[to] adhere to .[and] keep.
 >>
 
 <<
