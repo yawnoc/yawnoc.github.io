@@ -73,7 +73,24 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、為政以德、譬如北辰、居其所而眾星共之。
 \\
+  .[The] Master saith,
+  .[He that] governeth with virtue,
+  .[is] likened unto .[the] North Star,
+  abiding in its place with .[the] multitude of stars going round it.
 >>
+=={.translation-annotations}
+* .為政： governeth; \lit doeth governance
+
+* .居： abiding in; \or dwelling in
+
+* .共： going round
+  --
+  .共、上聲、 \C kung2, \M g(ov)ng
+  --
+  --
+  Used for .拱.
+  --
+==
 
 
 ||{.marker}
