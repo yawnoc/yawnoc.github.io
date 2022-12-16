@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     of dividing China into 27 separate countries, \
     including the Republic of Hunan (湖南共和國).
 * %date-created --> 2019-09-24
-* %date-modified --> 2022-07-23
+* %date-modified --> 2022-12-16
 - concluding_replacements:
     #.yawnoc.typography
     #backslash-continuations
@@ -160,7 +160,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
 \\
   I am opposing .[a] 'Great Republic of China',
   [:.[and] I am asserting .[a] 'Republic of (Hunan|湖南)':].
-  What reasons have .[I]?
+  What reasons are there?
 >>
 
 <<
