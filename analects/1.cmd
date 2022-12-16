@@ -479,21 +479,42 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子貢曰、貧而無諂、富而無驕、何如。
 \\
+  (Tz(uu)\-kung|子貢) said,
+  .[He that be] poor yet without flattery,
+  .[and he that be] wealthy yet without pride:
+  what of .[them]?
 >>
 
 <<
   子曰、可也。未若貧而樂、富而好禮者也。
 \\
+  .[And the] Master saith, .[They are] acceptable.
+  .[But] not yet as .[he that be] poor yet joyful,
+  .[and] he that .[be] wealthy yet fond of propriety.
 >>
 
 <<
-  子貢曰、詩云、如切如磋、如琢如磨。其斯之謂與。
+  子貢曰、詩云、如切如磋、如琢如磨、其斯之謂與。
 \\
+  (Tz(uu)\-kung|子貢) said,
+  .[The Classic of] Poetry saith,
+  As the cut .[and] as the polished,
+  as the carved .[and] as the honed;
+  .[is not that the] meaning of this?
 >>
+=={.translation-annotations}
+*
+  --
+  .與、平聲、 \C y(u")4, \M y(u/)
+  --
+==
 
 <<
   子曰、賜也、始可與言詩已矣、告諸往而知來者。
 \\
+  .[And the] Master saith,
+  (Ts'ih|賜), can .[I] begin to speak with of .[the] Poetry;
+  .[I] inform him of .[that] gone, and .[he] knoweth that which cometh .[after].
 >>
 
 

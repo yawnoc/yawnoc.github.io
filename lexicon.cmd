@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-13
+* %date-modified --> 2022-12-16
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -477,6 +477,11 @@ See also: [中半]
 1 [于] U+4E8E
 ==
 * \var [於]
+==
+
+2 [云] U+4E91
+==
+* say
 ==
 
 2 [互] U+4E92
@@ -1494,7 +1499,7 @@ See also: [北方]
 
 2 [可] U+53EF
 ==
-* can; \met indeed
+* can; \met acceptable; indeed
 * ought to
 ==
 ==
@@ -4442,6 +4447,11 @@ See also: [以為], [為政]
 * principle; reason; science
 ==
 
+8 [琢] U+7422
+==
+* carve
+==
+
 
 ### ⽠ (melon) U+2F60
 
@@ -4866,9 +4876,19 @@ See also: [長短]
 * ordinary
 ==
 
+10 [磋] U+78CB
+==
+* polish
+==
+
 11 [磚] U+78DA
 ==
 * brick
+==
+
+11 [磨] U+78E8
+==
+* hone
 ==
 
 
@@ -6212,6 +6232,11 @@ See also: [平行], [行年]
 * who
 ==
 
+8 [諂] U+8AC2
+==
+* flattery
+==
+
 8 [請] U+8ACB
 ==
 * request; ask
@@ -7387,6 +7412,11 @@ See also: [鴻雁]
 5 [駒] U+99D2
 ==
 * foal
+==
+
+12 [驕] U+9A55
+==
+* pride
 ==
 
 13 [驗] U+9A57
