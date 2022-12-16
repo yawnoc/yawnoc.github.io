@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Record of [the] Lion's Pavilion, Victoria~Peak`, \
     the text on a plaque in the Lion's Pavilion, Victoria Peak, Hong Kong.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-12-10
+* %date-modified --> 2022-12-16
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -108,18 +108,9 @@ The inserted olden-style punctuation is my own.
 
 * .拱： going round
   --
-  The line .如北辰居中、而五星拱之 is a nod to Confucius
-  in [《論語為政》]{l=zh-Hant}(https://ctext.org/analects/wei-zheng):
+  The line .如北辰居中、而五星拱之 is a nod to Confucius;
+  see [''Analects''~2.1](/analects/2#1).
   --
-  <<
-    子曰、為政以德、譬如北辰、居其所而眾星共之。
-  \\
-    .[The] Master saith,
-    .[He that] governeth with virtue,
-    .[is] likened unto .[the] North Star, abiding in its place with
-    .[the] multitude of stars going round it.
-  >>
-  Here, .共 is interchangeable with .拱.
 ==
 
 <<
