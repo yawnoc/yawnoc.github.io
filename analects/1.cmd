@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> "[The] Analects: [To] Learn And, [the] First" 《論語學而第一》
 * %description -->
     An annotated English translation of Chapter~1 of the Confucian Analects, \
-    《學而》 (Xue Er).
+    〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
 * %date-modified --> 2022-12-16
 - concluding_replacements:
