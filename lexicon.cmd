@@ -2900,6 +2900,12 @@ See also: [性命]
 * comprehend
 ==
 
+7 [患] U+60A3
+==
+* troubled
+* calamity
+==
+
 8 [情] U+60C5
 ==
 * feeling; sentiment; \met sense

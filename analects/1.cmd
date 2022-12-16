@@ -530,6 +530,9 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
 <<
   子曰、不患人之不己知、患不知人也。
 \\
+  .[The] Master saith,
+  .[I am] not troubled at others' not myself knowing,
+  .[but] troubled .[that I] know not others.
 >>
 
 
