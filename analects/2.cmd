@@ -45,6 +45,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 ::::
+- 1
 ::::
 
 ||{.marker}
@@ -64,6 +65,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   〈為政第二〉
 \\
   '.[He that] Governeth, .[the] Second'
+>>
+
+
+### 1
+
+<<
+  子曰、為政以德、譬如北辰、居其所而眾星共之。
+\\
 >>
 
 
