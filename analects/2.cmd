@@ -57,7 +57,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 --
 The Chinese source text is from \ctext[Wei Zheng][wei-zheng],
 but with olden-style punctuation. <br>
-Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er]<##, \legge[9]##>
+Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 --
 
 <<

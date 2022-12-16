@@ -30,5 +30,5 @@ RegexDictionaryReplacement: #.analects.source-links
     [.論語注疏](https://ctext.org/lunyu-zhushu/\g<slug>)
 * \\coll \[ (?P<slug> [a-z-]+ ) \] -->
     [.論語集注](https://ctext.org/si-shu-zhang-ju-ji-zhu/\g<slug>)
-* \\legge \[ (?P<page> [0-9]+ ) \] -->
-    [Legge](https://archive.org/details/chineseclassicsw0001unse/page/n\g<page>/mode/1up?view=theater)
+* \\legge \[ (?P<page> [n]? [0-9]+ ) \] -->
+    [Legge](https://archive.org/details/chineseclassicsw0001unse/page/\g<page>/mode/1up?view=theater)

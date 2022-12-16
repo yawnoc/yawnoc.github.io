@@ -73,7 +73,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 --
 The Chinese source text is from \ctext[Xue Er][xue-er],
 but with olden-style punctuation. <br>
-Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
+Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 --
 
 <<
