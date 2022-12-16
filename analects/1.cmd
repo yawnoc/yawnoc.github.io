@@ -516,6 +516,12 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   (Ts'ih|賜), can .[I] begin to speak with of .[the] Poetry;
   .[I] inform him of .[that] gone, and .[he] knoweth that which cometh .[after].
 >>
+=={.translation-annotations}
+* .賜： (Ts'ih|賜)
+  --
+  The given name of (Tz(uu)\-kung|子貢).
+  --
+==
 
 
 ||{.marker}
