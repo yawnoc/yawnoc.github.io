@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Work in progress for an English translation the Confucian Analects, 《論語》.
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-04
+* %date-modified --> 2022-12-16
 
 %%%
 
@@ -36,6 +36,7 @@ Work in progress for an English translation the Confucian ''Analects''.
 
 ::::{-class}
 - [Chapter~1. .〈學而〉 '.[To] Learn And'](1)
+- [Chapter~2. .〈為政〉 '.[He that] Governeth'](2)
 ::::
 
 ||{.marker}
