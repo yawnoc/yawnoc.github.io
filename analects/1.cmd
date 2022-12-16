@@ -60,6 +60,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 13
 - 14
 - 15
+- 16
 ::::
 
 ||{.marker}
@@ -522,6 +523,14 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   The given name of (Tz(uu)\-kung|子貢).
   --
 ==
+
+
+### 16
+
+<<
+  子曰、不患人之不己知、患不知人也。
+\\
+>>
 
 
 ||{.marker}
