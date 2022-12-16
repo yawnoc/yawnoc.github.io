@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     《學而》 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-13
+* %date-modified --> 2022-12-16
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -59,6 +59,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 12
 - 13
 - 14
+- 15
 ::::
 
 ||{.marker}
@@ -470,6 +471,29 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[154]
   astute in matters and taking care in speech,
   nighing .[them that] have .[the] way .[of virtue] and .[being] righted;
   .[even he] can .[be] called fond of learning.
+>>
+
+
+### 15
+
+<<
+  子貢曰、貧而無諂、富而無驕、何如。
+\\
+>>
+
+<<
+  子曰、可也。未若貧而樂、富而好禮者也。
+\\
+>>
+
+<<
+  子貢曰、詩云、如切如磋、如琢如磨。其斯之謂與。
+\\
+>>
+
+<<
+  子曰、賜也、始可與言詩已矣、告諸往而知來者。
+\\
 >>
 
 
