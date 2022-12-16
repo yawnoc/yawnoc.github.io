@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the first problem in Haidao Suanjing, \
     《海島算經》, `The Sea Island Computational Classic`.
 * %date-created --> 2019-04-20
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-16
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #backslash-continuations
@@ -138,7 +138,7 @@ Parentheticals are (half-column) inline annotations in the original text.
   \\
     Suppose there be .[a] looking at .[a] ::{.colour-b} sea island::;
     erect ::{.colour-r} two posts::,
-    ::{.colour-r} .[of] equal height three rods::,
+    ::{.colour-r} of equal height three rods::,
     front .[and] rear
     ::{.colour-g} separated from each other .[by a]  thousand paces::,
     .[and] make .[the] rear post and .[the] front post
@@ -578,7 +578,7 @@ I have mapped the names of the vertices as follows:
     己庚辛形、分::{.colour-b}己庚壬形、同己庚句::、而::{.colour-r}辛壬爲股較::。
   \\
     .[The] shape $FGH$, .[is] split into ::{.colour-b} .[the] shape $FGI$,
-    .[of] same minor-cathetus $FG$::,
+    of same minor-cathetus $FG$::,
     with ::{.colour-r} $HI$ being .[the] major-cathetus chariot-beam::.
   >>
   =={.translation-annotations}
@@ -623,7 +623,7 @@ I have mapped the names of the vertices as follows:
     甲辰己形、分::{.colour-b}甲辰丙形、同甲辰句::、而::{.colour-r}己丙爲股較::。
   \\
     .[The] shape $AOF$, .[is] split into ::{.colour-b} .[the] shape $AOC$,
-    .[of] same minor-cathetus $AO$::,
+    of same minor-cathetus $AO$::,
     with ::{.colour-r} $FC$ being .[the] major-cathetus chariot-beam::.
   >>
 
