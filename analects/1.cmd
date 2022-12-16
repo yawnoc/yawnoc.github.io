@@ -63,10 +63,6 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 16
 ::::
 
-||{.marker}
-(Incomplete; work in progress.)
-||
-
 
 ##{#translation} Translation
 
@@ -534,11 +530,6 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
   .[I am] not troubled at others' not myself knowing,
   .[but] troubled .[that I] know not others.
 >>
-
-
-||{.marker}
-(Incomplete; work in progress.)
-||
 
 
 %%surrounds
