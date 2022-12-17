@@ -99,6 +99,10 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、詩三百、一言以蔽之、曰、思無邪。
 \\
+  .[The] Master saith,
+  .[The Classic of] Poetry's three hundred,
+  .[have] one saying to cover them, saying,
+  Thoughts without wickedness.
 >>
 
 

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-16
+* %date-modified --> 2022-12-17
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -2842,6 +2842,11 @@ See also: [未必]
 * neglect
 * sudden
 * [:unit:] floss
+==
+
+5 [思] U+601D
+==
+* thought
 ==
 
 5 [性] U+6027
@@ -5861,6 +5866,11 @@ See also: [自相]
 11 [蔚] U+851A
 ==
 * luxuriant
+==
+
+12 [蔽] U+853D
+==
+* cover
 ==
 
 12 [蕩] U+8569
