@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-12-13
+* %date-modified --> 2022-12-17
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -847,7 +847,7 @@ I have edited the punctuation to not be bizarre.
   孔子曰、且論眼前之事、何必談天説地。
 \\
   (Confucius|孔子) said,
-  And .[do] discourse matters before .[our very] eyes;
+  And also .[do] discourse matters before .[our very] eyes;
   why must .[we] talk of .[the] heaven
     .[and] speak of .[the] earth?
 >>

@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the Preface to Sunzi Suanjing, \
     《孫子算經》, `Sun~Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-17
 - concluding_replacements:
     #.yawnoc.typography
     #.yawnoc.double-quotes-in-attributes
@@ -311,7 +311,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   嚮之者富有餘、背之者貧且窶、
 \\
   He that faceth it .[shall be] wealthy in excess,
-  .[but] he that turneth .[his] back to it .[shall be] poor and destitute;
+  .[but] he that turneth .[his] back to it .[shall be] poor and also destitute;
 >>
 =={.translation-annotations}
 * .窶： destitute
