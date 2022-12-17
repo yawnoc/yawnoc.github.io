@@ -47,6 +47,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ::::
 - 1
 - 2
+- 3
 ::::
 
 ||{.marker}
@@ -103,6 +104,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[The Classic of] Poetry's three hundred,
   .[have] one saying to cover them, saying,
   Thoughts without wickedness.
+>>
+
+
+### 3
+
+<<
+  子曰、道之以政、齊之以刑、民免而無恥。
+\\
+>>
+
+<<
+  道之以德、齊之以禮、有恥且格。
+\\
 >>
 
 
