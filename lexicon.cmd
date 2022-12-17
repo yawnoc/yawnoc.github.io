@@ -290,7 +290,7 @@ See also: [不盡], [莫不]
 
 4 [且] U+4E14
 ==
-* and
+* and also
 ==
 
 4 [世] U+4E16
@@ -889,6 +889,11 @@ See also: [以來]
 * light; luminary
 ==
 
+5 [免] U+514D
+==
+* spare; avoid
+==
+
 6 [兒] U+5152
 ==
 * child; \met son
@@ -1082,6 +1087,11 @@ See also: [以來]
 ==
 * cut
 * dissect
+==
+
+4 [刑] U+5211
+==
+* punishment
 ==
 
 4 [列] U+5217
@@ -3728,6 +3738,14 @@ See also: [朋友]
 * tray
 * case
 * \var [按]
+==
+
+6 [格] U+683C
+==
+* form
+* character
+* correct
+* come; arrive; unto
 ==
 
 6 [桑] U+6851
@@ -7668,8 +7686,8 @@ See also: [黃金]
 
 0 [齊] U+9F4A
 ==
-* [:adjective:] equal; uniform; orderly; even
-* [:verb:] equal; make orderly
+* [:adjective:] equal; uniform; even
+* [:verb:] equal; make uniform
 * together; complete
 ==
 

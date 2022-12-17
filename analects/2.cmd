@@ -112,11 +112,18 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、道之以政、齊之以刑、民免而無恥。
 \\
+  .[The] Master saith,
+  Steering them with governance,
+  .[and] making them uniform with punishment,
+  the people .[shall] avoid yet have not shame.
 >>
 
 <<
   道之以德、齊之以禮、有恥且格。
 \\
+  Steering them with virtue,
+  .[and] making them uniform with propriety,
+  .[shall they] have shame and also .[be] corrected.
 >>
 
 
