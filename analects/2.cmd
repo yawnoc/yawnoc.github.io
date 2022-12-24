@@ -201,7 +201,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   --
   An officer of the state of (Lu|魯), surnamed (Ki|姬),
   clan name (M(e^)ng\-sun|孟孫) (used by Confucius below),
-  and named (Ho-ki|何忌).
+  and named (Ho\-ki|何忌).
   --
 ==
 
@@ -253,14 +253,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子游問孝。子曰、今之孝者、是謂能養。
 \\
-  (Tz(uu)-yu|子游) asked of filiality.
+  (Tz(uu)\-yu|子游) asked of filiality.
   .[And the] Master saith,
   .[The] filiality of today, this speaketh of .[being] able to provide for.
 >>
 =={.translation-annotations}
-* .子游： (Tz(uu)-yu|子游)
+* .子游： (Tz(uu)\-yu|子游)
   --
-  [(Yen Yen|言偃), styled (Tz(uu)-yu|子游), a disciple of Confucius.][子游]
+  [(Yen Yen|言偃), styled (Tz(uu)\-yu|子游), a disciple of Confucius.][子游]
   --
   [子游]: https://en.wikipedia.org/wiki/Yan_Yan_(philosopher)
 
