@@ -1107,7 +1107,7 @@ See also: [以來]
 5 [別] U+5225
 ==
 * distinguish; distinction
-* other; different
+* other
 * separate
 ==
 
