@@ -286,7 +286,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[Holding the] countenance .[is] difficult;
   there being .[an] incident,
     the younger-brother child serving of their toil;
-  there being wine .[and] feed,
+  .[and] there being wine .[and] feed,
     .[letting] the elder consume:
   .[have] ever these .[been] thought of as filiality?
 >>
