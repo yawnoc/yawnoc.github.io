@@ -2695,7 +2695,7 @@ See also: [參差]
 * afterbear
 ==
 ==
-* 後生： the young
+* 後生： young
 ==
 --
 See also: [以後]
