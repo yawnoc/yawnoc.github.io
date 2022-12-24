@@ -52,6 +52,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 5
 - 6
 - 7
+- 8
 ::::
 
 ||{.marker}
@@ -272,6 +273,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   As to the hound .[and] the horse,
   .[they] all .[are] able to have providing for;
   respecting not, how .[be they] distinct?
+>>
+
+
+### 8
+
+<<
+  子夏問孝。子曰、色難、有事弟子服其勞、有酒食先生饌、曾是以為孝乎。
+\\
 >>
 
 
