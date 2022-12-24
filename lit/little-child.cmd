@@ -888,7 +888,7 @@ I have edited the punctuation to not be bizarre.
       then .[be they] not worthy of fear.
   >>
   =={.translation-annotations}
-  * .後生： the young; \lit the after-born
+  * .後生： the young; \lit the latter-born
     --
     This constrasts with .先生, literally "former-born",
     which classically was a polite address to an older, wiser person.
