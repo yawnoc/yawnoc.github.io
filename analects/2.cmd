@@ -250,8 +250,28 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ### 7
 
 <<
-  子游問孝。子曰、今之孝者、是謂能養。至於犬馬、皆能有養、不敬、何以別乎。
+  子游問孝。子曰、今之孝者、是謂能養。
 \\
+  (Tz(uu)-yu|子游) asked of filiality.
+  .[And the] Master saith,
+  .[The] filiality of today, this speaketh of .[being] able .[to] provide for.
+>>
+=={.translation-annotations}
+* .子游： (Tz(uu)-yu|子游)
+  --
+  [(Yen Yen|言偃), styled (Tz(uu)-yu|子游), a disciple of Confucius.][子游]
+  --
+  [子游]: https://en.wikipedia.org/wiki/Yan_Yan_(philosopher)
+
+* .養： provide for; \or support
+==
+
+<<
+  至於犬馬、皆能有養、不敬、何以別乎。
+\\
+  As to the hound .[and] the horse,
+  .[they] all .[are] able .[to] have providing for;
+  respecting not, how .[be they] distinct?
 >>
 
 

@@ -4373,6 +4373,11 @@ See also: [以為], [為政]
 
 ### ⽝ (dog) U+2F5D
 
+0 [犬] U+72AC
+==
+* hound
+==
+
 2 [犯] U+72AF
 ==
 * offend against
