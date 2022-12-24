@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-17
+* %date-modified --> 2022-12-24
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -2926,6 +2926,13 @@ See also: [性命]
 * feeling; sentiment; \met sense
 ==
 
+8 [惑] U+60D1
+==
+* perplex
+* delude
+* doubt
+==
+
 8 [惛] U+60DB
 ==
 * confused; dazed
@@ -4868,7 +4875,7 @@ See also: [相傳]
 
 5 [矩] U+77E9
 ==
-* steel-square
+* steel-square; \met rules
 ==
 --
 See also: [規矩]
@@ -6477,6 +6484,11 @@ See also: [平行], [行年]
 7 [踈] U+8E08
 ==
 * \var [疏]
+==
+
+9 [踰] U+8E30
+==
+* overstep
 ==
 
 11 [蹤] U+8E64

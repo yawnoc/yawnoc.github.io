@@ -133,32 +133,52 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、吾十有五而志于學、
 \\
+  .[The] Master saith,
+  I .[at] ten and five .[years put] will upon learning;
 >>
+=={.translation-annotations}
+* .有： and
+  --
+  .有、 \C yau6, \M y(o\)u
+  --
+==
 
 <<
   三十而立、
 \\
+  .[at] thirty .[was I] established;
 >>
 
 <<
   四十而不惑、
 \\
+  .[at] forty .[I] doubted not;
 >>
 
 <<
   五十而知天命、
 \\
+  .[at] fifty .[did I] know .[the] Will of Heaven;
 >>
+=={.translation-annotations}
+* .命： Will; \lit Command; \or Mandate
+==
 
 <<
   六十而耳順、
 \\
+  .[at] sixty .[were mine] ears obedient;
 >>
 
 <<
   七十而從心所欲、不踰矩。
 \\
+  .[at] seventy .[could I] follow that .[mine] heart desired,
+  .[and] not overstep .[the] rules.
 >>
+=={.translation-annotations}
+* .矩： rules; \lit steel-square
+==
 
 
 ||{.marker}
