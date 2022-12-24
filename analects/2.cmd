@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2022-12-17
+* %date-modified --> 2022-12-24
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -48,6 +48,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 1
 - 2
 - 3
+- 4
 ::::
 
 ||{.marker}
@@ -124,6 +125,39 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   Steering them with virtue,
   .[and] making them uniform with propriety,
   .[shall they] have shame and also .[be] corrected.
+>>
+
+
+### 4
+
+<<
+  子曰、吾十有五而志于學、
+\\
+>>
+
+<<
+  三十而立、
+\\
+>>
+
+<<
+  四十而不惑、
+\\
+>>
+
+<<
+  五十而知天命、
+\\
+>>
+
+<<
+  六十而耳順、
+\\
+>>
+
+<<
+  七十而從心所欲、不踰矩。
+\\
 >>
 
 
