@@ -49,6 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 2
 - 3
 - 4
+- 5
 ::::
 
 ||{.marker}
@@ -182,6 +183,24 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 =={.translation-annotations}
 * .矩： rules; \lit steel-square
 ==
+
+
+### 5
+
+<<
+  孟懿子問孝。子曰、無違。
+\\
+>>
+
+<<
+  樊遲御、子告之曰、孟孫問孝於我、我對曰、無違。樊遲曰、何謂也。
+\\
+>>
+
+<<
+  子曰、生事之以禮、死葬之以禮、祭之以禮。
+\\
+>>
 
 
 ||{.marker}
