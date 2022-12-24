@@ -190,16 +190,41 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   孟懿子問孝。子曰、無違。
 \\
+  Master~(M(e^)ng I|孟懿) asked of filiality.
+  .[And the] Master saith, Without going against.
 >>
+=={.translation-annotations}
+* .孟懿子： Master~(M(e^)ng I|孟懿)
+  --
+  An officer of the state of (Lu|魯), surnamed (Ki|姬),
+  clan name (M(e^)ng\-sun|孟孫) (used by Confucius below),
+  and named (Ho-ki|何忌).
+  --
+==
 
 <<
   樊遲御、子告之曰、孟孫問孝於我、我對曰、無違。樊遲曰、何謂也。
 \\
+  (Fan Ch'ih|樊遲) driving, .[the] Master informed him, saying,
+  (M(e^)ng\-sun|孟孫) asked of filiality of me,
+  .[and] I replied, saying, Without going against.
+  (Fan Ch'ih|樊遲) said, What meantest .[thou]?
 >>
+=={.translation-annotations}
+* .樊遲： (Fan Ch'ih|樊遲)
+  --
+  [(Fan S(u")|樊須), styled (Tz(uu)\-ch'ih|子遲), a disciple of Confucius.][樊遲]
+  --
+  [樊遲]: https://en.wikipedia.org/wiki/Disciples_of_Confucius#Fan_Xu_(Zichi)
+==
 
 <<
   子曰、生事之以禮、死葬之以禮、祭之以禮。
 \\
+  .[And the] Master saith,
+  .[In] life serve them according unto propriety;
+  .[in] death bury them according unto propriety,
+  .[and] sacrifice to them according unto propriety.
 >>
 
 

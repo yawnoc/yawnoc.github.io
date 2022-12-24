@@ -4946,6 +4946,11 @@ See also: [長短]
 * spirit; mind
 ==
 
+6 [祭] U+796D
+==
+* sacrifice
+==
+
 13 [禮] U+79AE
 ==
 * propriety; rites
@@ -5855,6 +5860,11 @@ See also: [自相]
 * \var [篇]
 ==
 
+9 [葬] U+846C
+==
+* bury
+==
+
 10 [蒙] U+8499
 ==
 * cover
@@ -6744,6 +6754,11 @@ See also: [遠近]
 ==
 * attain
 * convey
+==
+
+9 [違] U+9055
+==
+* go against
 ==
 
 10 [遙] U+9059
