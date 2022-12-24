@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2022-12-14
+* %date-modified --> 2022-12-24
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -293,7 +293,7 @@ but concede that in most instances this will not be possible
 \\
   Therefore in .[the] Five Sounds,
   there must be that gotten biasedly;
-  thus those able .[to] wholly provide of .[the] Seven Sounds,
+  thus those able to wholly provide of .[the] Seven Sounds,
   .[are] rare.
 >>
 =={.translation-annotations}
@@ -413,7 +413,7 @@ but concede that in most instances this will not be possible
   .[the] pronunciations .[and] meanings .[be] numerous .[and] profound:
   relying .[only] upon .[the] views of one person,
   .[and] keeping .[only the] explanations of one school,
-  .[am I] not necessarily able .[to] comprehend through without gaps.
+  .[am I] not necessarily able to comprehend through without gaps.
 >>
 =={.translation-annotations}
 * .朕： I

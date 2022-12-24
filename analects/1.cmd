@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-16
+* %date-modified --> 2022-12-24
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -261,8 +261,8 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 \\
   (Tz(uu)\-hia|子夏) saith,
   Worthying worthiness .[in a] change .[from] feminine-beauty;
-  .[in] serving father .[and] mother, able .[to] exert fully his strength;
-  .[in] serving .[his] ruler, able .[to] set forth his person;
+  .[in] serving father .[and] mother, able to exert fully his strength;
+  .[in] serving .[his] ruler, able to set forth his person;
   .[and in] intercourse with friends, speaking with trustworthiness:
 >>
 =={.translation-annotations}

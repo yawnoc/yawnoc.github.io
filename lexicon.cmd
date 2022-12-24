@@ -5684,7 +5684,7 @@ See also: [聯翩]
 
 6 [能] U+80FD
 ==
-* able
+* able (to)
 ==
 
 
