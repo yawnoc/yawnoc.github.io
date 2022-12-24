@@ -50,6 +50,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 3
 - 4
 - 5
+- 6
 ::::
 
 ||{.marker}
@@ -225,6 +226,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[In] life serve them according unto propriety;
   .[in] death bury them according unto propriety,
   .[and] sacrifice to them according unto propriety.
+>>
+
+
+### 6
+
+<<
+  孟武伯問孝。子曰、父母唯其疾之憂。
+\\
 >>
 
 
