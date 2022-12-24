@@ -1637,6 +1637,11 @@ See also: [同式]
 * [:speech-assist:]
 ==
 
+8 [唯] U+552F
+==
+* only
+==
+
 8 [啄] U+5544
 ==
 * peck
@@ -2984,6 +2989,12 @@ See also: [性命]
 10 [慎] U+614E
 ==
 * take care {:in doing something:}
+==
+
+11 [憂] U+6182
+==
+* melancholy
+* worry
 ==
 
 12 [憚] U+619A
@@ -4652,6 +4663,17 @@ See also: [後生]
 
 
 ### ⽧ (sickness) U+2F67
+
+5 [疾] U+75BE
+==
+* sickness
+* haste
+==
+
+5 [病] U+75C5
+==
+* disease
+==
 
 
 ### ⽨ (dotted-tent) U+2F68

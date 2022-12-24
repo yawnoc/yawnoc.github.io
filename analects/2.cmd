@@ -234,7 +234,16 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   孟武伯問孝。子曰、父母唯其疾之憂。
 \\
+  (M(e^)ng Wu|孟武) .[the] Eldest asked of filiality.
+  .[And the] Master saith,
+  .[That] father .[and] mother only .[have the] worry of his sickness.
 >>
+=={.translation-annotations}
+* .孟武伯： (M(e^)ng Wu|孟武) .[the] Eldest
+  --
+  The son of Master~(M(e^)ng I|孟懿) in [Saying~5](#5).
+  --
+==
 
 
 ||{.marker}
