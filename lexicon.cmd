@@ -1614,7 +1614,7 @@ See also: [同式]
 5 [命] U+547D
 ==
 * command; order; mandate
-* fate; will .[of heaven]
+* fate; \met will .[of heaven]
 * [:verb:] name
 * life
 ==

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An English translation of the original text for 《狐假虎威》, \
     `[The] Fox Feigneth [the] Tiger's Authority`.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-11-13
+* %date-modified --> 2022-12-24
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -140,6 +140,8 @@ but with olden-style punctuation:
   --
 
 * .逆： defy; \or go against
+
+* .命： will; \lit command; \or mandate
 ==
 
 <<
