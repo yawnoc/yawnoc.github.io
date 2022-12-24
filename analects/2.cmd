@@ -51,6 +51,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 4
 - 5
 - 6
+- 7
 ::::
 
 ||{.marker}
@@ -244,6 +245,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   The son of Master~(M(e^)ng I|孟懿) in [Saying~5](#5).
   --
 ==
+
+
+### 7
+
+<<
+  子游問孝。子曰、今之孝者、是謂能養。至於犬馬、皆能有養、不敬、何以別乎。
+\\
+>>
 
 
 ||{.marker}
