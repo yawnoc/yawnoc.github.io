@@ -139,7 +139,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 =={.translation-annotations}
 * .有： and
   --
-  .有、 \C yau6, \M y(o\)u
+  .有、去聲、 \C yau6, \M y(o\)u
   --
 ==
 
@@ -169,6 +169,9 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 \\
   .[at] sixty .[were mine] ears obedient;
 >>
+=={.translation-annotations}
+* .順： obedient; \or conforming
+==
 
 <<
   七十而從心所欲、不踰矩。
