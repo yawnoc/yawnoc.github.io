@@ -281,7 +281,25 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子夏問孝。子曰、色難、有事弟子服其勞、有酒食先生饌、曾是以為孝乎。
 \\
+  (Tz(uu)\-hia|子夏) asked of filiality.
+  .[And the] Master saith,
+  .[Holding the] countenance .[is] difficult;
+  there being .[an] incident,
+    the younger-brother child serving of their toil;
+  there being wine .[and] feed,
+    .[letting] the elder consume:
+  .[have] ever these .[been] thought of as filiality?
 >>
+=={.translation-annotations}
+* .事： incident; \or matter
+
+* .食： feed
+  --
+  .食、去聲、 \C tsee6, \M s(i\)
+  --
+
+* .先生： the elder; \lit the former-born
+==
 
 
 ||{.marker}

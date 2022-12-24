@@ -883,6 +883,9 @@ See also: [以來]
 * first
 * former; late
 ==
+==
+* 先生： elder; teacher
+==
 
 4 [光] U+5149
 ==
@@ -3627,6 +3630,13 @@ See also: [有餘]
 See also: [朋友]
 --
 
+4 [服] U+670D
+==
+* raiment; wear
+* submit
+* serve
+==
+
 6 [朕] U+6715
 ==
 * I
@@ -4540,7 +4550,7 @@ See also: [以為], [為政]
 * 天生： inborn
 ==
 --
-See also: [後生]
+See also: [先生], [後生]
 --
 
 
@@ -6895,6 +6905,11 @@ See also: [遠近]
 * match
 ==
 
+3 [酒] U+9152
+==
+* wine
+==
+
 6 [酬] U+916C
 ==
 * toast {:salute by alcohol:}
@@ -7423,7 +7438,7 @@ See also: [鴻雁]
 0 [食] U+98DF
 [去聲]
 ==
-* \int [飼]: feed
+* feed
 ==
 [入聲]
 ==
@@ -7457,6 +7472,12 @@ See also: [鴻雁]
 ==
 * 多餘： excess
 * 有餘： in excess; with spare
+==
+
+12 [饌] U+994C
+==
+* consume
+* prepare food
 ==
 
 
