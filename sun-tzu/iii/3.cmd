@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S3"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S3
 * %date-created --> 2022-08-07
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -127,9 +127,9 @@ Chinese source text: \a[58], \b[159], \c[52223], \d[70]. <br>
 * .斛法： .[the] barrel divisor
   --
   This is the conversion between the capacity unit "barrel",
-    (hu|斛)~(.斛),
+    (huk|斛)~(.斛),
   and the volume unit "cubic rule",
-    (ch'ih|尺)~(.尺);
+    (ch'ek|尺)~(.尺);
   see [Vol.~II \S10 Extended commentary](/sun-tzu/ii/10#commentary).
   --
 
