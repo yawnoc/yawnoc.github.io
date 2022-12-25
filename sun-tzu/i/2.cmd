@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S2"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S2
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -159,7 +159,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. <br>
   --
   --
   (K(u")n|鈞)~(.鈞).
-  A quarter of the (shih|石)~(.石) or "stone" below,
+  A quarter of the (shek|石)~(.石) or "stone" below,
   and of similar weight to the [imperial quarter] (28~pounds).
   Difficult to render otherwise
   since Chinese dictionaries simply define it as thirty catties.
@@ -171,11 +171,11 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. <br>
 
 * .石： stone
   --
-  (Shih|石)~(.石).
+  (Shek|石)~(.石).
   --
   --
   This is a literal rendering.
-  The Chinese stone (shih|石)~(.石) is of the order 120~pounds,
+  The Chinese stone (shek|石)~(.石) is of the order 120~pounds,
   making it closer to the [imperial hundredweight]
   than the *much* lighter imperial stone (14~pounds).
   --
