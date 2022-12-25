@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-24
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -120,15 +120,15 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 <<
   有子曰、其為人也孝弟、而好犯上者、鮮矣。
 \\
-  Master~(Yu|有) saith,
+  Master~(Yiu|有) saith,
   He being .[a] man filial .[and] younger-brotherly,
   yet one fond of offending against .[his] superiors,
   .[is] rare.
 >>
 =={.translation-annotations}
-* .有子： Master~(Yu|有)
+* .有子： Master~(Yiu|有)
   --
-  [(Yu Jo|有若), styled (Tz(uu) Jo|子若), a disciple of Confucius.][有若]
+  [(Yiu Rok|有若), styled (Tz(uu) Rok|子若), a disciple of Confucius.][有若]
   --
   [有若]: https://en.wikipedia.org/wiki/Disciples_of_Confucius#You_Ruo_(Ziruo)
 
@@ -338,20 +338,20 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 <<
   子禽問於子貢曰、夫子至於是邦也、必聞其政、求之與、抑與之與。
 \\
-  (Tz(uu)\-k'in|子禽) asked of (Tz(uu)\-kung|子貢), saying,
+  (Tz(uu)\-k'im|子禽) asked of (Tz(uu)\-kung|子貢), saying,
   .[Our] master arriveth in these countries,
   .[and doth] surely hear of their governances:
   seeketh .[he] them? or .[be he] given them?
 >>
 =={.translation-annotations}
-* .子禽： (Tz(uu)\-k'in|子禽)
+* .子禽： (Tz(uu)\-k'im|子禽)
   --
-  (Ch'(e^)n K'ang|陳亢), styled (Tz(uu)\-k'in|子禽), a disciple of Confucius.
+  (Ch'(e^)n K'ang|陳亢), styled (Tz(uu)\-k'im|子禽), a disciple of Confucius.
   --
 
 * .子貢： (Tz(uu)\-kung|子貢)
   --
-  [(Tuan\-mu Ts'ih|端木賜), styled (Tz(uu)\-kung|子貢), a disciple of Confucius.][子貢]
+  [(Tuan\-muk Tz'(uu)|端木賜), styled (Tz(uu)\-kung|子貢), a disciple of Confucius.][子貢]
   --
   [子貢]: https://en.wikipedia.org/wiki/Duanmu_Ci
 
@@ -406,7 +406,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 <<
   有子曰、禮之用、和為貴。
 \\
-  Master~(Yu|有) saith,
+  Master~(Yiu|有) saith,
   .[In the] application of propriety, harmony be valued.
 >>
 
@@ -432,7 +432,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 <<
   有子曰、信近於義、言可復也。
 \\
-  Master~(Yu|有) saith,
+  Master~(Yiu|有) saith,
   Trustworthiness kept near unto righteousness,
   words can .[be] fulfilled.
 >>
@@ -510,11 +510,11 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
   子曰、賜也、始可與言詩已矣、告諸往而知來者。
 \\
   .[And the] Master saith,
-  (Ts'ih|賜), can .[I] begin to speak with of .[the] Poetry;
+  (Tz'(uu)|賜), can .[I] begin to speak with of .[the] Poetry;
   .[I] inform him of .[that] gone, and .[he] knoweth that which cometh .[after].
 >>
 =={.translation-annotations}
-* .賜： (Ts'ih|賜)
+* .賜： (Tz'(uu)|賜)
   --
   The given name of (Tz(uu)\-kung|子貢).
   --
