@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-12-24
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -41,12 +41,12 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 
 --
-This is one of several accounts of [(Hiang T'o|項橐)],
+This is one of several accounts of [(Hiang T'ok|項橐)],
 a child prodigy who is supposed to have outwitted (Confucius|孔子)
 at the age of seven.
 --
 
-[(Hiang T'o|項橐)]: https://zh.wikipedia.org/wiki/項橐
+[(Hiang T'ok|項橐)]: https://zh.wikipedia.org/wiki/項橐
 
 --
 The Chinese source text is from a 1999 (.己卯年) Chinese almanac (.通勝),
@@ -259,7 +259,7 @@ I have edited the punctuation to not be bizarre.
   .[The] little child answered, saying,
   I dwell in .[a] decrepit hometown, .[in] lowly land,
   .[and am] surnamed (Hiang|項),
-  .[and] named (T'o|橐),
+  .[and] named (T'ok|橐),
   .[and] yet to have .[a] style-name.
 >>
 =={.translation-annotations}
@@ -751,17 +751,17 @@ I have edited the punctuation to not be bizarre.
   適來問橐、橐一一答之。橐今欲求敎夫子一言、明以誨橐、幸請勿棄。
 \\
   .[The] little child asked (Confucius|孔子), saying,
-  .[My master is] just come to ask (T'o|橐) .[questions],
-  .[and] (T'o|橐) .[hath] one .[by] one answered them.
-  (T'o|橐) now wisheth to
+  .[My master is] just come to ask (T'ok|橐) .[questions],
+  .[and] (T'ok|橐) .[hath] one .[by] one answered them.
+  (T'ok|橐) now wisheth to
   request instruction of .[my] master .[in] one saying,
-  .[to] teach (T'o|橐) clearly,
+  .[to] teach (T'ok|橐) clearly,
   .[and doth] wishfully ask .[that my master] do not forsake.
 >>
 =={.translation-annotations}
-* .橐： (T'o|橐)
+* .橐： (T'ok|橐)
   --
-  Out of respect, the child (Hiang T'o|項橐) refers
+  Out of respect, the child (Hiang T'ok|項橐) refers
   [to himself in the third person][illeism],
   and to (Confucius|孔子) as .夫子, ".[my] master", rather than .汝, "thou".
   --
