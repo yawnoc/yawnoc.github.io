@@ -42,7 +42,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 --
 This is one of several accounts of [(Hiang T'ok|項橐)],
-a child prodigy who is supposed to have outwitted (Confucius|孔子)
+a child prodigy who is supposed to have outwitted Confucius
 at the age of seven.
 --
 
@@ -126,7 +126,7 @@ I have edited the punctuation to not be bizarre.
   .車、音居、 \C k\_(u")1, \M j(u-)
   --
   --
-  This is a literary text, and (Confucius|孔子)~&~co. are riding in a chariot,
+  This is a literary text, and Confucius~&~co. are riding in a chariot,
   not a small cart or a wheelbarrow.
   Therefore, please do not pronounce this ch'e1/ch(e-);
   my ears will bleed.
@@ -168,7 +168,7 @@ I have edited the punctuation to not be bizarre.
 =={.translation-annotations}
 * .低頭： lowered .[his] head
   --
-  Being a little child, he had to look up to speak to (Confucius|孔子);
+  Being a little child, he had to look up to speak to Confucius;
   having finished speaking he turned his head back down.
   The [almanac illustration][almanac text]:
   --
@@ -341,7 +341,7 @@ I have edited the punctuation to not be bizarre.
   [Chinese Chess (.象棋)] and [Western Chess]
   both use 16~chess pieces per player.
   Of course this text is not canon, nor is it historically accurate;
-  in (Confucius|孔子)'s time, .奕 referred to [Surrounding Chess (.圍棋)],
+  in Confucius's time, .奕 referred to [Surrounding Chess (.圍棋)],
   more commonly known as Go.
   --
 ==
@@ -763,7 +763,7 @@ I have edited the punctuation to not be bizarre.
   --
   Out of respect, the child (Hiang T'ok|項橐) refers
   [to himself in the third person][illeism],
-  and to (Confucius|孔子) as .夫子, ".[my] master", rather than .汝, "thou".
+  and to Confucius as .夫子, ".[my] master", rather than .汝, "thou".
   --
 
   [illeism]: https://en.wikipedia.org/wiki/Illeism
@@ -872,7 +872,7 @@ I have edited the punctuation to not be bizarre.
 ===={.translation-annotations}
 * .後生可畏、焉知來者之不如今也
   --
-  This is part of an actual (as in canon) quote of (Confucius|孔子)
+  This is part of an actual (as in canon) quote of Confucius
   in [《論語子罕》]{l=zh-Hant}(https://ctext.org/analects/zi-han#n1331):
   --
   <<
