@@ -198,7 +198,8 @@ For example,
      ====
      * \-i (non-diphthong) becomes __\-ee__
      * \-ui becomes __\-uei__
-     * i(\-) becomes __yi(\-)__
+     * i becomes __yee__
+     * i\- becomes __yi\-__
      * j\- becomes __r\-__
      * ku\- becomes __kw\-__
      * yu becomes __yiu__
