@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2022-12-24
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -193,15 +193,15 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   孟懿子問孝。子曰、無違。
 \\
-  Master~(M(e^)ng I|孟懿) asked of filiality.
+  Master~(M(e^)ng Yee|孟懿) asked of filiality.
   .[And the] Master saith, Without going against.
 >>
 =={.translation-annotations}
-* .孟懿子： Master~(M(e^)ng I|孟懿)
+* .孟懿子： Master~(M(e^)ng Yee|孟懿)
   --
-  An officer of the state of (Lu|魯), surnamed (Ki|姬),
+  An officer of the state of (Lu|魯), surnamed (Kee|姬),
   clan name (M(e^)ng\-sun|孟孫) (used by Confucius below),
-  and named (Ho\-ki|何忌).
+  and named (Ho\-kee|何忌).
   --
 ==
 
@@ -243,7 +243,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 =={.translation-annotations}
 * .孟武伯： (M(e^)ng Wu|孟武) .[the] Eldest
   --
-  The son of Master~(M(e^)ng I|孟懿) in [Saying~5](#5).
+  The son of Master~(M(e^)ng Yee|孟懿) in [Saying~5](#5).
   --
 ==
 
@@ -253,14 +253,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子游問孝。子曰、今之孝者、是謂能養。
 \\
-  (Tz(uu)\-yu|子游) asked of filiality.
+  (Tz(uu)\-yiu|子游) asked of filiality.
   .[And the] Master saith,
   .[The] filiality of today, this speaketh of .[being] able to provide for.
 >>
 =={.translation-annotations}
-* .子游： (Tz(uu)\-yu|子游)
+* .子游： (Tz(uu)\-yiu|子游)
   --
-  [(Yen Yen|言偃), styled (Tz(uu)\-yu|子游), a disciple of Confucius.][子游]
+  [(Yen Yen|言偃), styled (Tz(uu)\-yiu|子游), a disciple of Confucius.][子游]
   --
   [子游]: https://en.wikipedia.org/wiki/Yan_Yan_(philosopher)
 
