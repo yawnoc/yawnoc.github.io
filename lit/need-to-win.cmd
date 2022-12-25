@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A discussion and translation of Chuang Tz(uu)'s alleged `archery` quote, \
     `When an archer is shooting for nothing, he has all his skill...`.
 * %date-created --> 2019-04-15
-* %date-modified --> 2022-12-25
+* %date-modified --> 2022-12-26
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography

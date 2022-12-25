@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S33"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S33
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-12-25
+* %date-modified --> 2022-12-26
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters

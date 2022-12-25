@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-12-25
+* %date-modified --> 2022-12-26
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography

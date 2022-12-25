@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2022-12-25
+* %date-modified --> 2022-12-26
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters

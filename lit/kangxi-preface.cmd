@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2022-12-25
+* %date-modified --> 2022-12-26
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
