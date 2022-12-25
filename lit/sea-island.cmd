@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the first problem in Haidao Suanjing, \
     《海島算經》, `The Sea Island Computational Classic`.
 * %date-created --> 2019-04-20
-* %date-modified --> 2022-12-16
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #backslash-continuations
@@ -49,10 +49,10 @@ the answer and the formula used to compute the answer.
 Derivations of the formulae we find in [.《海島算經細草圖說》],
 ".[The] Sea Island Computational Classic
 .[with] detailed working, diagrams, .[and] explanations".
-Written by [(Li Huang|李潢)],
+Written by [(Lee Huang|李潢)],
 the rough working~(.草), diagrams~(.圖)
 and explanations~(.說) supplement the older (but at times erroneous)
-annotations of [(Li Ch'un\-f(e^)ng|李淳風)].
+annotations of [(Lee Ch'un\-f(e^)ng|李淳風)].
 It is in the explanations~(.說) that we find derivations of the formulae,
 not unlike high school geometry proofs.
 --
@@ -72,9 +72,9 @@ along with its corresponding derivation as found in .《海島算經細草圖說
   https://en.wikipedia.org/wiki/Three_Kingdoms
 [.《海島算經細草圖說》]:
   https://archive.org/details/02094033.cn/mode/1up
-[(Li Huang|李潢)]:
+[(Lee Huang|李潢)]:
   https://zh.wikipedia.org/wiki/李潢
-[(Li Ch'un\-f(e^)ng|李淳風)]:
+[(Lee Ch'un\-f(e^)ng|李淳風)]:
   https://en.wikipedia.org/wiki/Li_Chunfeng
 
 
@@ -105,7 +105,7 @@ it is good to know the order of magnitude:
 ==
 - A (chang|丈)~(丈), "rod", is of the order three metres,
 - A (pu|步)~(步), "pace", is of the order two metres, and
-- A (li|里)~(里), "mile", is of the order half a kilometre.
+- A (lee|里)~(里), "mile", is of the order half a kilometre.
 ==
 --
 The relevant conversions are
