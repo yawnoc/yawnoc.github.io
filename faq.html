@@ -129,17 +129,17 @@ e.g. <span class="romanised-untranslated" title="孔子">Confucius</span> for <
 </li>
 <li>
 Otherwise, the <b>romanisation which best suits the context</b>,
-e.g. <a href="https://en.wikipedia.org/wiki/Hong_Kong_Government_Cantonese_Romanisation">Hong Kong Government Romanisation</a> for someone from Hong Kong.
+e.g. <a href="https://en.wikipedia.org/wiki/Hong_Kong_Government_Cantonese_Romanisation">Hong Kong Government Romanisation</a> for someone from Hong Kong,
+or <a href="https://en.wikipedia.org/wiki/Chinese_postal_romanization">Postal Romanisation</a> for a twentieth-century text.
 </li>
 <li>
-Otherwise, <b>Conway's Common Romanisation for Mandarin</b>:
+Otherwise, <b>Conway's Mock-Olden Romanisation</b>:
 <ol type="i">
 <li>
 Write down the Wade–Giles romanisation.
 </li>
 <li>
-Replace alveolo-palatal initial consonants
-with the initial consonants before the dental-velar merger:
+Undo the dental-velar merger for initials:
 <ul>
 <li>
 [t͡ɕ] (pinyin j) becomes <b>ts</b> or <b>k</b>
@@ -151,16 +151,75 @@ with the initial consonants before the dental-velar merger:
 [ɕ] (pinyin x) becomes <b>s</b> or <b>h</b>
 </li>
 </ul>
-If unsure whether to choose the dental (ts, ts', s)
-or the velar (k, k', h),
-refer to the initial consonant in a <a href="https://ytenx.org/">rime dictionary</a>,
-or to whether the initial consonant is dental or velar in Cantonese.
 </li>
 <li>
-Change ‑ui to ‑uei.
+Undo the labial-alveolar merger for final nasals:
+<ul>
+<li>
+[n] (pinyin n) becomes <b>m</b> or <b>n</b>.
+</li>
+</ul>
+</li>
+<li>
+Undo the loss of entering-tone stop consonants:
+<ul>
+<li>
+Append <b>p</b>, <b>t</b>, or <b>k</b> as appropriate
+</li>
+</ul>
+Then cleanup:
+<ul>
+<li>
+‑aik becomes <b>‑ak</b>
+</li>
+<li>
+‑eik becomes <b>‑ek</b>
+</li>
+<li>
+‑êk becomes <b>‑ek</b>
+</li>
+<li>
+‑êt becomes <b>‑iet</b>
+</li>
+<li>
+‑iaok becomes <b>‑iok</b>
+</li>
+<li>
+‑ihk becomes <b>‑ek</b>
+</li>
+<li>
+‑ihp becomes <b>‑ip</b>
+</li>
+<li>
+‑iht becomes <b>‑et</b>
+</li>
+</ul>
+</li>
+<li>
+Do some stylistic cleanup:
+<ul>
+<li>
+‑i (non-diphthong) becomes <b>‑ee</b>
+</li>
+<li>
+‑ui becomes <b>‑uei</b>
+</li>
+<li>
+i(‑) becomes <b>yi(‑)</b>
+</li>
+<li>
+j‑ becomes <b>r‑</b>
+</li>
+<li>
+ku‑ becomes <b>kw‑</b>
+</li>
+<li>
+yu becomes <b>yiu</b>
+</li>
+</ul>
 </li>
 </ol>
-The result is something similar to <a href="https://en.wikipedia.org/wiki/Chinese_postal_romanization">Postal Romanisation</a>.
+If unsure when undoing mergers, consult a <a href="https://ytenx.org/">rime dictionary</a>.
 </li>
 </ol>
 <h3 id="romanisation-annotations">
@@ -189,7 +248,7 @@ which asserts whatever precedes it.
 First created: 2019-08-01
 </li>
 <li>
-Last modified: 2022-06-07
+Last modified: 2022-12-25
 </li>
 <li>
 Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/faq.cmd"><code>faq.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.5.0">CMDv4.5.0</a>

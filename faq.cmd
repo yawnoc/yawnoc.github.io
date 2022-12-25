@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> FAQ
 * %description --> Frequently asked questions.
 * %date-created --> 2019-08-01
-* %date-modified --> 2022-06-07
+* %date-modified --> 2022-12-25
 
 %%%
 
@@ -153,30 +153,55 @@ For example,
 
 2.
   Otherwise, the __romanisation which best suits the context__,
-  e.g.~[Hong Kong Government Romanisation] for someone from Hong Kong.
+  e.g.~[Hong Kong Government Romanisation] for someone from Hong Kong,
+  or [Postal Romanisation] for a twentieth-century text.
 
 3.
-  Otherwise, __Conway's Common Romanisation for Mandarin__:
+  Otherwise, __Conway's Mock-Olden Romanisation__:
 
   ++{type=i}
   1. Write down the Wade--Giles romanisation.
 
-  2. Replace alveolo-palatal initial consonants
-     with the initial consonants before the dental-velar merger:
+  2. Undo the dental-velar merger for initials:
      ====
      * [t͡ɕ] (pinyin j) becomes __ts__ or __k__
      * [t͡ɕʰ] (pinyin q) becomes __ts'__ or __k'__
      * [ɕ] (pinyin x) becomes __s__ or __h__
      ====
-     If unsure whether to choose the dental (ts, ts', s)
-     or the velar (k, k', h),
-     refer to the initial consonant in a [rime dictionary],
-     or to whether the initial consonant is dental or velar in Cantonese.
 
-  3. Change \-ui to \-uei.
+  3. Undo the labial-alveolar merger for final nasals:
+     ====
+     * [n] (pinyin n) becomes __m__ or __n__.
+     ====
+
+  4. Undo the loss of entering-tone stop consonants:
+     ====
+     * Append __p__, __t__, or __k__ as appropriate
+     ====
+     Then cleanup:
+     ====
+     * \-aik becomes __\-ak__
+     * \-eik becomes __\-ek__
+     * \-(e^)k becomes __\-ek__
+     * \-(e^)t becomes __\-iet__
+     * \-iaok becomes __\-iok__
+     * \-ihk becomes __\-ek__
+     * \-ihp becomes __\-ip__
+     * \-iht becomes __\-et__
+     ====
+
+  5. Do some stylistic cleanup:
+     ====
+     * \-i (non-diphthong) becomes __\-ee__
+     * \-ui becomes __\-uei__
+     * i(\-) becomes __yi(\-)__
+     * j\- becomes __r\-__
+     * ku\- becomes __kw\-__
+     * yu becomes __yiu__
+     ====
   ++
 
-  The result is something similar to [Postal Romanisation].
+  If unsure when undoing mergers, consult a [rime dictionary].
 ++++
 
 [Hong Kong Government Romanisation]:
