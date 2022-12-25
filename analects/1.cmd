@@ -190,7 +190,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 =={.translation-annotations}
 * .曾子： Master~(Ts(e^)ng|曾)
   --
-  [(Ts(e^)ng Sh(e^)n|曾參), a disciple of Confucius.][曾子]
+  [(Ts(e^)ng Sh(e^)m|曾參), a disciple of Confucius.][曾子]
   --
   [曾子]: https://en.wikipedia.org/wiki/Zengzi
 
@@ -268,7 +268,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 =={.translation-annotations}
 * .子夏： (Tz(uu)\-hia|子夏)
   --
-  [(Pu Shang|卜商), styled (Tz(uu)\-hia|子夏), a disciple of Confucius.][子夏]
+  [(Puk Shang|卜商), styled (Tz(uu)\-hia|子夏), a disciple of Confucius.][子夏]
   --
   [子夏]: https://en.wikipedia.org/wiki/Bu_Shang
 
