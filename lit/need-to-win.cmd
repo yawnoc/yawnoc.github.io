@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A discussion and translation of Chuang Tz(uu)'s alleged `archery` quote, \
     `When an archer is shooting for nothing, he has all his skill...`.
 * %date-created --> 2019-04-15
-* %date-modified --> 2022-07-10
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -84,7 +84,7 @@ into western languages, two English, one French, and one German".
 
 --
 The actual source of the passage is a dialogue between
-(Confucius|孔子) and one of his disciples in .《莊子外篇達生》,
+Confucius and one of his disciples in .《莊子外篇達生》,
 or "Understanding Life" in the "Outer Texts" of ''(Chuang Tz(uu)|莊子)'',
 a work traditionally credited to [(Chuang Tz(uu)|莊子)] the Taoist philosopher.
 One of the English translations of this which Merton read
@@ -123,7 +123,7 @@ but with olden-style punctuation:
   顏淵問仲尼曰、吾嘗濟乎觴深之淵、津人操舟若神。
 \\
   (Yen Y(u")an|顏淵) asked (Chung\-ni|仲尼), saying,
-  I once crossed .[the] deep waters of (Shang\-sh(e^)n|觴深),
+  I once crossed .[the] deep waters of (Shang\-sh(e^)m|觴深),
   .[and the] people of .[the] ford handled boats as gods.
 >>
 =={.translation-annotations}
@@ -234,10 +234,10 @@ but with olden-style punctuation:
   --
   =={.translation-annotations}
   * [《南華真經郭象註》]{l=zh-Hant}(https://ctext.org/library.pl?if=en&file=77894&page=11#box\(118,678,50,70\)),
-    "(Nan\-hua|南華) True Classics: (Kuo Siang|郭象)'s annotations".
+    "(Nam\-hua|南華) True Classics: (Kwok Siang|郭象)'s annotations".
 
   * [《康熙字典》]{l=zh-Hant}(https://ctext.org/kangxi-zidian/85/5#n332753),
-    "(K'ang\-hi|康熙)'s dictionary".
+    "(K'ang\-hee|康熙)'s dictionary".
     --
     Notably, the dictionary uses the line .以黃金注者㱪
     from our passage as the example for this meaning.
@@ -249,10 +249,10 @@ but with olden-style punctuation:
   --
   =={.translation-annotations}
   * [《南華真經註疏》]{l=zh-Hant}(https://ctext.org/library.pl?if=en&file=88939&page=20#box\(196,822,42,46\)),
-    "(Nan\-hua|南華) True Classics annotations .[and] subcommentary".
+    "(Nam\-hua|南華) True Classics annotations .[and] subcommentary".
 
   * [《莊子注》]{l=zh-Hant}(https://ctext.org/library.pl?if=en&file=53877&page=10#box\(500,472,38,48\)),
-    "(Chuang Tz(uu)|莊子) annotations" by (Kuo Siang|郭象).
+    "(Chuang Tz(uu)|莊子) annotations" by (Kwok Siang|郭象).
     --
     In particular, .射而賭物 ("shooting wagering objects")
     is the meaning taken by James Legge

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An English translation of the original text for 《狐假虎威》, \
     `[The] Fox Feigneth [the] Tiger's Authority`.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-12-24
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -83,7 +83,7 @@ but with olden-style punctuation:
 \\
   King~(S(u")an|宣) of~(King|荊)
   asked .[his] group of ministers, saying,
-    I hear of .[the] North's fear of (Chao Hi\-s(u")|昭奚恤);
+    I hear of .[the] North's fear of (Chao Hee\-s(u")t|昭奚恤);
     if .[it be] true, what of .[it]?
 >>
 =={.translation-annotations}
@@ -94,7 +94,7 @@ but with olden-style punctuation:
 
 * .群： group; \or gathering
 
-* .昭奚恤： (Chao Hi\-s(u")|昭奚恤)
+* .昭奚恤： (Chao Hee\-s(u")t|昭奚恤)
   --
   The name of a high military official of~(Ch'u|楚).
   --
@@ -109,16 +109,16 @@ but with olden-style punctuation:
 <<
   江一對曰、虎求百獸而食之、得狐、
 \\
-  .[But] (Kiang I|江一) replied, saying,
+  .[But] (Kiang Yit|江一) replied, saying,
     .[A] tiger sought .[the] hundred beasts .[to] then eat them,
     .[and] gat .[a] fox.
 >>
 =={.translation-annotations}
-* .江一： (Kiang I|江一)
+* .江一： (Kiang Yit|江一)
   --
   A minister of King~(S(u")an|宣) of~(King|荊).
   In another manuscript he is called .江乙,
-  also (Kiang I|江乙).
+  also (Kiang Yit|江乙).
   --
 ==
 
@@ -173,7 +173,7 @@ but with olden-style punctuation:
 \\
   Today King's territory .[spanneth a] circumference of five thousand miles,
   .[with] armour-donning .[soldiers a] million,
-  and exclusively subordinate .[are] they unto (Chao Hi\-s(u")|昭奚恤);
+  and exclusively subordinate .[are] they unto (Chao Hee\-s(u")t|昭奚恤);
 >>
 =={.translation-annotations}
 * .地： territory; \lit land
@@ -192,7 +192,7 @@ but with olden-style punctuation:
 <<
   故北方之畏奚恤也、其實畏王之甲兵也、猶百獸之畏虎也。
 \\
-  therefore .[the] North's fear of (Hi\-s(u")|奚恤),
+  therefore .[the] North's fear of (Hee\-s(u")t|奚恤),
   it .[is] actually fear of King's armoured troops,
   like .[the] hundred beasts' fear of .[the] tiger.
 >>

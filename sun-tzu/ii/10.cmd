@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S10"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S10
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -53,8 +53,8 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 This section gives a worked example of computing
 the volume of a cylinder,
 and contains the first mention of
-the conversion between the capacity unit "barrel", (hu|斛)~(.斛),
-and the volume unit "[cubic] rule", (ch'ih|尺)~(.尺):
+the conversion between the capacity unit "barrel", (huk|斛)~(.斛),
+and the volume unit "[cubic] rule", (ch'ek|尺)~(.尺):
 --
 $$
   1 \unit{barrel~(斛)} = 1.62 \unit{rules~(尺)}^3.
@@ -154,9 +154,9 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
     .[the] barrel divisor, one rule, six inches, .[and] two tenths
   --
   This is the conversion between the capacity unit "barrel",
-    (hu|斛)~(.斛),
+    (huk|斛)~(.斛),
   and the volume unit "cubic rule",
-    (ch'ih|尺)~(.尺).
+    (ch'ek|尺)~(.尺).
   Rules, inches, and tenths are units of length,
   so at face value .一尺六寸二分 represents the length 1.62~rules.
   However, it is intended to represent the volume 1.62~*cubic* rules;
@@ -188,8 +188,8 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
 
 --
 The .斛法 "barrel divisor"
-gives the conversion between the capacity unit "barrel", (hu|斛)~(.斛),
-and the volume unit "cubic rule", (ch'ih|尺)~(.尺).
+gives the conversion between the capacity unit "barrel", (huk|斛)~(.斛),
+and the volume unit "cubic rule", (ch'ek|尺)~(.尺).
 --
 --
 If we parse the barrel divisor .一尺六寸二分 literally,

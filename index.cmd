@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-25
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -108,7 +108,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ==
 - [.《論語》 <br> ".[The] Analects" (incomplete)](/analects/)
 
-- [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K'ang\-hi|康熙) Dictionary"]\
+- [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K'ang\-hee|康熙) Dictionary"]\
     (/lit/kangxi-preface)
 - ["The Need to Win"]\
     (/lit/need-to-win)

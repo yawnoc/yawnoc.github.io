@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S3"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S3
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -83,7 +83,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
 
 * .粟： grain
   --
-  (Su|粟)~(.粟),
+  (Suk|粟)~(.粟),
   a six-hundred-thousandth of the Chinese litre, (sh(e^)ng|升)~(.升).
   --
 ==
@@ -113,13 +113,13 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   .圭、古攜切、 \C kwai1, \M gu(i-)
   --
   --
-  (Kuei|圭)~(.圭),
+  (Kwei|圭)~(.圭),
   a hundred-thousandth of the Chinese litre, (sh(e^)ng|升)~(.升).
   --
 
 * .撮： pinch
   --
-  (Ts'o|撮)~(.撮),
+  (Ts'ot|撮)~(.撮),
   a ten-thousandth of the Chinese litre, (sh(e^)ng|升)~(.升).
   --
 
@@ -136,7 +136,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   .勺、 \C ch(oe)k8, ch'(oe)k8, \M sh(a/)o
   --
   --
-  (Shao|勺)~(.勺),
+  (Shok|勺)~(.勺),
   a hundredth of the Chinese litre, (sh(e^)ng|升)~(.升).
   --
 
@@ -145,7 +145,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   .合、葛合切、 \C kap8, \M g(ev)
   --
   --
-  (Ko|合)~(.合),
+  (Kop|合)~(.合),
   a tenth of the Chinese litre, (sh(e^)ng|升)~(.升).
   Similar in size to the [imperial gill].
   In English, "gill" is read [dʒɪl], i.e.~with a soft 'g'.
@@ -178,10 +178,10 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   .斛、 \C huk9, \M h(u/)
   --
   --
-  (Hu|斛)~(.斛), a hundred Chinese litres.
+  (Huk|斛)~(.斛), a hundred Chinese litres.
   [James Legge] instead uses "bushel", which is only about forty litres,
   but this is reasonable since later definitions
-  have a (hu|斛)~(.斛) being only fifty Chinese litres
+  have a (huk|斛)~(.斛) being only fifty Chinese litres
   (rather than a hundred).
   --
 
@@ -327,8 +327,8 @@ $$
 --
 In [Volume~II \S10](/sun-tzu/ii/10),
 the conversion between
-the capacity unit "barrel", (hu|斛)~(.斛),
-and the volume unit "cubic rule", (ch'ih|尺)~(.尺),
+the capacity unit "barrel", (huk|斛)~(.斛),
+and the volume unit "cubic rule", (ch'ek|尺)~(.尺),
 is given as
 --
 $$
@@ -337,15 +337,15 @@ $$
 
 --
 \c[52059]
-has "pinches", (ts'o|撮)~(.撮),
+has "pinches", (ts'ot|撮)~(.撮),
 and "grabs", (ch'ao|抄)~(.抄), the other way around.
 The order given here is that in Versions~A, B, and~D,
 and it is consistent with the order
 in Hong Kong's [Ordinance No.~22 of~1844 (PDF)],
 which has all of the above units
-as well as the "cup", (y(u")eh|龠)~(.龠),
+as well as the "cup", (yok|龠)~(.龠),
 equal to five ladles.
-Note however that Ordinance No.~22 has the "barrel", (hu|斛)~(.斛),
+Note however that Ordinance No.~22 has the "barrel", (huk|斛)~(.斛),
 defined as five (tou|斗)~(.斗) rather than ten (tou|斗)~(.斗):
 --
 
