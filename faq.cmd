@@ -185,12 +185,16 @@ For example,
      * \-(e^)k becomes __\-ek__
      * \-(e^)t becomes __\-iet__
      * \-iaok becomes __\-iok__
+     * \-iehp becomes __\-iep__
+     * \-ieht becomes __\-iet__
      * \-ihk becomes __\-ek__
      * \-ihp becomes __\-ip__
      * \-iht becomes __\-et__
+     * \-(u")ehk becomes __\-iok__
+     * \-(u")eht becomes __\-(u")et__
      ====
 
-  5. Do some stylistic cleanup:
+  5. Apply stylistic cleanup:
      ====
      * \-i (non-diphthong) becomes __\-ee__
      * \-ui becomes __\-uei__
