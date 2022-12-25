@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-24
+* %date-modified --> 2022-12-25
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -5928,7 +5928,7 @@ See also: [自相]
 ==
 [陰入]
 ==
-* (K(e^)|蓋) {:name:}
+* (Kop|蓋) {:name:}
 ==
 [陽入]
 ==
