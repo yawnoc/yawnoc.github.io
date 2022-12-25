@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S1"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-25
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -80,9 +80,9 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
 * .忽： floss
   --
-  (Hu|忽)~(.忽), a hundred-thousandth of the Chinese inch, (ts'un|寸)~(.寸).
+  (Hut|忽)~(.忽), a hundred-thousandth of the Chinese inch, (ts'un|寸)~(.寸).
   [K'ang-hi's Dictionary](https://ctext.org/kangxi-zidian/61/4#n326385),
-  quoting .《劉德曰》, "(Liu T(e^)|劉德) saith",
+  quoting .《劉德曰》, "(Liu Tek|劉德) saith",
   has .忽、蜘蛛網也, "floss, .[a] spider's web".
   --
 
@@ -125,7 +125,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
 * .釐： cent
   --
-  (Li|釐)~(.釐),
+  (Lee|釐)~(.釐),
   a hundredth of the Chinese inch, (ts'un|寸)~(.寸).
   --
 
@@ -148,7 +148,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
 * .尺： rule; \or ruler
   --
-  (Ch'ih|尺)~(.尺), ten Chinese inches.
+  (Ch'ek|尺)~(.尺), ten Chinese inches.
   This is of the order one foot,
   but I have not rendered this as "foot"
   because there is no such connotation.
@@ -200,7 +200,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
 * .匹： length
   --
-  (P'i|匹)~(.匹), forty rules.
+  (P'it|匹)~(.匹), forty rules.
   This is the only unit rendering which I am unsatisfied with.
   .匹 is the classifier for cloth, .一匹布 being "one length of cloth".
   --
@@ -239,7 +239,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 =={.translation-annotations}
 * .里： mile
   --
-  (Li|里)~(.里), the [Chinese mile],
+  (Lee|里)~(.里), the [Chinese mile],
   of the order half a kilometre.
   While this is much shorter than the imperial mile,
   it is figuratively used as the mile is in English
@@ -255,7 +255,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
 --
 I can't be bothered looking up a reputable source
-for the precise length of a (ch'ih|尺)~(.尺) or rule
+for the precise length of a (ch'ek|尺)~(.尺) or rule
 when (Sun~Tz(uu)|孫子)'s Computational Classic was first written,
 but using 0.3~metres as an estimate,
 we have:
@@ -281,7 +281,7 @@ $$
 
 --
 Silk is around 12~μm in thickness ([Luong~et~al.~(2014)])
-so (hu|忽)~(.忽), "floss", is much too thin,
+so (hut|忽)~(.忽), "floss", is much too thin,
 and (ss(uu)|絲)~(.絲), "(silk) thread", still a little thin.
 Thus .蠶吐絲為忽, "the silkworm spitteth thread .[which] be floss",
 is an exaggeration of the thinness of silk.
@@ -293,8 +293,7 @@ But my job is only to translate the text as it is, not to correct it.
 
 --
 By the later part of the (Ts'ing|清) Dynasty,
-one (ch'ih|尺)~(.尺) or rule is 14⅝~inches in Hong Kong,
-locally called a (ch'ek|尺)~(.尺).
+one (ch'ek|尺)~(.尺) or rule is 14⅝~inches in Hong Kong.
 Reading through historical versions of the [Weights and Measures Ordinance]
 enacted by the British in Hong Kong,
 [Ordinance No.~22 of~1844 (PDF)]
@@ -335,12 +334,12 @@ Eventually the (ch'ek|尺)~(.尺) is given
 the equivalent definition of 0.371475~metres,
 used unto this day in Hong Kong;
 see [Cap.~68 Weights and Measures Ordinance].
-(Floor plans are reckoned in imperial feet though, written "呎".)
+(Floor plans are reckoned in imperial feet though, written ".呎".)
 --
 --
 Taiwan uses a (ch'ih|尺)~(.尺) from the Japanese occupation
 equal to 10/33 of a metre, i.e.~0.3030...~metres,
-and Mainland China uses a metric-based (ch'ih|尺)~(.尺)
+and Mainland China uses a metric-based (chi|尺)~(.尺)
 equal to 1/3 of a metre, i.e.~0.3333...~metres.
 In either case, ugh to recurring decimals.
 --
