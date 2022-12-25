@@ -181,6 +181,7 @@ For example,
      Then cleanup:
      ====
      * \-aik becomes __\-ak__
+     * \-aok becomes __\-ok__
      * \-eik becomes __\-ek__
      * \-(e^)k becomes __\-ek__
      * \-(e^)t becomes __\-iet__
