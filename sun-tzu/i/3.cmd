@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S3"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S3
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-26
+* %date-modified --> 2022-12-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -288,7 +288,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   --
   --
   An explanation for its use to denote a large power of ten is quoted
-  in [K'ang-hi's entry for .秭]:
+  in [(K'ang\-hee|康熙)'s entry for .秭]:
   .載地不能載也, ".[a] carry .[even the] Earth cannot carry"
   (here the second "carry" is a verb,
   read in the usual .去聲, i.e.~tsoi3/z(a\)i).
@@ -296,7 +296,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   "Heaven covereth .[and] Earth carrieth".
   --
   
-  [K'ang-hi's entry for .秭]: https://ctext.org/kangxi-zidian/115/5#n339588
+  [(K'ang\-hee|康熙)'s entry for .秭]: https://ctext.org/kangxi-zidian/115/5#n339588
 ==
 
 
