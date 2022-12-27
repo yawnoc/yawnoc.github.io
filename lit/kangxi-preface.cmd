@@ -454,14 +454,14 @@ but concede that in most instances this will not be possible
   .[that they] take completely .[the] old books,
   .[and by] sequence .[and] order arrange .[and] compile,
   dissecting pronunciations .[and] interpreting meanings,
-  .[with] one copy of Explaining Glyphs .[and the] Jade Chapters,
+  first based upon Explaining Glyphs .[and the] Jade Chapters,
   .[and] simultaneously using .[the] Broadened Rimes, .[the] Collected Rimes,
   .[the] Rime Assembly, .[and the] Proper Rimes.
 >>
 =={.translation-annotations}
-* .夲
+* .一夲： first based upon; \or one copy of
   --
-  As written in the original text ![夲]. Used as a variant for~.本.
+  .夲 here as written in the original text ![夲]. Used as a variant for~.本.
   --
 
 * .兼
