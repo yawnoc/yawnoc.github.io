@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2022-12-26
+* %date-modified --> 2022-12-28
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -78,6 +78,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
     (/math/projectile-weak-drag)
 - [Projectile motion: optimal launch angle from a platform]\
     (/math/projectile-platform)
+- [The power rule for integration and the logarithm](/math/power-rule-log)
 ==
 
 
