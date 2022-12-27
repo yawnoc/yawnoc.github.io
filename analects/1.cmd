@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2022-12-26
+* %date-modified --> 2022-12-27
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -448,6 +448,12 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
   Deference kept near unto propriety,
   .[one] keepeth far from shame .[and] disgrace.
 >>
+=={.translation-annotations}
+* .遠： keepeth far from
+  --
+  .遠、去聲、 \C y(u")n6, \M yu(a\)n
+  --
+==
 
 <<
   因不失其親、亦可宗也。
