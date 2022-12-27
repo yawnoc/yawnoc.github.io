@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2022-12-26
+* %date-modified --> 2022-12-27
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -342,7 +342,7 @@ but concede that in most instances this will not be possible
     in .[the] (Y(u")an|元) .[the] Rime Assembly,
     .[and] in .[the] (Ming|明) .[the] (Hung\-wu|洪武) Proper Rimes,
   all spread throughout .[their] present generations,
-  .[and as] clothing .[and] blankets .[to] latter learning.
+  clothing .[and] blanketing latter learning.
 >>
 =={.translation-annotations}
 * .萹
