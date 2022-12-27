@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S31"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S31
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -120,7 +120,7 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
 <<
   以少減多、再命之、
 \\
-  Subtracting of [the] greater by [the] lesser,
+  Subtracting of .[the] greater by .[the] lesser,
   .[and] again commanding it:
 >>
 

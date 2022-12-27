@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S29"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S29
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-12-06
+* %date-modified --> 2022-12-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -68,7 +68,7 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
   .[Each] family taking one deer, .[there be a] remainder;
   .[each] three families together again .[taking] one deer,
   just exhausteth .[them].
-  .[We] ask, how many .[be the] families admist [the] city?
+  .[We] ask, how many .[be the] families admist .[the] city?
 >>
 =={.translation-annotations}
 * .不盡： .[there be a] remainder; \lit exhausteth not
