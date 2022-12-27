@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S1"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-26
+* %date-modified --> 2022-12-27
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -81,7 +81,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 * .忽： floss
   --
   (Hut|忽)~(.忽), a hundred-thousandth of the Chinese inch, (ts'un|寸)~(.寸).
-  [K'ang-hi's Dictionary](https://ctext.org/kangxi-zidian/61/4#n326385),
+  [(K'ang\-hee|康熙)'s Dictionary](https://ctext.org/kangxi-zidian/61/4#n326385),
   quoting .《劉德曰》, "(Liu Tek|劉德) saith",
   has .忽、蜘蛛網也, "floss, .[a] spider's web".
   --
