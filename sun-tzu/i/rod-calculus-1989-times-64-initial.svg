@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-1.5 -0.5 5 2" width="210px" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+line {
+  stroke: black;
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+</style>
+
+<!-- 1000 -->
+<g>
+  <line x1="-0.25" y1="0" x2="0.25" y2="0"/>
+</g>
+
+<!-- 900 -->
+<g transform="translate(1 0)">
+  <line x1="-0.25" y1="-0.25" x2="0.25" y2="-0.25"/>
+  <line x1="-0.15" y1="-0.25" x2="-0.15" y2="0.25"/>
+  <line x1="-0.05" y1="-0.25" x2="-0.05" y2="0.25"/>
+  <line x1="0.05" y1="-0.25" x2="0.05" y2="0.25"/>
+  <line x1="0.15" y1="-0.25" x2="0.15" y2="0.25"/>
+</g>
+
+<!-- 80 -->
+<g transform="translate(2 0)">
+  <g transform="translate(0 -0.1)">
+    <line x1="0" y1="-0.25" x2="0" y2="0.25"/>
+  </g>
+  <g transform="translate(0 0.25)">
+    <line x1="-0.25" y1="-0.1" x2="0.25" y2="-0.1"/>
+    <line x1="-0.25" y1="0" x2="0.25" y2="0"/>
+    <line x1="-0.25" y1="0.1" x2="0.25" y2="0.1"/>
+  </g>
+</g>
+
+<!-- 9 -->
+<g transform="translate(3 0)">
+  <line x1="-0.25" y1="-0.25" x2="0.25" y2="-0.25"/>
+  <line x1="-0.15" y1="-0.25" x2="-0.15" y2="0.25"/>
+  <line x1="-0.05" y1="-0.25" x2="-0.05" y2="0.25"/>
+  <line x1="0.05" y1="-0.25" x2="0.05" y2="0.25"/>
+  <line x1="0.15" y1="-0.25" x2="0.15" y2="0.25"/>
+</g>
+
+<!-- 60 -->
+<g transform="translate(-1 1)">
+  <line x1="0" y1="-0.25" x2="0" y2="0.25"/>
+  <g transform="translate(0 0.25)">
+    <line x1="-0.25" y1="0" x2="0.25" y2="0"/>
+  </g>
+</g>
+
+<!-- 4 -->
+<g transform="translate(0 1)">
+  <line x1="-0.15" y1="-0.25" x2="-0.15" y2="0.25"/>
+  <line x1="-0.05" y1="-0.25" x2="-0.05" y2="0.25"/>
+  <line x1="0.05" y1="-0.25" x2="0.05" y2="0.25"/>
+  <line x1="0.15" y1="-0.25" x2="0.15" y2="0.25"/>
+</g>
+
+</svg>
