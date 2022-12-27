@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-1.5 -0.5 5 2" width="210px" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+text {
+  dominant-baseline: middle;
+  font-family: sans-serif;
+  font-size: 0.7px;
+  text-anchor: middle;
+}
+</style>
+
+<g>
+  <text>1</text>
+</g>
+<g transform="translate(1 0)">
+  <text>9</text>
+</g>
+<g transform="translate(2 0)">
+  <text>8</text>
+</g>
+<g transform="translate(3 0)">
+  <text>9</text>
+</g>
+
+<g transform="translate(-1 1)">
+  <text>6</text>
+</g>
+<g transform="translate(0 1)">
+  <text>4</text>
+</g>
+
+</svg>
