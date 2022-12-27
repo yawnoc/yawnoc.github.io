@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="description" content="An explanation of why the n = −1 case of the power rule for integration
+results in the natural logarithm.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#777777">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/resources/styles/yawnoc.min.css">
+<script defer src="/resources/scripts/rendering.min.js"></script>
+<link rel="stylesheet" href="/resources/katex/katex.min.css">
+<script defer src="/resources/katex/katex.min.js" onload="renderMaths()"></script>
+<title>The power rule for integration and the logarithm | Conway's site</title>
+</head>
+<body>
+<header>
+<nav>
+<ul class="sideways">
+<li>
+<a href="/" title="Home page">Home</a>
+</li>
+<li>
+<a href="#" title="Jump to top of this page">Top</a>
+</li>
+<li>
+<a href="#cite" title="Cite this page">Cite</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1>The power rule for integration and the logarithm</h1>
+<noscript>
+<strong class="noscript">Enable JavaScript for equation rendering to work.</strong>
+</noscript>
+<h2 id="unsatisfying"><a href="#unsatisfying" class="permalink" aria-label="Permalink"></a>An unsatisfying rule</h2>
+<p>
+When I first learnt the power rule for integration in school, namely
+</p>
+<div class="js-maths">\int x^n \td x =
+  \begin{cases}
+    \dfrac{x^{n+1}}{n + 1} + \const, &amp; n \ne -1 \\[\tallspace]
+    \log x + \const, &amp; n = -1,
+  \end{cases}
+</div>
+<p>
+it always bugged me how the special case of <span class="js-maths">n = -1</span> required separate treatment.
+In my mind, there was no reason for
+</p>
+<div class="js-maths">\int x^{-1} \td x = \frac{x^0}{0} + \const
+</div>
+<p>
+to not work.
+</p>
+<h2 id="revelation"><a href="#revelation" class="permalink" aria-label="Permalink"></a>Divine revelation</h2>
+<p>
+Many years later, it suddenly occurred to me that it does indeed work;
+only the constant of integration must be infinite.
+Specifically, <span class="js-maths">-1^0/0</span> plus something finite:
+</p>
+<div class="js-maths">\int x^{-1} \td x = \roundbr{\frac{x^0}{0} - \frac{1^0}{0}} + \const.
+</div>
+<p>
+The bracketed portion is assuredly <span class="js-maths">\log x</span>, as it vanishes when <span class="js-maths">x = 1</span>.
+As a side-effect,
+we immediately see <em>why</em> a logarithm grows slower than any polynomial:
+because a logarithm is a polynomial with infinitesimal degree.
+</p>
+<p>
+If all of this is sacrilege unto you, consider reading some Euler
+(see translations by Ian Bruce at &lt;<a href="https://www.17centurymaths.com">www.17centurymaths.com</a>&gt;).
+</p>
+<h2 id="haters"><a href="#haters" class="permalink" aria-label="Permalink"></a>For haters of infinity</h2>
+<p>
+If you're still not convinced, compute
+</p>
+<div class="js-maths">\lim_{\eps \to 0} \roundbr{\frac{x^\eps}{\eps} - \frac{1^\eps}{\eps}},
+</div>
+<p>
+and be satisfied when you get <span class="js-maths">\log x</span> at the end.
+</p>
+<h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
+<p>
+Conway (2022).
+The power rule for integration and the logarithm.
+&lt;<a href="https://yawnoc.github.io/math/power-rule-log">https://yawnoc.github.io/math/power-rule-log</a>&gt;
+Accessed <span class="js-date">yyyy-mm-dd</span>.
+</p>
+<script>
+document.addEventListener("DOMContentLoaded", function() {renderDate()})
+</script>
+<footer>
+© 2022 Conway.
+<ul>
+<li>
+First created: 2022-12-28
+</li>
+<li>
+Last modified: 2022-12-28
+</li>
+<li>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/math/power-rule-log.cmd"><code>math/power-rule-log.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.5.0">CMDv4.5.0</a>
+</li>
+</ul>
+</footer>
+</body>
+</html>
