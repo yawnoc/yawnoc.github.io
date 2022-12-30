@@ -56,6 +56,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 9
 - 10
 - 11
+- 12
 ::::
 
 ||{.marker}
@@ -360,6 +361,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[The] Master saith,
   Revising of the old and knowing the new,
   .[one] can by .[this] be .[a] master .[of others].
+>>
+
+
+### 12
+
+<<
+  子曰、君子不器。
+\\
 >>
 
 
