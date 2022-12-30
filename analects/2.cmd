@@ -58,6 +58,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 11
 - 12
 - 13
+- 14
 ::::
 
 ||{.marker}
@@ -394,6 +395,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 =={.translation-annotations}
 * .言： words; \lit speech
 ==
+
+
+### 14
+
+<<
+  子曰、君子周而不比、小人比而不周。
+\\
+>>
 
 
 ||{.marker}
