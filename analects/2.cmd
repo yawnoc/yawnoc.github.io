@@ -402,7 +402,16 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、君子周而不比、小人比而不周。
 \\
+  .[The] Master saith,
+  The superior man .[is] universal and not partisan;
+  the little man .[is] partisan and not universal.
 >>
+=={.translation-annotations}
+* .比： partisan
+  --
+  .比、去聲、 \C pei6, \M b(i\), \gr b(iv)
+  --
+==
 
 
 ||{.marker}

@@ -1607,6 +1607,7 @@ See also: [同式]
 ==
 * cycle
 * circumference; perimeter
+* universal
 ==
 
 5 [呼] U+547C
@@ -4011,8 +4012,13 @@ See also: [改正]
 ### ⽐ (compare) U+2F50
 
 0 [比] U+6BD4
+[上聲]
 ==
 * compare
+==
+[去聲] [but [上聲] in Mainlandia]
+==
+* partisan
 ==
 
 
