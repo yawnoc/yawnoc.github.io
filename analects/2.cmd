@@ -217,9 +217,9 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 =={.translation-annotations}
 * .樊遲： (Fan Ch'ih|樊遲)
   --
-  [(Fan S(u")|樊須), styled (Tz(uu)\-ch'ih|子遲), a disciple of Confucius.][樊遲]
+  [(Fan S(u")|樊須), styled (Tz(uu)\-ch'ih|子遲), a disciple of Confucius.][樊須]
   --
-  [樊遲]: https://en.wikipedia.org/wiki/Disciples_of_Confucius#Fan_Xu_(Zichi)
+  [樊須]: https://en.wikipedia.org/wiki/Disciples_of_Confucius#Fan_Xu_(Zichi)
 ==
 
 <<
@@ -261,9 +261,9 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 =={.translation-annotations}
 * .子游： (Tz(uu)\-yiu|子游)
   --
-  [(Yen Yen|言偃), styled (Tz(uu)\-yiu|子游), a disciple of Confucius.][子游]
+  [(Yen Yen|言偃), styled (Tz(uu)\-yiu|子游), a disciple of Confucius.][言偃]
   --
-  [子游]: https://en.wikipedia.org/wiki/Yan_Yan_(philosopher)
+  [言偃]: https://en.wikipedia.org/wiki/Yan_Yan_(philosopher)
 
 * .養： provide for; \or support
 ==

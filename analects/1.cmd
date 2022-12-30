@@ -268,9 +268,9 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 =={.translation-annotations}
 * .子夏： (Tz(uu)\-hia|子夏)
   --
-  [(Puk Shang|卜商), styled (Tz(uu)\-hia|子夏), a disciple of Confucius.][子夏]
+  [(Puk Shang|卜商), styled (Tz(uu)\-hia|子夏), a disciple of Confucius.][卜商]
   --
-  [子夏]: https://en.wikipedia.org/wiki/Bu_Shang
+  [卜商]: https://en.wikipedia.org/wiki/Bu_Shang
 
 * .易： change
   --
@@ -351,9 +351,9 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 
 * .子貢： (Tz(uu)\-kung|子貢)
   --
-  [(Tuan\-muk Tz'(uu)|端木賜), styled (Tz(uu)\-kung|子貢), a disciple of Confucius.][子貢]
+  [(Tuan\-muk Tz'(uu)|端木賜), styled (Tz(uu)\-kung|子貢), a disciple of Confucius.][端木賜]
   --
-  [子貢]: https://en.wikipedia.org/wiki/Duanmu_Ci
+  [端木賜]: https://en.wikipedia.org/wiki/Duanmu_Ci
 
 * .與、平聲、 \C y(u")4, \M y(u/)
   --
