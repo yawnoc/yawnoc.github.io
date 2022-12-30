@@ -369,7 +369,16 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、君子不器。
 \\
+  .[The] Master saith, The superior man .[is] not .[a] device.
 >>
+=={.translation-annotations}
+* .器： device
+  --
+  The consensus interpretation among the commentaries
+  explain "device" as a thing that has a specific purpose;
+  the superior man is not a device, because he is all-rounded.
+  --
+==
 
 
 ||{.marker}
