@@ -420,6 +420,9 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、學而不思則罔、思而不學則殆。
 \\
+  .[The] Master saith,
+  Learning but not thinking .[is] without;
+  thinking but not learning .[is] perilous.
 >>
 
 
