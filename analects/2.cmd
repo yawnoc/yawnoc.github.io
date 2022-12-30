@@ -357,6 +357,9 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、溫故而知新、可以為師矣。
 \\
+  .[The] Master saith,
+  Revising of the old and knowing the new,
+  .[one] can by .[this] be .[a] master .[of others].
 >>
 
 

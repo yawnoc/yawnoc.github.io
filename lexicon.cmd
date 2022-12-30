@@ -4211,6 +4211,7 @@ See also: [改正]
 10 [溫] U+6EAB
 ==
 * warm
+* revise
 ==
 
 11 [滿] U+6EFF
