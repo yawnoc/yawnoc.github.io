@@ -59,6 +59,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 12
 - 13
 - 14
+- 15
 ::::
 
 ||{.marker}
@@ -412,6 +413,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .比、去聲、 \C pei6, \M b(i\), \gr b(iv)
   --
 ==
+
+
+### 15
+
+<<
+  子曰、學而不思則罔、思而不學則殆。
+\\
+>>
 
 
 ||{.marker}
