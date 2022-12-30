@@ -387,7 +387,13 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子貢問君子。子曰、先行其言、而後從之。
 \\
+  (Tz(uu)\-kung|子貢) asked of the superior man.
+  .[And the] Master saith,
+  .[He] first performeth his words, then afterward followeth it.
 >>
+=={.translation-annotations}
+* .言： words; \lit speech
+==
 
 
 ||{.marker}
