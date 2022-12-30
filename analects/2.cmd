@@ -460,8 +460,8 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   知之為知之、不知為不知、是知也。
 \\
-  .[That which be] known it is known it;
-  .[that which be] not known is not known:
+  .[That which be] known it, is known it;
+  .[that which be] not known, is not known:
   this .[be] knowing.
 >>
 
