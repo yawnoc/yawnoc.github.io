@@ -2151,6 +2151,11 @@ See also: [字典]
 * room; bedchamber
 ==
 
+7 [害] U+5BB3
+==
+* harm
+==
+
 7 [家] U+5BB6
 ==
 * family; house
@@ -3258,6 +3263,11 @@ See also: [掌握]
 ==
 ==
 * 改正： [:verb:] correct
+==
+
+3 [攻] U+653B
+==
+* attack; \met study
 ==
 
 4 [政] U+653F
@@ -5167,7 +5177,7 @@ See also: [長短]
 9 [端] U+7AEF
 ==
 * beginning; end
-* upright
+* upright; tenet
 ==
 
 

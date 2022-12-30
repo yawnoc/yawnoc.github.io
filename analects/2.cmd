@@ -432,7 +432,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、攻乎異端、斯害也已。
 \\
+  .[The] Master saith,
+  .[The] studying of strange tenets, .[even] this .[be] harmful.
 >>
+=={.translation-annotations}
+* .攻： studying; \lit attacking
+==
 
 
 ||{.marker}
