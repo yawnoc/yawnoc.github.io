@@ -57,6 +57,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 10
 - 11
 - 12
+- 13
 ::::
 
 ||{.marker}
@@ -379,6 +380,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   the superior man is not a device, because he is all-rounded.
   --
 ==
+
+
+### 13
+
+<<
+  子貢問君子。子曰、先行其言、而後從之。
+\\
+>>
 
 
 ||{.marker}
