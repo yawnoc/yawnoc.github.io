@@ -54,6 +54,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 7
 - 8
 - 9
+- 10
 ::::
 
 ||{.marker}
@@ -326,6 +327,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[He] retreating and .[I] inspecting his privy .[words with others],
   .[he is] also sufficient to manifest .[that I spake].
   (Huei|回), .[is] not foolish.
+>>
+
+
+### 10
+
+<<
+  子曰、視其所以、觀其所由、察其所安。
+\\
+>>
+
+<<
+  人焉廋哉、人焉廋哉。
+\\
 >>
 
 
