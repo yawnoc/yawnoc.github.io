@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2022-12-26
+* %date-modified --> 2022-12-30
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -53,6 +53,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 6
 - 7
 - 8
+- 9
 ::::
 
 ||{.marker}
@@ -300,6 +301,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 
 * .先生： the elder; \lit the former-born
 ==
+
+
+### 9
+
+<<
+  子曰、吾與回言終日、不違如愚。
+\\
+>>
+
+<<
+  退而省其私、亦足以發。回也、不愚。
+\\
+>>
 
 
 ||{.marker}
