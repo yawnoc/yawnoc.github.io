@@ -55,6 +55,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 8
 - 9
 - 10
+- 11
 ::::
 
 ||{.marker}
@@ -348,6 +349,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   人焉廋哉、人焉廋哉。
 \\
   How concealeth man?! .[even] how concealeth man?!
+>>
+
+
+### 11
+
+<<
+  子曰、溫故而知新、可以為師矣。
+\\
 >>
 
 
