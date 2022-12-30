@@ -380,7 +380,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 * .器： device
   --
   The consensus interpretation among the commentaries
-  explain "device" as a thing that has a specific purpose;
+  explains "device" as a thing that has a specific purpose;
   the superior man is not a device, because he is all-rounded.
   --
 ==
