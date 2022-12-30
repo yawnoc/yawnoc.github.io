@@ -2571,6 +2571,11 @@ See also: [參差]
 * side
 ==
 
+10 [廋] U+5ECB
+==
+* conceal
+==
+
 12 [廢] U+5EE2
 ==
 * abandon; abolish

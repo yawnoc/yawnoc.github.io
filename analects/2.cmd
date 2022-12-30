@@ -335,11 +335,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、視其所以、觀其所由、察其所安。
 \\
+  .[The] Master saith,
+  View that he .[doeth] by,
+  observe that he followeth,
+  .[and] inspect that he .[be] at ease .[in].
 >>
+=={.translation-annotations}
+* .以： .[doeth] by; \or useth
+==
 
 <<
   人焉廋哉、人焉廋哉。
 \\
+  How concealeth man?! .[even] how concealeth man?!
 >>
 
 
