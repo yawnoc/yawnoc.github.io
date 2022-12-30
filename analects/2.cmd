@@ -60,6 +60,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 13
 - 14
 - 15
+- 16
 ::::
 
 ||{.marker}
@@ -423,6 +424,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[The] Master saith,
   Learning but not thinking .[is] without;
   thinking but not learning .[is] perilous.
+>>
+
+
+### 16
+
+<<
+  子曰、攻乎異端、斯害也已。
+\\
 >>
 
 
