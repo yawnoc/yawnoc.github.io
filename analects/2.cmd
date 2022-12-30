@@ -308,11 +308,24 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、吾與回言終日、不違如愚。
 \\
+  .[The] Master saith,
+  I spake with (Huei|回) all day,
+  .[and he] went against .[my words] not, as .[though] foolish.
 >>
+=={.translation-annotations}
+* .回： (Huei|回)
+  --
+  [(Yen Huei|顏回), styled (Tz(uu)\-y(u")an|子淵), the favourite disciple of Confucius.][顏回]
+  --
+  [顏回]: https://en.wikipedia.org/wiki/Yan_Hui
+==
 
 <<
   退而省其私、亦足以發。回也、不愚。
 \\
+  .[He] retreating and .[I] inspecting his privy .[words with others],
+  .[he is] also sufficient to manifest .[that I spake].
+  (Huei|回), .[is] not foolish.
 >>
 
 

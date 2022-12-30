@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-26
+* %date-modified --> 2022-12-30
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -4703,6 +4703,12 @@ See also: [先生], [後生]
 * ascend; board
 ==
 
+7 [發] U+767C
+==
+* send forth
+* manifest
+==
+
 
 ### ⽩ (white) U+2F69
 
@@ -5003,6 +5009,12 @@ See also: [長短]
 
 
 ### ⽲ (grain) U+2F72
+
+2 [私] U+79C1
+==
+* privy
+* selfish
+==
 
 4 [秋] U+79CB
 ==
