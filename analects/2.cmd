@@ -446,11 +446,23 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、由、誨女知之乎。
 \\
+  .[The] Master saith,
+  (Yiu|由), .[shall I] teach thee of knowing it?
 >>
+=={.translation-annotations}
+* .由： (Yiu|由)
+  --
+  [(Chung Yiu|仲由), styled (Tz(uu)\-lu|子路), a disciple of Confucius.][仲由]
+  --
+  [仲由]: https://en.wikipedia.org/wiki/Zhong_You
+==
 
 <<
   知之為知之、不知為不知、是知也。
 \\
+  .[That which be] known it is known it;
+  .[that which be] not known is not known:
+  this .[be] knowing.
 >>
 
 
