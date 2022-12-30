@@ -61,6 +61,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 14
 - 15
 - 16
+- 17
 ::::
 
 ||{.marker}
@@ -438,6 +439,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 =={.translation-annotations}
 * .攻： studying; \lit attacking
 ==
+
+
+### 17
+
+<<
+  子曰、由、誨女知之乎。
+\\
+>>
+
+<<
+  知之為知之、不知為不知、是知也。
+\\
+>>
 
 
 ||{.marker}
