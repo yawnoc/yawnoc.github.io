@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the Preface to Sunzi Suanjing, \
     《孫子算經》, `Sun~Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-01-01
 - concluding_replacements:
     #.yawnoc.typography
     #.yawnoc.double-quotes-in-attributes
@@ -74,7 +74,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
 <<
   孫子曰、夫算者、
 \\
-  (Sun~Tz(uu)|孫子) saith: Computation,
+  (Sun~Tz(uu)|孫子) saith: Computation:
 >>
 
 <<

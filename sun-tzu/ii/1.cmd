@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S1"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-01-01
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -170,7 +170,7 @@ of (Sun~Tz(uu)|孫子)'s Computational Classic:
   術曰、
 \\
   .[The] Method of Reducing Fractions
-    (Note: Reducing Fractions---
+    (Note: Reducing Fractions:
     .[when a] number of objects cannot .[be] completely whole,
     .[we] must speak of them by fractions.
     .[A] fraction being .[a] number,
