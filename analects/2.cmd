@@ -69,6 +69,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 18
 - 19
 - 20
+- 21
 ::::
 
 ||{.marker}
@@ -584,6 +585,24 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 =={.translation-annotations}
 * .舉： raising; \or recommending
 ==
+
+
+### 21
+
+<<
+  或謂孔子曰、子奚不為政。
+\\
+>>
+
+<<
+  子曰、書云、孝乎惟孝、友于兄弟、施於有政。
+\\
+>>
+
+<<
+  是亦為政、奚其為為政。
+\\
+>>
 
 
 ||{.marker}
