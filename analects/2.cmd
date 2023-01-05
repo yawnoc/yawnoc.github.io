@@ -66,6 +66,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 15
 - 16
 - 17
+- 18
 ::::
 
 ||{.marker}
@@ -467,6 +468,24 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[That which be] known it, is known it;
   .[that which be] not known, is not known:
   this .[be] knowing.
+>>
+
+
+### 18
+
+<<
+  子張學干祿。
+\\
+>>
+
+<<
+  子曰、多聞闕疑、慎言其餘、則寡尤、多見闕殆、慎行其餘、則寡悔。
+\\
+>>
+
+<<
+  言寡尤、行寡悔、祿在其中矣。
+\\
 >>
 
 
