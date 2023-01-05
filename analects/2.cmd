@@ -544,7 +544,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   Per the old commentaries and Legge,
   we have .孔子對曰 "(Confucius|孔子) replied saying" because
   Confucius is speaking to a superior.
-  To a disciple, it would merely be .子曰 ".[the] Master saith".
+  To an inferior, it would merely be .子曰 ".[the] Master saith".
   --
 
 * .舉： raising; \or recommending
@@ -558,12 +558,32 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   季康子問使民敬忠以勸、如之何。
 \\
+  Master~(Kee\-k'ang|季康) asked of
+  making the people respectful .[and] loyal .[and] to exhort .[them],
+  how this .[be done].
 >>
+=={.translation-annotations}
+* .季康子： Master~(Kee\-k'ang|季康)
+  --
+  An officer of the state of (Lu|魯), surnamed (Kee|姬),
+  clan name (Kee\-sun|季孫), and named (Fei|肥).
+  --
+
+* Modern editions put everything after .問 "asked" in quotes.
+  I concur with Legge that this is a paraphrase, not a spoken question.
+==
 
 <<
   子曰、臨之以莊、則敬、孝慈、則忠、舉善而教不能、則勸。
 \\
+  .[And the] Master saith,
+  Looking over them with seriousness, .[shall they be] respectful;
+  .[being] filial .[and] kind, .[shall they be] loyal;
+  raising the good and teaching .[those] not able, .[shall they be] exhorted.
 >>
+=={.translation-annotations}
+* .舉： raising; \or recommending
+==
 
 
 ||{.marker}
