@@ -6,6 +6,10 @@
 < /resources/rules/analects.cmdr
 < /resources/rules/surrounds.cmdr
 
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
+
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"[The] Analects: Chapter~2"'
@@ -14,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2022-12-30
+* %date-modified --> 2023-01-05
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
