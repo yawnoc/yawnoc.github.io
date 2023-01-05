@@ -592,17 +592,74 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   或謂孔子曰、子奚不為政。
 \\
+  Someone spake unto (Confucius|孔子), saying, Why governest thou not?
 >>
+=={.translation-annotations}
+* .孔子： (Confucius|孔子); \lit Master~(K'ung|孔)
+
+* .子： thou; \lit master
+
+* .為政： governest; \lit doest governance
+==
 
 <<
   子曰、書云、孝乎惟孝、友于兄弟、施於有政。
 \\
+  .[And the] Master saith,
+  .[The Classic of] Writing saith,
+  Filiality .[that be] only filiality,
+  .[and] friendliness unto elder-brother .[and] younger-brother,
+  imparted unto governance.
 >>
+===={.translation-annotations}
+* .於： unto; \or in
+
+* Some commentaries (and Legge also) have a comma
+  after .孝乎 rather than before it, leading to an alternative reading:
+  <<
+    子曰、書云孝乎、惟孝友于兄弟、施於有政。
+  \\
+    .[And the] Master saith,
+    .[The Classic of] Writing saith of filiality,
+    Only filiality .[and] friendliness unto elder-brother .[and] younger-brother,
+    imparted unto governance.
+  >>
+  The wording of the [source quote in the Classic of Writing][君陳]
+  differs from both of these readings, but is closer to the alternative:
+  <<
+    王若曰、君陳、惟爾令德孝恭。惟孝友于兄弟、克施有政。
+  \\
+    .[The] king said as .[thus],
+    (K(u")n\-ch'(e^)n|君陳),
+    only thou .[art] of goodly virtue .[and] filial deference.
+    Only filiality .[and] friendliness unto elder-brother .[and] younger-brother,
+    able to .[be] imparted unto governance.
+  >>
+  Then, there is the whole can of worms regarding whether
+  this received text of the Classic of Writing is counterfeit.
+  See the following for extended discussion:
+  ==
+  * ["The meaning of Analects~2.21" by Bill Haines][bh] ([archived version][bha])
+  * [《論語》共讀，孝施於政 by folks at .論語彙][lyw] ([archived version][lywa])
+  ==
+  [君陳]: https://ctext.org/shang-shu/jun-chen#n21454
+  [bh]: https://warpweftandway.com/the-meaning-analects/
+  [bha]: https://web.archive.org/web/20230105095100/https://warpweftandway.com/the-meaning-analects/
+  [lyw]: https://kknews.cc/zh-hk/culture/2q64joy.html
+  [lywa]: https://archive.is/jmO85
+====
 
 <<
   是亦為政、奚其為為政。
 \\
+  This also .[be] governing; why .[shall] that be governing?
 >>
+=={.translation-annotations}
+* .其為： .[shall] that be; \or .[take] that as
+
+* To my modern ears, Confucius's response is a politician's non-answer
+  (which is ironic).
+==
 
 
 ||{.marker}

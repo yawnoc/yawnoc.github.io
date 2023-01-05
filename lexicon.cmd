@@ -897,6 +897,12 @@ See also: [以來]
 * light; luminary
 ==
 
+5 [克] U+514B
+==
+* overcome
+* able (to)
+==
+
 5 [免] U+514D
 ==
 * spare; avoid
@@ -2982,6 +2988,11 @@ See also: [性命]
 8 [惛] U+60DB
 ==
 * confused; dazed
+==
+
+8 [惟] U+60DF
+==
+* only
 ==
 
 8 [惡] U+60E1
