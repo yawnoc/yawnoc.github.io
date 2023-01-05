@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2022-12-30
+* %date-modified --> 2023-01-05
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -3629,6 +3629,7 @@ See also: [爰書]
 ==
 * there be; have
 * {:auxiliary:} do
+* [:speech-assist:]
 ==
 --
 See also: [有餘]

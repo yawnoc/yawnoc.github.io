@@ -284,7 +284,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   至於犬馬、皆能有養、不敬、何以別乎。
 \\
   As to the hound .[and] the horse,
-  .[they] all .[are] able to have providing for;
+  .[they] all .[are] able of providing for;
   respecting not, how .[be they] distinct?
 >>
 
