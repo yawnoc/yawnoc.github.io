@@ -521,12 +521,35 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   哀公問曰、何為則民服。
 \\
+  Lord~(Ai|哀) asked, saying,
+  What .[shall be] done, .[that] the people submit?
 >>
+=={.translation-annotations}
+* .何為： what .[shall be] done; \or what do .[I]
+==
 
 <<
   孔子對曰、舉直錯諸枉、則民服、舉枉錯諸直、則民不服。
 \\
+  .[And] (Confucius|孔子) replied, saying,
+  Raising the straight .[and] putting .[aside] all the crooked,
+  .[shall] the people submit;
+  raising the crooked .[and] putting .[aside] all the straight,
+  .[shall] the people submit not.
 >>
+=={.translation-annotations}
+* .孔子： (Confucius|孔子); \lit Master~(K'ung|孔)
+  --
+  Per the old commentaries and Legge,
+  we have .孔子對曰 "(Confucius|孔子) replied saying" because
+  Confucius is speaking to a superior.
+  To a disciple, it would merely be .子曰 ".[the] Master saith".
+  --
+
+* .舉： raising; \or recommending
+
+* .錯諸： putting .[aside] all; \or putting .[aside]
+==
 
 
 ||{.marker}

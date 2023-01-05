@@ -3757,6 +3757,12 @@ See also: [朋友]
 * pine-tree
 ==
 
+4 [枉] U+6789
+==
+* crook
+* wrong
+==
+
 4 [析] U+6790
 ==
 * split
@@ -7099,6 +7105,18 @@ See also: [數量]
 8 [錦] U+9326
 ==
 * brocade
+==
+
+8 [錯] U+932F
+[去聲]
+==
+* error
+* put
+==
+[入聲]
+==
+* disorder
+* cross
 ==
 
 13 [鐵] U+9435
