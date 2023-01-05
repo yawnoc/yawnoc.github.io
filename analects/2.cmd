@@ -68,6 +68,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 17
 - 18
 - 19
+- 20
 ::::
 
 ||{.marker}
@@ -550,6 +551,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 
 * .錯諸： putting .[aside] all; \or putting .[aside]
 ==
+
+
+### 20
+
+<<
+  季康子問使民敬忠以勸、如之何。
+\\
+>>
+
+<<
+  子曰、臨之以莊、則敬、孝慈、則忠、舉善而教不能、則勸。
+\\
+>>
 
 
 ||{.marker}
