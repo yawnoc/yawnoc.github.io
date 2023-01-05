@@ -476,17 +476,43 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子張學干祿。
 \\
+  (Tz(uu)\-chang|子張) .[was] learning of seeking salary.
 >>
+=={.translation-annotations}
+* .子張： (Tz(uu)\-chang|子張)
+  --
+  [(Chuan\-sun Shih|顓孫師), styled (Tz(uu)\-chang|子張), a disciple of Confucius.][顓孫師]
+  --
+  [顓孫師]: https://en.wikipedia.org/wiki/Zhuansun_Shi
+==
 
 <<
   子曰、多聞闕疑、慎言其餘、則寡尤、多見闕殆、慎行其餘、則寡悔。
 \\
+  .[And the] Master saith,
+    .[Of] much hearing, losing the doubtful,
+    .[and] taking care .[in] speaking .[the] remainder thereof,
+    .[thou shalt have] few faults;
+    .[of] much seeing, losing the perilous,
+    .[and] taking care .[in] performing .[the] remainder thereof,
+    .[thou shalt have] few regrets.
 >>
 
 <<
   言寡尤、行寡悔、祿在其中矣。
 \\
+  .[With] words of few faults,
+  .[and] conduct of few regrets:
+  salary .[is] in .[the] midst thereof.
 >>
+=={.translation-annotations}
+* .言： words; \lit speech
+
+* .行： conduct
+  --
+  .行、去聲、 \C hang6, \M x(i\)ng (\gr x(i/)ng)
+  --
+==
 
 
 ||{.marker}

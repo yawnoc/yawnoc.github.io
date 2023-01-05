@@ -723,6 +723,11 @@ See also: [以來]
 * all; \met both
 ==
 
+8 [俸] U+4FF8
+==
+* stipend
+==
+
 8 [俾] U+4FFE
 ==
 * make; that
@@ -2195,6 +2200,12 @@ See also: [從容]
 * inspect
 ==
 
+11 [寡] U+5BE1
+==
+* few
+* widow
+==
+
 11 [實] U+5BE6
 ==
 * actual; fact; real; solid
@@ -2270,7 +2281,7 @@ See also: [從容]
 
 1 [尤] U+5C24
 ==
-* begrudge
+* fault; begrudge
 * especially
 ==
 
@@ -2475,6 +2486,12 @@ See also: [參差]
 
 
 ### ⼲ (dry) U+2F32
+
+0 [干] U+5E72
+==
+* encroach
+* seek
+==
 
 2 [平] U+5E73
 ==
@@ -2927,6 +2944,11 @@ See also: [性命]
 ==
 * know
 * all; completely
+==
+
+7 [悔] U+6094
+==
+* regret
 ==
 
 7 [悟] U+609F
@@ -5015,6 +5037,11 @@ See also: [長短]
 6 [祭] U+796D
 ==
 * sacrifice
+==
+
+8 [祿] U+797F
+==
+* salary
 ==
 
 13 [禮] U+79AE
@@ -7145,6 +7172,12 @@ See also: [世間]
 ==
 * read
 * pass {:of time:}
+==
+
+10 [闕] U+95D5
+==
+* watchtower
+* deficient; loss
 ==
 
 
