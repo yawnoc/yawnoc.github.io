@@ -67,6 +67,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 16
 - 17
 - 18
+- 19
 ::::
 
 ||{.marker}
@@ -513,6 +514,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .行、去聲、 \C hang6, \M x(i\)ng (\gr x(i/)ng)
   --
 ==
+
+
+### 19
+
+<<
+  哀公問曰、何為則民服。
+\\
+>>
+
+<<
+  孔子對曰、舉直錯諸枉、則民服、舉枉錯諸直、則民不服。
+\\
+>>
 
 
 ||{.marker}
