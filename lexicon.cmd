@@ -1195,6 +1195,11 @@ See also: [以來]
 * assist
 ==
 
+7 [勇] U+52C7
+==
+* courage
+==
+
 7 [勉] U+52C9
 ==
 * strive
@@ -7706,6 +7711,11 @@ See also: [鴻雁]
 
 
 ### ⿁ (ghost) U+2FC1
+
+0 [鬼] U+9B3C
+==
+* ghost
+==
 
 
 ## 11-stroke radicals

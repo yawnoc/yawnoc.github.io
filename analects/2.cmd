@@ -733,6 +733,9 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、非其鬼而祭之、諂也、見義不為、無勇也。
 \\
+  .[The] Master saith,
+  Not his ghost yet sacrificing unto it, .[is] flattery;
+  seeing righteousness .[but] not doing .[it], .[is] without courage.
 >>
 
 
