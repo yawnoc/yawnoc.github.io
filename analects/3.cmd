@@ -45,6 +45,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 %%surrounds
 
 ::::
+- 1
 ::::
 
 ||{.marker}
@@ -64,6 +65,14 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   〈八佾第三〉
 \\
   '.[With] Eight Dance-Rows, .[the] Third'
+>>
+
+
+### 1
+
+<<
+  孔子謂季氏、八佾舞於庭、是可忍也、孰不可忍也。
+\\
 >>
 
 
