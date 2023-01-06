@@ -75,7 +75,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 \\
   (Confucius|孔子) speaketh of .[him of] clan (Kee|季),
   .[that], .[with] eight dancer-rows dancing in .[the] courtyard:
-  .[if] this .[he] can tolerate, what can .[he] not tolerate?
+  .[if] this can .[be] tolerated, what cannot .[be] tolerated?
 >>
 =={.translation-annotations}
 * .佾： dancer-rows
