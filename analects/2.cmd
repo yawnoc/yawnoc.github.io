@@ -668,12 +668,28 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子曰、人而無信、不知其可也。
 \\
+  .[The] Master saith,
+  Man without trustworthiness, .[I] know not .[how] he can .[function].
 >>
 
 <<
   大車無輗、小車無軏、其何以行之哉。
 \\
+  The great chariot without .[a] crossbeam,
+  .[and] the small chariot without .[a] crossbar:
+  how .[be] they moved them?!
 >>
+=={.translation-annotations}
+* .輗： crossbeam
+  --
+  .輗、五稽切、 \C ngai4, \M n(i/)
+  --
+
+* .軏： crossbar
+  --
+  .軏、魚厥切、 \C y(u")t9, \M yu(e\)
+  --
+==
 
 
 ||{.marker}

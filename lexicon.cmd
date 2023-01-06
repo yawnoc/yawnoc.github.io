@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-01-05
+* %date-modified --> 2023-01-06
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -6653,6 +6653,11 @@ See also: [平行], [行年]
 * cart
 ==
 
+3 [軏] U+8ECF
+==
+* crossbar
+==
+
 6 [較] U+8F03
 [去聲]
 ==
@@ -6691,6 +6696,11 @@ See also: [平行], [行年]
 ==
 * light
 * [:verb:] make light
+==
+
+8 [輗] U+8F17
+==
+* crossbeam
 ==
 
 8 [輙] U+8F19
