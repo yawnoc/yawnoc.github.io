@@ -698,21 +698,32 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子張問十世可知也。
 \\
+  (Tz(uu)\-chang|子張) asked of .[whether] ten generations can .[be] known.
 >>
+=={.translation-annotations}
+* .世： generations; \or lifetimes
+==
 
 <<
   子曰、殷因於夏禮、所損益、可知也、
 \\
+  .[And the] Master saith,
+  .[The] (Yin|殷) .[Dynasty] depended upon .[the] rites of .[the] (Hia|夏),
+  .[and] that diminished .[and] augmented, can .[be] known;
 >>
 
 <<
   周因於殷禮、所損益、可知也、
 \\
+  .[the] (Chou|周) depended upon .[the] rites of .[the] (Yin|殷),
+  .[and] that diminished .[and] augmented, can .[be] known;
 >>
 
 <<
   其或繼周者、雖百世可知也。
 \\
+  they that perhaps succeed .[the] (Chou|周),
+  although .[an] hundred generations .[after], can .[be] known.
 >>
 
 

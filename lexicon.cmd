@@ -295,7 +295,8 @@ See also: [不盡], [莫不]
 
 4 [世] U+4E16
 ==
-* generation; world
+* generation; life(time)
+* world
 ==
 ==
 * 世間： .[the] world
@@ -4826,7 +4827,7 @@ See also: [百萬]
 
 5 [益] U+76CA
 ==
-* benefit
+* benefit; augment
 ==
 
 5 [盍] U+76CD
@@ -5570,6 +5571,11 @@ See also: [御米]
 13 [繩] U+7E69
 ==
 * cord; string
+==
+
+14 [繼] U+7E7C
+==
+* succeed; continue
 ==
 
 14 [纂] U+7E82
