@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2023-01-05
+* %date-modified --> 2023-01-06
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -70,6 +70,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 19
 - 20
 - 21
+- 22
 ::::
 
 ||{.marker}
@@ -660,6 +661,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 * To my modern ears, Confucius's response is a politician's non-answer
   (which is ironic).
 ==
+
+
+### 22
+
+<<
+  子曰、人而無信、不知其可也。
+\\
+>>
+
+<<
+  大車無輗、小車無軏、其何以行之哉。
+\\
+>>
 
 
 ||{.marker}
