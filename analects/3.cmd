@@ -83,7 +83,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .佾、音逸、 \C yat9, \M y(i\)
   --
   --
-  The commentaries explain that clan of (Kee|季)
+  The commentaries explain that the clan of (Kee|季)
   did not have high enough status to have eight dancer-rows:
   --
   ||||||{.centred}
