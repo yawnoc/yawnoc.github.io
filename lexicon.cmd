@@ -658,7 +658,7 @@ See also: [幾何]
 
 6 [佾] U+4F7E
 ==
-* dance-row
+* dancer-row
 ==
 
 6 [使] U+4F7F

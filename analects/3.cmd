@@ -9,7 +9,7 @@
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"[The] Analects: Chapter~3"'
-* %title --> "[The] Analects: [With] Eight Dance-Rows, [the] Third" 《論語八佾第三》
+* %title --> "[The] Analects: [With] Eight Dancer-Rows, [the] Third" 《論語八佾第三》
 * %description -->
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
@@ -39,7 +39,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ^^^^
 
 # .《論語》 ".[The] Analects" <br>
-  Chapter~3. .〈八佾〉 '.[With] Eight Dance-Rows'
+  Chapter~3. .〈八佾〉 '.[With] Eight Dancer-Rows'
 
 
 %%surrounds
@@ -64,7 +64,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   〈八佾第三〉
 \\
-  '.[With] Eight Dance-Rows, .[the] Third'
+  '.[With] Eight Dancer-Rows, .[the] Third'
 >>
 
 
@@ -74,11 +74,11 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   孔子謂季氏、八佾舞於庭、是可忍也、孰不可忍也。
 \\
   (Confucius|孔子) speaketh of .[him of] clan (Kee|季),
-  .[that], .[with] eight dance-rows dancing in .[the] courtyard:
+  .[that], .[with] eight dancer-rows dancing in .[the] courtyard:
   .[if] this .[he] can tolerate, what can .[he] not tolerate?
 >>
 =={.translation-annotations}
-* .佾： dance-rows
+* .佾： dancer-rows
   --
   .佾、音逸、 \C yat9, \M y(i\)
   --

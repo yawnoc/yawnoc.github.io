@@ -41,7 +41,7 @@ Work in progress for an English translation the Confucian ''Analects''.
 ::::{-class}
 - [Chapter~1. .〈學而〉 '.[To] Learn And'](1)
 - [Chapter~2. .〈為政〉 '.[He that] Governeth'](2)
-- [Chapter~3. .〈八佾〉 '.[With] Eight Dance-Rows'](3)
+- [Chapter~3. .〈八佾〉 '.[With] Eight Dancer-Rows'](3)
 ::::
 
 ||{.marker}
