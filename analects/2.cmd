@@ -72,6 +72,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 21
 - 22
 - 23
+- 24
 ::::
 
 ||{.marker}
@@ -724,6 +725,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 \\
   they that perhaps succeed .[the] (Chou|周),
   although .[an] hundred generations .[after], can .[be] known.
+>>
+
+
+### 24
+
+<<
+  子曰、非其鬼而祭之、諂也、見義不為、無勇也。
+\\
 >>
 
 
