@@ -75,10 +75,6 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 24
 ::::
 
-||{.marker}
-(Incomplete; work in progress.)
-||
-
 
 ##{#translation} Translation
 
@@ -737,11 +733,6 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   Not his ghost yet sacrificing unto it, .[is] flattery;
   seeing righteousness .[but] not doing .[it], .[is] without courage.
 >>
-
-
-||{.marker}
-(Incomplete; work in progress.)
-||
 
 
 %%surrounds
