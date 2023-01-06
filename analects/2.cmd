@@ -29,7 +29,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 * %%surrounds-up --> [^ .[The] Analects](./)
 * %%surrounds-previous --> [<-- Ch.~1](1)
 * %%surrounds-current --> Chapter~2
-* %%surrounds-next -->
+* %%surrounds-next --> [Ch.~3 -->](3)
 - concluding_replacements: #.surrounds.navigation-arrows #comments
 
 %%%
