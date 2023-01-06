@@ -656,6 +656,11 @@ See also: [幾何]
 * goodly
 ==
 
+6 [佾] U+4F7E
+==
+* dance-row
+==
+
 6 [使] U+4F7F
 [上聲]
 ==
@@ -2119,6 +2124,11 @@ See also: [字典]
 * orphan; lone
 ==
 
+8 [孰] U+5B70
+==
+* what; which
+==
+
 13 [學] U+5B78
 ==
 * learn
@@ -2188,7 +2198,7 @@ See also: [字典]
 7 [容] U+5BB9
 ==
 * contain
-* tolerate; suffer
+* suffer
 * countenance
 ==
 --
@@ -2605,6 +2615,11 @@ See also: [參差]
 * warehouse
 ==
 
+7 [庭] U+5EAD
+==
+* courtyard
+==
+
 10 [廉] U+5EC9
 ==
 * incorrupt
@@ -2873,6 +2888,11 @@ See also: [何得]
 --
 See also: [未必]
 --
+
+3 [忍] U+5FCD
+==
+* tolerate
+==
 
 3 [志] U+5FD7
 ==
@@ -5886,6 +5906,11 @@ See also: [自相]
 
 
 ### ⾇ (oppose) U+2F87
+
+8 [舞] U+821E
+==
+* dance
+==
 
 
 ### ⾈ (boat) U+2F88
