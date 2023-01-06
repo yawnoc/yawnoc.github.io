@@ -71,6 +71,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 20
 - 21
 - 22
+- 23
 ::::
 
 ||{.marker}
@@ -690,6 +691,29 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .軏、魚厥切、 \C y(u")t9, \M yu(e\)
   --
 ==
+
+
+### 23
+
+<<
+  子張問十世可知也。
+\\
+>>
+
+<<
+  子曰、殷因於夏禮、所損益、可知也、
+\\
+>>
+
+<<
+  周因於殷禮、所損益、可知也、
+\\
+>>
+
+<<
+  其或繼周者、雖百世可知也。
+\\
+>>
 
 
 ||{.marker}
