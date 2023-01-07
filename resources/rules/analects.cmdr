@@ -1,3 +1,7 @@
+OrdinaryDictionaryReplacement: #.analects.chapter-number
+- queue_position: BEFORE #cmd-properties
+* %chapter --> %cmd-basename
+
 OrdinaryDictionaryReplacement: #.analects.header-links-ordinary
 - queue_position: BEFORE #backslash-escapes
 * !!analects --> [Analects]("You are viewing the Analects")
@@ -14,12 +18,12 @@ RegexDictionaryReplacement: #.analects.header-links-regex
 
 RegexDictionaryReplacement: #.analects.saying-item-links
 - queue_position: BEFORE #unordered-lists
-* ^[-] [ ] (?P<number> [0-9]+ ) --> - [%cmd-basename.\g<number>](#\g<number>)
+* ^[-] [ ] (?P<number> [0-9]+ ) --> - [%chapter.\g<number>](#\g<number>)
 
 
 RegexDictionaryReplacement: #.analects.saying-headings
 - queue_position: BEFORE #.yawnoc.heading-permalinks
-* ^[#]{3} [ ] (?P<number> [0-9]+ ) --> ###{#\g<number>} %cmd-basename.\g<number>
+* ^[#]{3} [ ] (?P<number> [0-9]+ ) --> ###{#\g<number>} %chapter.\g<number>
 
 
 RegexDictionaryReplacement: #.analects.source-links
