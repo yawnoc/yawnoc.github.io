@@ -1,4 +1,8 @@
 https://yawnoc.github.io/
+https://yawnoc.github.io/analects/
+https://yawnoc.github.io/analects/1
+https://yawnoc.github.io/analects/2
+https://yawnoc.github.io/analects/3
 https://yawnoc.github.io/cantonese/conway-romanisation
 https://yawnoc.github.io/code/chinese-font
 https://yawnoc.github.io/code/gitconfig
@@ -36,6 +40,7 @@ https://yawnoc.github.io/lit/need-to-win
 https://yawnoc.github.io/lit/sea-island
 https://yawnoc.github.io/mao-on-separatism
 https://yawnoc.github.io/math/daytime
+https://yawnoc.github.io/math/power-rule-log
 https://yawnoc.github.io/math/projectile-platform
 https://yawnoc.github.io/math/projectile-weak-drag
 https://yawnoc.github.io/sun-tzu/
