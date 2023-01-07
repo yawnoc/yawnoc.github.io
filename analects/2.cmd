@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2023-01-06
+* %date-modified --> 2023-01-07
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -259,7 +259,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 =={.translation-annotations}
 * .孟武伯： (M(e^)ng Wu|孟武) .[the] Eldest
   --
-  The son of Master~(M(e^)ng Yee|孟懿) in [Saying~5](#5).
+  The son of Master~(M(e^)ng Yee|孟懿) in [%chapter.5](#5).
   --
 ==
 
