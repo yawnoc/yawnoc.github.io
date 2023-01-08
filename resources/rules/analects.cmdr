@@ -23,7 +23,8 @@ RegexDictionaryReplacement: #.analects.saying-item-links
 
 RegexDictionaryReplacement: #.analects.saying-headings
 - queue_position: BEFORE #.yawnoc.heading-permalinks
-* ^[#]{3} [ ] (?P<number> [0-9]+ ) --> ###{#\g<number>} %chapter.\g<number>
+* ^[#]{3} [ ] (?P<number> [0-9]+ ) [.] [ ]* (?P<text>.*) -->
+    ###{#\g<number>} %chapter.\g<number>. \g<text>
 
 
 RegexDictionaryReplacement: #.analects.source-links

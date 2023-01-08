@@ -87,10 +87,14 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
   Each chapter of the Analects is named after its incipit
   (like the books of the Pentateuch in Hebrew).
   --
+  --
+  The section headings below, on the other hand,
+  are *not* part of the original text.
+  --
 ==
 
 
-### 1
+### 1. On learning, peers, and unknownness
 
 <<
   子曰、學而時習之、不亦說乎。
@@ -126,7 +130,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 >>
 
 
-### 2
+### 2. On the base of virtuous humanity
 
 <<
   有子曰、其為人也孝弟、而好犯上者、鮮矣。
@@ -173,7 +177,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 ==
 
 
-### 3
+### 3. Things not of virtuous humanity
 
 <<
   子曰、巧言令色、鮮矣仁。
@@ -187,7 +191,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 ==
 
 
-### 4
+### 4. Three daily introspections
 
 <<
   曾子曰、吾日三省吾身、為人謀而不忠乎、與朋友交而不信乎、傳不習乎。
@@ -219,7 +223,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 ==
 
 
-### 5
+### 5. On leading many people
 
 <<
   子曰、道千乘之國、敬事而信、節用而愛人、使民以時。
@@ -238,7 +242,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 ==
 
 
-### 6
+### 6. On the younger-brother child
 
 <<
   子曰、弟子入則孝、出則弟、謹而信、汎愛眾、而親仁。
@@ -265,7 +269,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 ==
 
 
-### 7
+### 7. On behaviours that nigh learnedness
 
 <<
   子夏曰、賢賢易色、事父母、能竭其力、事君、能致其身、與朋友交、言而有信、
@@ -301,7 +305,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 >>
 
 
-### 8
+### 8. On behaviours of the superior man
 
 <<
   子曰、君子不重則不威、學則不固。
@@ -330,7 +334,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 >>
 
 
-### 9
+### 9. On doing funerary rites properly
 
 <<
   曾子曰、慎終追遠、民德歸厚矣。
@@ -344,7 +348,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 ==
 
 
-### 10
+### 10. On how Confucius heareth of governances
 
 <<
   子禽問於子貢曰、夫子至於是邦也、必聞其政、求之與、抑與之與。
@@ -393,7 +397,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 >>
 
 
-### 11
+### 11. On filiality unto the father
 
 <<
   子曰、父在、觀其志、父沒、觀其行、三年無改於父之道、可謂孝矣。
@@ -412,7 +416,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 ==
 
 
-### 12
+### 12. On propriety and harmony
 
 <<
   有子曰、禮之用、和為貴。
@@ -438,7 +442,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 >>
 
 
-### 13
+### 13. Some goodly attributes
 
 <<
   有子曰、信近於義、言可復也。
@@ -474,7 +478,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 >>
 
 
-### 14
+### 14. On that the superior man seeketh
 
 <<
   子曰、君子食無求飽、居無求安、敏於事而慎於言、就有道而正焉、可謂好學也已。
@@ -488,7 +492,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 >>
 
 
-### 15
+### 15. On levels of goodly character
 
 <<
   子貢曰、貧而無諂、富而無驕、何如。
@@ -538,7 +542,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 ==
 
 
-### 16
+### 16. On unknownness
 
 <<
   子曰、不患人之不己知、患不知人也。

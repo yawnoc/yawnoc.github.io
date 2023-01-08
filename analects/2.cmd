@@ -95,10 +95,14 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   Each chapter of the Analects is named after its incipit
   (like the books of the Pentateuch in Hebrew).
   --
+  --
+  The section headings below, on the other hand,
+  are *not* part of the original text.
+  --
 ==
 
 
-### 1
+### 1. On governing with virtue
 
 <<
   子曰、為政以德、譬如北辰、居其所而眾星共之。
@@ -123,7 +127,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 2
+### 2. On the Classic of Poetry
 
 <<
   子曰、詩三百、一言以蔽之、曰、思無邪。
@@ -135,7 +139,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 3
+### 3. On punitive versus virtuous rule
 
 <<
   子曰、道之以政、齊之以刑、民免而無恥。
@@ -155,7 +159,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 4
+### 4. Milestones of the life of Confucius
 
 <<
   子曰、吾十有五而志于學、
@@ -211,7 +215,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 5
+### 5. On filiality and propriety
 
 <<
   孟懿子問孝。子曰、無違。
@@ -254,7 +258,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 6
+### 6. On filiality and worries
 
 <<
   孟武伯問孝。子曰、父母唯其疾之憂。
@@ -271,7 +275,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 7
+### 7. On filiality and respect
 
 <<
   子游問孝。子曰、今之孝者、是謂能養。
@@ -299,7 +303,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 8
+### 8. On filiality and the countenance
 
 <<
   子夏問孝。子曰、色難、有事弟子服其勞、有酒食先生饌、曾是以為孝乎。
@@ -325,7 +329,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 9
+### 9. On (Huei|回) the disciple
 
 <<
   子曰、吾與回言終日、不違如愚。
@@ -351,7 +355,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 10
+### 10. Man's character not concealable
 
 <<
   子曰、視其所以、觀其所由、察其所安。
@@ -372,7 +376,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 11
+### 11. On learning of old and new
 
 <<
   子曰、溫故而知新、可以為師矣。
@@ -383,7 +387,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 12
+### 12. All-roundedness of the superior man
 
 <<
   子曰、君子不器。
@@ -400,7 +404,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 13
+### 13. Actions before words
 
 <<
   子貢問君子。子曰、先行其言、而後從之。
@@ -414,7 +418,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 14
+### 14. Non-partisanship of the superior man
 
 <<
   子曰、君子周而不比、小人比而不周。
@@ -431,7 +435,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 15
+### 15. On learning and thinking
 
 <<
   子曰、學而不思則罔、思而不學則殆。
@@ -442,7 +446,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 16
+### 16. On strange doctrines
 
 <<
   子曰、攻乎異端、斯害也已。
@@ -455,7 +459,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 17
+### 17. On knowing
 
 <<
   子曰、由、誨女知之乎。
@@ -480,7 +484,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 18
+### 18. On that more important than salary
 
 <<
   子張學干祿。
@@ -524,7 +528,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 19
+### 19. On governance for the submission of the people
 
 <<
   哀公問曰、何為則民服。
@@ -560,7 +564,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 20
+### 20. On instilling virtue by example
 
 <<
   季康子問使民敬忠以勸、如之何。
@@ -593,7 +597,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 21
+### 21. On Confucius partaking not in government
 
 <<
   或謂孔子曰、子奚不為政。
@@ -668,7 +672,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 22
+### 22. Necessity of trustworthiness
 
 <<
   子曰、人而無信、不知其可也。
@@ -697,7 +701,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 ==
 
 
-### 23
+### 23. Pre-knowing of future practices
 
 <<
   子張問十世可知也。
@@ -731,7 +735,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 >>
 
 
-### 24
+### 24. Flattery and courage
 
 <<
   子曰、非其鬼而祭之、諂也、見義不為、無勇也。

@@ -72,10 +72,14 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   Each chapter of the Analects is named after its incipit
   (like the books of the Pentateuch in Hebrew).
   --
+  --
+  The section headings below, on the other hand,
+  are *not* part of the original text.
+  --
 ==
 
 
-### 1
+### 1. Impropriety by excessive dancer count
 
 <<
   孔子謂季氏、八佾舞於庭、是可忍也、孰不可忍也。
