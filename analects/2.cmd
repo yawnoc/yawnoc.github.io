@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2023-01-07
+* %date-modified --> 2023-01-08
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -89,6 +89,13 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 \\
   '.[He that] Governeth, .[the] Second'
 >>
+=={.translation-annotations}
+* .為政： .[he that] governeth
+  --
+  Each chapter of the Analects is named after its incipit
+  (like the books of the Pentateuch in Hebrew).
+  --
+==
 
 
 ### 1

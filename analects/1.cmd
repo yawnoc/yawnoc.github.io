@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2023-01-05
+* %date-modified --> 2023-01-08
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -81,6 +81,13 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 \\
   '.[To] Learn And, .[the] First'
 >>
+=={.translation-annotations}
+* .學而： .[to] learn and
+  --
+  Each chapter of the Analects is named after its incipit
+  (like the books of the Pentateuch in Hebrew).
+  --
+==
 
 
 ### 1

@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-01-06
+* %date-modified --> 2023-01-08
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -66,6 +66,13 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 \\
   '.[With] Eight Dancer-Rows, .[the] Third'
 >>
+=={.translation-annotations}
+* .八佾： .[with] eight dancer-rows
+  --
+  Each chapter of the Analects is named after its incipit
+  (like the books of the Pentateuch in Hebrew).
+  --
+==
 
 
 ### 1
