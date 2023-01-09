@@ -133,12 +133,41 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   三家者以雍徹。
 \\
+  .[The] Three Families removed .[after sacrifice] by .[the ode of] (Yung|雍).
 >>
+=={.translation-annotations}
+* .三家： .[the] Three Families
+  --
+  The families (M(e^)ng\-sun|孟孫), (Shuk\-sun|叔孫), and (Kee\-sun|季孫),
+  which were .大夫 "great men" of (Lu|魯).
+  --
+
+* .徹： removed; \or withdrew
+
+* .雍： .[the ode of] (Yung|雍)
+  --
+  An ode for clearing out the sacrifice,
+  to be used only for the .天子 "Son of Heaven".
+  Confucius quotes a line (.相維辟公、天子穆穆) from it below;
+  see [ctext.org .《雝》].
+  --
+  [ctext.org .《雝》]: https://ctext.org/book-of-poetry/yong?searchu=相維辟公、天子穆穆&searchmode=showall#result
+==
 
 <<
   子曰、相維辟公、天子穆穆、奚取於三家之堂。
 \\
+  .[And the] Master saith,
+  Assisting .[be the] monarch's lords,
+  .[and the] Son of Heaven majestic:
+  how take .[we this] unto .[the] halls of .[the] Three Families?
 >>
+=={.translation-annotations}
+* .相： assisting; \or ministering
+  --
+  .相、去聲、 \C s(oe)ng3, \M xi(a\)ng
+  --
+==
 
 
 ||{.marker}

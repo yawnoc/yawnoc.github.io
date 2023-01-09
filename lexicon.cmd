@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-01-06
+* %date-modified --> 2023-01-09
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1824,6 +1824,11 @@ See also: [未嘗]
 * foundation
 ==
 
+8 [堂] U+5802
+==
+* hall
+==
+
 8 [堅] U+5805
 ==
 * firm
@@ -2832,6 +2837,12 @@ See also: [何得]
 * virtue
 ==
 
+12 [徹] U+5FB9
+==
+* pervade
+* \int [撤]
+==
+
 
 ## 4-stroke radicals
 
@@ -3278,6 +3289,11 @@ See also: [掌握]
 12 [撲] U+64B2
 ==
 * beat
+==
+
+12 [撤] U+64A4
+==
+* remove; withdraw
 ==
 
 12 [撮] U+64AE
@@ -4921,7 +4937,7 @@ See also: [相傳]
 [去聲]
 ==
 * appearance; physiognomy
-* minister
+* minister; assist
 ==
 
 4 [省] U+7701
@@ -5168,6 +5184,11 @@ See also: [長短]
 10 [稽] U+7A3D
 ==
 * examine
+==
+
+11 [穆] U+7A46
+==
+* majestic
 ==
 
 11 [積] U+7A4D
@@ -6769,6 +6790,12 @@ See also: [平行], [行年]
 ==
 * pungent
 * H {:8th heavenly stem:}
+==
+
+6 [辟] U+8F9F
+==
+* monarch
+* law
 ==
 
 9 [辨] U+8FA8
