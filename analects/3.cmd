@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-01-08
+* %date-modified --> 2023-01-09
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -46,6 +46,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 
 ::::
 - 1
+- 2
 ::::
 
 ||{.marker}
@@ -79,7 +80,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 ==
 
 
-### 1. Impropriety by excessive dancer count
+### 1. Impropriety by unpermitted dancer count
 
 <<
   孔子謂季氏、八佾舞於庭、是可忍也、孰不可忍也。
@@ -125,6 +126,19 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   hence this was a violation of the rules of propriety (or rites).
   --
 ==
+
+
+### 2. Impropriety by unpermitted music
+
+<<
+  三家者以雍徹。
+\\
+>>
+
+<<
+  子曰、相維辟公、天子穆穆、奚取於三家之堂。
+\\
+>>
 
 
 ||{.marker}
