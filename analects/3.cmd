@@ -176,6 +176,9 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   子曰、人而不仁、如禮何、人而不仁、如樂何。
 \\
+  .[The] Master saith,
+  .[A] man .[being] not of .[virtuous] humanity, how .[then] of propriety?
+  .[a] man .[being] not of .[virtuous] humanity, how .[then] of music?
 >>
 
 
