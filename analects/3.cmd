@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-01-09
+* %date-modified --> 2023-01-10
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -47,6 +47,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 ::::
 - 1
 - 2
+- 3
 ::::
 
 ||{.marker}
@@ -168,6 +169,14 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .相、去聲、 \C s(oe)ng3, \M xi(a\)ng
   --
 ==
+
+
+### 3. Virtuous humanity necessary for propriety and music
+
+<<
+  子曰、人而不仁、如禮何、人而不仁、如樂何。
+\\
+>>
 
 
 ||{.marker}
