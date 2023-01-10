@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2023-01-08
+* %date-modified --> 2023-01-10
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -678,7 +678,8 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   子曰、人而無信、不知其可也。
 \\
   .[The] Master saith,
-  Man without trustworthiness, .[I] know not .[how] he can .[function].
+  .[A] man .[being] without trustworthiness,
+  .[I] know not .[how] he can .[function].
 >>
 
 <<
