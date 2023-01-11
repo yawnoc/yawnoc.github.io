@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-01-10
+* %date-modified --> 2023-01-11
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -48,6 +48,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 1
 - 2
 - 3
+- 4
 ::::
 
 ||{.marker}
@@ -179,6 +180,19 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[The] Master saith,
   .[A] man .[being] not of .[virtuous] humanity, how .[then] of propriety?
   .[a] man .[being] not of .[virtuous] humanity, how .[then] of music?
+>>
+
+
+### 4. On how rites ought to be conducted
+
+<<
+  林放問禮之本。
+\\
+>>
+
+<<
+  子曰、大哉問。禮、與其奢也、寧儉、喪、與其易也、寧戚。
+\\
 >>
 
 
