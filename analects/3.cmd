@@ -49,6 +49,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 2
 - 3
 - 4
+- 5
 ::::
 
 ||{.marker}
@@ -210,6 +211,14 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 =={.translation-annotations}
 * .問： question; \or asking
 ==
+
+
+### 5. Confucian prejudice against the barbarians
+
+<<
+  子曰、夷狄之有君、不如諸夏之亡也。
+\\
+>>
 
 
 ||{.marker}
