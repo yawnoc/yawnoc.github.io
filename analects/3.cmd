@@ -188,12 +188,28 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   林放問禮之本。
 \\
+  (Lim Fang|林放) asked of .[the] base of rites.
 >>
+=={.translation-annotations}
+* .林放： (Lim Fang|林放)
+  --
+  A man of (Lu|魯).
+  --
+
+* .禮： rites; \or propiety
+==
 
 <<
   子曰、大哉問。禮、與其奢也、寧儉、喪、與其易也、寧戚。
 \\
+  .[And the] Master saith,
+  Great .[be thy] question!
+  Rites, with them extravagant, rather .[them] frugal;
+  funerals, with them .[being] of easiness, rather .[them] mournful.
 >>
+=={.translation-annotations}
+* .問： question; \or asking
+==
 
 
 ||{.marker}

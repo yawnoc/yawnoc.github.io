@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-01-09
+* %date-modified --> 2023-01-11
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1703,6 +1703,16 @@ See also: [學問]
 * good; good at
 ==
 
+9 [喪] U+55AA
+[平聲]
+==
+* funerary
+==
+[去聲]
+==
+* lose
+==
+
 10 [嗜] U+55DC
 ==
 * [:verb:] like
@@ -2009,6 +2019,11 @@ See also: [失中]
 * how; why
 ==
 
+8 [奢] U+5962
+==
+* extravagant
+==
+
 
 ### ⼥ (woman) U+2F25
 
@@ -2244,6 +2259,12 @@ See also: [從容]
 * full
 * fruit
 * dividend
+==
+
+11 [寧] U+5BE7
+==
+* repose
+* rather
 ==
 
 
@@ -3129,6 +3150,12 @@ See also: [性命]
 ==
 * perhaps; if
 * someone
+==
+
+7 [戚] U+621A
+==
+* kin
+* mournful
 ==
 
 12 [戰] U+6230
