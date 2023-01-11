@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2023-01-08
+* %date-modified --> 2023-01-11
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -442,7 +442,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 >>
 
 
-### 13. Some goodly attributes
+### 13. Some good attributes
 
 <<
   有子曰、信近於義、言可復也。
@@ -492,7 +492,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 >>
 
 
-### 15. On levels of goodly character
+### 15. On levels of good character
 
 <<
   子貢曰、貧而無諂、富而無驕、何如。
