@@ -199,7 +199,7 @@ Lookup by stroke count of radical:
   ++
   Notes on stroke count:
   ==
-  - Count 4~strokes (not~3) for the component .𠫓.
+  - Count 4~strokes (not~3) for the component `U+20AD3`~.𠫓.
   ==
 ++++
 
