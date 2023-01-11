@@ -200,6 +200,7 @@ Lookup by stroke count of radical:
   Notes on stroke count:
   ==
   - Count 4~strokes (not~3) for the component `U+20AD3`~.𠫓.
+  - Count 8~strokes (not~9) for `U+8005`~.者.
   ==
 ++++
 
@@ -6518,7 +6519,7 @@ See also: [平行], [行年]
 * discourse; debate
 ==
 
-9 [諸] U+8AF8
+8 [諸] U+8AF8
 ==
 * all .[the]; various
 * [:contraction:] [之]|[於]
