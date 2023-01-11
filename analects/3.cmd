@@ -218,6 +218,9 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   子曰、夷狄之有君、不如諸夏之亡也。
 \\
+  .[The] Master saith,
+  .[The] Eastern-Barbarians' .[and the] Northern-Barbarians' having monarchs,
+  .[is] not as all (Hia|夏)'s having .[them] not.
 >>
 
 

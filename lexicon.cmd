@@ -1890,6 +1890,7 @@ See also: [詩士]
 
 7 [夏] U+590F
 ==
+* great
 * summer
 ==
 
@@ -1977,6 +1978,12 @@ See also: [失中]
 ==
 * haste
 * \var [本]
+==
+
+3 [夷] U+5937
+==
+* level
+* eastern-barbarian
 ==
 
 5 [奇] U+5947
@@ -4528,6 +4535,11 @@ See also: [以為], [為政]
 2 [犯] U+72AF
 ==
 * offend against
+==
+
+4 [狄] U+72C4
+==
+* northern-barbarian
 ==
 
 5 [狐] U+72D0
