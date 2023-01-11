@@ -222,6 +222,31 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[The] Eastern-Barbarians' .[and the] Northern-Barbarians' having monarchs,
   .[is] not as all (Hia|夏)'s having .[them] not.
 >>
+=={.translation-annotations}
+* .不如： not as
+  --
+  There are those who prefer to interpret~3.5
+  not as a prejudicial statement of centric superiority,
+  but as a lament of the lack of order in the Chinese states at that time
+  (by taking "not as" to mean _not like_, rather than _not as good as_).
+  --
+  --
+  Those of this view range, from the olden commentators,
+  through to modern-day nationalists
+  (zealously defending the state-approved myth
+  of an homogeneous, unified China since antiquity
+  that has always been peaceful, non-hegemonist, and atrocity-free).
+  --
+  --
+  In my opinion, the prejudicial interpretation of~3.5 is the correct one,
+  because the construct ::{l=zh-Hant} X~不如~Y::
+  is used to express the assertion that Y~is better than~X.
+  --
+  <## TODO
+    - 論語注疏 https://ctext.org/library.pl?if=en&file=51124&page=108
+    - 四書集注章句 https://ctext.org/library.pl?if=en&file=9698&page=44
+  ##>
+==
 
 
 ||{.marker}
