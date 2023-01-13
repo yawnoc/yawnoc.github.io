@@ -222,7 +222,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[The] Eastern-Barbarians' .[and the] Northern-Barbarians' having monarchs,
   .[is] not as all (Hia|夏)'s having .[them] not.
 >>
-=={.translation-annotations}
+===={.translation-annotations}
 * .不如： not as
   --
   There are those who prefer to interpret~3.5
@@ -242,11 +242,33 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   because the construct ::{l=zh-Hant} X~不如~Y::
   is used to express the assertion that X~is worse than~Y.
   --
+  --
+  The olden commentaries:
+  --
+  ==
+  - [《論語注疏》](https://ctext.org/library.pl?if=en&file=51124&page=108)
+    <<
+      注。包曰、諸夏、中國。亡、無也。
+    \\
+    >>
+    <<
+      疏。正義曰、此章言中國禮義之盛、而夷狄無也。\
+      舉夷狄、則戎蠻可知。諸夏、中國也、亡、無也、\
+      言夷狄、雖有君長、而無禮義、\
+      中國、雖偶無君、若周召共和之年、而禮義不廢。\
+      故曰夷狄之有君、不如諸夏之亡也。\
+      注。包曰、諸夏、中國。\
+      〇正義曰、此及閔元年左氏傳、皆言諸夏。\
+      襄四年左傳、魏綘云、諸夷必叛。\
+      華夏皆謂中國、而謂之華夏者、夏、大也。\
+      言有禮儀之大、有文章之華也。
+    \\
+    >>
+  ==
   <## TODO
-    - 論語注疏 https://ctext.org/library.pl?if=en&file=51124&page=108
     - 四書集注章句 https://ctext.org/library.pl?if=en&file=9698&page=44
   ##>
-==
+====
 
 
 ||{.marker}
