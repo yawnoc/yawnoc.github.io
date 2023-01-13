@@ -282,7 +282,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       having .[them] not.
       Raising .[the] Eastern-Barbarians .[and the] Northern-Barbarians,
       .[the] Western-Barbarians .[and the] Southern-Barbarians
-      can .[be] known .[to be the same].
+      .[one] can know .[to be the same].
       All (Hia|夏), .[meaneth] China,
       .[and] having-not, .[meaneth] without,
       speak .[that the] Eastern-Barbarians .[and the] Northern-Barbarians,
