@@ -246,7 +246,8 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   The olden commentaries:
   --
   ==
-  - [《論語注疏》](https://ctext.org/library.pl?if=en&file=51124&page=108)
+  - [《論語注疏》 "Analects annotations .[and] subcommentary"]\
+    (https://ctext.org/library.pl?if=en&file=51124&page=108):
     <<
       注。包曰、諸夏、中國。亡、無也。
     \\
@@ -264,7 +265,8 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       言有禮儀之大、有文章之華也。
     \\
     >>
-  - [《論語集注》](https://ctext.org/library.pl?if=en&file=9698&page=44)
+  - [《論語集注》 "Analects collected annotations"]\
+    (https://ctext.org/library.pl?if=en&file=9698&page=44):
     <<
       吳氏曰、亡、古無字、通用。\
       程子曰、夷狄且有君長、不如諸夏之僭亂、反無上下之分也。\
