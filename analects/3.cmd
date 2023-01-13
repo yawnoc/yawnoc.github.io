@@ -285,7 +285,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       .[one] can know .[to be the same].
       All (Hia|夏), .[meaneth] China,
       .[and] having-not, .[meaneth] without,
-      speak .[that the] Eastern-Barbarians .[and the] Northern-Barbarians,
+      .[do] speak .[that the] Eastern-Barbarians .[and the] Northern-Barbarians,
       although having monarch .[and] leader,
       yet have not propriety .[and] righteousness;
       .[and that] China, although perchance without monarch,
@@ -305,7 +305,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       (Hua|華) .[and] (Hia|夏) all speak of China,
       and .[the] calling of it (Hua\-hia|華夏):
       (hia|夏), .[meaneth] great,
-      speaking of .[the] greatness of having propriety .[and] ceremony,
+      .[doth] speak of .[the] greatness of having propriety .[and] ceremony,
       .[and the] splendour of having literary composition.
     >>
     =={.translation-annotations}
