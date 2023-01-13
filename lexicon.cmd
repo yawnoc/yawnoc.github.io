@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-01-11
+* %date-modified --> 2023-01-13
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -504,6 +504,14 @@ See also: [中半]
 
 
 ### ⼇ (lid) U+2F07
+
+1 [亡] U+4EA1
+==
+* flee
+* lose
+* perish
+* \int [無]
+==
 
 4 [交] U+4EA4
 ==
@@ -6686,7 +6694,7 @@ See also: [平行], [行年]
 
 0 [走] U+8D70
 ==
-* run; flee
+* run
 * leave
 ==
 

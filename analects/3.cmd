@@ -222,7 +222,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[The] Eastern-Barbarians' .[and the] Northern-Barbarians' having monarchs,
   .[is] not as all (Hia|夏)'s having .[them] not.
 >>
-===={.translation-annotations}
+======{.translation-annotations}
 * .不如： not as
   --
   There are those who prefer to interpret~3.5
@@ -245,13 +245,24 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   --
   The olden commentaries:
   --
-  ==
+  ====
   - [《論語注疏》 "Analects annotations .[and] subcommentary"]\
     (https://ctext.org/library.pl?if=en&file=51124&page=108):
     <<
       注。包曰、諸夏、中國。亡、無也。
     \\
+      Annotation.
+      (Pao|包) saith: all (Hia|夏), .[is] China.
+      Having-not, .[meaneth] without.
     >>
+    =={.translation-annotations}
+    * .中國： China; \lit Central Nation
+    * .亡： having-not
+      --
+      The purpose of the annotation .亡、無也 is to explain that
+      .亡 means, and is used for, .無 "having not".
+      --
+    ==
     <<
       疏。正義曰、此章言中國禮義之盛、而夷狄無也。\
       舉夷狄、則戎蠻可知。諸夏、中國也、亡、無也、\
@@ -273,8 +284,8 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       〇尹氏曰、孔子傷時之亂而歎之也。亡非實亡也、雖有之、不能盡其道爾。
     \\
     >>
-  ==
-====
+  ====
+======
 
 
 ||{.marker}
