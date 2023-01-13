@@ -291,7 +291,7 @@ See also: [不盡], [莫不]
 
 4 [且] U+4E14
 ==
-* and also
+* and also; moreover
 ==
 
 4 [世] U+4E16
@@ -849,9 +849,20 @@ See also: [以來]
 * debt
 ==
 
+11 [傷] U+50B7
+==
+* injure
+* grieve
+==
+
 12 [僦] U+50E6
 ==
 * rent
+==
+
+12 [僭] U+50ED
+==
+* usurp
 ==
 
 13 [僵] U+50F5
@@ -1103,7 +1114,7 @@ See also: [以來]
 [平聲]
 ==
 * [:verb:] share
-* separate; split
+* separate; split; \met dispute
 * distinguish
 * tenth
 ==
@@ -1480,6 +1491,13 @@ See also: [北方]
 ==
 ==
 * 朋友： friend
+==
+
+2 [反] U+53CD
+==
+* revolt (against)
+* (go) back
+* contrary; contrariwise
 ==
 
 6 [取] U+53D6
@@ -6961,6 +6979,7 @@ See also: [遠近]
 7 [通] U+901A
 ==
 * through; throughout; \met total
+* interchangeable
 ==
 
 7 [逝] U+901D

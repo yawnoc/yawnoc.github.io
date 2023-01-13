@@ -327,7 +327,24 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       程子曰、夷狄且有君長、不如諸夏之僭亂、反無上下之分也。\
       〇尹氏曰、孔子傷時之亂而歎之也。亡非實亡也、雖有之、不能盡其道爾。
     \\
+      (Wu|吳) saith:
+      having-not, .[is the] olden character .[for] without, used interchangeably.
+      Master~(Ch'(e^)ng|程) saith:
+      .[the] Eastern-Barbarians .[and the] Northern-Barbarians
+      moreover having monarch .[and] leader,
+      .[were] not as all (Hia|夏)'s usurpative disorder,
+      .[and] contrariwise .[were] without dispute
+      .[between] superior .[and] inferior.
+      \P (Yin|尹) saith:
+      (Confucius|孔子) .[was] grieved at .[the] disorder of .[the] time
+      and sighed .[upon] it.
+      Having-not .[is] not actual having-not;
+      although .[all (Hia|夏)] had it,
+      .[they] could not exhaust its way.
     >>
+    =={.translation-annotations}
+    * .分： dispute; \lit split
+    ==
   ====
 ======
 
