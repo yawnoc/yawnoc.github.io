@@ -264,10 +264,14 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       言有禮儀之大、有文章之華也。
     \\
     >>
+  - [《論語集注》](https://ctext.org/library.pl?if=en&file=9698&page=44)
+    <<
+      吳氏曰、亡、古無字、通用。\
+      程子曰、夷狄且有君長、不如諸夏之僭亂、反無上下之分也。\
+      〇尹氏曰、孔子傷時之亂而歎之也。亡非實亡也、雖有之、不能盡其道爾。
+    \\
+    >>
   ==
-  <## TODO
-    - 四書集注章句 https://ctext.org/library.pl?if=en&file=9698&page=44
-  ##>
 ====
 
 
