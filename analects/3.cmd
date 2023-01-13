@@ -243,11 +243,12 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   is used to express the assertion that X~is worse than~Y.
   --
   --
-  The olden commentaries:
+  Among the olden commentaries:
   --
   ====
   - [《論語注疏》 "Analects annotations .[and] subcommentary"]\
-    (https://ctext.org/library.pl?if=en&file=51124&page=108):
+    (https://ctext.org/library.pl?if=en&file=51124&page=108)
+    supports the prejudicial reading:
     <<
       注。包曰、諸夏、中國。亡、無也。
     \\
@@ -321,7 +322,8 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     * .華夏： (Hua\-hia|華夏); \lit Splendrous .[and] Great
     ==
   - [《論語集注》 "Analects collected annotations"]\
-    (https://ctext.org/library.pl?if=en&file=9698&page=44):
+    (https://ctext.org/library.pl?if=en&file=9698&page=44)
+    supports the non-prejudicial reading:
     <<
       吳氏曰、亡、古無字、通用。\
       程子曰、夷狄且有君長、不如諸夏之僭亂、反無上下之分也。\
