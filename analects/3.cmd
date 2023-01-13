@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-01-11
+* %date-modified --> 2023-01-13
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -240,7 +240,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   --
   In my opinion, the prejudicial interpretation of~3.5 is the correct one,
   because the construct ::{l=zh-Hant} X~不如~Y::
-  is used to express the assertion that Y~is better than~X.
+  is used to express the assertion that X~is worse than~Y.
   --
   <## TODO
     - 論語注疏 https://ctext.org/library.pl?if=en&file=51124&page=108
