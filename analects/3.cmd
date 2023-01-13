@@ -271,11 +271,55 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       故曰夷狄之有君、不如諸夏之亡也。\
       注。包曰、諸夏、中國。\
       〇正義曰、此及閔元年左氏傳、皆言諸夏。\
-      襄四年左傳、魏綘云、諸夷必叛。\
-      華夏皆謂中國、而謂之華夏者、夏、大也。\
+      襄四年左傳、魏絳云、諸華必叛。\
+      華夏皆謂中國、而謂之華夏者、夏、大也、\
       言有禮儀之大、有文章之華也。
     \\
+      Subcommentary.
+      .[The] Right Meaning saith: this section speaketh of
+      .[the] flourishing of China's propriety .[and] righteousness,
+      with .[the] Eastern-Barbarians .[and the] Northern-Barbarians
+      having .[them] not.
+      Raising .[the] Eastern-Barbarians .[and the] Northern-Barbarians,
+      .[the] Western-Barbarians .[and the] Southern-Barbarians
+      can .[be] known .[to be the same].
+      All (Hia|夏), .[meaneth] China,
+      .[and] having-not, .[meaneth] without,
+      speak .[that the] Eastern-Barbarians .[and the] Northern-Barbarians,
+      although having monarch .[and] leader,
+      yet have not propriety .[and] righteousness;
+      .[and that] China, although perchance without monarch,
+      as .[per the] years of (Kung Ho|共和) of (Chou|周) .[and] (Shao|召),
+      yet propriety .[and] righteousness .[doth] abandon not.
+      Therefore .[it is] said .[that the]
+      Eastern-Barbarians' .[and the] Northern-Barbarians' having monarchs,
+      .[is] not as all (Hia|夏)'s having .[them] not.
+      Annotation.
+      (Pao|包) saith: all (Hia|夏), .[is] China.
+      \P .[The] Right Meaning saith:
+      this and .[the] Commentary of .[Him of] Clan~(Tso|左)
+      of .[the] origin year of (Min|閔),
+      all speak of all (Hia|夏).
+      .[In the] Commentary of (Tso|左) of .[the] fourth year of (Siang|襄),
+      (Wei Kiang|魏絳) saith, All (Hua|華) .[shall] surely rebel.
+      (Hua|華) .[and] (Hia|夏) all speak of China,
+      and .[the] calling of it (Hua\-hia|華夏):
+      (hia|夏), .[meaneth] great,
+      speaking of .[the] greatness of having propriety .[and] ceremony,
+      .[and the] splendour of having literary composition.
     >>
+    =={.translation-annotations}
+    * .疏： subcommentary
+      --
+      .疏、去聲、 \C shor3 (\pm sor3), \M sh(u\) (\gr sh(u-))
+      --
+    * .諸華必叛： all (Hua|華) .[shall] surely rebel
+      --
+      Note that [.《論語注疏》 erroneously has .諸夷必叛](https://ctext.org/library.pl?if=en&file=51124&page=109#box\(590,566,48,212\)).
+      Corrected [according to .《春秋左傳正義》](https://ctext.org/library.pl?if=en&file=13212&page=55#box\(127,85,91,274\)).
+      --
+    * .華夏： (Hua\-hia|華夏); \lit Splendrous .[and] Great
+    ==
   - [《論語集注》 "Analects collected annotations"]\
     (https://ctext.org/library.pl?if=en&file=9698&page=44):
     <<

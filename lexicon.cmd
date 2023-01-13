@@ -815,6 +815,7 @@ See also: [以來]
 * partner
 * even {:opposite of odd:}
 * idol
+* perchance
 ==
 
 10 [備] U+5099
@@ -857,6 +858,12 @@ See also: [以來]
 ==
 * prostrate
 * stiff
+==
+
+13 [儀] U+5100
+==
+* exemplar
+* ceremony
 ==
 
 13 [億] U+5104
@@ -1483,6 +1490,11 @@ See also: [北方]
 6 [受] U+53D7
 ==
 * receive; bear
+==
+
+7 [叛] U+53DB
+==
+* rebel
 ==
 
 
@@ -3149,6 +3161,12 @@ See also: [性命]
 1 [戊] U+620A
 ==
 * E {:5th heavenly stem:}
+==
+
+2 [戎] U+620E
+==
+* arms
+* western-barbarian
 ==
 
 2 [成] U+6210
@@ -5311,7 +5329,8 @@ See also: [長短]
 
 6 [章] U+7AE0
 ==
-* chapter
+* chapter; section
+* composition
 ==
 
 9 [竭] U+7AED
@@ -6061,6 +6080,11 @@ See also: [自相]
 * 莫不： \met do
 ==
 
+8 [華] U+83EF
+==
+* splendour
+==
+
 8 [著] U+8457
 [去聲]
 ==
@@ -6190,6 +6214,12 @@ See also: [自相]
 18 [蠶] U+8836
 ==
 * silkworm
+==
+
+19 [蠻] U+883B
+==
+* savage
+* southern-barbarian
 ==
 
 
