@@ -299,7 +299,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       Annotation.
       (Pao|包) saith: all (Hia|夏), .[is] China.
       \P .[The] Right Meaning saith:
-      this and .[the] Commentary of .[Him of] Clan~(Tso|左)
+      this and .[the] Commentary of .[Him of] Clan (Tso|左)
       of .[the] origin year of (Min|閔),
       all speak of all (Hia|夏).
       .[In the] Commentary of (Tso|左) of .[the] fourth year of (Siang|襄),
