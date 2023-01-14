@@ -357,12 +357,56 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   季氏旅於泰山。子謂冉有曰、女弗能救與。對曰、不能。
 \\
+  .[He of] clan (Kee|季)
+  .[was] expeditioning .[for sacrifice] unto Mount~(T'ai|泰).
+  .[And the] Master spake unto (Rem Yiu|冉有), saying,
+  Canst thou not save .[him]?
+  .[And he] replied, saying, .[I] cannot.
 >>
+=={.translation-annotations}
+* .冉有： (Rem Yiu|冉有)
+  --
+  [(Rem K'iu|冉求), styled (Tz(uu)\-yiu|子有), a disciple of Confucius.][冉求]
+  --
+  [冉求]: https://en.wikipedia.org/wiki/Ran_Qiu
+
+* .救： save
+  --
+  He of clan (Kee|季) did not have the status
+  to make sacrifice unto Mount~(T'ai|泰).
+  The commentaries interpret "Canst thou not save .[him]"
+  in the sense of _Canst thou not stop him from transgressing_.
+  --
+
+*
+  --
+  .與、平聲、 \C y(u")4, \M y(u/)
+  --
+
+* .不能： .[I] cannot
+  --
+  (Rem Yiu|冉有) was a subordinate employed by the clan (Kee|季),
+  so he could not stop his superior from transgressing.
+  There is no point to Confucius's question, except to create this dialogue.
+  ((Rem Yiu|冉有), being a disciple of Confucius,
+  did have to respond to his master, even though the question was rhetorical.)
+  --
+==
 
 <<
   子曰、嗚呼、曾謂泰山不如林放乎。
 \\
+  .[And the] Master saith,
+  Alas; ever spake .[we that] Mount~(T'ai|泰) .[is] not as (Lim Fang|林放)?
 >>
+=={.translation-annotations}
+* .嗚呼： alas; \lit boo hoo
+
+* .林放： (Lim Fang|林放)
+  --
+  (Lim Fang|林放), who asked a "great question" about rites in [%chapter.4](#4).
+  --
+==
 
 
 ||{.marker}

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-01-13
+* %date-modified --> 2023-01-14
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1679,7 +1679,11 @@ See also: [同式]
 5 [呼] U+547C
 ==
 * call
+* exhale; hoo
 ==
+--
+See also: [嗚呼]
+--
 
 5 [命] U+547D
 ==
@@ -1750,6 +1754,14 @@ See also: [學問]
 [去聲]
 ==
 * lose
+==
+
+10 [嗚] U+55DA
+==
+* boo
+==
+==
+* 嗚呼： boo hoo; \met alas
 ==
 
 10 [嗜] U+55DC
@@ -2753,6 +2765,11 @@ See also: [參差]
 * draw; pull
 ==
 
+2 [弗] U+5F17
+==
+* not
+==
+
 3 [弛] U+5F1B
 ==
 * slack
@@ -3605,6 +3622,12 @@ See also: [至於]
 ==
 * side
 * wide
+==
+
+6 [旅] U+65C5
+==
+* expedition
+* host
 ==
 
 
