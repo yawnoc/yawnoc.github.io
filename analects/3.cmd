@@ -50,6 +50,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 3
 - 4
 - 5
+- 6
 ::::
 
 ||{.marker}
@@ -349,6 +350,19 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     ==
   ====
 ======
+
+
+### 6. Impropriety by unpermitted sacrificial expedition
+
+<<
+  季氏旅於泰山。子謂冉有曰、女弗能救與。對曰、不能。
+\\
+>>
+
+<<
+  子曰、嗚呼、曾謂泰山不如林放乎。
+\\
+>>
 
 
 ||{.marker}
