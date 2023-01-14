@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-01-13
+* %date-modified --> 2023-01-14
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -231,11 +231,11 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   (by taking "not as" to mean _not like_, rather than _not as good as_).
   --
   --
-  Those of this view range, from the olden commentators,
-  through to modern-day nationalists
-  (zealously defending the state-approved myth
-  of an homogeneous, unified China since antiquity
-  that has always been peaceful, non-hegemonist, and atrocity-free).
+  Those of this view range, from some of the olden commentators,
+  through to the modern-day nationalist
+  who is offended by any evidence against the state-approved myth
+  of an homogeneous and unified China since antiquity that has been
+  non-belligerent, non-hegemonist, and nice to minorities, even to this day.
   --
   --
   In my opinion, the prejudicial interpretation of~3.5 is the correct one,
@@ -261,7 +261,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     * .亡： having-not
       --
       The purpose of the annotation .亡、無也 is to explain that
-      .亡 means, and is used for, .無 "having not".
+      .亡 means (and is used for) .無 "having not".
       --
     ==
     <<
