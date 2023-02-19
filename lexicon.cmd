@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-01-14
+* %date-modified --> 2023-02-19
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -2345,6 +2345,11 @@ See also: [從容]
 * general
 ==
 
+7 [射] U+5C04
+==
+* shoot; \met archery
+==
+
 8 [專] U+5C08
 ==
 * exclusive; sole
@@ -3367,6 +3372,11 @@ See also: [掌握]
 9 [揆] U+63C6
 ==
 * [:verb:] gauge
+==
+
+9 [揖] U+63D6
+==
+* chest-salute
 ==
 
 9 [握] U+63E1
@@ -7748,6 +7758,16 @@ See also: [鴻雁]
 4 [飯] U+98EF
 ==
 * rice {:cooked:}
+==
+
+4 [飲] U+98F2
+[上聲]
+==
+* drink
+==
+[去聲]
+==
+* give drink
 ==
 
 5 [飼] U+98FC

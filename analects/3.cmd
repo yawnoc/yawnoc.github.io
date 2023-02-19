@@ -415,7 +415,21 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   子曰、君子無所爭、必也射乎。揖讓而升、下而飲、其爭也君子。
 \\
+  .[The] Master saith,
+  The superior man hath not that of striving;
+  .[if he] must, .[it is in] archery.
+  .[He] riseth chest-saluting .[and] yielding,
+  .[and] giveth drink going down:
+  his striving .[is yet] of the superior man.
 >>
+=={.translation-annotations}
+* .射： archery; \lit shooting
+
+* .飲： giveth drink
+  --
+  .飲、去聲、 \C yam3, \M y(i\)n
+  --
+==
 
 
 ||{.marker}
