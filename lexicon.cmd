@@ -2333,7 +2333,12 @@ See also: [從容]
 * inch
 ==
 
-5 [將] U+5C07
+7 [射] U+5C04
+==
+* shoot; \met archery
+==
+
+8 [將] U+5C07
 [平聲]
 ==
 * take
@@ -2343,11 +2348,6 @@ See also: [從容]
 [去聲]
 ==
 * general
-==
-
-7 [射] U+5C04
-==
-* shoot; \met archery
 ==
 
 8 [專] U+5C08
