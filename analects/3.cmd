@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-01-14
+* %date-modified --> 2023-02-19
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -51,6 +51,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 4
 - 5
 - 6
+- 7
 ::::
 
 ||{.marker}
@@ -407,6 +408,14 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   (Lim Fang|林放), who asked a "great question" about rites in [%chapter.4](#4).
   --
 ==
+
+
+### 7. Non-striving of the superior man
+
+<<
+  子曰、君子無所爭、必也射乎。揖讓而升、下而飲、其爭也君子。
+\\
+>>
 
 
 ||{.marker}
