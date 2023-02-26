@@ -1,23 +1,31 @@
-RegexDictionaryReplacement: #.translation.partition-parallel-text
+RegexDictionaryReplacement: #.translation.syntax-conversion
 * \A -->
-    <div class="source-text" lang="zh-Hant">\n
-* ^ [^\S\n]* \\{2} $ -->
-    </div>
-    <div class="destination-text" lang="en">
-* \Z -->
-    </div>\n
+    |^
+      //
+        ; Source text
+        ; Target text
+        ; Notes
+    |:
+      \n
+* ^ [\n]+ (?! [\s]* (?: [*]|\Z) ) --> // \n
+* ^ [^\S\n]* << --> ,{.source-text l=zh-Hant}
+* ^ [^\S\n]* \\\\ --> ,{.target-text l=en}
+* ^ [^\S\n]* >> --> ,{.notes}
 
 
-FixedDelimitersReplacement: #.translation.parallel-text
-- queue_position: BEFORE #divisions
+ExtensibleFenceReplacement: #.translation.tables
+- queue_position: BEFORE #tables
 - syntax_type: BLOCK
-- opening_delimiter: <<
-- attribute_specifications: .translation .parallel-text
+- extensible_delimiter: @@
+- attribute_specifications: .translation
 - content_replacements:
-    #.translation.partition-parallel-text
+    #.translation.tables
+    #.translation.syntax-conversion
+    #table-head
+    #table-body
+    #table-rows
     #prepend-newline
-- closing_delimiter: >>
-- tag_name: div
+- tag_name: table
 
 
 RegexDictionaryReplacement: #.translation.square-bracket-wrap

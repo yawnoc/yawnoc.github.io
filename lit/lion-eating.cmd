@@ -54,6 +54,8 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
 
 [《語言問題》]: https://books.google.com.au/books?id=AQs2KCQharAC&pg=PA143&dq=語言問題%20施氏食獅史&q=語言問題%20施氏食獅史
 
+@@@@
+
 <<
   《施氏食獅史》
 \\
@@ -143,6 +145,8 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
 =={.translation-annotations}
 * .是事： these events; \or this incident
 ==
+
+@@@@
 
 
 %%cite
