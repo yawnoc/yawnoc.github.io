@@ -165,7 +165,7 @@ footer > p {
   margin-top: 0.3em;
   padding-top: 0.7em;
 }
-.translation-annotations > li > p {
+.notes p {
   margin: 0.3em 0;
 }
 
@@ -191,6 +191,11 @@ th {
 th, td {
   border: 1px solid black;
   padding: 0.4em;
+}
+
+
+.translation thead {
+  display: none;
 }
 
 
@@ -270,7 +275,7 @@ ul > li.breadcrumbed {
 }
 
 
-.example, .important, .parallel-text {
+.example, .important {
   border: 2px solid black;
   font-size: large;
   margin: 0.7em;
@@ -392,11 +397,6 @@ div.js-maths {
 }
 
 
-.translation-annotations .parallel-text {
-  font-size: medium;
-}
-
-
 .permalink {
   background-image: url(/resources/styles/permalink.svg);
   background-position: center left;
@@ -434,6 +434,14 @@ header .sideways {
   flex-wrap: nowrap;
   overflow: auto;
   white-space: nowrap;
+}
+
+
+.source-text, .target-text {
+  font-size: large;
+}
+.notes .source-text, .notes .target-text {
+  font-size: medium;
 }
 
 
