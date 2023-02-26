@@ -306,28 +306,6 @@ ul > li.breadcrumbed {
 }
 
 
-.lexicon-character {
-  background: #ffffec;
-  border: 2px solid black;
-  font-size: 1.17em;
-  font-weight: normal;
-  padding: 0.13em 0.2em;
-  vertical-align: middle;
-}
-
-.lexicon-tone {
-  background: #222;
-  color: white;
-  font-weight: normal;
-  padding: 0.13em 0.2em;
-}
-
-.lexicon-tone-heading {
-  font-size: 1em;
-  margin-bottom: 0;
-}
-
-
 .important {
   font-size: medium;
 }
@@ -407,6 +385,28 @@ div.js-maths {
   padding-top: var(--katex-clearance-top);
   margin-bottom: calc(-1 * var(--katex-clearance-bottom));
   padding-bottom: var(--katex-clearance-bottom);
+}
+
+
+.lexicon-character {
+  background: #ffffec;
+  border: 2px solid black;
+  font-size: 1.17em;
+  font-weight: normal;
+  padding: 0.13em 0.2em;
+  vertical-align: middle;
+}
+
+.lexicon-tone {
+  background: #222;
+  color: white;
+  font-weight: normal;
+  padding: 0.13em 0.2em;
+}
+
+.lexicon-tone-heading {
+  font-size: 1em;
+  margin-bottom: 0;
 }
 
 
