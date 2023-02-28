@@ -61,7 +61,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
 \\
   ".[An] History of Mr~(Shih|施)'s Eating Lions"
 >>
-=={.translation-annotations}
+==
 * .施氏： Mr~(Shih|施); \lit surname (Shih|施)
 ==
 
@@ -71,7 +71,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
   .[The] poet Mr~(Shih|施) of .[a] stone house,
   liked lions, .[and] sware to eat ten lions.
 >>
-=={.translation-annotations}
+==
 * .石： stone; \or rock
 ==
 
@@ -80,7 +80,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
 \\
   Mr~.[(Shih|施)] constantly went unto market .[to] view lions.
 >>
-=={.translation-annotations}
+==
 * .氏
   --
   Here, .施 has been dropped from .施氏.
@@ -101,7 +101,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
   .[and], relying upon the arrow's momentum,
   made these ten lions pass away.
 >>
-=={.translation-annotations}
+==
 * .使： made; \or caused
 ==
 
@@ -133,7 +133,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
   .[did he] first know .[that] these ten lions' carcasses,
   .[were] actually ten stone lions' carcasses.
 >>
-=={.translation-annotations}
+==
 * .始： first; \lit begin to
 ==
 
@@ -142,7 +142,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
 \\
   Try to interpret these events.
 >>
-=={.translation-annotations}
+==
 * .是事： these events; \or this incident
 ==
 
