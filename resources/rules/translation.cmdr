@@ -13,6 +13,11 @@ RegexDictionaryReplacement: #.translation.syntax-conversion
 * ^ [^\S\n]* >> --> ,{.notes}
 
 
+RegexDictionaryReplacement: #.translation.collapse-newlines
+#- concluding_replacements: #placeholder-protect
+* [\n]+ --> \n
+
+
 ExtensibleFenceReplacement: #.translation.tables
 - queue_position: BEFORE #unordered-lists
 - syntax_type: BLOCK
@@ -26,6 +31,7 @@ ExtensibleFenceReplacement: #.translation.tables
     #table-head
     #table-body
     #table-rows
+    #.translation.collapse-newlines
     #prepend-newline
 - tag_name: table
 
