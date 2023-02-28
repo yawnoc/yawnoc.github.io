@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -83,12 +83,13 @@ I have edited the punctuation to not be bizarre.
 
 ##{#translation} Translation
 
+@@@@
 <<
   《小兒論》
 \\
   ".[The] Little Child's Discourse"
 >>
-=={.translation-annotations}
+==
 * .小： little; \or small
 ==
 
@@ -99,7 +100,7 @@ I have edited the punctuation to not be bizarre.
   .[and] styled (Chung\-ni|仲尼),
   established .[a] teaching in .[the] west of .[the] nation of (Lu|魯).
 >>
-=={.translation-annotations}
+==
 * .孔子： (Confucius|孔子); \lit Master~(K'ung|孔)
 
 * .字： styled
@@ -120,7 +121,7 @@ I have edited the punctuation to not be bizarre.
   .[and on the] road encountered several children playing,
   .[but] among .[them] there was one child .[that] played not.
 >>
-=={.translation-annotations}
+==
 * .車： chariot
   --
   .車、音居、 \C k\_(u")1, \M j(u-)
@@ -154,7 +155,7 @@ I have edited the punctuation to not be bizarre.
     toil but no achievement.
     How be .[this a] good thing? Therefore do .[I] play not.
 >>
-=={.translation-annotations}
+==
 * .縫： mend; \lit stitch
 * .門： house; \lit family
 ==
@@ -165,7 +166,7 @@ I have edited the punctuation to not be bizarre.
   .[He] then lowered .[his] head
   .[and did] construct .[a] wall with tile pieces.
 >>
-=={.translation-annotations}
+==
 * .低頭： lowered .[his] head
   --
   Being a little child, he had to look up to speak to Confucius;
@@ -207,7 +208,7 @@ I have edited the punctuation to not be bizarre.
   alighting .[his] chariot and asking him,
   Thy years .[be] yet young; why .[so] much cunning?
 >>
-=={.translation-annotations}
+==
 * .論道： reason; \lit debate logic
   --
   Maybe "argue for .[the right of] way".
@@ -230,7 +231,7 @@ I have edited the punctuation to not be bizarre.
   .[and] journeyeth unto .[the] rivers .[and] lakes.
   Inborn .[and] natural: how be .[this] cunning?
 >>
-=={.translation-annotations}
+==
 * .人生： .[This] human lived
   --
   Or "human life".
@@ -262,7 +263,7 @@ I have edited the punctuation to not be bizarre.
   .[and] named (T'ok|橐),
   .[and] yet to have .[a] style-name.
 >>
-=={.translation-annotations}
+==
 * .敝： decrepit
   --
   Both .敝~(decrepit) and .賤~(lowly) can be used
@@ -277,7 +278,7 @@ I have edited the punctuation to not be bizarre.
   I wish to travel together with thee:
   what .[be] thy thoughts?
 >>
-=={.translation-annotations}
+==
 * **{.danger} Beware stranger danger.**
 
 * .汝意下如何： what .[be] thy thoughts
@@ -295,7 +296,7 @@ I have edited the punctuation to not be bizarre.
   .[In mine] house there is .[my] affectionate mother:
   .[I] must needs provide for her.
 >>
-=={.translation-annotations}
+==
 * .嚴父： strict father
   --
   Arguably could be rendered just "father".
@@ -320,7 +321,7 @@ I have edited the punctuation to not be bizarre.
   .[I] must needs learn from him.
   What leisure .[have I to] travel together?
 >>
-=={.translation-annotations}
+==
 * .賢： worthy; \or talented
 * .順： obey; \or conform unto
 * .明： wise; \lit brilliant
@@ -334,7 +335,7 @@ I have edited the punctuation to not be bizarre.
   .[to] play chess .[for a] wager with thee:
   what .[be] thy thoughts?
 >>
-=={.translation-annotations}
+==
 * .三十二棋子
   --
   It is a coincidence that
@@ -361,7 +362,7 @@ I have edited the punctuation to not be bizarre.
   .[The] scholars being fond of wagering,
   scholarship .[shall be] abandoned.
 >>
-=={.translation-annotations}
+==
 * .天子： Son of Heaven
   --
   The emperor.
@@ -383,7 +384,7 @@ I have edited the punctuation to not be bizarre.
   .[shall] plough .[and] sow out of season.
   .[For] these reasons .[I] wager not.
 >>
-=={.translation-annotations}
+==
 * .失時： out of season; \lit mis-season
 ==
 
@@ -394,7 +395,7 @@ I have edited the punctuation to not be bizarre.
   I wish to level out .[all] under Heaven with thee:
   what .[be] thy thoughts?
 >>
-=={.translation-annotations}
+==
 * .平却： level out
   --
   Hinting at egalitarianism.
@@ -452,7 +453,7 @@ I have edited the punctuation to not be bizarre.
   What man hath no wife?
   What woman hath no husband?
 >>
-=={.translation-annotations}
+==
 * .火： fire; \or light
 * .山： mountain; \or hill
 * .枝： branch; \or twig
@@ -474,7 +475,7 @@ I have edited the punctuation to not be bizarre.
   What city hath no market?
   What man hath no style-name?
 >>
-=={.translation-annotations}
+==
 * .雄： male; \or male-bird
 * .雌： female; \or female-bird
 ==
@@ -490,7 +491,7 @@ I have edited the punctuation to not be bizarre.
   The immortal man hath no wife.
   The fairy woman hath no husband.
 >>
-=={.translation-annotations}
+==
 * .螢火： firefly light
   --
   This riddle only works because .火 may mean both "fire" and "light".
@@ -534,7 +535,7 @@ I have edited the punctuation to not be bizarre.
   .[The] imperial city hath no market.
   .[This] little man hath no style-name.
 >>
-=={.translation-annotations}
+==
 * .小人： .[This] little man
   --
   A deprecating self-address.
@@ -549,7 +550,7 @@ I have edited the punctuation to not be bizarre.
   Knowest thou .[the] principle .[and the] law of Heaven .[and] Earth,
   .[and the] end .[and the] beginning of Yin .[and] Yang?
 >>
-=={.translation-annotations}
+==
 * .綱： principle; \or crux
 ==
 
@@ -576,7 +577,7 @@ I have edited the punctuation to not be bizarre.
   How many thousands .[and] myriads of miles
   .[are] Heaven .[and] Earth separated from each other?
 >>
-=={.translation-annotations}
+==
 * .里： miles
   --
   A [unit of distance][里], of the order half a kilometre.
@@ -594,9 +595,10 @@ I have edited the punctuation to not be bizarre.
   Eight nines .[are] seventy-two:
   this .[be the] end .[and the] beginning of Yin .[and] Yang.
 >>
-=={.translation-annotations}
+==
 * There is a whole genre of stuff like this i.e.~divination, numerology etc.
   E.g.~in [《大戴禮記易本命》]{l=zh-Hant}(https://ctext.org/da-dai-li-ji/yi-ben-ming):
+  @@
   <<
     天一、地二、人三、三三而九、九九八十一、一主日、日數十、故人十月而生。
   \\
@@ -605,6 +607,7 @@ I have edited the punctuation to not be bizarre.
     One governeth .[the] sun, .[and the] sun .[hath] number ten;
     therefore man .[is] born of ten months.
   >>
+  @@
 ==
 
 <<
@@ -619,7 +622,7 @@ I have edited the punctuation to not be bizarre.
   The external be surficial.
   The internal be inside.
 >>
-=={.translation-annotations}
+==
 * .東爲左、西爲右
   --
   Classically, one faces the south;
@@ -641,7 +644,7 @@ I have edited the punctuation to not be bizarre.
   in excess of .[a] thousand thousand .[and a] myriad myriad miles.
   East, west, south, .[and] north, all have but .[an] adherence.
 >>
-=={.translation-annotations}
+==
 * .蒼梧： (Ts'ang Wu|蒼梧)
   --
   A place name.
@@ -661,7 +664,7 @@ I have edited the punctuation to not be bizarre.
   father .[and] mother are .[more] close .[unto their children],
   .[or that] husband .[and] wife are .[more] close?
 >>
-=={.translation-annotations}
+==
 * .親： close; \or loving
 ==
 
@@ -692,7 +695,7 @@ I have edited the punctuation to not be bizarre.
   .[The] wife .[having] died, seek anew,
   .[and] also get .[a] new .[one] thereof.
 >>
-=={.translation-annotations}
+==
 * .無： losing; \lit without
 ==
 
@@ -704,10 +707,10 @@ I have edited the punctuation to not be bizarre.
   .[The] bedchambers of ten partitions,
   must get pillars .[and] roof-beams.
 >>
-===={.translation-annotations}
+====
 * I have rendered .十間之室、須得棟樑 literally.
   Figuratively, ".[the] women of many families, must get upholding men":
-  =={.translation-annotations}
+  ==
   * .十間： many families; \lit ten partitions
     --
     .間、去聲、 \C kaan3, \M ji(a\)n
@@ -735,7 +738,7 @@ I have edited the punctuation to not be bizarre.
   .[The] affection of father .[and] mother:
   how can .[it be] lost?
 >>
-=={.translation-annotations}
+==
 * .户： household; \or door
 ==
 
@@ -758,7 +761,7 @@ I have edited the punctuation to not be bizarre.
   .[to] teach (T'ok|橐) clearly,
   .[and doth] wishfully ask .[that my master] do not forsake.
 >>
-=={.translation-annotations}
+==
 * .橐： (T'ok|橐)
   --
   Out of respect, the child (Hiang T'ok|項橐) refers
@@ -777,7 +780,7 @@ I have edited the punctuation to not be bizarre.
   Why .[be] the swan-goose able to sound?
   Why .[be] the pine-tree .[and] the cypress-tree evergreen?
 >>
-=={.translation-annotations}
+==
 * .冬青： evergreen; \lit winter-green
 ==
 
@@ -815,7 +818,7 @@ I have edited the punctuation to not be bizarre.
   .[The] little child asked again, saying,
   How many stars be there scattered .[in the] heaven above?
 >>
-=={.translation-annotations}
+==
 * .零零： scattered
   --
   Note that 零 (ling4/l(i/)ng) rhymes with 星 (sing1/x(i-)ng).
@@ -836,7 +839,7 @@ I have edited the punctuation to not be bizarre.
   .[The] little child said,
   How many houses be there ordinary .[on the] earth below?
 >>
-=={.translation-annotations}
+==
 * .碌碌： ordinary
   --
   Note that 碌 (luk7/l(u\)) rhymes with 屋 (uk7/w(u-)).
@@ -869,12 +872,13 @@ I have edited the punctuation to not be bizarre.
   .[For] how know .[we],
   .[that] those which come .[after be] not as .[we] now?
 >>
-===={.translation-annotations}
+====
 * .後生可畏、焉知來者之不如今也
   --
   This is part of an actual (as in canon) quote of Confucius
   in [《論語子罕》]{l=zh-Hant}(https://ctext.org/analects/zi-han#n1331):
   --
+  @@
   <<
     子曰、\
       後生可畏、焉知來者之不如今也。\
@@ -887,7 +891,7 @@ I have edited the punctuation to not be bizarre.
       .[By] forty .[or] fifty .[have we] not heard of them,
       then .[be they] not worthy of fear.
   >>
-  =={.translation-annotations}
+  ==
   * .後生： the young; \lit the latter-born
     --
     This constrasts with .先生, literally "former-born",
@@ -903,6 +907,7 @@ I have edited the punctuation to not be bizarre.
     but the following .不足畏 then becomes difficult to render likewise.
     --
   ==
+  @@
   The almanac erroneously has .焉能求者 for .焉知來者.
 ====
 
@@ -934,6 +939,7 @@ I have edited the punctuation to not be bizarre.
   ||
   ||||
 >>
+@@@@
 
 
 %%cite
