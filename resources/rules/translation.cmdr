@@ -14,13 +14,14 @@ RegexDictionaryReplacement: #.translation.syntax-conversion
 
 
 ExtensibleFenceReplacement: #.translation.tables
-- queue_position: BEFORE #tables
+- queue_position: BEFORE #unordered-lists
 - syntax_type: BLOCK
 - extensible_delimiter: @@
 - attribute_specifications: .translation
 - content_replacements:
     #.translation.tables
     #.translation.syntax-conversion
+    #unordered-lists
     #table-head
     #table-body
     #table-rows
