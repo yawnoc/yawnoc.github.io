@@ -231,6 +231,9 @@ li > ul {
 footer > ul {
   margin: 0.4em 0;
 }
+.notes .notes ul {
+  margin-top: 0.5em;
+}
 
 
 .alternative-marker {
