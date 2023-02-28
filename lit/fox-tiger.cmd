@@ -128,7 +128,7 @@ but with olden-style punctuation:
 <<
   狐曰、子無敢食我也、天帝使我長百獸、今子食我、是逆天帝命也。
 \\
-  .[The] fox said,
+  .[And the] fox said,
     Thou darest not eat me.
     .[The] Emperor of Heaven .[hath] made me be leader over .[the] hundred beasts;
     shouldst thou eat me,
