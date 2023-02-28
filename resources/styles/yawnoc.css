@@ -506,6 +506,11 @@ p.thought {
 }
 
 
+.translation {
+  margin: 0.7em;
+}
+
+
 .translator-supplied {
   color: #595959;
 }
