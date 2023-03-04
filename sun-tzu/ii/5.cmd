@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S5"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S5
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -71,6 +71,7 @@ Chinese source text: \a[30], \b[153], \c[52142], \d[42]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有粟一斗。問為糲米幾何。 <br>
   答曰、六升。
@@ -79,7 +80,7 @@ Chinese source text: \a[30], \b[153], \c[52142], \d[42]. <br>
   .[We] ask, how much be .[this in] coarse grain? <br>
   Answer saith: six quarts.
 >>
-=={.translation-annotations}
+==
 * \c[52142] erroneously has .糯米 for .糲米.
 ==
 
@@ -93,7 +94,7 @@ Chinese source text: \a[30], \b[153], \c[52142], \d[42]. <br>
   Use .[the] grain rate fifty as .[the] divisor.
   Dividing them, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation, with $V$ for volume and $r$ for rate:
   $$
     \begin{aligned}
@@ -110,6 +111,7 @@ Chinese source text: \a[30], \b[153], \c[52142], \d[42]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary
@@ -142,6 +144,7 @@ Note that this excerpt is *not* a part of (Sun~Tz(uu)|孫子)'s Computational Cl
 [.《四部叢刊初編》 (ctext.org library)]:
   https://ctext.org/library.pl?if=en&file=77747&page=54
 
+@@@@
 <<
   粟米之法、\
   粟率五十、\
@@ -157,7 +160,7 @@ Note that this excerpt is *not* a part of (Sun~Tz(uu)|孫子)'s Computational Cl
   intricate grain, twenty-four;
   poppy seed, twenty-one; ...
 >>
-=={.translation-annotations}
+==
 * 御米： poppy seed; \lit imperial grain
 ==
 
@@ -172,7 +175,7 @@ Note that this excerpt is *not* a part of (Sun~Tz(uu)|孫子)'s Computational Cl
     as .[the] divisor.
   .[Take the] dividend as .[per the] divisor .[being] one.
 >>
-=={.translation-annotations}
+==
 * In modern notation, with $V$ for volume and $r$ for rate:
   $$
     V(\text{that sought}) =
@@ -183,6 +186,7 @@ Note that this excerpt is *not* a part of (Sun~Tz(uu)|孫子)'s Computational Cl
       }.
   $$
 ==
+@@@@
 
 
 %%surrounds
