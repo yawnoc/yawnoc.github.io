@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S23"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S23
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -83,13 +83,14 @@ Chinese source text: \a[20], \b[151], \c[52117], \d[32]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   一一如一、自相乘、得一。一乘不長。
 \\
   One one .[is] as one, .[which], multiplied with itself, resulteth in one.
   Multiplying .[by] one groweth not.
 >>
-=={.translation-annotations}
+==
 * .長： groweth
   --
   .長、上聲、 \C ch(oe)ng2, \M zh(av)ng
@@ -109,7 +110,7 @@ Chinese source text: \a[20], \b[151], \c[52117], \d[32]. <br>
   .[each] person getteth
     fourteen myriad, eight thousand, two hundred .[and] twenty-five.
 >>
-=={.translation-annotations}
+==
 * \c[52117] erroneously has .一百十三萬 for .一百三十三萬.
 
 * In modern notation:
@@ -129,6 +130,7 @@ Chinese source text: \a[20], \b[151], \c[52117], \d[32]. <br>
     \end{gathered}
   $$
 ==
+@@@@
 
 
 %%surrounds
