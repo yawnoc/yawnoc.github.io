@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S16"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S16
 * %date-created --> 2022-11-13
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -84,6 +85,7 @@ Chinese source text: \a[66], \b[161], \c[52262], \d[79]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有粟一十二萬八千九百四十斛九斗三合、出與人買絹、一匹直粟三斛五斗七升。問絹幾何。
 \\
@@ -122,7 +124,7 @@ Chinese source text: \a[66], \b[161], \c[52262], \d[79]. <br>
   .[and of] that which resulteth, again dividing it by .[the] divisor,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \begin{aligned}
@@ -143,6 +145,7 @@ Chinese source text: \a[66], \b[161], \c[52262], \d[79]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds
