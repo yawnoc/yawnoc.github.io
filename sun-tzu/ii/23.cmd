@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S23"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S23
 * %date-created --> 2022-07-17
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -75,6 +76,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有穿渠、長二十九里一百四步、上廣一丈二尺六寸、下廣八尺、深一丈八尺。
 \\
@@ -91,7 +93,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
   .[The] autumn quota .[for a] person's output .[is] three hundred rules.
   .[We] ask, how many .[people's] output .[be] needed?
 >>
-=={.translation-annotations}
+==
 * .三百尺： three hundred rules
   --
   In modern language these would be *cubic* rules.
@@ -107,7 +109,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
     three myriad, two thousand, six hundred .[and] forty-five people,
     remainder sixty-nine rules .[and] six inches.
 >>
-=={.translation-annotations}
+==
 * \b[157] has .功 "output" instead of .人 "people".
 
 * The remainder $69 \unit{rules} + 6 \unit{inches}$
@@ -125,7 +127,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
   admitting .[the] residual paces, .[and] sextupling it,
   resulteth in five myriad, two thousand, eight hundred .[and] twenty-four rules.
 >>
-=={.translation-annotations}
+==
 * .內： admitting
   --
   Used for .納.
@@ -173,7 +175,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
 \\
   Dividing it by .[a] person's output three hundred rules, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation, the effort required to excavate a trapezoidal prism of
     upper breadth $A = 12.6 \unit{rules}$,
     lower breadth $B = 8 \unit{rules}$,
@@ -197,6 +199,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds
