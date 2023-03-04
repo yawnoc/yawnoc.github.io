@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S7"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S7
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -71,6 +71,7 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有粟四斗五升。問為糳米幾何。 <br>
   答曰、二斗一升五分升之三。
@@ -80,7 +81,7 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
   Answer saith:
     two pecks, one quart, .[and] three fifths of .[a] quart.
 >>
-=={.translation-annotations}
+==
 * \c[52148] erroneously has .槃 for .糳, both here and below.
 ==
 
@@ -93,7 +94,7 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
   Multiplying them, resulteth in five hundred .[and] forty quarts
   as .[the] dividend.
 >>
-=={.translation-annotations}
+==
 * .以二約： reducing by two
   --
   The intricate grain rate~24 here and the (regular) grain rate~50 below
@@ -115,7 +116,7 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
   reduce it by .[the] equal number,
   and name .[it for a] fraction.
 >>
-=={.translation-annotations}
+==
 * .不盡： .[there be a] remainder; \lit exhausteth not
 
 * .以等數約之： reduce it by .[the] equal number
@@ -145,6 +146,7 @@ Chinese source text: \a[30], \b[154], \c[52148], \d[43]. <br>
   .《九章算術粟米》, "Nine Chapters .[on] Computational Methods: Grain".
   See [\S5 commentary](5#commentary).
 ==
+@@@@
 
 
 %%surrounds
