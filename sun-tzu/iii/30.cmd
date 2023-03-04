@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S30"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S30
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[76], \b[163], \c[52304], \d[89]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有三雞共啄粟一千一粒。雛啄一、母啄二、翁啄四、主責本粟。三雞主各償幾何。
 \\
@@ -72,7 +74,7 @@ Chinese source text: \a[76], \b[163], \c[52304], \d[89]. <br>
   .[their] owners' debt .[being the] original grain.
   How much recompenseth each of .[the] three chickens' owners?
 >>
-=={.translation-annotations}
+==
 * \c[52304] erroneously has .母啄粟 for .母啄二.
 
 * \c[52304] is erroneously missing .翁啄四 and .主責本粟.
@@ -93,7 +95,7 @@ Chinese source text: \a[76], \b[163], \c[52304], \d[89]. <br>
   .[the] chicken mother's owner two hundred .[and] eighty-six;
   .[the] chicken father's owner five hundred .[and] seventy-two.
 >>
-=={.translation-annotations}
+==
 * \c[52304] erroneously has .翁啄四 and .主責本 extra after this sentence.
 ==
 
@@ -119,12 +121,13 @@ Chinese source text: \a[76], \b[163], \c[52304], \d[89]. <br>
   Successively doubling it, doth result in
   .[the] number that .[the] mother's .[and] father's owners recompense.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \frac{(1, 2, 4) \times 1001}{1 + 2 + 4} = (143, 286, 572).
   $$
 ==
+@@@@
 
 
 %%surrounds
