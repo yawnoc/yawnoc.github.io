@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S9"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S9
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -70,6 +70,7 @@ Chinese source text: \a[32], \b[154], \c[52154], \d[44]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有屋基、南北三丈、東西六丈、欲以甎砌之。凡積二尺、用甎五枚。問計幾何。
 \\
@@ -79,7 +80,7 @@ Chinese source text: \a[32], \b[154], \c[52154], \d[44]. <br>
   Every two rules of area, useth five bricks.
   .[We] ask, how many amounteth .[this] to?
 >>
-=={.translation-annotations}
+==
 * .南北： north--south; \lit south--north
 
 * \c[52154] erroneously has ●~`U+25CF` for both instances of .甎.
@@ -106,7 +107,7 @@ Chinese source text: \a[32], \b[154], \c[52154], \d[44]. <br>
   Multiplying it by five, resulteth in nine thousand rules.
   Dividing it by two, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * .九千尺： nine thousand rules
   --
   This is area,
@@ -130,6 +131,7 @@ Chinese source text: \a[32], \b[154], \c[52154], \d[44]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds
