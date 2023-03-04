@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S16"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S16
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -63,6 +63,7 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
 %%version-d-default
 --
 
+@@@@
 <<
   八八六十四、自相乘、得四千九十六。八人分之、人得五百十二。
 \\
@@ -72,7 +73,7 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
   .[With] eight people sharing it,
   .[each] person getteth five hundred .[and] twelve.
 >>
-=={.translation-annotations}
+==
 * \b[149] has .五百一十二 for .五百十二.
 ==
 
@@ -156,7 +157,7 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
   .[With] eight people sharing it,
   .[each] person getteth one myriad, three hundred .[and] sixty-eight.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \begin{gathered}
@@ -166,6 +167,7 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
     \end{gathered}
   $$
 ==
+@@@@
 
 
 %%surrounds
