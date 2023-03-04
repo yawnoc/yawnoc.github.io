@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S4"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S4
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -63,6 +63,7 @@ Chinese source text: \a[6], \b[147], \c[52060], \d[13]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   凡大數之法、 <br>
   萬萬曰億、 <br>
@@ -88,9 +89,10 @@ Chinese source text: \a[6], \b[147], \c[52060], \d[13]. <br>
   .[a] myriad myriad stream .[is] called .[a] right; <br>
   .[a] myriad myriad right .[is] called .[a] carry.
 >>
-=={.translation-annotations}
+==
 * \c[52060] erroneously has .萬萬澗日正 for .萬萬澗曰正.
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary
