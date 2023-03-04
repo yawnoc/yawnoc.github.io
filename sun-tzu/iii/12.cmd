@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S12"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S12
 * %date-created --> 2022-11-10
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -72,6 +73,7 @@ Chinese source text: \a[64], \b[160], \c[52250], \d[76]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有粟二千三百七十四斛、斛加三升。問共粟幾何。
 \\
@@ -95,13 +97,14 @@ Chinese source text: \a[64], \b[160], \c[52250], \d[76]. <br>
   two thousand, three hundred .[and] seventy-four barrels;
   multiplying it by one barrel .[and] three quarts, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     2374 \unit{barrels} \times \frac{1.03 \unit{barrels}}{\unit{barrel}}
       = 2445.22 \unit{barrels}.
   $$
 ==
+@@@@
 
 
 %%surrounds
