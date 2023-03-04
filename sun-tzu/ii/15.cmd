@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S15"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S15
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -71,6 +71,7 @@ Chinese source text: \a[36], \b[155], \c[52174], \d[49]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有木方三尺、欲方五寸作枕一枚。問得幾何。
 \\
@@ -79,7 +80,7 @@ Chinese source text: \a[36], \b[155], \c[52174], \d[49]. <br>
   construct one pillow.
   .[We] ask, how many result?
 >>
-=={.translation-annotations}
+==
 * \b[155] and \c[52174] have .高三尺 after .木方三尺.
 
 * .枚
@@ -110,7 +111,7 @@ Chinese source text: \a[36], \b[155], \c[52174], \d[49]. <br>
   Multiplying it by eight pillows of .[each] one rule of wood,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * .一尺： one rule
   --
   This is a *cubic* rule, as are the 27~rules above.
@@ -124,6 +125,7 @@ Chinese source text: \a[36], \b[155], \c[52174], \d[49]. <br>
   $1 \unit{rule} = 2 \times 5 \unit{inches}$,
   and that $2^3 = 8$.
 ==
+@@@@
 
 
 %%surrounds
