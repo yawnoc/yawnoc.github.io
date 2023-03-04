@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S24"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S24
 * %date-created --> 2022-07-23
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有錢六千九百三十、欲令二百一十六人作九分分之。
 \\
@@ -76,7 +78,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
   .[for] seventy-two people, .[each] person .[is] given three shares;
   .[for] sixty-three people, .[each] person .[is] given four shares.
 >>
-=={.translation-annotations}
+==
 * The "nine shares" mentioned earlier comes from straight addition
   of the "two shares", "three shares", and "four shares" here.
   Such an addition does not make sense,
@@ -89,7 +91,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 \\
   .[We] ask, how much getteth each of .[the] three kinds?
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \frac{(2, 3, 4) \times 6930}{81 \times 2 + 72 \times 3 + 63 \times 4}
@@ -133,7 +135,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
   .[the] lower place, multiplying it by four,
     resulteth in two hundred .[and] fifty-two.
 >>
-=={.translation-annotations}
+==
 * \b[157] has .頭位 for .上位, both here and below.
 ==
 
@@ -171,7 +173,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
       six thousand, three hundred .[and] sixty:
   each being .[a] dividend.
 >>
-=={.translation-annotations}
+==
 * \c[52201] erroneously has .乘之四 for .乘之.
 * \b[157] has .二百一十六 for .二百十六.
 ==
@@ -193,6 +195,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 \\
   Each dividing it by .[its] number of people, .[we] are done.
 >>
+@@@@
 
 
 %%surrounds
