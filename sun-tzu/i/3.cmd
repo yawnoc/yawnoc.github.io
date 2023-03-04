@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S3"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S3
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-27
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -67,6 +67,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   量之所起、起於粟。
 \\
@@ -298,6 +299,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   
   [(K'ang\-hee|康熙)'s entry for .秭]: https://ctext.org/kangxi-zidian/115/5#n339588
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary
