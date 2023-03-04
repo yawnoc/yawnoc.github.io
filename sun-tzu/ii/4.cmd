@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S4"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S4
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,6 +62,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有三分之一、三分之二、四分之三。問減多益少、幾何而平。
 \\
@@ -70,7 +71,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
   .[We] ask, subtracting of .[the] greater .[to] benefit .[the] lesser,
   how much .[that they be] level?
 >>
-=={.translation-annotations}
+==
 * ::{l=zh-Hant} $b$ 分之 $a$:::
     \lit $a$ of $b$ shares
   --
@@ -91,7 +92,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
   ::{.colour-g} combined:: to benefit .[the] one of three shares,
   with each .[being] ::{.colour-b} level at seven of twelve shares::.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \frac{3}{4} - \colr{\frac{2}{12}}
@@ -133,7 +134,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
   combined subsidiarily, result in sixty-three,
   put .[unto the] right as .[the] level dividend.
 >>
-=={.translation-annotations}
+==
 * \c[52139] erroneously has .母互乘于 for .母互乘子.
 
 * .平實： level dividend
@@ -160,7 +161,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
   .[The] denominators multiplied with each other,
   result in thirty-six as .[the] divisor.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     ABC = 3 \times 3 \times 4 = 36.
@@ -173,7 +174,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
   Multiply those not yet combined, and .[the] divisor,
   by .[the] number of rows three.
 >>
-=={.translation-annotations}
+==
 * .未并者： those not yet combined
   --
   These are the individual terms $aBC$, $bCA$ and $cAB$,
@@ -196,7 +197,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
   .[For their] equal number .[there] resulteth nine;
   finish reducing .[them].
 >>
-=={.translation-annotations}
+==
 * .等數： equal number
   --
   Greatest common divisor (GCD) is called an "equal number"
@@ -228,6 +229,7 @@ Chinese source text: \a[28], \b[153], \c[52139], \d[41]. <br>
   combined to benefit .[the] one of three shares,
   each .[being] level at seven of twelve shares.
 >>
+@@@@
 
 
 %%surrounds
