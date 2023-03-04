@@ -203,10 +203,15 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ==
 - ""[He's] British."" <br>
   --- Frank~(circa~2006)
+
 - ""Conway's disagreeing with himself."" <br>
   --- Norm~(2008)
+
 - ""Conway is just dumb."" <br>
   --- Liam~&~Kat~(2014)
+
+- ""[Yeah, I'd kill him] for a lifetime supply of raspberries."" <br>
+  --- Georgia (2022)
 ==
 
 
