@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S29"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S29
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-12-27
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有百鹿入城。家取一鹿、不盡、又三家共一鹿、適盡。問城中家幾何。
 \\
@@ -70,7 +72,7 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
   just exhausteth .[them].
   .[We] ask, how many .[be the] families admist .[the] city?
 >>
-=={.translation-annotations}
+==
 * .不盡： .[there be a] remainder; \lit exhausteth not
 
 * \a[76] erroneously has .城下中 for .城中.
@@ -103,7 +105,7 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
   Supposing them ninety families,
   .[be the] deer twenty not sufficient.
 >>
-=={.translation-annotations}
+==
 * \a[76] erroneously has .鹿盡四 for .鹿盈四.
 
 * \b[163] and \c[52301] erroneously have .鹿不盡四 for .鹿盈四.
@@ -152,7 +154,7 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
   Put ninety upon .[the] upper left,
   .[and the] twenty not sufficient upon .[the] lower left.
 >>
-=={.translation-annotations}
+==
 * In modern notation, the matrix
   $$
     \begin{pmatrix}
@@ -176,7 +178,7 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
   combine .[them] as .[the] dividend.
   Combine .[the] excess .[and the] not sufficient as .[the] divisor.
 >>
-=={.translation-annotations}
+==
 * \a[76] and \c[52301] erroneously have .為維乘 for .維乘.
 * \c[52301] erroneously has .凹 after .維乘之.
 ==
@@ -186,7 +188,7 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
 \\
   Dividing them, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     x =
@@ -205,6 +207,7 @@ Chinese source text: \a[76], \b[163], \c[52301], \d[89]. <br>
         75.
   $$
 ==
+@@@@
 
 
 %%surrounds
