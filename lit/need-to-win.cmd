@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A discussion and translation of Chuang Tz(uu)'s alleged `archery` quote, \
     `When an archer is shooting for nothing, he has all his skill...`.
 * %date-created --> 2019-04-15
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -119,6 +119,7 @@ but with olden-style punctuation:
 [source]: https://ctext.org/zhuangzi/full-understanding-of-life#n2841
 
 
+@@@@
 <<
   顏淵問仲尼曰、吾嘗濟乎觴深之淵、津人操舟若神。
 \\
@@ -126,7 +127,7 @@ but with olden-style punctuation:
   I once crossed .[the] deep waters of (Shang\-sh(e^)m|觴深),
   .[and the] people of .[the] ford handled boats as gods.
 >>
-=={.translation-annotations}
+==
 * .顏淵： (Yen Y(u")an|顏淵)
   --
   Confucius's [favourite disciple](https://en.wikipedia.org/wiki/Yan_Hui).
@@ -157,7 +158,7 @@ but with olden-style punctuation:
   If .[it] be .[a] diver,
   then .[having] not ever seen boats .[may he] promptly handle them.
 >>
-=={.translation-annotations}
+==
 * .數： repetition
   --
   .數、入聲、 \C shok8 (\pm sok8) \M shu(o\)
@@ -198,7 +199,7 @@ but with olden-style punctuation:
   and could not enter his mind;
   how goeth .[he] and .[be he] not carefree?
 >>
-=={.translation-annotations}
+==
 * .方： ways
   --
   From the [annotation of (S(u")an Ying|宣穎)][方]: .方、猶端.
@@ -223,7 +224,7 @@ but with olden-style punctuation:
   he that shooteth .[wagering] with .[a] buckle, fearful;
   .[and] he that shooteth .[wagering] with gold, dazed.
 >>
-===={.translation-annotations}
+====
 * .注： shooteth .[wagering]; \or wagereth .[by archery]; \or wagereth
   --
   A simple reading would take .注 to mean "wager".
@@ -232,7 +233,7 @@ but with olden-style punctuation:
   --
   These say .擊也, __strike__:
   --
-  =={.translation-annotations}
+  ==
   * [《南華真經郭象註》]{l=zh-Hant}(https://ctext.org/library.pl?if=en&file=77894&page=11#box\(118,678,50,70\)),
     "(Nam\-hua|南華) True Classics: (Kwok Siang|郭象)'s annotations".
 
@@ -247,7 +248,7 @@ but with olden-style punctuation:
   --
   These say .射也, __shoot__:
   --
-  =={.translation-annotations}
+  ==
   * [《南華真經註疏》]{l=zh-Hant}(https://ctext.org/library.pl?if=en&file=88939&page=20#box\(196,822,42,46\)),
     "(Nam\-hua|南華) True Classics annotations .[and] subcommentary".
 
@@ -271,7 +272,7 @@ but with olden-style punctuation:
   and .疏, subcommentary, or annotations of the annotations.
   And now, annotations of annotations of annotations...
   --
-  =={.translation-annotations}
+  ==
   * .疏、去聲、 \C shor3 (\pm sor3), \M sh(u\) (\gr sh(u-))
   ==
 
@@ -286,7 +287,7 @@ but with olden-style punctuation:
   .[is] esteeming the external.
   All those which esteem the external .[are] internally stupid.
 >>
-=={.translation-annotations}
+==
 * .一： same; \or one
 
 * .重： esteem
@@ -304,6 +305,7 @@ but with olden-style punctuation:
   The opposite of .巧, which is "clever" or "skillful".
   --
 ==
+@@@@
 
 
 %%cite
