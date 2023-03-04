@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S21"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S21
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -63,6 +63,7 @@ Chinese source text: \a[18], \b[151], \c[52112], \d[30]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   三三如九、自相乘、得八十一。三人分之、人得二十七。
 \\
@@ -72,7 +73,7 @@ Chinese source text: \a[18], \b[151], \c[52112], \d[30]. <br>
   .[With] three people sharing it,
   .[each] person getteth twenty-seven.
 >>
-=={.translation-annotations}
+==
 * \a[18] erroneously has .得 for .人得.
 ==
 
@@ -85,7 +86,7 @@ Chinese source text: \a[18], \b[151], \c[52112], \d[30]. <br>
   .[With] two people sharing it,
   .[each] person getteth eighteen.
 >>
-=={.translation-annotations}
+==
 * \a[18] erroneously has .得 for .人得.
 ==
 
@@ -108,7 +109,7 @@ Chinese source text: \a[18], \b[151], \c[52112], \d[30]. <br>
   .[With] three people sharing it,
   .[each] person getteth one hundred .[and] eight.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \begin{gathered}
@@ -118,6 +119,7 @@ Chinese source text: \a[18], \b[151], \c[52112], \d[30]. <br>
     \end{gathered}
   $$
 ==
+@@@@
 
 
 %%surrounds
