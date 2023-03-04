@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S21"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S21
 * %date-created --> 2022-07-15
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -73,6 +74,7 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有邱田、周六百三十九步、徑三百八十步。問為田幾何。
 \\
@@ -81,7 +83,7 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
   .[and] diameter three hundred .[and] eighty paces.
   .[We] ask, how much field be .[this]?
 >>
-=={.translation-annotations}
+==
 * \a[44] and \c[52192] have the interchangeable .丘 for .邱.
 
 * The "mound field" referred to appears to be
@@ -109,7 +111,7 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
   .[The] two places multiplied with each other,
   result in six myriad, seven hundred .[and] five paces.
 >>
-=={.translation-annotations}
+==
 * \a[44], \c[52192], and \d[56] are missing .得 after .二位相乘.
 ==
 
@@ -118,7 +120,7 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
 \\
   Dividing it by .[the] acre divisor, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   the lateral surface area of a cone
   with circumference $C = 639 \unit{paces}$
@@ -144,6 +146,7 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
     \cos^{-1} \frac{C / (2 \pi)}{D / 2} = 58\degree.
   $$
 ==
+@@@@
 
 
 %%surrounds
