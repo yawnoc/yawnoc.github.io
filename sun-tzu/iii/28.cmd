@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S28"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S28
 * %date-created --> 2022-11-26
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有甲乙二人持錢、各不知數。
 \\
@@ -74,7 +76,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   A getting B's half, indeed reacheth forty-eight;
   B getting A's two thirds, also reacheth forty-eight.
 >>
-=={.translation-annotations}
+==
 * .中半： half; \lit middle half
 
 * .可： indeed; \lit can
@@ -87,7 +89,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 \\
   .[We] ask, how many coins each held .[the] two people A .[and] B originally?
 >>
-=={.translation-annotations}
+==
 * In modern notation, we have the system
   $$
     \begin{aligned}
@@ -109,7 +111,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
 \\
   Method saith: seek them according unto the rectangular system.
 >>
-=={.translation-annotations}
+==
 * .方程： the rectangular system
   --
   This is the classical name for Gaussian elimination;
@@ -125,7 +127,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[and] put two~A, three~B, .[and] coins one hundred .[and] forty-four
   upon .[the] left.
 >>
-=={.translation-annotations}
+==
 * Unwritten in the text is the doubling and tripling of the two equations
   to obtain a system with integer coefficients,
   $$
@@ -159,7 +161,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[in the] middle .[there] resulteth six,
   .[and] below .[there] resulteth two hundred .[and] eighty-eight coins.
 >>
-=={.translation-annotations}
+==
 * In modern notation, double the left column to get
   $$
     \roundbr{
@@ -185,7 +187,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[in the] middle .[there] resulteth two,
   .[and] below .[there] resulteth one hundred .[and] ninety-two.
 >>
-=={.translation-annotations}
+==
 * \a[74] and \c[52298] are missing this sentence entirely.
 
 * \b[162] erroneously has .九十六 for .一百九十二.
@@ -211,7 +213,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[in the] middle .[there] remaineth four~B as .[the] divisor,
   .[and] below .[there] remaineth ninety-six coins as .[the] dividend.
 >>
-=={.translation-annotations}
+==
 * In modern notation, this gives
   $$
     \roundbr{
@@ -231,7 +233,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[The] upper divisor .[and the] lower dividend,
   result in twenty-four coins as B's coins.
 >>
-=={.translation-annotations}
+==
 * In modern notation, divide the left column by $4$ to get
   $$
     \roundbr{
@@ -252,7 +254,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[there] remaineth seventy-two as .[the] dividend;
   .[and] use .[the] upper right's two~A as .[the] divisor.
 >>
-=={.translation-annotations}
+==
 * Here the text reverts the right column to before it was doubled,
   $$
     \roundbr{
@@ -283,7 +285,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
   .[The] upper divisor .[and the] lower dividend,
   result in thirty-six as A's coins.
 >>
-=={.translation-annotations}
+==
 * In modern notation, divide the right column by $2$ to get
   $$
     \roundbr{
@@ -296,6 +298,7 @@ Chinese source text: \a[74], \b[162], \c[52298], \d[87]. <br>
     }.
   $$
 ==
+@@@@
 
 
 %%surrounds
