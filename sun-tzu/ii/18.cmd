@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S18"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S18
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -71,6 +71,7 @@ Chinese source text: \a[38], \b[155], \c[52183], \d[51]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有溝、廣十丈、深五丈、長二十丈、欲以千尺作一方。問得幾何。
 \\
@@ -103,7 +104,7 @@ Chinese source text: \a[38], \b[155], \c[52183], \d[51]. <br>
 \\
   Dividing it by one thousand, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation, the volume of a rectangular prism of
     breadth $B = 10 \unit{rods}$,
     depth $H = 5 \unit{rods}$, and
@@ -122,6 +123,7 @@ Chinese source text: \a[38], \b[155], \c[52183], \d[51]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds
