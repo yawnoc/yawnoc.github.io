@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S31"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S31
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-12-27
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -60,6 +61,7 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有雉兔同籠、上有三十五頭、下有九十四足。問雉兔各幾何。
 \\
@@ -68,7 +70,7 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
   below be there ninety-four feet.
   .[We] ask, how many each .[be the] pheasants .[and the] rabbits?
 >>
-=={.translation-annotations}
+==
 * \c[52307] is erroneously missing .有 in .下有.
 
 * In modern notation, we have the system
@@ -95,7 +97,7 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
   .[and] put below .[the] ninety-four feet.
   Halving .[the] feet, resulteth in forty-seven.
 >>
-=={.translation-annotations}
+==
 * In modern notation, we begin with the augmented matrix
   $$
     \roundbr{
@@ -133,7 +135,7 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
   .[and for] there being two below removing two above:
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * The first subtraction $47 - 35 = 12$ determines the number of rabbits:
   $$
     \roundbr{
@@ -165,10 +167,11 @@ Chinese source text: \a[78], \b[163], \c[52307], \d[91]. <br>
   .[and] removing from .[the] heads by .[the] feet,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * This is a restatement of the above method,
   but without going into the details of the individual digits being subtracted.
 ==
+@@@@
 
 
 %%surrounds

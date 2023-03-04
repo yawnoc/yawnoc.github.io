@@ -71,18 +71,22 @@ This section gives the solution to a specific system of linear equations.
 Chinese source text: <a href="https://archive.org/details/02094034.cn/page/n78">Version A</a>, <a href="https://commons.wikimedia.org/w/index.php?title=File%3A文淵閣四庫全書_0797冊.djvu&amp;page=163">Version B</a>, <a href="https://ctext.org/sunzi-suan-jing#n52307">Version C</a>, <a href="https://ctext.org/library.pl?if=en&amp;file=86926&amp;page=91">Version D</a>.<br>
 Unless noted otherwise, I follow the text from Version D, <span lang="zh-Hant">《知不足齋叢書》本</span>.
 </p>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-今有雉兔同籠、上有三十五頭、下有九十四足。問雉兔各幾何。
-</div>
-<div class="destination-text" lang="en">
-Suppose there be pheasants <span class="translator-supplied">[and]</span> rabbits <span class="translator-supplied">[in the]</span> same cage:
+<table class="translation">
+<thead>
+<tr>
+<th>Source text</th>
+<th>Target text</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="source-text" lang="zh-Hant">今有雉兔同籠、上有三十五頭、下有九十四足。問雉兔各幾何。</td>
+<td class="target-text" lang="en">Suppose there be pheasants <span class="translator-supplied">[and]</span> rabbits <span class="translator-supplied">[in the]</span> same cage:
 above be there thirty-five heads;
 below be there ninety-four feet.
-<span class="translator-supplied">[We]</span> ask, how many each <span class="translator-supplied">[be the]</span> pheasants <span class="translator-supplied">[and the]</span> rabbits?
-</div>
-</div>
-<ul class="translation-annotations">
+<span class="translator-supplied">[We]</span> ask, how many each <span class="translator-supplied">[be the]</span> pheasants <span class="translator-supplied">[and the]</span> rabbits?</td>
+<td class="notes"><ul>
 <li>
 <a href="https://ctext.org/sunzi-suan-jing#n52307">Version C</a> is erroneously missing <span lang="zh-Hant">有</span> in <span lang="zh-Hant">下有</span>.
 </li>
@@ -95,27 +99,20 @@ In modern notation, we have the system
 </div>
 in <span class="js-maths">p</span> the number of pheasants and <span class="js-maths">r</span> the number of rabbits.
 </li>
-</ul>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-答曰、雉二十三、兔一十二。
-</div>
-<div class="destination-text" lang="en">
-Answer saith: <span class="translator-supplied">[the]</span> pheasants twenty-three, <span class="translator-supplied">[and the]</span> rabbits twelve.
-</div>
-</div>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-術曰、上置三十五頭、下置九十四足。半其足、得四十七。
-</div>
-<div class="destination-text" lang="en">
-Method saith:
+</ul></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">答曰、雉二十三、兔一十二。</td>
+<td class="target-text" lang="en">Answer saith: <span class="translator-supplied">[the]</span> pheasants twenty-three, <span class="translator-supplied">[and the]</span> rabbits twelve.</td>
+<td class="notes"></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">術曰、上置三十五頭、下置九十四足。半其足、得四十七。</td>
+<td class="target-text" lang="en">Method saith:
 put above <span class="translator-supplied">[the]</span> thirty-five heads,
 <span class="translator-supplied">[and]</span> put below <span class="translator-supplied">[the]</span> ninety-four feet.
-Halving <span class="translator-supplied">[the]</span> feet, resulteth in forty-seven.
-</div>
-</div>
-<ul class="translation-annotations">
+Halving <span class="translator-supplied">[the]</span> feet, resulteth in forty-seven.</td>
+<td class="notes"><ul>
 <li>
 In modern notation, we begin with the augmented matrix
 <div class="js-maths">\roundbr{
@@ -135,29 +132,22 @@ Upon halving the bottom row (for feet) we obtain
 }.
 </div>
 </li>
-</ul>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-以少減多、再命之、
-</div>
-<div class="destination-text" lang="en">
-Subtracting of <span class="translator-supplied">[the]</span> greater by <span class="translator-supplied">[the]</span> lesser,
-<span class="translator-supplied">[and]</span> again commanding it:
-</div>
-</div>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-上三除下三、上五除下五、下有一除上一、下有二除上二、即得。
-</div>
-<div class="destination-text" lang="en">
-<span class="translator-supplied">[for the]</span> three above removing three below,
+</ul></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">以少減多、再命之、</td>
+<td class="target-text" lang="en">Subtracting of <span class="translator-supplied">[the]</span> greater by <span class="translator-supplied">[the]</span> lesser,
+<span class="translator-supplied">[and]</span> again commanding it:</td>
+<td class="notes"></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">上三除下三、上五除下五、下有一除上一、下有二除上二、即得。</td>
+<td class="target-text" lang="en"><span class="translator-supplied">[for the]</span> three above removing three below,
 <span class="translator-supplied">[and for the]</span> five above removing five below;
 <span class="translator-supplied">[for]</span> there being one below removing one above,
 <span class="translator-supplied">[and for]</span> there being two below removing two above:
-<span class="translator-supplied">[we]</span> are done.
-</div>
-</div>
-<ul class="translation-annotations">
+<span class="translator-supplied">[we]</span> are done.</td>
+<td class="notes"><ul>
 <li>
 The first subtraction <span class="js-maths">47 - 35 = 12</span> determines the number of rabbits:
 <div class="js-maths">\roundbr{
@@ -178,26 +168,25 @@ The second subtraction <span class="js-maths">35 - 12 = 23</span> determines the
 }.
 </div>
 </li>
-</ul>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-又術曰、上置頭、下置足。半其足、以頭除足、以足除頭、即得。
-</div>
-<div class="destination-text" lang="en">
-Also method saith:
+</ul></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">又術曰、上置頭、下置足。半其足、以頭除足、以足除頭、即得。</td>
+<td class="target-text" lang="en">Also method saith:
 put above <span class="translator-supplied">[the]</span> heads, <span class="translator-supplied">[and]</span> put below <span class="translator-supplied">[the]</span> feet.
 Halve <span class="translator-supplied">[the]</span> feet;
 removing from <span class="translator-supplied">[the]</span> feet by <span class="translator-supplied">[the]</span> heads,
 <span class="translator-supplied">[and]</span> removing from <span class="translator-supplied">[the]</span> heads by <span class="translator-supplied">[the]</span> feet,
-<span class="translator-supplied">[we]</span> are done.
-</div>
-</div>
-<ul class="translation-annotations">
+<span class="translator-supplied">[we]</span> are done.</td>
+<td class="notes"><ul>
 <li>
 This is a restatement of the above method,
 but without going into the details of the individual digits being subtracted.
 </li>
-</ul>
+</ul></td>
+</tr>
+</tbody>
+</table>
 <nav class="surrounds">
 <div class="surrounds-up">
 <a href="./">↑ Volume III</a>
@@ -216,7 +205,7 @@ but without going into the details of the individual digits being subtracted.
 </nav>
 <h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
 <p>
-Conway (2022).
+Conway (2023).
 "Sun Tzŭ's Computational Classic: Volume III §31".
 &lt;<a href="https://yawnoc.github.io/sun-tzu/iii/31">https://yawnoc.github.io/sun-tzu/iii/31</a>&gt;
 Accessed <span class="js-date">yyyy-mm-dd</span>.
@@ -225,13 +214,13 @@ Accessed <span class="js-date">yyyy-mm-dd</span>.
 document.addEventListener("DOMContentLoaded", function() {renderDate()})
 </script>
 <footer>
-© 2022 Conway.
+© 2022–2023 Conway.
 <ul>
 <li>
 First created: 2022-11-27
 </li>
 <li>
-Last modified: 2022-12-27
+Last modified: 2023-03-xx
 </li>
 <li>
 Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/iii/31.cmd"><code>sun-tzu/iii/31.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.5.0">CMDv4.5.0</a>
