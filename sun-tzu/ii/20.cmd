@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S20"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S20
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-27
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -68,6 +68,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有積三萬五千步。問為圓幾何。
 \\
@@ -93,7 +94,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   .[and] multiplying it by twelve,
   resulteth in forty-two myriad as ::{.colour-b} .[the] dividend::.
 >>
-=={.translation-annotations}
+==
 * \c[52189] has .四十二萬步 for .四十二萬.
 
 * In modern notation,
@@ -127,7 +128,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
 \\
   ::{.colour-g} .[For the] upper quotient, put six hundred:: above .[the] dividend.
 >>
-=={.translation-annotations}
+==
 * \a[42] erroneously has .餘於 for .於.
 ==
 
@@ -138,7 +139,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   .[and] above .[the] lower divisor,
   .[its] name being ::{.colour-v} .[the] upright divisor::.
 >>
-=={.translation-annotations}
+==
 * .方： upright; \or square
 ==
 
@@ -161,7 +162,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   ::{.colour-v} .[The] upright divisor retreateth once::;
   ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
-=={.translation-annotations}
+==
 * .再： twice; \or again
 ==
 
@@ -179,7 +180,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   .[and] above .[the] lower divisor,
   .[its] name being ::{.colour-v} .[the] incorrupt divisor::.
 >>
-=={.translation-annotations}
+==
 * .廉法： incorrupt; \or side
 ==
 
@@ -190,7 +191,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   ::{.colour-g} .[the] upper quotient's forty::,
   to ::{.colour-b} remove from .[the] dividend::.
 >>
-=={.translation-annotations}
+==
 * \a[42] and \c[52189] are missing .四十 after .上商.
 ==
 
@@ -207,7 +208,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   ::{.colour-v} .[The] upright divisor retreateth once::;
   ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
-=={.translation-annotations}
+==
 * .再： twice; \or again
 ==
 
@@ -225,7 +226,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   .[and] above .[the] lower divisor,
   .[its] name being ::{.colour-v} .[the] moral divisor::.
 >>
-=={.translation-annotations}
+==
 * .隅： moral; \or corner
 ==
 
@@ -236,7 +237,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   ::{.colour-g} .[the] upper quotient's eight::,
   to ::{.colour-b} remove from .[the] dividend::.
 >>
-=={.translation-annotations}
+==
 * \c[52189] erroneously has .上前 for .上商八.
 ==
 
@@ -259,7 +260,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
     one thousand, two hundred .[and] ninety-six::,
   ::{.colour-b} remainder ninety-six::.
 >>
-=={.translation-annotations}
+==
 * \a[42] is missing .得 after .上商,
   and erroneously has .一千二百九十七 for .一千二百九十六 both here
   and in the line to follow.
@@ -274,7 +275,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
       ::{.colour-v} one thousand, two hundred .[and] ninety-sixths::
     of .[a] pace.
 >>
-=={.translation-annotations}
+==
 * Thus the algorithm gives
   $$
     \sqrt{420000 \unit{paces}^2}
@@ -282,6 +283,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   $$
   which has relative error $6.5 \times 10^{-9}$.
 ==
+@@@@
 
 
 %%surrounds
