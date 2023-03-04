@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S19"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S19
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -63,6 +63,7 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   五五二十五、自相乘、得六百二十五。五人分之、人得一百二十五。
 \\
@@ -123,7 +124,7 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. <br>
   .[With] five people sharing it,
   .[each] person getteth one thousand, one hundred .[and] twenty-five.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \begin{gathered}
@@ -133,6 +134,7 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. <br>
     \end{gathered}
   $$
 ==
+@@@@
 
 
 %%surrounds
