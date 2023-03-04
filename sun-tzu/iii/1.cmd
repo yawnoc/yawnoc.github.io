@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S1"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S1
 * %date-created --> 2022-08-06
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -69,13 +70,14 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有甲乙丙丁戊己庚辛壬九家共輸租。
 \\
   Suppose there be nine families A, B, C, D, E, F, G, H, .[and] I
   together contributing land-tax.
 >>
-=={.translation-annotations}
+==
 * \c[52217] erroneously has .翰 for .輸, both here and below.
 ==
 
@@ -93,7 +95,7 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
   H supplieth two hundred .[and] ten barrels;
   I supplieth three hundred .[and] twenty-five barrels.
 >>
-=={.translation-annotations}
+==
 * .出： supplieth; \or sendeth forth
 
 * \a[54] is missing .六 in .乙出四十六斛.
@@ -143,7 +145,7 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
     H one hundred .[and] sixty-eight barrels;
     I two hundred .[and] sixty barrels.
 >>
-=={.translation-annotations}
+==
 * \c[52217] has .蚪 for .斗, both here and below
   (save two occurrences where it erroneously has .斟).
 
@@ -181,7 +183,7 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
   multiplying it by four, resulteth in two hundred .[and] seventy-two barrels;
   dividing it by five, resulteth in fifty-four barrels .[and] four pecks.
 >>
-=={.translation-annotations}
+==
 * \c[52217] erroneously has .斟 for .斗.
 ==
 
@@ -192,7 +194,7 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
   multiplying it by four, resulteth in three hundred .[and] sixteen barrels;
   dividing it by five, resulteth in sixty-three barrels .[and] two pecks.
 >>
-=={.translation-annotations}
+==
 * \c[52217] erroneously has .斟 for .斗.
 ==
 
@@ -227,6 +229,7 @@ Chinese source text: \a[54], \b[159], \c[52217], \d[67]. <br>
   multiplying it by four, resulteth in one thousand three hundred barrels;
   dividing it by five, resulteth in two hundred .[and] sixty barrels.
 >>
+@@@@
 
 
 %%surrounds
