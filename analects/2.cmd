@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2023-01-10
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -84,12 +84,13 @@ but with olden-style punctuation. <br>
 Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 --
 
+@@@@
 <<
   〈為政第二〉
 \\
   '.[He that] Governeth, .[the] Second'
 >>
-=={.translation-annotations}
+==
 * .為政： .[he that] governeth
   --
   Each chapter of the Analects is named after its incipit
@@ -100,10 +101,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   are *not* part of the original text.
   --
 ==
+@@@@
 
 
 ### 1. On governing with virtue
 
+@@@@
 <<
   子曰、為政以德、譬如北辰、居其所而眾星共之。
 \\
@@ -112,7 +115,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[is] likened unto .[the] North Star,
   abiding in its place with .[the] multitude of stars going round it.
 >>
-=={.translation-annotations}
+==
 * .為政： governeth; \lit doeth governance
 
 * .居： abiding in; \or dwelling in
@@ -125,10 +128,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   Used for .拱.
   --
 ==
+@@@@
 
 
 ### 2. On the Classic of Poetry
 
+@@@@
 <<
   子曰、詩三百、一言以蔽之、曰、思無邪。
 \\
@@ -137,10 +142,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[have] one saying to cover them, saying,
   Thoughts without wickedness.
 >>
+@@@@
 
 
 ### 3. On punitive versus virtuous rule
 
+@@@@
 <<
   子曰、道之以政、齊之以刑、民免而無恥。
 \\
@@ -157,17 +164,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[and] making them uniform with propriety,
   .[shall they] have shame and also .[be] corrected.
 >>
+@@@@
 
 
 ### 4. Milestones of the life of Confucius
 
+@@@@
 <<
   子曰、吾十有五而志于學、
 \\
   .[The] Master saith,
   I .[at] ten and five .[years put] will upon learning;
 >>
-=={.translation-annotations}
+==
 * .有： and
   --
   .有、去聲、 \C yau6, \M y(o\)u
@@ -191,7 +200,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 \\
   .[at] fifty .[did I] know .[the] Will of Heaven;
 >>
-=={.translation-annotations}
+==
 * .命： Will; \lit Command; \or Mandate
 ==
 
@@ -200,7 +209,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 \\
   .[at] sixty .[were mine] ears obedient;
 >>
-=={.translation-annotations}
+==
 * .順： obedient; \or conforming
 ==
 
@@ -210,20 +219,22 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[at] seventy .[could I] follow that .[mine] heart desired,
   .[and] not overstep .[the] rules.
 >>
-=={.translation-annotations}
+==
 * .矩： rules; \lit steel-square
 ==
+@@@@
 
 
 ### 5. On filiality and propriety
 
+@@@@
 <<
   孟懿子問孝。子曰、無違。
 \\
   Master~(M(e^)ng Yee|孟懿) asked of filiality.
   .[And the] Master saith, Without going against.
 >>
-=={.translation-annotations}
+==
 * .孟懿子： Master~(M(e^)ng Yee|孟懿)
   --
   An officer of the state of (Lu|魯), surnamed (Kee|姬),
@@ -240,7 +251,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[and] I replied, saying, Without going against.
   (Fan Ch'ih|樊遲) said, What meantest .[thou]?
 >>
-=={.translation-annotations}
+==
 * .樊遲： (Fan Ch'ih|樊遲)
   --
   [(Fan S(u")|樊須), styled (Tz(uu)\-ch'ih|子遲), a disciple of Confucius.][樊須]
@@ -256,10 +267,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[in] death bury them according unto propriety,
   .[and] sacrifice to them according unto propriety.
 >>
+@@@@
 
 
 ### 6. On filiality and worries
 
+@@@@
 <<
   孟武伯問孝。子曰、父母唯其疾之憂。
 \\
@@ -267,16 +280,18 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[And the] Master saith,
   .[That] father .[and] mother only .[have the] worry of his sickness.
 >>
-=={.translation-annotations}
+==
 * .孟武伯： (M(e^)ng Wu|孟武) .[the] Eldest
   --
   The son of Master~(M(e^)ng Yee|孟懿) in [%chapter.5](#5).
   --
 ==
+@@@@
 
 
 ### 7. On filiality and respect
 
+@@@@
 <<
   子游問孝。子曰、今之孝者、是謂能養。
 \\
@@ -284,7 +299,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[And the] Master saith,
   .[The] filiality of today, this speaketh of .[being] able to provide for.
 >>
-=={.translation-annotations}
+==
 * .子游： (Tz(uu)\-yiu|子游)
   --
   [(Yen Yen|言偃), styled (Tz(uu)\-yiu|子游), a disciple of Confucius.][言偃]
@@ -301,10 +316,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[they] all .[are] able of providing for;
   respecting not, how .[be they] distinct?
 >>
+@@@@
 
 
 ### 8. On filiality and the countenance
 
+@@@@
 <<
   子夏問孝。子曰、色難、有事弟子服其勞、有酒食先生饌、曾是以為孝乎。
 \\
@@ -317,7 +334,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
     .[letting] the elder consume:
   .[have] ever these .[been] thought of as filiality?
 >>
-=={.translation-annotations}
+==
 * .事： incident; \or matter
 
 * .食： feed
@@ -327,10 +344,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 
 * .先生： the elder; \lit the former-born
 ==
+@@@@
 
 
 ### 9. On (Huei|回) the disciple
 
+@@@@
 <<
   子曰、吾與回言終日、不違如愚。
 \\
@@ -338,7 +357,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   I spake with (Huei|回) all day,
   .[and he] went against .[my words] not, as .[though] foolish.
 >>
-=={.translation-annotations}
+==
 * .回： (Huei|回)
   --
   [(Yen Huei|顏回), styled (Tz(uu)\-y(u")an|子淵), the favourite disciple of Confucius.][顏回]
@@ -353,10 +372,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[he is] also sufficient to manifest .[that I spake].
   (Huei|回), .[is] not foolish.
 >>
+@@@@
 
 
 ### 10. Man's character not concealable
 
+@@@@
 <<
   子曰、視其所以、觀其所由、察其所安。
 \\
@@ -365,7 +386,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   observe that he followeth,
   .[and] inspect that he .[be] at ease .[in].
 >>
-=={.translation-annotations}
+==
 * .以： .[doeth] by; \or useth
 ==
 
@@ -374,10 +395,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 \\
   How concealeth man?! .[even] how concealeth man?!
 >>
+@@@@
 
 
 ### 11. On learning of old and new
 
+@@@@
 <<
   子曰、溫故而知新、可以為師矣。
 \\
@@ -385,16 +408,18 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   Revising of the old and knowing the new,
   .[one] can by .[this] be .[a] master .[of others].
 >>
+@@@@
 
 
 ### 12. All-roundedness of the superior man
 
+@@@@
 <<
   子曰、君子不器。
 \\
   .[The] Master saith, The superior man .[is] not .[a] device.
 >>
-=={.translation-annotations}
+==
 * .器： device
   --
   The consensus interpretation among the commentaries
@@ -402,10 +427,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   the superior man is not a device, because he is all-rounded.
   --
 ==
+@@@@
 
 
 ### 13. Actions before words
 
+@@@@
 <<
   子貢問君子。子曰、先行其言、而後從之。
 \\
@@ -413,13 +440,15 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[And the] Master saith,
   .[He] first performeth his words, then afterward followeth it.
 >>
-=={.translation-annotations}
+==
 * .言： words; \lit speech
 ==
+@@@@
 
 
 ### 14. Non-partisanship of the superior man
 
+@@@@
 <<
   子曰、君子周而不比、小人比而不周。
 \\
@@ -427,16 +456,18 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   The superior man .[is] universal and not partisan;
   the little man .[is] partisan and not universal.
 >>
-=={.translation-annotations}
+==
 * .比： partisan
   --
   .比、去聲、 \C pei6, \M b(i\), \gr b(iv)
   --
 ==
+@@@@
 
 
 ### 15. On learning and thinking
 
+@@@@
 <<
   子曰、學而不思則罔、思而不學則殆。
 \\
@@ -444,30 +475,34 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   Learning but not thinking .[is] without;
   thinking but not learning .[is] perilous.
 >>
+@@@@
 
 
 ### 16. On strange doctrines
 
+@@@@
 <<
   子曰、攻乎異端、斯害也已。
 \\
   .[The] Master saith,
   .[The] studying of strange tenets, .[even] this .[be] harmful.
 >>
-=={.translation-annotations}
+==
 * .攻： studying; \lit attacking
 ==
+@@@@
 
 
 ### 17. On knowing
 
+@@@@
 <<
   子曰、由、誨女知之乎。
 \\
   .[The] Master saith,
   (Yiu|由), .[shall I] teach thee of knowing it?
 >>
-=={.translation-annotations}
+==
 * .由： (Yiu|由)
   --
   [(Chung Yiu|仲由), styled (Tz(uu)\-lu|子路), a disciple of Confucius.][仲由]
@@ -482,16 +517,18 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[that which be] not known, is not known:
   this .[be] knowing.
 >>
+@@@@
 
 
 ### 18. On that more important than salary
 
+@@@@
 <<
   子張學干祿。
 \\
   (Tz(uu)\-chang|子張) .[was] learning of seeking salary.
 >>
-=={.translation-annotations}
+==
 * .子張： (Tz(uu)\-chang|子張)
   --
   [(Chuan\-sun Shih|顓孫師), styled (Tz(uu)\-chang|子張), a disciple of Confucius.][顓孫師]
@@ -518,7 +555,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[and] conduct of few regrets:
   salary .[is] in .[the] midst thereof.
 >>
-=={.translation-annotations}
+==
 * .言： words; \lit speech
 
 * .行： conduct
@@ -526,17 +563,19 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .行、去聲、 \C hang6, \M x(i\)ng (\gr x(i/)ng)
   --
 ==
+@@@@
 
 
 ### 19. On governance for the submission of the people
 
+@@@@
 <<
   哀公問曰、何為則民服。
 \\
   Lord~(Ai|哀) asked, saying,
   What .[shall be] done, .[that] the people submit?
 >>
-=={.translation-annotations}
+==
 * .何為： what .[shall be] done; \or what do .[I]
 ==
 
@@ -549,7 +588,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   raising the crooked .[and] putting .[aside] all the straight,
   .[shall] the people submit not.
 >>
-=={.translation-annotations}
+==
 * .孔子： (Confucius|孔子); \lit Master~(K'ung|孔)
   --
   Per the old commentaries and Legge,
@@ -562,10 +601,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 
 * .錯諸： putting .[aside] all; \or putting .[aside]
 ==
+@@@@
 
 
 ### 20. On instilling virtue by example
 
+@@@@
 <<
   季康子問使民敬忠以勸、如之何。
 \\
@@ -573,7 +614,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   making the people respectful .[and] loyal .[and] to exhort .[them],
   how this .[be done].
 >>
-=={.translation-annotations}
+==
 * .季康子： Master~(Kee\-k'ang|季康)
   --
   An officer of the state of (Lu|魯), surnamed (Kee|姬),
@@ -592,19 +633,21 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[being] filial .[and] kind, .[shall they be] loyal;
   raising the good and teaching .[those] not able, .[shall they be] exhorted.
 >>
-=={.translation-annotations}
+==
 * .舉： raising; \or recommending
 ==
+@@@@
 
 
 ### 21. On Confucius partaking not in government
 
+@@@@
 <<
   或謂孔子曰、子奚不為政。
 \\
   Someone spake unto (Confucius|孔子), saying, Why governest thou not?
 >>
-=={.translation-annotations}
+==
 * .孔子： (Confucius|孔子); \lit Master~(K'ung|孔)
 
 * .子： thou; \lit master
@@ -621,11 +664,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[and] friendliness unto elder-brother .[and] younger-brother,
   imparted unto governance.
 >>
-===={.translation-annotations}
+====
 * .於： unto; \or in
 
 * Some commentaries (and Legge also) have a comma
   after .孝乎 rather than before it, leading to an alternative reading:
+  @@
   <<
     子曰、書云孝乎、惟孝友于兄弟、施於有政。
   \\
@@ -634,8 +678,10 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
     Only filiality .[and] friendliness unto elder-brother .[and] younger-brother,
     imparted unto governance.
   >>
+  @@
   The wording of the [source quote in the Classic of Writing][君陳]
   differs from both of these readings, but is closer to the alternative:
+  @@
   <<
     王若曰、君陳、惟爾令德孝恭。惟孝友于兄弟、克施有政。
   \\
@@ -645,6 +691,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
     Only filiality .[and] friendliness unto elder-brother .[and] younger-brother,
     able to .[be] imparted unto governance.
   >>
+  @@
   Then, there is the whole can of worms regarding whether
   this received text of the Classic of Writing is counterfeit.
   See the following for extended discussion:
@@ -664,16 +711,18 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 \\
   This also .[be] governing; why .[shall] that be governing?
 >>
-=={.translation-annotations}
+==
 * .其為： .[shall] that be; \or .[take] that as
 
 * To my modern ears, Confucius's response is a politician's non-answer
   (which is ironic).
 ==
+@@@@
 
 
 ### 22. Necessity of trustworthiness
 
+@@@@
 <<
   子曰、人而無信、不知其可也。
 \\
@@ -689,7 +738,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[and] the small chariot without .[a] crossbar:
   how .[be] they moved them?!
 >>
-=={.translation-annotations}
+==
 * .輗： crossbeam
   --
   .輗、五稽切、 \C ngai4, \M n(i/)
@@ -700,16 +749,18 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .軏、魚厥切、 \C y(u")t9, \M yu(e\)
   --
 ==
+@@@@
 
 
 ### 23. Pre-knowing of future practices
 
+@@@@
 <<
   子張問十世可知也。
 \\
   (Tz(uu)\-chang|子張) asked of .[whether] ten generations can .[be] known.
 >>
-=={.translation-annotations}
+==
 * .世： generations; \or lifetimes
 ==
 
@@ -734,10 +785,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   they that perhaps succeed .[the] (Chou|周),
   although .[an] hundred generations .[after], can .[be] known.
 >>
+@@@@
 
 
 ### 24. Flattery and courage
 
+@@@@
 <<
   子曰、非其鬼而祭之、諂也、見義不為、無勇也。
 \\
@@ -745,6 +798,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   Not his ghost yet sacrificing unto it, .[is] flattery;
   seeing righteousness .[but] not doing .[it], .[is] without courage.
 >>
+@@@@
 
 
 %%surrounds
