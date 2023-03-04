@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> FAQ
 * %description --> Frequently asked questions.
 * %date-created --> 2019-08-01
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-04
 
 %%%
 
@@ -131,13 +131,21 @@ This is stylistic, and in my view
 accurately reflects the archaicness of Literary Chinese.
 --
 --
-Also it sounds cooler and allows for greater freedom in word order.
-For example,
-  compare
-    ""This is what the LORD says"" (New International Version)
-  to
-    ""Thus saith the LORD"" (King~James Version)
-  for the Hebrew
+Also it sounds cooler.
+Compare
+--
+==
+- ""This is what the LORD says""
+  (New International Version), plainly an alteration,
+
+- ""Thus says the LORD""
+  (English Standard Version), too many S~sounds, and
+
+- ""Thus saith the LORD""
+  (King~James Version), weighty and authoritative,
+==
+--
+for the Hebrew
     <span lang="he" dir="rtl" class="no-wrapping">כה אמר יהוה</span>.
 --
 
