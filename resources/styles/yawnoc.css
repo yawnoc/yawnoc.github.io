@@ -192,21 +192,22 @@ table.translation {
 }
 
 
-.translation tbody {
+.translation > tbody {
   display: block;
 }
 
 
-.translation td {
+.translation > tbody > tr > td {
   border: none;
   display: block;
   padding: 0;
 }
-td.source-text, td.target-text {
+.translation > tbody > tr > td.source-text,
+.translation > tbody > tr > td.target-text {
   border: 2px solid black;
   padding: 0.4em 0.6em;
 }
-td.target-text {
+.translation > tbody > tr > td.target-text {
   border-top: none;
 }
 
@@ -222,16 +223,16 @@ th, td {
 }
 
 
-.translation thead {
+.translation > thead {
   display: none;
 }
 
 
-.translation tr {
+.translation > tbody > tr {
   display: block;
   margin: 2rem 0;
 }
-.translation tr:first-child, .translation tr:last-child {
+.translation > tbody > tr:first-child, .translation > tbody > tr:last-child {
   margin: 1rem 0;
 }
 
