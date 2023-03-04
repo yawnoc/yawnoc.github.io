@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the first problem in Haidao Suanjing, \
     《海島算經》, `The Sea Island Computational Classic`.
 * %date-created --> 2019-04-20
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #backslash-continuations
