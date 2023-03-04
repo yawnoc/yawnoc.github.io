@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S19"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S19
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-27
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -68,6 +68,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有積二十三萬四千五百六十七步。問為方幾何。
 \\
@@ -75,7 +76,6 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   twenty-three myriad, four thousand, five hundred .[and] sixty-seven paces.
   .[We] ask, how much be .[this a] square .[of edge]?
 >>
-
 
 <<
   答曰、四百八十四步九百六十八分步之三百一十一。
@@ -86,7 +86,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
     nine hundred .[and] sixty-eighths
     of .[a] pace.
 >>
-=={.translation-annotations}
+==
 * Here we have an algorithm for computing the square root,
   in this instance giving
   $$
@@ -94,8 +94,6 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   $$
 ==
 
-
-||||{.group}
 <<
   術曰、::{.colour-b}置積::二十三萬四千五百六十七步為::{.colour-b}實::。
 \\
@@ -103,7 +101,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   twenty-three myriad, four thousand, five hundred .[and] sixty-seven paces
   as ::{.colour-b} .[the] dividend::.
 >>
-=={.translation-annotations}
+==
 * The radicand is called the <span class="colour-b">__dividend__~(.實)</span>,
   $$
     \colb{d} := \colb{234567}.
@@ -114,10 +112,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-1-dividend-234567.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   次::{.colour-r}借一算為下法::。::{.colour-r}步之、超一位、至百而止::。
 \\
@@ -126,7 +121,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
     Step it .[forth], leaping over one place,
     halting .[when] arriving at .[the] hundreds::.
 >>
-=={.translation-annotations}
+==
 * .超： leaping over
   --
   Taking double steps, so that 100 is in fact 10000.
@@ -153,16 +148,13 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-2-lower-10000.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   ::{.colour-g}上商置四百::於實之上。
 \\
   ::{.colour-g} .[For the] upper quotient, put four hundred:: above .[the] dividend.
 >>
-=={.translation-annotations}
+==
 * \a[40] and \c[52186] have just .商 for .上商.
 
 * .上商： upper quotient
@@ -189,10 +181,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-3-upper-400.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   副::{.colour-v}置四萬::於實之下、下法之上、名為::{.colour-v}方法::。
 \\
@@ -200,7 +189,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   .[and] above .[the] lower divisor,
   .[its] name being ::{.colour-v} .[the] upright divisor::.
 >>
-===={.translation-annotations}
+====
 * .方： upright; \or square
   --
   This is one of three named divisors whose names relate to integrity
@@ -233,17 +222,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-4-upright-40000.svg)
   ||
 ====
-||||
 
-
-||||{.group}
 <<
   ::{.colour-g}命上商四百::::{.colour-b}除實::。
 \\
   ::{.colour-g} Name .[the] upper quotient's four hundred::
   ::{.colour-b} .[and] remove .[this] from .[the] dividend::.
 >>
-=={.translation-annotations}
+==
 * As written, the text says $\colb{d} := \colb{d} - \colg{400^2}$,
   but for the purpose of understanding how this step fits in with the others,
   this is best written
@@ -265,16 +251,13 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-5-dividend-74567.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   除訖、::{.colour-v}倍方法::。
 \\
   .[The] removal finished, ::{.colour-v} double .[the] upright divisor::.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \colv{s_1} := 2 s_1 = 2 \times 40000 = \colv{80000}.
@@ -289,17 +272,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-6-upright-80000.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   ::{.colour-v}方法一退::、::{.colour-r}下法再退::。
 \\
   ::{.colour-v} .[The] upright divisor retreateth once::;
   ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
-=={.translation-annotations}
+==
 * \a[40] and \c[52186] are missing .方法 in .方法一退.
 
 * .再： twice; \or again
@@ -321,17 +301,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-7-upright-8000.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   復::{.colour-g}置上商八十::、以次前商。
 \\
   ::{.colour-g} Put:: again ::{.colour-g} .[for the] upper quotient eighty::,
   to .[be] next .[after the] former quotient.
 >>
-=={.translation-annotations}
+==
 * The <span class="colour-g">__tens digit of the upper quotient__~(.上商)</span>
   is the largest $\colg{a_2}$ such that
   $\colg{a_2} (\colv{s_1} + \colg{a_2} \colr{L}) \le \colb{d}$,
@@ -353,10 +330,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-8-upper-80.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   副::{.colour-v}置八百::於方法之下、下法之上、名為::{.colour-v}廉法::。
 \\
@@ -364,7 +338,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   .[and] above .[the] lower divisor,
   .[its] name being ::{.colour-v} .[the] incorrupt divisor::.
 >>
-=={.translation-annotations}
+==
 * .廉法： incorrupt; \or side
 
 * The second straight divisor is the <span class="colour-v">__incorrupt divisor__~(.廉法)</span>
@@ -385,10 +359,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-9-incorrupt-800.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   ::{.colour-v}方廉各命::::{.colour-g}上商八十::、以::{.colour-b}除實::。
 \\
@@ -396,7 +367,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   ::{.colour-g} .[the] upper quotient's eighty::,
   to ::{.colour-b} remove from .[the] dividend::.
 >>
-=={.translation-annotations}
+==
 * \a[40] and \c[52186] are missing .實.
 
 * In modern notation:
@@ -419,17 +390,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-10-dividend-4167.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   除訖、::{.colour-v}倍廉法::、上從方法。
 \\
   .[The] removal finished, ::{.colour-v} double .[the] incorrupt divisor::,
   .[which] followeth .[the] upright divisor above.
 >>
-=={.translation-annotations}
+==
 * \a[40] and \c[52186] are missing .除.
 
 * In modern notation:
@@ -447,17 +415,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-11-incorrupt-1600.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   ::{.colour-v}方法一退::、::{.colour-r}下法再退::。
 \\
   ::{.colour-v} .[The] upright divisor retreateth once::;
   ::{.colour-r} .[the] lower divisor retreateth twice::.
 >>
-=={.translation-annotations}
+==
 * \a[40] erroneously has .一退方法 for .方法一退.
 
 * .再： twice; \or again
@@ -486,17 +451,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-12-upright-800.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   復::{.colour-g}置上商四::、以次前。
 \\
   ::{.colour-g} Put:: again ::{.colour-g} .[for the] upper quotient four::,
   to .[be] next .[after the] former.
 >>
-=={.translation-annotations}
+==
 * The <span class="colour-g">__ones digit of the upper quotient__~(.上商)</span>
   is the largest $\colg{a_3}$ such that
   $\colg{a_3} (\colv{s_1} + \colv{s_2} + \colg{a_3} \colr{L})
@@ -520,10 +482,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-13-upper-4.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   副::{.colour-v}置四::於方法之下、下法之上、名曰::{.colour-v}隅法::。
 \\
@@ -531,7 +490,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   .[and] above .[the] lower divisor,
   .[its] name .[being] called ::{.colour-v} .[the] moral divisor::.
 >>
-=={.translation-annotations}
+==
 * .隅： moral; \or corner
 
 * The third straight divisor is the
@@ -554,10 +513,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-14-moral-4.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   ::{.colour-v}方廉隅各命::::{.colour-g}上商四::、以::{.colour-b}除實::。
 \\
@@ -565,7 +521,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   ::{.colour-g} .[the] upper quotient's four::,
   to ::{.colour-b} remove from .[the] dividend::.
 >>
-=={.translation-annotations}
+==
 * \a[40] is missing .以.
 
 * In modern notation:
@@ -589,17 +545,14 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-15-dividend-311.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   除訖、::{.colour-v}倍隅法::、從方法。
 \\
   .[The] removal finished, ::{.colour-v} double .[the] moral divisor::,
   .[which] followeth .[the] upright divisor.
 >>
-=={.translation-annotations}
+==
 * \a[40] is missing .倍隅法、從方法.
 
 * In modern notation:
@@ -618,10 +571,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-16-moral-8.svg)
   ||
 ==
-||||
 
-
-||||{.group}
 <<
   ::{.colour-g}上商得四百八十四::、\
   ::{.colour-v}下法得九百六十八::、\
@@ -631,7 +581,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   ::{.colour-v} .[and the] lower divisors result in nine hundred .[and] sixty-eight::,
   ::{.colour-b} remainder three hundred .[and] eleven::.
 >>
-=={.translation-annotations}
+==
 * .下法： lower divisors
   --
   Confusingly, this refers not to the lower divisor~(.下法),
@@ -664,8 +614,6 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       (sun-tzu-sqrt-diagram-17-final.svg)
   ||
 ==
-||||
-
 
 <<
   是為方::{.colour-g}四百八十四::步::{.colour-v}九百六十八分::步之::{.colour-b}三百一十一::。
@@ -676,7 +624,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
       ::{.colour-v} nine hundred .[and] sixty-eighths::
     of .[a] pace.
 >>
-=={.translation-annotations}
+==
 * Thus the algorithm gives
   $$
     \begin{aligned}
@@ -688,6 +636,7 @@ Chinese source text: \a[40], \b[156], \c[52186], \d[52]. <br>
   $$
   which has relative error $2.2 \times 10^{-7}$.
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary

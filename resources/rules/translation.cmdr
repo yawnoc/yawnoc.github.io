@@ -7,7 +7,7 @@ RegexDictionaryReplacement: #.translation.syntax-conversion
         ; Notes
     |:
       \n\n
-* ^ [\n]+ (?! [\s]* (?: [*]|[-]|\[|\Z) ) --> // \n
+* ^ [\n]+ (?! [\s]* (?: [*] | [-] | \[ | [<]div | \Z) ) --> // \n
 * ^ [^\S\n]* << --> ,{.source-text l=zh-Hant}
 * ^ [^\S\n]* \\\\ --> ,{.target-text l=en}
 * ^ [^\S\n]* >> --> ,{.notes}
