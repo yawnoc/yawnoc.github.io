@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S17"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S17
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -66,6 +66,7 @@ Chinese source text: \b[149], \c[52090], \d[24].
 
 [resumes]: https://archive.org/details/02094034.cn/page/n14
 
+@@@@
 <<
   七七四十九、自相乘、得二千四百一。七人分之、人得三百四十三。
 \\
@@ -125,7 +126,7 @@ Chinese source text: \b[149], \c[52090], \d[24].
   .[With] two people sharing it,
   .[each] person getteth ninety-eight.
 >>
-=={.translation-annotations}
+==
 * \b[150] has .二七一十四 for .二七十四.
 ==
 
@@ -149,7 +150,7 @@ Chinese source text: \b[149], \c[52090], \d[24].
   .[With] seven people sharing it,
   .[each] person getteth five thousand, four hundred .[and] eighty-eight.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \begin{gathered}
@@ -159,6 +160,7 @@ Chinese source text: \b[149], \c[52090], \d[24].
     \end{gathered}
   $$
 ==
+@@@@
 
 
 %%surrounds
