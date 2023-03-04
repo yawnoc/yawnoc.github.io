@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S33"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S33
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -74,6 +75,7 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有長安洛陽、相去九百里。
 \\
@@ -102,7 +104,7 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
   multiplying it by three hundred paces,
   resulteth in twenty-seven myriad paces.
 >>
-=={.translation-annotations}
+==
 * In modern notation, this is a conversion from miles to paces:
   $$
     900 \unit{miles} \times \frac{300 \unit{paces}}{\unit{mile}}
@@ -116,7 +118,7 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
   And multiplying it by six rules,
   resulteth in one hundred .[and] sixty-two myriad rules.
 >>
-=={.translation-annotations}
+==
 * Next we a conversion from paces to rules:
   $$
     270000 \unit{paces} \times \frac{6 \unit{rules}}{\unit{pace}}
@@ -130,13 +132,14 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
   Use .[the] chariot wheel's one rod .[and] eight rules as .[the] divisor.
   Dividing them, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * Finally we have the division determining the number of turns:
   $$
     \frac{1620000 \unit{rules}}{18 \unit{rules} / {\unit{turn}}}
     = 90000 \unit{turns}.
   $$
 ==
+@@@@
 
 
 %%surrounds
