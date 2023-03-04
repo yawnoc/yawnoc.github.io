@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S21"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S21
 * %date-created --> 2022-11-20
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -73,6 +74,7 @@ Chinese source text: \a[70], \b[162], \c[52277], \d[82]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有錦一匹、直錢一萬八千。問丈尺寸各直幾何。
 \\
@@ -97,7 +99,7 @@ Chinese source text: \a[70], \b[162], \c[52277], \d[82]. <br>
   Method saith: put .[down the] coins one myriad .[and] eight thousand;
   dividing it by four, resulteth in .[the] worth of .[each] one rod.
 >>
-=={.translation-annotations}
+==
 * \c[52277] erroneously has .得尺寸之直 before .得一丈之直.
 ==
 
@@ -107,7 +109,7 @@ Chinese source text: \a[70], \b[162], \c[52277], \d[82]. <br>
   Retreating once .[and] retreating again,
   resulteth in .[the] worth of .[each] rule .[and each] inch.
 >>
-=={.translation-annotations}
+==
 * .再： again; \or twice
 
 * In modern notation,
@@ -121,6 +123,7 @@ Chinese source text: \a[70], \b[162], \c[52277], \d[82]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds
