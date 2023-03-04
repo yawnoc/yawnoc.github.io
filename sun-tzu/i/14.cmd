@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S14"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S14
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,6 +62,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   六千五百六十一、九人分之、問人得幾何。 <br>
   答曰、七百二十九。
@@ -71,7 +72,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
   .[we] ask, how much getteth .[each] person? <br>
   Answer saith: seven hundred .[and] twenty-nine.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     6561 \div 9 = 729.
@@ -95,7 +96,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
   seven nines .[are] sixty-three,
   that is, remove from .[the] middle places six thousand three hundred.
 >>
-=={.translation-annotations}
+==
 * \b[148] has .上頭位置七百 for .上位置七百.
 ==
 
@@ -108,7 +109,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
   two nines .[are] eighteen,
   that is, remove from .[the] middle places one hundred .[and] eighty.
 >>
-=={.translation-annotations}
+==
 * \b[148] has .二九一十八 for .二九十八.
 ==
 
@@ -128,13 +129,12 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
   .[The] middle places altogether exhausted, take back .[the] lower place.
   That which resulteth .[in the] upper places, is that gotten of .[each] person.
 >>
-=={.translation-annotations}
+==
 * \c[52074] erroneously has .邬 for .並, both here and in .並準此 below.
 
 * \b[148] has .頭位所得 for .上位所得.
 
 * In animated form ([crappy source code here]):
-
   ||{.centred}
     ![Animation for \sun-tzu division: 6561 divided by 9.]\
       (/sun-tzu/code/divide-6561-9.gif)
@@ -149,7 +149,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
   From eight eights .[are] sixty-four unto one one .[is] as one:
   together .[be they] standardised .[to] this.
 >>
-=={.translation-annotations}
+==
 * I think this is saying that the same procedures as above
   are used to compute
   $$
@@ -165,6 +165,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
   $$
   in the sections to follow.
 ==
+@@@@
 
 
 %%surrounds
