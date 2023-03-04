@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S26"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S26
 * %date-created --> 2022-07-24
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -60,6 +61,7 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有甲乙丙三人持錢。
 \\
@@ -73,7 +75,7 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
   .[If] each take .[the] coins that .[my] lords hold
   .[and] halve .[them] to benefit my coins, .[they] become ninety.
 >>
-=={.translation-annotations}
+==
 * .語： tell
   --
   .語、去聲、 \C y(u")6, \M y(u\)
@@ -101,7 +103,7 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
 \\
   .[We] ask, how many coins each held .[the] three people originally?
 >>
-=={.translation-annotations}
+==
 * \b[158] has .若干 for .幾何.
 
 * In modern notation, we have the system of linear equations
@@ -169,6 +171,7 @@ Chinese source text: \a[50], \b[158], \c[52207], \d[62]. <br>
   .[and] subtracting of A by B .[and] C,
   doth each result in .[its] original number.
 >>
+@@@@
 
 
 %%surrounds
