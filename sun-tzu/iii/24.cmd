@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S24"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S24
 * %date-created --> 2022-11-24
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[72], \b[162], \c[52286], \d[84]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有方物一束、外周一匝有三十二枚。問積幾何。
 \\
@@ -68,7 +70,7 @@ Chinese source text: \a[72], \b[162], \c[52286], \d[84]. <br>
   once around .[the] outer perimeter there being thirty-two .[objects].
   .[We] ask, how much .[be the] area?
 >>
-=={.translation-annotations}
+==
 * .匝： around
   --
   .匝、子答切、 \C tsaap8, \M z(a-)
@@ -92,7 +94,7 @@ Chinese source text: \a[72], \b[162], \c[52286], \d[84]. <br>
   unto .[its being] exhausted hollow .[then] adding one,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * \b[162] has .左位 for .上位 and .右位 for .下位.
 
 * In modern notation, the total number of objects is
@@ -122,6 +124,7 @@ Chinese source text: \a[72], \b[162], \c[52286], \d[84]. <br>
   (in which case the last remainder is $4$,
   and there is no object in the centre of the bundle).
 ==
+@@@@
 
 
 %%surrounds
