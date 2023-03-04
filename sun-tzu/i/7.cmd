@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S7"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S7
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -65,6 +65,7 @@ Chinese source text: \a[6], \b[147], \c[52063], \d[14]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   凡算之法、先識其位。
 \\
@@ -79,9 +80,10 @@ Chinese source text: \a[6], \b[147], \c[52063], \d[14]. <br>
   .[The] thousands .[and] tens look at each other;
   .[the] myriads .[and] hundreds face each other.
 >>
-=={.translation-annotations}
+==
 * \a[6] and \d[14] have .百萬 instead of .萬百.
   According to the inline note in \b[147], this is a transcription error:
+  @@
   <<
     案、萬百原本訛作百萬、今據夏侯陽算經改正。
   \\
@@ -90,6 +92,7 @@ Chinese source text: \a[6], \b[147], \c[52063], \d[14]. <br>
     Now corrected according unto
     [(Hia\-hou Yang|夏侯陽)'s Computational Classic].
   >>
+  @@
   In my opinion .萬百 vs~.百萬 is a minor issue,
   but I agree that .萬百 is the correct order,
   since we have .千十 preceding, rather than .十千.
@@ -98,6 +101,7 @@ Chinese source text: \a[6], \b[147], \c[52063], \d[14]. <br>
   [(Hia\-hou Yang|夏侯陽)'s Computational Classic]:
     https://archive.org/details/02094036.cn/page/n6
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary
