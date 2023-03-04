@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S8"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S8
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-27
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,13 +61,14 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   凡乘之法、重置其位。
 \\
   .[In the] method of all multiplication,
   put layered .[the] places.
 >>
-=={.translation-annotations}
+==
 * .重： layered
   --
   .重、平聲、 \C ch'ung4, \M ch(o/)ng
@@ -82,7 +83,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
   have .[they] hundreds, step unto .[the] hundreds;
   have .[they] thousands, step unto .[the] thousands.
 >>
-=={.translation-annotations}
+==
 * \b[147] has .頭位 for .上位,
   both here and in many of the sections to follow.
 
@@ -91,16 +92,13 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
   until its units digit is vertically in line
   with the top number's most significant digit.
   For example, if we wish to compute 1989 × 64:
-
   ||{.centred}
     ![Top row: rod numerals representing 1989. \
       Bottom row: rod numerals representing 64. \
       The bottom units digit (4) is in line with the upper thousands digit (1).]\
       (rod-calculus-1989-times-64-initial.svg)
   ||
-
   Or, in Arabic numerals for readability:
-
   ||{.centred}
     ![Same arrangement with rod numerals replaced by arabic numerals.]\
       (rod-calculus-1989-times-64-initial-arabic.svg)
@@ -116,7 +114,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
   Tens .[be] immediately carried,
   .[but those] not reaching .[ten], .[left] as .[their] selves.
 >>
-=={.translation-annotations}
+==
 * .命： name
   --
   Or maybe "command/order" as in "operate on".
@@ -134,7 +132,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
   Those lower places which .[be] finished multiplying:
   retreat them all.
 >>
-=={.translation-annotations}
+==
 * .訖： finished
   --
   .訖、居迄切、 \C kat7, \M q(i\)
@@ -148,14 +146,10 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
   and I have split the middle row into two rows
   to make the intermediate additions clearer.
   I have greyed out the finished digits instead of removing them:
-
-  [crappy source code here]: /sun-tzu/code/animations
-
   ||{.centred}
     ![Animation for Sun Tz(uu) multiplication: 1989 multiplied by 64.]\
       (/sun-tzu/code/multiply-1989-64.gif)
   ||
-
   The algorithm pretty much works like modern long multiplication,
   except that you go from left to right.
   Indeed the advantage of using counting rods is that
@@ -167,6 +161,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
   refers to the shifting to the right of the lower number 64,
   after both the 6 and the 4 have been multiplied through.
 ==
+  [crappy source code here]: /sun-tzu/code/animations
 
 <<
   六不積、五不隻。
@@ -174,7 +169,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
   Sixes .[are] not accumulated;
   fives, not single.
 >>
-=={.translation-annotations}
+==
 * .六不積： sixes not accumulated
   --
   This is saying that the digit~6 in rod numerals is displayed either as
@@ -212,9 +207,10 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
   The upper .[and] the lower .[are] mutually multiplied,
   finishing .[at] reaching exhaustion.
 >>
-=={.translation-annotations}
+==
 * \c[52064] erroneously has .土下 for .上下.
 ==
+@@@@
 
 
 %%surrounds
