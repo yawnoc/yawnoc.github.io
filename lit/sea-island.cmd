@@ -145,7 +145,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     .[and] make .[the] rear post and .[the] front post
     aligned .[the] three with each other.
   >>
-  =={.translation-annotations}
+  ==
   * .表： posts; \or pillars
 
   * .齊： equal; \or uniform
@@ -178,7 +178,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     ::{.colour-r} taking .[a] looking at .[the] peak of .[the] island::,
     meet .[the] three with .[the] tip of .[the] post.
   >>
-  =={.translation-annotations}
+  ==
   * .著： upon; \lit contacting
 
   * .峯： peak; \or summit
@@ -219,7 +219,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     .[and the] separation from .[the] post,
     ::{.colour-r} one hundred .[and] two miles .[and] one hundred .[and] fifty paces::.
   >>
-  ===={.translation-annotations}
+  ====
   * .里： miles
     --
     A [unit of distance](https://en.wikipedia.org/wiki/Li_\(unit\)),
@@ -232,7 +232,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     The square-bracketed .[and] is supplied,
     which is noteworthy because:
     --
-    =={.translation-annotations}
+    ==
     * In modern Chinese, you must say .一百零二,
       "one hundred oh two", to mean~102.
       If you just say .一百二 or .百二, it means~120;
@@ -259,7 +259,7 @@ Parentheticals are (half-column) inline annotations in the original text.
   That which resulteth added to .[the] ::{.colour-r} posts' height::,
   doth result in .[the] island's height.
 >>
-=={.translation-annotations}
+==
 * .間： separation
   --
   .間、去聲、 \C kaan3, \M ji(a\)n
@@ -325,7 +325,7 @@ Parentheticals are (half-column) inline annotations in the original text.
   Dividing them, resulteth in .[the] number of miles
   .[that the] island .[is] separated from .[the] post.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \text{島去表} =
@@ -465,7 +465,7 @@ I have mapped the names of the vertices as follows:
     ::{.colour-r} Constructing $FCO$:: parallel with ::{.colour-b} $GEDB$::,
     ::{.colour-g} $OB$ .[is] equal with both $CD$ .[and] $FG$::.
   >>
-  =={.translation-annotations}
+  ==
   * .俱： both; \lit all
   ==
 
@@ -487,7 +487,7 @@ I have mapped the names of the vertices as follows:
     ::{.colour-b} .[The] shape $FGH$::, .[is] similar with
     ::{.colour-r} .[the] shape $AOF$::.
   >>
-  =={.translation-annotations}
+  ==
   * .同式： similar; \lit same form
   ==
 
@@ -509,7 +509,7 @@ I have mapped the names of the vertices as follows:
     of same minor-cathetus $FG$::,
     with ::{.colour-r} $HI$ being .[the] major-cathetus chariot-beam::.
   >>
-  =={.translation-annotations}
+  ==
   * .句： minor-cathetus
     --
     (Variant of .勾.) The shorter leg of a right-angled triangle.
@@ -559,7 +559,7 @@ I have mapped the names of the vertices as follows:
     .[is] as ::{.colour-g} .[the] great major-cathetus chariot-beam $FC$::
     compared unto ::{.colour-v} .[the] great minor-cathetus $AO$::.
   >>
-  =={.translation-annotations}
+  ==
   * In modern notation,
     $$
       \begin{aligned}
@@ -580,7 +580,7 @@ I have mapped the names of the vertices as follows:
     add ::{.colour-r} .[the] post height $OB$:: (which is ::{.colour-r} $CD$::),
     .[to] get $AB$, .[which] be .[the] height of .[the] island.
   >>
-  =={.translation-annotations}
+  ==
   * In modern notation,
     $$
       \begin{aligned}
@@ -630,7 +630,7 @@ I have mapped the names of the vertices as follows:
     ::{.colour-v} .[the] distance .[that the] island .[is] separated
     from .[the] front post::.
   >>
-  =={.translation-annotations}
+  ==
   * In modern notation,
     $$
       \begin{aligned}
