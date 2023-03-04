@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> %title
 * %title --> Poetry on a sumo umpire's fan
 * %date-created --> 2019-11-21
-* %date-modified --> 2022-07-10
+* %date-modified --> 2023-03-xx
 
 %%%
 
@@ -78,6 +78,7 @@ but I would guess that that side bears the two lines before. All up:
 [tym]: https://en.wikipedia.org/wiki/Tao_Yuanming
 
 
+@@@@
 <<
   ||||{.centred}
   ||
@@ -97,11 +98,12 @@ but I would guess that that side bears the two lines before. All up:
   ||
   ||||
 >>
-=={.translation-annotations}
+==
 * .盛： prime; \lit flourishing; \or vigour
 * .一日： .[a] day; \lit one day
 * .勉勵： strive; \or spur
 ==
+@@@@
 
 
 %%cite
