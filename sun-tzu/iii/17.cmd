@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S17"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S17
 * %date-created --> 2022-11-13
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -60,6 +61,7 @@ Chinese source text: \a[68], \b[161], \c[52265], \d[80]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有婦人河上蕩桮、津吏問曰、桮何以多。婦人曰、家有客。
 \\
@@ -80,7 +82,7 @@ Chinese source text: \a[68], \b[161], \c[52265], \d[80]. <br>
   .[in] total use cups sixty-five.
   Know .[we] not how many .[be the] guests?
 >>
-=={.translation-annotations}
+==
 * \c[52265] erroneously has .用聣 for .用桮.
 
 * .不知客幾何： know .[we] not how many guests .[there be]
@@ -105,7 +107,7 @@ Chinese source text: \a[68], \b[161], \c[52265], \d[80]. <br>
   multiplying it by twelve, resulteth in seven hundred .[and] eighty.
   Dividing it by thirteen, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * \b[161] has .十二 for .一十二.
 
 * In modern notation, supposing that the guests be $n$ people, we have
@@ -117,6 +119,7 @@ Chinese source text: \a[68], \b[161], \c[52265], \d[80]. <br>
     n = \frac{65 \times 12}{13} = 60.
   $$
 ==
+@@@@
 
 
 %%surrounds
