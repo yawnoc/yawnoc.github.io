@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S25"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S25
 * %date-created --> 2022-11-26
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -73,6 +74,7 @@ Chinese source text: \a[72], \b[162], \c[52289], \d[85]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有竿不知長短。度其影、得一丈五尺。別立一表、長一尺五寸、影得五寸。
 \\
@@ -81,7 +83,7 @@ Chinese source text: \a[72], \b[162], \c[52289], \d[85]. <br>
   Separately erecting one post, of length one rule .[and] five inches,
   .[its] shadow resulteth in five inches.
 >>
-=={.translation-annotations}
+==
 * .度： measuring
   --
   .度、入聲、 \C tok9, \M du(o\) (\gr du(o/))
@@ -110,7 +112,7 @@ Chinese source text: \a[72], \b[162], \c[52289], \d[85]. <br>
   .[and] decupling it upward,
   resulteth in twenty-two rods .[and] five rules.
 >>
-=={.translation-annotations}
+==
 * .二十二丈五尺： twenty-two rods .[and] five rules
   --
   This quantity is actually an area.
@@ -149,7 +151,7 @@ Chinese source text: \a[72], \b[162], \c[52289], \d[85]. <br>
 \\
   Dividing it by .[the] post's shadow five inches, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \begin{aligned}
@@ -169,6 +171,7 @@ Chinese source text: \a[72], \b[162], \c[52289], \d[85]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds
