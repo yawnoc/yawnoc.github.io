@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S3"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S3
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +61,7 @@ Chinese source text: \a[28], \b[153], \c[52136], \d[40]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有九分之八、減其五分之一。問餘幾何。 <br>
   答曰、四十五分之三十一。
@@ -70,7 +71,7 @@ Chinese source text: \a[28], \b[153], \c[52136], \d[40]. <br>
   .[We] ask, how much remaineth? <br>
   Answer saith: thirty-one of forty-five shares.
 >>
-=={.translation-annotations}
+==
 * ::{l=zh-Hant} $b$ 分之 $a$:::
     \lit $a$ of $b$ shares
   --
@@ -100,7 +101,7 @@ Chinese source text: \a[28], \b[153], \c[52136], \d[40]. <br>
   .[The] denominators multiplied with each other,
   result in forty-five as .[the] divisor.
 >>
-=={.translation-annotations}
+==
 * \c[52136] erroneously has .王十一 for .三十一.
 
 * In modern notation:
@@ -117,6 +118,7 @@ Chinese source text: \a[28], \b[153], \c[52136], \d[40]. <br>
   .[The dividend] reacheth not .[the] divisor, .[and]
   naming it .[for a fraction] using .[the] divisor, .[we] are done.
 >>
+@@@@
 
 
 %%surrounds
