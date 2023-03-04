@@ -31,6 +31,9 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     .icon-link {
       padding: 0 0.2em;
     }
+    .major {
+      font-weight: bold;
+    }
 
 %%%
 
@@ -85,14 +88,14 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ##{#lit} English translations of Literary Chinese
 
 ==
-- [Conway's Lexicon for Literary Chinese](/lexicon)
+- [Conway's Lexicon for Literary Chinese]{.major}(/lexicon)
 ==
 
 
 ###{#lit-math} Mathematics
 
 ====
-- [.《孫子算經》 <br> "(Sun~Tz(uu)|孫子)'s Computational Classic"](/sun-tzu/)
+- [.《孫子算經》 <br> "(Sun~Tz(uu)|孫子)'s Computational Classic"]{.major}(/sun-tzu/)
   ==
   - [.《序》 "Preface"](/sun-tzu/preface/)
   - [.《卷上》 "Volume~I"](/sun-tzu/i/)
@@ -107,9 +110,9 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ###{#lit-not-math} Not mathematics
 
 ==
-- [.《論語》 <br> ".[The] Analects" (incomplete)](/analects/)
+- [.《論語》 <br> ".[The] Analects" (incomplete)]{.major}(/analects/)
 
-- [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K'ang\-hee|康熙) Dictionary"]\
+- [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K'ang\-hee|康熙) Dictionary"]{.major}\
     (/lit/kangxi-preface)
 - ["The Need to Win"]\
     (/lit/need-to-win)
