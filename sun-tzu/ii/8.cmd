@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S8"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S8
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -75,6 +75,7 @@ Chinese source text: \a[30], \b[154], \c[52151], \d[44]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有粟七斗九升。問為御米幾何。 <br>
   答曰、三斗三升一合八勺。
@@ -83,7 +84,7 @@ Chinese source text: \a[30], \b[154], \c[52151], \d[44]. <br>
   .[We] ask, how much be .[this in] poppy seed? <br>
   Answer saith: three pecks, three quarts, one gill, .[and] eight ladles.
 >>
-=={.translation-annotations}
+==
 * \c[52148] erroneously has .栗 for .粟.
 
 * .御米： poppy seed; \lit imperial grain
@@ -99,7 +100,7 @@ Chinese source text: \a[30], \b[154], \c[52151], \d[44]. <br>
   as .[the] dividend.
   Dividing it by .[the] grain rate fifty, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \begin{aligned}
@@ -119,6 +120,7 @@ Chinese source text: \a[30], \b[154], \c[52151], \d[44]. <br>
   .《九章算術粟米》, "Nine Chapters .[on] Computational Methods: Grain".
   See [\S5 commentary](5#commentary).
 ==
+@@@@
 
 
 %%surrounds
