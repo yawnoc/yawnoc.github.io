@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S5"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S5
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,6 +62,7 @@ Chinese source text: \a[6], \b[147], \c[52061], \d[13]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   周三徑一、方五邪七。 <br>
   見邪求方、五之、七而一。 <br>
@@ -74,7 +75,7 @@ Chinese source text: \a[6], \b[147], \c[52061], \d[13]. <br>
   Seeing .[the] square's .[edge and] seeking .[the] diagonal,
     septuple it, .[with] five .[being] one.
 >>
-=={.translation-annotations}
+==
 * .邪： diagonal; \lit incline
   --
   Here, .邪 is interchangeable with .斜.
@@ -92,6 +93,7 @@ Chinese source text: \a[6], \b[147], \c[52061], \d[13]. <br>
   Divide by seven.
   --
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary
