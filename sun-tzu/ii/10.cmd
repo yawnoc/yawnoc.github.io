@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S10"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S10
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -88,6 +88,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有圓窖、下周二百八十六尺、深三丈六尺。問受粟幾何。
 \\
@@ -96,7 +97,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
   .[and] depth three rods .[and] six rules.
   .[We] ask, how much grain beareth .[it]?
 >>
-=={.translation-annotations}
+==
 * .窖： cellar
   --
   .窖、居效切、 \C kaau3, \M ji(a\)o
@@ -129,7 +130,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
     two hundred .[and] ninety-four myriad,
     four thousand, six hundred .[and] fifty-six.
 >>
-=={.translation-annotations}
+==
 * \c[52157] has 尺 at the end of this sentence.
 ==
 
@@ -149,7 +150,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
     one rule, six inches, .[and] two tenths,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * .斛法一尺六寸二分：
     .[the] barrel divisor, one rule, six inches, .[and] two tenths
   --
@@ -182,6 +183,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
   Here $\pi \approx 3$ (so that $4\pi \approx 12$),
   see [Vol.~I \S5](/sun-tzu/i/5).
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary
