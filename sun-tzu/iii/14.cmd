@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S14"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S14
 * %date-created --> 2022-11-12
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -69,6 +70,7 @@ Chinese source text: \a[64], \b[161], \c[52256], \d[77]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有貸與人絲五十七斤、限歲出息一十六斤。問斤息幾何。
 \\
@@ -97,7 +99,7 @@ Chinese source text: \a[64], \b[161], \c[52256], \d[77]. <br>
   Dividing it by .[the] loaned silk fifty-seven catties,
   .[there be a] remainder; reducing it, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * \a[64] is missing .七 in .五十七斤.
 
 * \c[52256] erroneously has ⑤~`U+2464` after .除之.
@@ -117,6 +119,7 @@ Chinese source text: \a[64], \b[161], \c[52256], \d[77]. <br>
   The fraction $28/57$ is already irreducible,
   so the instruction .約之 "reduce it" is actually superfluous.
 ==
+@@@@
 
 
 %%surrounds
