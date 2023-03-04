@@ -109,8 +109,13 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 
 ###{#lit-not-math} Not mathematics
 
-==
+====
 - [.《論語》 <br> ".[The] Analects" (incomplete)]{.major}(/analects/)
+  ==
+  - [.〈學而〉 ".[To] Learn And"](/analects/1)
+  - [.〈為政〉 ".[He that] Governeth"](/analects/2)
+  - [.〈八佾〉 ".[With] Eight Dancer-Rows"](/analects/3)
+  ==
 
 - [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K'ang\-hee|康熙) Dictionary"]{.major}\
     (/lit/kangxi-preface)
@@ -125,7 +130,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
     (/lit/fox-tiger)
 - [.《施氏食獅史》 <br> ".[An] History of Mr~(Shih|施)'s Eating Lions"]\
     (/lit/lion-eating)
-==
+====
 
 
 ##{#code} Useful code
