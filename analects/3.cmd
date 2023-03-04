@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-02-19
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -67,12 +67,13 @@ but with olden-style punctuation. <br>
 Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 --
 
+@@@@
 <<
   〈八佾第三〉
 \\
   '.[With] Eight Dancer-Rows, .[the] Third'
 >>
-=={.translation-annotations}
+==
 * .八佾： .[with] eight dancer-rows
   --
   Each chapter of the Analects is named after its incipit
@@ -83,10 +84,12 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   are *not* part of the original text.
   --
 ==
+@@@@
 
 
 ### 1. Impropriety by unpermitted dancer count
 
+@@@@
 <<
   孔子謂季氏、八佾舞於庭、是可忍也、孰不可忍也。
 \\
@@ -94,7 +97,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[that], .[with] eight dancer-rows dancing in .[the] courtyard:
   .[if] this can .[be] tolerated, what cannot .[be] tolerated?
 >>
-=={.translation-annotations}
+==
 * .佾： dancer-rows
   --
   .佾、音逸、 \C yat9, \M y(i\)
@@ -131,16 +134,18 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   hence this was a violation of the rules of propriety (or rites).
   --
 ==
+@@@@
 
 
 ### 2. Impropriety by unpermitted music
 
+@@@@
 <<
   三家者以雍徹。
 \\
   .[The] Three Families removed .[after sacrifice] by .[the ode of] (Yung|雍).
 >>
-=={.translation-annotations}
+==
 * .三家： .[the] Three Families
   --
   The families (M(e^)ng\-sun|孟孫), (Shuk\-sun|叔孫), and (Kee\-sun|季孫),
@@ -167,16 +172,18 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[and the] Son of Heaven majestic:
   how take .[we this] unto .[the] halls of .[the] Three Families?
 >>
-=={.translation-annotations}
+==
 * .相： assisting; \or ministering
   --
   .相、去聲、 \C s(oe)ng3, \M xi(a\)ng
   --
 ==
+@@@@
 
 
 ### 3. Virtuous humanity necessary for propriety and music
 
+@@@@
 <<
   子曰、人而不仁、如禮何、人而不仁、如樂何。
 \\
@@ -184,16 +191,18 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[A] man .[being] not of .[virtuous] humanity, how .[then] of propriety?
   .[a] man .[being] not of .[virtuous] humanity, how .[then] of music?
 >>
+@@@@
 
 
 ### 4. On how rites ought to be conducted
 
+@@@@
 <<
   林放問禮之本。
 \\
   (Lim Fang|林放) asked of .[the] base of rites.
 >>
-=={.translation-annotations}
+==
 * .林放： (Lim Fang|林放)
   --
   A man of (Lu|魯).
@@ -210,13 +219,15 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   Rites, with them extravagant, rather .[them] frugal;
   funerals, with them .[being] of easiness, rather .[them] mournful.
 >>
-=={.translation-annotations}
+==
 * .問： question; \or asking
 ==
+@@@@
 
 
 ### 5. Confucian prejudice against the barbarians
 
+@@@@
 <<
   子曰、夷狄之有君、不如諸夏之亡也。
 \\
@@ -224,7 +235,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[The] Eastern-Barbarians' .[and the] Northern-Barbarians' having monarchs,
   .[is] not as all (Hia|夏)'s having .[them] not.
 >>
-======{.translation-annotations}
+======
 * .不如： not as
   --
   There are those who prefer to interpret~3.5
@@ -251,6 +262,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   - [《論語注疏》 "Analects annotations .[and] subcommentary"]\
     (https://ctext.org/library.pl?if=en&file=51124&page=108)
     supports the prejudicial reading:
+    @@
     <<
       注。包曰、諸夏、中國。亡、無也。
     \\
@@ -258,7 +270,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       (Pao|包) saith: all (Hia|夏), .[is] China.
       Having-not, .[meaneth] without.
     >>
-    =={.translation-annotations}
+    ==
     * .中國： China; \lit Central Nation
     * .亡： having-not
       --
@@ -266,6 +278,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       .亡 means (and is used for) .無 "having not".
       --
     ==
+
     <<
       疏。正義曰、此章言中國禮義之盛、而夷狄無也。\
       舉夷狄、則戎蠻可知。諸夏、中國也、亡、無也、\
@@ -311,7 +324,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       .[doth] speak of .[the] greatness of having propriety .[and] ceremony,
       .[and the] splendour of having literary composition.
     >>
-    =={.translation-annotations}
+    ==
     * .疏： subcommentary
       --
       .疏、去聲、 \C shor3 (\pm sor3), \M sh(u\) (\gr sh(u-))
@@ -323,9 +336,11 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       --
     * .華夏： (Hua\-hia|華夏); \lit Splendrous .[and] Great
     ==
+    @@
   - [《論語集注》 "Analects collected annotations"]\
     (https://ctext.org/library.pl?if=en&file=9698&page=44)
     supports the non-prejudicial reading:
+    @@
     <<
       吳氏曰、亡、古無字、通用。\
       程子曰、夷狄且有君長、不如諸夏之僭亂、反無上下之分也。\
@@ -346,15 +361,18 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       although .[all (Hia|夏)] had it,
       .[they] could not exhaust its way.
     >>
-    =={.translation-annotations}
+    ==
     * .分： dispute; \lit split
     ==
+    @@
   ====
 ======
+@@@@
 
 
 ### 6. Impropriety by unpermitted sacrificial expedition
 
+@@@@
 <<
   季氏旅於泰山。子謂冉有曰、女弗能救與。對曰、不能。
 \\
@@ -364,7 +382,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   Canst thou not save .[him]?
   .[And he] replied, saying, .[I] cannot.
 >>
-=={.translation-annotations}
+==
 * .冉有： (Rem Yiu|冉有)
   --
   [(Rem K'iu|冉求), styled (Tz(uu)\-yiu|子有), a disciple of Confucius.][冉求]
@@ -400,7 +418,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[And the] Master saith,
   Alas; ever spake .[we that] Mount~(T'ai|泰) .[is] not as (Lim Fang|林放)?
 >>
-=={.translation-annotations}
+==
 * .嗚呼： alas; \lit boo hoo
 
 * .林放： (Lim Fang|林放)
@@ -408,10 +426,12 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   (Lim Fang|林放), who asked a "great question" about rites in [%chapter.4](#4).
   --
 ==
+@@@@
 
 
 ### 7. Non-striving of the superior man
 
+@@@@
 <<
   子曰、君子無所爭、必也射乎。揖讓而升、下而飲、其爭也君子。
 \\
@@ -422,7 +442,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[and] giveth drink going down:
   his striving .[is yet] of the superior man.
 >>
-=={.translation-annotations}
+==
 * .射： archery; \lit shooting
 
 * .飲： giveth drink
@@ -430,6 +450,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .飲、去聲、 \C yam3, \M y(i\)n
   --
 ==
+@@@@
 
 
 ||{.marker}
