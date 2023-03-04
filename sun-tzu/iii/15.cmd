@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S15"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S15
 * %date-created --> 2022-11-12
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -63,6 +64,7 @@ Chinese source text: \a[66], \b[161], \c[52259], \d[78]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有三人共車、二車空、二人共車、九人步。問人與車各幾何。
 \\
@@ -71,7 +73,7 @@ Chinese source text: \a[66], \b[161], \c[52259], \d[78]. <br>
   .[but] two people together .[a] chariot, .[and] nine people afoot.
   .[We] ask, how many each .[be the] people and .[the] chariots?
 >>
-=={.translation-annotations}
+==
 * .步： afoot; \lit step
 
 * In modern notation, suppose there are $p$ people and $c$ chariots.
@@ -98,7 +100,7 @@ Chinese source text: \a[66], \b[161], \c[52259], \d[78]. <br>
   adding those afoot, .[even the] nine people,
   resulteth in chariots fifteen.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     c = 3 \times 2 + 9 = 15.
@@ -138,6 +140,7 @@ Chinese source text: \a[66], \b[161], \c[52259], \d[78]. <br>
 
 * \d[78] erroneously has .加九十 for .加九人.
 ==
+@@@@
 
 
 %%surrounds
