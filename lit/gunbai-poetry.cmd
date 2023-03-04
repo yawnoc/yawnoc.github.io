@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> %title
 * %title --> Poetry on a sumo umpire's fan
 * %date-created --> 2019-11-21
-* %date-modified --> 2023-03-xx
+* %date-modified --> 2023-03-04
 
 %%%
 

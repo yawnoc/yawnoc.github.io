@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S36"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S36
 * %date-created --> 2022-11-30
-* %date-modified --> 2023-03-xx
+* %date-modified --> 2023-03-04
 * %styles -->
     .lookup td {
       text-align: center;
