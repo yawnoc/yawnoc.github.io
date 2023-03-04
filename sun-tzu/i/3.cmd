@@ -74,7 +74,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   .[Of] that which measuring capacity beginneth from:
   beginneth .[it] from grain.
 >>
-=={.translation-annotations}
+==
 * .量： measuring of capacity
   --
   .量、平聲、 \C l(oe)ng4, \M li(a/)ng
@@ -108,7 +108,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   ten quarts make one peck; <br>
   ten pecks make one barrel.
 >>
-=={.translation-annotations}
+==
 * .圭： (jade-)tablet
   --
   .圭、古攜切、 \C kwai1, \M gu(i-)
@@ -234,7 +234,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   .[an] hundred myriad barrels, six soil grains; <br>
   .[a] thousand myriad barrels, six ditch grains;
 >>
-=={.translation-annotations}
+==
 * Here we first encounter named powers of ten starting from 10^8,
   which I have rendered literally.
 
@@ -278,7 +278,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   .[an] hundred square-myriad barrels,
     six carry grains.
 >>
-=={.translation-annotations}
+==
 * .澗： (mountain-)stream
 
 * .正： right
