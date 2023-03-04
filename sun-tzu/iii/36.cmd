@@ -9,18 +9,19 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S36"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S36
 * %date-created --> 2022-11-30
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 * %styles -->
-    td {
+    .lookup td {
       text-align: center;
     }
-    th {
+    .lookup th {
       background: none;
     }
     .female {
@@ -79,6 +80,7 @@ Chinese source text: \a[84], \b[164], \c[52323], \d[96]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有孕婦、::{.colour-v}行年二十九::、::{.colour-r}難九月::。未知所生。
 \\
@@ -87,7 +89,7 @@ Chinese source text: \a[84], \b[164], \c[52323], \d[96]. <br>
   .[with] ::{.colour-r} difficulty nine months::.
   Know .[we] not yet that .[she shall] bear?
 >>
-=={.translation-annotations}
+==
 * .行年： current years; \lit moving years
 
 * .難九月： difficulty nine months; \or difficulty .[in the] ninth month
@@ -118,7 +120,7 @@ Chinese source text: \a[84], \b[164], \c[52323], \d[96]. <br>
   add ::{.colour-r} .[the] months of difficulty::,
   .[and] subtract .[her] ::{.colour-v} current years::.
 >>
-=={.translation-annotations}
+==
 * .難月： months of difficulty; \or month of difficulty
 
 * For the given inputs, we get
@@ -142,7 +144,7 @@ Chinese source text: \a[84], \b[164], \c[52323], \d[96]. <br>
     .[the] Eight Winds remove eight,
     .[and the] Nine Provinces remove nine.
 >>
-=={.translation-annotations}
+==
 * We compute
   $$
     29 - 1 - 2 - 3 - 4 - 5 - 6 - 7 = 1,
@@ -156,10 +158,11 @@ Chinese source text: \a[84], \b[164], \c[52323], \d[96]. <br>
   .[The] remainder thereof,
   odd be .[it a] male, .[and] even be .[it a] female.
 >>
-=={.translation-annotations}
+==
 * Since the remainder $1$ is odd, it's a boy.
   Which is to be expected, for a text with patriarchal authorship.
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary
@@ -185,6 +188,7 @@ with olden-style punctuation added by me:
 --
 [ctext.org Library]: https://ctext.org/library.pl?if=en&file=91421&page=106
 
+@@@@
 <<
   〈孕推男女法〉
 \\
@@ -215,7 +219,7 @@ with olden-style punctuation added by me:
   ||
   ||||
 >>
-=={.translation-annotations}
+==
 * .孕月： months of pregnancy; \or month of pregnancy
   --
   This is even more ambiguous than the text in
@@ -232,7 +236,7 @@ with olden-style punctuation added by me:
   ::{.colour-r} eighth months being pregnant::.
   .[We] ask, .[is] that .[she shall] bear male .[or] female?
 >>
-===={.translation-annotations}
+====
 * .八月有孕：
     eighth months being pregnant;
     \or .[in the] eighth month become pregnant
@@ -265,7 +269,7 @@ with olden-style punctuation added by me:
   .[and] subtract .[her] ::{.colour-v} years twenty-eight::,
   remainder twenty-nine.
 >>
-=={.translation-annotations}
+==
 * .孕月： months of pregnancy; \or month of pregnancy
 ==
 
@@ -296,6 +300,7 @@ with olden-style punctuation added by me:
   If .[the] number .[be yet] more,
   furthermore with .[the] Eight Winds remove eight.
 >>
+@@@@
 
 
 ###{#table} Lookup table
@@ -366,7 +371,7 @@ Which is just as well, since median menopausal age is around fifty years.
 
 ||||||{.centred}
 ||||{.wide}
-''
+''{.lookup}
 //
   ;{r=2 .colour-v} Years
   ;{c=12 .colour-r} Month or Months

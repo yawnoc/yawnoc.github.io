@@ -17,10 +17,10 @@
 <script defer src="/resources/katex/katex.min.js" onload="renderMaths()"></script>
 <title>"Sun Tzŭ's Computational Classic: Volume III" 《孫子算經卷下》 §36 | Conway's site</title>
 <style>
-td {
+.lookup td {
 text-align: center;
 }
-th {
+.lookup th {
 background: none;
 }
 .female {
@@ -90,18 +90,22 @@ should conclude thus.
 Chinese source text: <a href="https://archive.org/details/02094034.cn/page/n84">Version A</a>, <a href="https://commons.wikimedia.org/w/index.php?title=File%3A文淵閣四庫全書_0797冊.djvu&amp;page=164">Version B</a>, <a href="https://ctext.org/sunzi-suan-jing#n52323">Version C</a>, <a href="https://ctext.org/library.pl?if=en&amp;file=86926&amp;page=96">Version D</a>.<br>
 Unless noted otherwise, I follow the text from Version D, <span lang="zh-Hant">《知不足齋叢書》本</span>.
 </p>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-今有孕婦、<span class="colour-v">行年二十九</span>、<span class="colour-r">難九月</span>。未知所生。
-</div>
-<div class="destination-text" lang="en">
-Suppose there be <span class="translator-supplied">[a]</span> pregnant woman,
+<table class="translation">
+<thead>
+<tr>
+<th>Source text</th>
+<th>Target text</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="source-text" lang="zh-Hant">今有孕婦、<span class="colour-v">行年二十九</span>、<span class="colour-r">難九月</span>。未知所生。</td>
+<td class="target-text" lang="en">Suppose there be <span class="translator-supplied">[a]</span> pregnant woman,
 <span class="translator-supplied">[her]</span> <span class="colour-v">current years twenty-nine</span>,
 <span class="translator-supplied">[with]</span> <span class="colour-r">difficulty nine months</span>.
-Know <span class="translator-supplied">[we]</span> not yet that <span class="translator-supplied">[she shall]</span> bear?
-</div>
-</div>
-<ul class="translation-annotations">
+Know <span class="translator-supplied">[we]</span> not yet that <span class="translator-supplied">[she shall]</span> bear?</td>
+<td class="notes"><ul>
 <li>
 <span lang="zh-Hant">行年：</span> current years; <span class="alternative-marker" title="literally">lit.</span> moving years
 </li>
@@ -125,27 +129,20 @@ an ordinal relative to the new year
 </li>
 </ol>
 </li>
-</ul>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-答曰、生男。
-</div>
-<div class="destination-text" lang="en">
-Answer saith: <span class="translator-supplied">[she shall]</span> bear <span class="translator-supplied">[a]</span> male.
-</div>
-</div>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-術曰、置四十九、加<span class="colour-r">難月</span>、減<span class="colour-v">行年</span>。
-</div>
-<div class="destination-text" lang="en">
-Method saith:
+</ul></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">答曰、生男。</td>
+<td class="target-text" lang="en">Answer saith: <span class="translator-supplied">[she shall]</span> bear <span class="translator-supplied">[a]</span> male.</td>
+<td class="notes"></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">術曰、置四十九、加<span class="colour-r">難月</span>、減<span class="colour-v">行年</span>。</td>
+<td class="target-text" lang="en">Method saith:
 put <span class="translator-supplied">[down]</span> forty-nine,
 add <span class="colour-r"><span class="translator-supplied">[the]</span> months of difficulty</span>,
-<span class="translator-supplied">[and]</span> subtract <span class="translator-supplied">[her]</span> <span class="colour-v">current years</span>.
-</div>
-</div>
-<ul class="translation-annotations">
+<span class="translator-supplied">[and]</span> subtract <span class="translator-supplied">[her]</span> <span class="colour-v">current years</span>.</td>
+<td class="notes"><ul>
 <li>
 <span lang="zh-Hant">難月：</span> months of difficulty; <span class="alternative-marker">or</span> month of difficulty
 </li>
@@ -154,13 +151,11 @@ For the given inputs, we get
 <div class="js-maths">49 + \colr{9} - \colv{29} = 29.
 </div>
 </li>
-</ul>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-所餘、以天除一、地除二、人除三、四時除四、五行除五、六律除六、七星除七、八風除八、九州除九。
-</div>
-<div class="destination-text" lang="en">
-<span class="translator-supplied">[Of]</span> that which remaineth:
+</ul></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">所餘、以天除一、地除二、人除三、四時除四、五行除五、六律除六、七星除七、八風除八、九州除九。</td>
+<td class="target-text" lang="en"><span class="translator-supplied">[Of]</span> that which remaineth:
 with Heaven remove one,
 Earth remove two,
 Man remove three,
@@ -169,32 +164,29 @@ Man remove three,
 <span class="translator-supplied">[the]</span> Six Pitches remove six,
 <span class="translator-supplied">[the]</span> Seven Stars remove seven,
 <span class="translator-supplied">[the]</span> Eight Winds remove eight,
-<span class="translator-supplied">[and the]</span> Nine Provinces remove nine.
-</div>
-</div>
-<ul class="translation-annotations">
+<span class="translator-supplied">[and the]</span> Nine Provinces remove nine.</td>
+<td class="notes"><ul>
 <li>
 We compute
 <div class="js-maths">29 - 1 - 2 - 3 - 4 - 5 - 6 - 7 = 1,
 </div>
 where we have stopped before <span class="js-maths">8</span> to avoid the result becoming non-positive.
 </li>
-</ul>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-其不盡者、奇則為男、耦則為女。
-</div>
-<div class="destination-text" lang="en">
-<span class="translator-supplied">[The]</span> remainder thereof,
-odd be <span class="translator-supplied">[it a]</span> male, <span class="translator-supplied">[and]</span> even be <span class="translator-supplied">[it a]</span> female.
-</div>
-</div>
-<ul class="translation-annotations">
+</ul></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">其不盡者、奇則為男、耦則為女。</td>
+<td class="target-text" lang="en"><span class="translator-supplied">[The]</span> remainder thereof,
+odd be <span class="translator-supplied">[it a]</span> male, <span class="translator-supplied">[and]</span> even be <span class="translator-supplied">[it a]</span> female.</td>
+<td class="notes"><ul>
 <li>
 Since the remainder <span class="js-maths">1</span> is odd, it's a boy.
 Which is to be expected, for a text with patriarchal authorship.
 </li>
-</ul>
+</ul></td>
+</tr>
+</tbody>
+</table>
 <h2 id="commentary"><a href="#commentary" class="permalink" aria-label="Permalink"></a>Extended commentary</h2>
 <h3 id="ambiguity"><a href="#ambiguity" class="permalink" aria-label="Permalink"></a>Ambiguity</h3>
 <p>
@@ -213,17 +205,22 @@ The following extract is from <span lang="zh-Hant">《古今圖書集成》</spa
 the Chinese text from <a href="https://ctext.org/library.pl?if=en&amp;file=91421&amp;page=106">ctext.org Library</a>,
 with olden-style punctuation added by me:
 </p>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-〈孕推男女法〉
-</div>
-<div class="destination-text" lang="en">
-'<span class="translator-supplied">[The]</span> Method of Pregnant Deduction of Male <span class="translator-supplied">[or]</span> Female'
-</div>
-</div>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-歌、
+<table class="translation">
+<thead>
+<tr>
+<th>Source text</th>
+<th>Target text</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="source-text" lang="zh-Hant">〈孕推男女法〉</td>
+<td class="target-text" lang="en">'<span class="translator-supplied">[The]</span> Method of Pregnant Deduction of Male <span class="translator-supplied">[or]</span> Female'</td>
+<td class="notes"></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">歌、
 <div class="centred">
 <div>
 四十九數加<span class="colour-r">孕月</span>、<br>
@@ -231,10 +228,8 @@ with olden-style punctuation added by me:
 一除至九多餘數、<br>
 逢雙是女隻生兒。
 </div>
-</div>
-</div>
-<div class="destination-text" lang="en">
-<span class="translator-supplied">[The]</span> song <span class="translator-supplied">[saith]</span>:
+</div></td>
+<td class="target-text" lang="en"><span class="translator-supplied">[The]</span> song <span class="translator-supplied">[saith]</span>:
 <div class="centred">
 <div>
 Forty-nine <span class="translator-supplied">[the]</span> number
@@ -245,10 +240,8 @@ One removed unto nine, <span class="translator-supplied">[the]</span> number of 
 Encountering <span class="translator-supplied">[a]</span> double is <span class="translator-supplied">[it]</span> a daughter,
 <span class="translator-supplied">[a]</span> single <span class="translator-supplied">[she]</span> beareth <span class="translator-supplied">[a]</span> son.
 </div>
-</div>
-</div>
-</div>
-<ul class="translation-annotations">
+</div></td>
+<td class="notes"><ul>
 <li>
 <span lang="zh-Hant">孕月：</span> months of pregnancy; <span class="alternative-marker">or</span> month of pregnancy
 <p>
@@ -257,19 +250,15 @@ This is even more ambiguous than the text in
 as "month of pregnancy" could arguably mean the month of conception.
 </p>
 </li>
-</ul>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-今有孕婦、<span class="colour-v">行年二十八歲</span>、<span class="colour-r">八月有孕</span>。問所生男女。
-</div>
-<div class="destination-text" lang="en">
-Suppose there be <span class="translator-supplied">[a]</span> pregnant woman,
+</ul></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">今有孕婦、<span class="colour-v">行年二十八歲</span>、<span class="colour-r">八月有孕</span>。問所生男女。</td>
+<td class="target-text" lang="en">Suppose there be <span class="translator-supplied">[a]</span> pregnant woman,
 <span class="translator-supplied">[her]</span> <span class="colour-v">current years twenty-eight years</span>,
 <span class="colour-r">eighth months being pregnant</span>.
-<span class="translator-supplied">[We]</span> ask, <span class="translator-supplied">[is]</span> that <span class="translator-supplied">[she shall]</span> bear male <span class="translator-supplied">[or]</span> female?
-</div>
-</div>
-<ul class="translation-annotations">
+<span class="translator-supplied">[We]</span> ask, <span class="translator-supplied">[is]</span> that <span class="translator-supplied">[she shall]</span> bear male <span class="translator-supplied">[or]</span> female?</td>
+<td class="notes"><ul>
 <li>
 <span lang="zh-Hant">八月有孕：</span>
 eighth months being pregnant;
@@ -290,39 +279,30 @@ has the connotation of <em>becoming</em> pregnant.
 </li>
 </ul>
 </li>
-</ul>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-答曰、生男。
-</div>
-<div class="destination-text" lang="en">
-Answer saith: <span class="translator-supplied">[she shall]</span> bear <span class="translator-supplied">[a]</span> male.
-</div>
-</div>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-法曰、置四十九、加<span class="colour-r">孕月八</span>、共五十七、減<span class="colour-v">年二十八</span>、餘二十九。
-</div>
-<div class="destination-text" lang="en">
-Method saith:
+</ul></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">答曰、生男。</td>
+<td class="target-text" lang="en">Answer saith: <span class="translator-supplied">[she shall]</span> bear <span class="translator-supplied">[a]</span> male.</td>
+<td class="notes"></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">法曰、置四十九、加<span class="colour-r">孕月八</span>、共五十七、減<span class="colour-v">年二十八</span>、餘二十九。</td>
+<td class="target-text" lang="en">Method saith:
 put <span class="translator-supplied">[down]</span> forty-nine,
 <span class="translator-supplied">[and]</span> add <span class="colour-r"><span class="translator-supplied">[the]</span> months of pregnancy eight</span>,
 altogether fifty-seven,
 <span class="translator-supplied">[and]</span> subtract <span class="translator-supplied">[her]</span> <span class="colour-v">years twenty-eight</span>,
-remainder twenty-nine.
-</div>
-</div>
-<ul class="translation-annotations">
+remainder twenty-nine.</td>
+<td class="notes"><ul>
 <li>
 <span lang="zh-Hant">孕月：</span> months of pregnancy; <span class="alternative-marker">or</span> month of pregnancy
 </li>
-</ul>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-減天除一、地除二、人除三、四時除四、五行除五、六律除六、七星除七、不盡、奇為男、偶為女也。
-</div>
-<div class="destination-text" lang="en">
-Subtracting Heaven removing one,
+</ul></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">減天除一、地除二、人除三、四時除四、五行除五、六律除六、七星除七、不盡、奇為男、偶為女也。</td>
+<td class="target-text" lang="en">Subtracting Heaven removing one,
 Earth removing two,
 Man removing three,
 <span class="translator-supplied">[the]</span> Four Seasons removing four,
@@ -330,27 +310,23 @@ Man removing three,
 <span class="translator-supplied">[the]</span> Six Pitches removing six,
 <span class="translator-supplied">[and the]</span> Seven Stars removing seven,
 <span class="translator-supplied">[there be a]</span> remainder:
-odd be <span class="translator-supplied">[it a]</span> male, <span class="translator-supplied">[and]</span> even be <span class="translator-supplied">[it a]</span> female.
-</div>
-</div>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-（一三五七九者、奇、二四六八十、皆偶。）
-</div>
-<div class="destination-text" lang="en">
-(One, three, five, seven, <span class="translator-supplied">[and]</span> nine, <span class="translator-supplied">[are]</span> odd;
-two, four, six, eight, <span class="translator-supplied">[and]</span> ten, all even.)
-</div>
-</div>
-<div class="translation parallel-text">
-<div class="source-text" lang="zh-Hant">
-如數多、再以八風除八。
-</div>
-<div class="destination-text" lang="en">
-If <span class="translator-supplied">[the]</span> number <span class="translator-supplied">[be yet]</span> more,
-furthermore with <span class="translator-supplied">[the]</span> Eight Winds remove eight.
-</div>
-</div>
+odd be <span class="translator-supplied">[it a]</span> male, <span class="translator-supplied">[and]</span> even be <span class="translator-supplied">[it a]</span> female.</td>
+<td class="notes"></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">（一三五七九者、奇、二四六八十、皆偶。）</td>
+<td class="target-text" lang="en">(One, three, five, seven, <span class="translator-supplied">[and]</span> nine, <span class="translator-supplied">[are]</span> odd;
+two, four, six, eight, <span class="translator-supplied">[and]</span> ten, all even.)</td>
+<td class="notes"></td>
+</tr>
+<tr>
+<td class="source-text" lang="zh-Hant">如數多、再以八風除八。</td>
+<td class="target-text" lang="en">If <span class="translator-supplied">[the]</span> number <span class="translator-supplied">[be yet]</span> more,
+furthermore with <span class="translator-supplied">[the]</span> Eight Winds remove eight.</td>
+<td class="notes"></td>
+</tr>
+</tbody>
+</table>
 <h3 id="table"><a href="#table" class="permalink" aria-label="Permalink"></a>Lookup table</h3>
 <p>
 Suppose for a moment
@@ -433,7 +409,7 @@ Which is just as well, since median menopausal age is around fifty years.
 </p>
 <div class="centred">
 <div class="wide">
-<table>
+<table class="lookup">
 <tr>
 <th rowspan="2" class="colour-v">Years</th>
 <th colspan="12" class="colour-r">Month or Months</th>
@@ -2113,7 +2089,7 @@ END of Volume III
 </nav>
 <h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
 <p>
-Conway (2022).
+Conway (2023).
 "Sun Tzŭ's Computational Classic: Volume III §36".
 &lt;<a href="https://yawnoc.github.io/sun-tzu/iii/36">https://yawnoc.github.io/sun-tzu/iii/36</a>&gt;
 Accessed <span class="js-date">yyyy-mm-dd</span>.
@@ -2122,13 +2098,13 @@ Accessed <span class="js-date">yyyy-mm-dd</span>.
 document.addEventListener("DOMContentLoaded", function() {renderDate()})
 </script>
 <footer>
-© 2022 Conway.
+© 2022–2023 Conway.
 <ul>
 <li>
 First created: 2022-11-30
 </li>
 <li>
-Last modified: 2022-12-06
+Last modified: 2023-03-xx
 </li>
 <li>
 Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/sun-tzu/iii/36.cmd"><code>sun-tzu/iii/36.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.5.0">CMDv4.5.0</a>
