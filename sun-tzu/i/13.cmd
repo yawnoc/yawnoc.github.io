@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S13"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S13
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,6 +62,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   九九八十一、自相乘、得幾何。 <br>
   答曰、六千五百六十一。
@@ -70,7 +71,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
   multiplied with itself, resulteth in how much? <br>
   Answer saith: six thousand, five hundred .[and] sixty-one.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \begin{aligned}
@@ -85,7 +86,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
 \\
   Method saith: put layered .[the] places.
 >>
-=={.translation-annotations}
+==
 * See [\S8](8).
 ==
 
@@ -111,7 +112,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
   Retreat .[the] lower places .[by] one rank, .[and]
   take back eighty .[the] upper place.
 >>
-=={.translation-annotations}
+==
 * \b[148] has .收上頭位 for .收上位.
 ==
 
@@ -138,9 +139,8 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
   .[the] middle places do result in
   six thousand, five hundred .[and] sixty-one.
 >>
-=={.translation-annotations}
+==
 * In animated form ([crappy source code here]):
-
   ||{.centred}
     ![Animation for Sun Tz(uu) multiplication: 81 multiplied by 81.]\
       (/sun-tzu/code/multiply-81-81.gif)
@@ -148,6 +148,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
 
   [crappy source code here]: /sun-tzu/code/animations
 ==
+@@@@
 
 
 %%surrounds
