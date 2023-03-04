@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S2"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S2
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,13 +62,14 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   稱之所起、起於黍。
 \\
   .[Of] that which measuring weight beginneth from:
   beginneth .[it] from millet.
 >>
-=={.translation-annotations}
+==
 * .稱： measuring weight; \or weighing
   --
   .稱、平聲、 \C ch'ing1 (\pm ts'ing1), \M ch(e-)ng <br>
@@ -101,7 +102,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. <br>
   thirty catties make one quarter; <br>
   four quarters make one stone.
 >>
-=={.translation-annotations}
+==
 * .絫： pile
   --
   .絫、魯水切、 \C l\_(u")5, \M l(ev)i
@@ -182,6 +183,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. <br>
 
   [imperial hundredweight]: https://en.wikipedia.org/wiki/Hundredweight
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary
