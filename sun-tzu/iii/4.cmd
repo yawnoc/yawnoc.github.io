@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S4"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S4
 * %date-created --> 2022-08-13
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[58], \b[159], \c[52226], \d[71]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有佛書、凡二十九章、章六十三字。問字幾何。
 \\
@@ -83,13 +85,14 @@ Chinese source text: \a[58], \b[159], \c[52226], \d[71]. <br>
   multiplying it by .[the] sixty-three characters,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     29 \unit{chapters} \times \frac{63 \unit{characters}}{\unit{chapter}}
     = 1827 \unit{characters}.
   $$
 ==
+@@@@
 
 
 %%surrounds
