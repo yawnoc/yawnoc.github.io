@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S18"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S18
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -63,6 +63,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   六六三十六、自相乘、得一千二百九十六。六人分之、人得二百一十六。
 \\
@@ -133,7 +134,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. <br>
   .[With] six people sharing it,
   .[each] person getteth two thousand, six hundred .[and] forty-six.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \begin{gathered}
@@ -143,6 +144,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. <br>
     \end{gathered}
   $$
 ==
+@@@@
 
 
 %%surrounds
