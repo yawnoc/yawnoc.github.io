@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S22"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S22
 * %date-created --> 2022-07-16
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -70,6 +71,7 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有築城、上廣二丈、下廣五丈四尺、高三丈八尺、長五千五百五十尺。
 \\
@@ -86,7 +88,7 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
   .[The] autumn quota .[for a] person's output .[is] three hundred rules.
   .[We] ask, how many .[people's] output .[be] needed?
 >>
-=={.translation-annotations}
+==
 * .三百尺： three hundred rules
   --
   In modern language these would be *cubic* rules.
@@ -125,7 +127,7 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
   Dividing it by .[the] autumn quota .[for a] person's output,
   three hundred rules, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation, the effort required to build a trapezoidal prism of
     upper breadth $A = 20 \unit{rules}$,
     lower breadth $B = 54 \unit{rules}$,
@@ -147,6 +149,7 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

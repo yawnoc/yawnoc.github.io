@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S3"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S3
 * %date-created --> 2022-08-07
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -80,6 +81,7 @@ Chinese source text: \a[58], \b[159], \c[52223], \d[70]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有平地聚粟、下周三丈六尺、高四尺五寸。問粟幾何。
 \\
@@ -123,7 +125,7 @@ Chinese source text: \a[58], \b[159], \c[52223], \d[70]. <br>
   one rule, six inches, .[and] two tenths,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * .斛法： .[the] barrel divisor
   --
   This is the conversion between the capacity unit "barrel",
@@ -151,6 +153,7 @@ Chinese source text: \a[58], \b[159], \c[52223], \d[70]. <br>
   Here $\pi \approx 3$ (so that $12\pi \approx 36$),
   see [Vol.~I \S5](/sun-tzu/i/5).
 ==
+@@@@
 
 
 %%surrounds

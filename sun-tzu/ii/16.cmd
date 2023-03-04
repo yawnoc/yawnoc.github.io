@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S16"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S16
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -71,6 +71,7 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有索長五千七百九十四步、欲使作方。問幾何。 <br>
   答曰、一千四百四十八步三尺。
@@ -100,7 +101,7 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
   Multiplying it by six, resulteth in one rod .[and] two rules.
   Dividing it by four, resulteth in three rules.
 >>
-=={.translation-annotations}
+==
 * .因： multiplying
   --
   As in times tables, .九因歌, ".[the] Song of Nine Multiples".
@@ -112,7 +113,7 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
 \\
   Calculating .[the] total, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * .通： total; \lit throughout
 
 * In modern notation, the side length of the square is
@@ -129,6 +130,7 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

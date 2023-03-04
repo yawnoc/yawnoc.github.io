@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S7"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S7
 * %date-created --> 2022-08-14
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[60], \b[160], \c[52235], \d[73]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有丁九萬八千七百六十六、凡二十五丁出一兵。問兵幾何。
 \\
@@ -86,7 +88,7 @@ Chinese source text: \a[60], \b[160], \c[52235], \d[73]. <br>
   .[and] use twenty-five as .[the] divisor.
   .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \frac{98766 \unit{males}}{25 \unit{males} / {\unit{soldier}}}
@@ -94,6 +96,7 @@ Chinese source text: \a[60], \b[160], \c[52235], \d[73]. <br>
       + \frac{16 \unit{males}}{25 \unit{males} / {\unit{soldier}}}.
   $$
 ==
+@@@@
 
 
 %%surrounds

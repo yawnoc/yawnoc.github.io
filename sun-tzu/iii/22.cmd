@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S22"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S22
 * %date-created --> 2022-11-20
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -72,6 +73,7 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有地、長一千步、廣五百步、尺有鶉、寸有鷃。問鶉鷃各幾何。
 \\
@@ -82,7 +84,7 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
   .[and each] inch having .[a] birdie.
   .[We] ask, how many each .[be the] quails .[and the] birdies?
 >>
-=={.translation-annotations}
+==
 * .鷃： birdie; \or quail
   --
   .鶉 and .鷃 are both types of quail;
@@ -97,7 +99,7 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
   .[the] quails one thousand eight hundred myriad,
   .[and the] birdies one square-myriad .[and] eight thousand myriad.
 >>
-=={.translation-annotations}
+==
 * **The number of birdies~(.鷃) is incorrect
   in all four versions of the source text,
   and I have faithfully reproduced this error here.**
@@ -117,7 +119,7 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
   multiplying it by .[the] breadth five hundred paces,
   resulteth in fifty myriad paces.
 >>
-=={.translation-annotations}
+==
 * In modern notation, the area of the land is
   $$
     \begin{aligned}
@@ -135,7 +137,7 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
   resulteth in one thousand eight hundred myriad rules,
   which is resulting in .[the] number of quails.
 >>
-=={.translation-annotations}
+==
 * Here, the text correctly performs a unit conversion
   between square paces and square rules:
   $$
@@ -158,7 +160,7 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
 \\
   Decupling it upward, doth result in .[the] number of birdies.
 >>
-=={.translation-annotations}
+==
 * Here, the text incorrectly uses a value of $10$
   for the ratio between birdie density and quail density.
   The correct ratio is $100$, because
@@ -171,6 +173,7 @@ Chinese source text: \a[70], \b[162], \c[52280], \d[83]. <br>
 
 * \c[52280] erroneously has .赉 for .鶉.
 ==
+@@@@
 
 
 %%surrounds

@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S2"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S2
 * %date-created --> 2022-08-07
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -60,6 +61,7 @@ Chinese source text: \a[58], \b[159], \c[52220], \d[70]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有丁一千五百萬、出兵四十萬。問幾丁科一兵。
 \\
@@ -82,7 +84,7 @@ Chinese source text: \a[58], \b[159], \c[52220], \d[70]. <br>
   .[and] use .[the] soldiers forty myriad as .[the] divisor.
   .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \frac{
@@ -93,6 +95,7 @@ Chinese source text: \a[58], \b[159], \c[52220], \d[70]. <br>
       = \frac{37.5 \unit{males}}{\unit{soldier}}.
   $$
 ==
+@@@@
 
 
 %%surrounds

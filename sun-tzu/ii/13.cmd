@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S13"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S13
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -70,6 +70,7 @@ Chinese source text: \a[34], \b[155], \c[52166], \d[48]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有圓田、周三百步、徑一百步。問得田幾何。
 \\
@@ -87,7 +88,7 @@ Chinese source text: \a[34], \b[155], \c[52166], \d[48]. <br>
 \\
   Answer saith: thirty-one acres remainder sixty paces.
 >>
-=={.translation-annotations}
+==
 * .奇： remainder
   --
   .奇、音羈、 \C kei1, \M j(i-)
@@ -130,7 +131,7 @@ Chinese source text: \a[34], \b[155], \c[52166], \d[48]. <br>
   .[the] circumference multiplied with itself, resulteth in nine myriad paces.
   Dividing it by twelve, resulteth in seven thousand five hundred paces.
 >>
-=={.translation-annotations}
+==
 * \b[155] has .又術曰 for .又術, both here and below.
 ==
 
@@ -155,7 +156,7 @@ Chinese source text: \a[34], \b[155], \c[52166], \d[48]. <br>
 \\
   Dividing it by .[the] acre divisor, resulteth in .[the] number of acres.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   a circle with circumference $C$ and diameter $d$ has area
   $$
@@ -165,6 +166,7 @@ Chinese source text: \a[34], \b[155], \c[52166], \d[48]. <br>
   $$
   Here $\pi \approx 3$, see [Vol.~I \S5](/sun-tzu/i/5).
 ==
+@@@@
 
 
 %%surrounds

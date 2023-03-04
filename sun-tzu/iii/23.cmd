@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S23"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S23
 * %date-created --> 2022-11-20
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -70,6 +71,7 @@ Chinese source text: \a[72], \b[162], \c[52283], \d[84]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有六萬口、上口三萬人、日食九升、中口二萬人、日食七升、下口一萬人、日食五升。
 \\
@@ -81,7 +83,7 @@ Chinese source text: \a[72], \b[162], \c[52283], \d[84]. <br>
   .[and a] lower population, one myriad people,
     .[each] day eating five quarts.
 >>
-=={.translation-annotations}
+==
 * 口： population; \lit mouths
 ==
 
@@ -110,7 +112,7 @@ Chinese source text: \a[72], \b[162], \c[52283], \d[84]. <br>
 \\
   .[Of] those which result, combining them, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \begin{aligned}
@@ -127,6 +129,7 @@ Chinese source text: \a[72], \b[162], \c[52283], \d[84]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S35"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S35
 * %date-created --> 2022-11-30
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -60,6 +61,7 @@ Chinese source text: \a[82], \b[164], \c[52320], \d[95]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有三女、長女五日一歸、中女四日一歸、少女三日一歸。問三女幾何日相會。
 \\
@@ -87,7 +89,7 @@ Chinese source text: \a[82], \b[164], \c[52320], \d[95]. <br>
   upon .[the] right,
   .[and for] each, rank one rod upon .[the] left.
 >>
-=={.translation-annotations}
+==
 * In modern notation, form the matrix
   $$
     \roundbr{
@@ -109,7 +111,7 @@ Chinese source text: \a[82], \b[164], \c[52320], \d[95]. <br>
   .[the] middle daughter fifteen arrivals,
   .[and the] younger daughter twenty arrivals.
 >>
-=={.translation-annotations}
+==
 * .維乘之： .[in] linkage multiplying them
   --
   This appears to mean taking each of the ones,
@@ -140,7 +142,7 @@ Chinese source text: \a[82], \b[164], \c[52320], \d[95]. <br>
   And each multiplying .[the] number of arrivals by .[the] days of return,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \roundbr{
@@ -164,6 +166,7 @@ Chinese source text: \a[82], \b[164], \c[52320], \d[95]. <br>
   which happens to coincide with the lowest common multiple
   when the three numbers are pairwise coprime.
 ==
+@@@@
 
 
 %%surrounds

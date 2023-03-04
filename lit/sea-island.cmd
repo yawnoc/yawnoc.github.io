@@ -17,10 +17,14 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the first problem in Haidao Suanjing, \
     《海島算經》, `The Sea Island Computational Classic`.
 * %date-created --> 2019-04-20
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #backslash-continuations
+
+RegexDictionaryReplacement: #.diagram-column-heading
+- queue_position: AFTER #.translation.tables
+* [<]th[\S]*[>]Source[ ]text[<][/]th[>] --> <th>Diagram</th>\n\g<0>
 
 %%%
 
@@ -125,13 +129,10 @@ Parentheticals are (half-column) inline annotations in the original text.
 
 ###{#problem} Problem
 
-||||{.group}
-
-  ||{.centred}
+@@@@
+  ,{.centred}
     ![Diagram representing a sea island and two posts of equal height.]\
       (sea-island-problem-diagram-1-suppose-there-be.svg)
-  ||
-
   <<
     今有望::{.colour-b}海島::、立::{.colour-r}兩表::、::{.colour-r}齊高三丈::、\
     前後::{.colour-g}相去千步::、令後表與前表參相直。
@@ -144,7 +145,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     .[and] make .[the] rear post and .[the] front post
     aligned .[the] three with each other.
   >>
-  =={.translation-annotations}
+  ==
   * .表： posts; \or pillars
 
   * .齊： equal; \or uniform
@@ -163,18 +164,11 @@ Parentheticals are (half-column) inline annotations in the original text.
   * .直： aligned; \lit straight
   ==
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![Diagram showing a backward walk from the front post, such that \
       the sea island's peak, the post's tip, and an eye at ground level \
       are collinear.]\
       (sea-island-problem-diagram-2-from-front-post.svg)
-  ||
-
   <<
     從前表::{.colour-b}卻行一百二十三步::、人目著地::{.colour-r}取望島峯::、與表末參合。
   \\
@@ -184,24 +178,17 @@ Parentheticals are (half-column) inline annotations in the original text.
     ::{.colour-r} taking .[a] looking at .[the] peak of .[the] island::,
     meet .[the] three with .[the] tip of .[the] post.
   >>
-  =={.translation-annotations}
+  ==
   * .著： upon; \lit contacting
 
   * .峯： peak; \or summit
   ==
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![Diagram showing a backward walk from the rear post, such that \
       the sea island's peak, the post's tip, and an eye at ground level \
       are collinear.]\
       (sea-island-problem-diagram-3-from-rear-post.svg)
-  ||
-
   <<
     從後表::{.colour-b}卻行一百二十七步::、人目着地::{.colour-r}取望島峯::、亦與表末參合。
   \\
@@ -212,17 +199,10 @@ Parentheticals are (half-column) inline annotations in the original text.
     meet .[the] three also with .[the] tip of .[the] post.
   >>
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![Diagram showing the sought-after quantities: \
       the sea island's height and the distance from front post.]\
       (sea-island-problem-diagram-4-ask-island-height.svg)
-  ||
-
   <<
     問::{.colour-b}島高::及::{.colour-r}去表::各幾何。
   \\
@@ -230,7 +210,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     and .[the] ::{.colour-r} separation from .[the] post::?
   >>
 
-
+  ,{.centred}
   <<
     答曰、島高::{.colour-b}四里五十五步::、去表::{.colour-r}一百二里一百五十步::。
   \\
@@ -239,7 +219,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     .[and the] separation from .[the] post,
     ::{.colour-r} one hundred .[and] two miles .[and] one hundred .[and] fifty paces::.
   >>
-  ===={.translation-annotations}
+  ====
   * .里： miles
     --
     A [unit of distance](https://en.wikipedia.org/wiki/Li_\(unit\)),
@@ -252,7 +232,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     The square-bracketed .[and] is supplied,
     which is noteworthy because:
     --
-    =={.translation-annotations}
+    ==
     * In modern Chinese, you must say .一百零二,
       "one hundred oh two", to mean~102.
       If you just say .一百二 or .百二, it means~120;
@@ -265,9 +245,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     ==
   ====
 
-||||
-
-
+  ,{.centred}
 <<
   術曰、\
   以::{.colour-r}表高::乘::{.colour-g}表間::爲實、::{.colour-b}相多::爲法、除之。\
@@ -281,7 +259,7 @@ Parentheticals are (half-column) inline annotations in the original text.
   That which resulteth added to .[the] ::{.colour-r} posts' height::,
   doth result in .[the] island's height.
 >>
-=={.translation-annotations}
+==
 * .間： separation
   --
   .間、去聲、 \C kaan3, \M ji(a\)n
@@ -332,6 +310,7 @@ Parentheticals are (half-column) inline annotations in the original text.
   $$
 ==
 
+  ,{.centred}
 <<
   求前表去島遠近者、\
   以::{.colour-r}前表卻行::乘::{.colour-g}表間::爲實、::{.colour-b}相多::爲法、\
@@ -346,7 +325,7 @@ Parentheticals are (half-column) inline annotations in the original text.
   Dividing them, resulteth in .[the] number of miles
   .[that the] island .[is] separated from .[the] post.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \text{島去表} =
@@ -379,6 +358,7 @@ Parentheticals are (half-column) inline annotations in the original text.
     \end{aligned}
   $$
 ==
+@@@@
 
 
 ###{#derivation} Derivation
@@ -431,15 +411,12 @@ I have mapped the names of the vertices as follows:
 ||||
 
 
-||||{.group}
-
-  ||{.centred}
+@@@@
+  ,{.centred}
     ![Creating the diagram from scratch: \
       draw a vertical segment AB representing the sea island, \
       and draw an horizontal line out from B representing ground level.]\
       (sea-island-derivation-diagram-1-ab.svg)
-  ||
-
   <<
     說曰、::{.colour-b}甲乙爲海島::、::{.colour-r}甲爲島峯::。
   \\
@@ -448,17 +425,10 @@ I have mapped the names of the vertices as follows:
     ::{.colour-r} $A$ is .[the] peak of .[the] island::.
   >>
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![Draw a segment CD representing the front post (with D at ground level), \
       then extend AC until it hits ground level at E.]\
       (sea-island-derivation-diagram-2-cd.svg)
-  ||
-
   <<
     ::{.colour-b}丙丁爲前表::、::{.colour-r}戊丁爲前去表::、\
     ::{.colour-g}戊爲人目::、::{.colour-v}戊丙甲爲前表望島峯::。
@@ -470,17 +440,10 @@ I have mapped the names of the vertices as follows:
     looking at .[the] peak of .[the] island::.
   >>
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![Draw a segment FG representing the rear post (with G at ground level), \
       then extend AF until it hits ground level at H.]\
       (sea-island-derivation-diagram-3-fg.svg)
-  ||
-
   <<
     ::{.colour-b}己庚爲後表::、::{.colour-r}辛庚爲後去表::、\
     ::{.colour-g}辛爲人目::、::{.colour-v}辛己甲爲後表望島峯::。
@@ -492,16 +455,9 @@ I have mapped the names of the vertices as follows:
     .[the] peak of .[the] island::.
   >>
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![Extend FC to meet AB at O.]\
       (sea-island-derivation-diagram-4-with-gedb.svg)
-  ||
-
   <<
     與::{.colour-b}庚戊丁乙::平行::{.colour-r}作己丙辰::、\
     則::{.colour-g}辰乙與丙丁己庚俱等::。
@@ -509,20 +465,13 @@ I have mapped the names of the vertices as follows:
     ::{.colour-r} Constructing $FCO$:: parallel with ::{.colour-b} $GEDB$::,
     ::{.colour-g} $OB$ .[is] equal with both $CD$ .[and] $FG$::.
   >>
-  =={.translation-annotations}
+  ==
   * .俱： both; \lit all
   ==
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![Construct FI such that it has the same magnitude and direction as CE.]\
       (sea-island-derivation-diagram-5-with-ce.svg)
-  ||
-
   <<
     與::{.colour-b}丙戊::平行::{.colour-r}作己壬::、則::{.colour-g}壬庚與戊丁等::。
   \\
@@ -530,34 +479,20 @@ I have mapped the names of the vertices as follows:
     ::{.colour-g} $IG$ .[is] equal with $ED$::.
   >>
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![](sea-island-derivation-diagram-6-fgh-shape-with.svg)
-  ||
-
   <<
     ::{.colour-b}己庚辛形::、與::{.colour-r}甲辰己形::同式。
   \\
     ::{.colour-b} .[The] shape $FGH$::, .[is] similar with
     ::{.colour-r} .[the] shape $AOF$::.
   >>
-  =={.translation-annotations}
+  ==
   * .同式： similar; \lit same form
   ==
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![](sea-island-derivation-diagram-7-fgi-shape-with.svg)
-  ||
-
   <<
     ::{.colour-b}己庚壬形::、與::{.colour-r}甲辰丙形::同式。
   \\
@@ -565,15 +500,8 @@ I have mapped the names of the vertices as follows:
     ::{.colour-r} .[the] shape $AOC$::.
   >>
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![](sea-island-derivation-diagram-8-fgh-shape-split.svg)
-  ||
-
   <<
     己庚辛形、分::{.colour-b}己庚壬形、同己庚句::、而::{.colour-r}辛壬爲股較::。
   \\
@@ -581,7 +509,7 @@ I have mapped the names of the vertices as follows:
     of same minor-cathetus $FG$::,
     with ::{.colour-r} $HI$ being .[the] major-cathetus chariot-beam::.
   >>
-  =={.translation-annotations}
+  ==
   * .句： minor-cathetus
     --
     (Variant of .勾.) The shorter leg of a right-angled triangle.
@@ -610,15 +538,8 @@ I have mapped the names of the vertices as follows:
     [較]: https://ctext.org/kangxi-zidian/159/6#n352070
   ==
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![](sea-island-derivation-diagram-9-aof-shape-split.svg)
-  ||
-
   <<
     甲辰己形、分::{.colour-b}甲辰丙形、同甲辰句::、而::{.colour-r}己丙爲股較::。
   \\
@@ -627,15 +548,8 @@ I have mapped the names of the vertices as follows:
     with ::{.colour-r} $FC$ being .[the] major-cathetus chariot-beam::.
   >>
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![](sea-island-derivation-diagram-10-using-small.svg)
-  ||
-
   <<
     以::{.colour-b}小股較辛壬::比::{.colour-r}小句己庚::、\
     若::{.colour-g}大股較己丙::比::{.colour-v}大句甲辰::。
@@ -645,7 +559,7 @@ I have mapped the names of the vertices as follows:
     .[is] as ::{.colour-g} .[the] great major-cathetus chariot-beam $FC$::
     compared unto ::{.colour-v} .[the] great minor-cathetus $AO$::.
   >>
-  =={.translation-annotations}
+  ==
   * In modern notation,
     $$
       \begin{aligned}
@@ -656,15 +570,8 @@ I have mapped the names of the vertices as follows:
     $$
   ==
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![](sea-island-derivation-diagram-11-having-obtained.svg)
-  ||
-
   <<
     既得::{.colour-v}甲辰::、加::{.colour-r}表高辰乙::（即::{.colour-r}丙丁::）、\
     得甲乙、爲島高。
@@ -673,7 +580,7 @@ I have mapped the names of the vertices as follows:
     add ::{.colour-r} .[the] post height $OB$:: (which is ::{.colour-r} $CD$::),
     .[to] get $AB$, .[which] be .[the] height of .[the] island.
   >>
-  =={.translation-annotations}
+  ==
   * In modern notation,
     $$
       \begin{aligned}
@@ -706,15 +613,8 @@ I have mapped the names of the vertices as follows:
     $$
   ==
 
-||||
-
-
-||||{.group}
-
-  ||{.centred}
+  ,{.centred}
     ![](sea-island-derivation-diagram-12-small-major-cathetus.svg)
-  ||
-
   <<
     ::{.colour-b}小股較辛壬::比::{.colour-r}分股壬庚::、\
     若::{.colour-g}大股較己丙::比::{.colour-v}分股丙辰::（即::{.colour-v}丁乙::）、\
@@ -730,7 +630,7 @@ I have mapped the names of the vertices as follows:
     ::{.colour-v} .[the] distance .[that the] island .[is] separated
     from .[the] front post::.
   >>
-  =={.translation-annotations}
+  ==
   * In modern notation,
     $$
       \begin{aligned}
@@ -756,8 +656,7 @@ I have mapped the names of the vertices as follows:
       \end{aligned}
     $$
   ==
-
-||||
+@@@@
 
 
 ##{#see-also} See also

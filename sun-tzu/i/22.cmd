@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S22"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S22
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -63,6 +63,7 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   二二如四、自相乘、得一十六。二人分之、人得八。
 \\
@@ -92,7 +93,7 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. <br>
   .[With] two people sharing it,
   .[each] person getteth eighteen.
 >>
-=={.translation-annotations}
+==
 * \b[151] has .人得一十八 for .人得十八.
 
 * In modern notation:
@@ -104,6 +105,7 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. <br>
     \end{gathered}
   $$
 ==
+@@@@
 
 
 %%surrounds

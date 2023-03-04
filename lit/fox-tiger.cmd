@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An English translation of the original text for 《狐假虎威》, \
     `[The] Fox Feigneth [the] Tiger's Authority`.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -61,14 +61,16 @@ See also:
 
 ##{#translation} Translation
 
+@@@@
 <<
   《狐假虎威》
 \\
   ".[The] Fox Feigneth .[the] Tiger's Authority"
 >>
-=={.translation-annotations}
+==
 * .威： authority; \lit might
 ==
+@@@@
 
 --
 The Chinese source text below is from Chinese Text Project,
@@ -78,6 +80,7 @@ but with olden-style punctuation:
 
 [source]: https://ctext.org/zhan-guo-ce/jing-xuan-wang-wen-qun-chen
 
+@@@@
 <<
   荊宣王問群臣曰、吾聞北方之畏昭奚恤也、果誠何如。
 \\
@@ -86,7 +89,7 @@ but with olden-style punctuation:
     I hear of .[the] North's fear of (Chao Hee\-s(u")t|昭奚恤);
     if .[it be] true, what of .[it]?
 >>
-=={.translation-annotations}
+==
 * .荊： (King|荊)
   --
   Another name for the state of~(Ch'u|楚) (.楚).
@@ -113,7 +116,7 @@ but with olden-style punctuation:
     .[A] tiger sought .[the] hundred beasts .[to] then eat them,
     .[and] gat .[a] fox.
 >>
-=={.translation-annotations}
+==
 * .江一： (Kiang Yit|江一)
   --
   A minister of King~(S(u")an|宣) of~(King|荊).
@@ -125,13 +128,13 @@ but with olden-style punctuation:
 <<
   狐曰、子無敢食我也、天帝使我長百獸、今子食我、是逆天帝命也。
 \\
-  .[The] fox said,
+  .[And the] fox said,
     Thou darest not eat me.
     .[The] Emperor of Heaven .[hath] made me be leader over .[the] hundred beasts;
     shouldst thou eat me,
     this .[shall] defy .[the] will of .[the] Emperor of Heaven.
 >>
-=={.translation-annotations}
+==
 * .子： thou; \lit master
 
 * .長： be leader over
@@ -175,7 +178,7 @@ but with olden-style punctuation:
   .[with] armour-donning .[soldiers a] million,
   and exclusively subordinate .[are] they unto (Chao Hee\-s(u")t|昭奚恤);
 >>
-=={.translation-annotations}
+==
 * .地： territory; \lit land
 
 * .方： circumference
@@ -196,6 +199,7 @@ but with olden-style punctuation:
   it .[is] actually fear of King's armoured troops,
   like .[the] hundred beasts' fear of .[the] tiger.
 >>
+@@@@
 
 
 %%cite

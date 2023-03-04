@@ -99,6 +99,11 @@ h2 {
 }
 
 
+h3 {
+  margin-top: 1.5em;
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
 }
@@ -165,7 +170,7 @@ footer > p {
   margin-top: 0.3em;
   padding-top: 0.7em;
 }
-.translation-annotations > li > p {
+.notes p {
   margin: 0.3em 0;
 }
 
@@ -181,6 +186,30 @@ table {
   border-spacing: 0;
   border-collapse: collapse;
 }
+table.translation {
+  display: block;
+  margin: 0.5em;
+}
+
+
+.translation > tbody {
+  display: block;
+}
+
+
+.translation > tbody > tr > td {
+  border: none;
+  display: block;
+  padding: 0;
+}
+.translation > tbody > tr > td.source-text,
+.translation > tbody > tr > td.target-text {
+  border: 2px solid black;
+  padding: 0.4em 0.6em;
+}
+.translation > tbody > tr > td.target-text {
+  border-top: none;
+}
 
 
 th {
@@ -194,6 +223,20 @@ th, td {
 }
 
 
+.translation > thead {
+  display: none;
+}
+
+
+.translation > tbody > tr {
+  display: block;
+  margin: 2rem 0;
+}
+.translation > tbody > tr:first-child, .translation > tbody > tr:last-child {
+  margin: 1rem 0;
+}
+
+
 ul {
   padding-left: 2em;
 }
@@ -202,6 +245,9 @@ li > ul {
 }
 footer > ul {
   margin: 0.4em 0;
+}
+.notes .notes ul {
+  margin-top: 0.5em;
 }
 
 
@@ -224,6 +270,10 @@ ul > li.breadcrumbed {
   display: flex;
   justify-content: center;
   margin: 1em 0;
+}
+td.centred {
+  margin: 0.3em 0;
+  text-align: center;
 }
 .source-text > .centred, .destination-text > .centred {
   margin: 0.3em 0;
@@ -254,15 +304,6 @@ ul > li.breadcrumbed {
 }
 
 
-.group {
-  margin: 2em 0;
-}
-
-.group + .group {
-  margin-top: 3em;
-}
-
-
 .end {
   clear: both;
   font-size: x-large;
@@ -270,33 +311,11 @@ ul > li.breadcrumbed {
 }
 
 
-.example, .important, .parallel-text {
+.example, .important {
   border: 2px solid black;
   font-size: large;
   margin: 0.7em;
   padding: 0.4em 0.5em;
-}
-
-
-.lexicon-character {
-  background: #ffffec;
-  border: 2px solid black;
-  font-size: 1.17em;
-  font-weight: normal;
-  padding: 0.13em 0.2em;
-  vertical-align: middle;
-}
-
-.lexicon-tone {
-  background: #222;
-  color: white;
-  font-weight: normal;
-  padding: 0.13em 0.2em;
-}
-
-.lexicon-tone-heading {
-  font-size: 1em;
-  margin-bottom: 0;
 }
 
 
@@ -382,6 +401,28 @@ div.js-maths {
 }
 
 
+.lexicon-character {
+  background: #ffffec;
+  border: 2px solid black;
+  font-size: 1.17em;
+  font-weight: normal;
+  padding: 0.13em 0.2em;
+  vertical-align: middle;
+}
+
+.lexicon-tone {
+  background: #222;
+  color: white;
+  font-weight: normal;
+  padding: 0.13em 0.2em;
+}
+
+.lexicon-tone-heading {
+  font-size: 1em;
+  margin-bottom: 0;
+}
+
+
 .marker {
   text-align: center;
 }
@@ -389,11 +430,6 @@ div.js-maths {
 
 .noscript {
   color: crimson;
-}
-
-
-.translation-annotations .parallel-text {
-  font-size: medium;
 }
 
 
@@ -434,6 +470,14 @@ header .sideways {
   flex-wrap: nowrap;
   overflow: auto;
   white-space: nowrap;
+}
+
+
+.source-text, .target-text {
+  font-size: large;
+}
+.notes .source-text, .notes .target-text {
+  font-size: medium;
 }
 
 

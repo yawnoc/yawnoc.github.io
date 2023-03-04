@@ -1,23 +1,39 @@
-RegexDictionaryReplacement: #.translation.partition-parallel-text
+RegexDictionaryReplacement: #.translation.syntax-conversion
 * \A -->
-    <div class="source-text" lang="zh-Hant">\n
-* ^ [^\S\n]* \\{2} $ -->
-    </div>
-    <div class="destination-text" lang="en">
-* \Z -->
-    </div>\n
+    |^
+      //
+        ; Source text
+        ; Target text
+        ; Notes
+    |:
+      \n\n
+* ^ [\n]+ (?! [\s]* (?: [*] | [-] | \[ | [<]div | \Z) ) --> // \n
+* ^ [^\S\n]* << --> ,{.source-text l=zh-Hant}
+* ^ [^\S\n]* \\\\ --> ,{.target-text l=en}
+* ^ [^\S\n]* >> --> ,{.notes}
 
 
-FixedDelimitersReplacement: #.translation.parallel-text
-- queue_position: BEFORE #divisions
+RegexDictionaryReplacement: #.translation.collapse-newlines
+* [\n]+ --> \n
+
+
+ExtensibleFenceReplacement: #.translation.tables
+- queue_position: BEFORE #unordered-lists
 - syntax_type: BLOCK
-- opening_delimiter: <<
-- attribute_specifications: .translation .parallel-text
+- extensible_delimiter: @@
+- attribute_specifications: .translation
 - content_replacements:
-    #.translation.partition-parallel-text
+    #tables
+    #.translation.tables
+    #.translation.syntax-conversion
+    #unordered-lists
+    #reference-definitions
+    #table-head
+    #table-body
+    #table-rows
+    #.translation.collapse-newlines
     #prepend-newline
-- closing_delimiter: >>
-- tag_name: div
+- tag_name: table
 
 
 RegexDictionaryReplacement: #.translation.square-bracket-wrap

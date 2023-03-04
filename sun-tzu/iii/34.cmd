@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S34"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S34
 * %date-created --> 2022-11-27
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -60,6 +61,7 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有出門望見九隄、隄有九木、木有九枝、枝有九巢、巢有九禽、禽有九雛、雛有九毛、毛有九色。
 \\
@@ -104,7 +106,7 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
       four thousand, three hundred .[and] four myriad,
       six thousand, seven hundred .[and] twenty-one.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \begin{aligned}
@@ -155,7 +157,7 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
 \\
   Again multiplying it by nine, resulteth in .[the] number of feathers.
 >>
-=={.translation-annotations}
+==
 * \c[52317] erroneously has .敷 for .數.
 ==
 
@@ -164,6 +166,7 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
 \\
   Again multiplying it by nine, resulteth in .[the] number of colours.
 >>
+@@@@
 
 
 %%surrounds

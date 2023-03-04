@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S9"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S9
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -64,6 +64,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   凡除之法、與乘正異。 <br>
   乘得在中央、除得在上方。
@@ -72,7 +73,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   .[The] result of multiplication .[is put] in .[the] centre;
   .[the] result of division, in .[the] above.
 >>
-=={.translation-annotations}
+==
 * .異： opposite; \lit different
 ==
 
@@ -82,7 +83,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   Suppose that six be .[the] divisor,
   .[and an] hundred be .[the] dividend.
 >>
-=={.translation-annotations}
+==
 * .實 and .法 are jargon terms for dividend and divisor:
   $$
     \frac{\text{實}}{\text{法}} = \frac{\textq{dividend}}{\textq{divisor}}.
@@ -101,7 +102,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   .[it] cannot divide;
   therefore .[we] ought to retreat .[and] assume .[the] tens place.
 >>
-=={.translation-annotations}
+==
 * .在正： be directly
   --
   Like Cantonese .喺正, hai2 cheng3.
@@ -124,14 +125,12 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   until [\S14](14).
   Since it would be instructive to see the full algorithm,
   I provide an animation here ([crappy source code here]):
-
   ||{.centred}
     ![Animation for Sun Tz(uu) division: 100 divided by 6.]\
       (/sun-tzu/code/divide-100-6.gif)
   ||
-
-  [crappy source code here]: /sun-tzu/code/animations
 ==
+  [crappy source code here]: /sun-tzu/code/animations
 
 <<
   以法除實、言一六而折百為四十、故可除。
@@ -140,7 +139,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   one six .[is six] and reduceth .[the] hundred .[to] become forty;
   therefore .[it] can divide.
 >>
-=={.translation-annotations}
+==
 * \c[52065] erroneously has .四十七 for .四十.
 ==
 
@@ -151,7 +150,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   .[we] naturally ought to centuple it,
   .[and] ought not to retreat back.
 >>
-=={.translation-annotations}
+==
 * In other words, if a three-digit number is being divided
   by six and the first digit is greater than six,
   then keep the six advanced to the hundreds;
@@ -174,7 +173,7 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   (.[Should the] upper places have .[an] empty severing one,
   .[the] divisor .[is] retreated two places.)
 >>
-=={.translation-annotations}
+==
 * This line I have bracketed for it is an inline annotation
   by (Lee Ch'un\-f(e^)ng|李淳風) and others,
   written in two columns of smaller characters which take up
@@ -200,13 +199,14 @@ Chinese source text: \a[8], \b[147], \c[52065], \d[15]. <br>
   use .[the] divisor as .[the] denominator,
   .[and the] dividend remainder as .[the] numerator.
 >>
-=={.translation-annotations}
+==
 * .命： name
 
 * In other words, if you get a remainder $r$ after dividing by $d$,
   "name $r$ .[for a fraction] using $d$",
   i.e.~form the fraction $r/d$.
 ==
+@@@@
 
 
 %%surrounds

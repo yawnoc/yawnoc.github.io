@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S11"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S11
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +61,7 @@ Chinese source text: \a[8], \b[148], \c[52067], \d[16]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   十分減一者、以二乘、二十除。 <br>
   減二者、以四乘、二十除。 <br>
@@ -91,7 +92,7 @@ Chinese source text: \a[8], \b[148], \c[52067], \d[16]. <br>
   subtracting nine:
     multiply by eighteen, .[and] divide .[by] twenty.
 >>
-=={.translation-annotations}
+==
 * .分： shares
   --
   In Chinese, the fraction $a/b$ is referred to
@@ -112,6 +113,7 @@ Chinese source text: \a[8], \b[148], \c[52067], \d[16]. <br>
   and why it is phrased in terms of subtraction.
   Ditto for the [next section (\S12)](12).
 ==
+@@@@
 
 
 %%surrounds

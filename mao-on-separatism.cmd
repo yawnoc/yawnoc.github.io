@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     of dividing China into 27 separate countries, \
     including the Republic of Hunan (湖南共和國).
 * %date-created --> 2019-09-24
-* %date-modified --> 2022-12-16
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #backslash-continuations
@@ -110,15 +110,16 @@ And who now forbids any mention of self-determination or independence?
 ##{#translation} Translation
 
 --
-The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
+The [:highlighting:] is mine, but remember, the words are (Mao|毛)'s:
 --
 
+@@@@
 <<
   長沙《大公報》一九二零年九月三日
 \\
   ''(Ta Kung Pao|大公報)'', (Changsha|長沙), 3~September~1920
 >>
-=={.translation-annotations}
+==
 * (Changsha|長沙) is the capital of (Hunan|湖南) province.
 ==
 
@@ -135,7 +136,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   .[My] hometown residence .[has been] quiet;
   one rest of twenty days.
 >>
-=={.translation-annotations}
+==
 * .兼旬： \lit double ten-days
 ==
 
@@ -150,7 +151,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   bringing me joyousness,
   .[and I am] very willing to continue to write out some of my opinions.
 >>
-=={.translation-annotations}
+==
 * Here I have followed Version~2 with .繼續,
   whereas Version~1 has .繼着.
 ==
@@ -178,7 +179,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   expands imperialism,
   .[and] oppresses .[the] weaker peoples of .[one's] own nation;
 >>
-=={.translation-annotations}
+==
 * .流： spreading; \lit flowing
 ==
 
@@ -233,7 +234,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   commoners killed .[and] raped to death by others every day; .[and]
   wealth spent to depletion, .[and] foreign debt as .[entangled] hemp-fibre.
 >>
-=={.translation-annotations}
+==
 * .如麻： as .[entangled] hemp-fibre
   --
   As in .亂麻. Version~2 has .如山, "as .[a] mountain".
@@ -268,7 +269,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   .[we] cannot drive 'foreign ships',
   .[and we] cannot manage table salt.
 >>
-=={.translation-annotations}
+==
 * .食鹽： table salt; \lit eating salt
 ==
 
@@ -321,7 +322,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   Russia's flag .[has] become Red;
   .[it] completely is .[a] cosmopolitanist commoner's world.
 >>
-=={.translation-annotations}
+==
 * .天下： world; \lit .[all] under heaven
 ==
 
@@ -355,7 +356,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   .[In the] whole world, .[the] wind stirs .[and the] clouds surge;
   [:'people's self-determination' .[is] sung loud into .[the] clouds:].
 >>
-=={.translation-annotations}
+==
 * .高： loud; \lit high
 ==
 
@@ -365,7 +366,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   [:Smash .[the] illusion of the Great Nation:
   know .[that it] is the ambitionist's lie .[for] deceiving others.:]
 >>
-=={.translation-annotations}
+==
 * .野心家： ambitionist
   --
   Ambition with the most negative of connotations.
@@ -399,7 +400,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   in one term,
   .[is] completely without hope.
 >>
-=={.translation-annotations}
+==
 * .期： term; \or period
 ==
 
@@ -447,7 +448,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   .[to] seek to join hands with .[the] liberated peoples of .[the] whole world:
   all .[ways which are] not thus, .[will] not work.
 >>
-=={.translation-annotations}
+==
 * .攜手： join hands; \lit take .[the] hands
 ==
 
@@ -474,7 +475,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   .[so I] request .[the] clear audience of my thirty million fellow citizens,
   .[and] hope to discuss together this big issue of utmost interest.
 >>
-=={.translation-annotations}
+==
 * .同胞： fellow citizens
   --
   Normally "compatriots", but here Mao refers only to
@@ -488,6 +489,7 @@ The [:highlighting:] is mine, but remember, all words are (Mao|毛)'s:
   Today is .[a] beginning;
   .[the] remainder awaits continued discussion tomorrow .[and] thereafter.
 >>
+@@@@
 
 
 %%cite

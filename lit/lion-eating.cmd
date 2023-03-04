@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     《施氏食獅史》, `shi shi shi shi shi`, or \
     `[An] History of Mr Shih's Eating Lions`.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-06-07
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -54,12 +54,13 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
 
 [《語言問題》]: https://books.google.com.au/books?id=AQs2KCQharAC&pg=PA143&dq=語言問題%20施氏食獅史&q=語言問題%20施氏食獅史
 
+@@@@
 <<
   《施氏食獅史》
 \\
   ".[An] History of Mr~(Shih|施)'s Eating Lions"
 >>
-=={.translation-annotations}
+==
 * .施氏： Mr~(Shih|施); \lit surname (Shih|施)
 ==
 
@@ -69,7 +70,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
   .[The] poet Mr~(Shih|施) of .[a] stone house,
   liked lions, .[and] sware to eat ten lions.
 >>
-=={.translation-annotations}
+==
 * .石： stone; \or rock
 ==
 
@@ -78,7 +79,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
 \\
   Mr~.[(Shih|施)] constantly went unto market .[to] view lions.
 >>
-=={.translation-annotations}
+==
 * .氏
   --
   Here, .施 has been dropped from .施氏.
@@ -99,7 +100,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
   .[and], relying upon the arrow's momentum,
   made these ten lions pass away.
 >>
-=={.translation-annotations}
+==
 * .使： made; \or caused
 ==
 
@@ -131,7 +132,7 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
   .[did he] first know .[that] these ten lions' carcasses,
   .[were] actually ten stone lions' carcasses.
 >>
-=={.translation-annotations}
+==
 * .始： first; \lit begin to
 ==
 
@@ -140,9 +141,10 @@ of Chao's [《語言問題》]{l=zh-Hant} (.臺灣商務印書館, 1968).
 \\
   Try to interpret these events.
 >>
-=={.translation-annotations}
+==
 * .是事： these events; \or this incident
 ==
+@@@@
 
 
 %%cite

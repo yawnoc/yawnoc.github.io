@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S6"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S6
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -71,6 +71,7 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有粟二斗一升。問為粺米幾何。 <br>
   答曰、一斗一升五十分升之一十七。
@@ -79,7 +80,7 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
   .[We] ask, how much be .[this in] fine grain? <br>
   Answer saith: one peck, one quart, .[and] seventeen fiftieths of .[a] quart.
 >>
-=={.translation-annotations}
+==
 * \c[52145] erroneously has .稗 for .粺, both here and below.
 
 * .粺： fine(-grain)
@@ -99,7 +100,7 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
   Dividing them, .[there be a] remainder;
   use .[the] divisor and name .[it for a] fraction.
 >>
-=={.translation-annotations}
+==
 * .不盡： .[there be a] remainder; \lit exhausteth not
 
 * In modern notation:
@@ -121,6 +122,7 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
   .《九章算術粟米》, "Nine Chapters .[on] Computational Methods: Grain".
   See [\S5 commentary](5#commentary).
 ==
+@@@@
 
 
 %%surrounds

@@ -6,7 +6,7 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
-* %copyright-prior-years --> get_year@%date-created
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2022-12-27
+* %date-modified --> 2023-03-xx
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -111,12 +111,13 @@ but concede that in most instances this will not be possible
 [(Ch'(e^)n Pang\-yen|陳邦彥)]: https://zh.wikipedia.org/wiki/陳邦彥_(清朝)
 [Han unification]: https://en.wikipedia.org/wiki/Han_unification
 
+@@@@
 <<
   《御製康煕字典序》
 \\
   "Imperially-Made Preface .[unto the] (K'ang\-hee|康煕) Dictionary"
 >>
-=={.translation-annotations}
+==
 * Here we have `U+7155`~.煕 rather than `U+7199`~.熙.
 
 * .字典： Dictionary; \lit Character Canon
@@ -132,7 +133,7 @@ but concede that in most instances this will not be possible
   with .[which the] hundred officials .[were] governed,
   .[and] with .[which] the myriad people .[were] inspected.
 >>
-=={.translation-annotations}
+==
 * .易： .[the] Changes
   --
   Short for .易經, ".[the] Classic of Changes",
@@ -147,7 +148,7 @@ but concede that in most instances this will not be possible
   .[were] in charge of conveying written glyphs unto .[the] four directions
   .[of the earth].
 >>
-=={.translation-annotations}
+==
 * .周官： .[the] Officials of (Chou|周)
   --
   A text on bureaucracy, also called .周禮, ".[the] Rites of (Chou|周)".
@@ -168,7 +169,7 @@ but concede that in most instances this will not be possible
   .[did] teach of .[the] Six Scripts,
   and .[did] examine rowed text in three layers.
 >>
-=={.translation-annotations}
+==
 * .國子： noble children; \lit children of .[the] nation
 
 * .文列： rowed text; \lit text rows
@@ -181,7 +182,7 @@ but concede that in most instances this will not be possible
   .[the] myriad matters .[and the] hundred things,
   and sufficient to assist .[the] spreading of .[the] teaching of governance.
 >>
-=={.translation-annotations}
+==
 * .足
   --
   Written `U+20BC1`~.𠯁 ![𠯁] in the original text,
@@ -200,7 +201,7 @@ but concede that in most instances this will not be possible
   was there first .[his] Explaining Glyphs,
   .[which did] esteem meaning but .[was] omissive in pronunciation;
 >>
-=={.translation-annotations}
+==
 * .随： according unto; \lit following
 
 * .逓
@@ -231,7 +232,7 @@ but concede that in most instances this will not be possible
   .[and] the scholar of .[the] River's East knowing .[the] Four Tones
   but knowing not .[the] Seven Sounds.
 >>
-=={.translation-annotations}
+==
 * .左： East; \lit Left
 
 * .四聲： Four Tones
@@ -262,7 +263,7 @@ but concede that in most instances this will not be possible
   and afterward .[all] sounds under Heaven,
   .[were] aggregated in this.
 >>
-=={.translation-annotations}
+==
 * .三十六字為母： Thirty-Six Characters as .[the] initials
   --
   There are thirty-six initial consonants
@@ -296,7 +297,7 @@ but concede that in most instances this will not be possible
   thus those able to wholly provide of .[the] Seven Sounds,
   .[are] rare.
 >>
-=={.translation-annotations}
+==
 * .五音： Five Sounds
   --
   The Seven Sounds, but with .半舌~(half-tongue) and .半齒~(half-incisor)
@@ -311,7 +312,7 @@ but concede that in most instances this will not be possible
   .[as] transmitted down through .[the] ages
   .[hath been] unable .[to be] evident as .[the] stroke of one.
 >>
-=={.translation-annotations}
+==
 * .此
   --
   Written semi-cursive ![此] in the original text,
@@ -344,7 +345,7 @@ but concede that in most instances this will not be possible
   all spread throughout .[their] present generations,
   clothing .[and] blanketing latter learning.
 >>
-=={.translation-annotations}
+==
 * .萹
   --
   A vulgar abbreviation of~.篇.
@@ -386,7 +387,7 @@ but concede that in most instances this will not be possible
   perhaps .[a] pronunciation have several dissections
     but .[which are] not provided.
 >>
-=={.translation-annotations}
+==
 * .切： dissections
   --
   Short for .反切, "back-dissection".
@@ -415,7 +416,7 @@ but concede that in most instances this will not be possible
   .[and] keeping .[only the] explanations of one school,
   .[am I] not necessarily able to comprehend through without gaps.
 >>
-=={.translation-annotations}
+==
 * .朕： I
   --
   This is a royal "I".
@@ -458,7 +459,7 @@ but concede that in most instances this will not be possible
   .[and] simultaneously using .[the] Broadened Rimes, .[the] Collected Rimes,
   .[the] Rime Assembly, .[and the] Proper Rimes.
 >>
-=={.translation-annotations}
+==
 * .一夲： first based upon; \or one copy of
   --
   .夲 here as written in the original text ![夲]. Used as a variant for~.本.
@@ -478,7 +479,7 @@ but concede that in most instances this will not be possible
   of .[each] one pronunciation .[and each] one meaning,
   .[that] not .[ought] be there omitted .[or] lost.
 >>
-=={.translation-annotations}
+==
 * .逸
   --
   Written ![逸] with an undotted rabbit in the original text.
@@ -497,7 +498,7 @@ but concede that in most instances this will not be possible
   .[that they] do widen .[the] net .[and] broaden .[the] attestations .[taken],
   making .[it] have reliance .[and] evidence.
 >>
-=={.translation-annotations}
+==
 * .莫不： do; \lit do not not
 ==
 
@@ -513,7 +514,7 @@ but concede that in most instances this will not be possible
   having not one meaning not detailed,
   .[nor] one pronunciation not provided.
 >>
-=={.translation-annotations}
+==
 * .形： forms; \or shapes
 
 * .卷： book; \lit roll
@@ -555,9 +556,10 @@ but concede that in most instances this will not be possible
   .[The] nineteenth day of .[the] leapt third month
   of .[the] fifty-fifth year of (K'ang\-hee|康熈).
 >>
-=={.translation-annotations}
+==
 * Here we have `U+7188`~.熈 rather than `U+7199`~.熙.
 ==
+@@@@
 
 
 %%cite

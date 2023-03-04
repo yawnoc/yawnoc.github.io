@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S18"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S18
 * %date-created --> 2022-11-18
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -72,6 +73,7 @@ Chinese source text: \a[68], \b[161], \c[52268], \d[80]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有木不知長短。引繩度之、餘繩四尺五寸、屈繩量之、不足一尺。問木長幾何。
 \\
@@ -82,7 +84,7 @@ Chinese source text: \a[68], \b[161], \c[52268], \d[80]. <br>
   .[is it] one rule not sufficient.
   .[We] ask, how much .[be the] length of .[the] wood?
 >>
-=={.translation-annotations}
+==
 * .度： measuring
   --
   .度、入聲、 \C tok9, \M du(o\) (\gr du(o/))
@@ -127,7 +129,7 @@ Chinese source text: \a[68], \b[161], \c[52268], \d[80]. <br>
   Doubling it, resulteth in one rod .[and] one rule.
   Subtracting .[the] excess four rules .[and] five inches, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation, this result is arrived at
   by first doubling both equations and taking the difference, giving
   $$
@@ -138,6 +140,7 @@ Chinese source text: \a[68], \b[161], \c[52268], \d[80]. <br>
     w = c - 4.5 \unit{rules} = 6.5 \unit{rules}.
   $$
 ==
+@@@@
 
 
 %%surrounds

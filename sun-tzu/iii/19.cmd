@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S19"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S19
 * %date-created --> 2022-11-20
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -73,6 +74,7 @@ Chinese source text: \a[68], \b[161], \c[52271], \d[81]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有器中米、不知其數。
 \\
@@ -88,7 +90,7 @@ Chinese source text: \a[68], \b[161], \c[52271], \d[81]. <br>
   .[there] remaineth grain one peck .[and] five quarts.
   .[We] ask, how much .[be the] original grain?
 >>
-=={.translation-annotations}
+==
 * In modern notation, we seek $V$ such that
   $$
     V
@@ -120,7 +122,7 @@ Chinese source text: \a[68], \b[161], \c[52271], \d[81]. <br>
   Multiplying it by four, resulteth in one barrel .[and] eight pecks.
   Dividing it by three, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \begin{aligned}
@@ -131,6 +133,7 @@ Chinese source text: \a[68], \b[161], \c[52271], \d[81]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S24"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S24
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -76,6 +76,7 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   以九乘一十二、得一百八。六人分之、人得一十八。
 \\
@@ -102,7 +103,7 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
   .[With] fifty-four people sharing it,
   .[each] person getteth one hundred .[and] sixty-two.
 >>
-=={.translation-annotations}
+==
 * \b[151] erroneously has .六十二 for .一百六十二.
 ==
 
@@ -141,7 +142,7 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
   .[With] one thousand, four hundred .[and] fifty-eight people sharing it,
   .[each] person getteth four thousand, three hundred .[and] seventy-four.
 >>
-=={.translation-annotations}
+==
 * \c[52123] erroneously has .七千百九十二 for .七千二百九十二.
 ==
 
@@ -235,6 +236,7 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
     one hundred .[and] six myriad,
     two thousand, eight hundred .[and] eighty-two.
 >>
+@@@@
 
 
 ||{.marker .end}

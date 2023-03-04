@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S20"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S20
 * %date-created --> 2022-11-20
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -69,6 +70,7 @@ Chinese source text: \a[70], \b[161], \c[52274], \d[82]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有黃金一斤、直錢一十萬。問兩直幾何。
 \\
@@ -88,7 +90,7 @@ Chinese source text: \a[70], \b[161], \c[52274], \d[82]. <br>
   Method saith: put .[down the] coins ten myriad;
   dividing it by sixteen taels, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \begin{aligned}
@@ -98,6 +100,7 @@ Chinese source text: \a[70], \b[161], \c[52274], \d[82]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

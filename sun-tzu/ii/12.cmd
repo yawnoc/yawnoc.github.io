@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S12"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S12
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -82,6 +82,7 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有圓窖、周五丈四尺、深一丈八尺。問受粟幾何。
 \\
@@ -106,7 +107,7 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
   .[which], multiplied with itself,
   resulteth in two thousand, nine hundred .[and] sixteen rules.
 >>
-=={.translation-annotations}
+==
 * \a[34], \b[154], and \d[47] are erroneously missing .自 in .自相乘.
 ==
 
@@ -132,7 +133,7 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
     one rule, six inches, .[and] two tenths,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * .斛法： .[the] barrel divisor
   --
   This is the conversion between the capacity unit "barrel",
@@ -160,6 +161,7 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
   Here $\pi \approx 3$ (so that $4\pi \approx 12$),
   see [Vol.~I \S5](/sun-tzu/i/5).
 ==
+@@@@
 
 
 %%surrounds

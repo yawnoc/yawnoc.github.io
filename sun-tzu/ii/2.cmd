@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S2"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S2
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +61,7 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有三分之一、五分之二。問合之二得幾何。 <br>
   答曰、一十五分之一十一。
@@ -69,7 +70,7 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. <br>
   .[We] ask, joining them two resulteth in how much? <br>
   Answer saith: eleven of fifteen shares.
 >>
-=={.translation-annotations}
+==
 * \c[52133] has only .合之 for .合之二.
 
 * \b[153] has .十一 for .一十一.
@@ -103,7 +104,7 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. <br>
   .[The] two denominators .[to the] right multiplied with each other,
   result in fifteen as .[the] divisor.
 >>
-=={.translation-annotations}
+==
 * In modern notation:
   $$
     \frac{1}{3} + \frac{2}{5}
@@ -118,13 +119,14 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. <br>
   .[The dividend] reacheth not .[the] divisor,
   .[and] naming it .[for a fraction] using .[the] divisor, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * .不滿法： .[The dividend] reacheth not .[the] divisor
   --
   This is saying that $11 < 15$, i.e.~the fraction $11/15$ is proper
   (so no further division is necessary).
   --
 ==
+@@@@
 
 
 %%surrounds

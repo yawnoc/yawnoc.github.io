@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S14"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S14
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -74,6 +74,7 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有方田、桑生中央、從角至桑、一百四十七步。問為田幾何。
 \\
@@ -91,7 +92,7 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. <br>
     one yardland .[and] eighty-three acres
     remainder one hundred .[and] eighty paces.
 >>
-=={.translation-annotations}
+==
 * .頃： yardland
   --
   (K'ing|頃)~(.頃), equal to 100~(mu|畝)~(.畝) or Chinese acres.
@@ -132,7 +133,7 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. <br>
 \\
   Dividing it by two hundred .[and] forty paces, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   the area of a square with circumradius (or semi-diagonal)
   $s = 147 \unit{paces}$ is
@@ -151,6 +152,7 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. <br>
   $$
   Here $\sqrt{2} \approx 7/5$, see [Vol.~I \S5](/sun-tzu/i/5).
 ==
+@@@@
 
 
 %%surrounds

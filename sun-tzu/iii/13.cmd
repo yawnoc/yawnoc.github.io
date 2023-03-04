@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S13"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S13
 * %date-created --> 2022-11-10
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -73,6 +74,7 @@ Chinese source text: \a[64], \b[160], \c[52253], \d[76]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有粟三十六萬九千九百八十斛七斗、在倉九年、年斛耗三升。
 \\
@@ -116,7 +118,7 @@ Chinese source text: \a[64], \b[160], \c[52253], \d[76]. <br>
 \\
   And multiplying it by nine, is .[it the] expense of nine years.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \begin{aligned}
@@ -132,6 +134,7 @@ Chinese source text: \a[64], \b[160], \c[52253], \d[76]. <br>
   Note that the nine-year expense is not compounded,
   but computed directly from the principal value.
 ==
+@@@@
 
 
 %%surrounds

@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S25"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S25
 * %date-created --> 2022-07-24
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -60,6 +61,7 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有五等諸侯、共分橘子六十顆、人別加三顆。問五人各得幾何。
 \\
@@ -90,7 +92,7 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
   next, twelve .[tangerines];
   above, fifteen .[tangerines].
 >>
-=={.translation-annotations}
+==
 * In modern notation, with $n$ denoting the baseline number of tangerines,
   we have $(n+3, n+6, n+9, n+12, n+15)$ tangerines for the five people;
   therefore
@@ -104,7 +106,7 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
 \\
   Subsidiarily combining them, resulteth in forty-five.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     5n + 45 = 60.
@@ -118,7 +120,7 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
   .[the] remainder, dividing it .[by the] number of people,
   .[each] person getteth three .[tangerines].
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \begin{aligned}
@@ -143,10 +145,11 @@ Chinese source text: \a[48], \b[157], \c[52204], \d[61]. <br>
     next .[there] resulteth nine as .[the] master's share;
     below .[there] resulteth six as .[the] male's share.
 >>
-=={.translation-annotations}
+==
 * In modern notation, the five people get
   $(n+15, n+12, n+9, n+6, n+3) = (18, 15, 12, 9, 6)$ tangerines.
 ==
+@@@@
 
 
 %%surrounds

@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S6"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S6
 * %date-created --> 2022-08-14
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有租九萬八千七百六十二斛、欲以一車載五十斛。問用車幾何。
 \\
@@ -76,7 +78,7 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
   Answer saith: one thousand, nine hundred .[and] seventy-five chariots
   remainder twelve barrels.
 >>
-=={.translation-annotations}
+==
 * .乘： chariot
   --
   .乘、去聲、 \C shing6 (\pm sing6), \M sh(e\)ng
@@ -92,7 +94,7 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
   .[and] use that carried of one chariot, .[even] fifty barrels,
   as .[the] divisor.
 >>
-=={.translation-annotations}
+==
 * \a[60] and \d[72] are missing .二 in .六十二斛.
 ==
 
@@ -101,7 +103,7 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
 \\
   .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \frac{98762 \unit{barrels}}{50 \unit{barrels} / {\unit{chariot}}}
@@ -109,6 +111,7 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
       + \frac{12 \unit{barrels}}{50 \unit{barrels} / {\unit{chariot}}}.
   $$
 ==
+@@@@
 
 
 %%surrounds

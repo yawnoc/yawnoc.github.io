@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S28"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S28
 * %date-created --> 2022-07-30
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有人盜庫絹、不知所失幾何。但聞草中分絹、人得六匹、盈六匹、人得七匹、不足七匹。
 \\
@@ -78,7 +80,7 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
 \\
   .[We] ask, how much each .[be the] people .[and the] strong-silk?
 >>
-=={.translation-annotations}
+==
 * \a[52] and \d[65] have .得幾何.
   I have taken .各幾何 per \b[158] and \c[52213].
 
@@ -120,7 +122,7 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
   .[In] linkage multiply them;
   .[of] those which result, combining them, maketh .[the] strong-silk.
 >>
-=={.translation-annotations}
+==
 * Having formed the matrix
   $$
     \begin{pmatrix}
@@ -169,7 +171,7 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
 \\
   Combining .[the] excess .[and the] not sufficient below, maketh .[the] people.
 >>
-=={.translation-annotations}
+==
 * We are told that the sum $Y_\mathrm{s} + Y_\mathrm{d}$
   forms the number of people.
   Again this does not make dimensional sense,
@@ -201,6 +203,7 @@ Chinese source text: \a[52], \b[158], \c[52213], \d[65]. <br>
   $$
   for the number of people.
 ==
+@@@@
 
 
 ||{.marker .end}

@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S6"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S6
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -63,6 +63,7 @@ Chinese source text: \a[6], \b[147], \c[52062], \d[13]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   黃金方寸重一斤、 <br>
   白金方寸重一十四兩、 <br>
@@ -72,7 +73,7 @@ Chinese source text: \a[6], \b[147], \c[52062], \d[13]. <br>
   .[A] cubic inch of silver weigheth fourteen taels. <br>
   .[A] cubic inch of jade weigheth twelve taels.
 >>
-=={.translation-annotations}
+==
 * .黃金： gold; \lit yellow metal
 
 * \b[147] has .白銀 for .白金.
@@ -93,7 +94,7 @@ Chinese source text: \a[6], \b[147], \c[52062], \d[13]. <br>
   .[A] cubic inch of iron weigheth six taels. <br>
   .[A] cubic inch of stone weigheth three taels.
 >>
-=={.translation-annotations}
+==
 * .銅： copper <br>
   Or, perhaps brass.
 
@@ -101,6 +102,7 @@ Chinese source text: \a[6], \b[147], \c[52062], \d[13]. <br>
 
 * .石： stone; \or rock
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary

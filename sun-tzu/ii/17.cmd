@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S17"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S17
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -71,6 +71,7 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有隄、下廣五丈、上廣三丈、高二丈、長六十尺、欲以一千尺作一方。問計幾何。
 \\
@@ -82,7 +83,7 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
   .[and we] wish to use one thousand rules doing one block.
   .[We] ask, how many amounteth .[this] to?
 >>
-=={.translation-annotations}
+==
 * .一千尺： one thousand rules
   --
   In modern language these would be *cubic* rules.
@@ -104,7 +105,7 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
   combining them, resulteth in eight rods,
   .[and] halving it, resulteth in four rods.
 >>
-=={.translation-annotations}
+==
 * .法： method
   --
   \b[155] and \c[52180] have the usual 術 for 法.
@@ -119,7 +120,7 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
   Multiplying it by .[the] length sixty rules,
   resulteth in four myriad .[and] eight thousand.
 >>
-=={.translation-annotations}
+==
 * \b[155] has .以二丈 for .以高二丈.
 ==
 
@@ -128,7 +129,7 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
 \\
   Dividing it by one thousand rules, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation, the volume of a trapezoidal prism of
     upper breadth $A = 3 \unit{rods}$,
     lower breadth $B = 5 \unit{rods}$,
@@ -150,6 +151,7 @@ Chinese source text: \a[38], \b[155], \c[52180], \d[51]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

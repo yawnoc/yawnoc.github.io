@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S1"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S1
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-27
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,6 +62,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   度之所起、起於忽。欲知其忽、蠶吐絲為忽。
 \\
@@ -70,7 +71,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
   Wishing to know .[the size of] floss:
   the silkworm spitteth thread .[which] be floss.
 >>
-=={.translation-annotations}
+==
 * .度： measuring of length
   --
   .度、入聲、 \C tok9, \M du(o\) (\gr du(o/))
@@ -108,7 +109,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
   ten rules make one rod; <br>
   ten rods make one draw.
 >>
-=={.translation-annotations}
+==
 * .絲： (silk) thread
   --
   (Ss(uu)|絲)~(.絲),
@@ -190,7 +191,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
   forty rules make one length; <br>
   six rules make one pace.
 >>
-=={.translation-annotations}
+==
 * .端： end
   --
   (Tuan|端)~(.端), fifty rules.
@@ -216,7 +217,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 \\
   Two hundred .[and] forty paces make one acre.
 >>
-=={.translation-annotations}
+==
 * .畝： acre; \lit field
   --
   (Mu|畝)~(.畝), 240~square paces.
@@ -236,7 +237,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 \\
   Three hundred paces make one mile.
 >>
-=={.translation-annotations}
+==
 * .里： mile
   --
   (Lee|里)~(.里), the [Chinese mile],
@@ -249,6 +250,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
   [Chinese mile]: https://en.wikipedia.org/wiki/Li_(unit)
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary

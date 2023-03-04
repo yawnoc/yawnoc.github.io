@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S26"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S26
 * %date-created --> 2022-11-26
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -60,6 +61,7 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有物不知其數。\
   ::{.colour-b}三三數之::::{.colour-r}賸二::、\
@@ -76,7 +78,7 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
     ::{.colour-r} .[there] remain two::.
   .[We] ask, how many .[be the] objects?
 >>
-=={.translation-annotations}
+==
 * .數之： numbering them
   --
   .數、上聲、 \C shou2 (\pm sou2), \M sh(uv)
@@ -154,7 +156,7 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
   subtracting of it by one hundred .[and] five,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * Under modern appraisal,
   the text does not present the Chinese remainder theorem
   (or rather, an instance of its application)
@@ -201,6 +203,7 @@ Chinese source text: \a[74], \b[162], \c[52292], \d[86]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

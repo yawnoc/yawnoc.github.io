@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S27"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S27
 * %date-created --> 2022-07-30
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -70,6 +71,7 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有女子善織、日自倍、五日織通五尺。問日織幾何。
 \\
@@ -78,7 +80,7 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
   .[and in] five days weaving through five rules.
   .[We] ask, how much weaveth .[she each] day?
 >>
-=={.translation-annotations}
+==
 * \c[52210] erroneously has .扣 before .問.
 
 * In modern notation, the problem is to determine the lengths
@@ -108,7 +110,7 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
     .[the] next day .[she] weaveth
       two rules, five inches, .[and] twenty-five thirty-firsts of .[an] inch.
 >>
-=={.translation-annotations}
+==
 * \a[52] is missing .寸 in .三十一分寸之二十八.
 ==
 
@@ -118,7 +120,7 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
   Method saith: put each .[into a] row of waning,
   .[which], combined subsidiarily, resulteth in thirty-one as .[the] divisor.
 >>
-=={.translation-annotations}
+==
 * .列衰： row of waning
   --
   The weights $(1, 2, 2^2, 2^3, 2^4)$, which sum to $31$.
@@ -143,7 +145,7 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
   .[Taking the] dividends as .[per the] divisor .[being] one,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \begin{aligned}
@@ -161,6 +163,7 @@ Chinese source text: \a[52], \b[158], \c[52210], \d[64]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

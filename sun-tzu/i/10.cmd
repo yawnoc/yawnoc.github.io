@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S10"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S10
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,6 +62,7 @@ Chinese source text: \a[8], \b[147], \c[52066], \d[16]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   以粟求::{.colour-r}糲::|::{.colour-b}米::、\
     三之、五而一。 <br>
@@ -95,7 +96,7 @@ Chinese source text: \a[8], \b[147], \c[52066], \d[16]. <br>
     with ::{.colour-g} intricate:: |::{.colour-b} grain:::
     octuple it, .[with] four .[being] one.
 >>
-=={.translation-annotations}
+==
 * \a[8] erroneously has .米粟求糲米 for .以粟求糲米.
 
 * .粟： grain
@@ -151,6 +152,7 @@ Chinese source text: \a[8], \b[147], \c[52066], \d[16]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

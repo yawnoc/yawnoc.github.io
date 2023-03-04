@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Record of [the] Lion's Pavilion, Victoria~Peak`, \
     the text on a plaque in the Lion's Pavilion, Victoria Peak, Hong Kong.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-12-16
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -66,6 +66,7 @@ but no mention of the author.
 The inserted olden-style punctuation is my own.
 --
 
+@@@@
 <<
   《太平山獅子亭記》
 \\
@@ -85,7 +86,7 @@ The inserted olden-style punctuation is my own.
   .[its] forest trees luxuriant .[and] flourishing,
   .[and its] scenic views absolutely beautiful.
 >>
-=={.translation-annotations}
+==
 * .太平山： Victoria Peak; \lit Mount~Tranquility; \or Mount~Peace
 ==
 
@@ -98,7 +99,7 @@ The inserted olden-style punctuation is my own.
   like .[the] North Star abiding in .[the] centre,
   with .[the] Five Planets going round it.
 >>
-=={.translation-annotations}
+==
 * .居： abiding in; \or dwelling in
 
 * .五星： .[the] Five Planets
@@ -120,7 +121,7 @@ The inserted olden-style punctuation is my own.
   through to .[the] Moon Gate,
   all .[were] made according unto the olden.
 >>
-=={.translation-annotations}
+==
 * .月門： [Moon Gate](https://en.wikipedia.org/wiki/Moon_gate)
 ==
 
@@ -132,7 +133,7 @@ The inserted olden-style punctuation is my own.
   continuously flock .[here to] attend,
   ascending this Pavilion.
 >>
-=={.translation-annotations}
+==
 * .聨翩： continuously flock; \lit rapidly fly together
 ==
 
@@ -146,7 +147,7 @@ The inserted olden-style punctuation is my own.
   .[undergo a] thousand changes .[and a] myriad tranformations,
   as .[in] paintings .[and] drawings.
 >>
-=={.translation-annotations}
+==
 * .晴： clear; \or fine
 ==
 
@@ -158,7 +159,7 @@ The inserted olden-style punctuation is my own.
   .[and] secluded springs .[and] strange rocks
   .[they] can tour .[and] roam.
 >>
-=={.translation-annotations}
+==
 * .賞： appreciate; \or admire
 
 * .遨： roam; \or ramble
@@ -174,7 +175,7 @@ The inserted olden-style punctuation is my own.
   not one .[thing is] not sufficient .[and] pleasing.
   .[It is] also .[a] goodly place .[for] travel .[and] rest.
 >>
-=={.translation-annotations}
+==
 * .笙： (sh(e^)ng|笙)
   --
   A mouth-blown [free reed instrument][笙].
@@ -205,7 +206,7 @@ The inserted olden-style punctuation is my own.
   .[and] received from .[the] local authority
   .[an] allocation of land .[with which to] begin work.
 >>
-=={.translation-annotations}
+==
 * .先後： .[one] after .[the] other; \lit before .[and] after
 ==
 
@@ -218,7 +219,7 @@ The inserted olden-style punctuation is my own.
   Its various construction .[and] furnishing costs,
   totalled altogether five hundred thousand dollars.
 >>
-=={.translation-annotations}
+==
 * .百强： (Pak\-keung|百强)
   --
   The name of the architect.
@@ -251,7 +252,7 @@ The inserted olden-style punctuation is my own.
   .[the] ceremony of receiving .[was] performed by
   Chairman Sales of .[the] Urban Council.
 >>
-=={.translation-annotations}
+==
 * .沙利士： Sales
   --
   [Arnaldo de~Oliveira Sales](https://en.wikipedia.org/wiki/Arnaldo_de_Oliveira_Sales).
@@ -266,7 +267,7 @@ The inserted olden-style punctuation is my own.
   .[its] sounds .[and] roars as thunder:
   all Heaven .[and] Earth .[are] moved.
 >>
-=={.translation-annotations}
+==
 * .剛： strength; \or toughness
 ==
 
@@ -279,7 +280,7 @@ The inserted olden-style punctuation is my own.
   assisting each other .[and] fulfilling each other,
   their efforts no less than the mighty lion's.
 >>
-=={.translation-annotations}
+==
 * .力： efforts; \lit strength
 ==
 
@@ -291,7 +292,7 @@ The inserted olden-style punctuation is my own.
   looking back .[and] forward at .[his] own .[will],
   and .[be the] same as .[a] lion.
 >>
-=={.translation-annotations}
+==
 * .望： hope; \or wish
 * .神： spirit; \or mind
 ==
@@ -301,7 +302,7 @@ The inserted olden-style punctuation is my own.
 \\
   .[A] prisoner's writing: this to record it.
 >>
-=={.translation-annotations}
+==
 * .爰書： .[a] prisoner's writing; \lit changed writing
   --
   An affidavit given by a prisoner, the term supposedly
@@ -310,6 +311,7 @@ The inserted olden-style punctuation is my own.
   by self-deprecating his own work.
   --
 ==
+@@@@
 
 
 %%cite

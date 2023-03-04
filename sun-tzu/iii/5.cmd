@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S5"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S5
 * %date-created --> 2022-08-13
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,6 +63,7 @@ Chinese source text: \a[60], \b[160], \c[52229], \d[72]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有棊局、方一十九道。問用棊幾何。
 \\
@@ -69,7 +71,7 @@ Chinese source text: \a[60], \b[160], \c[52229], \d[72]. <br>
   .[even a] square of nineteen ways.
   .[We] ask, how many chess-pieces useth .[it]?
 >>
-=={.translation-annotations}
+==
 * \a[60] has .碁 (of stone) for the second occurrence of .棊, "chess-piece".
 * \c[52229] erroneously has .諪 for both occurrences of .棊.
 ==
@@ -86,9 +88,10 @@ Chinese source text: \a[60], \b[160], \c[52229], \d[72]. <br>
   Method saith: put .[down the] nineteen ways;
   multiplying it with itself, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation, $19 \times 19 = 361$.
 ==
+@@@@
 
 
 %%surrounds

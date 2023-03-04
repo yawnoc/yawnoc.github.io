@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S11"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S11
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-26
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -92,6 +92,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有方窖、廣四丈六尺、長五丈四尺、深三丈五尺。問受粟幾何。
 \\
@@ -109,7 +110,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
     five myriad, three thousand, six hundred .[and] sixty-six barrels,
     six pecks, six quarts, .[and] two thirds of .[a] quart.
 >>
-=={.translation-annotations}
+==
 * \a[34] and \d[46] erroneously have .三分升之一 for .三分升之二.
 ==
 
@@ -138,7 +139,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
     one rule, six inches, .[and] two tenths,
   .[we] are done.
 >>
-=={.translation-annotations}
+==
 * .斛法： .[the] barrel divisor
   --
   This is the conversion between the capacity unit "barrel",
@@ -166,6 +167,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
     \end{aligned}
   $$
 ==
+@@@@
 
 
 %%surrounds

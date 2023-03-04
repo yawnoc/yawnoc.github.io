@@ -9,13 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S8"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S8
 * %date-created --> 2022-08-21
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -61,6 +62,7 @@ Chinese source text: \a[60], \b[160], \c[52238], \d[73]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有絹七萬八千七百三十二匹、令一百六十二人分之。問人得幾何。
 \\
@@ -85,7 +87,7 @@ Chinese source text: \a[60], \b[160], \c[52238], \d[73]. <br>
   .[and] use .[the] one hundred .[and] sixty-two people as .[the] divisor.
   .[Taking the] dividend as .[per the] divisor, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * In modern notation,
   $$
     \frac{
@@ -96,6 +98,7 @@ Chinese source text: \a[60], \b[160], \c[52238], \d[73]. <br>
       = \frac{486 \unit{lengths}}{\unit{person}}.
   $$
 ==
+@@@@
 
 
 %%surrounds
