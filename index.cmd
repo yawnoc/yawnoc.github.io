@@ -202,11 +202,11 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 
 ==
 - ""[He's] British."" <br>
-  --- F.~(circa~2006)
+  --- Frank~(circa~2006)
 - ""Conway's disagreeing with himself."" <br>
-  --- N.~(2008)
+  --- Norm~(2008)
 - ""Conway is just dumb."" <br>
-  --- L.~&~K.~(2014)
+  --- Liam~&~Kat~(2014)
 ==
 
 
