@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S1"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S1
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-01-01
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -62,6 +62,7 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   今有一十八分之一十二。問約之得幾何。 <br>
   答曰、三分之二。
@@ -70,7 +71,7 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
   .[We] ask, reducing it resulteth in how much? <br>
   Answer saith: two thirds.
 >>
-=={.translation-annotations}
+==
 * .一十八分之一十二： twelve eighteenths; \lit twelve of eighteen shares
 ==
 
@@ -86,7 +87,7 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
   .[for the] equal number .[there] resulteth six as .[the] divisor,
   .[and] reducing them, .[we] are done.
 >>
-=={.translation-annotations}
+==
 * .以少減多、等數得六：
     subtract of .[the] greater by .[the] lesser;
     .[for the] equal number .[there] resulteth six
@@ -107,6 +108,7 @@ Chinese source text: \a[26], \b[153], \c[52130], \d[39]. <br>
     \frac{12}{18} = \frac{12 \div 6}{18 \div 6} = \frac{2}{3}.
   $$
 ==
+@@@@
 
 
 ##{#commentary} Extended commentary
@@ -143,6 +145,7 @@ Note that this excerpt is *not* a part
 of (Sun~Tz(uu)|孫子)'s Computational Classic:
 --
 
+@@@@
 <<
   今有十八分之十二。問約之得幾何。 <br>
   答曰、三分之二。
@@ -187,7 +190,7 @@ of (Sun~Tz(uu)|孫子)'s Computational Classic:
     first administering it unto .[the] fractions.)
   saith:
 >>
-=={.translation-annotations}
+==
 * .動有參差： movements have unevenness
   --
   Perhaps (Liu Huei|劉徽) is trying to say that
@@ -223,12 +226,13 @@ of (Sun~Tz(uu)|孫子)'s Computational Classic:
   .[are] all layered stackings of .[the] equal number.
   Therefore .[we] use .[the] equal number .[to] reduce them.)
 >>
-=={.translation-annotations}
+==
 * .重疊： layered stackings
   --
   I think this is what we would call "multiples".
   --
 ==
+@@@@
 
 
 %%surrounds
