@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S15"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S15
 * %date-created --> 2019-06-09
-* %date-modified --> 2022-12-06
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -63,6 +63,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   八九七十二、自相乘、得五千一百八十四。八人分之、人得六百四十八。
 \\
@@ -72,7 +73,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
   .[With] eight people sharing it,
   .[each] person getteth six hundred .[and] forty-eight.
 >>
-=={.translation-annotations}
+==
 * \a[12] erroneously has .得 for .人得.
 * \c[52075] erroneously has .六百四十八五 for .六百四十八.
 ==
@@ -86,7 +87,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
   .[With] seven people sharing it,
   .[each] person getteth five hundred .[and] sixty-seven.
 >>
-=={.translation-annotations}
+==
 * \a[12] erroneously has .得 for .人得.
 * \c[52075] erroneously has .五百六十七五 for .五百六十七.
 ==
@@ -120,7 +121,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
   .[With] four people sharing it,
   .[each] person getteth three hundred .[and] twenty-four.
 >>
-=={.translation-annotations}
+==
 * **\a[12] is missing four whole pages after .一千二百九十六**,
   from .四人分之 in the line above
   until .四人分之 after .四七二十八 in [\S17](17).
@@ -171,7 +172,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
   .[each] person getteth
     one myriad, eight thousand, two hundred .[and] twenty-five.
 >>
-=={.translation-annotations}
+==
 * .右： above; \lit .[to the] right
   --
   In English, preceding material lies above, since English is written
@@ -196,6 +197,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
   Note that "nine nines above" includes $9 \times 9$ from [\S13](13).
   (The source text has no sectioning, only strategically placed line breaks.)
 ==
+@@@@
 
 
 %%surrounds
