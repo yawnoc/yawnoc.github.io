@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the Preface to Sunzi Suanjing, \
     《孫子算經》, `Sun~Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-01-01
+* %date-modified --> 2023-03-xx
 - concluding_replacements:
     #.yawnoc.typography
     #.yawnoc.double-quotes-in-attributes
@@ -71,6 +71,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
 %%version-d-default
 --
 
+@@@@
 <<
   孫子曰、夫算者、
 \\
@@ -83,7 +84,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[the] warp .[and] woof of Heaven .[and] Earth,
   .[and the] origin .[and] beginning of amassed life;
 >>
-=={.translation-annotations}
+==
 * From this line until almost the end of the preface,
   the text consists of pairs of lines which parallel each other,
   character for character.
@@ -98,7 +99,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[the] base .[and] tip of .[the] Five Constants,
   .[and the] father .[and] mother of Yin .[and] Yang;
 >>
-=={.translation-annotations}
+==
 * .五常： Five Constants
   --
   [仁義禮智信]{l=zh-Hant}(https://ctext.org/three-character-classic#n90581),
@@ -114,7 +115,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[and the] surface .[and] internals of
   .[the] Three Luminaries;
 >>
-=={.translation-annotations}
+==
 * .三光： Three Luminaries
   --
   [日月星]{l=zh-Hant}(https://ctext.org/three-character-classic#n90576),
@@ -130,7 +131,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[the] evenness .[and] levelness of .[the] Five Elements,
   .[and the] finishing .[and] starting of .[the] Four Seasons;
 >>
-=={.translation-annotations}
+==
 * .五行： Five Elements
   --
   [金木水火土]{l=zh-Hant}(https://en.wikipedia.org/wiki/Wu_Xing),
@@ -145,7 +146,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[the] forebear .[and] ancestor of .[the] myriad things,
   .[and the] principle .[and the] law of .[the] Six Arts.
 >>
-=={.translation-annotations}
+==
 * .六藝： Six Arts
   --
   [禮樂射御書數]{l=zh-Hant}(https://en.wikipedia.org/wiki/Six_Arts),
@@ -160,7 +161,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[It] examineth .[the] gathering .[and] scattering of .[the] amassed kinds,
   .[and] inspecteth .[the] falling .[and] rising of .[the] Two Forces;
 >>
-=={.translation-annotations}
+==
 * .二氣： Two Forces; \lit Two Breaths
   --
   .陰氣, "Yin Force", and .陽氣, "Yang Force".
@@ -173,7 +174,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[it] deduceth .[the] alternating .[and] revolving of winter .[and] summer,
   .[and] paceth .[the] disparity .[and] sameness of far .[and] near;
 >>
-=={.translation-annotations}
+==
 * .寒暑： winter .[and] summer; \lit cold .[and] heat
 ==
 
@@ -185,7 +186,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[and] inspecteth .[the] length .[and] shortness of
     .[the] meridians .[and] parallels of Geography;
 >>
-=={.translation-annotations}
+==
 * .天道： Physics; \lit Way of Heaven
 * .地理： Geography; \lit Science of Earth
 ==
@@ -196,7 +197,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[it] acquireth .[the] whereabouts of gods .[and] earth-spirits,
   .[and] extremeth .[out the] corroboration of success .[and] failure;
 >>
-=={.translation-annotations}
+==
 * .祇： earth-spirits
   --
   .祇、音岐、 \C k'ei4, \M q(i/)
@@ -211,7 +212,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[it] exhausteth .[the] reasonings of morality,
   .[and] scrutiniseth .[the] senses of life.
 >>
-=={.translation-annotations}
+==
 * .理： reasonings; \or principles
 * .情： senses; \lit sentiments
 ==
@@ -222,7 +223,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[It] establisheth the compass .[and] the steel-square,
   standardiseth the square .[and] the circle,
 >>
-=={.translation-annotations}
+==
 * .規矩： the compass .[and] the steel-square; \or .[the] rules
 ==
 
@@ -232,7 +233,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   stricteneth .[the] law .[and the] standard,
   restraineth .[the] rule .[and the] rod,
 >>
-=={.translation-annotations}
+==
 * .謹： stricteneth; \lit careful
 
 * .尺丈： .[the] rule .[and the] rod
@@ -256,7 +257,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   dissecteth .[the] mil .[and the] cent,
   .[and] splitteth .[the] millet .[and the] pile.
 >>
-=={.translation-annotations}
+==
 * .毫釐： .[the] mil .[and the] cent
   --
   Small units of length (see [Volume~I \S1](/sun-tzu/i/1)),
@@ -279,7 +280,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   .[It] endureth .[an] hundred million years and rotteth not,
   .[and is] imparted unto .[the] Eight Extremities and .[is] without bound.
 >>
-=={.translation-annotations}
+==
 * .億： hundred million; \lit square-myriad
 
 * .八極： .[the] Eight Extremities
@@ -296,7 +297,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   Scattering it, .[it] cannot .[be] wholly scrutinised,
   .[yet] collecting it, .[it is] not beyond grasp.
 >>
-=={.translation-annotations}
+==
 * .勝： wholly
   --
   .勝、平聲、 \C shing1 (\pm sing1), \M sh(e-)ng (\gr sh(e\)ng)
@@ -313,7 +314,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   He that faceth it .[shall be] wealthy in excess,
   .[but] he that turneth .[his] back to it .[shall be] poor and also destitute;
 >>
-=={.translation-annotations}
+==
 * .窶： destitute
   --
   .窶、音巨、 \C k\_(u")6, \M j(u\)
@@ -330,7 +331,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
     .[even] white-headed .[of hair],
     cannot .[be] proficient.
 >>
-=={.translation-annotations}
+==
 * .皓： white
   --
   .皓、音號、 \C hou6, \M h(a\)o
@@ -349,7 +350,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   must endeavour to measure .[his] ability .[and] gauge himself,
   .[and put] will into that focused upon.
 >>
-=={.translation-annotations}
+==
 * .量： measure; \or gauge
   --
   .量、去聲、 \C l(oe)ng6, \M li(a\)ng
@@ -372,6 +373,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
 \\
   .[Among those] like this, how be there those that succeed not!
 >>
+@@@@
 
 
 ||{.marker .end}
