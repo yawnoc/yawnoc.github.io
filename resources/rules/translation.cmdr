@@ -23,6 +23,7 @@ ExtensibleFenceReplacement: #.translation.tables
 - extensible_delimiter: @@
 - attribute_specifications: .translation
 - content_replacements:
+    #tables
     #.translation.tables
     #.translation.syntax-conversion
     #unordered-lists
