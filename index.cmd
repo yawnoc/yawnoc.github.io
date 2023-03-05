@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-03-05
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -171,6 +171,8 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ###{#code-math} Mathematical stuff
 
 ==
+- [Big Two (.鋤大弟) Scorer (Python)]\
+    (https://github.com/yawnoc/big-two-scorer)
 - [Animating a tumbling polygon (GNU Octave)]\
     (https://github.com/yawnoc/tumbling-polygon)
 - [Image to ASCII art converter (GNU Octave)]\
