@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-24
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -426,12 +426,14 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
   子曰、父在、觀其志、父沒、觀其行、三年無改於父之道、可謂孝矣。
 \\
   .[The] Master saith,
-  .[When his] father .[yet] is, observe his will;
+  .[His] father present, observe his will;
   .[his] father ended, observe his conduct:
   three years without altering from .[the] way of .[his] father,
   can .[he be] called filial.
 >>
 ==
+* .在： present; \or .[yet] being
+
 * .行： conduct
   --
   .行、去聲、 \C hang6, \M x(i\)ng (\gr x(i/)ng)

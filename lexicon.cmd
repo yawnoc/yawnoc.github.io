@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-02-19
+* %date-modified --> 2023-04-24
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1849,7 +1849,7 @@ See also: [未嘗]
 
 3 [在] U+5728
 ==
-* be {:exist:}
+* be {:exist:}; present
 * in; into; on
 ==
 ==
