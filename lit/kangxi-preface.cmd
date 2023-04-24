@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-24
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -369,16 +369,16 @@ but concede that in most instances this will not be possible
   .[In] undertaking their editings,
   .[they] all self-speak of having not .[a] fine hair of regret,
   but latter scholar's deductions .[and] discourses
-  .[are] always many .[in their] concurrences .[and] differences.
+  .[are] always many .[in their] concurrences .[and] differences;
 >>
 
 <<
   或所收之字繁省失中、\
   或所引之書濫踈無準、\
   或字有數義而不詳、\
-  或音有數切而不備、
+  或音有數切而不備。
 \\
-  Perhaps .[the] characters that .[be] admitted
+  perhaps .[the] characters that .[be] admitted
     .[are] numerous .[or] scarce missing .[the] mark;
   perhaps .[the] writings that .[be] drawn upon
     .[are] excessive .[or] sparse without standard;
