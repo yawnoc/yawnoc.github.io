@@ -511,8 +511,8 @@ but concede that in most instances this will not be possible
   of .[the] speech of .[all] places,
   .[shall by] sections .[be] split into ranked rows,
   .[and on] opening .[the] book .[be immediately] clear,
-  having not one meaning not detailed,
-  .[nor] one pronunciation not provided.
+  having not one meaning .[being] not detailed,
+  .[nor] one pronunciation .[being] not provided.
 >>
 ==
 * .形： forms; \or shapes

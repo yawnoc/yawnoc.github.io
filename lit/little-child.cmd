@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-24
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -869,8 +869,8 @@ I have edited the punctuation to not be bizarre.
   (Confucius|孔子) laughed and answered not,
   .[and] spake looking back unto all .[the] disciples, saying,
   The young ought to .[be] feared!
-  .[For] how know .[we],
-  .[that] those which come .[after be] not as .[we] now?
+  .[For] how know .[we] of
+  those coming .[after being] not as .[we] now?
 >>
 ====
 * .後生可畏、焉知來者之不如今也
@@ -886,8 +886,8 @@ I have edited the punctuation to not be bizarre.
   \\
     .[The] Master saith,
       The young ought to .[be] feared;
-      .[for] how know .[we],
-      .[that] those which come .[after be] not as .[we] now?
+      .[for] how know .[we] of
+      those coming .[after being] not as .[we] now?
       .[By] forty .[or] fifty .[have we] not heard of them,
       then .[be they] not worthy of fear.
   >>
