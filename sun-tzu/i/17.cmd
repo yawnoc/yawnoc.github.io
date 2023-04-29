@@ -146,7 +146,7 @@ Chinese source text: \b[149], \c[52090], \d[24].
   .[The] seven sevens above .[as] one strand,
   result in one hundred .[and] ninety-six,
   .[which], multiplied with itself,
-  resulteth in three myriad, eight thousand four hundred .[and] sixteen.
+  resulteth in three myriad eight thousand four hundred .[and] sixteen.
   .[With] seven people sharing it,
   .[each] person getteth five thousand four hundred .[and] eighty-eight.
 >>

@@ -161,15 +161,15 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 \\
   .[The] upper place, multiplying it by one hundred .[and] sixty-two,
     resulteth in
-      one hundred .[and] twelve myriad,
+      one hundred .[and] twelve myriad
       two thousand six hundred .[and] sixty;
   and multiplying .[the] middle place by two hundred .[and] sixteen,
     resulteth in
-      one hundred .[and] forty-nine myriad,
+      one hundred .[and] forty-nine myriad
       six thousand eight hundred .[and] eighty;
   and multiplying .[the] lower place by two hundred .[and] fifty-two,
     resulteth in
-      one hundred .[and] seventy-four myriad,
+      one hundred .[and] seventy-four myriad
       six thousand three hundred .[and] sixty:
   each being .[a] dividend.
 >>

@@ -96,14 +96,14 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
     .[the] trees eighty-one;
     .[the] branches seven hundred .[and] twenty-nine;
     .[the] nests six thousand five hundred .[and] sixty-one;
-    .[the] fowls five myriad, nine thousand .[and] forty-nine;
+    .[the] fowls five myriad nine thousand .[and] forty-nine;
     .[the] chicks
-      fifty-three myriad, one thousand four hundred .[and] forty-one;
+      fifty-three myriad one thousand four hundred .[and] forty-one;
     .[the] feathers
-      four hundred .[and] seventy-eight myriad,
+      four hundred .[and] seventy-eight myriad
       two thousand nine hundred .[and] sixty-nine;
     .[the] colours
-      four thousand three hundred .[and] four myriad,
+      four thousand three hundred .[and] four myriad
       six thousand seven hundred .[and] twenty-one.
 >>
 ==

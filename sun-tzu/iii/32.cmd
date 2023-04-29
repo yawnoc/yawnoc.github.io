@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S32"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S32
 * %date-created --> 2022-11-27
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -109,7 +109,7 @@ Chinese source text: \a[80], \b[163], \c[52311], \d[92]. <br>
   又以六尺乘之、得一萬六千二百尺。
 \\
   And multiplying it by six rules,
-  resulteth in one myriad, six thousand .[and] two hundred rules.
+  resulteth in one myriad six thousand .[and] two hundred rules.
 >>
 ==
 * Next we a conversion from paces to rules:

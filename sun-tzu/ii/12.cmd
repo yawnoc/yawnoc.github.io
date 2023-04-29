@@ -116,7 +116,7 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
 \\
   Multiplying it by .[the] depth one rod .[and] eight rules,
   resulteth in
-    five myriad, two thousand four hundred .[and] eighty-eight rules.
+    five myriad two thousand four hundred .[and] eighty-eight rules.
 >>
 
 <<

@@ -106,7 +106,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
   答曰、三萬二千六百四十五人、不盡六十九尺六寸。
 \\
   Answer saith:
-    three myriad, two thousand six hundred .[and] forty-five people,
+    three myriad two thousand six hundred .[and] forty-five people,
     remainder sixty-nine rules .[and] six inches.
 >>
 ==
@@ -125,7 +125,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
   put .[down the] number of miles,
   .[and] multiply it by three hundred paces;
   admitting .[the] residual paces, .[and] sextupling it,
-  resulteth in five myriad, two thousand eight hundred .[and] twenty-four rules.
+  resulteth in five myriad two thousand eight hundred .[and] twenty-four rules.
 >>
 ==
 * .內： admitting
@@ -165,7 +165,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
   以長乘、得九百七十九萬三千五百六十九尺六寸。
 \\
   Multiplying by .[the] length, resulteth in
-    nine hundred .[and] seventy-nine myriad,
+    nine hundred .[and] seventy-nine myriad
     three thousand five hundred .[and] sixty-nine rules
     .[and] six inches.
 >>

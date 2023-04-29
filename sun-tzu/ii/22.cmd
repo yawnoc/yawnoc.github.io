@@ -100,7 +100,7 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
 <<
   答曰、二萬六千一十一功。
 \\
-  Answer saith: two myriad, six thousand .[and] eleven .[people's] output.
+  Answer saith: two myriad six thousand .[and] eleven .[people's] output.
 >>
 
 <<
@@ -117,7 +117,7 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
   Multiplying it by .[the] height,
   resulteth in one thousand four hundred .[and] six rules.
   And multiplying it by .[the] length,
-  resulteth in volume seven hundred .[and] eighty myriad,
+  resulteth in volume seven hundred .[and] eighty myriad
   three thousand .[and] three hundred rules.
 >>
 

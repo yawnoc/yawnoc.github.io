@@ -108,7 +108,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
   答曰、一十五萬一千四百七十四斛七升二十七分升之一十一。
 \\
   Answer saith:
-    fifteen myriad, one thousand four hundred .[and] seventy-four barrels,
+    fifteen myriad one thousand four hundred .[and] seventy-four barrels,
     seven quarts, .[and] eleven twenty-sevenths of .[a] quart.
 >>
 
@@ -119,7 +119,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
   put .[down the] circumference two hundred .[and] eighty-six rules,
   .[which], multiplied with itself,
   resulteth in
-    eight myriad, one thousand seven hundred .[and] ninety-six rules.
+    eight myriad one thousand seven hundred .[and] ninety-six rules.
 >>
 
 <<
@@ -127,7 +127,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
 \\
   Multiplying it by .[the] depth three rods .[and] six rules,
   resulteth in
-    two hundred .[and] ninety-four myriad,
+    two hundred .[and] ninety-four myriad
     four thousand six hundred .[and] fifty-six.
 >>
 ==
@@ -139,7 +139,7 @@ Chinese source text: \a[32], \b[154], \c[52157], \d[45]. <br>
 \\
   Dividing it by twelve,
   resulteth in
-    twenty-four myriad,
+    twenty-four myriad
     five thousand three hundred .[and] eighty-eight rules.
 >>
 

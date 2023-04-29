@@ -77,7 +77,7 @@ Chinese source text: \a[62], \c[52241], \d[74].
   今有三萬六千四百五十四戶、戶輸綿二斤八兩。問計幾何。
 \\
   Suppose there be
-  three myriad, six thousand four hundred .[and] fifty-four households,
+  three myriad six thousand four hundred .[and] fifty-four households,
   .[each] household contributing silk-floss two catties .[and] eight taels.
   .[We] ask, how much amounteth .[this] to?
 >>
@@ -86,23 +86,23 @@ Chinese source text: \a[62], \c[52241], \d[74].
   答曰、九萬一千一百三十五斤。
 \\
   Answer saith:
-  nine myriad, one thousand one hundred .[and] thirty-five catties.
+  nine myriad one thousand one hundred .[and] thirty-five catties.
 >>
 
 <<
   術曰、置三萬六千四百五十四戶、上十之、得三十六萬四千五百四十。
 \\
   Method saith: put .[down the]
-  three myriad, six thousand four hundred .[and] fifty-four households;
+  three myriad six thousand four hundred .[and] fifty-four households;
   decupling it upward, resulteth in
-  thirty-six myriad, four thousand five hundred .[and] forty.
+  thirty-six myriad four thousand five hundred .[and] forty.
 >>
 
 <<
   以四乘之、得一百四十五萬八千一百六十兩。
 \\
   Multiplying it by four, resulteth in
-  one hundred .[and] forty-five myriad,
+  one hundred .[and] forty-five myriad
   eight thousand one hundred .[and] sixty taels.
 >>
 

@@ -105,10 +105,10 @@ Chinese source text: \a[20], \b[151], \c[52117], \d[32]. <br>
   .[the] total becometh one thousand one hundred .[and] fifty-five,
   .[which], multiplied with itself,
   resulteth in
-    one hundred .[and] thirty-three myriad, four thousand .[and] twenty-five.
+    one hundred .[and] thirty-three myriad four thousand .[and] twenty-five.
   .[With] nine people sharing it,
   .[each] person getteth
-    fourteen myriad, eight thousand two hundred .[and] twenty-five.
+    fourteen myriad eight thousand two hundred .[and] twenty-five.
 >>
 ==
 * \c[52117] erroneously has .一百十三萬 for .一百三十三萬.

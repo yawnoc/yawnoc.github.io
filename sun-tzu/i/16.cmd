@@ -153,9 +153,9 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
   .[The] eight eights above .[as] one strand,
   result in two hundred .[and] eighty-eight,
   .[which], multiplied with itself,
-  resulteth in eight myriad, two thousand nine hundred .[and] forty-four.
+  resulteth in eight myriad two thousand nine hundred .[and] forty-four.
   .[With] eight people sharing it,
-  .[each] person getteth one myriad, three hundred .[and] sixty-eight.
+  .[each] person getteth one myriad three hundred .[and] sixty-eight.
 >>
 ==
 * In modern notation:

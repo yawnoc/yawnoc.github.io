@@ -107,7 +107,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
   答曰、五萬三千六百六十六斛六斗六升三分升之二。
 \\
   Answer saith:
-    five myriad, three thousand six hundred .[and] sixty-six barrels,
+    five myriad three thousand six hundred .[and] sixty-six barrels,
     six pecks, six quarts, .[and] two thirds of .[a] quart.
 >>
 ==
@@ -129,7 +129,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
 \\
   Multiplying it by .[the] depth three rods .[and] five rules,
   resulteth in
-    eight myriad, six thousand nine hundred .[and] forty rules.
+    eight myriad six thousand nine hundred .[and] forty rules.
 >>
 
 <<

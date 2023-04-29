@@ -67,7 +67,7 @@ Chinese source text: \a[60], \b[160], \c[52238], \d[73]. <br>
   今有絹七萬八千七百三十二匹、令一百六十二人分之。問人得幾何。
 \\
   Suppose there be strong-silk
-  seven myriad, eight thousand seven hundred .[and] thirty-two lengths,
+  seven myriad eight thousand seven hundred .[and] thirty-two lengths,
   .[and we] make one hundred .[and] sixty-two people share it.
   .[We] ask, how much getteth .[each] person?
 >>
@@ -82,7 +82,7 @@ Chinese source text: \a[60], \b[160], \c[52238], \d[73]. <br>
   術曰、置絹七萬八千七百三十二匹為實、以一百六十二人為法。實如法、即得。
 \\
   Method saith: put .[down the] strong-silk
-  seven myriad, eight thousand seven hundred .[and] thirty-two lengths
+  seven myriad eight thousand seven hundred .[and] thirty-two lengths
   as .[the] dividend,
   .[and] use .[the] one hundred .[and] sixty-two people as .[the] divisor.
   .[Taking the] dividend as .[per the] divisor, .[we] are done.

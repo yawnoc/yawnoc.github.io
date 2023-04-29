@@ -167,10 +167,10 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
   .[The] nine nines above .[as] one strand,
   result in four hundred .[and] five,
   .[which], multiplied with itself,
-  resulteth in sixteen myriad, four thousand .[and] twenty-five.
+  resulteth in sixteen myriad four thousand .[and] twenty-five.
   .[With] nine people sharing it,
   .[each] person getteth
-    one myriad, eight thousand two hundred .[and] twenty-five.
+    one myriad eight thousand two hundred .[and] twenty-five.
 >>
 ==
 * .右： above; \lit .[to the] right

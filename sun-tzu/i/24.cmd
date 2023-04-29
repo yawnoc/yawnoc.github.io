@@ -113,7 +113,7 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
 \\
   Multiplying three hundred .[and] twenty-four
   by two hundred .[and] forty-three,
-  resulteth in seven myriad, eight thousand seven hundred .[and] thirty-two.
+  resulteth in seven myriad eight thousand seven hundred .[and] thirty-two.
   .[With] one hundred .[and] sixty-two people sharing it,
   .[each] person getteth four hundred .[and] eighty-six.
 >>
@@ -125,7 +125,7 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
   Multiplying nine hundred .[and] seventy-two
   by seven hundred .[and] twenty-nine,
   resulteth in
-    seventy myriad, eight thousand five hundred .[and] eighty-eight.
+    seventy myriad eight thousand five hundred .[and] eighty-eight.
   .[With] four hundred .[and] eighty-six people sharing it,
   .[each] person getteth one thousand four hundred .[and] fifty-eight.
 >>
@@ -137,7 +137,7 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
   Multiplying two thousand nine hundred .[and] sixteen
   by two thousand one hundred .[and] eighty-seven,
   resulteth in
-    six hundred .[and] thirty-seven myriad,
+    six hundred .[and] thirty-seven myriad
     seven thousand two hundred .[and] ninety-two.
   .[With] one thousand four hundred .[and] fifty-eight people sharing it,
   .[each] person getteth four thousand three hundred .[and] seventy-four.
@@ -153,11 +153,11 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
   Multiplying eight thousand seven hundred .[and] forty-eight
   by six thousand five hundred .[and] sixty-one,
   resulteth in
-    five thousand seven hundred .[and] thirty-nine myriad,
+    five thousand seven hundred .[and] thirty-nine myriad
     five thousand six hundred .[and] twenty-eight.
   .[With] four thousand three hundred .[and] seventy-four people sharing it,
   .[each] person getteth
-    one myriad, three thousand one hundred .[and] twenty-two.
+    one myriad three thousand one hundred .[and] twenty-two.
 >>
 
 <<
@@ -165,17 +165,17 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
   得五億一千六百五十六萬六百五十二。\
   一萬三千一百二十二人分之、人得三萬九千三百六十六。
 \\
-  Multiplying two myriad, six thousand two hundred .[and] forty-four
-  by one myriad, nine thousand six hundred .[and] eighty-three,
+  Multiplying two myriad six thousand two hundred .[and] forty-four
+  by one myriad nine thousand six hundred .[and] eighty-three,
   resulteth in
-    five square-myriad,
-    one thousand six hundred .[and] fifty-six myriad,
+    five square-myriad
+    one thousand six hundred .[and] fifty-six myriad
     six hundred .[and] fifty-two.
   .[With]
-    one myriad, three thousand one hundred .[and] twenty-two people
+    one myriad three thousand one hundred .[and] twenty-two people
   sharing it,
   .[each] person getteth
-    three myriad, nine thousand three hundred .[and] sixty-six.
+    three myriad nine thousand three hundred .[and] sixty-six.
 >>
 
 <<
@@ -183,17 +183,17 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
   得四十六億四千九百四萬五千八百六十八。\
   三萬九千三百六十六人分之、人得一十一萬八千九十八。
 \\
-  Multiplying seven myriad, eight thousand seven hundred .[and] thirty-two
-  by five myriad, nine thousand .[and] forty-nine,
+  Multiplying seven myriad eight thousand seven hundred .[and] thirty-two
+  by five myriad nine thousand .[and] forty-nine,
   resulteth in
-    forty-six square-myriad,
-    four thousand nine hundred .[and] four myriad,
+    forty-six square-myriad
+    four thousand nine hundred .[and] four myriad
     five thousand eight hundred .[and] sixty-eight.
   .[With]
-    three myriad, nine thousand three hundred .[and] sixty-six people
+    three myriad nine thousand three hundred .[and] sixty-six people
   sharing it,
   .[each] person getteth
-    eleven myriad, eight thousand .[and] ninety-eight.
+    eleven myriad eight thousand .[and] ninety-eight.
 >>
 
 <<
@@ -202,18 +202,18 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
   一十一萬八千九十八人分之、人得三十五萬四千二百九十四。
 \\
   Multiplying
-    twenty-three myriad, six thousand one hundred .[and] ninety-six
+    twenty-three myriad six thousand one hundred .[and] ninety-six
   by
-    seventeen myriad, seven thousand one hundred .[and] forty-seven,
+    seventeen myriad seven thousand one hundred .[and] forty-seven,
   resulteth in
-    four hundred .[and] eighteen square-myriad,
-    four thousand one hundred .[and] forty-one myriad,
+    four hundred .[and] eighteen square-myriad
+    four thousand one hundred .[and] forty-one myriad
     two thousand eight hundred .[and] twelve.
   .[With]
-    eleven myriad, eight thousand .[and] ninety-eight people
+    eleven myriad eight thousand .[and] ninety-eight people
   sharing it,
   .[each] person getteth
-    thirty-five myriad, four thousand two hundred .[and] ninety-four.
+    thirty-five myriad four thousand two hundred .[and] ninety-four.
 >>
 
 <<
@@ -222,18 +222,18 @@ Chinese source text: \a[20], \b[151], \c[52118], \d[32]. <br>
   三十五萬四千二百九十四人分之、人得一百六萬二千八百八十二。
 \\
   Multiplying
-    seventy myriad, eight thousand five hundred .[and] eighty-eight
+    seventy myriad eight thousand five hundred .[and] eighty-eight
   by
-    fifty-three myriad, one thousand four hundred .[and] forty-one,
+    fifty-three myriad one thousand four hundred .[and] forty-one,
   resulteth in
-    three thousand seven hundred .[and] sixty-five square-myriad,
-    seven thousand two hundred .[and] seventy-one myriad,
+    three thousand seven hundred .[and] sixty-five square-myriad
+    seven thousand two hundred .[and] seventy-one myriad
     five thousand three hundred .[and] eight.
   .[With]
-    thirty-five myriad, four thousand two hundred .[and] ninety-four people
+    thirty-five myriad four thousand two hundred .[and] ninety-four people
   sharing it,
   .[each] person getteth
-    one hundred .[and] six myriad,
+    one hundred .[and] six myriad
     two thousand eight hundred .[and] eighty-two.
 >>
 @@@@

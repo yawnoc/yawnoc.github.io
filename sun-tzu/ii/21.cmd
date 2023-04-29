@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S21"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S21
 * %date-created --> 2022-07-15
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -109,7 +109,7 @@ Chinese source text: \a[44], \b[156], \c[52192], \d[56]. <br>
   .[and] halving .[the] diameter,
   resulteth in one hundred .[and] ninety paces.
   .[The] two places multiplied with each other,
-  result in six myriad, seven hundred .[and] five paces.
+  result in six myriad seven hundred .[and] five paces.
 >>
 ==
 * \a[44], \c[52192], and \d[56] are missing .得 after .二位相乘.

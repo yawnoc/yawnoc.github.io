@@ -130,7 +130,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. <br>
   .[The] six sixes above .[as] one strand,
   result in one hundred .[and] twenty-six,
   .[which], multiplied with itself,
-  resulteth in one myriad, five thousand eight hundred .[and] seventy-six.
+  resulteth in one myriad five thousand eight hundred .[and] seventy-six.
   .[With] six people sharing it,
   .[each] person getteth two thousand six hundred .[and] forty-six.
 >>
