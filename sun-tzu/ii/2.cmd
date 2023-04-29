@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S2"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S2
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -101,7 +101,7 @@ Chinese source text: \a[26], \b[153], \c[52133], \d[39]. <br>
   .[for the] two of five shares .[there] resulteth six,
   .[and for the] one of three shares .[there] resulteth five;
   combining them, resulteth in eleven as .[the] dividend.
-  .[The] two denominators .[to the] right multiplied with each other,
+  .[The] two denominators aright multiplied with each other,
   result in fifteen as .[the] divisor.
 >>
 ==

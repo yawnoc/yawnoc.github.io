@@ -114,7 +114,7 @@ Chinese source text: \a[18], \b[151], \c[52108], \d[29]. <br>
   .[each] person getteth four hundred.
 >>
 ==
-* .右： above; \lit .[to the] right
+* .右： above; \lit aright
 
 * In modern notation:
   $$

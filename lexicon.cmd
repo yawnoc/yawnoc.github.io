@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-04-24
+* %date-modified --> 2023-04-29
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1592,7 +1592,7 @@ See also: [北方]
 
 2 [右] U+53F3
 ==
-* right; \met above; west
+* (a)right; \met above; west
 ==
 --
 See also: [右方]
@@ -2523,7 +2523,7 @@ See also: [從容]
 
 2 [左] U+5DE6
 ==
-* left; \met below; east
+* (a)left; \met below; east
 ==
 --
 See also: [左方]

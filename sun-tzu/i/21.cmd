@@ -110,7 +110,7 @@ Chinese source text: \a[18], \b[151], \c[52112], \d[30]. <br>
   .[each] person getteth one hundred .[and] eight.
 >>
 ==
-* .右： above; \lit .[to the] right
+* .右： above; \lit aright
 
 * In modern notation:
   $$

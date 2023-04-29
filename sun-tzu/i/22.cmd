@@ -94,7 +94,7 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. <br>
   .[each] person getteth eighteen.
 >>
 ==
-* .右： above; \lit .[to the] right
+* .右： above; \lit aright
 
 * \b[151] has .人得一十八 for .人得十八.
 

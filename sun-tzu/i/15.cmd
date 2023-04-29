@@ -173,7 +173,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
     one myriad eight thousand two hundred .[and] twenty-five.
 >>
 ==
-* .右： above; \lit .[to the] right
+* .右： above; \lit aright
   --
   In English, preceding material lies above, since English is written
   left-to-right, top-to-bottom. <br>

@@ -158,7 +158,7 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
   .[each] person getteth one myriad three hundred .[and] sixty-eight.
 >>
 ==
-* .右： above; \lit .[to the] right
+* .右： above; \lit aright
 
 * In modern notation:
   $$
