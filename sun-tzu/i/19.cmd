@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S19"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S19
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -120,9 +120,9 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. <br>
   .[The] five fives above .[as] one strand,
   result in seventy-five,
   .[which], multiplied with itself,
-  resulteth in five thousand, six hundred .[and] twenty-five.
+  resulteth in five thousand six hundred .[and] twenty-five.
   .[With] five people sharing it,
-  .[each] person getteth one thousand, one hundred .[and] twenty-five.
+  .[each] person getteth one thousand one hundred .[and] twenty-five.
 >>
 ==
 * In modern notation:

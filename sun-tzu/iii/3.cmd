@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S3"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S3
 * %date-created --> 2022-08-07
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -102,14 +102,14 @@ Chinese source text: \a[58], \b[159], \c[52223], \d[70]. <br>
 \\
   Method saith: put .[down the] circumference three rods .[and] six rules,
   .[which], multiplied with itself,
-  resulteth in one thousand, two hundred .[and] ninety-six rules.
+  resulteth in one thousand two hundred .[and] ninety-six rules.
 >>
 
 <<
   以高四尺五寸乘之、得五千八百三十二尺。
 \\
   Multiplying it by .[the] height four rules .[and] five inches,
-  resulteth in five thousand, eight hundred .[and] thirty-two rules.
+  resulteth in five thousand eight hundred .[and] thirty-two rules.
 >>
 
 <<

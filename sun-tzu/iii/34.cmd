@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S34"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S34
 * %date-created --> 2022-11-27
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -95,16 +95,16 @@ Chinese source text: \a[80], \b[164], \c[52317], \d[93]. <br>
   Answer saith:
     .[the] trees eighty-one;
     .[the] branches seven hundred .[and] twenty-nine;
-    .[the] nests six thousand, five hundred .[and] sixty-one;
+    .[the] nests six thousand five hundred .[and] sixty-one;
     .[the] fowls five myriad, nine thousand .[and] forty-nine;
     .[the] chicks
-      fifty-three myriad, one thousand, four hundred .[and] forty-one;
+      fifty-three myriad, one thousand four hundred .[and] forty-one;
     .[the] feathers
       four hundred .[and] seventy-eight myriad,
-      two thousand, nine hundred .[and] sixty-nine;
+      two thousand nine hundred .[and] sixty-nine;
     .[the] colours
-      four thousand, three hundred .[and] four myriad,
-      six thousand, seven hundred .[and] twenty-one.
+      four thousand three hundred .[and] four myriad,
+      six thousand seven hundred .[and] twenty-one.
 >>
 ==
 * In modern notation,

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S24"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S24
 * %date-created --> 2022-07-23
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -66,7 +66,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 <<
   今有錢六千九百三十、欲令二百一十六人作九分分之。
 \\
-  Suppose there be coins six thousand, nine hundred .[and] thirty,
+  Suppose there be coins six thousand nine hundred .[and] thirty,
   .[and we] wish to make two hundred .[and] sixteen people
   construct nine shares .[to] share them.
 >>
@@ -149,7 +149,7 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 <<
   又置錢六千九百三十為三位。
 \\
-  And put .[down the] coins six thousand, nine hundred .[and] thirty
+  And put .[down the] coins six thousand nine hundred .[and] thirty
   as three places.
 >>
 
@@ -162,15 +162,15 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
   .[The] upper place, multiplying it by one hundred .[and] sixty-two,
     resulteth in
       one hundred .[and] twelve myriad,
-      two thousand, six hundred .[and] sixty;
+      two thousand six hundred .[and] sixty;
   and multiplying .[the] middle place by two hundred .[and] sixteen,
     resulteth in
       one hundred .[and] forty-nine myriad,
-      six thousand, eight hundred .[and] eighty;
+      six thousand eight hundred .[and] eighty;
   and multiplying .[the] lower place by two hundred .[and] fifty-two,
     resulteth in
       one hundred .[and] seventy-four myriad,
-      six thousand, three hundred .[and] sixty:
+      six thousand three hundred .[and] sixty:
   each being .[a] dividend.
 >>
 ==
@@ -183,11 +183,11 @@ Chinese source text: \a[46], \b[157], \c[52201], \d[59]. <br>
 \\
   Dividing them each by .[the] divisor six hundred .[and] thirty:
     .[the] upper place resulteth in
-      one thousand, seven hundred .[and] eighty-two;
+      one thousand seven hundred .[and] eighty-two;
     .[the] middle place resulteth in
-      two thousand, three hundred .[and] seventy-six;
+      two thousand three hundred .[and] seventy-six;
     .[the] lower place resulteth in
-      two thousand, seven hundred .[and] seventy-two.
+      two thousand seven hundred .[and] seventy-two.
 >>
 
 <<

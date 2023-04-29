@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S4"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S4
 * %date-created --> 2022-08-13
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -75,7 +75,7 @@ Chinese source text: \a[58], \b[159], \c[52226], \d[71]. <br>
 <<
   答曰、一千八百二十七。
 \\
-  Answer saith: one thousand, eight hundred .[and] twenty-seven.
+  Answer saith: one thousand eight hundred .[and] twenty-seven.
 >>
 
 <<

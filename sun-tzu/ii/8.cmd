@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S8"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S8
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -96,7 +96,7 @@ Chinese source text: \a[30], \b[154], \c[52151], \d[44]. <br>
 \\
   Method saith: put .[down the] seven pecks .[and] nine quarts.
   Multiplying it by .[the] poppy seed rate twenty-one,
-  resulteth in one thousand, six hundred .[and] fifty-nine quarts
+  resulteth in one thousand six hundred .[and] fifty-nine quarts
   as .[the] dividend.
   Dividing it by .[the] grain rate fifty, .[we] are done.
 >>

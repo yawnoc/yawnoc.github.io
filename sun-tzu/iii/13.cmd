@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S13"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S13
 * %date-created --> 2022-11-10
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -79,7 +79,7 @@ Chinese source text: \a[64], \b[160], \c[52253], \d[76]. <br>
   今有粟三十六萬九千九百八十斛七斗、在倉九年、年斛耗三升。
 \\
   Suppose there be grain
-  thirty-six myriad, nine thousand, nine hundred .[and] eighty barrels
+  thirty-six myriad, nine thousand nine hundred .[and] eighty barrels
   .[and] seven pecks,
   .[stored] in .[a] granary nine years,
   .[and each] year .[for each] barrel .[there be] expended three quarts.
@@ -99,7 +99,7 @@ Chinese source text: \a[64], \b[160], \c[52253], \d[76]. <br>
     one myriad, one thousand .[and] ninety-nine barrels,
     four pecks, two quarts, .[and] one gill;
   .[and for] nine years .[there be] expended
-    nine myriad, nine thousand, eight hundred .[and] ninety-four barrels,
+    nine myriad, nine thousand eight hundred .[and] ninety-four barrels,
     seven pecks, eight quarts, .[and] nine gills.
 >>
 
@@ -107,7 +107,7 @@ Chinese source text: \a[64], \b[160], \c[52253], \d[76]. <br>
   術曰、置三十六萬九千九百八十斛七斗、以三升乘之、得一年之耗。
 \\
   Method saith: put .[down the]
-  thirty-six myriad, nine thousand, nine hundred .[and] eighty barrels
+  thirty-six myriad, nine thousand nine hundred .[and] eighty barrels
   .[and] seven pecks;
   multiplying it by .[the] three quarts,
   resulteth in .[the] expense of one year.

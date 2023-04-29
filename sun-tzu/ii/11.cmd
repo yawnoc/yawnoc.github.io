@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S11"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S11
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -107,7 +107,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
   答曰、五萬三千六百六十六斛六斗六升三分升之二。
 \\
   Answer saith:
-    five myriad, three thousand, six hundred .[and] sixty-six barrels,
+    five myriad, three thousand six hundred .[and] sixty-six barrels,
     six pecks, six quarts, .[and] two thirds of .[a] quart.
 >>
 ==
@@ -121,7 +121,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
   put .[down the] breadth four rods .[and] six rules,
   .[and the] length five rods .[and] four rules,
   .[which], multiplied with each other,
-  result in two thousand, four hundred .[and] eighty-four rules.
+  result in two thousand four hundred .[and] eighty-four rules.
 >>
 
 <<
@@ -129,7 +129,7 @@ Chinese source text: \a[34], \b[154], \c[52160], \d[46]. <br>
 \\
   Multiplying it by .[the] depth three rods .[and] five rules,
   resulteth in
-    eight myriad, six thousand, nine hundred .[and] forty rules.
+    eight myriad, six thousand nine hundred .[and] forty rules.
 >>
 
 <<

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S23"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S23
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -102,13 +102,13 @@ Chinese source text: \a[20], \b[151], \c[52117], \d[32]. <br>
   九人分之、人得一十四萬八千二百二十五。
 \\
   From nine nines unto one one above,
-  .[the] total becometh one thousand, one hundred .[and] fifty-five,
+  .[the] total becometh one thousand one hundred .[and] fifty-five,
   .[which], multiplied with itself,
   resulteth in
     one hundred .[and] thirty-three myriad, four thousand .[and] twenty-five.
   .[With] nine people sharing it,
   .[each] person getteth
-    fourteen myriad, eight thousand, two hundred .[and] twenty-five.
+    fourteen myriad, eight thousand two hundred .[and] twenty-five.
 >>
 ==
 * \c[52117] erroneously has .一百十三萬 for .一百三十三萬.

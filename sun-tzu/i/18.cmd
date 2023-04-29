@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S18"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S18
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -69,7 +69,7 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. <br>
 \\
   Six sixes .[are] thirty-six,
   .[which], multiplied with itself,
-  resulteth in one thousand, two hundred .[and] ninety-six.
+  resulteth in one thousand two hundred .[and] ninety-six.
   .[With] six people sharing it,
   .[each] person getteth two hundred .[and] sixteen.
 >>
@@ -130,9 +130,9 @@ Chinese source text: \a[14], \b[150], \c[52097], \d[26]. <br>
   .[The] six sixes above .[as] one strand,
   result in one hundred .[and] twenty-six,
   .[which], multiplied with itself,
-  resulteth in one myriad, five thousand, eight hundred .[and] seventy-six.
+  resulteth in one myriad, five thousand eight hundred .[and] seventy-six.
   .[With] six people sharing it,
-  .[each] person getteth two thousand, six hundred .[and] forty-six.
+  .[each] person getteth two thousand six hundred .[and] forty-six.
 >>
 ==
 * In modern notation:

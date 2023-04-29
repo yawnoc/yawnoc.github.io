@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S6"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S6
 * %date-created --> 2022-08-14
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -67,7 +67,7 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
   今有租九萬八千七百六十二斛、欲以一車載五十斛。問用車幾何。
 \\
   Suppose there be land-tax
-  nine myriad, eight thousand, seven hundred .[and] sixty-two barrels,
+  nine myriad, eight thousand seven hundred .[and] sixty-two barrels,
   .[and we] wish to use one chariot .[to] carry fifty barrels.
   .[We] ask, how many chariots useth .[it]?
 >>
@@ -75,7 +75,7 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
 <<
   答曰、一千九百七十五乘奇一十二斛。
 \\
-  Answer saith: one thousand, nine hundred .[and] seventy-five chariots
+  Answer saith: one thousand nine hundred .[and] seventy-five chariots
   remainder twelve barrels.
 >>
 ==
@@ -89,7 +89,7 @@ Chinese source text: \a[60], \b[160], \c[52232], \d[72]. <br>
   術曰、置租九萬八千七百六十二斛為實、以一車所載五十斛為法。
 \\
   Method saith: put .[down the] land-tax
-  nine myriad, eight thousand, seven hundred .[and] sixty-two barrels
+  nine myriad, eight thousand seven hundred .[and] sixty-two barrels
   as .[the] dividend,
   .[and] use that carried of one chariot, .[even] fifty barrels,
   as .[the] divisor.

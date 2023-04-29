@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S11"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S11
 * %date-created --> 2022-11-05
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -79,7 +79,7 @@ Chinese source text: \a[62], \b[160], \c[52247], \d[75]. <br>
   今有粟三千九百九十九斛九斗六升。凡粟九斗、易豆一斛。問計豆幾何。
 \\
   Suppose there be grain
-  three thousand, nine hundred .[and] ninety-nine barrels,
+  three thousand nine hundred .[and] ninety-nine barrels,
   nine pecks, .[and] six quarts.
   Every nine pecks of grain, .[is] exchanged for one barrel of beans.
   .[We] ask, how much .[in] beans amounteth .[this] to?
@@ -92,7 +92,7 @@ Chinese source text: \a[62], \b[160], \c[52247], \d[75]. <br>
   答曰、四千四百四十四斛四斗。
 \\
   Answer saith:
-  four thousand, four hundred .[and] forty-four barrels .[and] four pecks.
+  four thousand four hundred .[and] forty-four barrels .[and] four pecks.
 >>
 ==
 * \c[52247] has .斟 for .斗.
@@ -103,7 +103,7 @@ Chinese source text: \a[62], \b[160], \c[52247], \d[75]. <br>
 \\
   Method saith:
   put .[down the] grain
-  three thousand, nine hundred .[and] ninety-nine barrels,
+  three thousand nine hundred .[and] ninety-nine barrels,
   nine pecks, .[and] six quarts as .[the] dividend,
   .[and] use .[the] nine pecks as .[the] divisor.
   .[Taking the] dividend as .[per the] divisor, .[we] are done.

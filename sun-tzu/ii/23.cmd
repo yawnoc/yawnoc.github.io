@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S23"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S23
 * %date-created --> 2022-07-17
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -106,7 +106,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
   答曰、三萬二千六百四十五人、不盡六十九尺六寸。
 \\
   Answer saith:
-    three myriad, two thousand, six hundred .[and] forty-five people,
+    three myriad, two thousand six hundred .[and] forty-five people,
     remainder sixty-nine rules .[and] six inches.
 >>
 ==
@@ -125,7 +125,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
   put .[down the] number of miles,
   .[and] multiply it by three hundred paces;
   admitting .[the] residual paces, .[and] sextupling it,
-  resulteth in five myriad, two thousand, eight hundred .[and] twenty-four rules.
+  resulteth in five myriad, two thousand eight hundred .[and] twenty-four rules.
 >>
 ==
 * .內： admitting
@@ -166,7 +166,7 @@ Chinese source text: \a[44], \b[157], \c[52198], \d[58]. <br>
 \\
   Multiplying by .[the] length, resulteth in
     nine hundred .[and] seventy-nine myriad,
-    three thousand, five hundred .[and] sixty-nine rules
+    three thousand five hundred .[and] sixty-nine rules
     .[and] six inches.
 >>
 

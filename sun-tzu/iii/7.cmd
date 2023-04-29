@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S7"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S7
 * %date-created --> 2022-08-14
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -67,7 +67,7 @@ Chinese source text: \a[60], \b[160], \c[52235], \d[73]. <br>
   今有丁九萬八千七百六十六、凡二十五丁出一兵。問兵幾何。
 \\
   Suppose there be males
-  nine myriad, eight thousand, seven hundred .[and] sixty-six,
+  nine myriad, eight thousand seven hundred .[and] sixty-six,
   .[and] every twenty-five males .[we] send forth one soldier.
   .[We] ask, how many .[be the] soldiers?
 >>
@@ -75,7 +75,7 @@ Chinese source text: \a[60], \b[160], \c[52235], \d[73]. <br>
 <<
   答曰、三千九百五十人奇一十六丁。
 \\
-  Answer saith: three thousand, nine hundred .[and] fifty people
+  Answer saith: three thousand nine hundred .[and] fifty people
   remainder sixteen males.
 >>
 
@@ -83,7 +83,7 @@ Chinese source text: \a[60], \b[160], \c[52235], \d[73]. <br>
   術曰、置丁九萬八千七百六十六為實、以二十五為法。實如法、即得。
 \\
   Method saith: put .[down the] males
-  nine myriad, eight thousand, seven hundred .[and] sixty-six
+  nine myriad, eight thousand seven hundred .[and] sixty-six
   as .[the] dividend,
   .[and] use twenty-five as .[the] divisor.
   .[Taking the] dividend as .[per the] divisor, .[we] are done.

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S12"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S12
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -105,7 +105,7 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
   Method saith:
   first put .[down the] circumference five rods .[and] four rules,
   .[which], multiplied with itself,
-  resulteth in two thousand, nine hundred .[and] sixteen rules.
+  resulteth in two thousand nine hundred .[and] sixteen rules.
 >>
 ==
 * \a[34], \b[154], and \d[47] are erroneously missing .自 in .自相乘.
@@ -116,14 +116,14 @@ Chinese source text: \a[34], \b[154], \c[52163], \d[47]. <br>
 \\
   Multiplying it by .[the] depth one rod .[and] eight rules,
   resulteth in
-    five myriad, two thousand, four hundred .[and] eighty-eight rules.
+    five myriad, two thousand four hundred .[and] eighty-eight rules.
 >>
 
 <<
   以一十二除之、得四千三百七十四尺。
 \\
   Dividing it by twelve,
-  resulteth in four thousand, three hundred .[and] seventy-four rules.
+  resulteth in four thousand three hundred .[and] seventy-four rules.
 >>
 
 <<

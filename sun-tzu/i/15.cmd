@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S15"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S15
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -69,7 +69,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 \\
   Eight nines .[are] seventy-two,
   .[which], multiplied with itself,
-  resulteth in five thousand, one hundred .[and] eighty-four.
+  resulteth in five thousand one hundred .[and] eighty-four.
   .[With] eight people sharing it,
   .[each] person getteth six hundred .[and] forty-eight.
 >>
@@ -83,7 +83,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 \\
   Seven nines .[are] sixty-three,
   .[which], multiplied with itself,
-  resulteth in three thousand, nine hundred .[and] sixty-nine.
+  resulteth in three thousand nine hundred .[and] sixty-nine.
   .[With] seven people sharing it,
   .[each] person getteth five hundred .[and] sixty-seven.
 >>
@@ -97,7 +97,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 \\
   Six nines .[are] fifty-four,
   .[which], multiplied with itself,
-  resulteth in two thousand, nine hundred .[and] sixteen.
+  resulteth in two thousand nine hundred .[and] sixteen.
   .[With] six people sharing it,
   .[each] person getteth four hundred .[and] eighty-six.
 >>
@@ -117,7 +117,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
 \\
   Four nines .[are] thirty-six,
   .[which], multiplied with itself,
-  resulteth in one thousand, two hundred .[and] ninety-six.
+  resulteth in one thousand two hundred .[and] ninety-six.
   .[With] four people sharing it,
   .[each] person getteth three hundred .[and] twenty-four.
 >>
@@ -170,7 +170,7 @@ Chinese source text: \a[12], \b[148], \c[52075], \d[20]. <br>
   resulteth in sixteen myriad, four thousand .[and] twenty-five.
   .[With] nine people sharing it,
   .[each] person getteth
-    one myriad, eight thousand, two hundred .[and] twenty-five.
+    one myriad, eight thousand two hundred .[and] twenty-five.
 >>
 ==
 * .右： above; \lit .[to the] right

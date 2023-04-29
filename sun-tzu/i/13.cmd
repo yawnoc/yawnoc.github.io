@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S13"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S13
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -69,7 +69,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
 \\
   Nine nines .[are] eighty-one, .[which],
   multiplied with itself, resulteth in how much? <br>
-  Answer saith: six thousand, five hundred .[and] sixty-one.
+  Answer saith: six thousand five hundred .[and] sixty-one.
 >>
 ==
 * In modern notation:
@@ -137,7 +137,7 @@ Chinese source text: \a[10], \b[148], \c[52073], \d[17]. <br>
 \\
   .[The] upper .[and the] lower places .[now] all taken back,
   .[the] middle places do result in
-  six thousand, five hundred .[and] sixty-one.
+  six thousand five hundred .[and] sixty-one.
 >>
 ==
 * In animated form ([crappy source code here]):

@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S22"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S22
 * %date-created --> 2022-07-16
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -79,7 +79,7 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
   of upper breadth two rods,
   lower breadth five rods .[and] four rules,
   height three rods .[and] eight rules,
-  .[and] length five thousand, five hundred .[and] fifty rules.
+  .[and] length five thousand five hundred .[and] fifty rules.
 >>
 
 <<
@@ -115,7 +115,7 @@ Chinese source text: \a[44], \b[156], \c[52195], \d[57]. <br>
   以高乘之、得一千四百六尺。又以長乘之、得積七百八十萬三千三百尺。
 \\
   Multiplying it by .[the] height,
-  resulteth in one thousand, four hundred .[and] six rules.
+  resulteth in one thousand four hundred .[and] six rules.
   And multiplying it by .[the] length,
   resulteth in volume seven hundred .[and] eighty myriad,
   three thousand .[and] three hundred rules.

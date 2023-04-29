@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S20"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S20
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -82,7 +82,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   Answer saith:
     six hundred .[and] forty-eight paces
     .[and] ninety-six
-    one thousand, two hundred .[and] ninety-sixths
+    one thousand two hundred .[and] ninety-sixths
     of .[a] pace.
 >>
 
@@ -257,7 +257,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
     .[The] upper quotient resulteth in six hundred .[and] forty-eight::,
   ::{.colour-v}
     .[and the] lower divisors result in
-    one thousand, two hundred .[and] ninety-six::,
+    one thousand two hundred .[and] ninety-six::,
   ::{.colour-b} remainder ninety-six::.
 >>
 ==
@@ -272,7 +272,7 @@ Chinese source text: \a[42], \b[156], \c[52189], \d[54]. <br>
   This be .[a] circumference of
     ::{.colour-g} six hundred .[and] forty-eight:: paces .[and]
       ::{.colour-b} ninety-six::
-      ::{.colour-v} one thousand, two hundred .[and] ninety-sixths::
+      ::{.colour-v} one thousand two hundred .[and] ninety-sixths::
     of .[a] pace.
 >>
 ==

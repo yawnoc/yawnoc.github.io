@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S16"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S16
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -77,11 +77,11 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
   答曰、一千四百四十八步三尺。
 \\
   Suppose there be rope
-  of length five thousand, seven hundred .[and] ninety-four paces,
+  of length five thousand seven hundred .[and] ninety-four paces,
   .[and we] wish to make .[it] construct .[a] square.
   .[We] ask, how much .[be its edge]? <br>
   Answer saith:
-    one thousand, four hundred .[and] forty-eight paces .[and] three rules.
+    one thousand four hundred .[and] forty-eight paces .[and] three rules.
 >>
 
 <<
@@ -89,9 +89,9 @@ Chinese source text: \a[38], \b[155], \c[52177], \d[50]. <br>
 \\
   Method saith:
   put .[down the] rope's length
-    five thousand, seven hundred .[and] ninety-four paces.
+    five thousand seven hundred .[and] ninety-four paces.
   Dividing it by four, resulteth in
-    one thousand, four hundred .[and] forty-eight paces,
+    one thousand four hundred .[and] forty-eight paces,
     remainder two paces.
 >>
 

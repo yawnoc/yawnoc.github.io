@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S14"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S14
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -67,7 +67,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
   六千五百六十一、九人分之、問人得幾何。 <br>
   答曰、七百二十九。
 \\
-  Six thousand, five hundred .[and] sixty-one:
+  Six thousand five hundred .[and] sixty-one:
   .[with] nine people sharing it,
   .[we] ask, how much getteth .[each] person? <br>
   Answer saith: seven hundred .[and] twenty-nine.
@@ -83,7 +83,7 @@ Chinese source text: \a[10], \b[148], \c[52074], \d[18]. <br>
   術曰、先置六千五百六十一於中位為實、下列九人為法。
 \\
   Method saith:
-  first put six thousand, five hundred .[and] sixty-one
+  first put six thousand five hundred .[and] sixty-one
   upon .[the] middle places as .[the] dividend,
   .[and] below .[it] rank .[the] nine people as .[the] divisor.
 >>

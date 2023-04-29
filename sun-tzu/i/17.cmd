@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S17"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S17
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -72,7 +72,7 @@ Chinese source text: \b[149], \c[52090], \d[24].
 \\
   Seven sevens .[are] forty-nine,
   .[which], multiplied with itself,
-  resulteth in two thousand, four hundred .[and] one.
+  resulteth in two thousand four hundred .[and] one.
   .[With] seven people sharing it,
   .[each] person getteth three hundred .[and] forty-three.
 >>
@@ -82,7 +82,7 @@ Chinese source text: \b[149], \c[52090], \d[24].
 \\
   Six sevens .[are] forty-two,
   .[which], multiplied with itself,
-  resulteth in one thousand, seven hundred .[and] sixty-four.
+  resulteth in one thousand seven hundred .[and] sixty-four.
   .[With] six people sharing it,
   .[each] person getteth two hundred .[and] ninety-four.
 >>
@@ -92,7 +92,7 @@ Chinese source text: \b[149], \c[52090], \d[24].
 \\
   Five sevens .[are] thirty-five,
   .[which], multiplied with itself,
-  resulteth in one thousand, two hundred .[and] twenty-five.
+  resulteth in one thousand two hundred .[and] twenty-five.
   .[With] five people sharing it,
   .[each] person getteth two hundred .[and] forty-five.
 >>
@@ -146,9 +146,9 @@ Chinese source text: \b[149], \c[52090], \d[24].
   .[The] seven sevens above .[as] one strand,
   result in one hundred .[and] ninety-six,
   .[which], multiplied with itself,
-  resulteth in three myriad, eight thousand, four hundred .[and] sixteen.
+  resulteth in three myriad, eight thousand four hundred .[and] sixteen.
   .[With] seven people sharing it,
-  .[each] person getteth five thousand, four hundred .[and] eighty-eight.
+  .[each] person getteth five thousand four hundred .[and] eighty-eight.
 >>
 ==
 * In modern notation:

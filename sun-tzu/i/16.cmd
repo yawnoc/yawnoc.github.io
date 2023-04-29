@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S16"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S16
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -82,7 +82,7 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
 \\
   Seven eights .[are] fifty-six,
   .[which], multiplied with itself,
-  resulteth in three thousand, one hundred .[and] thirty-six.
+  resulteth in three thousand one hundred .[and] thirty-six.
   .[With] seven people sharing it,
   .[each] person getteth four hundred .[and] forty-eight.
 >>
@@ -92,7 +92,7 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
 \\
   Six eights .[are] forty-eight,
   .[which], multiplied with itself,
-  resulteth in two thousand, three hundred .[and] four.
+  resulteth in two thousand three hundred .[and] four.
   .[With] six people sharing it,
   .[each] person getteth three hundred .[and] eighty-four.
 >>
@@ -153,7 +153,7 @@ Chinese source text: \b[149], \c[52082], \d[22]. (Missing in Version~A.) <br>
   .[The] eight eights above .[as] one strand,
   result in two hundred .[and] eighty-eight,
   .[which], multiplied with itself,
-  resulteth in eight myriad, two thousand, nine hundred .[and] forty-four.
+  resulteth in eight myriad, two thousand nine hundred .[and] forty-four.
   .[With] eight people sharing it,
   .[each] person getteth one myriad, three hundred .[and] sixty-eight.
 >>
