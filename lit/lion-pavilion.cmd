@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Record of [the] Lion's Pavilion, Victoria~Peak`, \
     the text on a plaque in the Lion's Pavilion, Victoria Peak, Hong Kong.
 * %date-created --> 2019-04-07
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -217,7 +217,7 @@ The inserted olden-style punctuation is my own.
   .[the] former Club Chairman (Pak\-keung|百强) .[the] architect
   served it not receiving payment.
   Its various construction .[and] furnishing costs,
-  totalled altogether five hundred thousand dollars.
+  totalled altogether fifty myriad dollars.
 >>
 ==
 * .百强： (Pak\-keung|百强)
