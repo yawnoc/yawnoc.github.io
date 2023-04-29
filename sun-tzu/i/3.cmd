@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S3"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S3
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -208,13 +208,13 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   十斗六千萬粟為一斛。
 \\
   six grains make one tablet; <br>
-  ten tablets, sixty grains, make one pinch; <br>
-  ten pinches, six hundred grains, make one grab; <br>
-  ten grabs, six thousand grains, make one ladle; <br>
-  ten ladles, six myriad grains, make one gill; <br>
-  ten gills, sixty myriad grains, make one quart; <br>
-  ten quarts, six hundred myriad grains, make one peck; <br>
-  ten pecks, six thousand myriad grains, make one barrel.
+  ten tablets, .[even] sixty grains, make one pinch; <br>
+  ten pinches, .[even] six hundred grains, make one grab; <br>
+  ten grabs, .[even] six thousand grains, make one ladle; <br>
+  ten ladles, .[even] six myriad grains, make one gill; <br>
+  ten gills, .[even] sixty myriad grains, make one quart; <br>
+  ten quarts, .[even] six hundred myriad grains, make one peck; <br>
+  ten pecks, .[even] six thousand myriad grains, make one barrel.
 >>
 
 <<
