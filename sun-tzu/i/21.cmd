@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S21"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S21
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -110,6 +110,8 @@ Chinese source text: \a[18], \b[151], \c[52112], \d[30]. <br>
   .[each] person getteth one hundred .[and] eight.
 >>
 ==
+* .右： above; \lit .[to the] right
+
 * In modern notation:
   $$
     \begin{gathered}

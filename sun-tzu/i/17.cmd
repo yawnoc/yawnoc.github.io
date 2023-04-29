@@ -151,6 +151,8 @@ Chinese source text: \b[149], \c[52090], \d[24].
   .[each] person getteth five thousand four hundred .[and] eighty-eight.
 >>
 ==
+* .右： above; \lit .[to the] right
+
 * In modern notation:
   $$
     \begin{gathered}

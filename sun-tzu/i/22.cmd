@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S22"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S22
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-04-29
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -94,6 +94,8 @@ Chinese source text: \a[20], \b[151], \c[52115], \d[31]. <br>
   .[each] person getteth eighteen.
 >>
 ==
+* .右： above; \lit .[to the] right
+
 * \b[151] has .人得一十八 for .人得十八.
 
 * In modern notation:

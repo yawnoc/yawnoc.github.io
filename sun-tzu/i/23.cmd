@@ -111,6 +111,8 @@ Chinese source text: \a[20], \b[151], \c[52117], \d[32]. <br>
     fourteen myriad eight thousand two hundred .[and] twenty-five.
 >>
 ==
+* .右： above; \lit .[to the] right
+
 * \c[52117] erroneously has .一百十三萬 for .一百三十三萬.
 
 * In modern notation:

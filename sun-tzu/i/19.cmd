@@ -125,6 +125,8 @@ Chinese source text: \a[16], \b[150], \c[52103], \d[27]. <br>
   .[each] person getteth one thousand one hundred .[and] twenty-five.
 >>
 ==
+* .右： above; \lit .[to the] right
+
 * In modern notation:
   $$
     \begin{gathered}
