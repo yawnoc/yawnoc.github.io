@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2023-04-24
+* %date-modified --> 2023-05-06
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -410,19 +410,13 @@ but concede that in most instances this will not be possible
 <<
   朕每念經傳至博、音義繁賾、據一人之見、守一家之說、未必能㑹通罔缺也。
 \\
-  Every .[time] I recite .[the] Classics .[and] Commentaries most broad,
+  Every .[time] I .[Emperor] recite .[the] Classics .[and] Commentaries most broad,
   .[the] pronunciations .[and] meanings .[be] numerous .[and] profound:
   relying .[only] upon .[the] views of one person,
   .[and] keeping .[only the] explanations of one school,
   .[am I] not necessarily able to comprehend through without gaps.
 >>
 ==
-* .朕： I
-  --
-  This is a royal "I".
-  It was difficult to resist rendering this as "We" or "This-Emperor".
-  --
-
 * .每
   --
   Written ![每] in the original text with top~.亠 rather than~.𠂉.
