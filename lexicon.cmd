@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-04-29
+* %date-modified --> 2023-05-07
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -431,6 +431,16 @@ See also: [中半]
 * \var [瞭]
 ==
 
+3 [予] U+4E88
+[平聲]
+==
+* I
+==
+[上聲]
+==
+* \int [與]
+==
+
 7 [事] U+4E8B
 ==
 * thing; matter
@@ -769,6 +779,11 @@ See also: [以來]
 * advocate
 ==
 
+8 [倩] U+5029
+==
+* pretty; dimply
+==
+
 8 [倫] U+502B
 ==
 * kind
@@ -1000,6 +1015,11 @@ See also: [以來]
 ==
 * six; sixth
 * [:verb:] sextuple
+==
+
+2 [兮] U+516E
+==
+* [:speech-assist:]
 ==
 
 4 [共] U+5171
@@ -5037,6 +5057,7 @@ See also: [百萬]
 
 4 [盼] U+76FC
 ==
+* {:eyes:} clear
 * look; look forward
 ==
 
@@ -5598,6 +5619,12 @@ See also: [御米]
 * pay
 ==
 
+4 [素] U+7D20
+==
+* plain-silk
+* plain
+==
+
 4 [索] U+7D22
 ==
 * rope
@@ -5619,6 +5646,11 @@ See also: [御米]
 ==
 * cut (off); sever
 * absolute
+==
+
+6 [絢] U+7D62
+==
+* variegated
 ==
 
 6 [給] U+7D66
@@ -5735,6 +5767,11 @@ See also: [御米]
 13 [繩] U+7E69
 ==
 * cord; string
+==
+
+13 [繪] U+7E6A
+==
+* painting
 ==
 
 14 [繼] U+7E7C
@@ -6781,7 +6818,7 @@ See also: [平行], [行年]
 
 3 [起] U+8D77
 ==
-* arise; \met begin
+* arise; rouse; \met begin
 ==
 
 5 [超] U+8D85

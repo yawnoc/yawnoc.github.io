@@ -454,23 +454,61 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 @@@@
 
 
-### 8. Propriety cometh after
+### 8. Propriety afterward
 
 @@@@
 <<
   子夏問曰、巧笑倩兮、美目盼兮、素以為絢兮、何謂也。
 \\
+  (Tz(uu)\-hia|子夏) asked, saying,
+  .[Her] clever smile .[is] dimply,
+  .[her] beautiful eyes clear,
+  the plain to make the variegated:
+  what meaneth .[this]?
 >>
+==
+* .倩： dimply; \or pretty
+==
 
 <<
   子曰、繪事後素。曰、禮後乎。
 \\
+  .[And the] Master saith,
+  Matters of painting .[come] after the plain.
+  .[And he] said, Propriety afterward?
 >>
+====
+* .後素： .[come] after the plain; \or .[then] afterward the plain
+  --
+  The two renderings are of course opposite in meaning (way to go, Confucius):
+  --
+  ==
+  * In the principal rendering,
+    plainness come first and painting comes after,
+    with (Tz(uu)\-hia|子夏) then asking
+    if painting alludes to propriety/rites.
+  * In the alternative rendering,
+    painting comes first and plainness come after,
+    with (Tz(uu)\-hia|子夏) then asking
+    if plainness alludes to propriety/rites.
+  ==
+
+* .禮： propriety; \or rites
+====
 
 <<
   子曰、起予者商也、始可與言詩已矣。
 \\
+  .[And the] Master saith,
+  He that rouseth me .[is] (Shang|商);
+  .[even him] can .[I] begin to speak with of .[the Classic of] Poetry.
 >>
+==
+* .商： (Shang|商)
+  --
+  The given name of (Tz(uu)\-hia|子夏).
+  --
+==
 @@@@
 
 
