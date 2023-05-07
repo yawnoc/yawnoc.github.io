@@ -508,7 +508,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   --
   The given name of (Tz(uu)\-hia|子夏).
   The other disciple that Confucius could "begin to speak with of .[the] Poetry"
-  is (Tz(uu)\-kung|子貢); see [1.15](1#15).
+  is (Tz(uu)\-kung|子貢); see [1.15].
   --
 ==
 @@@@

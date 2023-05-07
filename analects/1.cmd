@@ -572,7 +572,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
   --
   The given name of (Tz(uu)\-kung|子貢).
   The other disciple that Confucius could "begin to speak with of .[the] Poetry"
-  is (Tz(uu)\-hia|子夏); see [3.8](3#8).
+  is (Tz(uu)\-hia|子夏); see [3.8].
   --
 ==
 @@@@

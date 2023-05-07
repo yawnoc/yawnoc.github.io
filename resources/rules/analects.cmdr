@@ -37,3 +37,8 @@ RegexDictionaryReplacement: #.analects.source-links
     [.論語集注](https://ctext.org/si-shu-zhang-ju-ji-zhu/\g<slug>)
 * \\legge \[ (?P<page> [n]? [0-9]+ ) \] -->
     [Legge](https://archive.org/details/chineseclassicsw0001unse/page/\g<page>/mode/1up?view=theater)
+
+RegexDictionaryReplacement: #.analects.cross-references
+- queue_position: BEFORE #specified-links
+* \[ (?P<chapter_number> [0-9]+ ) [.] (?P<saying_number> [0-9]+ ) \] -->
+    [\g<chapter_number>.\g<saying_number>](\g<chapter_number>#\g<saying_number>)
