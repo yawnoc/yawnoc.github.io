@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2023-04-24
+* %date-modified --> 2023-05-07
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -571,6 +571,8 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 * .賜： (Tz'(uu)|賜)
   --
   The given name of (Tz(uu)\-kung|子貢).
+  The other disciple that Confucius could "begin to speak with of .[the] Poetry"
+  is (Tz(uu)\-hia|子夏); see [3.8](3#8).
   --
 ==
 @@@@
