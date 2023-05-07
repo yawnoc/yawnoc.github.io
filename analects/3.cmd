@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-05-07
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -52,6 +52,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 5
 - 6
 - 7
+- 8
 ::::
 
 ||{.marker}
@@ -450,6 +451,26 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .飲、去聲、 \C yam3, \M y(i\)n
   --
 ==
+@@@@
+
+
+### 8. Propriety cometh after
+
+@@@@
+<<
+  子夏問曰、巧笑倩兮、美目盼兮、素以為絢兮、何謂也。
+\\
+>>
+
+<<
+  子曰、繪事後素。曰、禮後乎。
+\\
+>>
+
+<<
+  子曰、起予者商也、始可與言詩已矣。
+\\
+>>
 @@@@
 
 
