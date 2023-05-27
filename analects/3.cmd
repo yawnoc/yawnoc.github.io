@@ -521,11 +521,21 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   子曰、夏禮吾能言之、杞不足徵也、殷禮吾能言之、宋不足徵也。
 \\
+  .[The] Master saith,
+  .[The] rites of .[the] (Hia|夏) .[Dynasty] I .[am] able to speak of them,
+  .[but] (K'ee|杞) .[is] not sufficient .[to] evidence .[this];
+  .[the] rites of .[the] (Yin|殷) I .[am] able to speak of them,
+  .[but] (Sung|宋) .[is] not sufficient .[to] evidence .[this].
 >>
+==
+* .徵： evidence; \or complete
+==
 
 <<
   文獻不足故也、足則吾能徵之矣。
 \\
+  .[Their] texts .[and] talented .[men] not sufficient .[is the] cause:
+  .[were they] sufficient then .[would] I .[be] able to evidence them.
 >>
 @@@@
 

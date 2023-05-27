@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-05-07
+* %date-modified --> 2023-05-27
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -2941,6 +2941,18 @@ See also: [何得]
 * minute; petty
 ==
 
+12 [徵] U+5FB5
+[平聲]
+==
+* evidence
+* complete
+* summon
+==
+[上聲]
+==
+* (chih|徵) {:musical pitch:}
+==
+
 12 [德] U+5FB7
 ==
 * virtue
@@ -4675,6 +4687,12 @@ See also: [以為], [為政]
 15 [獸] U+7378
 ==
 * beast
+==
+
+16 [獻] U+737B
+==
+* offer
+* talent
 ==
 
 
