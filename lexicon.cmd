@@ -2847,7 +2847,7 @@ See also: [參差]
 
 5 [往] U+5F80
 ==
-* go
+* go; \met onward
 * past
 ==
 
@@ -4492,6 +4492,11 @@ See also: [改正]
 * excessive
 ==
 
+18 [灌] U+704C
+==
+* pour; irrigate
+==
+
 
 ### ⽕ (fire) U+2F55
 
@@ -5262,6 +5267,11 @@ See also: [長短]
 8 [祿] U+797F
 ==
 * salary
+==
+
+9 [禘] U+7998
+==
+* great-sacrifice
 ==
 
 13 [禮] U+79AE

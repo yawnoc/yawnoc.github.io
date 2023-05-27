@@ -547,7 +547,13 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   子曰、禘自既灌而往者、吾不欲觀之矣。
 \\
+  .[The] Master saith,
+  .[The] Great-Sacrifice from having poured and onward,
+  I wish not to observe it.
 >>
+==
+* .往： onward; \lit gone
+==
 @@@@
 
 
