@@ -361,7 +361,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       and sighed .[upon] it.
       Having-not .[is] not actual having-not;
       although .[all (Hia|夏)] had it,
-      .[they] could not exhaust its way.
+      .[they were] unable to exhaust its way.
     >>
     ==
     * .分： dispute; \lit split
