@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-05-07
+* %date-modified --> 2023-05-27
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -53,6 +53,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 6
 - 7
 - 8
+- 9
 ::::
 
 ||{.marker}
@@ -511,6 +512,21 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   is (Tz(uu)\-kung|子貢); see [1.15].
   --
 ==
+@@@@
+
+
+### 9. Olden rites lost
+
+@@@@
+<<
+  子曰、夏禮吾能言之、杞不足徵也、殷禮吾能言之、宋不足徵也。
+\\
+>>
+
+<<
+  文獻不足故也、足則吾能徵之矣。
+\\
+>>
 @@@@
 
 
