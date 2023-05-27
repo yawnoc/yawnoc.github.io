@@ -381,8 +381,8 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .[He of] clan (Kee|季)
   .[was] expeditioning .[for sacrifice] unto Mount~(T'ai|泰).
   .[And the] Master spake unto (Rem Yiu|冉有), saying,
-  Canst thou not save .[him]?
-  .[And he] replied, saying, .[I] cannot.
+  .[Art] thou not able to save .[him]?
+  .[And he] replied, saying, .[I am] unable.
 >>
 ==
 * .冉有： (Rem Yiu|冉有)
@@ -395,8 +395,8 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   --
   He of clan (Kee|季) did not have the status
   to make sacrifice unto Mount~(T'ai|泰).
-  The commentaries interpret "Canst thou not save .[him]"
-  in the sense of _Canst thou not stop him from transgressing_.
+  The commentaries interpret ".[Art] thou not able to save .[him]"
+  in the sense of _Art thou not able to stop him from transgressing_.
   --
 
 *
@@ -404,7 +404,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   .與、平聲、 \C y(u")4, \M y(u/)
   --
 
-* .不能： .[I] cannot
+* .不能： .[I am] unable
   --
   (Rem Yiu|冉有) was a subordinate employed by the clan (Kee|季),
   so he could not stop his superior from transgressing.
