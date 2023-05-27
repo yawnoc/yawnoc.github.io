@@ -54,6 +54,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 7
 - 8
 - 9
+- 10
 ::::
 
 ||{.marker}
@@ -536,6 +537,16 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 \\
   .[Their] texts .[and] talented .[men] not sufficient .[is the] cause:
   .[were they] sufficient then .[would] I .[be] able to evidence them.
+>>
+@@@@
+
+
+### 10. Confucius's dislike of the contemporaneous Great-Sacrifice
+
+@@@@
+<<
+  子曰、禘自既灌而往者、吾不欲觀之矣。
+\\
 >>
 @@@@
 
