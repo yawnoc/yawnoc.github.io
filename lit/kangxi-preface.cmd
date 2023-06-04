@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2023-05-06
+* %date-modified --> 2023-06-04
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -215,13 +215,12 @@ but concede that in most instances this will not be possible
 * .說文： Explaining Glyphs
   --
   Short for .說文解字, "Explaining Glyphs .[and] Interpreting Characters",
-  an [ancient dictionary by (H(u") Sh(e^)n|許慎)].
+  an [ancient dictionary by (H(u") Sh(e^)n|許慎)][說文].
   --
+  [說文]: https://en.wikipedia.org/wiki/Shuowen_Jiezi
 
 * .略： omissive; \or neglectful
 ==
-[ancient dictionary by (H(u") Sh(e^)n|許慎)]:
-  https://en.wikipedia.org/wiki/Shuowen_Jiezi
 
 <<
   故世謂漢儒識文字而不識子母、江左之儒識四聲而不識七音。
