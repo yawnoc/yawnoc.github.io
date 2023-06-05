@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-06-05
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -758,10 +758,10 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   子張問十世可知也。
 \\
-  (Tz(uu)\-chang|子張) asked of .[whether] ten generations can .[be] known.
+  (Tz(uu)\-chang|子張) asked of .[whether] ten lifetimes can .[be] known.
 >>
 ==
-* .世： generations; \or lifetimes
+* .世： lifetimes; \or generations
 ==
 
 <<
@@ -783,7 +783,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   其或繼周者、雖百世可知也。
 \\
   they that perhaps succeed .[the] (Chou|周),
-  although .[an] hundred generations .[after], can .[be] known.
+  although .[an] hundred lifetimes .[after], can .[be] known.
 >>
 @@@@
 
