@@ -6710,6 +6710,11 @@ See also: [平行], [行年]
 * [:speech-assist:]
 ==
 
+9 [諱] U+8AF1
+==
+* speech-taboo
+==
+
 9 [謀] U+8B00
 ==
 * scheme

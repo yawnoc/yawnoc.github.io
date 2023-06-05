@@ -604,6 +604,10 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   <<
     注。孔曰、答以不知者、為魯諱。
   \\
+    Annotation.
+    (K'ung|孔) saith:
+    Answering with .[I] know not,
+    .[is a] speech-tabooing for .[the state of] (Lu|魯).
   >>
 
   <<
