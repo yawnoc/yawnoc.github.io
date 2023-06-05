@@ -232,8 +232,14 @@ th, td {
   display: block;
   margin: 2rem 0;
 }
-.translation > tbody > tr:first-child, .translation > tbody > tr:last-child {
-  margin: 1rem 0;
+.notes .translation > tbody > tr {
+  margin: 1.5rem 0;
+}
+.translation > tbody > tr:first-child {
+  margin-top: 1rem;
+}
+.translation > tbody > tr:last-child {
+  margin-bottom: 1rem;
 }
 
 
