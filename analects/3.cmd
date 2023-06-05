@@ -629,7 +629,22 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   <<
     音義。易、以豉反。
   \\
+    Pronunciations .[and] Meanings.
+    Easily, .[is read] (yee|以)-(shih|豉) back-.[dissected].
   >>
+  ==
+  * .反： back-.[dissected]
+    --
+    Short for .反切, "back-dissection";
+    see [Wikipedia](https://en.wikipedia.org/wiki/Fanqie).
+    --
+    --
+    This indicates that .易 under '(Pao|包) saith'
+    is read in departing tone (\C yee6), "easily",
+    rather than entering tone (\C yik9), "changed".
+    The distinction is lost in modern Mandarin.
+    --
+  ==
 
   <<
     疏。正義曰、此章言諱國惡之禮也。\
