@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-05-27
+* %date-modified --> 2023-06-05
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -55,6 +55,7 @@ OrdinaryDictionaryReplacement: #.surrounds-navigation
 - 8
 - 9
 - 10
+- 11
 ::::
 
 ||{.marker}
@@ -554,6 +555,21 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 ==
 * .往： onward; \lit gone
 ==
+@@@@
+
+
+### 11. On the Great-Sacrifice
+
+@@@@
+<<
+  或問禘之說。
+\\
+>>
+
+<<
+  子曰、不知也。知其說者之於天下也、其如示諸斯乎。指其掌。
+\\
+>>
 @@@@
 
 
