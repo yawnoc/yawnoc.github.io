@@ -3255,7 +3255,7 @@ See also: [性命]
 4 [或] U+6216
 ==
 * perhaps; if
-* someone
+* someone; some
 ==
 
 7 [戚] U+621A
@@ -5143,6 +5143,7 @@ See also: [相傳]
 12 [瞭] U+77AD
 ==
 * clear
+* comprehend
 ==
 
 12 [瞰] U+77B0

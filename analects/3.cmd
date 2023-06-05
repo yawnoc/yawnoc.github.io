@@ -613,7 +613,18 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   <<
     注。包曰、孔子謂或人、言知禘禮之說者於天下之事、如指示掌中之物、言其易了。
   \\
+    Annotation.
+    (Pao|包) saith:
+    (Confucius|孔子) speaketh unto .[that] someone,
+    speaking .[that] he that knoweth .[the] explanation
+    of .[the] rites of .[the] Great Sacrifice
+    .[dealing] in .[all] matters under Heaven,
+    .[is] as pointing at .[and] viewing .[an] object amidst the palm;
+    .[even he] speaketh of their .[being] easily comprehended.
   >>
+  ==
+  * .或人： someone; \lit some person
+  ==
 
   <<
     音義。易、以豉反。
