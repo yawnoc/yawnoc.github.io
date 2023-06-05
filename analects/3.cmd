@@ -693,14 +693,14 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     Speech-tabooing .[the] nation's evil, .[is] propriety.
     If he .[were to] explain it, .[he] ought to .[have] said
     .[that the] rites of .[the] Great-Sacrifice,
-    .[do] order .[by] (Chao|昭) .[and] (Muk|穆).
-    .[At the] time Lord~(Tsee-hee|躋僖) of (Lu|魯),
-    .[did] disorder (Chao|昭) .[and] (Muk|穆);
+    .[have] order .[by] the (Chao|昭) .[and] the (Muk|穆).
+    .[At the] time, Lord~(Tsee-hee|躋僖) of (Lu|魯),
+    .[did] disorder the (Chao|昭) .[and] the (Muk|穆);
     .[to] explain it .[would] then evince evil of .[the] nation,
     therefore .[he] but spake .[that he] knew not.
   >>
   ==
-  * .昭穆： (Chao|昭) .[and] (Muk|穆)
+  * .昭穆： the (Chao|昭) .[and] the (Muk|穆)
     --
     The generational ordering to be observed
     for the placement of ancestral tablets in a temple,
@@ -734,7 +734,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     rites of .[the] Great Sacrifice,
     .[that the] sagely men knew .[them] not
     and set .[them] forth to abandonment cut off;
-    further .[it] being .[but a] someone .[that] speaketh this.
+    further .[it] being .[but a] someone .[that] spake this.
     Speaking .[that]
     he that knoweth .[the] explanation of .[the] Great-Sacrificial rites,
     .[his dealing] in .[all] matters under Heaven,
@@ -748,8 +748,8 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     弟子等恐人不知示諸斯謂指示何等物、故著此一句、言是時夫子指其掌也。
   \\
     .[And he] pointed at his palm:
-    this phrase .[be] words of when .[the] disciples composed .[the] Analects.
-    At .[the] time (Confucius|孔子) raised .[the] one hand
+    this phrase .[be] words .[from] when .[the] disciples composed .[the] Analects.
+    At .[the] time, (Confucius|孔子) raised .[the] one hand
     .[and] stretched out .[his] palm,
     .[and] with .[the] one .[other] hand pointed at it,
     to shew .[that] someone, saying,
@@ -758,7 +758,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     what manner of object .[that] viewing upon this
     speaketh of pointing at .[and] viewing;
     therefore recorded .[they] this one phrase,
-    .[to] say .[that at] this time .[the] Master pointed at his palm.
+    .[to] say .[that at] this time .[the] Master .[did] point at his palm.
   >>
   ==
   * .言： words; \lit speech
