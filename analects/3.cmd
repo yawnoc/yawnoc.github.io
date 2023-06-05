@@ -553,12 +553,21 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   I wish not to observe it.
 >>
 ==
+* .禘： .[the] Great-Sacrifice
+  --
+  The commentaries note that Confucius's dislike
+  was of the improper manner in which the Great-Sacrifice was conducted
+  by the heads of the state of (Lu|魯).
+  Without this context, it would seem from the text that Confucius
+  just really didn't like the Great-Sacrifice. See also [3.11].
+  --
+
 * .往： onward; \lit gone
 ==
 @@@@
 
 
-### 11. On the Great-Sacrifice
+### 11. On an explanation of the Great-Sacrifice
 
 @@@@
 <<
@@ -576,6 +585,16 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   it .[is] as viewing upon this.
   .[And he] pointed at his palm.
 >>
+==
+* .不知也： .[I] know not
+  --
+  As in [3.10], the text alone is missing a lot of context.
+  The commentaries explain that Confucius did actually know
+  the explanation of the Great-Sacrifice,
+  but said otherwise to avoid the taboo of airing criticism
+  of the government of (Lu|魯) for not doing it properly.
+  --
+==
 @@@@
 
 
