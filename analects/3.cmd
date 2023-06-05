@@ -585,16 +585,55 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   it .[is] as viewing upon this.
   .[And he] pointed at his palm.
 >>
-==
+====
 * .不知也： .[I] know not
   --
   As in [3.10], the text alone is missing a lot of context.
   The commentaries explain that Confucius did actually know
   the explanation of the Great-Sacrifice,
   but said otherwise to avoid the taboo of airing criticism
-  of the government of (Lu|魯) for not doing it properly.
+  of the government of (Lu|魯) for not doing the Great-Sacrifice properly.
   --
-==
+  --
+  See
+  [《論語注疏》 "Analects annotations .[and] subcommentary"]\
+  (https://ctext.org/library.pl?if=en&file=51124&page=119)
+  for example:
+  --
+  @@
+  <<
+    注。孔曰、答以不知者、為魯諱。
+  \\
+  >>
+
+  <<
+    注。包曰、孔子謂或人、言知禘禮之說者於天下之事、如指示掌中之物、言其易了。
+  \\
+  >>
+
+  <<
+    音義。易、以豉反。
+  \\
+  >>
+
+  <<
+    疏。正義曰、此章言諱國惡之禮也。\
+    或問禘之說者、或人問孔子禘祭之禮、其說何如。\
+    子曰不知也者、孔子答言、不知禘禮之說。\
+    答以不知者、為魯諱。諱國惡、禮也。\
+    若其說之、當云禘之禮、序昭穆。\
+    時魯躋僖公、亂昭穆、說之則彰國之惡、故但言不知也。\
+    知其說者之於天下也、其如示諸斯乎也者、諸、於也、斯、此也。\
+    孔子既答或人以不知禘禮之說、若不更說、恐或人以為己實不知、無以明其諱國惡、\
+    且恐後世以為禘祭之禮、聖人不知而致廢絕、更為或人言此也。\
+    言知禘禮之說者於天下之事、其如指示於此掌中之物、言其易了也。\
+    指其掌者、此句弟子作論語時言也。\
+    當時孔子舉一手伸掌、以一手指之、以示或人曰、其如示諸斯乎。\
+    弟子等恐人不知示諸斯謂指示何等物、故著此一句、言是時夫子指其掌也。
+  \\
+  >>
+  @@
+====
 @@@@
 
 
