@@ -628,6 +628,11 @@ See also: [何以], [可以]
 * elder
 ==
 
+5 [伸] U+4F38
+==
+* stretch out
+==
+
 5 [但] U+4F46
 ==
 * but
@@ -651,6 +656,7 @@ See also: [何以], [可以]
 * 何以： how; why
 * 何如： what of .[it]
 * 何得： how could
+* 何等： what manner
 * 如何： how; \met what .[sayest thou]
 ==
 --
@@ -2831,6 +2837,11 @@ See also: [參差]
 * brilliance
 ==
 
+11 [彰] U+5F70
+==
+* evince
+==
+
 12 [影] U+5F71
 ==
 * shadow
@@ -3082,6 +3093,11 @@ See also: [性命]
 * rely upon
 ==
 
+6 [恐] U+6050
+==
+* afraid
+==
+
 6 [恥] U+6065
 ==
 * shame
@@ -3302,6 +3318,11 @@ See also: [所在]
 
 
 ### ⼿ (hand) U+2F3F
+
+0 [手] U+624B
+==
+* hand
+==
 
 0 [才] U+624D
 ==
@@ -5546,6 +5567,9 @@ See also: [符驗]
 * wait
 * [:plural-suffix:]
 ==
+--
+See also: [何等]
+--
 
 6 [答] U+7B54
 ==

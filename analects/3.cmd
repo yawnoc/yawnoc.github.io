@@ -617,10 +617,10 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     (Pao|包) saith:
     (Confucius|孔子) speaketh unto .[that] someone,
     speaking .[that] he that knoweth .[the] explanation
-    of .[the] rites of .[the] Great Sacrifice
+    of .[the] Great-Sacrificial rites
     .[dealing] in .[all] matters under Heaven,
     .[is] as pointing at .[and] viewing .[an] object amidst the palm;
-    .[even he] speaketh of their .[being] easily comprehended.
+    .[even he] speaketh of his easily comprehending.
   >>
   ==
   * .或人： someone; \lit some person
@@ -648,7 +648,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 
   <<
     疏。正義曰、此章言諱國惡之禮也。\
-    或問禘之說者、或人問孔子禘祭之禮、其說何如。\
+    或問禘之說者、或人問孔子禘祭之禮、其說如何。\
     子曰不知也者、孔子答言、不知禘禮之說。\
     答以不知者、為魯諱。諱國惡、禮也。\
     若其說之、當云禘之禮、序昭穆。\
@@ -661,7 +661,74 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     當時孔子舉一手伸掌、以一手指之、以示或人曰、其如示諸斯乎。\
     弟子等恐人不知示諸斯謂指示何等物、故著此一句、言是時夫子指其掌也。
   \\
+    Subcommentary.
+    .[The] Right Meaning saith: this section speaketh of
+    .[the] propriety of speech-tabooing .[the] nation's evil.
+    Someone asked of .[an] explanation of .[the] Great-Sacrifice,
+    .[is] some person asking (Confucius|孔子) of
+    .[the] rites of .[the] Great Sacrifice,
+    .[even] how .[the] explanation thereof .[is].
+    .[The] Master saith .[I] know not,
+    .[is the] speech of (Confucius|孔子)'s answer,
+    .[that he] knoweth not .[the] explanation of .[the] Great-Sacrificial rites.
+    Answering with .[I] know not,
+    .[is a] speech-tabooing for .[the state of] (Lu|魯).
+    Speech-tabooing .[the] nation's evil, .[is] propriety.
+    If he .[were to] explain it, .[he] ought to .[have] said
+    .[that the] rites of .[the] Great-Sacrifice,
+    .[do] order .[by] (Chao|昭) .[and] (Muk|穆).
+    .[At the] time Lord~(Tsee-hee|躋僖) of (Lu|魯),
+    .[did] disorder (Chao|昭) .[and] (Muk|穆);
+    .[to] explain it .[would] then evince evil of .[the] nation,
+    therefore .[he] but speaketh .[that he] knoweth not.
+    He that knoweth .[the] explanation thereof,
+    .[his dealing] in .[all] under Heaven,
+    it .[is] as viewing upon this:
+    (chu|諸), .[meaneth] upon;
+    (ss(uu)|斯), .[meaneth] this.
+    (Confucius|孔子) having answered .[that] someone, with
+    .[I] know not .[the] explanation of .[the] Great-Sacrificial rites,
+    if .[he] explained not further,
+    .[he would be] afraid .[lest that] someone
+    think .[that he] himself actually knew not,
+    .[and he] have not .[which] to clarify
+    his speech-tabooing of .[the] nation's evil;
+    moreover afraid .[lest] latter generations think .[of the]
+    rites of .[the] Great Sacrifice,
+    .[that the] sagely men knew .[them] not
+    and set .[them] forth to abandonment cut off;
+    further .[it] being .[but] some person .[that] speaketh this.
+    Speaking .[that]
+    he that knoweth .[the] explanation of .[the] Great-Sacrificial rites,
+    .[his dealing] in .[all] matters under Heaven,
+    it .[is] as pointing at .[and] viewing upon .[an] object amidst this palm,
+    speaketh of his easily comprehending.
+    .[And he] pointed at his palm:
+    this phrase .[be] words of when .[the] disciples composed .[the] Analects.
+    At .[the] time (Confucius|孔子) raised one hand
+    .[and] stretched out .[his] palm,
+    .[and] with .[a] finger of .[the] one .[other] hand pointed at it,
+    to shew .[that] someone, saying,
+    it .[is] as viewing upon this.
+    .[The] disciples .[were] afraid .[that] others .[might] know not
+    what manner of object .[that] viewing upon this
+    speaketh of pointing at .[and] viewing;
+    therefore recorded .[they] this one phrase,
+    .[to] speak .[that at] this time .[the] Master .[was] pointing at his palm.
   >>
+  ==
+  * .疏： subcommentary
+    --
+    .疏、去聲、 \C shor3 (\pm sor3), \M sh(u\) (\gr sh(u-))
+    --
+  * .昭穆： (Chao|昭) .[and] (Muk|穆)
+    --
+    The generational ordering to be observed
+    for the placement of ancestral tablets in a temple,
+    and by those present at sacrifice.
+    --
+  * .言： words; \lit speech
+  ==
   @@
 ====
 @@@@
