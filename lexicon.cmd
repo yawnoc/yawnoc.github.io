@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-05-27
+* %date-modified --> 2023-06-05
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -3363,6 +3363,12 @@ See also: [所在]
 * hold
 ==
 
+6 [指] U+6307
+==
+* finger
+* point
+==
+
 6 [按] U+6309
 ==
 * press
@@ -5242,6 +5248,17 @@ See also: [長短]
 
 
 ### ⽰ (spirit) U+2F70
+
+0 [示] U+793A
+[平聲]
+==
+* \int [祇]
+==
+[去聲]
+==
+* shew
+* \int [視]
+==
 
 4 [祇] U+7947
 ==

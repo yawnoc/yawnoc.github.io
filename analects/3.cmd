@@ -564,11 +564,17 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 <<
   或問禘之說。
 \\
+  Someone asked of .[an] explanation of .[the] Great-Sacrifice.
 >>
 
 <<
   子曰、不知也。知其說者之於天下也、其如示諸斯乎。指其掌。
 \\
+  .[And the] Master saith, .[I] know not.
+  He that knoweth .[the] explanation thereof,
+  .[his dealing] in .[all] under Heaven:
+  it .[is] as viewing upon this.
+  .[And he] pointed at his palm.
 >>
 @@@@
 
