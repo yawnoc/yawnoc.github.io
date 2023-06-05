@@ -657,27 +657,34 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   ==
 
   <<
-    疏。正義曰、此章言諱國惡之禮也。\
-    或問禘之說者、或人問孔子禘祭之禮、其說如何。\
-    子曰不知也者、孔子答言、不知禘禮之說。\
-    答以不知者、為魯諱。諱國惡、禮也。\
-    若其說之、當云禘之禮、序昭穆。\
-    時魯躋僖公、亂昭穆、說之則彰國之惡、故但言不知也。\
-    知其說者之於天下也、其如示諸斯乎也者、諸、於也、斯、此也。\
-    孔子既答或人以不知禘禮之說、若不更說、恐或人以為己實不知、無以明其諱國惡、\
-    且恐後世以為禘祭之禮、聖人不知而致廢絕、更為或人言此也。\
-    言知禘禮之說者於天下之事、其如指示於此掌中之物、言其易了也。\
-    指其掌者、此句弟子作論語時言也。\
-    當時孔子舉一手伸掌、以一手指之、以示或人曰、其如示諸斯乎。\
-    弟子等恐人不知示諸斯謂指示何等物、故著此一句、言是時夫子指其掌也。
+    疏。正義曰、此章言諱國惡之禮也。
   \\
     Subcommentary.
     .[The] Right Meaning saith: this section speaketh of
     .[the] propriety of speech-tabooing .[the] nation's evil.
+  >>
+  ==
+  * .疏： subcommentary
+    --
+    .疏、去聲、 \C shor3 (\pm sor3), \M sh(u\) (\gr sh(u-))
+    --
+  ==
+
+  <<
+    或問禘之說者、或人問孔子禘祭之禮、其說如何。
+  \\
     Someone asked of .[an] explanation of .[the] Great-Sacrifice,
     .[is] some person asking (Confucius|孔子) of
     .[the] rites of .[the] Great Sacrifice,
     .[even] how .[the] explanation thereof .[is].
+  >>
+
+  <<
+    子曰不知也者、孔子答言、不知禘禮之說。\
+    答以不知者、為魯諱。諱國惡、禮也。\
+    若其說之、當云禘之禮、序昭穆。\
+    時魯躋僖公、亂昭穆、說之則彰國之惡、故但言不知也。
+  \\
     .[The] Master saith .[I] know not,
     .[is the] speech of (Confucius|孔子)'s answer,
     .[that he] knoweth not .[the] explanation of .[the] Great-Sacrificial rites.
@@ -691,11 +698,31 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     .[did] disorder (Chao|昭) .[and] (Muk|穆);
     .[to] explain it .[would] then evince evil of .[the] nation,
     therefore .[he] but speaketh .[that he] knoweth not.
+  >>
+  ==
+  * .昭穆： (Chao|昭) .[and] (Muk|穆)
+    --
+    The generational ordering to be observed
+    for the placement of ancestral tablets in a temple,
+    and by those present at sacrifice.
+    --
+  ==
+
+  <<
+    知其說者之於天下也、其如示諸斯乎也者、諸、於也、斯、此也。
+  \\
     He that knoweth .[the] explanation thereof,
     .[his dealing] in .[all] under Heaven,
     it .[is] as viewing upon this:
     (chu|諸), .[meaneth] upon;
     (ss(uu)|斯), .[meaneth] this.
+  >>
+
+  <<
+    孔子既答或人以不知禘禮之說、若不更說、恐或人以為己實不知、無以明其諱國惡、\
+    且恐後世以為禘祭之禮、聖人不知而致廢絕、更為或人言此也。\
+    言知禘禮之說者於天下之事、其如指示於此掌中之物、言其易了也。
+  \\
     (Confucius|孔子) having answered .[that] someone, with
     .[I] know not .[the] explanation of .[the] Great-Sacrificial rites,
     if .[he] explained not further,
@@ -713,6 +740,13 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     .[his dealing] in .[all] matters under Heaven,
     it .[is] as pointing at .[and] viewing upon .[an] object amidst this palm,
     speaketh of his easily comprehending.
+  >>
+
+  <<
+    指其掌者、此句弟子作論語時言也。\
+    當時孔子舉一手伸掌、以一手指之、以示或人曰、其如示諸斯乎。\
+    弟子等恐人不知示諸斯謂指示何等物、故著此一句、言是時夫子指其掌也。
+  \\
     .[And he] pointed at his palm:
     this phrase .[be] words of when .[the] disciples composed .[the] Analects.
     At .[the] time (Confucius|孔子) raised one hand
@@ -727,16 +761,6 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     .[to] speak .[that at] this time .[the] Master .[was] pointing at his palm.
   >>
   ==
-  * .疏： subcommentary
-    --
-    .疏、去聲、 \C shor3 (\pm sor3), \M sh(u\) (\gr sh(u-))
-    --
-  * .昭穆： (Chao|昭) .[and] (Muk|穆)
-    --
-    The generational ordering to be observed
-    for the placement of ancestral tablets in a temple,
-    and by those present at sacrifice.
-    --
   * .言： words; \lit speech
   ==
   @@
