@@ -289,11 +289,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       言夷狄、雖有君長、而無禮義、\
       中國、雖偶無君、若周召共和之年、而禮義不廢。\
       故曰夷狄之有君、不如諸夏之亡也。\
-      注。包曰、諸夏、中國。\
-      〇正義曰、此及閔元年左氏傳、皆言諸夏。\
-      襄四年左傳、魏絳云、諸華必叛。\
-      華夏皆謂中國、而謂之華夏者、夏、大也、\
-      言有禮儀之大、有文章之華也。
+      注。包曰、諸夏、中國。
     \\
       Subcommentary.
       .[The] Right Meaning saith: this section speaketh of
@@ -316,6 +312,20 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       .[is] not as all (Hia|夏)'s having .[them] not.
       Annotation.
       (Pao|包) saith: all (Hia|夏), .[is] China.
+    >>
+    ==
+    * .疏： subcommentary
+      --
+      .疏、去聲、 \C shor3 (\pm sor3), \M sh(u\) (\gr sh(u-))
+      --
+    ==
+
+    <<
+      〇正義曰、此及閔元年左氏傳、皆言諸夏。\
+      襄四年左傳、魏絳云、諸華必叛。\
+      華夏皆謂中國、而謂之華夏者、夏、大也、\
+      言有禮儀之大、有文章之華也。
+    \\
       \P .[The] Right Meaning saith:
       this and .[the] Commentary of .[Him of] Clan (Tso|左)
       of .[the] origin year of (Min|閔),
@@ -329,10 +339,6 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       .[and the] splendour of having literary composition.
     >>
     ==
-    * .疏： subcommentary
-      --
-      .疏、去聲、 \C shor3 (\pm sor3), \M sh(u\) (\gr sh(u-))
-      --
     * .諸華必叛： all (Hua|華) .[shall] surely rebel
       --
       Note that [.《論語注疏》 erroneously has .諸夷必叛](https://ctext.org/library.pl?if=en&file=51124&page=109#box\(590,566,48,212\)).
@@ -347,8 +353,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     @@
     <<
       吳氏曰、亡、古無字、通用。\
-      程子曰、夷狄且有君長、不如諸夏之僭亂、反無上下之分也。\
-      〇尹氏曰、孔子傷時之亂而歎之也。亡非實亡也、雖有之、不能盡其道爾。
+      程子曰、夷狄且有君長、不如諸夏之僭亂、反無上下之分也。
     \\
       (Wu|吳) saith:
       having-not, .[is the] olden character .[for] without, used interchangeably.
@@ -358,6 +363,14 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       .[were] not as all (Hia|夏)'s usurpative disorder,
       .[and] contrariwise .[were] without dispute
       .[between] superior .[and] inferior.
+    >>
+    ==
+    * .分： dispute; \lit split
+    ==
+
+    <<
+      〇尹氏曰、孔子傷時之亂而歎之也。亡非實亡也、雖有之、不能盡其道爾。
+    \\
       \P (Yin|尹) saith:
       (Confucius|孔子) .[was] grieved at .[the] disorder of .[the] time
       and sighed .[upon] it.
@@ -365,9 +378,6 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
       although .[all (Hia|夏)] had it,
       .[they were] unable to exhaust its way.
     >>
-    ==
-    * .分： dispute; \lit split
-    ==
     @@
   ====
 ======
