@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     An English translation of the Preface to the Kangxi Dictionary.
 * %date-created --> 2022-07-10
-* %date-modified --> 2023-06-04
+* %date-modified --> 2023-06-05
 - concluding_replacements: #.yawnoc.typography
 
 RegexDictionaryReplacement: #.character-images
@@ -341,7 +341,7 @@ but concede that in most instances this will not be possible
     in .[the] (Kim|金) .[the] Five Sounds' Collected Rimes,
     in .[the] (Y(u")an|元) .[the] Rime Assembly,
     .[and] in .[the] (Ming|明) .[the] (Hung\-wu|洪武) Proper Rimes,
-  all spread throughout .[their] present generations,
+  all spread throughout .[their] present lifetimes,
   clothing .[and] blanketing latter learning.
 >>
 ==
