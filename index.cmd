@@ -171,6 +171,8 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
 ###{#code-math} Mathematical stuff
 
 ==
+- [Slow Fault Tree Analyser (Python)]\
+    (https://github.com/yawnoc/sfta)
 - [Big Two (.鋤大弟) Scorer (Python)]\
     (https://github.com/yawnoc/big-two-scorer)
 - [Mahjong Scorer (Python)]\
