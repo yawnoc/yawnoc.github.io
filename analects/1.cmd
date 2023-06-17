@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2023-05-07
+* %date-modified --> 2023-06-17
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -261,7 +261,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
   子曰、弟子入則孝、出則弟、謹而信、汎愛眾、而親仁。
 \\
   .[The] Master saith,
-  the younger-brother child .[when] in .[shall be] filial,
+  The younger-brother child .[when] in .[shall be] filial,
   .[and when] out .[shall be] younger-brotherly,
   .[and shall be] earnest and trustworthy,
   floodingly loving .[the] multitudes,
@@ -328,7 +328,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
   子曰、君子不重則不威、學則不固。
 \\
   .[The] Master saith,
-  the superior man not grave .[shall] not .[be] mighty,
+  The superior man not grave .[shall] not .[be] mighty,
   .[his] learning not solid.
 >>
 
