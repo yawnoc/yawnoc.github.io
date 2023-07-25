@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     Conway's Romanisation for Cantonese, \
     with English approximations and a diagram of the nine tones.
 * %date-created --> 2019-04-07
-* %date-modified --> 2022-06-11
+* %date-modified --> 2023-07-25
 * %styles -->
     .vertical-rtl {
       writing-mode: vertical-rl;
@@ -395,13 +395,8 @@ For example, the modern speaker will prefer
 - [saːŋ tɕʰɔːy] __saang ch'oi__ over [ɕaːŋ tsʰɔːy] __shaang ts'oi__ for .生菜.
 ==
 --
-In my entire life, I have *never* heard anyone pronounce .書 as
-[syː] __s(u")__, which is both the wrong pre-merger initial
-and the non-favoured post-merger initial.
-Native speakers will pronounce it [ɕyː] __sh(u")__.
-Unfortunately, this subtlety is simply ignored
-by Jyutping, Yale, and Sidney Lau,
-who all assign a romanisation that corresponds to [syː].
+Unfortunately, subtleties like this are not captured
+by any modern romanisation scheme that collapses the merged pairs.
 --
 
 [Samuel Wells Williams]:
