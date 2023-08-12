@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %title --> Chinese font configuration in Linux
 * %date-created --> 2020-10-04
-* %date-modified --> 2022-06-07
+* %date-modified --> 2023-08-13
 
 RegexDictionaryReplacement: #.variables
 - queue_position: BEFORE #whitespace
@@ -53,12 +53,12 @@ it will immediately fall back onto $C as desired:
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 <fontconfig>
-  <!-- Serif (Note: Noto Sans CJK TC is actually sans) -->
+  <!-- Serif -->
   <alias>
     <family>serif</family>
     <prefer>
       <family>DejaVu Serif</family>
-      <family>Noto Sans CJK TC</family>
+      <family>Noto Serif CJK TC</family>
     </prefer>
   </alias>
   <!-- Sans-serif -->
