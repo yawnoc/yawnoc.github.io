@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-06-05
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -357,7 +357,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     \\
       (Wu|吳) saith:
       having-not, .[is the] olden character .[for] without, used interchangeably.
-      Master~(Ch'(e^)ng|程) saith:
+      Master~(Ch(')(e^)ng|程) saith:
       .[the] Eastern-Barbarians .[and the] Northern-Barbarians
       moreover having monarch .[and] leader,
       .[were] not as all (Hia|夏)'s usurpative disorder,
@@ -391,7 +391,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   季氏旅於泰山。子謂冉有曰、女弗能救與。對曰、不能。
 \\
   .[He of] clan (Kee|季)
-  .[was] expeditioning .[for sacrifice] unto Mount~(T'ai|泰).
+  .[was] expeditioning .[for sacrifice] unto Mount~(T(')ai|泰).
   .[And the] Master spake unto (Rem Yiu|冉有), saying,
   .[Art] thou not able to save .[him]?
   .[And he] replied, saying, .[I am] unable.
@@ -399,14 +399,14 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 ==
 * .冉有： (Rem Yiu|冉有)
   --
-  [(Rem K'iu|冉求), styled (Tz(uu)\-yiu|子有), a disciple of Confucius.][冉求]
+  [(Rem K(')iu|冉求), styled (Tz(uu)\-yiu|子有), a disciple of Confucius.][冉求]
   --
   [冉求]: https://en.wikipedia.org/wiki/Ran_Qiu
 
 * .救： save
   --
   He of clan (Kee|季) did not have the status
-  to make sacrifice unto Mount~(T'ai|泰).
+  to make sacrifice unto Mount~(T(')ai|泰).
   The commentaries interpret ".[Art] thou not able to save .[him]"
   in the sense of _Art thou not able to stop him from transgressing_.
   --
@@ -430,7 +430,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   子曰、嗚呼、曾謂泰山不如林放乎。
 \\
   .[And the] Master saith,
-  Alas; ever spake .[we that] Mount~(T'ai|泰) .[is] not as (Lim Fang|林放)?
+  Alas; ever spake .[we that] Mount~(T(')ai|泰) .[is] not as (Lim Fang|林放)?
 >>
 ==
 * .嗚呼： alas; \lit boo hoo
@@ -535,7 +535,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
 \\
   .[The] Master saith,
   .[The] rites of .[the] (Hia|夏) .[Dynasty] I .[am] able to speak of them,
-  .[but] (K'ee|杞) .[is] not sufficient .[to] evidence .[this];
+  .[but] (K(')ee|杞) .[is] not sufficient .[to] evidence .[this];
   .[the] rites of .[the] (Yin|殷) I .[am] able to speak of them,
   .[but] (Sung|宋) .[is] not sufficient .[to] evidence .[this].
 >>
@@ -615,7 +615,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
     注。孔曰、答以不知者、為魯諱。
   \\
     Annotation.
-    (K'ung|孔) saith:
+    (K(')ung|孔) saith:
     Answering with .[I] know not,
     .[is a] speech-tabooing for .[the state of] (Lu|魯).
   >>
