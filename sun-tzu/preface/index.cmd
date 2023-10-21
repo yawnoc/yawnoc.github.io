@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of the Preface to Sunzi Suanjing, \
     《孫子算經》, `Sun~Tz(uu)'s Computational Classic`.
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.typography
     #.yawnoc.double-quotes-in-attributes
@@ -200,7 +200,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
 ==
 * .祇： earth-spirits
   --
-  .祇、音岐、 \C k'ei4, \M q(i/)
+  .祇、音岐、 \C k(')ei4, \M q(i/)
   --
 
 * .符驗： corroboration; \lit talisman verification
@@ -239,7 +239,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
 * .尺丈： .[the] rule .[and the] rod
   --
   Units of length, see [Volume~I \S1](/sun-tzu/i/1).
-  One rule, (ch'ek|尺)~(.尺), is of the order one Imperial foot,
+  One rule, (ch(')ek|尺)~(.尺), is of the order one Imperial foot,
   and one rod, (chang|丈)~(.丈), is equal to ten rules.
   --
 ==
@@ -262,7 +262,7 @@ Chinese source text: \a[2], \b[146], \c[52056], \d[7]. <br>
   --
   Small units of length (see [Volume~I \S1](/sun-tzu/i/1)),
   respectively a thousandth and a hundredth
-  of the Chinese inch, (ts'un|寸)~(.寸).
+  of the Chinese inch, (ts(')un|寸)~(.寸).
   --
 
 * .黍絫： .[the] millet .[and the] pile

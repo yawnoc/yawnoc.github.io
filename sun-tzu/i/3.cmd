@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S3"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S3
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-05-27
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -120,13 +120,13 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
 
 * .撮： pinch
   --
-  (Ts'ot|撮)~(.撮),
+  (Ts(')ot|撮)~(.撮),
   a ten-thousandth of the Chinese litre, (sh(e^)ng|升)~(.升).
   --
 
 * .抄： grab
   --
-  (Ch'ao|抄)~(.抄),
+  (Ch(')ao|抄)~(.抄),
   a thousandth of the Chinese litre, (sh(e^)ng|升)~(.升).
   Others render this as "handful",
   but that sounds too big in my opinion.
@@ -134,7 +134,7 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
 
 * .勺： ladle
   --
-  .勺、 \C ch(oe)k8, ch'(oe)k8, \M sh(a/)o
+  .勺、 \C ch(oe)k8, ch(')(oe)k8, \M sh(a/)o
   --
   --
   (Shok|勺)~(.勺),
@@ -289,15 +289,15 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[12]. <br>
   --
   --
   An explanation for its use to denote a large power of ten is quoted
-  in [(K'ang\-hee|康熙)'s entry for .秭]:
+  in [(K(')ang\-hee|康熙)'s entry for .秭][康熙秭]:
   .載地不能載也, ".[a] carry .[even the] Earth .[be] unable to carry"
   (here the second "carry" is a verb,
   read in the usual .去聲, i.e.~tsoi3/z(a\)i).
   For context, the usual phrase is .天覆地載,
   "Heaven covereth .[and] Earth carrieth".
   --
-  
-  [(K'ang\-hee|康熙)'s entry for .秭]: https://ctext.org/kangxi-zidian/115/5#n339588
+
+  [康熙秭]: https://ctext.org/kangxi-zidian/115/5#n339588
 ==
 @@@@
 
@@ -330,7 +330,7 @@ $$
 In [Volume~II \S10](/sun-tzu/ii/10),
 the conversion between
 the capacity unit "barrel", (huk|斛)~(.斛),
-and the volume unit "cubic rule", (ch'ek|尺)~(.尺),
+and the volume unit "cubic rule", (ch(')ek|尺)~(.尺),
 is given as
 --
 $$
@@ -339,8 +339,8 @@ $$
 
 --
 \c[52059]
-has "pinches", (ts'ot|撮)~(.撮),
-and "grabs", (ch'ao|抄)~(.抄), the other way around.
+has "pinches", (ts(')ot|撮)~(.撮),
+and "grabs", (ch(')ao|抄)~(.抄), the other way around.
 The order given here is that in Versions~A, B, and~D,
 and it is consistent with the order
 in Hong Kong's [Ordinance No.~22 of~1844 (PDF)],

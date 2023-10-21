@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S33"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S33
 * %date-created --> 2022-11-27
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -79,7 +79,7 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
 <<
   今有長安洛陽、相去九百里。
 \\
-  Suppose there be (Ch'ang\-an|長安) .[and] (Lok\-yang|洛陽),
+  Suppose there be (Ch(')ang\-an|長安) .[and] (Lok\-yang|洛陽),
   separated from each other .[by] nine hundred miles.
 >>
 
@@ -87,7 +87,7 @@ Chinese source text: \a[80], \b[164], \c[52314], \d[92]. <br>
   車輪一匝一丈八尺、欲自洛陽至長安。問輪匝幾何。
 \\
   Once around .[a] chariot wheel .[be] one rod .[and] eight rules,
-  .[and we] wish to .[go] from (Lok\-yang|洛陽) unto (Ch'ang\-an|長安).
+  .[and we] wish to .[go] from (Lok\-yang|洛陽) unto (Ch(')ang\-an|長安).
   .[We] ask, how many .[times goeth the] wheel around?
 >>
 

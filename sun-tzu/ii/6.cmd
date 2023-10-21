@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S6"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S6
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -85,7 +85,7 @@ Chinese source text: \a[30], \b[153], \c[52145], \d[42]. <br>
 
 * .粺： fine(-grain)
   --
-  .粺、 \C .《分韻撮要》 p'ei4, .《正韻》薄邁切 paai6, \M b(a\)i
+  .粺、 \C .《分韻撮要》 p(')ei4, .《正韻》薄邁切 paai6, \M b(a\)i
   --
 ==
 
