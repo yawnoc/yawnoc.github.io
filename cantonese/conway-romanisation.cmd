@@ -66,6 +66,12 @@ Features Wade--Giles-style pre-merger initials and length-indicative finals.
 - [ts ch ts(') ch(') s sh y](#sibilant-palatal)
 ::::
 
+--
+Where typesetting of the character __(')__ `U+02BB MODIFIER LETTER TURNED COMMA`
+(used for aspirates) is inconvenient,
+the ASCII-only substitute __'__ (an apostrophe) may be used instead.
+--
+
 
 ###{#labial} Labial
 
