@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2023-06-15
+* %date-modified --> 2023-10-21
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -117,7 +117,7 @@ Feedback welcome: s<mailto:s75ab511@duck.com>
   - [.〈八佾〉 ".[With] Eight Dancer-Rows"](/analects/3)
   ==
 
-- [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K'ang\-hee|康熙) Dictionary"]{.major}\
+- [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K(')ang\-hee|康熙) Dictionary"]{.major}\
     (/lit/kangxi-preface)
 - ["The Need to Win"]\
     (/lit/need-to-win)

@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S8"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S8
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -71,7 +71,7 @@ Chinese source text: \a[6], \b[147], \c[52064], \d[14]. <br>
 ==
 * .重： layered
   --
-  .重、平聲、 \C ch'ung4, \M ch(o/)ng
+  .重、平聲、 \C ch(')ung4, \M ch(o/)ng
   --
 ==
 

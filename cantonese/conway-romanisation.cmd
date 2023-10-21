@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     Conway's Romanisation for Cantonese, \
     with English approximations and a diagram of the nine tones.
 * %date-created --> 2019-04-07
-* %date-modified --> 2023-07-25
+* %date-modified --> 2023-10-21
 * %styles -->
     .vertical-rtl {
       writing-mode: vertical-rl;
@@ -60,11 +60,17 @@ Features Wade--Giles-style pre-merger initials and length-indicative finals.
 ##{#initials} Initials (.聲)
 
 ::::
-- [p p' m f](#labial)
-- [t t' n l](#plain-dental-alveolar)
-- [k k' ng h kw k'w w](#velar-glottal)
-- [ts ch ts' ch' s sh y](#sibilant-palatal)
+- [p p(') m f](#labial)
+- [t t(') n l](#plain-dental-alveolar)
+- [k k(') ng h kw k(')w w](#velar-glottal)
+- [ts ch ts(') ch(') s sh y](#sibilant-palatal)
 ::::
+
+--
+Where typesetting of the character __(')__ `U+02BB MODIFIER LETTER TURNED COMMA`
+(used for aspirates) is inconvenient,
+the ASCII-only substitute __'__ (an apostrophe) may be used instead.
+--
 
 
 ###{#labial} Labial
@@ -92,7 +98,7 @@ Features Wade--Giles-style pre-merger initials and length-indicative finals.
   //
     ,{l=zh-Hant} 怕
     , [pʰ]
-    , __p'__
+    , __p(')__
     , p
     , p
     , p
@@ -142,7 +148,7 @@ Features Wade--Giles-style pre-merger initials and length-indicative finals.
   //
     ,{l=zh-Hant} 他
     , [tʰ]
-    , __t'__
+    , __t(')__
     , t
     , t
     , t
@@ -192,7 +198,7 @@ Features Wade--Giles-style pre-merger initials and length-indicative finals.
   //
     ,{l=zh-Hant} 卡
     , [kʰ]
-    , __k'__
+    , __k(')__
     , k
     , k
     , k
@@ -224,7 +230,7 @@ Features Wade--Giles-style pre-merger initials and length-indicative finals.
   //
     ,{l=zh-Hant} 誇
     , [kʷʰ]
-    , __k'w__
+    , __k(')w__
     , kw
     , kw
     , kw
@@ -275,7 +281,7 @@ Features Wade--Giles-style pre-merger initials and length-indicative finals.
   //
     ,{l=zh-Hant} 槍
     , [tsʰ]
-    , __ts'__
+    , __ts(')__
     ,{r2} c
     ,{r2} ch
     ,{r2} ch
@@ -283,7 +289,7 @@ Features Wade--Giles-style pre-merger initials and length-indicative finals.
   //
     ,{l=zh-Hant} 昌
     , [tɕʰ]
-    , __ch'__
+    , __ch(')__
     ,
       halfway between [__ts__ as in hi__ts__]
       and [__ch__ as in hit__ch__]
@@ -314,14 +320,14 @@ Features Wade--Giles-style pre-merger initials and length-indicative finals.
 ||||
 
 
-####{#ts-vs-ch} __ts__~vs~__ch__, __ts'__~vs~__ch'__, and __s__~vs~__sh__
+####{#ts-vs-ch} __ts__~vs~__ch__, __ts(')__~vs~__ch(')__, and __s__~vs~__sh__
 
 --
 Modern Cantonese has merged the initials in the following pairs:
 --
 ==
 - .將~__ts__(oe)ng vs .張~__ch__(oe)ng
-- .槍~__ts'__(oe)ng vs .昌~__ch'__(oe)ng
+- .槍~__ts(')__(oe)ng vs .昌~__ch(')__(oe)ng
 - .相~__s__(oe)ng vs .傷~__sh__(oe)ng
 ==
 --
@@ -358,7 +364,7 @@ depending on the vowel afterwards:
   //
     , [aː] __aa__
     ,{r=5} [ts] __ts__
-    ,{r=5} [tsʰ] __ts'__
+    ,{r=5} [tsʰ] __ts(')__
     ,{r=10} [s] __s__
   //
     , [ɐ] __a__
@@ -371,7 +377,7 @@ depending on the vowel afterwards:
   //
     , [ɔː] __or__
     ,{r=6} [tɕ] __ch__
-    ,{r=6} [tɕʰ] __ch'__
+    ,{r=6} [tɕʰ] __ch(')__
   //
     , [o] __o__
   //
@@ -392,7 +398,7 @@ For example, the modern speaker will prefer
 --
 ==
 - [sɛːk̚] __sek__ over [ɕɛːk̚] __shek__ for .石
-- [saːŋ tɕʰɔːy] __saang ch'oi__ over [ɕaːŋ tsʰɔːy] __shaang ts'oi__ for .生菜.
+- [saːŋ tɕʰɔːy] __saang ch(')oi__ over [ɕaːŋ tsʰɔːy] __shaang ts(')oi__ for .生菜.
 ==
 --
 Unfortunately, subtleties like this are not captured
@@ -1376,7 +1382,7 @@ in terms of this correspondence:
     , [t̚]
     ,
       [出、春入聲]{l=zh-Hant}(https://ctext.org/kangxi-zidian/17/3#n319099)
-      i.e.~.春~__(ch'\_n1)__ to~.出~__(ch'\_t7)__
+      i.e.~.春~__(ch(')\_n1)__ to~.出~__(ch(')\_t7)__
   //
     , Plain velar
     , [ŋ]
@@ -1433,8 +1439,8 @@ Here are a few examples:
     , kam1~maan__1__
   //
     ,{l=zh-Hant} 長沙灣
-    , ch'(oe)ng4~shaa1~waan__1__
-    , ch'(oe)ng4~shaa1~waan__4__
+    , ch(')(oe)ng4~shaa1~waan__1__
+    , ch(')(oe)ng4~shaa1~waan__4__
   //
     ,{l=zh-Hant} 油麻地
     , yau4~maa4~tei__6__
@@ -1459,12 +1465,12 @@ Here are a few examples:
     , .將~__ts__
     , .張~__ch__
   //
-    , .怕~__p'__
-    , .他~__t'__
-    , .卡~__k'__
-    , .誇~__k'w__
-    , .槍~__ts'__
-    , .昌~__ch'__
+    , .怕~__p(')__
+    , .他~__t(')__
+    , .卡~__k(')__
+    , .誇~__k(')w__
+    , .槍~__ts(')__
+    , .昌~__ch(')__
   //
     , .媽~__m__
     , .那~__n__
@@ -1668,16 +1674,16 @@ Here are a few examples:
 ||
 ==
 - (Pre-merger initials)
-  __sh__an1 t'ai2 faat8 foo1, 
+  __sh__an1 t(')ai2 faat8 foo1, 
   __sh__au6 __ch__ee1 foo6 mou5,
   pat7 kam2 wai2 __sh__(oe)ng1,
-  haau3 __ch__ee1 __ch'__ee2 yaa5.
+  haau3 __ch__ee1 __ch(')__ee2 yaa5.
 
 - (Post-merger initials)
-  __s__an1 t'ai2 faat8 foo1,
+  __s__an1 t(')ai2 faat8 foo1,
   __s__au6 __ts__ee1 foo6 mou5,
   pat7 kam2 wai2 __s__(oe)ng1,
-  haau3 __ts__ee1 __ts'__ee2 yaa5.
+  haau3 __ts__ee1 __ts(')__ee2 yaa5.
 ==
 
 1.
@@ -1686,13 +1692,13 @@ Here are a few examples:
 ||
 ==
 - (Pre-merger initials)
-  t'een1 tei6 y(u")n4 wong4,
+  t(')een1 tei6 y(u")n4 wong4,
   y(u")5 __ch__au6 hung4 fong1.
   yat9 y(u")t9 ying4 __ch__ak7,
   __sh__an4 __s__uk7 leet9 __ch__(oe)ng1.
 
 - (Post-merger initials)
-  t'een1 tei6 y(u")n4 wong4,
+  t(')een1 tei6 y(u")n4 wong4,
   y(u")5 __ts__au6 hung4 fong1.
   yat9 y(u")t9 ying4 __ts__ak7,
   __s__an4 __s__uk7 leet9 __ch__(oe)ng1.
@@ -1718,11 +1724,11 @@ Here are a few examples:
 ||||
 ==
 - (Pre-merger initials)
-  k'wai4 __sh__(u")1 keem3,
+  k(')wai4 __sh__(u")1 keem3,
   __ch__ai6 king1 waa4.
 
 - (Post-merger initials)
-  k'wai4 __sh__(u")1 keem3,
+  k(')wai4 __sh__(u")1 keem3,
   __ts__ai6 king1 waa4.
 ==
 
@@ -1755,14 +1761,14 @@ Here are a few examples:
 ||||
 ==
 - (Pre-merger initials)
-  __ts'__eep8 __ts'__ung4 mou4 __ts'__or3 __ch'__(u")3,
-  t'aan3 ngor5 __ts__ee6 __ch__eeu1 pou3 ying3,
-  y(u")n3 k\_(u")3 p'at7 foo1 peen3 __s__ing3.
+  __ts(')__eep8 __ts(')__ung4 mou4 __ts(')__or3 __ch(')__(u")3,
+  t(')aan3 ngor5 __ts__ee6 __ch__eeu1 pou3 ying3,
+  y(u")n3 k\_(u")3 p(')at7 foo1 peen3 __s__ing3.
 
 - (Post-merger initials)
-  __ts'__eep8 __ch'__ung4 mou4 __ch'__or3 __ch'__(u")3,
-  t'aan3 ngor5 __ts__ee6 __ts__eeu1 pou3 ying3,
-  y(u")n3 k\_(u")3 p'at7 foo1 peen3 __s__ing3.
+  __ts(')__eep8 __ch(')__ung4 mou4 __ch(')__or3 __ch(')__(u")3,
+  t(')aan3 ngor5 __ts__ee6 __ts__eeu1 pou3 ying3,
+  y(u")n3 k\_(u")3 p(')at7 foo1 peen3 __s__ing3.
 ==
 
 1.
@@ -1771,10 +1777,10 @@ Here are a few examples:
 ||||
 ==
 - (Pre-merger initials)
-  __ts'__ing2 mat9 k'aau3 kan6 __ch'__e1 moon4.
+  __ts(')__ing2 mat9 k(')aau3 kan6 __ch(')__e1 moon4.
 
 - (Post-merger initials)
-  __ts'__ing2 mat9 k'aau3 kan6 __ts'__e1 moon4.
+  __ts(')__ing2 mat9 k(')aau3 kan6 __ts(')__e1 moon4.
 ==
 
 1.
@@ -1783,14 +1789,14 @@ Here are a few examples:
 ||||
 ==
 - (Pre-merger initials)
-  haa6 yat7 __ch__aam6, kau2 lung4 t'ong4,
+  haa6 yat7 __ch__aam6, kau2 lung4 t(')ong4,
   __sh__ing4 haak8 hor2 yee5 __ch__(u")n2 __sh__ing4
-  kau2 kwong2 tung1 t'eet8.
+  kau2 kwong2 tung1 t(')eet8.
 
 - (Post-merger initials)
-  haa6 yat7 __ts__aam6, kau2 lung4 t'ong4,
+  haa6 yat7 __ts__aam6, kau2 lung4 t(')ong4,
   __s__ing4 haak8 hor2 yee5 __ch__(u")n2 __s__ing4
-  kau2 kwong2 tung1 t'eet8.
+  kau2 kwong2 tung1 t(')eet8.
 ==
 ++++
 

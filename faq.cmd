@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> FAQ
 * %description --> Frequently asked questions.
 * %date-created --> 2019-08-01
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 
 %%%
 
@@ -173,7 +173,7 @@ for the Hebrew
   2. Undo the dental-velar merger for initials:
      ====
      * [t͡ɕ] (pinyin j) becomes __ts__ or __k__
-     * [t͡ɕʰ] (pinyin q) becomes __ts'__ or __k'__
+     * [t͡ɕʰ] (pinyin q) becomes __ts(')__ or __k(')__
      * [ɕ] (pinyin x) becomes __s__ or __h__
      ====
 

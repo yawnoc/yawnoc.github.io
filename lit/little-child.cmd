@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2023-04-24
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -41,12 +41,12 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 
 
 --
-This is one of several accounts of [(Hiang T'ok|項橐)],
+This is one of several accounts of [(Hiang T(')ok|項橐)],
 a child prodigy who is supposed to have outwitted Confucius
 at the age of seven.
 --
 
-[(Hiang T'ok|項橐)]: https://zh.wikipedia.org/wiki/項橐
+[(Hiang T(')ok|項橐)]: https://zh.wikipedia.org/wiki/項橐
 
 --
 The Chinese source text is from a 1999 (.己卯年) Chinese almanac (.通勝),
@@ -96,12 +96,12 @@ I have edited the punctuation to not be bizarre.
 <<
   孔子、名丘、字仲尼、設敎於魯國之西。
 \\
-  (Confucius|孔子), named (K'iu|丘),
+  (Confucius|孔子), named (K(')iu|丘),
   .[and] styled (Chung\-ni|仲尼),
   established .[a] teaching in .[the] west of .[the] nation of (Lu|魯).
 >>
 ==
-* .孔子： (Confucius|孔子); \lit Master~(K'ung|孔)
+* .孔子： (Confucius|孔子); \lit Master~(K(')ung|孔)
 
 * .字： styled
   --
@@ -129,7 +129,7 @@ I have edited the punctuation to not be bizarre.
   --
   This is a literary text, and Confucius~&~co. are riding in a chariot,
   not a small cart or a wheelbarrow.
-  Therefore, please do not pronounce this ch'e1/ch(e-);
+  Therefore, please do not pronounce this ch(')e1/ch(e-);
   my ears will bleed.
   --
 ==
@@ -260,7 +260,7 @@ I have edited the punctuation to not be bizarre.
   .[The] little child answered, saying,
   I dwell in .[a] decrepit hometown, .[in] lowly land,
   .[and am] surnamed (Hiang|項),
-  .[and] named (T'ok|橐),
+  .[and] named (T(')ok|橐),
   .[and] yet to have .[a] style-name.
 >>
 ==
@@ -636,7 +636,7 @@ I have edited the punctuation to not be bizarre.
   天地相去、有千千萬萬餘里。\
   東西南北、皆有寄耳。
 \\
-  The wind .[cometh] from (Ts'ang Wu|蒼梧).
+  The wind .[cometh] from (Ts(')ang Wu|蒼梧).
   The rain .[arriveth] from the outskirt town.
   The cloud emergeth from the mountain.
   The fog ariseth from .[the] ground.
@@ -645,7 +645,7 @@ I have edited the punctuation to not be bizarre.
   East, west, south, .[and] north, all have but .[an] adherence.
 >>
 ==
-* .蒼梧： (Ts'ang Wu|蒼梧)
+* .蒼梧： (Ts(')ang Wu|蒼梧)
   --
   A place name.
   --
@@ -754,17 +754,17 @@ I have edited the punctuation to not be bizarre.
   適來問橐、橐一一答之。橐今欲求敎夫子一言、明以誨橐、幸請勿棄。
 \\
   .[The] little child asked (Confucius|孔子), saying,
-  .[My master is] just come to ask (T'ok|橐) .[questions],
-  .[and] (T'ok|橐) .[hath] one .[by] one answered them.
-  (T'ok|橐) now wisheth to
+  .[My master is] just come to ask (T(')ok|橐) .[questions],
+  .[and] (T(')ok|橐) .[hath] one .[by] one answered them.
+  (T(')ok|橐) now wisheth to
   request instruction of .[my] master .[in] one saying,
-  .[to] teach (T'ok|橐) clearly,
+  .[to] teach (T(')ok|橐) clearly,
   .[and doth] wishfully ask .[that my master] do not forsake.
 >>
 ==
-* .橐： (T'ok|橐)
+* .橐： (T(')ok|橐)
   --
-  Out of respect, the child (Hiang T'ok|項橐) refers
+  Out of respect, the child (Hiang T(')ok|項橐) refers
   [to himself in the third person][illeism],
   and to Confucius as .夫子, ".[my] master", rather than .汝, "thou".
   --

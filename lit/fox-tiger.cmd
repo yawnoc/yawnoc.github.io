@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An English translation of the original text for 《狐假虎威》, \
     `[The] Fox Feigneth [the] Tiger's Authority`.
 * %date-created --> 2019-04-07
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -92,14 +92,14 @@ but with olden-style punctuation:
 ==
 * .荊： (King|荊)
   --
-  Another name for the state of~(Ch'u|楚) (.楚).
+  Another name for the state of~(Ch(')u|楚) (.楚).
   --
 
 * .群： group; \or gathering
 
 * .昭奚恤： (Chao Hee\-s(u")t|昭奚恤)
   --
-  The name of a high military official of~(Ch'u|楚).
+  The name of a high military official of~(Ch(')u|楚).
   --
 ==
 

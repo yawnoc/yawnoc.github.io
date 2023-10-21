@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~1 of the Confucian Analects, \
     〈學而〉 (Xue Er).
 * %date-created --> 2022-12-04
-* %date-modified --> 2023-06-17
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -227,7 +227,7 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 
 * .傳： transmitted
   --
-  .傳、平聲、 \C ch'(u")n4, \M chu(a/)n
+  .傳、平聲、 \C ch(')(u")n4, \M chu(a/)n
   --
 ==
 @@@@
@@ -374,20 +374,20 @@ Useful commentaries: \comm[xue-er], \coll[xue-er-di-yi], \legge[n154]
 <<
   子禽問於子貢曰、夫子至於是邦也、必聞其政、求之與、抑與之與。
 \\
-  (Tz(uu)\-k'im|子禽) asked of (Tz(uu)\-kung|子貢), saying,
+  (Tz(uu)\-k(')im|子禽) asked of (Tz(uu)\-kung|子貢), saying,
   .[Our] master arriveth in these countries,
   .[and doth] surely hear of their governances:
   seeketh .[he] them? or .[be he] given them?
 >>
 ==
-* .子禽： (Tz(uu)\-k'im|子禽)
+* .子禽： (Tz(uu)\-k(')im|子禽)
   --
-  (Ch'(e^)n K'ang|陳亢), styled (Tz(uu)\-k'im|子禽), a disciple of Confucius.
+  (Ch(')(e^)n K(')ang|陳亢), styled (Tz(uu)\-k(')im|子禽), a disciple of Confucius.
   --
 
 * .子貢： (Tz(uu)\-kung|子貢)
   --
-  [(Tuan\-muk Tz'(uu)|端木賜), styled (Tz(uu)\-kung|子貢), a disciple of Confucius.][端木賜]
+  [(Tuan\-muk Tz(')(uu)|端木賜), styled (Tz(uu)\-kung|子貢), a disciple of Confucius.][端木賜]
   --
   [端木賜]: https://en.wikipedia.org/wiki/Duanmu_Ci
 

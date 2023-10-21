@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S2"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S2
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -72,8 +72,8 @@ Chinese source text: \a[4], \b[146], \c[52059], \d[11]. <br>
 ==
 * .稱： measuring weight; \or weighing
   --
-  .稱、平聲、 \C ch'ing1 (\pm ts'ing1), \M ch(e-)ng <br>
-  (but in modern Cantonese, read .去聲~ch'ing3 for .秤.)
+  .稱、平聲、 \C ch(')ing1 (\pm ts(')ing1), \M ch(e-)ng <br>
+  (but in modern Cantonese, read .去聲~ch(')ing3 for .秤.)
   --
 
 * .起： beginneth from; \lit ariseth from
@@ -214,7 +214,7 @@ $$
   \end{alignedat}
 $$
 --
-By the later part of the (Ts'ing|清) Dynasty,
+By the later part of the (Ts(')ing|清) Dynasty,
 one (kin|斤)~(.斤) or catty is 1⅓~pounds in Hong Kong,
 locally called a (kan|斤)~(.斤).
 As with length units,

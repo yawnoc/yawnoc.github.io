@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A discussion and translation of Chuang Tz(uu)'s alleged `archery` quote, \
     `When an archer is shooting for nothing, he has all his skill...`.
 * %date-created --> 2019-04-15
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -238,7 +238,7 @@ but with olden-style punctuation:
     "(Nam\-hua|南華) True Classics: (Kwok Siang|郭象)'s annotations".
 
   * [《康熙字典》]{l=zh-Hant}(https://ctext.org/kangxi-zidian/85/5#n332753),
-    "(K'ang\-hee|康熙)'s dictionary".
+    "(K(')ang\-hee|康熙)'s dictionary".
     --
     Notably, the dictionary uses the line .以黃金注者㱪
     from our passage as the example for this meaning.

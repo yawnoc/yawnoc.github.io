@@ -14,6 +14,9 @@ OrdinaryDictionaryReplacement: #.romanisation.special-characters
 # U+00FC LATIN SMALL LETTER U WITH DIAERESIS
 *   (u") --> ü
 #
+# U+02BB MODIFIER LETTER TURNED COMMA
+*   (') --> ʻ
+#
 # ## Conway only
 #
 # U+0153 LATIN SMALL LIGATURE OE

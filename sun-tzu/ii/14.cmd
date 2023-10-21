@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~II \S14"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~II" 《孫子算經卷中》 \S14
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -95,7 +95,7 @@ Chinese source text: \a[36], \b[155], \c[52171], \d[49]. <br>
 ==
 * .頃： yardland
   --
-  (K'ing|頃)~(.頃), equal to 100~(mu|畝)~(.畝) or Chinese acres.
+  (K(')ing|頃)~(.頃), equal to 100~(mu|畝)~(.畝) or Chinese acres.
   Difficult to render,
   and I have chosen "yardland" because it sounds more natural,
   even though the [imperial oxgang]

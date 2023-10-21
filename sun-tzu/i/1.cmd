@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S1"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S1
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -81,8 +81,8 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
 * .忽： floss
   --
-  (Hut|忽)~(.忽), a hundred-thousandth of the Chinese inch, (ts'un|寸)~(.寸).
-  [(K'ang\-hee|康熙)'s Dictionary](https://ctext.org/kangxi-zidian/61/4#n326385),
+  (Hut|忽)~(.忽), a hundred-thousandth of the Chinese inch, (ts(')un|寸)~(.寸).
+  [(K(')ang\-hee|康熙)'s Dictionary](https://ctext.org/kangxi-zidian/61/4#n326385),
   quoting .《劉德曰》, "(Liu Tek|劉德) saith",
   has .忽、蜘蛛網也, "floss, .[a] spider's web".
   --
@@ -113,12 +113,12 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 * .絲： (silk) thread
   --
   (Ss(uu)|絲)~(.絲),
-  a ten-thousandth of the Chinese inch, (ts'un|寸)~(.寸).
+  a ten-thousandth of the Chinese inch, (ts(')un|寸)~(.寸).
   --
 
 * .毫： mil; \lit fine-hair
   --
-  (Hao|毫)~(.毫), a thousandth of the Chinese inch, (ts'un|寸)~(.寸).
+  (Hao|毫)~(.毫), a thousandth of the Chinese inch, (ts(')un|寸)~(.寸).
   Similar to the imperial [mil or thou].
   --
 
@@ -127,18 +127,18 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 * .釐： cent
   --
   (Lee|釐)~(.釐),
-  a hundredth of the Chinese inch, (ts'un|寸)~(.寸).
+  a hundredth of the Chinese inch, (ts(')un|寸)~(.寸).
   --
 
 * .分： tenth
   --
   (F(e^)n|分)~(.分),
-  a tenth of the Chinese inch, (ts'un|寸)~(.寸).
+  a tenth of the Chinese inch, (ts(')un|寸)~(.寸).
   --
 
 * .寸： inch
   --
-  (Ts'un|寸)~(.寸), the [Chinese inch].
+  (Ts(')un|寸)~(.寸), the [Chinese inch].
   Of the same order of magnitude as the imperial inch,
   and used figuratively as the inch is in English
   to denote a small distance,
@@ -149,7 +149,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
 * .尺： rule; \or ruler
   --
-  (Ch'ek|尺)~(.尺), ten Chinese inches.
+  (Ch(')ek|尺)~(.尺), ten Chinese inches.
   This is of the order one foot,
   but I have not rendered this as "foot"
   because there is no such connotation.
@@ -201,7 +201,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
 * .匹： length
   --
-  (P'it|匹)~(.匹), forty rules.
+  (P(')it|匹)~(.匹), forty rules.
   This is the only unit rendering which I am unsatisfied with.
   .匹 is the classifier for cloth, .一匹布 being "one length of cloth".
   --
@@ -257,7 +257,7 @@ Chinese source text: \a[4], \b[146], \c[52058], \d[11]. <br>
 
 --
 I can't be bothered looking up a reputable source
-for the precise length of a (ch'ek|尺)~(.尺) or rule
+for the precise length of a (ch(')ek|尺)~(.尺) or rule
 when (Sun~Tz(uu)|孫子)'s Computational Classic was first written,
 but using 0.3~metres as an estimate,
 we have:
@@ -294,8 +294,8 @@ But my job is only to translate the text as it is, not to correct it.
 
 
 --
-By the later part of the (Ts'ing|清) Dynasty,
-one (ch'ek|尺)~(.尺) or rule is 14⅝~inches in Hong Kong.
+By the later part of the (Ts(')ing|清) Dynasty,
+one (ch(')ek|尺)~(.尺) or rule is 14⅝~inches in Hong Kong.
 Reading through historical versions of the [Weights and Measures Ordinance]
 enacted by the British in Hong Kong,
 [Ordinance No.~22 of~1844 (PDF)]
@@ -332,14 +332,14 @@ more than four decades later:
 ||
 
 --
-Eventually the (ch'ek|尺)~(.尺) is given
+Eventually the (ch(')ek|尺)~(.尺) is given
 the equivalent definition of 0.371475~metres,
 used unto this day in Hong Kong;
 see [Cap.~68 Weights and Measures Ordinance].
 (Floor plans are reckoned in imperial feet though, written ".呎".)
 --
 --
-Taiwan uses a (ch'ih|尺)~(.尺) from the Japanese occupation
+Taiwan uses a (ch(')ih|尺)~(.尺) from the Japanese occupation
 equal to 10/33 of a metre, i.e.~0.3030...~metres,
 and Mainland China uses a metric-based (chi|尺)~(.尺)
 equal to 1/3 of a metre, i.e.~0.3333...~metres.

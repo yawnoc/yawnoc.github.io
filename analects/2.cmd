@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~2 of the Confucian Analects, \
     〈為政〉 (Wei Zheng).
 * %date-created --> 2022-12-16
-* %date-modified --> 2023-06-05
+* %date-modified --> 2023-10-21
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -246,15 +246,15 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   樊遲御、子告之曰、孟孫問孝於我、我對曰、無違。樊遲曰、何謂也。
 \\
-  (Fan Ch'ih|樊遲) driving, .[the] Master informed him, saying,
+  (Fan Ch(')ih|樊遲) driving, .[the] Master informed him, saying,
   (M(e^)ng\-sun|孟孫) asked of filiality of me,
   .[and] I replied, saying, Without going against.
-  (Fan Ch'ih|樊遲) said, What meantest .[thou]?
+  (Fan Ch(')ih|樊遲) said, What meantest .[thou]?
 >>
 ==
-* .樊遲： (Fan Ch'ih|樊遲)
+* .樊遲： (Fan Ch(')ih|樊遲)
   --
-  [(Fan S(u")|樊須), styled (Tz(uu)\-ch'ih|子遲), a disciple of Confucius.][樊須]
+  [(Fan S(u")|樊須), styled (Tz(uu)\-ch(')ih|子遲), a disciple of Confucius.][樊須]
   --
   [樊須]: https://en.wikipedia.org/wiki/Disciples_of_Confucius#Fan_Xu_(Zichi)
 ==
@@ -589,7 +589,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   .[shall] the people submit not.
 >>
 ==
-* .孔子： (Confucius|孔子); \lit Master~(K'ung|孔)
+* .孔子： (Confucius|孔子); \lit Master~(K(')ung|孔)
   --
   Per the old commentaries and Legge,
   we have .孔子對曰 "(Confucius|孔子) replied saying" because
@@ -610,12 +610,12 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
 <<
   季康子問使民敬忠以勸、如之何。
 \\
-  Master~(Kee\-k'ang|季康) asked of
+  Master~(Kee\-k(')ang|季康) asked of
   making the people respectful .[and] loyal .[and] to exhort .[them],
   how this .[be done].
 >>
 ==
-* .季康子： Master~(Kee\-k'ang|季康)
+* .季康子： Master~(Kee\-k(')ang|季康)
   --
   An officer of the state of (Lu|魯), surnamed (Kee|姬),
   clan name (Kee\-sun|季孫), and named (Fei|肥).
@@ -648,7 +648,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
   Someone spake unto (Confucius|孔子), saying, Why governest thou not?
 >>
 ==
-* .孔子： (Confucius|孔子); \lit Master~(K'ung|孔)
+* .孔子： (Confucius|孔子); \lit Master~(K(')ung|孔)
 
 * .子： thou; \lit master
 
@@ -686,7 +686,7 @@ Useful commentaries: \comm[wei-zheng], \coll[wei-zheng-di-er], \legge[9]
     王若曰、君陳、惟爾令德孝恭。惟孝友于兄弟、克施有政。
   \\
     .[The] king said as .[thus],
-    (K(u")n\-ch'(e^)n|君陳),
+    (K(u")n\-ch(')(e^)n|君陳),
     only thou .[art] of goodly virtue .[and] filial deference.
     Only filiality .[and] friendliness unto elder-brother .[and] younger-brother,
     able to .[be] imparted unto governance.
