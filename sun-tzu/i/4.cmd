@@ -17,7 +17,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S4"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S4
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-11-03
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -82,7 +82,7 @@ Chinese source text: \a[6], \b[147], \c[52060], \d[13]. <br>
   .[a] myriad myriad square-myriad .[is] called .[a] multitude; <br>
   .[a] myriad myriad multitude .[is] called .[a] capital; <br>
   .[a] myriad myriad capital .[is] called .[a] terrace; <br>
-  .[a] myriad myriad terrace .[is] called .[a] haystack; <br>
+  .[a] myriad myriad terrace .[is] called .[an] haystack; <br>
   .[a] myriad myriad haystack .[is] called .[a] soil; <br>
   .[a] myriad myriad soil .[is] called .[a] ditch; <br>
   .[a] myriad myriad ditch .[is] called .[a] stream; <br>
