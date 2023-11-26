@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~III \S17"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~III" 《孫子算經卷下》 \S17
 * %date-created --> 2022-11-13
-* %date-modified --> 2023-03-04
+* %date-modified --> 2023-11-26
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -85,7 +85,7 @@ Chinese source text: \a[68], \b[161], \c[52265], \d[80]. <br>
 ==
 * \c[52265] erroneously has .用聣 for .用桮.
 
-* .不知客幾何： know .[we] not how many guests .[there be]
+* .不知客幾何： know .[we] not how many .[be the] guests
   --
   The quotation marks in \c[52265] mark this as spoken by the woman.
   Personally I disagree, and think that .不知客幾何 is spoken by the narrator.
