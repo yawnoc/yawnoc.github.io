@@ -21,7 +21,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     A derivation of the optimal launch angle (which maximises range) \
     for projectile motion in weak quadratic drag using perturbation theory.
 * %date-created --> 2019-06-21
-* %date-modified --> 2022-06-11
+* %date-modified --> 2023-12-26
 
 %%%
 
@@ -220,7 +220,7 @@ $$
 $$
 --
 If you are able to evaluate either of the two integrals above,
-please contact me at s<mailto:s75ab511@duck.com>.
+please contact me at s<mailto:yawnoc.outsell414@passmail.net>.
 On the other hand, quartic terms, even if they could be found,
 would be of little practical use, since the expansion is asymptotic
 and as such probably does not converge.

@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2023-10-21
+* %date-modified --> 2023-12-26
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -58,7 +58,7 @@ with the metabolism of Sir~Doris the Hamster.
 Mostly [applied maths](#math) and [translations of Literary Chinese](#lit).
 --
 --
-Feedback welcome: s<mailto:s75ab511@duck.com>
+Feedback welcome: s<mailto:yawnoc.outsell414@passmail.net>
 --
 
 
