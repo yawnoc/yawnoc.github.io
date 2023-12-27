@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     Conway's Romanisation for Cantonese, \
     with English approximations and a diagram of the nine tones.
 * %date-created --> 2019-04-07
-* %date-modified --> 2023-10-21
+* %date-modified --> 2023-12-27
 * %styles -->
     .vertical-rtl {
       writing-mode: vertical-rl;
@@ -1404,9 +1404,9 @@ None of Jyutping, Yale, and Sidney~Lau make this distinction.
 --
 --
 Tone patterns and literary situations aside though,
-tones in colloquial Cantonese are versatile, in that they can be
+tones in vernacular Cantonese are versatile, in that they can be
 vernacularised as different tones in particular instances.
-This, in my opinion, makes colloquial Cantonese
+This, in my opinion, makes vernacular Cantonese
 probably the most inconsistent language in the world.
 Here are a few examples:
 --
