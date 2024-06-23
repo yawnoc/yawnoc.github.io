@@ -73,15 +73,37 @@ where <code>krncabp</code> (in either case) stand for
 general (<b class="piece-letter">k</b>ing), chariot (<b class="piece-letter">r</b>ook), horse (k<b class="piece-letter">n</b>ight), <b class="piece-letter">c</b>annon,
 <b class="piece-letter">a</b>dvisor, elephant (<b class="piece-letter">b</b>ishop), and <b class="piece-letter">p</b>awn respectively.
 </p>
+<h2 id="fairy-config"><a href="#fairy-config" class="permalink" aria-label="Permalink"></a>Fairy-Stockfish configuration</h2>
 <p>
-I have not named this variant "half-board" lest it be confused
+Crowded Xiangqi can be configured in <a href="https://github.com/fairy-stockfish/Fairy-Stockfish">Fairy-Stockfish</a>
+by loading a <code>variants.ini</code> file containing the following:
+</p>
+<pre><code># Chinese Chess on half the board (5 × 9 intersections)
+# Pawns (soldiers) are set to display as archbishops (via pieceToCharTable)
+# so that WinBoard/XBoard won't disappear them on the last rank.
+# https://github.com/fairy-stockfish/Fairy-Stockfish/issues/180#issuecomment-692910150
+[crowdedxiangqi:xiangqi]
+pieceToCharTable = .N.R.ABP.K.C...........n.r.abp.k.c..........
+maxRank = 5
+startFen = rnbakabnr/pcp1p1pcp/9/PCP1P1PCP/RNBAKABNR w - - 0 1
+mobilityRegionBlackKing = d3 e3 f3 d4 e4 f4 d5 e5 f5
+mobilityRegionBlackFers = d3 e3 f3 d4 e4 f4 d5 e5 f5
+mobilityRegionBlackElephant = *1 *2 *3 *4 *5
+soldierPromotionRank = 4
+</code></pre>
+<p>
+See <a href="https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration">Variant configuration in the Fairy-Stockfish wiki</a>.
+</p>
+<h2 id="naming"><a href="#naming" class="permalink" aria-label="Permalink"></a>Naming</h2>
+<p>
+I have not named this variant "half-board" due to confusion
 with <a href="https://en.wikipedia.org/wiki/Banqi">Banqi (<span lang="zh-Hant">半棋</span>)</a>, which is a very different game
 where the pieces are shuffled (so there is a strong element of luck)
 and placed in the squares rather than at the intersections.
 </p>
 <h2 id="cite"><a href="#cite" class="permalink" aria-label="Permalink"></a>Cite this page</h2>
 <p>
-Conway (2022).
+Conway (2024).
 Crowded Xiangqi.
 &lt;<a href="https://yawnoc.github.io/crowded-xiangqi">https://yawnoc.github.io/crowded-xiangqi</a>&gt;
 Accessed <span class="js-date">yyyy-mm-dd</span>.
@@ -90,16 +112,16 @@ Accessed <span class="js-date">yyyy-mm-dd</span>.
 document.addEventListener("DOMContentLoaded", function() {renderDate()})
 </script>
 <footer>
-© 2020–2022 Conway.
+© 2020–2022, 2024 Conway.
 <ul>
 <li>
 First created: 2020-09-06
 </li>
 <li>
-Last modified: 2022-06-07
+Last modified: 2024-06-23
 </li>
 <li>
-Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/crowded-xiangqi.cmd"><code>crowded-xiangqi.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.5.0">CMDv4.5.0</a>
+Compiled from <a href="https://github.com/yawnoc/yawnoc.github.io/blob/master/crowded-xiangqi.cmd"><code>crowded-xiangqi.cmd</code></a> with <a href="https://github.com/conway-markdown/conway-markdown/tree/v4.6.0">CMDv4.6.0</a>
 </li>
 </ul>
 </footer>
