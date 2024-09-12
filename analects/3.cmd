@@ -6,6 +6,10 @@
 < /resources/rules/analects.cmdr
 < /resources/rules/surrounds.cmdr
 
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
+
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"[The] Analects: Chapter~3"'
@@ -14,7 +18,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     An annotated English translation of Chapter~3 of the Confucian Analects, \
     〈八佾〉 (Ba Yi).
 * %date-created --> 2023-01-06
-* %date-modified --> 2023-10-21
+* %date-modified --> 2024-09-12
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.romanisation.special-characters
@@ -212,7 +216,7 @@ Useful commentaries: \comm[ba-yi], \coll[ba-yi-di-san], \legge[18]
   A man of (Lu|魯).
   --
 
-* .禮： rites; \or propiety
+* .禮： rites; \or propriety
 ==
 
 <<
