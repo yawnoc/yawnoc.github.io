@@ -137,7 +137,7 @@ OrdinaryDictionaryReplacement: #.yawnoc.footer
     [<code>%cmd-name.cmd</code>]:
       https://github.com/yawnoc/yawnoc.github.io/blob/master/%cmd-name.cmd
     [CMDv%cmd-version]:
-      https://github.com/conway-markdown/conway-markdown/tree/v%cmd-version
+      https://github.com/conwaymd/conwaymd/tree/v%cmd-version
   "
 
 
