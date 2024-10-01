@@ -2,7 +2,7 @@
 
 Conway's site: https://yawnoc.github.io
 
-Written in [Conway-Markdown (CMD)][cmd].
+Written in [Conway-Markdown (conwaymd, CMD)][cmd].
 
 ## Building
 
@@ -24,7 +24,7 @@ and serves `404.html` if a file is not found.
 
 See <https://github.com/yawnoc/yawnoc.github.io-archive-1>.
 
-[cmd]: https://github.com/conway-markdown/conway-markdown
+[cmd]: https://github.com/conwaymd/conwaymd
 [csso-cli]: https://github.com/css/csso-cli
 [http-server]: https://github.com/http-party/http-server
 [terser]: https://github.com/terser/terser

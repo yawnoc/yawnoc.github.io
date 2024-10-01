@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2023-12-26
+* %date-modified --> 2024-10-02
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -150,8 +150,8 @@ Feedback welcome: s<mailto:yawnoc.outsell414@passmail.net>
 ###{#code-web} Web development
 
 ==
-- [Conway-Markdown](https://github.com/conway-markdown/conway-markdown)
-  ([documentation](https://conway-markdown.github.io/))
+- [Conway-Markdown](https://github.com/conwaymd/conwaymd)
+  ([documentation](https://conwaymd.github.io/))
 ==
 
 

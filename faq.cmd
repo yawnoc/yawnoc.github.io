@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> FAQ
 * %description --> Frequently asked questions.
 * %date-created --> 2019-08-01
-* %date-modified --> 2023-10-21
+* %date-modified --> 2024-10-02
 
 %%%
 
@@ -44,7 +44,7 @@ I [do not use Jekyll] or any plugins;
 just straight HTML and CSS (with sparing JavaScript).
 --
 --
-The pages are written in [Conway-Markdown (CMD)],
+The pages are written in [Conway-Markdown (conwaymd, CMD)],
 and converted to HTML via my custom-written [Python converter].
 For example, this page was generated
 from the CMD file [<code>%cmd-name.cmd</code>].
@@ -56,10 +56,10 @@ blame [Jake Conway].
 
 [do not use Jekyll]:
   https://github.com/yawnoc/yawnoc.github.io/blob/master/.nojekyll
-[Conway-Markdown (CMD)]:
-  https://conway-markdown.github.io/
+[Conway-Markdown (conwaymd, CMD)]:
+  https://conwaymd.github.io/
 [Python converter]:
-  https://github.com/conway-markdown/conway-markdown
+  https://github.com/conwaymd/conwaymd
 [Jake Conway]:
   https://github.com/Conway
 
