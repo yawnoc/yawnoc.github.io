@@ -6,7 +6,7 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
-* %copyright-prior-years --> get_year@%date-created--
+* %copyright-prior-years --> "get_year@%date-created--2023, "
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2023-06-05
+* %date-modified --> 2025-09-27
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -1735,6 +1735,7 @@ See also: [嗚呼]
 6 [哉] U+54C9
 ==
 * [:speech-assist:]
+* begin
 ==
 
 8 [唯] U+552F
@@ -2199,6 +2200,7 @@ See also: [嬉戲]
 ==
 ==
 * 夫子： master
+* 子孫： descendants
 ==
 --
 See also: [君子], [國子], [女子], [弟子], [獅子]
@@ -2227,6 +2229,14 @@ See also: [字典]
 ==
 * orphan; lone
 ==
+
+7 [孫] U+5B6B
+==
+* grandchild
+==
+--
+See also: [子孫]
+--
 
 8 [孰] U+5B70
 ==
@@ -4532,6 +4542,11 @@ See also: [改正]
 * fire; light
 ==
 
+3 [災] U+707D
+==
+* calamity
+==
+
 5 [為] U+70BA
 [平聲]
 ==
@@ -4762,6 +4777,7 @@ See also: [以為], [為政]
 6 [率] U+7387
 [陰入]
 ==
+* follow
 * lead
 ==
 [陽入]
@@ -5032,6 +5048,7 @@ See also: [百萬]
 
 4 [皇] U+7687
 ==
+* great; sovereign
 * emperor; imperial
 ==
 
@@ -7138,6 +7155,7 @@ See also: [遠近]
 7 [造] U+9020
 ==
 * make; create
+* commence
 ==
 
 7 [逢] U+9022
