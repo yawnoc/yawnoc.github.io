@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %cite-title --> %title
 * %title --> On John Green's orgies in Ming-t(')iao
 * %description -->
-    Examining John Green's claim that the Shujing references orgies in Ming-t(')iao.
+    Examining John Green's claim that the Shujing references orgies in Ming Tiao.
 * %date-created --> 2025-09-27
 * %date-modified --> 2025-09-28
 - concluding_replacements:
