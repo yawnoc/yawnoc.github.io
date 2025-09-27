@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2024-10-02
+* %date-modified --> 2025-09-28
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -119,6 +119,8 @@ Feedback welcome: s<mailto:yawnoc.outsell414@passmail.net>
 
 - [.《御製康熙字典序》 <br> "Imperially-Made Preface .[unto the] (K(')ang\-hee|康熙) Dictionary"]{.major}\
     (/lit/kangxi-preface)
+- [On John Green's orgies in (Ming-t(')iao|鳴條)]\
+    (/lit/orgies-ming-tiao)
 - ["The Need to Win"]\
     (/lit/need-to-win)
 - [.《孔子問答》/.《小兒論》 <br>

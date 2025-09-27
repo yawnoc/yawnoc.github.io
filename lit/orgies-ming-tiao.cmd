@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Examining John Green's claim that the Shujing references orgies in Ming-t(')iao.
 * %date-created --> 2025-09-27
-* %date-modified --> 2025-09-27
+* %date-modified --> 2025-09-28
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
