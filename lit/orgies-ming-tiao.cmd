@@ -86,7 +86,7 @@ but with olden-style punctuation:
 <<
   于其子孫弗率、皇天降災、假手于我有命、[:造攻自鳴條:]、朕哉自亳。
 \\
-  At their descendant not following .[it],
+  At their descendants not following .[it],
   Great Heaven sent down calamities,
   borrowing .[an] hand in our having .[the] Mandate.
   [:.[That we] commenced attack .[was] from (Ming-t(')iao|鳴條):],
@@ -95,11 +95,11 @@ but with olden-style punctuation:
 ==
 * .于： at; \or upon
 
-* .子孫： descendant; \lit children .[and] grandchildren
+* .子孫： descendants; \lit children .[and] grandchildren
 
 * .弗率： not following .[it]
   --
-  Specifically, not following the virtue of his ancestors,
+  Specifically, not following the virtue of their ancestors,
   mentioned earlier in the text as .厥德, "their virtue".
   --
 
@@ -280,6 +280,43 @@ In this 1865 rendering,
 **the word "orgies" doesn't even appear in the translator-supplied words**
 (which are printed in italics as per certain editions of the King James Bible).
 Orgies are only mentioned in Legge's commentary.
+--
+
+###{#discussion} Discussion
+
+--
+I have no doubt that James Legge's 1865 commentary
+(and subsequent 1879 supply of the word "orgies")
+is well-informed by Chinese sources.
+--
+--
+Certainly, there are other texts that attribute orgy-like behaviour
+to (Kiet|桀), the final king of (Hia|夏).
+For example, [《博物志》]{l=zh-Hant} describes an incident
+where he constructs a "Long-Night Palace" in the midst of a deep valley,
+in which men and women mingle, and in which he spends a hundred days
+neglecting his duty to attend court.
+--
+
+[《博物志》]: https://zh.wikisource.org/wiki/博物志/卷之七
+
+--
+But the important point is that the original text of the (Shu King|書經)
+makes no mention of orgies.
+--
+
+
+##{#summary} Summary
+
+--
+To conclude,
+when John Green says "The (Shujing|書經) is pretty specific"
+in relation to orgies, he is incorrect.
+--
+--
+On the other hand,
+when he says "the (Shujing|書經) is woefully short on details of these orgies",
+he is correct --- but only because there is no mention of orgies at all.
 --
 
 
