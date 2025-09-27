@@ -321,6 +321,31 @@ For example:
 But the important point is that the original text of the (Shu King|書經)
 makes no mention of such orgies.
 --
+--
+The commentary [《書經集傳》 by (Ts(')ai Ch(')(e^)m|蔡沈)][集傳] expounds
+the mention of the two place names thus:
+--
+
+[集傳]: https://archive.org/details/06064652.cn/page/n20/mode/1up
+
+@@@@
+<<
+  鳴條、夏所宅也。亳、湯所宅也。言造可攻之釁者、由桀積惡於鳴條、而湯德之修、則始於亳都也。
+\\
+  (Ming-t(')iao|鳴條), .[was the] place of residence of .[the] (Hia|夏) .[Dynasty].
+  (Pok|亳), .[was the] place of residence of (T(')ang|湯).
+  .[It] speaketh .[that the] commencing provocation of attackability,
+  followeth .[from] (Kiet|桀)'s accumulation of evil in (Ming-t(')iao|鳴條);
+  but .[the] cultivation of (T(')ang|湯)'s virtue,
+  .[did] begin in .[the] capital (Pok|亳).
+>>
+@@@@
+
+--
+So, while you might read (Ming-t(')iao|鳴條)
+as being the place that symbolised (Kiet|桀)'s wickedness,
+there is no explicit mention of what that wickedness actually was.
+--
 
 
 ##{#summary} Summary
@@ -333,7 +358,7 @@ in relation to orgies, he is incorrect.
 --
 On the other hand,
 when he says "the (Shujing|書經) is woefully short on details of these orgies",
-he is correct --- but only because there is no mention of orgies at all.
+he is correct --- in the sense that there is no mention of orgies at all.
 --
 
 
