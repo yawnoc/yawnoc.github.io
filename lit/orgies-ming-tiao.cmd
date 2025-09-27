@@ -73,7 +73,7 @@ that has been rendered as "orgies"?
 ##{#translation} Translation
 
 --
-The relevant snippet of the (Shu-king|書經)
+The relevant snippet of the (Shu King|書經)
 is from .《伊訓》, "Instructions of (Yee|伊)".
 The Chinese source text below is from Chinese Text Project,
 but with olden-style punctuation:
@@ -192,6 +192,94 @@ So, what has likely happened, is that John Green and his writers
 have based their script on one of these newer, unparenthesised versions
 of the Legge (1879) translation, and in doing so,
 lost the translator-supplied nature of the word "orgies".
+--
+
+###{#legge-1865} Legge (1865)
+
+--
+The above 1879 translation is not Legge's first rendering of the (Shu King|書經).
+''The Chinese Classics, Volume~III, Part~I'', published in
+[1865 (Hongkong: Printed at the London Missionary Society's Printing Office)][1865],
+contains "the first parts of the (Shoo-King|書經)".
+--
+--
+On [Page~194 (within portion~II)],
+there is the following rendering with extensive commentary:
+--
+
+[1865]: https://archive.org/details/wg903/page/n6/mode/1up
+[Page~194 (within portion~II)]: https://archive.org/details/chineseclassics31legg/page/194/mode/1up
+
+""""
+--
+于其子孫弗率、皇天降災、假手于我有命、[:造攻自鳴條:]、朕哉自亳。
+--
+--
+But their descendant did not follow _their example_,
+and great Heaven sent down calamities,
+employing the agency of our _ruler_,
+who had _received_ its favouring appointment.
+[:The attack _on (Hea|夏)_
+may be traced to (Ming-t(')ëaou|鳴條),
+and our _attack on it_ began in (Pŏ|亳):].
+--
+<footer>
+--
+于其子孫,---by 子孫 (Këĕ|桀) is pre-eminently intended.
+Perhaps (E|伊) had other earlier and unworthy sovereigns in his mind as well,
+but (Këĕ|桀) was the impersonation of all the wickedness of (Hea|夏).
+于='in the case of.'
+--
+--
+皇天降災,---(Lin Che-k(')e|林之奇) illustrates this by saying that
+'the spirits of the hills and rivers could no longer be in tranquillity.
+Hills fell; rivers were dried up; strange sounds were emitted.
+Birds and beasts, fishes and tortoises, no longer followed their nature,
+and many of them were changed into monstrous and prodigious things.'
+I quote this, as showing how the Chinese share in the feeling of a sympathy
+between the course of nature and the character and doings of men,
+so that 'the whole creatiou groans' and writhes
+to be delivered from the curse of human wickedness.
+假手于我有命,---'borrowed a hand from our having the appointment.'
+(Lin Che-k(')e|林之奇) expands the clause well.
+::{l=zh-Hant}假手于我商有天命之成湯,使之伐夏救民,以爲天吏.::
+--
+--
+\[Up to this point the paragraph is found, but in a very different form,
+in the only remaining part of (Mih-tsze|墨子)'s Book on ::{l=zh-Hant}鬼(明鬼篇,下)::.
+He gives it as from the 'Books of (Shang|商):'---\
+::{l=zh-Hant}嗚呼,古者有夏,方未有禍之時,百獸貞蟲,允及飛鳥,\
+莫不比方,矧在人面,胡敢異心,山川鬼神亦莫敢不𡨴,若能共允任,天下之合下土之葆::.
+(Mih|墨)'s text is evidently corrupt;
+yet he could hardly have the 'Instructions of (E|伊),' as we now read them.\]
+--
+--
+造攻,云云,---compare [Mencius, V., Pt.~I., vii.~9].
+There we have 'the palace of (Muh|牧)' (牧宮) instead of (Ming-t(')eaou|鳴條).
+But from the [Preface, par.~12], we know that (Ming-t(')eaou|鳴條)
+was not far from the cap. of (Këĕ|桀).
+[:It was there probably that he had the palace of (Muh|牧),
+where his orgies alienated the people from him,
+and awoke the vengeance of Heaven.:]
+\[There was another (Ming-t(')eaou|鳴條) towards the east,
+where (Shun|舜) died, according to [Mencius, IV., Pt.~II, i, 1].\]
+'Out attack commenced (哉=始) in (Pŏ|亳),'---\
+the meaning is that the virtues of (T(')ang|湯),
+pleasing to both Heaven and men, first displayed in (Pŏ|亳),
+marked him out as the punisher of (Këĕ|桀), and the successor to the empire.
+--
+</footer>
+""""
+
+[Mencius, V., Pt.~I., vii.~9]: https://ctext.org/mengzi/wan-zhang-i#n1740
+[Preface, par.~12]: https://archive.org/details/chineseclassics31legg/page/4/mode/1up
+[Mencius, IV., Pt.~II, i, 1]: https://ctext.org/mengzi/li-lou-ii#n1700
+
+--
+In this 1865 rendering,
+**the word "orgies" doesn't even appear in the translator-supplied words**
+(which are printed in italics as per certain editions of the King James Bible).
+Orgies are only mentioned in Legge's commentary.
 --
 
 
