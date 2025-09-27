@@ -42,8 +42,6 @@ FixedDelimitersReplacement: #.highlighting
 
 --
 Recently I was re-enjoying John Green's ''CrashCourse World History''.
---
---
 At [3:55 of the episode on Chinese history and the Mandate of Heaven][episode],
 he says:
 --
@@ -108,7 +106,7 @@ but with olden-style punctuation:
 @@@@
 
 --
-As can be seen, there is no mention of orgies in the original text.
+As can be seen, **there is no mention of orgies in the original text**.
 So where has John Green gotten them from?
 --
 
@@ -307,8 +305,8 @@ For example:
   The men subsequently become drunk and drown, and (Mot Hee|末喜) laughs at them.
 
 - [《博物志》]{l=zh-Hant} describes an incident
-  in which he constructs a "Long-Night Palace" in the midst of a deep valley,
-  where men and women mingle, and where he spends a hundred days
+  where he constructs a "Long-Night Palace" in the midst of a deep valley,
+  in which men and women mingle, and in which he spends a hundred days
   neglecting his duty to hear matters of state at the royal court.
 ==
 
@@ -318,8 +316,8 @@ For example:
 [Mo Xi]: https://en.wikipedia.org/wiki/Mo_Xi
 
 --
-But the important point is that the original text of the (Shu King|書經)
-makes no mention of such orgies.
+But the important point is that **the original text of the (Shu King|書經)
+makes no mention of such orgies**.
 --
 --
 The commentary [.《書經集傳》 by (Ts(')ai Ch(')(e^)m|蔡沈)][集傳]
