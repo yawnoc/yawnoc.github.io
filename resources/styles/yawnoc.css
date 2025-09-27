@@ -166,6 +166,12 @@ li > ol {
 footer > p {
   margin: 0.4em 0;
 }
+blockquote > p:first-child {
+  margin-top: 0.5em;
+}
+blockquote > p:last-child {
+  margin-bottom: 0.5em;
+}
 .interview > img + p {
   margin-top: 0.3em;
   padding-top: 0.7em;
@@ -179,6 +185,11 @@ pre {
   border: 1px solid grey;
   overflow-x: auto;
   padding: 0.5em;
+}
+
+
+sup {
+  line-height: 0;
 }
 
 

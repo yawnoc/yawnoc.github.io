@@ -115,6 +115,85 @@ So where has John Green gotten them from?
 
 ##{#analysis} Analysis
 
+###{#legge-1879} Legge (1879)
+
+--
+The translation quoted by John Green appears to come from
+Part~I of James Legge's ''The Sacred Books of China: The Texts of Confucianism'',
+the earliest edition of which I could find is
+[1879 (Oxford at the Clarendon Press)][1879].
+--
+--
+On [Page~93], the snippet is rendered thus:
+--
+
+[1879]: https://archive.org/details/wg903/page/n6/mode/1up
+[Page~93]: https://archive.org/details/wg903/page/93/mode/1up
+
+""""
+--
+But their descendant did not follow (their example),
+and great Heaven sent down calamities,
+employing the agency of our (ruler)
+who was in possession of its favouring appointment.*
+[:The attack (on (Hsiâ|夏))
+may be traced to (the orgies in) (Ming-thiâo|鳴條)<sup>1</sup>,
+but our (rise) began in (Po|亳):].
+--
+<footer>
+--
+<sup>1</sup>~(Ming-thiâo|鳴條) was a place not far from the capital of (_K_ieh|桀)
+(in the present district of (An-yî|安邑), (Hâi _K_âu|解州), (Shan-hsî|山西)).
+He had a palace there, where the vilest orgies were celebrated
+that alienated the minds of the people from him.
+--
+</footer>
+""""
+
+--
+Notice how "the orgies in" is in parentheses.
+**Thus, "orgies" is a translator-supplied word;
+it does *not* appear in the original text.**
+--
+--
+Unfortunately, there are newer resources
+that quote the Legge translation with the parentheses removed.
+For example, Andrea and Overfield's
+''The Human Record: Sources of Global History, Volume~I'' (Eighth Edition)
+has the following on Page~31 through~32:
+--
+
+""""
+--
+But their descendant did not follow their example,
+and great Heaven sent down calamities,
+employing the agency of our ruler<sup>2</sup>
+who was in possession of its favoring appointment.
+The attack on (Xia|夏)
+may be traced to the orgies in (Ming Tiao|鳴條).<sup>3</sup>
+--
+<footer>
+--
+<sup>1</sup>~(Zheng Tang|成湯), founder of the (Shang|商) Dynasty,
+who was supposedly enthroned in 1766~B.C.E.
+--
+--
+<sup>2</sup>~(Zheng Tang|成湯) (see note~1).
+--
+--
+<sup>3</sup>~According to legend, (Jie|桀), the last (Xia|夏) king,
+held notorious orgies at (Ming Tiao|鳴條).
+--
+</footer>
+""""
+
+--
+So, what has likely happened, is that John Green and his writers
+have based their script on one of these newer, unparenthesised versions
+of the Legge (1879) translation, and in doing so,
+lost the translator-supplied nature of the word "orgies".
+--
+
 
 %%cite
 
