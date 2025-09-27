@@ -41,7 +41,7 @@ FixedDelimitersReplacement: #.highlighting
 ^^^^
 
 --
-Recently I was re-enjoying John Green's CrashCourse world history.
+Recently I was re-enjoying John Green's ''CrashCourse World History''.
 --
 --
 At [3:55 of the episode on Chinese history and the Mandate of Heaven][episode],
