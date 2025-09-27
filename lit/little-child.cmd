@@ -6,7 +6,7 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
-* %copyright-prior-years --> get_year@%date-created--
+* %copyright-prior-years --> "get_year@%date-created--2023, "
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
     `Q [&] A [with] Confucius` / `[The] Little Child's Discourse`. \
     Basically Confucius getting his arse whooped by a little kid.
 * %date-created --> 2019-04-07
-* %date-modified --> 2023-10-21
+* %date-modified --> 2025-09-28
 - concluding_replacements:
     #.yawnoc.double-quotes-in-attributes
     #.yawnoc.typography
@@ -604,9 +604,12 @@ I have edited the punctuation to not be bizarre.
   \\
     Heaven .[is] first, Earth second, .[and] Man third.
     .[From] three threes .[are] nine, .[and] nine nines eighty-one.
-    One governeth .[the] sun, .[and the] sun .[hath] number ten;
+    One governeth days, .[and the] number of days .[is] ten;
     therefore man .[is] born of ten months.
   >>
+  ==
+  * .日： days; \or .[the] sun
+  ==
   @@
 ==
 
