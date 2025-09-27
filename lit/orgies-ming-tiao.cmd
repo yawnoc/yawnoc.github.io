@@ -287,23 +287,39 @@ Orgies only get mentioned in Legge's commentary.
 
 --
 I have no doubt that James Legge's 1865 commentary
-(and subsequent 1879 supply of the word "orgies")
+and subsequent 1879 supply of the word "orgies"
 is well-informed by Chinese sources.
+His [list of works consulted] is extensive,
+and I simply do not have the time to look through them all in search of orgies.
 --
 --
-Certainly, there are other texts that attribute orgy-like behaviour
+Moreover, there are other texts that attribute orgy-like behaviour
 to (Kiet|桀), the final king of (Hia|夏).
-For example, [《博物志》]{l=zh-Hant} describes an incident
-where he constructs a "Long-Night Palace" in the midst of a deep valley,
-in which men and women mingle, and in which he spends a hundred days
-neglecting his duty to attend court.
+For example:
 --
+==
+- [《列女傳》]{l=zh-Hant} describes him as licentious with women,
+  filling his palace with them, and drinking alcohol with them day and night
+  without rest. It describes an incident where,
+  under the influence of [the unvirtuous consort/concubine (Mot Hee|末喜)][Mo Xi],
+  he constructs a pool of alcohol large enough to ferry a boat,
+  and makes three thousand men drink from it like cattle.
+  The men subsequently become drunk and drown, and (Mot Hee|末喜) laughs at them.
 
+- [《博物志》]{l=zh-Hant} describes an incident
+  in which he constructs a "Long-Night Palace" in the midst of a deep valley,
+  where men and women mingle, and where he spends a hundred days
+  neglecting his duty to hear matters of state at the royal court.
+==
+
+[list of works consulted]: https://archive.org/details/chineseclassics31legg/page/n226/mode/1up
+[《列女傳》]: https://ctext.org/lie-nv-zhuan/xia-jie-mo-xi
 [《博物志》]: https://zh.wikisource.org/wiki/博物志/卷之七
+[Mo Xi]: https://en.wikipedia.org/wiki/Mo_Xi
 
 --
 But the important point is that the original text of the (Shu King|書經)
-makes no mention of orgies.
+makes no mention of such orgies.
 --
 
 
