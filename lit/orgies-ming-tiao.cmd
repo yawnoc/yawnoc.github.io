@@ -152,12 +152,12 @@ that alienated the minds of the people from him.
 
 --
 Notice how "the orgies in" is in parentheses.
-**Thus, "orgies" is a translator-supplied word;
+**This is because "orgies" is a translator-supplied word;
 it does *not* appear in the original text.**
 --
 --
-Unfortunately, there are newer resources
-that quote the Legge translation with the parentheses removed.
+Unfortunately, there are newer books
+that reproduce Legge's translation with the parentheses removed.
 For example, Andrea and Overfield's
 ''The Human Record: Sources of Global History, Volume~I'' (Eighth Edition)
 has the following on Page~31 through~32:
@@ -200,7 +200,8 @@ lost the translator-supplied nature of the word "orgies".
 The above 1879 translation is not Legge's first rendering of the (Shu King|書經).
 ''The Chinese Classics, Volume~III, Part~I'', published in
 [1865 (Hongkong: Printed at the London Missionary Society's Printing Office)][1865],
-contains "the first parts of the (Shoo-King|書經)".
+is an earlier work that translates "the first parts of the (Shoo-King|書經)"
+among other texts.
 --
 --
 On [Page~194 (within portion~II)],
@@ -211,7 +212,7 @@ there is the following rendering with extensive commentary:
 [Page~194 (within portion~II)]: https://archive.org/details/chineseclassics31legg/page/194/mode/1up
 
 """"
---
+--{l=zh-Hant}
 于其子孫弗率、皇天降災、假手于我有命、[:造攻自鳴條:]、朕哉自亳。
 --
 --
@@ -225,13 +226,13 @@ and our _attack on it_ began in (Pŏ|亳):].
 --
 <footer>
 --
-于其子孫,---by 子孫 (Këĕ|桀) is pre-eminently intended.
+.于其子孫,---by .子孫 (Këĕ|桀) is pre-eminently intended.
 Perhaps (E|伊) had other earlier and unworthy sovereigns in his mind as well,
 but (Këĕ|桀) was the impersonation of all the wickedness of (Hea|夏).
-于='in the case of.'
+.于='in the case of.'
 --
 --
-皇天降災,---(Lin Che-k(')e|林之奇) illustrates this by saying that
+.皇天降災,---(Lin Che-k(')e|林之奇) illustrates this by saying that
 'the spirits of the hills and rivers could no longer be in tranquillity.
 Hills fell; rivers were dried up; strange sounds were emitted.
 Birds and beasts, fishes and tortoises, no longer followed their nature,
@@ -240,7 +241,7 @@ I quote this, as showing how the Chinese share in the feeling of a sympathy
 between the course of nature and the character and doings of men,
 so that 'the whole creatiou groans' and writhes
 to be delivered from the curse of human wickedness.
-假手于我有命,---'borrowed a hand from our having the appointment.'
+.假手于我有命,---'borrowed a hand from our having the appointment.'
 (Lin Che-k(')e|林之奇) expands the clause well.
 ::{l=zh-Hant}假手于我商有天命之成湯,使之伐夏救民,以爲天吏.::
 --
@@ -254,8 +255,8 @@ He gives it as from the 'Books of (Shang|商):'---\
 yet he could hardly have the 'Instructions of (E|伊),' as we now read them.\]
 --
 --
-造攻,云云,---compare [Mencius, V., Pt.~I., vii.~9].
-There we have 'the palace of (Muh|牧)' (牧宮) instead of (Ming-t(')eaou|鳴條).
+.造攻,.云云,---compare [Mencius, V., Pt.~I., vii.~9].
+There we have 'the palace of (Muh|牧)' (.牧宮) instead of (Ming-t(')eaou|鳴條).
 But from the [Preface, par.~12], we know that (Ming-t(')eaou|鳴條)
 was not far from the cap. of (Këĕ|桀).
 [:It was there probably that he had the palace of (Muh|牧),
@@ -263,7 +264,7 @@ where his orgies alienated the people from him,
 and awoke the vengeance of Heaven.:]
 \[There was another (Ming-t(')eaou|鳴條) towards the east,
 where (Shun|舜) died, according to [Mencius, IV., Pt.~II, i, 1].\]
-'Out attack commenced (哉=始) in (Pŏ|亳),'---\
+'Out attack commenced (.哉=.始) in (Pŏ|亳),'---\
 the meaning is that the virtues of (T(')ang|湯),
 pleasing to both Heaven and men, first displayed in (Pŏ|亳),
 marked him out as the punisher of (Këĕ|桀), and the successor to the empire.
@@ -279,7 +280,7 @@ marked him out as the punisher of (Këĕ|桀), and the successor to the empire.
 In this 1865 rendering,
 **the word "orgies" doesn't even appear in the translator-supplied words**
 (which are printed in italics as per certain editions of the King James Bible).
-Orgies are only mentioned in Legge's commentary.
+Orgies only get mentioned in Legge's commentary.
 --
 
 ###{#discussion} Discussion
