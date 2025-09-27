@@ -65,7 +65,7 @@ and allow the (Shang|商) to take power.
 --
 """"
 --
-This got me intrigued: what is the word in the original Chinese
+This got me intrigued: what is the original Chinese term
 that has been rendered as "orgies"?
 --
 
@@ -86,7 +86,7 @@ but with olden-style punctuation:
 <<
   于其子孫弗率、皇天降災、假手于我有命、[:造攻自鳴條:]、朕哉自亳。
 \\
-  At their descendants not following .[it],
+  At their descendant not following .[it],
   Great Heaven sent down calamities,
   borrowing .[an] hand in our having .[the] Mandate.
   [:.[That we] commenced attack .[was] from (Ming-t(')iao|鳴條):],
@@ -95,11 +95,11 @@ but with olden-style punctuation:
 ==
 * .于： at; \or upon
 
-* .子孫： descendants; \lit children .[and] grandchildren
+* .子孫： descendant; \lit children .[and] grandchildren
 
 * .弗率： not following .[it]
   --
-  Specifically, not following the virtue of their ancestors,
+  Specifically, not following the virtue of his ancestors,
   mentioned earlier in the text as .厥德, "their virtue".
   --
 
@@ -118,8 +118,8 @@ So where has John Green gotten them from?
 ###{#legge-1879} Legge (1879)
 
 --
-The translation quoted by John Green appears to come from
-Part~I of James Legge's ''The Sacred Books of China: The Texts of Confucianism'',
+The translation quoted by John Green ultimately appears to come from
+James Legge's ''The Sacred Books of China: The Texts of Confucianism, Part~I'',
 the earliest edition of which I could find is
 [1879 (Oxford at the Clarendon Press)][1879].
 --
