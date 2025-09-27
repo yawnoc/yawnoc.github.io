@@ -191,7 +191,7 @@ held notorious orgies at (Ming Tiao|鳴條).
 So, what has likely happened, is that John Green and his writers
 have based their script on one of these newer, unparenthesised versions
 of the Legge (1879) translation, and in doing so,
-lost the translator-supplied nature of the word "orgies".
+completely missed the fact that "orgies" does not appear in the original text.
 --
 
 ###{#legge-1865} Legge (1865)
@@ -322,7 +322,7 @@ But the important point is that the original text of the (Shu King|書經)
 makes no mention of such orgies.
 --
 --
-The commentary [《書經集傳》 by (Ts(')ai Ch(')(e^)m|蔡沈)][集傳]
+The commentary [.《書經集傳》 by (Ts(')ai Ch(')(e^)m|蔡沈)][集傳]
 reads the two place names as contrasting the wickedness and virtue
 of the deposed and succeeding kings respectively:
 --
