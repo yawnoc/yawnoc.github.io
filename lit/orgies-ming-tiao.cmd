@@ -55,7 +55,7 @@ he says:
 --
 The (Shujing|書經) is pretty specific
 about what caused the (Xia|夏) kings to lose the Mandate, by the way, explaining,
-"[:The attack on (Xia|夏) may be traced to the orgies in (Mingtiao|鳴條):]."
+"[:The attack on (Xia|夏) may be traced to the orgies in (Ming Tiao|鳴條):]."
 --
 --
 Sadly the (Shujing|書經) is woefully short on details of these orgies,
