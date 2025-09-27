@@ -198,7 +198,7 @@ lost the translator-supplied nature of the word "orgies".
 
 --
 The above 1879 translation is not Legge's first rendering of the (Shu King|書經).
-''The Chinese Classics, Volume~III, Part~I'', published in
+''The Chinese Classics, Vol.~III.---Part~I'', published in
 [1865 (Hongkong: Printed at the London Missionary Society's Printing Office)][1865],
 is an earlier work that translates "the first parts of the (Shoo-King|書經)"
 among other texts.
@@ -208,7 +208,7 @@ On [Page~194 (within portion~II)],
 there is the following rendering with extensive commentary:
 --
 
-[1865]: https://archive.org/details/wg903/page/n6/mode/1up
+[1865]: https://archive.org/details/chineseclassics31legg/page/n8/mode/1up
 [Page~194 (within portion~II)]: https://archive.org/details/chineseclassics31legg/page/194/mode/1up
 
 """"
@@ -239,10 +239,10 @@ Birds and beasts, fishes and tortoises, no longer followed their nature,
 and many of them were changed into monstrous and prodigious things.'
 I quote this, as showing how the Chinese share in the feeling of a sympathy
 between the course of nature and the character and doings of men,
-so that 'the whole creatiou groans' and writhes
+so that 'the whole creation groans' and writhes
 to be delivered from the curse of human wickedness.
 .假手于我有命,---'borrowed a hand from our having the appointment.'
-(Lin Che-k(')e|林之奇) expands the clause well.
+(Lin Che-k(')e|林之奇) expands the clause well:---\
 ::{l=zh-Hant}假手于我商有天命之成湯,使之伐夏救民,以爲天吏.::
 --
 --
@@ -264,7 +264,7 @@ where his orgies alienated the people from him,
 and awoke the vengeance of Heaven.:]
 \[There was another (Ming-t(')eaou|鳴條) towards the east,
 where (Shun|舜) died, according to [Mencius, IV., Pt.~II, i, 1].\]
-'Out attack commenced (.哉=.始) in (Pŏ|亳),'---\
+'Our attack commenced (.哉=.始) in (Pŏ|亳),'---\
 the meaning is that the virtues of (T(')ang|湯),
 pleasing to both Heaven and men, first displayed in (Pŏ|亳),
 marked him out as the punisher of (Këĕ|桀), and the successor to the empire.
@@ -280,7 +280,7 @@ marked him out as the punisher of (Këĕ|桀), and the successor to the empire.
 In this 1865 rendering,
 **the word "orgies" doesn't even appear in the translator-supplied words**
 (which are printed in italics as per certain editions of the King James Bible).
-Orgies only get mentioned in Legge's commentary.
+Orgies only get mentioned in the commentary.
 --
 
 ###{#discussion} Discussion
@@ -322,8 +322,9 @@ But the important point is that the original text of the (Shu King|書經)
 makes no mention of such orgies.
 --
 --
-The commentary [《書經集傳》 by (Ts(')ai Ch(')(e^)m|蔡沈)][集傳] expounds
-the mention of the two place names thus:
+The commentary [《書經集傳》 by (Ts(')ai Ch(')(e^)m|蔡沈)][集傳]
+reads the two place names as contrasting the wickedness and virtue
+of the deposed and succeeding kings respectively:
 --
 
 [集傳]: https://archive.org/details/06064652.cn/page/n20/mode/1up
@@ -342,9 +343,9 @@ the mention of the two place names thus:
 @@@@
 
 --
-So, while you might read (Ming-t(')iao|鳴條)
-as being the place that symbolised (Kiet|桀)'s wickedness,
-there is no explicit mention of what that wickedness actually was.
+But even in this reading,
+there is no mention of what the wickedness in (Ming-t(')iao|鳴條) actually was.
+Again, the point is that the (Shu King|書經) does not mention orgies.
 --
 
 
