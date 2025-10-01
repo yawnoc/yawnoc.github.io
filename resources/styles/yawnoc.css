@@ -474,7 +474,7 @@ h2 > .permalink {
 .romanised-untranslated {
   text-decoration: underline 0.1em dotted;
 }
-.romanised-untranslated:active::after {
+.romanised-untranslated:active::after, .romanised-untranslated:hover::after {
   color: firebrick;
   content: ' = ' attr(title);
   font-style: normal;
