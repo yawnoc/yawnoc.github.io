@@ -474,6 +474,12 @@ h2 > .permalink {
 .romanised-untranslated {
   text-decoration: underline 0.1em dotted;
 }
+.romanised-untranslated:active::after {
+  color: firebrick;
+  content: ' = ' attr(title);
+  font-style: normal;
+  font-weight: normal;
+}
 
 
 .sideways {
