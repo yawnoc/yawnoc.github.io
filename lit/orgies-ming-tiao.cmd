@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Examining John Green's claim that the Shujing references orgies in Ming Tiao.
 * %date-created --> 2025-09-27
-* %date-modified --> 2025-09-28
+* %date-modified --> 2025-10-01
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -189,7 +189,8 @@ held notorious orgies at (Ming Tiao|鳴條).
 So, what has likely happened, is that John Green and his writers
 have based their script on one of these newer, unparenthesised versions
 of the Legge (1879) translation, and in doing so,
-completely missed the fact that "orgies" does not appear in the original text.
+completely (but understandably) missed the fact that
+"orgies" does not appear in the original text.
 --
 
 ###{#legge-1865} Legge (1865)
