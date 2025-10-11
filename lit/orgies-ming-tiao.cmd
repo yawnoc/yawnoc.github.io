@@ -288,7 +288,7 @@ Orgies only get mentioned in the commentary.
 --
 I have no doubt that James Legge's 1865 commentary
 and subsequent 1879 supply of the word "orgies"
-is well-informed by Chinese sources.
+is well-informed by Chinese commentary on the (Shu King|書經).
 His [list of works consulted] is extensive,
 and I simply do not have the time to look through them all in search of orgies.
 --
