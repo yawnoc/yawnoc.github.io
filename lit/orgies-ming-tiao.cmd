@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Examining John Green's claim that the Shujing references orgies in Ming Tiao.
 * %date-created --> 2025-09-27
-* %date-modified --> 2025-10-01
+* %date-modified --> 2025-10-11
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -155,7 +155,8 @@ it does *not* appear in the original text.**
 --
 --
 Unfortunately, there are newer books
-that reproduce Legge's translation with the parentheses removed.
+that reproduce Legge's translation with the parentheses removed
+(which is an unforgivable editorial sin).
 For example, Andrea and Overfield's
 ''The Human Record: Sources of Global History, Volume~I'' (Eighth Edition)
 has the following on Page~31 through~32:
