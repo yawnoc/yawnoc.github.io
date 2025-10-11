@@ -344,7 +344,7 @@ of the deposed and succeeding kings respectively:
 
 --
 But even in this reading, there is no mention of
-what the wickedness wrought in (Ming-t(')iao|鳴條) actually was.
+what wickedness was actually wrought in (Ming-t(')iao|鳴條).
 Again, the point is that the (Shu King|書經) does not mention orgies.
 --
 
