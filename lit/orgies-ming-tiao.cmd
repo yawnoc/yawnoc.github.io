@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Examining John Green's claim that the Shujing references orgies in Ming Tiao.
 * %date-created --> 2025-09-27
-* %date-modified --> 2025-10-11
+* %date-modified --> 2025-10-14
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -360,6 +360,10 @@ in relation to orgies, he is incorrect.
 On the other hand,
 when he says "the (Shujing|書經) is woefully short on details of these orgies",
 he is correct --- in the sense that there is no mention of orgies at all.
+--
+--
+If you personally know John Green, please tell him about this article.
+I would love to hear his thoughts (at s<mailto:orgies.shown865@passmail.net>)!
 --
 
 
