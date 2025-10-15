@@ -9,14 +9,14 @@
 
 OrdinaryDictionaryReplacement: #.footer-properties-override
 - queue_position: AFTER #.yawnoc.footer
-* %copyright-prior-years --> get_year@%date-created--
+* %copyright-prior-years --> "get_year@%date-created--2023, "
 
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 * %cite-title --> '"Sun~Tz(uu)'s Computational Classic: Volume~I \S7"'
 * %title --> "Sun~Tz(uu)'s Computational Classic: Volume~I" 《孫子算經卷上》 \S7
 * %date-created --> 2019-06-09
-* %date-modified --> 2023-03-04
+* %date-modified --> 2025-10-16
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -76,7 +76,7 @@ Chinese source text: \a[6], \b[147], \c[52063], \d[14]. <br>
   一從十橫、百立千僵、千十相望、萬百相當。
 \\
   .[The] ones .[are] vertical .[and the] tens horizontal;
-  .[the] hundreds erect .[and the] thousands prostrate.
+  .[the] hundreds erect .[and the] thousands lying.
   .[The] thousands .[and] tens look at each other;
   .[the] myriads .[and] hundreds face each other.
 >>
