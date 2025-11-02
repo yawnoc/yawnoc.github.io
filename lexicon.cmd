@@ -16,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Conway's Lexicon for translating Literary Chinese into English.
 * %date-created --> 2020-08-05
-* %date-modified --> 2025-10-16
+* %date-modified --> 2025-11-02
 
 RegexDictionaryReplacement: #.radical-stroke-count-links
 - queue_position: BEFORE #specified-links
@@ -194,7 +194,7 @@ Lookup by stroke count of radical:
   ++{type=i}
   1. radical, then
   1. residual stroke count, then
-  1. presence in the Basic Multilingual Plane, then
+  1. whether it is an extension ideograph, then
   1. code point.
   ++
   Notes on stroke count:
