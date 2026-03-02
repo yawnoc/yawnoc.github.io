@@ -26,7 +26,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * " | Conway's site</title>" --> </title>
 * %description --> Conway's site: Literary Chinese and applied mathematics.
 * %date-created --> 2019-03-09
-* %date-modified --> 2025-09-28
+* %date-modified --> 2026-03-02
 * %styles -->
     .icon-link {
       padding: 0 0.2em;
@@ -173,8 +173,10 @@ Feedback welcome: s<mailto:yawnoc.outsell414@passmail.net>
 ###{#code-math} Mathematical stuff
 
 ==
-- [Slow Fault Tree Analyser (Python)]\
-    (https://github.com/yawnoc/sfta)
+- <s>[Slow Fault Tree Analyser (Python)]\
+    (https://github.com/yawnoc/sfta)</s>
+- [Public Fault Tree Analyser (Python)]\
+    (https://github.com/public-fta/pfta)
 - [Big Two (.鋤大弟) Scorer (Python)]\
     (https://github.com/yawnoc/big-two-scorer)
 - [Mahjong Scorer (Python)]\
