@@ -13,7 +13,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %title --> Crowded Xiangqi
 * %description --> Conway's half-board variant of Chinese Chess.
 * %date-created --> 2020-09-06
-* %date-modified --> 2026-08-22
+* %date-modified --> 2026-08-23
 
 RegexDictionaryReplacement: #.piece-letters
 - queue_position: BEFORE #inline-semantics
@@ -36,7 +36,7 @@ RegexDictionaryReplacement: #.piece-letters
 [Try it online at PyChess!][PyChess]
 --
 --
-__Crowded Xiangqi__ (.擠迫棋) is a variant of [Chinese Chess] which I invented
+__Crowded Xiangqi__ (.擠迫象棋) is a variant of [Chinese Chess] which I invented
 after all of my cheap magnetic boards broke in half.
 It is played using the standard 32-piece set on half the board
 (a grid of 5 × 9 intersections).
