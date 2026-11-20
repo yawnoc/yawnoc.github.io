@@ -4,6 +4,10 @@
 < /resources/rules/translation.cmdr
 < /resources/rules/romanisation.cmdr
 
+OrdinaryDictionaryReplacement: #.footer-properties-override
+- queue_position: AFTER #.yawnoc.footer
+* %copyright-prior-years --> get_year@%date-created--
+
 OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 - queue_position: AFTER #.yawnoc.properties-override
 - apply_mode: SEQUENTIAL
@@ -12,7 +16,7 @@ OrdinaryDictionaryReplacement: #.boilerplate-properties-override
 * %description -->
     Examining John Green's claim that the Shujing references orgies in Ming Tiao.
 * %date-created --> 2025-09-27
-* %date-modified --> 2025-10-14
+* %date-modified --> 2026-11-20
 - concluding_replacements:
     #.yawnoc.typography
     #.romanisation.special-characters
@@ -106,7 +110,7 @@ but with olden-style punctuation:
 @@@@
 
 --
-As can be seen, **there is no mention of orgies in the original text**.
+As can be seen, there is no mention of orgies in the original text.
 So where has John Green gotten them from?
 --
 
@@ -150,8 +154,8 @@ that alienated the minds of the people from him.
 
 --
 Notice how "the orgies in" is in parentheses.
-**This is because "orgies" is a translator-supplied word;
-it does *not* appear in the original text.**
+This is because "orgies" is a translator-supplied word;
+it does *not* appear in the original text.
 --
 --
 Unfortunately, there are newer books
@@ -278,7 +282,7 @@ marked him out as the punisher of (Këĕ|桀), and the successor to the empire.
 
 --
 In this 1865 rendering,
-**the word "orgies" doesn't even appear in the translator-supplied words**
+the word "orgies" doesn't even appear in the translator-supplied words
 (which are printed in italics as per certain editions of the King James Bible).
 Orgies only get mentioned in the commentary.
 --
@@ -318,8 +322,8 @@ For example:
 [Mo Xi]: https://en.wikipedia.org/wiki/Mo_Xi
 
 --
-But the important point is that **the original text of the (Shu King|書經)
-makes no mention of such orgies**.
+But the important point is that the original text of the (Shu King|書經)
+makes no mention of such orgies.
 --
 --
 The commentary [.《書經集傳》 by (Ts(')ai Ch(')(e^)m|蔡沈)][集傳]
